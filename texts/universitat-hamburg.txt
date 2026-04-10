@@ -1,0 +1,473 @@
+# Universität Hamburg
+# Source: https://www.uni-hamburg.de/lehre-navi/lehrende/orientierungsrahmen-gki/orientierungsrahmen-gki.pdf
+# Date: 2025-11-24
+# Category: guideline
+# Download file: universitat-hamburg.pdf
+
+Orientierungsrahmen der UHH zum Umgang mit 
+generativen KI-Systemen in Studium und Lehre
+Beratungskreis Digitalisierung in der Lehre der UHH1
+STAND 24.11.2025
+Zweck und Überblick
+Mit diesem Dokument wird für die Universität ein Orientierungsrahmen zur Nutzung generati-
+ver Künstlicher Intelligenz (gKI) in Lehre und Studium abgesteckt. Er zeigt Möglichkeiten auf, 
+wie man gKI in Studium und Lehre unter der Leitidee „Bildung durch Wissenschaft“ 
+(https://www.uni-hamburg.de/uhh/profil/leitbild/lehre.html) einsetzen kann. Der Formulie-
+rung dieses Rahmens liegt die Annahme zugrunde, dass sich das Feld der gKI weiter dynamisch 
+entwickeln wird. Deshalb wird dieser regelmäßig (jährlich) vom Beratungskreis Digitalisierung 
+in der Lehre für das Präsidium der UHH geprüft und aktualisiert.
+Der Orientierungsrahmen der UHH zum Umgang mit gKI richtet sich an Fakultäten, Fachberei-
+che und Fächer. Diese können und sollen innerhalb des abgesteckten Rahmens eigene konkreti-
+sierte Lehr-, Lern- und Prüfungsempfehlungen geben und Regelungsnotwendigkeiten benen-
+nen. Ihnen obliegt auch die Aufgabe, diese Empfehlungen in geeigneter Form an die Studieren-
+den zu kommunizieren. Eine Übersicht über die Empfehlungen der Fakultäten finden Sie unter 
+https://www.uni-hamburg.de/lehre-navi/lehrende/orientierungsrahmen-gki
+Einleitend wird für den Kontext des Orientierungsrahmens der Begriff „generative KI“ definiert. 
+Die nachfolgenden Abschnitte erörtern didaktische Grundsätze für die Nutzung von gKI in Stu-
+dium und Lehre an der UHH auf einer überfachlichen Ebene. Ergänzt wird der Rahmen mit aus-
+führlichen Anlagen mit Hinweisen zum Prüfungs-, Urheber- und Datenschutzrecht im Kontext 
+der Nutzung von gKI.
+Bestimmung „Generative KI“
+Für den Kontext dieses Orientierungsrahmens verstehen wir generative KI-Systeme (gKI-Sys-
+teme) als digitale Systeme, deren Technologien auf maschinellem Lernen beruhen. Sie erzeu-
+gen ausgehend von bestehenden sehr großen Datensätzen „Output“ in verschiedenen Medien-
+formaten (z. B. Texte, Bilder, Audio- oder Videodateien) oder bearbeiten von Nutzer:innen ein-
+gegebene Daten weiter. gKI-Systeme werden durch Anfragen bzw. Aufträge von Nutzer:innen – 
+sogenannte Prompts – gesteuert. Als Reaktion auf Prompts werden dann z. B. von textgenerie-
+renden KI-Systemen Texte auf der Grundlage von statistischen Informationen über Sprache 
+(Abfolgemuster, Kompositionsstrukturen) erzeugt. Das Herzstück textgenerierender KI-Sys-
+teme sind Large Language Models (LLMs). LLMs (im Folgenden „Sprachmodelle“) beruhen auf
+1
+Vizepräsidentin Prof. Dr. Natalia Filatkina, Prof. Dr. Ulrich Fritsche, CDO Prof. Dr. Sebastian Gerling, 
+André Görz, Prof. Dr. Gabi Reinmann, Prof. Dr. Kai-Uwe Schnapp (bis Mai 2025), Prof. Dr. Heike Zinsmeister. Der 
+Beratungskreis dankt Christina Schwalbe (Fakultät für Erziehungswissenschaft) sowie Susanne Zemene und 
+Martin Robinius (Abteilung 3 der Präsidialverwaltung) für die aktive Mitarbeit an der Formulierung des Orien-
+tierungsrahmens, und zusätzlich Susanne Zemene und Martin Robinius für die Erarbeitung der rechtlichen 
+Anhänge.
+
+---
+
+Seite 2/10
+künstlichen neuronalen Netzen, einem komplexen Verfahren maschinellen Lernens. Mit diesen 
+künstlichen neuronalen Netzen werden aus riesigen Trainingsdatensätzen Sprachmodelle ent-
+wickelt, die menschliches Sprachverhalten imitieren und verschiedene Textoperationen vor-
+nehmen können (Antworten, Fortführen, Zusammenfassen, Übersetzen, Umwandeln etc.). Ein 
+prominentes Beispiel für KI-Textgeneratoren ist ChatGPT – ein auf menschliche Konversation 
+optimiertes Sprachmodell.
+Der von gKI-Systemen erzeugte Output ist aufgrund der systemimmanenten Eigenschaften 
+von Sprachmodellen nicht 1:1 reproduzierbar. Ein neuer, gleichartiger Prompt erzeugt lediglich 
+eine gleichartige, aber nicht die gleiche Antwort.
+Bei neueren gKI-Systemen können sprachmodellbasierte Generierung und klassisches Retrieval 
+(vgl. klassische Suchmaschinen) verknüpft werden. Beim Output dieser Retrieval-Augmented 
+Generation (RAG) greift die gKI sowohl auf die Informationen des Sprachmodells als auch auf 
+die aktuellen Suchergebnisse zurück.
+Grundsätzliche Überlegungen zum didaktischen Einsatz 
+von gKI-Systemen
+gKI ist kein flüchtiges Phänomen, und sie ist eine Technologie mit mannigfaltigen Auswirkun-
+gen auf alle Gesellschaftsbereiche. Sie wird Gesellschaft und gesellschaftliche Entwicklung zu-
+künftig maßgeblich mitprägen. Daher muss es das Anliegen von Universitäten sein, die Ent-
+wicklung und Nutzung von gKI nicht nur in der Forschung, sondern auch in Studium und Lehre 
+aktiv mitzugestalten. Vor dem Hintergrund der Twin Transformation sind hier auch Aspekte 
+der Nachhaltigkeit, z.B. Ressourcenverbrauch durch gKI2 zu berücksichtigen. Die Universität 
+Hamburg sieht sich daher vor die Aufgabe gestellt,
+§
+sich mit gKI kontinuierlich sowohl überfachlich als auch fachspezifisch in Studium und
+Lehre auseinanderzusetzen und an Entwicklungen in diesem Bereich mit eigenen Zielen
+mitzuwirken;
+§
+gKI inhaltlich und methodisch in die Lehre zu integrieren, um Kompetenzen für den kri-
+tischen und verantwortungsvollen Umgang mit gKI aufzubauen;
+§
+Lehrende und Studierende bestmöglich dabei zu unterstützen, gKI-Systeme nach den
+Regeln guter wissenschaftlicher Praxis anzuwenden und – soweit das möglich ist – ver-
+antwortungsvoll zu gestalten;
+§
+Aspekte von Nachhaltigkeit und Ressourcenverbrauch von gKI zu thematisieren und ei-
+nen bewussten Einsatz von gKI zu fördern.
+In Studium und Lehre
+§
+sollte die Verwendung von gKI daher in Überstimmung mit den Zielen und Inhalten ei-
+nes Studiengangs in Lehr-Lern-Settings aktiv erprobt und eingeübt werden;
+§
+sollte die Verwendung von gKI auf das jeweilige Kompetenzniveau der Studierenden
+und die Studienphase abgestimmt sein;
+§
+sollte mit Studierenden stets reflektiert werden, wie sie gKI im Rahmen des Studiums
+nutzen und die Vorzüge und Potenziale ebenso thematisiert werden, wie die Risiken,
+auch wenn nicht explizit gKI in der Lehrveranstaltung verwendet wird;
+§
+sollten Art und Umfang der Nutzung von gKI in Veranstaltungsbeschreibungen trans-
+parent gemacht werden.
+2 Eine Darstellung der CO2-Produktion von UHHGPT (Schätzwert) finden Sie unter https://uhhgpt.uni-
+hamburg.de/uhh-gpt-stat.html
+
+---
+
+Seite 3/10
+Werden gKI-Systeme in Studium und Lehre eingesetzt,
+§
+sind Konsequenzen für die Kompetenzentwicklung der Studierenden (z. B. im wissen-
+schaftlichen Schreiben oder kritischen Denken) stets zu reflektieren und gKI so zu nut-
+zen, dass diese Kompetenzentwicklung gefördert und nicht etwa behindert wird;
+§
+sind geeignete didaktische Wege zu entwickeln, die verhindern, dass durch den Einsatz
+von gKI-Systemen als wertvoll oder wichtig erachtete und/oder in den Qualifikations-
+zielen definierte Kompetenzen verloren gehen oder gar nicht erst aufgebaut werden
+(Deskilling);
+§
+ist konsequent darauf zu achten, dass die Regeln guter wissenschaftlicher Praxis auch
+für den Einsatz von gKI-Systemen gelten und entsprechend angemessene Wege gefun-
+den werden, deren Einsatz zu dokumentieren. (Siehe dazu auch die fakultätsspezifi-
+schen Ausführungen, die im Lehre-Navi zu finden sind);
+§
+sollen in geeigneter Weise ethische Probleme thematisiert werden wie etwa das Urhe-
+berrecht in Bezug auf die Trainingsdaten und die Reproduktion von Stereotypen in
+Sprachmodellen oder die lokale und globale Nutzungsgerechtigkeit bei deren Einsatz.
+Im Folgenden werden Optionen zum produktiven Einsatz von gKI in Lehre und Studium auf ei-
+ner allgemeinen (überfachlichen) Ebene formuliert.
+Optionen für den didaktischen Einsatz
+Der reflektierte und didaktisch motivierte Umgang mit gKI-Systemen ist integrativer Bestand-
+teil einer zukunftsorientierten Hochschullehre, die Studierende bestmöglich auf künftige Auf-
+gaben in Gesellschaft, Beruf und Forschung vorbereitet. Die breite Verfügbarkeit von gKI-Syste-
+men macht es notwendig, Studium und Lehre inklusive der dazugehörigen Prüfungsarten und -
+formate weiterzuentwickeln. Dies wird disziplin- und fachspezifisch unterschiedlich geschehen. 
+Die folgenden Optionen stecken einen breiten überfachlichen Rahmen ab, innerhalb dessen Fa-
+kultäten, Fachbereiche, Studienprogramme und einzelne Lehrende eigene Leitlinien oder Vor-
+gaben ausgestalten und spezifizieren können. Diese Optionen sollen Impulse geben für die Be-
+stimmung fakultäts- und fachspezifischer Empfehlungen.
+In Studium und Lehre sind Bedingungen zu schaffen, die eine eigenverantwortliche und reflek-
+tierte sowie den rechtlichen Vorgaben genügende Nutzung von gKI-Systemen unterstützen. 
+Den Lehrenden kommt in diesem Prozess eine besondere didaktische und moralische Verant-
+wortung zu. Für Lehrende – einschließlich ihrer Rolle als Forschende – und Studierende ist es 
+wichtig, dass sie
+§ einen reflektierten und verantwortungsvollen Umgang mit gKI pflegen sowie deren
+Grenzen und Fehlerquellen kennen und berücksichtigen,
+§ KI-generierte Inhalte stets auf ihre Richtigkeit hin kontrollieren, etwa durch Prüfung ih-
+rer Plausibilität oder die Nutzung anderer zusätzlicher Quellen,
+§ gKI ausschließlich unter Einhaltung der gesetzlichen Regeln und weiterer rechtlicher
+Vorgaben etwa in Prüfungs- oder Studienordnungen sowie im Daten- und Urheber-
+rechtsschutz in Studium, Lehre und Forschung nutzen,
+§ die Grundsätze guter wissenschaftlicher Praxis auch beim Einsatz von gKI-Systemen re-
+flektieren und einhalten,
+§ bei intensiver und regelhafter Anwendung von gKI die erzielten Vorzüge mit Risiken
+von Kompetenz- und Kontrollverlusten abwägen,
+§ über die sozialen Randbedingungen und Folgen des Einsatzes von gKI reflektieren,
+§ sich über die Entwicklung von gKI auf dem Laufenden halten und Angebote der Fakultä-
+ten (z.B. DL-Büros der Fakultäten) sowie zentraler Einrichtungen (z. B. Hamburger Zent-
+rum für Universitäres Lehren und Lernen inklusive Schreibzentrum sowie den Lehre-
+
+---
+
+Seite 4/10
+Navi und den KI-Guide der UHH für Studierende (Study smart – with AI) zur Qualifizie-
+rung nutzen.
+Um ihre Verantwortung wahrzunehmen, können Lehrende unter anderem:
+§
+gKI selbst erproben, um deren Einsatzmöglichkeiten kennenzulernen und Ideen zu entwi-
+ckeln, wie sich diese Systeme in der eigenen Lehre sinnvoll und rechtssicher verwenden
+lassen,
+§
+Einsatzszenarien für gKI auf Basis ihrer Lehrziele und -inhalte kreieren, erproben und mit
+Studierenden und Kolleg:innen besprechen,
+§
+Studierenden den reflektierten Umgang mit gKI als Unterstützungsmöglichkeit für die
+Bewältigung verschiedener Aufgaben erläutern und in einem begründeten Rahmen er-
+möglichen,
+§
+Studierende in die Nutzung von gKI bei fachspezifischen Forschungsprozessen einführen
+und für damit verbundene Handlungsmöglichkeiten und -begrenzungen sensibilisieren,
+§
+gKI entlang der jeweiligen Fachdisziplin zum Analyse- und Forschungsgegenstand machen,
+§
+gKI als Unterstützung für die Erstellung von Lehrmaterialien, Aufgaben und Prüfungen aus-
+probieren, auf deren Tauglichkeit kritisch überprüfen und mit Kolleg:innen austauschen.
+Studierende können gKI unter anderem
+§
+zur Initiierung und Verbesserung von Schreibprozessen verwenden, z. B. indem sie sich
+Ideen für Themen generieren, Hilfestellungen beim sprachlichen Ausdruck geben oder
+Textpassagen übersetzen lassen,
+§
+zur Individualisierung und Strukturierung von Lerninhalten nutzen, z. B. indem sie sich
+verfügbare Inhalte gemäß den eigenen Bedürfnissen zusammenstellen oder anreichern
+oder sich individuelle Lernpläne erstellen lassen,
+§
+als unterstützenden Interaktionspartner in der Bearbeitung von Aufgaben nutzen, die
+Kreativität erfordern, um z. B. eigene Ideen anzureichern, Fragestellungen zu diskutieren
+oder Gegenargumente zu finden,
+§
+zur Überprüfung und Verbesserung selbst erbrachter Leistungen verwenden, z. B. indem
+sie einen Programmcode prüfen lassen.
+Dabei sollten Studierende ihre Entscheidungen, gKI im Studium einzusetzen, abwägend treffen 
+und mit ins Kalkül ziehen, dass durch gKI ermöglichte "Abkürzungen" mit verschiedenen Risi-
+ken für den eigenen Bildungsprozess verbunden sind. Der KI-Guide für Studierende der UHH 
+(Study smart – with AI) bietet Studierenden Orientierung bei der Entwicklung eines reflektier-
+ten Umgangs mit gKI.
+Die Initiative einzelner Lehrender zur Nutzung von gKI in Lehrveranstaltungen reicht jedoch 
+nicht aus. Vielmehr ist es notwendig, die KI-Entwicklungen auch curricular bzw. inhaltlich auf 
+der Studiengangebene aufzugreifen. Dabei ist zu prüfen, welche veränderten Kompetenzanfor-
+derungen in der Berufswelt, auf die hin ausgebildet wird, in der Gesellschaft insgesamt wie 
+auch auf dem Gebiet der Forschung sichtbar werden und was das für die Persönlichkeitsbil-
+dung bedeutet. Es kann davon ausgegangen werden, dass mindestens folgende fachspezifisch 
+auszugestaltende Kompetenzen wichtig sind und bleiben:
+§
+digitale und Daten-Kompetenzen,
+§
+Sprach- und Textkompetenzen,
+§
+Beurteilungs-, Bewertungs- und Reflexionskompetenzen,
+§
+Methodenkompetenzen und Kompetenz zum ethischen Handeln.
+Die Studiengangverantwortlichen sollen deshalb regelmäßig die Aktualität der in den Fachspe-
+zifischen Bestimmungen definierten Studiengangziele sowie die Qualifikationsziele in den Mo-
+dulbeschreibungen überprüfen und ggf. mittels Fakultätsratsbeschluss anpassen.
+
+---
+
+Seite 5/10
+Anlagen
+1 Prüfungsrechtliche Hinweise
+1.1. Prüfungen, in denen der Einsatz von gKI zugelassen ist
+1.1.1. Festlegung der Zulässigkeit von gKI als Hilfsmittel
+Für jede Prüfung müssen die jeweiligen Prüfenden bzw. die Prüfungsausschüsse festlegen, ob 
+gKI-Systeme als Hilfsmittel zugelassen sind. Bei Prüfungen, die nicht unter Aufsicht durchge-
+führt werden, wie z. B. Hausarbeiten oder Take Home Exams, sollte bei der Festlegung berück-
+sichtigt werden, dass ein rechtssicherer Nachweis der (unerlaubten) Nutzung von gKI-Syste-
+men schwer bis nicht möglich ist. Vor diesem Hintergrund erscheint es sinnvoll, gKI-Systeme 
+bei Prüfungen ohne Aufsicht als Hilfsmittel grundsätzlich zuzulassen. Durch geeignete Vorga-
+ben ist dann sicherzustellen, dass eine Prüfungsleistung weiterhin als eigenständig erbracht 
+gelten kann, und dass die Nutzung von gKI durch die Studierenden in geeigneter Weise belegt 
+wird (siehe unten).
+Die für einen Leistungsnachweis konkret zugelassenen Hilfsmittel werden gemäß der jeweils 
+geltenden Prüfungsordnung von den Prüfenden und/oder den Prüfungsausschüssen festgelegt 
+und vor der Prüfung bekannt gegeben. Die Konsequenzen, die die Verwendung nicht zugelasse-
+ner Hilfsmittel in Prüfungen nach sich zieht, sind in den Prüfungsordnungen geregelt. In der Re-
+gel führt die Benutzung nicht zugelassener Hilfsmittel dazu, dass die Prüfungsleistung mit 
+„nicht ausreichend“ bzw. „nicht bestanden“ bewertet wird.
+1.1.2 Unzulässigkeit und Kennzeichnungspflicht
+Die Zulässigkeit von gKI als Hilfsmittel endet da, wo nicht unerhebliche Teile der abgegebenen 
+Leistung von Textgeneratoren stammen und wo diese nicht als solche gekennzeichnet sind. 
+Was als „nicht unerheblicher Teil“ gelten soll, ist fachlich unterschiedlich, und muss daher in 
+den Fakultäten, Fachbereichen und Fächern diskutiert werden. Die Letztentscheidung liegt vor 
+dem Hintergrund eines fachbezogenen Verständnisses dann im Ermessen der prüfenden Per-
+son.
+In jedem Falle muss der Einsatz von gKI transparent erfolgen. Wie die Kennzeichnung bzw. der 
+Nachweis im Einzelnen aussehen soll, muss in den Fakultäten, Fachbereichen oder Fächern ge-
+regelt werden. Dazu können folgende Leitlinien beitragen:
+§
+Wird der Output von gKI-Systemen übernommen (z. B. paraphrasierend oder sinnge-
+mäß) muss jede solche Textübernahme in der Arbeit ausdrücklich gekennzeichnet und
+in geeigneter Weise dokumentiert sein. Von wortwörtlichen Übernahmen wird dabei
+grundsätzlich abgeraten.
+§
+Werden generative KI-Systeme zur (Weiter-)Bearbeitung eigener Texte oder Daten ver-
+wendet, müssen die verwendeten Werkzeuge unter Angabe des Verwendungszwecks
+summarisch in der Arbeit aufgelistet werden, z. B. in einem Verzeichnis.
+§
+Werden generative KI-Systeme für eine Arbeit als Suchassistenten eingesetzt, z. B. bei
+der Literaturrecherche, dann ist die Nutzung solcher Systeme ebenfalls listenartig zu
+dokumentieren.
+Beispiele dafür, wie die geforderten Dokumentationen aussehen können, finden sich in den fa-
+kultätsspezifischen Empfehlungen (siehe Lehre-Navi).
+
+---
+
+Seite 6/10
+1.1.3 Verantwortlichkeit
+Schließlich gilt: Wenn die Nutzung von gKI-Systemen in einer Prüfung als Hilfsmittel zugelas-
+sen ist, und wenn Studierende gKI-Systeme tatsächlich nutzen, so sind diese für die generierten 
+Inhalte, die Einhaltung urheberrechtlicher Bestimmungen sowie die wissenschaftliche Integri-
+tät ihres Leistungsnachweises selbst verantwortlich.
+1.1.4 Eigenständigkeitserklärungen
+Die Prüfungsordnungen der UHH enthalten Regelungen zur Eigenständigkeitserklärung bei der 
+Abgabe von Prüfungsleistungen. Zurzeit beziehen sich diese meist auf Abschlussarbeiten sowie 
+die Prüfungsart „Take Home Exam“, systematisch können diese Regelungen sich aber auf alle 
+Prüfungsarten beziehen, wenn Prüfungsordnungen dies ausdrücklich vorsehen. Mit der Eigen-
+ständigkeitserklärung bestätigen die Studierenden, dass sie die Leistung eigenständig und un-
+ter Nutzung keiner anderer als der angegebenen Hilfsmittel verfasst haben. Die Verwendung 
+von gKI-Systemen ist damit grundsätzlich bereits miterfasst.
+Um Unsicherheiten bei der Interpretation des Begriffes „Eigenständigkeit“ zu verringern, sollte 
+dieser gleichwohl in den Fakultäten, Fachbereichen und Fächern inhaltlich näher bestimmt 
+werden. Es empfiehlt sich, die Tauglichkeit der Bestimmung in direkter Auseinandersetzung 
+mit gKI zu erproben und zu erörtern. Hierbei sind Studierende möglichst einzubeziehen.
+Sinnvolles Element einer solchen Bestimmung kann es sein, ein Format für das Auflisten zuge-
+lassener Hilfsmittel zu entwickeln. Anregungen hierzu finden sie in den fakultätsspezifischen 
+Empfehlungen (siehe Lehre-Navi).
+1.2 Prüfungen, in denen der Einsatz von gKI untersagt ist
+Soll der Einsatz von gKI-Systemen bei der Erbringung von Prüfungsleistungen (aus verschiede-
+nen Gründen) unterbunden werden, empfiehlt es sich,
+§
+bei Prüfungen den Schwerpunkt von der Produktbewertung auf die Bewertung des
+Lern- bzw. Erstellungsprozesses zu verlagern, z. B. indem von Studierenden eine Doku-
+mentation und/oder Reflexion der Prozesse verlangt wird,
+§
+schriftliche Leistungen mit Hilfe persönlicher Gespräche zu überprüfen oder durch
+mündliche Prüfungen zu ersetzen, sofern die Fachspezifischen Bestimmungen dies er-
+möglichen (ggf. sind diese entsprechend anzupassen),
+§
+in den Fakultäten zu diskutieren, welche alternativen Formen zu schriftlichen Leistun-
+gen für das Fachgebiet gewählt werden können, die eine Nutzung von gKI ausschließen,
+wobei  die Fachspezifischen Bestimmungen zu berücksichtigen oder ggf. entsprechend
+anzupassen sind,
+§
+Aufgabenstellungen zu formulieren, die durch die Verwendung von gKI nicht sinnvoll
+lösbar sind,
+§
+Prüfungen synchron in Präsenz unter Prüfungsaufsicht durchzuführen.
+2 Urheberrechtliche Hinweise
+2.1 Urheberschaft an gKI-generierten Werken
+Gemäß den Regelungen des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG) 
+kann die gKI keine urheberrechtlich geschützten Werke erzeugen, da Voraussetzung hierfür 
+eine persönliche geistige Schöpfung ist. Erforderlich hierfür ist eine menschlich-gestalterische
+
+---
+
+Seite 7/10
+Tätigkeit. Deswegen sind die von der gKI selbst generierten Erzeugnisse grundsätzlich gemein-
+frei, d. h. von der Allgemeinheit frei nutzbar. Dagegen können Nutzende als Schöpfer von Wer-
+ken dann Urheber sein, wenn sie die gKI lediglich als Hilfsmittel für eigene gestalterische Tätig-
+keit verwenden. Entscheidend ist dabei ein erhebliches Maß an geistiger Eigenleistung und Ein-
+flussnahme im Gestaltungsprozess. Diese sog. Schöpfungshöhe muss auch in den Werken zum 
+Ausdruck kommen.
+Allerdings können für bestimmte gKI-Erzeugnisse Leistungsschutzrechte bestehen, die eine 
+wirtschaftliche und organisatorische Leistung belohnen, so z.B. für KI-generierte Filme als Lauf-
+bilder oder KI-generierte Presseerzeugnisse als Presseveröffentlichungen.
+2.2 Urheberrechtlich geschützte Inhalte in gKI-generierten Werken
+Falls Anhaltspunkte dafür ersichtlich sind, dass in den gKI-generierten Werken auch fremde ge-
+schützte Inhalte enthalten sind, insbesondere im Sinne einer 1:1 Übernahme, müssen die Nut-
+zenden dies mit der gebotenen Sorgfalt prüfen, z. B. mit Hilfe von Plagiatsscannern. Nur wenn 
+die 1:1 Übernahme einen so kleinen Teil des generierten Werkes darstellt, dass das übernom-
+mene Werk darin völlig aufgeht und für einen Betrachter im neuen Kontext nicht mehr erkenn-
+bar ist, ist eine derartige Übernahme zulässig. Im Einzelfall müssen die Nutzenden die erforder-
+lichen vertraglichen oder gesetzlichen Rechte haben, um diese geschützten Inhalte zu verwen-
+den, insbesondere Dritten gegenüber öffentlich zugänglich zu machen.
+2.3 Urheberschaft an Prompts
+Eingaben (Prompts) können als sog. Textwerk urheberrechtlich geschützt sein. Einfache typi-
+sche Prompts sind nicht geschützt, da die technische Funktion überwiegt und ein Freihaltebe-
+dürfnis für Dritte besteht. Dagegen kann bei detaillierten Prompts, bei denen die Nutzenden 
+selbst kreativen Inhalt liefern und dadurch gestalterische Entscheidungen treffen, ein Urheber-
+rechtsschutz entstehen.
+2.4 Urheberrechtlich geschützte Inhalte in Prompts
+Wenn neben der Arbeitsanweisung in Prompts auch fremde Inhalte enthalten sind, müssen die 
+Nutzenden im Einzelfall prüfen, ob sie die erforderlichen vertraglichen oder gesetzlichen 
+Rechte haben, um diese Inhalte in Prompts zu verwenden. Ansonsten dürfen keine urheber-
+rechtlich geschützten Inhalte in Prompts verwendet werden.
+2.5 Kennzeichnungspflichten
+Eine Kennzeichnungspflicht für gKI-generierte Werke kann sich zum einen aus den Lizenz- oder 
+Nutzungsbedingungen der Software ergeben. Verstöße können gegebenenfalls zu einer Scha-
+densersatzpflicht oder zu einem künftigen Nutzungsausschluss führen. Daher müssen die 
+„Terms of Use“ geprüft werden. Eine Kennzeichnungspflicht kann sich zum anderen aus den 
+geltenden Prüfungsordnungen, Satzungen und sonstigen Rahmenvorschriften der UHH erge-
+ben, insbesondere aus den Eigenständigkeitserklärungen für die Prüflinge oder den Regeln gu-
+ter wissenschaftlicher Praxis für die wissenschaftlich Tätigen. Bei Verstößen kann ein Täu-
+schungsversuch oder ein wissenschaftliches Fehlverhalten mit den entsprechenden Konse-
+quenzen vorliegen.
+
+---
+
+Seite 8/10
+2.6 Verwendung von gKI durch Lehrende zur Bewertung von 
+Prüfungsleistungen
+Urheberrechtliche und prüfungsrechtliche Aspekte sind zu beachten, wenn Lehrende gKI für die 
+Bewertung von Leistungen ihrer Studierenden nutzen. Urheberrechtlich sind Prüfungsleistun-
+gen geschützt und dürfen zumindest dann nicht in eine gKI eingegeben werden, wenn die Da-
+ten als Trainingsdaten oder anderweitig verwendet werden. Prüfungsrechtlich ist zu beachten, 
+dass eine Bewertung durch den Prüfenden selbst und nicht durch die gKI vorzunehmen ist. Bei 
+der Bewertung kann gKI daher nur als Hilfsmittel dienen. Maßgeblich sind im Einzelfall die kon-
+kreten Regelungen in den jeweiligen Prüfungsordnungen und Ausbildungsgesetzen. Diese se-
+hen bislang keine entsprechende Kennzeichnungspflicht für Lehrende bei der zulässigen Ver-
+wendung von gKI als Korrekturunterstützung vor.
+2.7 Text- und Data-Mining für Lehre und Forschung
+Das UrhG erlaubt für den Bereich der Lehre unter den Voraussetzungen des § 44b die Verviel-
+fältigung von rechtmäßig zugänglichen Werken für das Text- und Data-Mining (TDM). Darun-
+ter versteht man die automatisierte Analyse von einzelnen oder mehreren digitalen oder digi-
+talisierten Werken, um daraus Informationen über Muster, Trends und Zusammenhänge in 
+diesen Daten zu gewinnen. Laut eines Urteils des Landgerichts Hamburg vom 27.09.2024 fällt 
+darunter auch das Erstellen von Trainingsdatensätzen.
+Für den Bereich der wissenschaftlichen Forschung, also auch den Bereich der Forschung zu 
+Lehrzwecken, enthält § 60d UrhG eine spezielle Regelung.
+2.8 Rechtsfolgen bei Verstößen gegen das Urheberrecht
+Bei Verstößen gegen das Urheberrecht drohen Ansprüche auf Unterlassung, Schadensersatz 
+und Erstattung von Abmahnkosten. Um Haftungsrisiken zu minimieren, können nach der Ge-
+nerierung der Werke z. B. sog. Plagiatsscanner eingesetzt werden. Ob Ansprüche gegen die 
+UHH oder gegen die Nutzenden bestehen können, hängt vom Einzelfall ab. Bislang sind nur 
+Verfahren gegen die gKI-Anbieter bekannt.
+3 Datenschutzrechtliche Hinweise
+3.1 Datenschutz nur für personenbezogene Daten
+Nur wenn (fremde) personenbezogene Daten bei der Nutzung von gKI verwendet werden, sind 
+datenschutzrechtliche Vorschriften zu beachten. Dies betrifft sowohl den Input, also die Ein-
+gabe zu Trainings- und Outputzwecken, als auch den Output selbst, insbesondere bei Veröf-
+fentlichungen gegenüber Dritten.
+Nach wie vor dürfen auch bei UHHGPT keine personenbezogenen Daten verwendet werden, 
+jedenfalls solange bis die deutschen Aufsichtsbehörden ihre Prüfung abgeschlossen haben, ob 
+die Verarbeitung personenbezogener Daten im zugrundeliegenden Modell von ChatGPT über-
+haupt rechtmäßig erfolgt.
+Personenbezogene Daten sind alle Informationen, die direkt oder indirekt die Identifizierung 
+einer Person ermöglichen. Ein indirekter Personenbezug kann durch zusätzliche Informationen 
+möglich werden, so bei pseudonymisierten Daten. Anders ist dies bei anonymisierten Daten –
+weswegen im Zweifelsfall nur anonyme Daten zu verwenden sind.
+
+---
+
+Seite 9/10
+Unabhängig vom Datenschutz kann die Beachtung anderer Vorschriften erforderlich sein, wie 
+Urheberrecht, Persönlichkeitsrecht und Geheimnisschutz.
+3.2 Zugang zur gKI
+Die Nutzung von gKI in der Lehre kann nur dann verpflichtend sein, wenn gKI-Systeme zum Ein-
+satz kommen, die offiziell durch die UHH bereitgestellt werden beziehungsweise. für die von 
+der UHH Lizenzen bereitgestellt werden, z.B. UHHGPT.
+3.3 Datenschutz-Einstellungen
+Die gKI-Anbieter aus Drittstaaten wie OpenAI müssen ihre Datenschutzeinstellungen grundle-
+gend an das EU-Datenschutzrecht anpassen und werden durch die EU-KI-Verordnung dazu ver-
+pflichtet. Entsprechende Einstellungen können bei den Plattformen vorgenommen werden, 
+z. B. um den Chat-Verlauf oder die Trainingsdaten zu deaktivieren. Die UHH empfiehlt, diese
+Einstellungen vorzunehmen. Bei UHHGPT sind diese bereits voreingestellt.
+3.4 Verantwortlicher
+Wenn die gKI-Dienste – wie ChatGPT – direkt an Endkunden – wie Lehrende und Studierende – 
+angeboten werden, sind die Anbieter wie OpenAI datenschutzrechtlich für die Verarbeitung der 
+Daten verantwortlich. Wenn Behörden wie die UHH die GPT-Technologie über die OpenAI-API 
+in ihre Systeme integrieren, gelten sie als verantwortliche Stelle im Sinne des Datenschutz-
+rechts. In diesem Fall agiert OpenAI als Dienstleister und Auftragsverarbeiter.
+3.5 Datenschutzrechtliche Grundsätze
+Die für die Datenverarbeitung Verantwortlichen müssen die Einhaltung der in Art. 5 Daten-
+schutzgrundverordnung (DSGVO) aufgeführten Rechtsgrundsätze gewährleisten: Rechtmäßig-
+keit, Verarbeitung nach Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, 
+Richtigkeit, Speicherbegrenzung, Integrität, Vertraulichkeit und Rechenschaftspflicht.
+3.6 Rechtmäßigkeit der Datenverarbeitung
+Eine Verarbeitung personenbezogener Daten ist gemäß § 6 Abs. 1 DSGVO nur dann rechtmäßig, 
+wenn eine Rechtsgrundlage vorliegt. Als Rechtsgrundlagen kommen die Einwilligung (lit. a) 
+oder die Wahrnehmung einer Aufgabe im öffentlichen Interesse (lit. e), hier der Lehraufgabe, in 
+Betracht.
+Beide unterliegen strengen datenschutzrechtlichen Voraussetzungen. Auch bei aktuellen gKI-
+Modellen wie ChatGPT 4.1 ist nach wie vor noch die Rechtsgrundlage der Einwilligung proble-
+matisch, da sich zum einen die Frage der Freiwilligkeit stellt und zum anderen insbesondere 
+noch die Frage der Transparenz hinsichtlich der Informiertheit der Betroffenen offen ist. Bei der 
+Rechtsgrundlage der Wahrnehmung einer Aufgabe im öffentlichen Interesse muss insbeson-
+dere eine zweckbezogene Prüfung der Erforderlichkeit erfolgen und bei einer Abwägung das 
+Lehrinteresse das Betroffeneninteresse überwiegen.
+3.7 Besonders sensible Daten
+Art. 9 DSGVO stellt besondere Voraussetzungen für die Verarbeitung sog. besonderer Katego-
+rien personenbezogener Daten auf, aus denen die rassische und ethnische Herkunft, politische 
+Meinungen, religiöse oder weltanschauliche Überzeugungen oder die
+
+---
+
+Seite 10/10
+Gewerkschaftszugehörigkeit hervorgehen, sowie genetische Daten, biometrische Daten zur 
+eindeutigen Identifizierung einer natürlichen Person, Gesundheitsdaten oder Daten zum Sexu-
+alleben oder der sexuellen Orientierung.
+Die Verarbeitung der sensiblen Daten ist gemäß Abs. 1 grundsätzlich verboten, es sei denn, 
+diese ist ausnahmsweise gem. Abs. 2 erlaubt, insbesondere aufgrund einer ausdrücklichen Ein-
+willigung (lit. a) oder aufgrund einer offensichtlichen Veröffentlichung durch die betroffene 
+Person (lit. e).
+3.8 Datenübermittlung in Drittländer
+Unabhängig von der Frage der Rechtsgrundlage dürfen personenbezogene Daten jedenfalls 
+dann nicht in ein Drittland übermittelt werden, wenn kein angemessenes Datenschutzniveau 
+und keine Sicherheitsgarantien des gKI-Anbieters bestehen. Im Fall der USA gibt es zwar seit 
+Juli 2023 einen neuen Angemessenheitsbeschluss, der jedoch nur für Anbieter gilt, die unter 
+dem neuen EU-U.S. Data Privacy Framework zertifiziert sind (https://www.dataprivacyframe-
+work.gov/) – was bei OpenAI (noch) nicht der Fall ist. Andere geeignete Garantien liegen bisher 
+(noch) nicht für die Endkunden-Variante von ChatGPT, aber für die OpenAI-API-Variante vor 
+(Standardvertragsklauseln).
+3.9 Datenschutzbeauftragte
+Die Verarbeitung personenbezogener Daten in gKI ist mit der Datenschutzbeauftragten zu klä-
+ren.

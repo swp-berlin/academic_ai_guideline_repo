@@ -1,0 +1,312 @@
+# HAW Hamburg
+# Source: https://www.haw-hamburg.de/fileadmin/ASD/ZLL-KI/Leitfaden_zum_Einsatz_von_KI-Tools_in_Lehre__Froschung_und_Verwaltung_2025_07_28.pdf
+# Date: 2025-07-25
+# Category: guideline
+# Download file: haw-hamburg.pdf
+
+Leitfaden zum Einsatz von KI-Tools in Lehre, Forschung und Verwaltung an der Hochschule
+für Angewandte Wissenschaften Hamburg
+Das Präsidium der Hochschule für Angewandte Wissenschaften Hamburg hat am 6. August 2025 nach 
+§ 79 Absatz 2 Nr. 12 des Hamburgischen Hochschulgesetzes (HmbHG) vom 18. Juli 2001 (HmbGVBl. 
+S. 171), zuletzt geändert am 19. Februar 2025 (HmbGVBl. S. 241), den KI-Leitfaden der Hochschule für 
+Angewandte Wissenschaften Hamburg in der nachstehenden Fassung beschlossen.
+A. Allgemeines
+Dieser Leitfaden dient als verbindlicher Orientierungsrahmen für alle Beschäftigten. Er soll klare 
+Richtlinien und Unterstützung im Umgang mit Künstlicher Intelligenz (KI) bieten, um sicherzustellen, 
+dass verantwortungsvoll und effizient mit dieser Technologie gearbeitet wird. Durch die Einhaltung 
+dieser Vorgaben tragen Sie dazu bei, die Vorteile der KI optimal zu nutzen und mögliche Risiken zu 
+minimieren.
+I. 
+Was ist Künstliche Intelligenz (KI)?
+Unter Künstlicher Intelligenz wird heute die Anwendung von Verfahren maschinellen Lernens 
+verstanden. Dies beinhaltet die automatische Erkennung von Mustern, (z.B. Empfehlungssysteme 
+und Vorhersagemodelle) und, unter der Bezeichnung „Generative KI“ das Verwenden von Large 
+Language Modells (LLMs) zum Verstehen und Erzeugen von natürlicher Sprache, (z.B. Chatbots). Zur 
+Generativen KI zählen auch Programme der Bilderkennung und -generierung.  Der Begriff KI hat 
+seine Bedeutung mehrfach verändert und kann sich je nach Stand der technischen Entwicklung 
+weiter verändern. 
+ 
+Auf Grund der leichten Zugänglichkeit und der zu vermutende Veränderung des wissenschaftlichen 
+Arbeitsprozesses durch LLM gestützte KI Generatoren ist es in besonderem Maße geboten den 
+Umgang mit diesen Systemen innerhalb der Hochschule rechtlich einzuordnen.
+
+II. 
+Diese KI-Tools können an der HAW Hamburg genutzt werden
+Mitarbeitende, Lehrende und Studierende können den Copilot Chat als Teil von Microsoft365 nutzen, 
+wenn sie mit ihrer HAW-Kennung angemeldet sind. Andere Dienste funktionieren ganz ohne 
+Anmeldung (z. B. die Chatbox-Arena) bzw. laufen lokal auf dem eigenen Rechner (GPT4All und 
+OLLAMA ).
+Der Copilot Chat ist mit dem von ChatGPT vergleichbar und kann auch eine limitierte Anzahl an 
+Bildern erstellen.
+Arena, GPT4All und OLLAMA erlauben ohne Anmeldung den Vergleich verschiedener Sprachmodelle, 
+u.a. GPT 4 oder GPT 4.o. Bitte beachten Sie hier die Nutzungsbedingungen, die u.a. eine Verarbeitung 
+persönlicher und sensibler Daten ausschließen sollten.
+Bei GPT4All und OLLAMA können lokal verschiedene Modelle installiert werden, die in geringerer 
+Geschwindigkeit, aber ohne Internetverbindung genutzt werden können.
+Weitere KI-Tools können zur Nutzung freigegeben werden. Dies setzt voraus, dass die KI-Tools geprüft 
+und dokumentiert werden, um zu bewerten, welche Verpflichtungen nach der KI-Verordnung zu 
+ergreifen sind. Weitere freigegebene Tools werden in einer Anlage zu diesem Leitfaden aufgeführt.
+
+Stand 25.07.25
+1
+
+---
+
+III. 
+Bei der Nutzung von KI zu beachten 
+ 
+1) Geheimnisschutz und Datenschutz
+Bei der Nutzung von KI sind Regelungen zur Vertraulichkeit (z. B. Amtsgeheimnis) zu beachten.
+Geben Sie keine vertraulichen Daten in KI-Systeme ein, insbesondere nicht, bei geplanter 
+Veröffentlichung der Inhalte.
+Werden personenbezogene Daten bei der Verwendung einer KI genutzt werden, gilt zudem das 
+Datenschutzrecht. Dieses betrifft die
+- 
+Eingabe personenbezogener Daten in die KI 
+- 
+KI generierten Ergebnisse 
+- 
+Anmeldedaten der die KI nutzenden Personen 
+- 
+Metadaten (z.B. IP-Adresse)
+Bei der Eingabe personenbezogener Daten in ein KI-System sind durch die HAW Hamburg alle mit 
+der 
+Verarbeitung 
+personenbezogener 
+Daten 
+einhergehenden 
+datenschutzrechtlichen 
+Verpflichtungen einzuhalten.
+Sobald personenbezogene oder personenbeziehbare Daten in ein öffentlich zugängliches KI-System 
+eingegeben werden, hat die HAW Hamburg – zumindest bei den meisten aktuell eingesetzten KI-
+Systemen - keine weitere Kontrolle über deren Verwendung. D. h. die HAW Hamburg kann die ihr 
+obliegenden datenschutzrechtlichen Verpflichtungen nicht erfüllen. Die Daten liegen auf dem Server 
+des Anbieters des KI-Systems und unterliegen dessen Kontrolle. Viele Anbieter von KI-Systemen 
+räumen sich – je nach konkretem Lizenzmodell – das Recht ein, die eingegebenen Daten auch zu 
+eigenen Zwecken weiterzuverwenden. Beispielsweise geben einige Anbieter an, dass die Eingaben 
+für das Training des KI-Systems weiterverwendet werden. Dies kann dazu führen, dass anderen 
+Nutzer*innen Informationen aus diesen Eingaben weitergegeben werden könnten. Dies wäre 
+datenschutzrechtlich unzulässig. Die gleichen Probleme gelten selbstverständlich auch bei der 
+Eingabe vertraulicher Daten.
+Das heißt:
+Stellen Sie sicher, dass keine vertraulichen oder nicht-öffentlichen Daten in KI-Systeme 
+eingegeben werden! Soweit es sich bei den einzugebenden Daten nicht um vertrauliche 
+Informationen handelt, müssen sämtliche personenbezogene oder personenbeziehbare 
+Daten entfernt werden!
+2) Umgang mit geistigem Eigentum
+Durch die Nutzung von KI können Rechte Dritter, wie z. B. Urheberrechte verletzt werden.
+D. h., dass beispielsweise die Eingabe urheberrechtlich geschützter Texte oder Bilder in eine KI 
+ohne Zustimmung des*der Rechteinhaber*in unzulässig ist.
+Zudem kann durch die Eingabe von Informationen in ein KI-Tool die Schutzrechtsfähigkeit beseitigt 
+werden. Ein Beispiel: Voraussetzung, dass eine Erfindung zum Patent angemeldet werden kann, ist, 
+dass die Erfindung neu ist. Dies ist der Fall, wenn diese nicht zum Stand der Technik gehört. Der Stand 
+der Technik umfasst alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag 
+durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der 
+Öffentlichkeit zugänglich gemacht worden sind. Auch Informationen, die Sie selbst veröffentlicht 
+haben, zählen zum Stand der Technik.
+Stand 25.07.25
+2
+
+---
+
+Das heißt:
+Geben Sie keine Inhalte an denen Rechte von anderen bestehen, ohne deren Zustimmung in 
+ein KI-Tool ein!
+Geben 
+Sie 
+keine 
+Informationen 
+in 
+ein 
+KI-Tool 
+ein, 
+die 
+im 
+Hinblick 
+auf 
+eine 
+Schutzrechtsanmeldung, zum Beispiel eine Anmeldung zum Patent, schädlich sein könnte!
+Zudem können Sie sich auch bezüglich der Ausgaben von KI-System nicht sicher sein, ob die 
+entsprechenden Inhalte frei von Rechten Dritter sind. Die eigenen Schöpfungen eines KI-Systems 
+unterliegen keinem besonderen Schutz. Sofern das KI-System aber einen Inhalt generiert, der sich 
+von einem beispielsweise urheberrechtlich geschützten Werk in seinen Trainingsdaten kaum 
+unterscheidet, könnten die Rechte dieses Urhebers dadurch beeinträchtigt werden.
+Zwar sollen die Anbieter von KI-Systemen dafür Sorge tragen, dass Ausgaben frei von Rechten Dritter 
+sind, dies funktioniert bisher aber nicht in allen Fällen fehlerfrei.
+Gerade bei der Erzeugung von Bildern ist daher zu beachten, dass die Eingaben so verfasst werden, 
+dass eine möglichst weitgehende eigene Schöpfung des KI-Systems garantiert wird.
+3) Transparenz
+Mit generativer KI erstellte Inhalte, wie Bilder oder Videos müssen als solche gekennzeichnet 
+werden, sofern diese als „Deepfake“ (Art. 3 Nr. 60 KI-VO) zu klassifizieren sind. Um 
+Abgrenzungsschwierigkeiten zu vermeiden, sollten die mit generativer KI erstellten Inhalte 
+grundsätzlich gekennzeichnet werden.
+Dies gilt auch für Texte, es sei denn, es hat eine Überarbeitung stattgefunden.
+Besondere Informationen zu Kennzeichnungspflichten für den Bereich Lehre und Prüfungen sind 
+unter HAW-Hamburg: KI in der Lehre abrufbar.
+4) IT-Sicherheit
+Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem 
+Umfang zu entwickeln. Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu 
+erwarten.
+Daraus ergibt sich für die Beschäftigten der HAW Hamburg folgende Handlungsanleitung:
+- 
+Seien Sie vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten 
+Formulierungen immer raffinierter. Auch menschliche Stimmen können täuschend echt imitiert 
+werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden. 
+Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives 
+Phishing. Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf 
+antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende 
+Informationen übermittelt werden sollen. 
+- 
+Befolgen Sie bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der 
+Cyberkriminalität durch generative KI. Wenn Sie unsicher sind oder verdächtige Nachrichten 
+melden möchten, wenden Sie sich bitte an: security@haw-hamburg.de. 
+ 
+5) Kritischer Umgang mit KI generierten Ergebnissen
+KI-generierte Ergebnisse sind nicht immer frei von Fehlern und Diskriminierungen.
+Stand 25.07.25
+3
+
+---
+
+Die von Ihnen generierten Ergebnisse sind daher stets kritisch auf inhaltliche Richtigkeit zu 
+überprüfen. Daneben sind die KI generierten Ergebnisse auf Diskriminierungsfreiheit zu 
+kontrollieren.
+Siehe hierzu das HOOU-Lernangebot „KI und Diversität“
+6) Vorgaben der KI-Verordnung
+Die Verordnung über künstliche Intelligenz (KI-VO) der Europäischen Union ist am 1. August 2024 in 
+Kraft getreten. Durch diese obliegen der HAW Hamburg verschiedene Pflichten, wie Dokumentations- 
+oder Transparenzpflichten.
+a) Kein Inverkehrbringen, keine Inbetriebnahme und keine Verwendung verbotener KI-Praktiken
+(Art. 5 KI-VO)
+D. h. die Nutzung von KI-Tools mit denen ein nicht tolerierbares Risiko verbunden ist, ist durch die KI-
+VO untersagt. Zu verbotenen KI-Praktiken gehören beispielsweise die Nutzung manipulativer 
+Techniken, d. h. es dürfen keine Techniken angewendet werden, die Personen zu Entscheidungen 
+verleiten, die diese sonst nicht treffen würden, insbesondere wenn daraus erheblicher Schaden 
+entsteht, die Ausnutzung von Schutzbedürftigkeit etwa aufgrund des Alters, einer Behinderung 
+oder einer bestimmten sozialen oder wirtschaftlichen Situation, soziale Bewertung von Personen 
+oder Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen. Ebenso verboten sind 
+die biometrische Kategorisierung, also eine Ableitung bestimmter Eigenschaften einer Person (z.B. 
+Herkunft oder sexuelle Ausrichtung) auf Grundlage ihrer biometrischen Daten, Datenbanken zur 
+Gesichtserkennung oder Predictive Policing, d. h. die Ermittlung des Risikos der zukünftigen 
+Begehung von Straftaten bei einzelnen Personen.
+b) Besondere Maßnahmen bei Hochrisiko-KI-Systemen (Art. 6, Anlage 1 und 3 der KI-VO)
+Ein KI‑System ist ein Hochrisiko-KI-Systemen, wenn der Einsatz des KI-Systems ein erhebliches Risiko 
+der Beeinträchtigung von Gesundheit, Sicherheit oder einer nachteiligen Auswirkung auf die 
+Grundrechte einzelner Personen birgt.
+Hochrisiko-KI-Systeme sind beispielsweise:
+- 
+Systeme, die biometrische Daten verarbeiten 
+- 
+Systeme, die in der kritischen Infrastruktur zum Einsatz kommen 
+- 
+Systeme im Bildungsbereich: Die Bewertung von Studierenden oder die Bewertung der 
+Zulassung zu Bildungseinrichtungen/Bildungsangeboten oder die Überwachung und Erkennung 
+von verbotenem Prüfungsverhalten (Bsp.: Proctoring und KI-Detektoren)
+Systeme im Beschäftigungsverhältnis: Bewerberauswahl, Entscheidungen über Bedingungen des 
+Arbeitsverhältnisses, Zuweisung von Aufgaben aufgrund individuellem Verhalten oder persönlichen 
+Merkmalen, 
+Beobachtung 
+und 
+Bewertung 
+von 
+Leistungen. 
+Wenn 
+ein 
+KI-System 
+als 
+Sicherheitsbauteil in einem Produkt dient, kann dieses ebenfalls als Hochrisiko-KI-System 
+eingestuft werden, wenn für das Produkt eine der in Anhang I der KI-VO genannten 
+Harmonisierungsvorschriften gilt. Wenn Hochrisiko-KI-Systeme angeboten oder betrieben werden, 
+hat die HAW Hamburg besondere Maßnahmen zu ergreifen. Dabei handelt es sich insbesondere 
+um
+- 
+Risikomanagementmaßnahmen (u.a. auch eine menschliche Aufsicht) 
+- 
+Dokumentationspflichten, 
+- 
+Informationspflichten
+
+Stand 25.07.25
+4
+
+---
+
+c) Transparenzpflichten
+Wenn KI-Systeme über bestimmte Funktionen verfügen, können künftig Transparenzpflichten 
+entstehen – z. B. bei der Veränderung von Bildern oder der Interaktion mit Nutzer*innen
+d) Schulungspflichten (Art. 4 KI-VO)
+Nutzer*innen von KI-Systemen müssen über eine geeignete KI-Kompetenz verfügen. Dabei ist 
+insbesondere von Bedeutung, dass ein Grundverständnis für KI vermittelt wird, die mit der Nutzung 
+des KI-Systems einhergehenden Risiken bekannt sind und somit ein sachkundiger Einsatz von KI-
+Systemen gewährleistet werden kann. Um dies zu gewährleisten, stellt die HAW Hamburg neben 
+diesem Leitfaden auch die unter „E. Machen Sie sich KI-fit“ genannten Angebote zur Verfügung.
+B. Nutzung von KI in der Lehre
+Für den Bereich generative KI im Lehren, Lernen und Prüfen beachten Sie bitte auch die Hinweise 
+unter „HAW-Hamburg: KI in der Lehre“.
+C. KI in der Forschung
+Die KI-VO gilt nach Art. 4 Abs. 6 nicht „für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, 
+die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt 
+und in Betrieb genommen werden“.
+Des Weiteren gilt die KI-VO nach Art. 4 Abs. 8 nicht „für Forschungs-, Test- und Entwicklungstätigkeiten 
+zu KI-Systemen oder KI-Modellen, bevor diese in Verkehr gebracht oder in Betrieb genommen 
+werden.“ Hierbei ist allerdings zu beachten, dass „Tests unter Realbedingungen“ nicht unter diesen 
+Ausschluss fallen.
+Auch, soweit die KI-Verordnung keine Anwendung findet, sind die im Abschnitt A. III. 1) bis 5) 
+enthaltenen Grundsätze zu beachten.
+Sobald ein entwickeltes KI-System oder KI-Modell in den Verkehr gebracht werden soll (also auf dem 
+Unionsmarkt bereitgestellt werden soll) oder außerhalb des alleinigen Forschungszwecks in Betrieb 
+genommen werden soll, gilt die KI-VO mit all ihren auferlegten Verpflichtungen.
+Sofern ein KI-Modell oder KI-System unter einer freien und quelloffenen Lizenz (Open Source KI) 
+bereitgestellt werden soll, gibt es ebenfalls kleinere Erleichterungen bzgl. der Verpflichtungen aus der 
+KI-VO. Diese hängen allerdings von der Risikoeinstufung des KI-Modells oder KI-Systems ab und 
+sollten daher individuell geprüft werden.
+D. Beschaffungen von KI-Tools
+Neben den allgemeinen Vorgaben für Beschaffungen sind bei der Beschaffung von KI-Tools sind die 
+Vorgaben der KI-Verordnung zu beachten (siehe oben unter A., III., 6)).
+Es ist darauf hinzuweisen, dass das Angebot an KI-Tools vielfältig ist und oftmals auch nach 
+ausgiebiger Prüfung unklar sein kann, wie die mit der KI verarbeiteten Daten weiterverwendet 
+werden.
+Vor einer Beschaffung der KI sind die Risiken, die mit einer Verwendung verbunden sind zu 
+überprüfen und zu dokumentieren. Bei etwaigen Unsicherheiten ist auf die Beschaffung der KI zu 
+verzichten. Beratend stehen Ihnen die Kolleg*innen vom Multimediakontor Hamburg (MMKH) (für 
+datenschutzrechtliche Fragestellungen) und der Informationssicherheitsbeauftragte zur Verfügung.
+Keine Beschaffung von Hochrisiko-KI-Systemen ohne Freigabe durch das Präsidium der HAW 
+Hamburg.
+Stand 25.07.25
+5
+
+---
+
+E. Ressourcenverbrauch
+Die Nutzung von KI-Tools, insb. durch große Modelle, führt zu einem (hohen) Energieverbrauch und 
+CO₂-Emissionen. Daher gilt im Sinne der Nachhaltigkeitsbestrebungen der HAW Hamburg 
+unabhängig vom Anwendungsbereich in Forschung, Lehre und Verwaltung stets die Prämisse einer 
+ressourcenbewussten Verwendung.
+
+F. Machen Sie sich KI-fit!
+Das MMKH stellt für Beschäftige der Hamburger Hochschulen ein vielfältiges und
+anwendungsorientiertes Schulungsangebot sowie Veranstaltungen zu generativer KI zur
+Verfügung. Informieren Sie sich zu
+- 
+anstehenden KI-Schulungen: https://www.mmkh.de/schulungen/kuenstliche-intelligenz
+- 
+KI-Veranstaltungen 
+im 
+Kontext 
+einer 
+länderübergreifenden 
+Zusammenarbeit: 
+https://www.mmkh.de/digitale-lehre/netzwerk-landesinitiativen 
+- 
+Schulungsaufzeichnungen: https://www.mmkh.de/schulungen/aufzeichnungen  
+ 
+Zudem bietet die Hamburg Open Online University (HOOU) Veranstaltungen, Kurse und
+insbesondere Selbstlernangebote zu KI an. Informieren Sie sich zur Anwendung generativer KI
+unter:https://learn.hoou.de/blocks/course_overview_page/courses.php (Menüauswahl: Künstliche
+Intelligenz)
+Weitere Angebote speziell für den Bereich KI in der Lehre finden Sie unter HAW-Hamburg: KI in der
+Lehre. Auch werden verschieden Formate wie z.B. KI in der Mittagspause, die KI-Werkstatt und KI-
+Workshops angeboten, um Sie KI-fit zu machen.
+
+Stand 25.07.25
+6

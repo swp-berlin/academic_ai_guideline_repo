@@ -1,0 +1,1139 @@
+# TU München
+# Source: https://mediatum.ub.tum.de/doc/1766632/1766632.pdf
+# Date: 2024
+# Category: guideline
+# Download file: tu-munchen.pdf
+
+TUM KI Strategie
+
+---
+
+Förderung von KI-Kenntnissen und 
+verantwortungsvoller Nutzung von 
+KI an der TUM
+
+Die großen Fortschritte in der Künstlichen Intelligenz (KI) und der Verarbeitung natürlicher 
+Sprache sind in der Gesellschaft angekommen. Der Umfang, das Ausmaß und die Auswirkungen 
+dieser Technologien sind höchstwahrscheinlich tiefgreifender als jede andere Veränderung in der 
+Geschichte. Wir erwarten, dass die KI dazu beitragen wird, die Wissenschaft produktiver zu 
+machen, medizinische Diagnostik zu verbessern, Prozesse  zu beschleunigen und zu 
+flexibilisieren, und wir können uns bisher nur ansatzweise vorstellen, wie KI die Ausbildung von 
+Studierenden, Mitarbeitenden und Fachkräften verändern wird.
+KI ist ein wichtiges Thema in vielen Gesprächen auf unserem Campus. Als eine führende 
+Hochschuleinrichtung möchte die Technische Universität München (TUM) aktiv darauf hinwirken, 
+für die Hochschulangehörigen sinnvolle Einsatzmöglichkeiten von KI zu schaffen, und gleichzeitig 
+Chancen und Risiken managen. Wir verpflichten uns, unsere institutionelle Strategie, unsere 
+Richtlinien und Ziele mit unseren KI-Strategien und deren verantwortungsvoller Umsetzung auf 
+dem gesamten Campus abzustimmen und zentrale Grundsätze zu berücksichtigen, um eine 
+reflektierte, effektive und gerechte Umsetzung zu gewährleisten.
+Mit dieser ersten "TUM-KI-Strategie" bieten wir einen wertvollen Rahmen für die Nutzung von KI-
+Werkzeugen, die unsere spezifischen institutionellen Anforderungen erfüllen, unsere Anliegen in 
+verschiedenen Bereichen unterstützen und Innovationen in der Hochschulbildung fördern, 
+während wir gleichzeitig ethische Standards, Transparenz, Fairness und Datenschutz 
+aufrechterhalten. Während sich KI weiterentwickelt, ist und bleibt die TUM bestrebt, unserer 
+Community ein sicheres und produktives Umfeld zu bieten und die Zusammenarbeit und das 
+Feedback von Early Adopters zu fördern, um deren wertvolle Erfahrungen zu teilen.
+
+Für die Technische Universität München:
+
+Thomas F. Hofmann
+Präsident
+
+TUM KI-Strategie 
+ 
+1
+
+---
+
+TUM-KI-Strategie
+
+Wir sehen mit Zuversicht auf die Perspektiven für den Einsatz von KI in Universitäten: KI hat das 
+Potenzial, Bildung und Forschung zu revolutionieren. Die TUM will die Chancen von KI aktiv 
+nutzen und gleichzeitig die Risiken und Unsicherheiten, die durch KI entstehen, reduzieren. Mit 
+ihrer KI-Strategie wird die TUM die Rahmenbedingungen für die Nutzung dieser neuen 
+Technologien in den folgenden Bereichen schaffen:
+Integration in den Lehrplan: KI wird schrittweise in akademische Programme und 
+außerschulische Angebote integriert, um Studierenden wesentliche KI-Kompetenzen zu 
+vermitteln, wie Datenanalyse, maschinelles Lernen und Algorithmenentwicklung. Für Dozierende, 
+Lehrkräfte und Mitarbeitende werden zusätzliche Angebote geschaffen.
+KI-unterstützte Lernumgebungen: Die TUM wird intelligente Assistenzsysteme und KI-basierte 
+Lern- und Prüfungsumgebungen entwickeln, um personalisiertes Lernen und adaptive 
+Lernumgebungen zu fördern.
+Forschung und Entwicklung: KI-Anwendungen werden in vielen Fächern und 
+Forschungsprojekten unverzichtbar werden, um komplexe Probleme zu lösen und neue 
+Erkenntnisse zu gewinnen. Die notwendige Forschungsinfrastruktur muss vorhanden sein, um 
+exzellente Forschung zu ermöglichen.
+Betrieb und Verwaltungsprozesse: KI-gestützte Tools werden Dokumentation, Support und 
+allgemeine Prozesse strukturieren und verbessern und so die alltäglichen Aufgaben erleichtern 
+und beschleunigen.
+Ethik und Transparenz: Die Auseinandersetzung mit ethischen Fragen wie Bias in KI-
+Algorithmen, Datenschutz, mögliche Auswirkungen auf Arbeitsprozesse sowie die Schaffung von 
+Transparenz im Umgang mit KI werden wesentliche Themen sein, um das Vertrauen in KI-
+Systeme zu stärken.
+
+Die TUM KI-Strategie skizziert unsere Pläne zur Implementierung von Künstlicher Intelligenz in 
+Lehre, Forschung und Verwaltung bis 2030. Sie entstand in enger Zusammenarbeit mit unseren 
+sieben Schools und deren Vice Deans Information Management, dem TUM Center for Study and 
+Teaching, dem TUM Institut for Lifelong Learning, dem TUM IT-Management, dem 
+Datenschutzbüro, dem Munich Data Science Institute, der Universitätsbibliothek und unseren 
+engagierten Studierendenvertretern. Vielen Dank für Ihr Engagement!
+
+Alexander Braun
+Senior Vice President Digitalisierung und IT-Systeme (CIO)
+TUM KI-Strategie 
+ 
+2
+
+---
+
+Inhalt 
+Kapitel 1: Einleitung ............................................................................................................... 4
+1.1. Auswirkungen auf Universitäten .................................................................................. 5
+1.2. Herausforderungen und ethische Erwägungen ........................................................... 6
+1.3. Schlussfolgerung ........................................................................................................ 7
+Kapitel 2: Künstliche Intelligenz im Lehren und Lernen ......................................................... 8
+2.1. Neue Technologien einbeziehen ................................................................................. 8
+2.2. Künstliche Intelligenz lehren ........................................................................................ 9
+2.3. Lehren mit künstlicher Intelligenz ...............................................................................10
+2.4. Bewertung in einer Welt mit künstlicher Intelligenz ....................................................11
+2.5. Unterstützung für Lehren und Lernen mit künstlicher Intelligenz ................................13
+Kapitel 3: Künstliche Intelligenz in der Forschung ................................................................14
+3.1. Veröffentlichungen .....................................................................................................15
+3.2. Datenverwaltung ........................................................................................................16
+3.3. Compute-Infrastruktur ...............................................................................................17
+3.4. Support ......................................................................................................................18
+3.5. Integration/Austausch ................................................................................................18
+3.6. Richtlinien/Dokumente ...............................................................................................19
+Kapitel 4: Künstliche Intelligenz in der Verwaltung ...............................................................21
+4.1. Verbesserte Entscheidungsfindung ...........................................................................22
+4.2. Übersetzungen und Textbewertungen .......................................................................22
+4.3. Automatisierte Prozesse ............................................................................................22
+4.4. Einsatz von LLMs für Aufgaben in Hochschulgremien ...............................................23
+4.5. Prädiktive Analytik .....................................................................................................23
+Kapitel 5: Künstliche Intelligenz und Datenschutz ................................................................24
+5.1. Leitprinzipien .............................................................................................................24
+5.2. Strategische Prioritäten für KI-Risiko und -Anwendung .............................................25
+5.3. Rahmen für die Umsetzung .......................................................................................26
+5.4. Langfristige Vision ......................................................................................................27
+Kapitel 6: Anhang .................................................................................................................29
+6.1. Wichtige Begriffe und Akronyme ................................................................................29
+6.2. Offenlegung ...............................................................................................................30
+6.3. Lizenz ........................................................................................................................30
+
+
+TUM KI-Strategie 
+ 
+3
+
+---
+
+Einleitung
+Kapitel 1: Einleitung
+
+Künstliche Intelligenz (KI) hat sich zu einer transformativen Kraft in der modernen 
+Welt entwickelt, die sich auf verschiedene Bereiche auswirkt, darunter Wirtschaft, 
+Wissenschaft und Gesundheitswesen. KI ist die Simulation menschlicher Intelligenz 
+durch Maschinen, die so programmiert sind, dass sie wie Menschen denken und 
+lernen. Diese intelligenten Systeme können Aufgaben ausführen, die normalerweise 
+menschliche Intelligenz erfordern, wie z. B. generative Textproduktion, visuelle 
+Wahrnehmung, Spracherkennung, Entscheidungsfindung und Sprachübersetzung.
+KI umfasst verschiedene Technologien und Methoden, darunter maschinelles 
+Lernen, Verarbeitung natürlicher Sprache, Robotik und Computer Vision. Beim 
+maschinellen Lernen, einem Teilbereich der KI, werden Algorithmen auf großen 
+Datensätzen trainiert, um Muster zu erkennen und Vorhersagen zu treffen. Die 
+Verarbeitung natürlicher Sprache ermöglicht es Computern, menschliche Sprache 
+zu verstehen und darauf zu reagieren, während Computer Vision es Maschinen 
+ermöglichen, visuelle Informationen zu interpretieren und zu analysieren.
+Die Technische Universität München (TUM) sieht in diesen Veränderungen eine 
+Chance, die Forschung zu verbessern und die Studierenden in ihrem Lernprozess zu 
+unterstützen. Darüber hinaus kann die Verwaltung von schnelleren und 
+produktiveren Prozessen profitieren und dadurch alltägliche Aufgaben erleichtern. 
+KI-Tools können zudem helfen, den Mangel an Arbeitskräften zu lindern.
+TUM KI-Strategie 
+ 
+4
+
+---
+
+1.1. Auswirkungen auf Universitäten
+KI und der zunehmende Einsatz von Large Language Models (LLMs) haben 
+vielfältige Auswirkungen auf Forschungseinrichtungen wie die TUM.
+Während sich die Integration von KI in Verwaltungs- und Geschäftsprozessen auf 
+die Erleichterung der täglichen Arbeit konzentriert, haben Forschung und Lehre 
+weitaus vielfältigere Anwendungsbereiche.  
+Die Auswirkungen von KI in der Wissenschaft sind tiefgreifend und beeinflussen 
+sowohl die Lehre als auch die Forschung:
+Lehren und Lernen umgestalten
+KI hat das Potenzial, die Wertschöpfungs- und Kommunikationsprozesse im 
+Bildungswesen grundlegend zu verändern. Durch die Einbindung von KI in die 
+Lehrpläne können Studierende Risiken und Vorteile, Anwendungen und ethische 
+Überlegungen im Zusammenhang mit KI kennenlernen. Durch Projekte und 
+Aufgaben sammeln sie praktische Erfahrungen und entwickeln Kompetenzen, um 
+die durch KI bedingten Veränderungen in ihrem Studienfach und ihrem zukünftigen 
+Beruf zu antizipieren und zu gestalten. Wir müssen die derzeitigen Lehrformate 
+überdenken und die Dozierenden dabei unterstützen, Inhalte und Prüfungen für ein 
+KI-gesteuertes Lehrumfeld zu adaptieren.
+Verbesserung der Forschung
+KI-Tools können die Forschungskapazitäten erheblich verbessern, indem sie große 
+Datensätze analysieren, Muster erkennen und Erkenntnisse gewinnen, die für 
+Menschen allein unmöglich zu erreichen wären. KI-gestützte Systeme können bei 
+der Literaturrecherche, der Datenanalyse und sogar bei der Formulierung von 
+Forschungshypothesen helfen. KI-Tools ermöglichen es Forschenden auch, 
+bahnbrechende neue Softwaretools zu entwickeln, die von der explorativen 
+Datenanalyse bis hin zu klinischen Entscheidungsunterstützungssystemen mit 
+translationalem Potenzial reichen.
+
+Datenverwaltung
+Eine wirksame Datenverwaltung ist entscheidend für die Speicherung und Nutzung 
+von Daten für KI-Anwendungen. Einrichtungen müssen sicherstellen, dass Daten 
+verantwortungsvoll und unter Einhaltung ethischer, gesellschaftlicher und 
+datenschutzrechtlicher Standards verwaltet werden. Dazu gehört auch die 
+Festlegung von Richtlinien und Rahmenbedingungen für die Nutzung von KI in 
+Forschung und Wissenschaft, auch im Hinblick auf neue Computerparadigmen wie 
+das föderierte maschinelle Lernen.
+
+TUM KI-Strategie 
+ 
+5
+
+---
+
+Nachhaltige Computing-Infrastruktur
+Die Bereitstellung einer nachhaltigen Computerinfrastruktur ist für die Unterstützung 
+von KI-Anwendungen unerlässlich. Dazu gehören Investitionen in notwendige 
+Hardware und Software sowie das Personal für die Wartung und den Betrieb von KI-
+Systemen, um sicherzustellen, dass diese für Forschende und Studierende 
+zugänglich, flexibel und effizient sind.
+
+Zusammenarbeit und Integration
+Die Zusammenführung von KI-Forschenden und die Förderung von Zusammenarbeit 
+sind für die Weiterentwicklung der KI-Forschung und ihrer Anwendungen von 
+entscheidender Bedeutung. Institutionen können dies durch Konferenzen, 
+Workshops und interdisziplinäre Projekte unterstützen, die den Wissensaustausch 
+und die Innovation fördern. Das Munich Data Science Institute (MDSI), eines der 
+schoolübergreifenden integrativen Forschungsinstitute der TUM, ist ideal geeignet, 
+um eine zentrale Rolle bei der Bündelung solcher Aktivitäten zu übernehmen. Das 
+MDSI unterstützt mehrere Initiativen und die datenwissenschaftlich koordinierten 
+DFG-Programme der TUM (Exzellenzcluster, SFB, etc.).
+
+1.2. Herausforderungen und ethische Erwägungen
+KI bietet zwar zahlreiche Vorteile, bringt aber auch erhebliche Herausforderungen 
+und ethische Überlegungen mit sich:
+Bias und Fairness
+KI-Systeme können unbeabsichtigt Vorurteile in den Trainingsdaten nutzen und 
+dadurch ungerechte und diskriminierende Ergebnissen liefern. Die Gewährleistung 
+von Fairness und die Vermeidung von Vorurteilen in der KI erfordern ein sorgfältiges 
+Augenmerk auf die Datenqualität und die Entwicklung von Algorithmen sowie eine 
+ständige Überwachung.
+
+Datenschutz und Sicherheit
+Bei KI-Methoden werden große Mengen personenbezogener Daten verarbeitet, mit 
+entsprechenden Herausforderungen für Datenschutz und Sicherheit. Die 
+Einrichtungen müssen solide Datenschutzmaßnahmen umsetzen, um sensible 
+Informationen zu schützen und Vorgaben einzuhalten.
+
+Beschäftigung und Qualifikationen
+Die Automatisierung von Aufgaben durch KI kann zur Verdrängung von 
+Arbeitsplätzen führen, und eine Veränderung der Qualifikationen der Arbeitskräfte ist 
+erforderlich. Es besteht ein wachsender Bedarf an Aus- und
+TUM KI-Strategie 
+ 
+6
+
+---
+
+Weiterbildungsprogrammen, die jedem Einzelnen die für die KI-getriebene Wirtschaft 
+erforderlichen Fähigkeiten vermitteln.
+
+Transparenz und Rechenschaftspflicht
+KI-Systeme können komplex und undurchsichtig sein. Das kann es schwierig 
+machen, ihre Entscheidungsprozesse zu verstehen. Um Transparenz und 
+Rechenschaftspflicht in der KI zu gewährleisten, müssen erklärbare KI-Modelle 
+entwickelt und klare Leitlinien für ihre Nutzung aufgestellt werden.
+
+Nachhaltigkeit
+Das Training von KI-Modellen erfordert erhebliche Mengen an Energie. Im Sinne der 
+Nachhaltigkeit wird die TUM einen verantwortungsvollen Umgang mit 
+Rechenressourcen anstreben und die Erforschung und Anwendung von effizienten 
+Rechenparadigmen fördern.
+
+1.3. Schlussfolgerung
+Künstliche Intelligenz (KI) ist ein transformatives Werkzeug mit erheblichem 
+Potenzial, um Arbeitsmarkt und Wissenschaft zu beeinflussen. KI sollte ähnlich wie 
+Taschenrechner oder Smartphones betrachtet werden und nahtlos in unsere 
+täglichen Aktivitäten integriert sein. Die TUM bildet Studierende, Forschende und 
+Mitarbeitende im Umgang mit dieser neuen Technologie aus. Durch die Nutzung der 
+Fähigkeiten der KI können Entscheidungsprozesse verbessert, Aufgaben 
+automatisiert und personalisierte Anwendungen entwickelt werden. In der 
+Wissenschaft kann KI die Lehre und Forschung revolutionieren und neue 
+Möglichkeiten des Lernens und Forschens eröffnen. Dennoch ist die 
+Auseinandersetzung mit den Herausforderungen und ethischen Erwägungen der KI 
+von entscheidender Bedeutung, um ihre verantwortungsvolle, gerechte und sichere 
+Nutzung zu gewährleisten. Um das volle Potenzial der KI auszuschöpfen und eine 
+bessere Zukunft zu gestalten, ist ein gemeinsamer Ansatz von Lehrenden, 
+Forschenden, politischen Entscheidungsträgern und Branchenführern unerlässlich.
+
+TUM KI-Strategie 
+ 
+7
+
+---
+
+Lehre
+Kapitel 2: Künstliche Intelligenz 
+im Lehren und Lernen
+
+2.1. Neue Technologien einbeziehen
+Professionelle und reflektierte Anwendung und Entwicklung von 
+Künstlicher Intelligenz im Lehren und Lernen
+
+Künstliche Intelligenz (KI) hat das Potenzial, Wertschöpfungs- und 
+Kommunikationsprozesse in Wissenschaft, Gesellschaft und Wirtschaft grundlegend 
+zu verändern. Sie hat bereits heute unmittelbare Auswirkungen auf Lehren und 
+Lernen. Unsere Studierenden müssen dieses Potenzial für ihre Arbeitsprozesse, ihr 
+Leben und die Gestaltung einer besseren Zukunft nutzbar machen.
+Daher wird die Technische Universität München (TUM) sicherstellen, dass alle 
+Studierenden (sowohl Bachelor- und Masterstudierende als auch Teilnehmende an 
+Fach- und Führungskräfteprogrammen):
+• die Vorteile und Risiken, Anwendungen sowie erwünschte und unerwünschte 
+Auswirkungen von künstlicher Intelligenz und die damit verbundenen 
+ethischen, gesellschaftlichen und datenschutzrechtlichen Aspekte 
+kennenlernen.
+TUM KI-Strategie 
+ 
+8
+
+---
+
+• durch Projekte, Aufgaben oder Anwendungen im Zusammenhang mit ihrem 
+Studium Erfahrungen mit KI sammeln.  
+• Kompetenzen erwerben, um die durch KI induzierten Veränderungen in der 
+Wertschöpfung und in den Kommunikationsprozessen in ihrem Fachgebiet 
+sowie in Wissenschaft, Gesellschaft und Wirtschaft zu antizipieren und zu 
+gestalten. 
+ 
+Um dies zu erreichen, umfasst unser Fahrplan unter anderem folgende Aktivitäten:
+• Einbindung von KI in die Lehrpläne, beginnend mit Plug-in-Modulen und 
+Projektwochen, gefolgt von einer schrittweisen Integration in die regulären 
+Lehrpläne.  
+• Schools und Departments werden spezifische Leitlinien und 
+maßgeschneiderte Initiativen entwickeln, um sicherzustellen, dass KI für die 
+besonderen Anforderungen ihrer Disziplinen eingesetzt wird. KI wird zur 
+Verbesserung von Lehre, Lernen und Bewertung eingesetzt.  
+• Entwicklung eines rechtlichen und ethischen Rahmens für den 
+verantwortungsvollen und sicheren Einsatz von künstlicher Intelligenz in der 
+Wissenschaft.  
+• Bereitstellung einer Infrastruktur, die allen Studierenden und Lehrenden den 
+Zugang zu modernsten Werkzeugen der künstlichen Intelligenz ermöglicht.  
+• Erarbeitung eines Weiterbildungsprogramms für unser Lehrpersonal.
+2.2. Künstliche Intelligenz lehren
+Künstliche Intelligenz in den Lehrplänen implementieren
+Mit Plugin Modulen und Projektwochen verfügt die TUM über flexible Werkzeuge, 
+um den Studierenden neue Inhalte schnell zur Verfügung zu stellen. Mit dem 
+Konzept der Professional Profiles haben wir geeignete Strukturen, um die Curricula 
+systematisch und nachhaltig an aktuelle Entwicklungen anzupassen.
+Unsere Schools sind darauf vorbereitet, diese Werkzeuge zu nutzen, um KI rasch in 
+die Studiengänge zu integrieren und die Lehrkräfte entsprechend weiterzubilden.
+
+Künstliche Intelligenz verstehen, reflektieren und nutzen
+• Die Studierenden erwerben ein grundlegendes Verständnis von KI, 
+einschließlich ihrer Funktionalität, Chancen und Risiken, Grenzen, 
+erwünschten und unerwünschten Nebenwirkungen sowie rechtlichen und 
+ethischen Überlegungen. 
+• Die Studierenden lernen praktische Anwendungen und Prompting.
+TUM KI-Strategie 
+ 
+9
+
+---
+
+• Die Studierenden lernen die Anpassung, das Training und den Einsatz von 
+künstlicher Intelligenz in vernetzten digitalen Prozessen. Welche Themen 
+gelehrt werden, wird an die Bedürfnisse des jeweiligen Studiengangs 
+angepasst. 
+• Die Studierenden lernen, ihren Einsatz von künstlicher Intelligenz zu 
+reflektieren, mit ihren Grenzen (wie Halluzinationen, Fehlern und Vorurteilen) 
+umzugehen und ihren Einsatz transparent darzustellen. Sie machen sich mit 
+den Grundsätzen guter wissenschaftlicher Praxis in Bezug auf die 
+Verwendung und Offenlegung der KI-Nutzung vertraut.
+Künstliche Intelligenz zur Gestaltung von Disziplinen und Branchen nutzen
+Die Studierenden erwerben die Fähigkeiten und das Mindset, um
+• die derzeitigen Prozesse, Methoden und Verfahren zu hinterfragen. 
+• das Transformationspotenzial von KI zu bewerten. 
+• veränderte und neue Wertschöpfungsprozesse zu antizipieren.  
+• Disziplinen und Branchen mit Hilfe von KI zu verbinden.
+2.3. Lehren mit künstlicher Intelligenz
+Einsatz von Werkzeugen der künstlichen Intelligenz zur 
+Verbesserung von Lehren und Lernen
+Die Technische Universität München stattet ihre Lehrenden und Studierenden mit 
+KI-Tools aus, um das Lehren und Lernen zu fördern, da sie dies als grundlegenden 
+Bestandteil der Bildung anerkennt. Die Universität erweitert die 
+Unterstützungssysteme, indem sie begabte Studierende als Berater einsetzt.
+
+Lernen verbessern
+• Wir ermutigen und unterstützen unsere Studierenden dabei, KI aktiv zu 
+nutzen, um ihre Lernerfahrungen zu verbessern, z. B., indem sie KI nutzen, 
+um wissenschaftliche Texte zu übersetzen, hilfreiche Fragen zu stellen und 
+als digitale Tutoren zu fungieren.  
+• Den Studierenden wird empfohlen, KI-Tools zu verwenden, um Texte 
+zusammenzufassen und die Struktur, Rechtschreibung und Grammatik ihrer 
+schriftlichen Arbeit zu verbessern.  
+• Den Studierenden werden die notwendigen Kompetenzen vermittelt, wie z. B. 
+die Verwendung von KI in der Arbeit zu zitieren, die Risiken falscher 
+Informationen, „Halluzinationen“ oder Voreingenommenheit zu verstehen und
+TUM KI-Strategie 
+ 
+10
+
+---
+
+die Verletzung von geistigen oder urheberrechtlichen Bedenken zu 
+vermeiden. (siehe Abschnitt "Unterstützung").
+Lehren verbessern
+KI wird dazu verwendet werden um:
+• Vorlesungen zu individualisieren - z. B. Anpassung des Lehrmaterials an die 
+Bedürfnisse der Studierenden, durch Einführung individueller Lernpfade und 
+durch die Entwicklung von Assistenten/Bots, die die Studierenden durch ihre 
+individuellen Lernerfahrungen führen. 
+• verschiedene multimediale Lernmaterialien zu erstellen, wie z. B. Untertitel für 
+Online-Vorlesungen anzubieten, Texte mit generierten Grafiken und Bildern 
+anzureichern und Texte in Podcasts oder Videos umzuwandeln und 
+umgekehrt. 
+• asynchronen Unterricht anzubieten, der stärker interaktiver ist, wie z. B. die 
+häufigere Erstellung von Umfragen, die Automatisierung von First-Level-
+Feedback und die Entwicklung von Bots, die in Diskussionsforen First-Level-
+Support leisten. 
+• den Arbeitsaufwand für formative Beurteilung erheblich reduzieren, z. B. 
+durch halbautomatische Korrekturen und Feedback. 
+• Daten aus Lernmanagementsystemen systematisch zu analysieren und 
+daraus Rückschlüsse auf das Lernverhalten und lernfördernde Faktoren zu 
+ziehen.
+2.4. Bewertung in einer Welt mit künstlicher Intelligenz
+Neugestaltung und Verbesserung der summativen Beurteilung
+Digitalisierung und KI eröffnen neue Möglichkeiten für realitätsnahe, 
+kompetenzorientierte Bewertungsformen und können uns befähigen, bestehende 
+Bewertungsformate zu hinterfragen und zu modernisieren.
+Digitalisierung und KI ebnen den Weg für realistische, kompetenzorientierte 
+Prüfungen und ermöglichen die Modernisierung bestehender Formate. KI kann den 
+organisatorischen Aufwand für die Benotung und Prüfungsaufsicht verringern, so 
+dass sich die Lehrkräfte auf wesentliche Unterrichtsaktivitäten und innovative 
+Unterrichtstechniken konzentrieren können.
+Darüber hinaus rationalisiert die KI administrative Aufgaben, optimiert den 
+Campusbetrieb und bereitet die Studierenden auf eine KI-gesteuerte Arbeitswelt vor. 
+Durch die Automatisierung von Routineaufgaben und die Verbesserung des 
+personalisierten Lernens unterstützt KI lebenslanges Lernen und die Entwicklung
+TUM KI-Strategie 
+ 
+11
+
+---
+
+von Fähigkeiten und bereitet die Absolventen auf eine sich schnell entwickelnde 
+Arbeitswelt vor.
+
+Einsatz künstlicher Intelligenz in Prüfungen
+In Prüfungen werden die von unseren Studierenden erworbenen Kompetenzen 
+bewertet. Zu den aktuellen Kompetenzen gehört zunehmend der 
+verantwortungsvolle Umgang mit KI. Folglich sollten die entsprechenden Prüfungen 
+es den Studierenden ermöglichen, alle Werkzeuge zu nutzen, die sie bereits in ihrem 
+Studium verwenden und die ihnen im Alltag zur Verfügung stehen werden. Dazu 
+gehören Taschenrechner, Laptops, Rechtschreibprüfung sowie der Zugang zu 
+künstlicher Intelligenz und dem Internet.
+Wir müssen jedoch sicherstellen, dass solche Prüfungen
+• fair sind, d.h. Studierende sollten nicht von einer besseren technischen 
+Ausstattung profitieren. Wir werden auch sicherstellen, dass Studierende mit 
+Behinderungen teilnehmen können, und versuchen, wenn möglich, 
+Barrierefreiheit mit Hilfe von KI zu verbessern 
+• die gewünschten Kompetenzen bewerten, nicht nur die Fähigkeit, im Internet 
+zu suchen oder Prompts zu schreiben. 
+• den Studierenden die Möglichkeit geben, originelle Arbeiten mit 
+angemessener Kreativität zu erstellen und nicht nur Ergebnisse aus externen 
+Tools zu kopieren. 
+• in angemessener Weise transparent machen, ob und in welchem Umfang die 
+Studierenden KI-Werkzeuge in der Prüfung eingesetzt haben.
+Die Entscheidung, ob und in welchem Umfang AI sinnvoll ist und ob die oben 
+genannten Bedingungen erfüllt werden können, liegt bei den zuständigen 
+Lehrenden. Sie entscheiden von Fall zu Fall, ob und in welchem Umfang sie AI in der 
+Prüfung zulassen und ihre Prüfungsform anpassen oder neugestalten wollen. Hierfür 
+werden Kategorien zur Verfügung gestellt. Die TUM entwickelt ein Ampelsystem, um 
+den Lehrenden diese Entscheidung zu erleichtern und sie den Studierenden 
+transparent zu kommunizieren.
+
+Wenn KI in Prüfungen nicht erlaubt ist, müssen die Lehrenden sicherstellen, dass 
+dieses Verbot praktisch durchsetzbar ist, etwa durch Aufsicht im Hörsaal oder durch 
+die Wahl eines praktischen oder mündlichen Prüfungsformats. Die TUM fördert die 
+Entwicklung eines rechtlichen Rahmens, der faire Fernprüfungen ermöglicht. Zu 
+fairen Prüfungsbedingungen gehört eine angemessene Kontrolle des verbotenen 
+Einsatzes von KI.
+TUM KI-Strategie 
+ 
+12
+
+---
+
+Die TUM erforscht und evaluiert die Möglichkeiten einer unvoreingenommenen 
+Bewertung und Benotung mittels KI, um ein schnelles Feedback zu Lernerfahrungen 
+zu ermöglichen.
+
+2.5. Unterstützung für Lehren und Lernen mit künstlicher 
+Intelligenz
+Werkzeuge, Schulungen und rechtliche Rahmenbedingungen
+Die TUM unterstützt ihre Lehrenden und Studierenden mit Instrumenten, 
+Schulungen und klaren rechtlichen Rahmenbedingungen.
+
+Zugang zu Tools
+Es werden KI-Tools erworben, die für alle relevant sind oder für School-
+übergreifende Fachanwendungen benötigt werden. Diese Werkzeuge werden in die 
+Lehr- und Lernumgebung für Selbststudium, Unterricht, Hausaufgaben und 
+Prüfungen integriert. Zentrale und dezentrale Verantwortlichkeiten sind transparent 
+definiert.
+
+Ausbildung und Beratung
+• Von den Dozierenden wird erwartet, dass sie sich selbstständig die 
+Grundlagen der künstlichen Intelligenz aneignen und damit den Wandel 
+ermöglichen.  
+• ProLehre bietet Lehrenden und Studierenden Handreichungen, Workshops 
+und Beratung zum Thema Lehren und Lernen mit KI.  
+• Von ProLehre geschulte Tutorinnen und Tutoren werden Dozierenden dabei 
+helfen, künstliche Intelligenz sinnvoll in ihren Unterricht zu integrieren.
+Rechtliche und ethische Orientierung (siehe Kapitel V)
+• Durch die Umsetzung der oben genannten Maßnahmen werden wir einen 
+klaren und transparenten rechtlichen Rahmen für den Einsatz künstlicher 
+Intelligenz schaffen. Dieser wird rechtliche und ethische Aspekte umfassen 
+und die Regeln der guten wissenschaftlichen Praxis berücksichtigen.  
+• Ein Ampelsystem soll den Lehrkräften helfen, wichtige Anforderungen in ihren 
+Lehr- und Prüfungskursen schnell und transparent zu kommunizieren.
+
+TUM KI-Strategie 
+ 
+13
+
+---
+
+Forschung
+Kapitel 3: Künstliche Intelligenz 
+in der Forschung
+
+Künstliche Intelligenz (KI) revolutioniert die Forschung, indem sie die Analyse riesiger 
+Datensätze, die Aufdeckung von Mustern und die Entwicklung neuer Hypothesen 
+ermöglicht. Sie beschleunigt die wissenschaftliche Entdeckung durch die 
+Automatisierung sich wiederholender Aufgaben und die Optimierung der 
+Ressourcennutzung. Darüber hinaus hilft die KI bei der Bewältigung globaler 
+Herausforderungen wie Klimawandel, Ernährungssicherheit und 
+Krankheitsmanagement. Dies sind nur einige Gründe, die uns dazu bewegen, KI als 
+Schlüsselelement in unsere Forschung einzubeziehen.
+Zu diesem Zweck verfolgen wir einen parallelen, mehrstufigen Ansatz zur 
+Umsetzung der KI-Strategie der TUM: Einen ausgewogenen Prozess, der Bottom-
+up- und Top-down-Elemente umfasst, um kontinuierlich kleine, mittlere und große 
+Erfolgsgeschichten zu schreiben und dabei das "große Ganze" nicht aus den Augen 
+zu verlieren. Die KI-Strategie zielt darauf ab, die Dinge skalierbar genug zu halten, 
+um sie verwirklichen zu können. Gleichzeitig sollen übergreifende Aspekte, z.B. wie 
+Systeme miteinander verbunden werden können, nicht vernachlässigt werden. Das 
+MDSI wird bei der Unterstützung und Verknüpfung dieser Bemühungen eine zentrale 
+Rolle spielen.
+TUM KI-Strategie 
+ 
+14
+
+---
+
+Ein weiteres Merkmal ist eine ausbalancierte Gewichtung von Daten, Algorithmen 
+und Datenverarbeitung. Diese drei Bereiche weisen unterschiedliche Anforderungen 
+in ihrer Umsetzung auf, erfordern unterschiedliche Maßnahmen und verursachen 
+unterschiedliche Kosten.
+
+3.1. Veröffentlichungen
+Professioneller und reflektierter Einsatz von Künstlicher 
+Intelligenz in Publikationen und Abschlussarbeiten
+Der verantwortungsvolle und professionelle Einsatz von KI in wissenschaftlichen 
+Veröffentlichungen und Dissertationen erfordert mehrere wichtige Vorgehensweisen, 
+um Integrität und Zuverlässigkeit zu gewährleisten. Erstens müssen Forschende KI-
+generierte Inhalte von Menschen beaufsichtigen und kontrollieren lassen. Dies 
+bedeutet eine sorgfältige Überprüfung und Editierung der Ergebnisse, um 
+Ungenauigkeiten, Verzerrungen und Fehlinterpretationen zu vermeiden, die durch KI 
+entstehen könnten. Ein weiterer wichtiger Aspekt ist die Transparenz: Autorinnen 
+und Autoren sollten den Einsatz von KI-Tools in ihrer Forschung offenlegen und die 
+verwendeten Methoden ausführlich dokumentieren. Dazu gehören die Angabe der 
+verwendeten KI-Modelle, der Datenquellen und der während der Analyse 
+festgelegten Parameter.
+Bei der Integration von KI in die wissenschaftliche Arbeit sind ethische 
+Überlegungen von größter Bedeutung. Forschende müssen den Datenschutz 
+berücksichtigen und sicherstellen, dass persönliche oder sensible Informationen, die 
+von KI-Systemen verwendet werden, in Übereinstimmung mit den einschlägigen 
+Vorschriften und ethischen Standards behandelt werden. Auch die Rechte am 
+geistigen Eigentum müssen beachtet werden, und die im Forschungsprozess 
+verwendeten KI-Tools und Datensätze müssen ordnungsgemäß zugeordnet werden 
+(siehe Kapitel V, Rechtliche Aspekte der künstlichen Intelligenz und des 
+Datenschutzes). Darüber hinaus sollten die potenziellen gesellschaftlichen 
+Auswirkungen von KI-Anwendungen sorgfältig bewertet und erörtert werden, wobei 
+Nutzen und Risiken, die mit ihrem Einsatz verbunden sind, berücksichtigt werden 
+müssen. Um die Reproduzierbarkeit durch die wissenschaftliche Gemeinschaft zu 
+gewährleisten, müssen sich Autorinnen und Autoren, die Datenanalysen unter 
+Anwendung von KI-Methoden veröffentlichen, an die FAIR-Datengrundsätze halten 
+und ihren Code zusammen mit einer ausreichenden Dokumentation über geeignete 
+Repositorien zur Verfügung stellen. Als Redakteure oder Peer-Reviewer müssen sich 
+die TUM-Mitglieder bewusst sein, dass es im Publikationsprozess zu 
+missbräuchlichen Verwendungen von KI kommen kann, die gegen die Grundsätze
+TUM KI-Strategie 
+ 
+15
+
+---
+
+guter wissenschaftlicher Praxis verstoßen. Ein entsprechendes Bewusstsein muss 
+bei allen am Publikationsprozess beteiligten Personen vorhanden sein.
+Durch die Einhaltung dieser Grundsätze können Forschende die Möglichkeiten der 
+KI zur Verbesserung ihrer Arbeit nutzen und gleichzeitig die höchsten Standards 
+wissenschaftlicher Integrität und ethischer Verantwortung einhalten. Dieser Ansatz 
+verbessert die Qualität und Glaubwürdigkeit wissenschaftlicher Veröffentlichungen 
+und Dissertationen und fördert das Vertrauen und die Akzeptanz von KI-
+Technologien in der breiteren Forschungsgemeinschaft.
+3.2. Datenverwaltung
+Speicherung und Nutzung von Daten für die Datenverarbeitung
+Ein wichtiger Bestandteil für herausragende Forschung mit KI-Methoden ist ein 
+effizientes Repositorium für Software, Daten und Modelle. Ein solches Repositorium 
+wird auf einem performanten Speichersystem aufbauen und erfordert die Pflege und 
+Verbesserung von vorkommerziellen Softwarepaketen, die aus der TUM-Forschung 
+hervorgegangen sind (z.B. Code für überwachtes und unüberwachtes Lernen). Die 
+Kompetenzen und das Personal hierfür sind unter dem Dach des TUM Research 
+Data Hub gebündelt.
+Die an der TUM generierten Daten werden strukturiert in verschiedenen Systemen 
+wie Datenbanken oder Data Lakes gespeichert. Die Universitätsbibliothek der TUM 
+wird ein Tool (TUM DataTagger) anbieten, um eine Infrastruktur für FAIRes 
+Datenmanagement bereitzustellen, semantische Indexierung zu optimieren und die 
+gemeinsame Nutzung von Daten zu ermöglichen.
+In Zusammenarbeit mit dem im MDSI gebündelten Fachwissen werden diese Daten 
+für KI/ML-Modelle nutzbar sein. Dazu gehören Benchmark-Test-Datensätze und KI-
+Bewertungspipelines zur Unterstützung von Entwicklung, Vergleich, Verbesserung 
+und Anpassung von KI-Algorithmen.
+Neben den von TUM-Forschenden generierten Daten benötigen unsere 
+Wissenschaftlerinnen und Wissenschaftler auch Zugang zu vielen externen 
+Datenquellen. Um deren Nutzung zu erleichtern, wird der TUM Research Data Hub 
+mit verschiedenen NFDI-Vertretern an der TUM interagieren, um den Zugang zu 
+relevanten Daten zu optimieren. Ebenso werden im Austausch mit weiteren 
+Stakeholdergruppen (z.B. große, koordinierte Programme) Maßnahmen identifiziert, 
+um die Barrieren für den Zugang zu öffentlich verfügbaren externen Daten deutlich 
+zu senken. In diesem Zusammenhang wird angestrebt, in der Community etablierte 
+Standards und Datenbanken in bestehende oder zukünftige Pipelines und 
+Workflows an der TUM zu integrieren und zu übernehmen.
+TUM KI-Strategie 
+ 
+16
+
+---
+
+Für spezielle Forschungsdaten (z.B. biomedizinische und klinische Daten) entwickelt 
+die TUM gemeinsam mit dem Universitätsklinikum der TUM und weiteren Partnern 
+aus ganz Bayern die Bavarian Cloud for Health Research (BCHR). Damit wird den 
+Forschenden der TUM ein optimaler Zugang zu dieser neuen Ressource garantiert. 
+Die BCHR wird einen rechtlichen Rahmen schaffen, der die gemeinsame Nutzung 
+der zusammengeführten Daten ermöglicht. Sie wird auch dazu beitragen, finanzielle 
+Ressourcen zu kanalisieren, um eine langfristige Finanzierung zu gewährleisten.
+Wir werden die Innovation und die Übernahme von KI-Modellen in allen Gruppen 
+erleichtern, indem wir KI-Modelle hosten und den Zugang zu ihnen fördern. Dazu 
+gehört auch die Realisierung einer Plattform, auf der vortrainierte Modelle (und nicht 
+nur LLMs) auf dem neuesten Stand der Technik bereitgestellt werden. Ein Beispiel 
+könnten sorgfältig kuratierte Versionen von Modellen sein, die unter 
+https://huggingface.co/ oder https://kipoi.org/ verfügbar sind.
+
+3.3. Compute-Infrastruktur
+Bereitstellung einer nachhaltigen Computerinfrastruktur für KI-
+Anwendungen
+Effektive KI-Entwicklung erfordert eine robuste und spezialisierte Infrastruktur 
+(Hardware und Software), um KI-Workloads und -Anwendungen effizient zu 
+unterstützen. Als Teil unserer Strategie werden wir am Leibniz-Rechenzentrum (LRZ) 
+eine zentrale Infrastruktur für die gesamte KI-Wertschöpfungskette aufbauen. Dazu 
+gehört auch die Bereitstellung zentraler Datenspeicheroptionen durch das LRZ.
+Die KI-Systeme des LRZ bieten verschiedene leistungsstarke Rechen- und 
+Speicherlösungen für das Training und die Erstellung von KI-Modellen. Über diese 
+Lösungen können Studierende und Forscher der TUM über sichere SSH-
+Verbindungen und interaktive webbasierte Schnittstellen sicher auf NVIDIA-GPUs 
+wie H100, V100 und P100 zugreifen. Die Plattform unterstützt derzeit interaktive 
+Entwicklungswerkzeuge wie Jupyter Notebook, JupyterLab, RStudio Server und 
+TensorBoard. Zusätzlich sorgt die Virtualisierung der Server für anpassbare und 
+reproduzierbare Arbeitsumgebungen.
+Zur Ergänzung dieser Funktionen bietet die AI Systems DSS-Speicherlösung einen 
+nahtlosen Zugriff auf die Forschungsdaten von der Recheninfrastruktur aus. Diese 
+umfassende Infrastruktur bietet Studierenden und Forschern eine Umgebung, in der 
+sie mit Leichtigkeit experimentieren und KI-Algorithmen entwickeln können.
+Zur Förderung einer nachhaltigen KI-Nutzung hat das LRZ ein hochmodernes 
+Warmwasser-Kühlsystem für alle Systeme sowie Methoden zur Nutzung der von 
+den IT-Systemen erzeugten Abwärme implementiert. Dies führt zu Energieeffizienz, 
+Kosteneinsparungen und Umweltvorteilen. Darüber hinaus wird die TUM
+TUM KI-Strategie 
+ 
+17
+
+---
+
+strategische Partnerschaften mit ausgewählten Hyperscalern eingehen, um eine 
+skalierbare und geeignete Computing-Infrastruktur zu gewährleisten.
+
+3.4. Support
+Zentrale Unterstützung bei der Nutzung unserer KI-
+Infrastrukturen
+Das gesamte Personal, das für die Vermittlung der oben genannten Infrastruktur und 
+die entsprechenden Dienstleistungen benötigt wird, ist im TUM Research Data Hub 
+effektiv zusammengefasst.
+Unter dem Dach des TUM Research Data Hubs werden die Data Stewards dazu 
+beitragen, das Bewusstsein und die Sachkenntnis in Bezug auf die professionelle 
+Verwaltung von FAIR-Daten zu erhöhen. KI-basierte Analysen können nur mit 
+qualitativ hochwertigen Daten durchgeführt werden. Nach dem Vorbild des LRZ, das 
+Support bei der Datensicherheit anbietet, wird das Team des TUM Research Data 
+Hub sich darum kümmern, dass Daten den FAIR-Prinzipien gemäß vorgehalten 
+werden.
+TUM-Forschende können sich mit Hilfe des Hub-Netzwerks zu KI-Methoden beraten 
+lassen. Es ist entscheidend zu verstehen, welche Werkzeuge für welche 
+Forschungsaktivitäten geeignet sind. Im Hub werden die an der TUM vorhandenen 
+Werkzeuge und Infrastrukturen sowie die Möglichkeiten ihrer Nutzung kommuniziert. 
+Der TUM Research Data Hub ist eine zentrale Anlaufstelle für Fragen zu KI und 
+deren Einsatz.
+
+3.5. Integration/Austausch
+KI-Forschende zusammenbringen
+Über die Bereitstellung von Infrastruktur und die Verwaltung hinaus werden wir eine 
+geeignete Integration von KI in verschiedenen Forschungsbereichen fördern. 
+Beispiele sind das TUM Center for Digital Medicine and Healthcare (TUM ZDMG) 
+und das TUM Center vor Embodied Laboratory Intelligence (TUM ELI). Es kann auch 
+zusätzliche Initiativen geben, wie z.B. ein ELI für Chemie für ML.
+Außerdem werden wir Foren für den Austausch einrichten. Solche interdisziplinären 
+Initiativen werden z.B. Forschende aus den Bereichen Machine Learning und Natural 
+Sciences persönlich zusammenbringen, um über gemeinsame Wissenschaft zu 
+diskutieren. Dies könnte z.B. in eintägigen Veranstaltungen geschehen, bei denen 
+Promovierende Vorträge halten und Poster ausstellen, ergänzt durch Zeit für 
+Diskussionen zur Festlegung gemeinsamer Projekte. Obwohl es Zeit und Arbeit
+TUM KI-Strategie 
+ 
+18
+
+---
+
+kostet, eine gemeinsame Sprache und gemeinsame Interessen zwischen Gruppen 
+mit unterschiedlichem Hintergrund zu finden, haben wir mit dem Munich Data 
+Science Institute (MDSI) bereits die ersten Schritte in diese Richtung unternommen.
+Wir werden auch dazu beitragen, die Interoperabilität unserer Daten zu verbessern 
+(das "I" der FAIR-Grundsätze). Dieser Aspekt stellt nach wie vor eine große 
+Herausforderung dar, da es oft schwierig ist, alle bereits verfügbaren Informationen 
+zusammenzuführen (z. B. Proteomikdaten in PRIDE, Genomikdaten in EGA, 
+Transkriptome in GEO und Patientendaten in Excel-Tabellen).
+
+3.6. Richtlinien/Dokumente
+Regulierung des Einsatzes von KI
+Da KI Wirtschaft und Gesellschaft verändert, ist es von entscheidender Bedeutung, 
+eine wirksame Governance-Strategie für KI-Technologien zu entwickeln. Während 
+sichergestellt wird, dass KI verantwortungsvoll und transparent entwickelt und 
+eingesetzt wird, sollte die Governance-Politik gleichzeitig die weitere Forschung 
+unterstützen und fördern.
+Ein wichtiger Aspekt der KI-Entwicklung ist das Training von Modellen. Dafür 
+werden große Datenmengen benötigt. Daher müssen Richtlinien für die gemeinsame 
+Nutzung von Daten in Betracht gezogen werden, um Innovation und 
+Zusammenarbeit zu erleichtern und sicherzustellen, dass die Daten mit der 
+größtmöglichen Sorgfalt und unter Wahrung von Datenschutz und Sicherheit 
+behandelt werden.
+In diesem Zusammenhang werden wir z.B. Vorlagen für Vereinbarungen zur 
+gemeinsamen Nutzung von Daten für das breite Feld "Materials and Molecules" 
+erstellen, dass die DFG-Exzellenzcluster e-conversion und MCQST umfasst. Wir 
+werden auch die Erfahrungen aus verschiedenen NFDI- und anderen Konsortien 
+nutzen.
+Darüber hinaus werden wir einen Verhaltenskodex und ethische Richtlinien für die 
+Verwendung von Drittanbieter-Software, DL-Lösungen und öffentlich zugänglichen 
+Daten (soziale Medien, Foren usw.) aufstellen. Auch ein Verhaltenskodex für die 
+Nutzung von KI beim Verfassen von Veröffentlichungen, Dissertationen usw. soll 
+entwickelt werden.
+Die Einrichtung einer Bibliothek von Leitlinien wird unseren Forschenden bei 
+Benchmarking und Codierung helfen. Beides sollte den höchsten Standards 
+entsprechen, insbesondere wenn der Code des Forschungsprojekts öffentlich 
+zugänglich ist. Diese Dokumente werden dem Aspekt der Reproduzierbarkeit 
+besondere Aufmerksamkeit widmen. Dies ist ein Faktor, der bei der Anwendung von
+TUM KI-Strategie 
+ 
+19
+
+---
+
+KI-gesteuerten Methoden nicht immer gewährleistet ist. Die Bibliothek wird auch 
+Vorlagen für Vereinbarungen über die gemeinsame Nutzung von Daten für 
+ausgehende oder eingehende Universitätspartner, kommerzielle Partner usw. 
+enthalten.
+
+TUM KI-Strategie 
+ 
+20
+
+---
+
+Verwaltung
+Kapitel 4: Künstliche Intelligenz 
+in der Verwaltung
+
+KI ist in der Verwaltung von entscheidender Bedeutung geworden. Sie kann 
+Prozesse rationalisieren, die Entscheidungsfindung durch Datenanalyse verbessern, 
+sich wiederholende Aufgaben automatisieren und letztlich zu einer verbesserten 
+Ressourcenzuteilung und höheren Effizienz für alle Mitglieder der TUM führen.
+Die folgenden Abschnitte untersuchen das transformative Potenzial von KI in 
+verschiedenen administrativen Kontexten und veranschaulichen, wie die TUM plant, 
+sie in praktische Anwendungen zu implementieren.
+Zusammenfassend lässt sich sagen, dass die Integration von künstlicher Intelligenz 
+in die Verwaltungspraxis zahlreiche Vorteile bietet, wie z.B. höhere Effizienz, bessere 
+Entscheidungsfindung, verbesserte Kundenerfahrungen und erweiterte 
+Vorhersagefähigkeiten. Da sich die KI-Technologie weiterentwickelt, ist davon 
+auszugehen, dass ihre Anwendungen im Bereich der Verwaltung zunehmen werden, 
+was zu weiteren Innovationen und Spitzenleistungen führen wird.
+Angesichts der ständigen Weiterentwicklung der verfügbaren Tools und der 
+Dynamik des Marktes stellt die TUM ihren Mitarbeitern geeignete KI-Tools zur 
+Verfügung, um Aufgaben zu rationalisieren und sich wiederholende Arbeiten zu 
+erledigen. Bei der Implementierung neuer Tools müssen die bestehenden 
+Datenschutzbestimmungen eingehalten werden, und jeder Fall wird entsprechend 
+den spezifischen Umständen bewertet.
+TUM KI-Strategie 
+ 
+21
+
+---
+
+4.1. Verbesserte Entscheidungsfindung
+KI-Systeme können riesige Datenmengen schnell und präzise analysieren und 
+Erkenntnisse liefern, die eine fundierte Entscheidungsfindung unterstützen. Diese 
+Fähigkeit ist im Finanz-, Personal- und Supportbereich wertvoll, wo datengesteuerte 
+Entscheidungen die Effizienz und Rentabilität verbessern können. So kann KI 
+beispielsweise helfen, Muster in Finanztransaktionen zu erkennen, um Betrug 
+aufzudecken und Aufgaben wie den First-Level-Support zu übernehmen.
+Die TUM wird den Einsatz geeigneter Werkzeuge prüfen, die in die laufende 
+Modernisierung ihrer ERP-Systeme integriert werden können und Schnittstellen für 
+eine dezentrale Nutzung der verfügbaren Daten bieten.
+
+4.2. Übersetzungen und Textbewertungen
+Das Potenzial von KI zur Revolutionierung von Verwaltungsaufgaben innerhalb einer 
+Universität zeigt sich besonders bei Textübersetzungen, Bewertungen und 
+Schlussfolgerungen. Durch den Einsatz fortschrittlicher KI-Technologien kann die 
+TUM genaue und schnelle Übersetzungen gewährleisten, zweisprachige 
+Kommunikation unterstützen und Inklusion fördern. KI-gestützte Werkzeuge können 
+große Textmengen analysieren und auswerten, von studentischen Aufsätzen bis hin 
+zu Forschungspublikationen, und so Konsistenz und die Einhaltung akademischer 
+Standards sicherstellen. Darüber hinaus kann KI dabei helfen, komplexe 
+Informationen zusammenzufassen, logische Schlussfolgerungen zu ziehen und 
+umfassende Zusammenfassungen zu erstellen, um die Entscheidungsfindung und 
+die Gesamteffizienz der Verwaltungsabläufe zu verbessern.
+
+4.3. Automatisierte Prozesse
+KI automatisiert sich wiederholende und alltägliche Aufgaben, so dass sich die 
+Mitarbeitenden auf strategischere und kreativere Tätigkeiten konzentrieren können. 
+KI-gestützte Chatbots können beispielsweise Kundenanfragen bearbeiten, während 
+die Prozessautomatisierung administrative Aufgaben rationalisieren kann.
+Die Integration von SAP-Automatisierung mit KI-gestützten Prozessen steigert 
+zudem die betriebliche Effizienz erheblich. SAP-Systeme können durch KI optimiert 
+werden, um Finanztransaktionen zu automatisieren, Lieferketten effektiver zu 
+verwalten und schnellere Entscheidungen zu ermöglichen. Dies beschleunigt die 
+Arbeitsprozesse, sorgt für Genauigkeit und reduziert die Fehlermarge, was zu einer 
+höheren Produktivität und einem besseren Ressourcenmanagement führt.
+In direkter Verzahnung mit der Digitalisierungsstrategie der TUM wird jeder 
+digitalisierte Prozess auf geeignete KI-Integrationen geprüft, um diese noch 
+produktiver zu gestalten.
+
+TUM KI-Strategie 
+ 
+22
+
+---
+
+4.4. Einsatz von LLMs für Aufgaben in Hochschulgremien
+LLMs und KI können Sitzungsnotizen, Transkriptionen und Zusammenfassungen 
+verbessern und so die Effizienz am Arbeitsplatz und die Qualität der Ergebnisse 
+steigern. LLMs können auch Übersetzungsaufgaben effektiv verwalten und die 
+Arbeit in einer zweisprachigen Umgebung erleichtern. Die TUM plant, diese 
+Werkzeuge unter Einhaltung der Datenschutzbestimmungen zu implementieren.
+
+4.5. Prädiktive Analytik
+KI-gesteuerte prädiktive Analysen helfen uns, zukünftige Trends und Ergebnisse zu 
+antizipieren. Diese Fähigkeit ist entscheidend für Nachfrageprognosen, 
+Bestandsmanagement und das Erkennen potenzieller Risiken und Chancen. In 
+ähnlicher Weise kann KI die Leistungen von Studierenden im Bildungswesen 
+vorhersagen und diejenigen identifizieren, die Gefahr laufen, einen erfolgreichen 
+Studienabschluss nicht zu erreichen, so dass ein rechtzeitiges Eingreifen möglich 
+ist.
+
+TUM KI-Strategie 
+ 
+23
+
+---
+
+Datenschutz
+Kapitel 5: Künstliche Intelligenz 
+und Datenschutz
+
+Die rasante Entwicklung der Künstlichen Intelligenz (KI) bietet transformative 
+Möglichkeiten für Forschung, Lehre und Verwaltung an der TUM. Diese Fortschritte 
+bringen jedoch auch eine große Verantwortung mit sich, insbesondere in den 
+Bereichen Ethik, Datenschutz und Regel-Compliance. An der TUM wollen wir das 
+Potenzial von KI nutzen und gleichzeitig verantwortungsvolle Innovation in ihre 
+Anwendung einbetten. Diese Strategie beschreibt unser Engagement, modernste KI-
+Praktiken mit den höchsten ethischen und rechtlichen Standards in Einklang zu 
+bringen und eine Kultur des Vertrauens, der Transparenz und der Verantwortlichkeit 
+innerhalb unserer akademischen Gemeinschaft zu fördern.
+5.1. Leitprinzipien
+Der Ansatz der TUM im Bereich der Künstlichen Intelligenz beruht auf den folgenden 
+Prinzipien: 
+  
+Transparenz: Der Einsatz von KI in Forschung, Lehre oder Verwaltung muss den 
+Beteiligten mitgeteilt werden. 
+Rechenschaftspflicht: Bei Entscheidungen, die von KI-Systemen getroffen werden, 
+insbesondere bei solchen mit ethischen oder rechtlichen Auswirkungen, ist die 
+menschliche Aufsicht unerlässlich.
+TUM KI-Strategie 
+ 
+24
+
+---
+
+Ethik und Fairness: Alle KI-Anwendungen müssen mit der Verpflichtung der TUM zur 
+Nicht-Diskriminierung und akademischen Integrität übereinstimmen.
+Diese Grundsätze bilden die Grundlage für unsere KI-Strategie und stellen sicher, 
+dass Innovation und Verantwortung in einem ausgewogenen Verhältnis stehen.
+
+5.2. Strategische Prioritäten für KI-Risiko und -Anwendung
+KI-Systeme sind je nach Verwendungszweck und Funktionalität mit unterschiedlichen 
+Risiken behaftet. TUM wendet einen strukturierten Ansatz zur Klassifizierung dieser 
+Risiken an, um einen verantwortungsvollen Einsatz zu gewährleisten. Auf der 
+Grundlage von Rahmenwerken wie der Allgemeinen Datenschutzverordnung (GDPR) 
+und dem EU-KI-Gesetz führen wir detaillierte Bewertungen durch, einschließlich 
+Datenschutz-Folgenabschätzungen (Data Protection Impact Assessments, DPIAs), 
+wo dies erforderlich ist, um Risiken proaktiv zu identifizieren und zu mindern. 
+  
+Risikoklassifizierung und -minderung: Durch die Einstufung von KI-Anwendungen 
+in minimale, begrenzte, hohe und inakzeptable Risiken stellen wir sicher, dass die 
+Sicherheitsvorkehrungen verhältnismäßig und wirksam sind und den Einzelnen und 
+die Institution vor unbeabsichtigten Folgen schützen. 
+ 
+Ethik und Governance: Die TUM wird ethische Grundsätze in den Entwurf, die 
+Entwicklung und den Einsatz von KI-Systemen einbeziehen. Dies beinhaltet die 
+Einhaltung von Rahmenwerken wie der Allgemeinen Datenschutzverordnung (GDPR) 
+und dem EU-KI-Gesetz. Unser Ziel ist es, ein Gleichgewicht zwischen Innovation und 
+Respekt für die Rechte des Einzelnen herzustellen und Fairness, Transparenz und 
+Verantwortlichkeit in allen KI-getriebenen Initiativen zu fördern. 
+ 
+Bildung und Bewusstseinsbildung: Aufbauend auf einem interdisziplinären Ethos 
+wird die TUM Trainingsprogramme implementieren, um Stakeholder, Studierende, 
+Lehrende 
+und 
+wissenschaftsstützendes 
+Personal 
+zu 
+befähigen, 
+mit 
+KI 
+verantwortungsvoll umzugehen. Diese Angebote umfassen Workshops, offene 
+Dialoge über KI-Ethik und maßgeschneiderte Programme, um das Verständnis für die 
+gesellschaftlichen Auswirkungen von KI zu verbessern. 
+ 
+Anpassungsfähige Steuerung: Die TUM wird einen dynamischen Rahmen für die KI-
+Policy aufrechterhalten, um mit technologischen Fortschritten und regulatorischen 
+Aktualisierungen Schritt zu halten. Auf der Grundlage des Modells der iterativen 
+Innovation wird diese Strategie eine kontinuierliche Bewertung und Anpassung an 
+neue Gesetze zu Datenschutz, KI und Cybersicherheit beinhalten.
+TUM KI-Strategie 
+ 
+25
+
+---
+
+5.3. Rahmen für die Umsetzung
+Der Implementierungsrahmen übersetzt die KI-Strategie der TUM in umsetzbare 
+Maßnahmen, die eine ethische und effektive Integration von KI-Technologien 
+gewährleisten. Mit dem Schwerpunkt auf datenschutzfreundlicher Innovation, 
+verantwortungsvoller Nutzung und robustem Datenmanagement bietet dieser 
+Rahmen praktische Schritte, um KI-Anwendungen mit regulatorischen 
+Anforderungen und institutionellen Werten in Einklang zu bringen. Durch den Einsatz 
+von adaptiver Governance und kontinuierlicher Überwachung wird die Einhaltung 
+der Vorschriften sichergestellt und gleichzeitig die Innovation in Forschung, Lehre 
+und Verwaltung gefördert.
+
+Verantwortungsvolle Nutzung von AI
+KI-Anwendungen werden zur Unterstützung von Forschung, Bildung und Verwaltung 
+eingesetzt, wobei die folgenden Grundsätze gelten:
+• Operative 
+Transparenz: 
+Sicherstellung, 
+dass 
+KI-Systeme, 
+die 
+in 
+Entscheidungsprozessen wie Zulassung, Zuweisung von Forschungsmitteln 
+oder Planung von Verwaltungsressourcen eingesetzt werden, dokumentiert 
+und ihre Funktionsweise den Nutzenden erklärt werden. 
+• Ergänzung der menschlichen Entscheidungsfindung: Einsatz von KI, um 
+das menschliche Urteilsvermögen in kritischen Bereichen wie Benotung, 
+Einstellung oder akademischer Bewertung zu verbessern, jedoch nicht zu 
+ersetzen, und Fairness und Gerechtigkeit zu gewährleisten. 
+• Bewertung von Anwendungsfällen: Priorisierung von KI-Anwendungen, die 
+klare Vorteile bieten und gleichzeitig ethische und rechtliche Risiken 
+minimieren, 
+z. 
+B. 
+die 
+Automatisierung 
+sich 
+wiederholender 
+Verwaltungsaufgaben, die Optimierung von Forschungsabläufen oder die 
+Verbesserung des Ressourcenmanagements. 
+• Feedback-Mechanismen: Einrichtung von Kanälen für Stakeholder, um 
+Bedenken oder unbeabsichtigte Ergebnisse von KI-Anwendungen zu melden, 
+um iterative Verbesserungen zu ermöglichen und das Vertrauen zu fördern. 
+ 
+Die TUM will das transformative Potenzial von KI verantwortungsvoll und unter 
+Einhaltung ihrer ethischen und rechtlichen Kernverpflichtungen nutzen, indem sie sich 
+auf die praktische Umsetzung von KI-Systemen konzentriert.
+Innovation, die den Datenschutz in den Mittelpunkt stellt
+Der Datenschutz steht im Mittelpunkt der KI-Strategie der TUM. Alle KI-Systeme 
+müssen die Anforderungen der Datenschutz-Grundverordnung (GDPR) erfüllen,
+TUM KI-Strategie 
+ 
+26
+
+---
+
+wobei der Datenschutz durch Design und Voreinstellung Priorität hat. Zu den 
+wichtigsten Maßnahmen gehören:
+• Nach Möglichkeit Verwendung anonymisierter Datensätze.  
+• Strenge Bewertung von Drittanbietern von KI, um die Einhaltung des TUM AI 
+Implementation Framework, der General Data Protection Regulation (GDPR) 
+und anderer internationaler Datenschutzstandards zu gewährleisten.  
+• Einrichtung sicherer Datenspeicherprotokolle zum Schutz persönlicher und 
+sensibler Daten in den Systemen der TUM.  
+• Verfolgung eines äußerst vorsichtigen und restriktiven Ansatzes bei der Cloud-
+Integration und Beschränkung der Nutzung externer Cloud-Dienste auf 
+Szenarien, in denen eine robuste Verschlüsselung, Datenhoheit und die 
+vollständige Einhaltung der Datenschutzbestimmungen gewährleistet sind.
+Datenverwaltung und -überwachung
+Ein Eckpfeiler unseres Ansatzes ist das ausgeklügelte Data Protection Management 
+System (DSMS) der TUM. Dieses System ist ein zentraler Knotenpunkt für die 
+Verfolgung, Dokumentation und Sicherung von Daten im Zusammenhang mit KI-
+Anwendungen. Seine Funktionen umfassen:
+• Zentraler Ansatz: Alle KI-bezogenen Datenverarbeitungsaktivitäten werden 
+für eine verbesserte Rechenschaftspflicht nachverfolgt. 
+• Kontinuierliche Verbesserung: Das DSMS wird regelmäßig aktualisiert, um 
+die neuesten Sicherheitsfunktionen einzubeziehen und mit den sich 
+entwickelnden rechtlichen Standards in Einklang zu bringen. 
+• Benutzerunterstützung: Automatisierte Prüfungen und integrierte Richtlinien 
+unterstützen die Beteiligten bei der Einhaltung von Vorschriften und 
+bewährten Verfahren.
+
+Administrative Integration
+Die TUM gewährleistet Transparenz und Fairness bei allen administrativen 
+Anwendungen von KI. Eine klare Kommunikation mit den Stakeholdern über die Rolle 
+von KI bei der Entscheidungsfindung wird ebenso Priorität haben wie umfassende 
+Schulungsprogramme, um Risiken zu minimieren und eine gerechte Anwendung 
+sicherzustellen.
+5.4. Langfristige Vision
+Durch die Ausrichtung unserer Strategie an globalen Best Practices und die 
+kontinuierliche Anpassung an den technologischen und regulatorischen Fortschritt 
+strebt die TUM eine Führungsrolle bei verantwortungsvollen KI-Innovationen an. 
+Diese Vision umfasst folgende Punkte:
+TUM KI-Strategie 
+ 
+27
+
+---
+
+• Stärkung des Vertrauens in KI-Systeme im akademischen Bereich und darüber 
+hinaus. 
+• Förderung eines integrativen akademischen Umfelds, in dem die Technologie 
+als Werkzeug zum gesellschaftlichen Nutzen dient. 
+• Etablierung der TUM als Benchmark-Institution für den ethischen und 
+rechtssicheren Einsatz von KI. 
+  
+Mit dieser Strategie strebt die TUM an, KI verantwortungsvoll in ihr Ökosystem zu 
+integrieren, Forschung, Lehre und Verwaltung zu verbessern und gleichzeitig ihre 
+Grundwerte zu bewahren.
+TUM KI-Strategie 
+ 
+28
+
+---
+
+Kapitel 6: Anhang
+6.1. Wichtige Begriffe und Akronyme
+
+• Künstliche Intelligenz (KI): Die Simulation der menschlichen Intelligenz durch 
+Maschinen, die so programmiert sind, dass sie wie Menschen denken und 
+lernen. KI umfasst verschiedene Technologien und Methoden, darunter 
+maschinelles Lernen, Verarbeitung natürlicher Sprache, Robotik und Computer 
+Vision. 
+• Maschinelles Lernen: Ein Teilbereich der KI, bei dem Algorithmen auf großen 
+Datensätzen trainiert werden, um Muster zu erkennen und Vorhersagen zu 
+treffen. 
+• Natürliche Sprachverarbeitung (NLP): Eine Technologie, die es Computern 
+ermöglicht, menschliche Sprache zu verstehen und auf sie zu reagieren. 
+• Computer Vision: Ein Bereich der künstlichen Intelligenz, der es Maschinen 
+ermöglicht, visuelle Informationen zu interpretieren und zu analysieren. 
+• Integration in den Lehrplan: Der Prozess der Integration von KI in 
+akademische Programme und außercurriculare Angebote, um Studierenden 
+wesentliche KI-Kompetenzen zu vermitteln. 
+• KI-unterstützte Lernumgebungen: Intelligente Assistenzsysteme und KI-
+basierte Lern- und Prüfungsumgebungen, die personalisiertes und adaptives 
+Lernen fördern. 
+• Datenverwaltung: Die Verwaltung von Daten, um sicherzustellen, dass sie 
+verantwortungsvoll und unter Einhaltung ethischer, gesellschaftlicher und 
+datenschutzrechtlicher Standards verwendet werden. 
+• Nachhaltige Computing-Infrastruktur: Investitionen in Hardware, Software 
+und Personal, um KI-Systeme effizient und nachhaltig zu warten und zu 
+betreiben. 
+• Zusammenarbeit und Integration: Zusammenführung von KI-Forschenden 
+und Förderung der Zusammenarbeit durch Konferenzen, Workshops und 
+interdisziplinäre Projekte. 
+• Voreingenommenheit und Fairness: Gewährleistung von Fairness und 
+Eindämmung von Voreingenommenheit in der KI durch sorgfältige Beachtung 
+der Datenqualität, des Algorithmusdesigns sowie laufendes Monitoring. 
+• Datenschutz und Sicherheit: Umsetzung robuster Datenschutzmaßnahmen 
+zum Schutz sensibler Informationen und zur Einhaltung von Vorschriften. 
+• Transparenz und Rechenschaftspflicht: Entwicklung erklärbarer KI-Modelle 
+und Festlegung klarer Leitlinien für ihre Verwendung, um Transparenz und 
+Rechenschaftspflicht zu gewährleisten. 
+• Ethik 
+und 
+Transparenz: 
+Behandlung 
+ethischer 
+Fragen 
+wie 
+Voreingenommenheit in KI-Algorithmen, Datenschutz und die möglichen 
+Auswirkungen auf die Arbeitswelt sowie Schaffung von Transparenz in der KI.
+TUM KI-Strategie 
+ 
+29
+
+---
+
+• KI in Lehren und Lernen: Der Einsatz von KI zur Verbesserung von Lehr- und 
+Lernerfahrungen, einschließlich der Individualisierung von Lehrmaterialien, der 
+Erstellung vielfältiger multimedialer Lernmaterialien und der Entwicklung 
+asynchroner Lehrveranstaltungen. 
+• KI in der Forschung: KI verbessert die Forschungskapazitäten durch die 
+Analyse großer Datensätze, die Erkennung von Mustern und die Gewinnung 
+von Erkenntnissen. 
+• KI im Verwaltungsbetrieb: Der Einsatz von KI zur Rationalisierung von 
+Abläufen, zur Verbesserung der Entscheidungsfähigkeit und zur Verbesserung 
+der Dienstleistungserbringung in der Verwaltung. 
+• Datenschutz-Folgenabschätzung (DPIA): Eine Bewertung ist immer dann 
+erforderlich, wenn eine Verarbeitungstätigkeit, insbesondere eine, die den 
+Einsatz neuer oder aufkommender Technologien beinhaltet, wahrscheinlich ein 
+hohes Risiko für die Rechte und Freiheiten natürlicher Personen mit sich bringt. 
+• Allgemeine Datenschutzverordnung (GDPR): Eine Verordnung, die den 
+Schutz natürlicher Personen in Bezug auf die Verarbeitung personenbezogener 
+Daten und den freien Verkehr dieser Daten regelt. 
+• Personenbezogene Daten: Alle Informationen, die sich auf eine identifizierte 
+oder identifizierbare lebende Person beziehen, einschließlich verschiedener 
+Datenpunkte, die in ihrer Kombination zur Identifizierung einer bestimmten 
+Person führen können. 
+• Verantwortlicher: Die Einrichtung oder Person, die für die Festlegung der 
+Zwecke und Mittel der Verarbeitung personenbezogener Daten gemäß der 
+DSGVO verantwortlich ist.
+6.2. Offenlegung
+Bei der Erstellung und Verbesserung der Lesbarkeit dieses Dokuments wurden KI-
+Tools eingesetzt.
+6.3. Lizenz
+TUM AI Strategy © 2024 ist lizenziert unter CC BY-NC-SA 4.0. Eine Kopie dieser 
+Lizenz finden Sie unter https://creativecommons.org/licenses/by-nc-sa/4.0/
+TUM KI-Strategie 
+ 
+30

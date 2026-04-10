@@ -1,0 +1,418 @@
+# Gesellschaft für Datenschutz und Datensicherheit
+# Source: https://www.gdd.de/wp-content/uploads/2025/06/GDD-Musterrichtlinie-KI.pdf
+# Date: 2025-05-30
+# Category: template
+# Download file: gesellschaft-fur-datenschutz-und-datensicherheit.pdf
+
+GDD-Musterrichtlinie
+Betriebliche Richtlinie zum Einsatz „Künstlicher Intelligenz“
+
+---
+
+INHALT
+Vorwort ......................................................................................................... 3
+1. 	   Ziel der Richtlinie................................................................................... 4
+2. 	   Geltungsbereich..................................................................................... 4
+3.    Anwendungsbereich.............................................................................. 4
+4.    Grundsätze für die Nutzung von KI....................................................... 4
+4.1 Freigabe........................................................................................... 4
+4.2 Geprüfte und freigegebene KI-Anwendungen............................... 5
+4.3 Verbot der Nutzung privater KI-Anwendungen............................. 5
+4.4 Zweckgebundene Nutzung............................................................. 5
+4.5 Verantwortung und Überprüfung der Ergebnisse......................... 5
+4.5.1 Entscheidungsfindung.......................................................... 5
+4.5.2 Ethische Grundsätze............................................................. 5
+4.6 Einhaltung von Urheberrrechten.................................................... 5
+4.7 Kennzeichnung der von einer KI erstellten Inhalte........................ 5
+4.8 Schulungspflicht............................................................................. 6
+5.    Sicherheit und Datenschutz ................................................................. 6
+5.1 Personenbezogene Daten und Geschäftsgeheimnisse............... 6
+5.2 Training von KI-Anwendungen....................................................... 6
+5.3 Beachtung anderer Richtlinien....................................................... 6
+6.    Dokumentation und Nachvollziehbarkeit............................................. 7
+7.    Haftung und Sanktionen....................................................................... 7
+8.    Überwachung und sicherer Einsatz...................................................... 7
+9.    Regelmäßige Überprüfung der Richtlinie............................................. 7
+10.  Inkrafttreten........................................................................................... 7
+
+---
+
+Vorwort
+Diese Richtlinie stellt eine Musterrichtlinie für den verantwortungsvollen Umgang mit Künst­
+licher Intelligenz (KI) im Unternehmenskontext dar. Sie soll Unternehmen dabei unterstüt­
+zen, klare Rahmenbedingungen für die Nutzung von KI-Systemen zu schaffen und dabei
+rechtliche, ethische und sicherheitsrelevante Aspekte zu berücksichtigen.
+Die vorliegende Musterrichtlinie erhebt keinen Anspruch auf Vollständigkeit und muss an die
+individuellen Gegebenheiten, Strukturen und Anforderungen des jeweiligen Unternehmens
+angepasst werden. Sie dient als Orientierungshilfe und ersetzt keine rechtliche Beratung.
+Ziel ist es, durch präventive Maßnahmen und transparente Prozesse den sicheren, fairen und
+nachvollziehbaren Einsatz von KI-Anwendungen im betrieblichen Alltag zu gewährleisten.
+
+GDD-Musterrichtlinie: Betriebliche Richtlinie
+zum Einsatz „Künstlicher Intelligenz“ 
+Stand: Mai 2025
+3
+
+---
+
+1. Ziel der Richtlinie
+Diese Richtlinie legt die Grundsätze und Regeln 
+für die Nutzung von KI im Unternehmen fest. 
+Ziel ist es, den verantwortungsvollen Einsatz 
+von KI zu gewährleisten, Risiken zu minimieren 
+und die Einhaltung rechtlicher sowie ethischer 
+Standards zu sichern.
+2. Geltungsbereich
+Diese Richtlinie gilt für alle Mitarbeitenden
+[der XY-GmbH] / des [XY-Konzerns] und an al­
+len Betriebsstandorten.
+3. Anwendungsbereich
+Diese Richtlinie gilt für jede betriebliche Nut­
+zung von KI-Systemen und umfasst neben 
+bereits geprüften und freigegebenen KI-An­
+wendungen (4.1) auch künftig durch das Unter­
+nehmen nach Prüfung freigegebene Systeme.
+Ein KI-System ist gemäß Art. 3 Nr. 1 KI-VO 
+ein maschinengestütztes System, das für ei­
+nen in unterschiedlichem Grade autonomen 
+Betrieb ausgelegt ist und das nach seiner Be­
+triebsaufnahme anpassungsfähig sein kann 
+und das aus den erhaltenen Eingaben für expli­
+zite oder implizite Ziele ableitet, wie Ausgaben 
+wie etwa Vorhersagen, Inhalte, Empfehlungen 
+oder Entscheidungen erstellt werden, die physi­
+sche oder virtuelle Umgebungen beeinflussen 
+können.
+GDD-Musterrichtlinie: Betriebliche Richtlinie
+zum Einsatz „Künstlicher Intelligenz“ 
+Stand: Mai 2025
+4. Grundsätze für die
+     Nutzung von KI
+4.1 Freigabe
+Vor Inbetriebnahme eines KI-Systems bedarf 
+es einer Freigabe gemäß des unternehmensin­
+ternen Freigabeverfahrens für Software, unter 
+ergänzender Berücksichtigung der für KI-An­
+wendungen spezifischen rechtlichen Anforde­
+rungen. Insbesondere ist zu prüfen, ob
+>>	 der Einsatz des KI-Systems gegen die in 
+     Art. 5 KI-VO normierten Verbote unzulässi-
+      ger Praktiken verstößt,
+>>	 eine Einstufung als Hochrisiko-KI-System
+        gemäß Art. 6 ff. KI-VO vorliegt und damit be-
+  sondere Anforderungen an Entwicklung,
+    Dokumentation, Transparenz, menschliche 
+       Aufsicht und Risikomanagement zu erfüllen 
+      sind,
+>>	 sich Transparenzpflichten im Sinne des
+      Art. 50 KI-VO ergeben.
+Die Prüfung eines KI-Systems im Rahmen
+des unternehmensinternen Freigabeverfah­
+rens  erfolgt durch den zuständigen [KI-Com­
+pliance-Beauftragten / KI-Experten / andere 
+entsprechend qualifizierte Funktionsträger]. 
+Die Prüfung ist in enger Abstimmung mit dem 
+Datenschutzbeauftragten sowie unter Einbe­
+ziehung der für den geplanten Einsatzbereich 
+verantwortlichen Fachabteilungen vorzuneh­
+men.
+Die abschließende Freigabe eines KI-Sys­
+tems obliegt ausschließlich der Unternehmens­
+leitung oder einer ausdrücklich durch diese be­
+nannten Stelle.
+Nur durch die Unternehmensleitung aus­
+drücklich freigegebene KI-Anwendungen dür­
+fen verwendet werden. Die Nutzung nicht frei­
+gegebener Anwendungen ist untersagt.
+Der gesamte Freigabeprozess ist zu doku­
+mentieren.
+4
+
+---
+
+4.2 Geprüfte und freigegebene
+       KI-Anwendungen
+Im Folgenden sind die von der Unternehmens­
+leitung freigegebenen KI-Anwendungen ab­
+schließend aufgeführt:
+>>	 [z.B.] XY-KI,
+>>	 […]
+4.3 Verbot der Nutzung privater
+       KI-Anwendungen
+Die Nutzung von KI-Anwendungen darf aus­
+schließlich unter Verwendung der dafür ange­
+legten betrieblichen Accounts erfolgen. Eine 
+Nutzung privater Accounts im betrieblichen 
+Kontext ist nicht gestattet.
+4.4 Zweckgebundene Nutzung
+Bei der Nutzung von freigegebener KI (4.2) 
+sind deren Nutzungsbedingungen und die fest­
+gelegte Zweckbestimmung einzuhalten. Falls 
+das Unternehmen ausdrücklich genehmigte 
+Zwecke definiert, sind diese zu befolgen. Eine 
+zweckentfremdende Nutzung oder eine eigen­
+mächtige wesentliche Änderung der KI-Anwen­
+dung ist nicht gestattet.
+4.5 Verantwortung und Überprü-
+       fung der Ergebnisse
+KI-generierte Inhalte werden nicht auf Basis 
+von Verständnis oder ethnischer Abwägungen 
+erzeugt, sondern beruhen auf Wahrscheinlich­
+keit. Daher können die Inhalte ungenau, fehler­
+haft oder potenziell diskriminierend sein.
+Die Mitarbeitenden müssen alle KI-gene­
+rierten Inhalte unter Anwendung der gebote­
+nen Sorgfalt eigenverantwortlich prüfen und 
+anhand ihrer fachlichen Expertise sowie unter 
+Berücksichtigung inhaltlicher, ethischer und 
+anwendungsbezogener Anforderungen bewer­
+ten.
+GDD-Musterrichtlinie: Betriebliche Richtlinie
+zum Einsatz „Künstlicher Intelligenz“ 
+Stand: Mai 2025
+4.5.1 Entscheidungsfindung
+Entscheidungen, die gegenüber betroffenen 
+Personen rechtliche Wirkung entfalten oder sie 
+in ähnlicher Weise erheblich beeinträchtigen, 
+dürfen nicht ausschließlich auf einer automati­
+sierten Verarbeitung durch eine KI-Anwendung 
+beruhen. KI-generierte Entscheidungen sind 
+stets einer menschlichen Prüfung zu unterzie­
+hen, die den geltenden Sorgfaltsmaßstäben 
+entspricht (4.5).
+4.5.2 Ethische Grundsätze
+KI-Anwendungen dürfen nicht für rechtswid­
+rige oder ethisch unzulässige Zwecke einge­
+setzt werden. Insbesondere ist es untersagt, 
+KI zur gezielten Manipulation oder Täuschung 
+von Personen, zur Ausnutzung von Schutzbe­
+dürftigkeit oder zur Überwachung ohne hinrei­
+chende rechtliche Grundlage zu verwenden.
+Der Einsatz von KI muss stets im Einklang 
+mit geltendem Recht, den Grundsätzen der 
+Transparenz, Fairness und Nichtdiskriminie­
+rung sowie unter Achtung der Menschenwürde 
+erfolgen.
+4.6 Einhaltung von Urheberrechten
+Bei der Nutzung von KI-Anwendungen müs­
+sen die Lizenzbedingungen eingehalten wer­
+den. Die Unternehmensleitung hat durch 
+geeignete technische und organisatorische 
+Maßnahmen sicherzustellen, dass bei der 
+Verwendung von KI-generierten Inhalten alle 
+geltenden Bestimmungen zum Urheber- be­
+ziehungsweise Nutzungsrecht, Markenrecht 
+und Persönlichkeitsrecht (insbesondere bei 
+Bildern) eingehalten werden. Inhalte, die mit 
+Unterstützung von KI erstellt wurden, dür­
+fen nur unter Beachtung der rechtlichen 
+Rahmenbedingungen 
+verwendet 
+werden.
+5
+
+---
+
+4.7 Kennzeichnung der von einer KI
+       erstellten Inhalte
+Ergibt die Prüfung im Rahmen des Freigabever­
+fahrens einer KI-Anwendung, dass eine Kenn­
+zeichnungspflicht im Sinne des Art. 50 KI-VO 
+besteht, so sind geeignete technische und or­
+ganisatorische Maßnahmen zu treffen, um die 
+Einhaltung dieser Verpflichtung sicherzustel­
+len.
+Die Umsetzung technischer und organisa­
+torischer Maßnahmen entbindet nicht von der 
+eigenverantwortlichen Überprüfungspflicht der 
+Mitarbeitenden (4.5).
+Insbesondere ist bei der KI-generierten Er­
+zeugung von Audio-, Bild-, Video- oder Textin­
+halten sicherzustellen, dass die KI-generierten 
+oder -veränderten Inhalte für Dritte eindeutig 
+als solche erkennbar sind.
+4.8 Schulungspflicht
+Alle Mitarbeitenden, die KI-Systeme im Rah­
+men ihrer beruflichen Tätigkeit einsetzen, 
+sind verpflichtet, an einer vom Unternehmen 
+organisierten Schulung gemäß Art. 4 der KI-
+Verordnung teilzunehmen. Ziel der Schulung 
+ist die Vermittlung der notwendigen Kompe­
+tenzen für den sicheren, verantwortungsvollen 
+und rechtskonformen Umgang mit KI-Anwen­
+dungen. Dabei sind die technischen Vorkennt­
+nisse, die Erfahrung, die Ausbildung sowie der 
+Einsatzkontext der Mitarbeitenden und die 
+Zielgruppen der KI-Systeme angemessen zu 
+berücksichtigen.
+5. Sicherheit und Daten-
+     schutz
+5.1 Personenbezogene Daten und 
+      Geschäftsgeheimnisse
+Bei der Nutzung von KI-Systemen ist sicherzu­
+stellen, dass die im Unternehmen geltenden
+GDD-Musterrichtlinie: Betriebliche Richtlinie
+zum Einsatz „Künstlicher Intelligenz“ 
+Stand: Mai 2025
+Vertraulichkeitsanforderungen für personen­
+bezogene Daten sowie Geschäftsgeheimnisse 
+uneingeschränkt gewahrt werden. Vertrauliche 
+oder geschützte Informationen dürfen grund­
+sätzlich nicht in KI-Anwendungen eingegeben 
+werden.
+Ausnahmen sind nur zulässig, wenn diese 
+ausdrücklich und schriftlich vom Unternehmen 
+genehmigt wurden und die jeweilige KI-Anwen­
+dung ein nachweislich angemessenes Schutz­
+niveau gewährleistet.
+Personenbezogene Daten dürfen nur ver­
+arbeitet werden, wenn eine rechtskonforme 
+datenschutzrechtliche Grundlage vorliegt. Die 
+allgemeinen Datenschutzbestimmungen im 
+Beschäftigungskontext sowie die Vorgaben 
+der DS-GVO sind auch bei der Datenverarbei­
+tung mittels KI uneingeschränkt zu beachten.
+5.2 Training von KI-Anwendungen
+Sofern eine KI-Anwendung durch eingegebe­
+ne Informationen und generierte Ergebnisse 
+trainiert wird, dürfen personenbezogene Daten 
+grundsätzlich nur nach vorheriger Anonymi­
+sierung verwendet werden. Es ist sicherzustel­
+len, dass für die Anonymisierung eine gültige 
+Rechtsgrundlage vorliegt.
+Geschäftsgeheimnisse sowie vertrauliche 
+und geschützte Informationen dürfen aus­
+schließlich in klar definierten Ausnahmefällen 
+und nur nach ausdrücklicher Genehmigung für 
+Trainingszwecke eingesetzt werden (5.1).
+5.3 Beachtung anderer Richtlinien
+Bei der Nutzung von KI-Anwendungen sind alle 
+im Unternehmen geltenden sicherheits-, daten­
+schutzrechtlichen sowie sonstigen einschlä­
+gigen Anweisungen, Richtlinien und Vorgaben 
+verbindlich zu beachten. Dies schließt insbe­
+sondere folgende Richtlinien ein:
+>>	 […]
+6
+
+---
+
+6. Dokumentation und
+     Nachvollziehbarkeit
+Die Nutzung von KI in geschäftskritischen Pro­
+zessen ist zu dokumentieren. Dies umfasst ins­
+besondere:
+>>	 die eingesetzten KI-Anwendungen,
+>>	 die Art der Nutzung und die erzielten Ergeb-
+       nisse, 
+>>	 die Überprüfungsmaßnahmen der Ergeb-
+      nisse.
+Die Dokumentation führt [der KI-Beauftragte / 
+der Datenschutzbeauftragte / die IT-Abteilung].
+7. Haftung und Sanktionen
+Die Gesamtverantwortung für den unterneh­
+mensweiten Einsatz von KI-Anwendungen liegt 
+nach außen hin beim Unternehmen, vertreten 
+durch die Geschäftsführung.
+Verstöße gegen diese Richtlinie können ar­
+beitsrechtliche Konsequenzen bis hin zur Kün­
+digung nach sich ziehen.
+Mitarbeitende haften für Schäden, die aus 
+einer missbräuchlichen oder fahrlässigen Nut­
+zung von KI entstehen, im Rahmen der gesetz­
+lichen Bestimmungen.
+8. Überwachung und
+     sicherer Einsatz
+Die Leiter der jeweiligen Fachbereiche, in de­
+nen KI-Systeme eingesetzt werden, sind un­
+ter Berücksichtigung ihrer erforderlichen KI-
+Kompetenz dazu verpflichtet, den Einsatz der 
+KI-Systeme regelmäßig zu überwachen und 
+sicherzustellen, dass diese ausschließlich im
+GDD-Musterrichtlinie: Betriebliche Richtlinie
+zum Einsatz „Künstlicher Intelligenz“ 
+Stand: Mai 2025
+Rahmen der genehmigten Zwecke und unter 
+Beachtung dieser Richtlinie betrieben werden.
+    Die Überwachung und Bewertung erfolgt in 
+enger Abstimmung mit den zuständigen [KI-
+Compliance-Beauftragten / KI-Experten / ande­
+re entsprechend qualifizierte Funktionsträger] 
+sowie unter Einbindung des Datenschutzbe­
+auftragten.
+9. Regelmäßige Überprü-
+     fung der Richtlinie
+Diese Richtlinie wird regelmäßig überprüft und 
+an neue technologische, rechtliche oder orga­
+nisatorische Anforderungen angepasst.
+10. Inkrafttreten
+Diese Richtlinie tritt am [Datum] in Kraft.
+Für Rückfragen oder die Genehmigung neuer 
+Anwendungen wenden Sie sich bitte an [den KI-
+Compliance-Beauftragten / KI-Experten / ande­
+re entsprechend qualifizierte Funktionsträger  / 
+die IT-Abteilung].
+
+7
+
+---
+
+Mitglieder der Arbeitsgruppe und Autoren
+Anna Jenke
+Projektleitung Datenschutz, Auditorin Datenschutz & Informationssicherheit, CONCEPTEC GmbH,
+Mülheim an der Ruhr
+Anne Maertens 
+Leitung Innovationslabor, AWO Landesverband Thüringen, Erfurt
+Christian Schulz 
+Konzerndatenschutz, evonik, Essen
+Dirk Lage 
+Konzerndatenschutz, evonik, Essen
+Georg Karl Bittorf 
+Konzern-Datenschutzbeauftragter, AWO Bezirk Westliches Westfalen, Dortmund
+Ilja Korzun 
+Aldi Nord
+Maximilian Stegmann 
+Konzerndatenschutzbeauftragter DSW21, Dortmund
+Mechtild Strahler 
+Datenschutzbeauftragte, Gerhardi Kunststofftechnik GmbH
+Petra Eul-Löh 
+HEC Harald Eul Consulting GmbH, Brühl
+Radoslaw Romanow 
+Data Protection Manager Aldi Nord
+Sabine Link
+Datenschutzbeauftragte der Ämter für Ausbildungsförderung der Studierendenwerke in NRW,
+des Studierendenwerks Dortmund und des AKAFÖ
+GDD-Musterrichtlinie
+Betriebliche Richtlinie „Künstliche Intelligenz“ 
+Stand: Mai 2025
+8
+
+---
+
+Mitglied werden? Mehr Informationen?
+https://www.gdd.de/service/mitglied-werden oder eine E-Mail an: info@gdd.de
+Eine Mitgliedschaft bietet wesentliche Vorteile:
+>> Mitglieder-Nachrichten mit aktuellen Fachinformationen in Form eines monatlichen Newsletters
+>> Bezug der Fachzeitschrift RDV (Recht der Datenverarbeitung)
+>> Beratung bei konkreten Einzelfragen
+>> Zugriff auf Rechtsprechungs- und Literaturarchiv in der GDDcommunity
+>> Online-Service „DataAgenda Plus“ (Muster, Checklisten, RDV ONLINE Archiv, Arbeitspapiere etc.)
+>> Mitarbeit in Erfahrungsaustausch- und Arbeitskreisen
+>> Teilnahme an den kostenfreien GDD-Informationstagen sowie Vergünstigungen bei Seminaren u.v.m.
+Schließen Sie sich unseren mehr als 3.600 Mitgliedern an. Eine Mitgliedschaft erhalten Sie schon 
+ab 150,- EUR/Jahr für Privatpersonen und ab 300,- EUR/Jahr für Firmen.
+Redaktionelle Aufbereitung
+Medin Ferhatbegovic
+Referent, GDD e.V., Bonn
+Clemens Loke
+Referent, GDD e.V., Bonn
+Herausgeber:
+Gesellschaft für Datenschutz und
+Datensicherheit (GDD e.V.)
+Heinrich-Böll-Ring 10
+53119 Bonn
+Satz: S. Roller, GDD-Geschäftsstelle, Bonn
+Stand: Version 1.0 (Mai 2025)
+Tel.: +49 2 28 96 96 75-00
+www.gdd.de
+info@gdd.de

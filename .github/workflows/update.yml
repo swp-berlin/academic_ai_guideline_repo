@@ -1,0 +1,62 @@
+name: Manual ingest guideline
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Slug from guidelines.yaml to ingest"
+        required: true
+        type: string
+      force:
+        description: "Re-download and re-extract even if files already exist"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Download guideline
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python scripts/download.py --slug "${{ inputs.slug }}" --force
+          else
+            python scripts/download.py --slug "${{ inputs.slug }}"
+          fi
+
+      - name: Extract text
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python scripts/extract_text.py --slug "${{ inputs.slug }}" --force
+          else
+            python scripts/extract_text.py --slug "${{ inputs.slug }}"
+          fi
+
+      - name: Build index and README
+        run: python scripts/build_index.py
+
+      - name: Collect generated files
+        run: |
+          mkdir -p out/downloads out/texts
+          cp README.md index.json out/
+          find downloads -maxdepth 1 -type f -name "${{ inputs.slug }}.*" -exec cp {} out/downloads/ \;
+          find texts -maxdepth 1 -type f -name "${{ inputs.slug }}.txt" -exec cp {} out/texts/ \;
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ingest-${{ inputs.slug }}
+          path: out/

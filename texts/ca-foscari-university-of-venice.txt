@@ -1,0 +1,1259 @@
+# Ca' Foscari University of Venice
+# Source: https://www.unive.it/pag/fileadmin/user_upload/ateneo/norme_regolamenti/regolamenti/servizi-informatici/Linee_Guida_IA_Ricerca_ENG.pdf
+# Date: 2024-11-21
+# Category: guideline
+# Download file: ca-foscari-university-of-venice.pdf
+
+Ca’ Foscari University of Venice
+Dorsoduro 3246, 30123 Venice​
+VAT No. 00816350276 - Fiscal Code 80007720271
+www.unive.it
+
+Guidelines for the Responsible Use of
+Artificial Intelligence in Research
+version 1.1.1 - 20241121 
+ 
+ 
+ 
+Table of Contents
+
+1. Introduction...................................................................................................................2
+1.1 Background.............................................................................................................2
+1.2 The Focus of These Guidelines.............................................................................. 3
+2. General Principles........................................................................................................3
+3. Purposes of AI in research..........................................................................................7
+3.1 Research purposes.................................................................................................7
+4. Benefits of AI in Research.........................................................................................19
+5. Challenges and Potential Problems in the Use of AI for Research....................... 21
+5.1 Outputs of AI Models............................................................................................ 21
+5.2 Training and Learning Data for AI Models............................................................ 22
+5.3 Text Prompts and User Input for AI Models.......................................................... 24
+5.4 Environmental Implications................................................................................... 25
+6. Citing AI Tools in Research.......................................................................................26
+6.1 State of the Art......................................................................................................26
+6.2 Citations and AI.....................................................................................................27
+
+Computer Services and Telecommunications Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+1
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+1. Introduction
+1.1 Background
+Artificial Intelligence (AI) includes a diverse array of technologies that can perform tasks
+or behave in ways that are regarded as ‘intelligent.’ The Organisation for Economic
+Co-operation and Development (OECD) defines AI as a ‘machine-based system that can
+make predictions, recommendations, or decisions based on human-defined objectives,
+with varying degrees of autonomy and impact on real or virtual environments.’
+
+In recent years, significant advancements have been made in a new field known as
+"generative AI" (GenAI). This technology can create content such as text, images,
+animations, sounds, and source code from scratch. The process of content generation
+begins with "prompts," which are simple textual instructions provided by the user in
+natural language. A well-known and debated example of generative AI is ChatGPT,
+developed by OpenAI.
+
+The best ways to use AI tools for research are still being determined. However, recent
+advancements in Generative AI (GenAI) are undeniably creating new opportunities to
+support and partially automate research processes. It is expected that the variety of AI
+tools available for research will continue to grow in the future and become increasingly
+integrated into widely used software.
+
+Given that researchers often have limited resources and time, one potential benefit of
+using Generative AI (GenAI) is increased productivity, particularly for activities that are
+time-consuming, repetitive, or require minimal intellectual input. Additionally, GenAI could
+enhance the quality of scientific work by assisting with bibliographic searches and
+improving the overall quality of the texts produced. AI tools raise significant ethical
+questions regarding their responsible use. For example, they can generate documents
+that are syntactically correct but contain false or misleading information, inaccurate
+bibliographic references, fabricated data, or errors and biases in data analysis that can
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+2
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+be extremely difficult, if not impossible, to identify. Additionally, some of these tools have
+faced criticism from civil rights organisations for their development practices, such as the
+unauthorised use of copyrighted material or the exploitation of underpaid workers in
+vulnerable financial situations. Organisations like the United Nations have highlighted
+significant environmental issues associated with their operations, such as energy and
+water consumption.
+
+These guidelines aim to establish a strategic vision for the use of AI tools, offering a
+clearer understanding of what Ca' Foscari University of Venice considers appropriate in
+research contexts. The university is dedicated to promoting and supporting the
+responsible use of AI, particularly generative AI, in research. This includes monitoring the
+application of AI tools within the institution and disseminating ethical principles, best
+practices, and necessary safeguards to ensure security, privacy, and copyright
+protection.
+1.2 The Focus of These Guidelines
+These guidelines pertain to the use of generative AI tools for research purposes,
+primarily focusing on those that are commercially or publicly available. This includes a
+wide range of applications, whether broad or specific, as well as various types of input
+and output, such as text, images, or data. Additionally, these guidelines apply to AI tools
+that are accessible through specific programs via plug-ins, both online and offline.
+The guidelines do not apply to the development of AI tools that are an integral part of
+scientific activities, nor to their application for administrative purposes. Additionally, AI
+tools used for data mining are not formally included in the research methods or designs
+discussed in this document. Lastly, these guidelines do not pertain to teaching activities;
+for those, please consult the relevant University guidelines.
+2. General Principles
+The University encourages the use of AI tools for various research purposes and has
+minimal specific restrictions. However, it is important to consider current national and
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+3
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+international legislation, especially the European Union's AI Act. This act prohibits the
+use of AI that poses a threat to human beings (referred to as AI with unacceptable risks)
+and establishes limits on so-called "high-risk" AI applications, such as those used in
+medical contexts and biometric monitoring. The General Data Protection Regulation
+(GDPR) includes provisions, specifically in Recital 71, that establish a right to
+explanation in areas that significantly affect the rights of data subjects. This right must be
+taken into consideration. Additionally, it is essential to comply with applicable laws and
+regulations regarding intellectual property, safety, health, welfare, and the protection of
+human rights. This includes adherence to the University’s Code of Ethics, particularly
+Article 8, which addresses the ethical aspects of research.
+
+The use of AI tools for research purposes should always follow these general
+principles, which align with the key values of trustworthiness, honesty, respect, and
+accountability outlined in the European Commission's Guidelines on the Responsible
+Use of Generative AI in Research:
+●​ The results generated by AI tools must always be verified through various
+control steps. Generative AI systems do not guarantee accuracy and lack
+mechanisms to ensure the truthfulness of their claims. They may produce what is
+known as "bias" – grammatically correct content that appears plausible at first
+glance but contains false information. It is essential to seek out original
+sources and properly attribute them to their creators. As AI tools operate more
+"autonomously," the associated risks increase. Consequently, as the potential for
+damage grows, the level of verification required by researchers must also
+intensify.
+●​ Individuals using AI are fully responsible for the outcomes and the
+appropriateness of the research processes involving AI. Responsibility cannot
+be transferred to AI tools, and it is essential to stay informed about how these
+tools are used. This means that everyone employing these systems for their
+research is accountable for any misuse, such as failing to adhere to the principles
+of scientific integrity on issues such as plagiarism and proper citation of sources.
+This principle aligns with the Committee of Publication Ethics (COPE) stance,
+which asserts that authors are entirely responsible for the content of their work, 
+ 
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+4
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+including any sections generated by AI tools. Therefore, they can be held
+accountable for any violations of publication ethics. Additionally, ALLEA's 2023
+European Code of Conduct for Research Integrity mandates that the use of AI
+tools be reported in accordance with the standards relevant to the specific
+scientific field.
+●​ Creative ideas and human intellectual contributions are essential.
+Researchers can generate their own ideas or gain new insights using AI tools,
+even if the tools themselves do not directly provide those insights. In terms of
+ideation, AI tools should be seen as versatile resources that enhance human
+activities, allowing for the generation of more innovative ideas.
+●​ Researchers should ensure maximum transparency regarding their use of
+AI tools in scientific activities. This means that the way AI tools are used should
+be described in detail in ad hoc sections of the article (e.g., ‘Materials and
+methods’ and/or ‘Further information’), specifying the prompts (where relevant),
+which tools were used and which version. This practice is essential for ensuring
+the repeatability and reproducibility of research. Additionally, AI tools must be
+properly cited in scientific publications.
+●​ It is essential to adhere to the specific rules of your discipline regarding the
+responsible use of AI tools and to the guidelines set by academic journals.
+Some journals prohibit the use of AI tools in written texts, while others permit their
+use under certain conditions. Anyone involved in the writing of a scientific article
+or any other research output should familiarise themselves with these guidelines
+before submission and ensure compliance.
+●​ Anyone engaged in research should recognise that using AI tools can have
+drawbacks in certain situations. For example, AI tools might produce text that is
+generic, vague, ambiguous, or redundant. They can also generate incorrect
+images or diagrams, fabricate quotes, or omit essential information, among other
+issues. The lack of specificity and accuracy in the text, as well as the use of AI
+tools themselves – about which one must always be transparent – can have a
+negative impact during reviews. Additionally, these systems may exhibit bias or
+discriminatory behavior because they are trained primarily on content available
+online. As a result, they may not have access to literature that is printed or written 
+ 
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+5
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+in less widely spoken languages, or that is not openly accessible or shared since
+the last AI training.
+●​ Always keep in mind that any input or prompt you provide may be stored by
+the AI tool for training purposes and could also be presented to third parties
+as output. Therefore, we advise against entering the following types of
+information into AI tools:
+○​ Personal data that may lead to the identification of individuals, either
+directly or indirectly.
+○​ Data that is crucial for future research exploitation or that is (or may be)
+protected by intellectual property law.
+○​ Data whose release could raise ethical concerns, such as the risk of
+inappropriate use or harm to specific groups, including stigmatisation.
+○​ Data subject to restrictions imposed by existing contracts, such as
+non-disclosure agreements, or by rules set by research funding
+organisations.
+○​ Data covered by agreements with third parties, such as companies.
+○​ Data protected by copyright or database rights, unless you have explicit
+permission from the owner. In this respect, please remember that the works
+of others, even if not published, are covered by copyright.
+As a general rule, we recommend that you review the privacy settings of the AI
+tools you use and make any necessary changes. It is also important to assess the
+level of control you have over the service provider in the event of problems or
+disputes. Take caution if it seems difficult to exercise that control, especially if you
+need to enforce your rights in another country.
+●​ Researchers should not use AI tools to write substantive aspects of peer
+reviews or evaluations of research proposals, especially when there is a
+confidentiality constraint. On the other hand:
+○​ lead authors can use AI tools to generate feedback;
+○​ the research team can use AI tools to improve style in peer reviews,
+provided they implement measures to ensure confidentiality.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+6
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+3. Purposes of AI in research
+3.1 Research purposes
+In this section, you will find information on how AI tools can be used in research.
+Specifically, the table below outlines the main purposes for using these tools, with each
+purpose illustrated by a brief case study. Additionally, we will discuss what you can and
+cannot do when employing AI tools. Finally, we provide some non-exhaustive examples
+of tools associated with each purpose.
+
+AI tools can serve specific purposes or multiple functions. However, their performance
+can vary significantly. It is advisable to use the most up-to-date and high-performance
+tools, which often requires opting for paid versions through individual or group licenses.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+7
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+To find new 
+literature
+Information 
+retrieval
+When conducting 
+a study of the 
+available 
+literature, the 
+team also uses 
+an AI tool to 
+identify relevant 
+literature in 
+lesser-known 
+fields (e.g. 
+interdisciplinary 
+research).
+- Mention the AI tool 
+in the methodology 
+section of the 
+research. 
+- Use AI freely if you 
+are not in the context 
+of a formal study.
+- In your review of 
+sources, do not use 
+articles suggested 
+by the IA without 
+checking their 
+content.
+- Elicit (http://elicit.org) 
+- Perplexity 
+(https://www.perplexity.ai) 
+- Inciteful (http://inciteful.xyz) 
+- Research Rabbit 
+(http://researchrabbit.ai) 
+- Connected Papers 
+(http://connectedpapers.com) 
+- Consensus 
+(http://consensus.app) 
+- Scite (http://scite.ai) 
+- Iris (http://iris.ai)
+To summarise 
+articles and 
+published 
+papers
+Word 
+processing
+The research 
+team uses an AI 
+tool to select and 
+summarise 
+recent literature. 
+The summaries 
+are then 
+examined in 
+detail.
+- Using AI for initial 
+screening before 
+reading the full texts.
+- Do not quote or 
+reference articles 
+based on a 
+summary, without 
+having read them 
+personally.
+- Semantic Scholar 
+(http://semanticscholar.org) 
+- Humata (https://www.humata.ai) 
+- Iris (http://iris.ai) 
+- ChatGPT (http://chat.openai.com) 
+- Perplexity 
+(https://www.perplexity.ai) 
+- Copilot 
+(https://copilot.microsoft.com)
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+8
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+Selective 
+searches of an 
+article’s 
+content.
+Information 
+retrieval
+The research 
+team uses an AI 
+tool to identify 
+recommendation
+s/perspectives in 
+scientific 
+publications to 
+keep up-to-date 
+with the latest 
+implications in 
+their field.
+- Get a screening for 
+specific parts of 
+articles or terminology 
+and then do a manual 
+review.
+- Do not summarise 
+specific parts of 
+articles without 
+reading them 
+carefully in their 
+entirety. 
+- Do not forget to 
+cite sources you 
+have used in the 
+preparation of your 
+academic work.
+- Iris (http://iris.ai) 
+- Semantic Scholar 
+(http://semanticscholar.org) 
+- ChatGPT (http://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+To formulate 
+scientific 
+statements / 
+hypotheses
+Word 
+processing
+The team enters 
+their scientific 
+statements/hypot
+heses into an AI 
+tool to receive 
+feedback. The 
+tool suggests 
+possible 
+(substantial or 
+clarifying) 
+improvements.
+- Mention the use of 
+the AI tool (including 
+prompts and outputs) 
+in the processing of 
+scientific hypotheses, 
+if hypothesis testing is 
+part of the publication.
+- Do not take AI's 
+scientific statements 
+and hypotheses as 
+true without proper 
+verification.
+- ChatGPT (http://chat.openai.com) 
+- Elicit 
+(https://elicit.org/?via=topaitools) 
+- Copilot 
+(https://copilot.microsoft.com)
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+9
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+Critique 
+statements or 
+stances
+Ideation 
+The research 
+team uses an AI 
+tool to critically 
+examine a 
+stance by 
+gathering more 
+information on 
+possible counter- 
+arguments.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Check whether all 
+arguments that 
+undermine your 
+position can be 
+refuted. 
+- Educate students 
+through debate.
+- Avoid citing very 
+personal stories to 
+support your 
+position.
+- DebateDevil 
+(https://www.debate-devil.com/en) 
+- Elicit 
+(https://elicit.org/?via=topaitools) 
+- Scite 
+(https://scite.ai/?via=topaitools) 
+- ChatGPT (http://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+10
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+11
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+12
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+13
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+To carry out a 
+preliminary 
+screening of 
+evidence 
+for/against 
+given scientific 
+claims
+Information 
+retrieval
+The research 
+team uses an AI 
+tool to screen the 
+results of 
+scientific 
+publications (in 
+terms of positive 
+or negative 
+relationships 
+between certain 
+variables), to 
+deepen the 
+burden of proof 
+for a given 
+hypothesis.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Do an initial 
+screening of the 
+evidence and 
+shortcomings of the 
+studies, and then 
+examine them in 
+depth. 
+- Do additional 
+screening during the 
+systematic review and 
+meta-analysis of 
+studies. 
+- During this practice, 
+take into account 
+‘publication bias 
+towards positive 
+results’.
+- do not use the 
+results of the AI tool 
+as a ‘burden of 
+proof’ for or against 
+a statement in the 
+public debate. 
+- do not rely entirely 
+on an AI tool when 
+selecting studies for 
+a systematic review.
+- Consensus 
+(https://consensus.app/search) 
+- Perplexity 
+(https://www.perplexity.ai) 
+- System Beta 
+(https://www.system.com/landing) 
+- Scite 
+(https://scite.ai/?via=topaitools) 
+- ChatGPT 
+(https://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+14
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+Brainstorming 
+Ideation 
+The research 
+team submits its 
+ideas to an AI 
+tool to find out 
+whether they are 
+already covered 
+in the existing 
+literature. The 
+tool finds some 
+potentially useful 
+publications to 
+answer the 
+research query.
+To generate 
+the initial 
+structure and 
+lay out the 
+sections of a 
+scientific 
+publication
+Word 
+processing
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Cite the interactions 
+you had with the AI 
+tool in order to 
+generate ideas for 
+your publication 
+(including prompts 
+and outputs).
+- Do not introduce 
+completely new 
+ideas expecting to 
+commit later in their 
+valorisation.
+- ChatGPT (http://chat.openai.com) 
+- Elicit 
+(https://elicit.org/?via=topaitools) 
+- Copilot 
+(https://copilot.microsoft.com)
+The research 
+team uses an AI 
+tool to lay out the 
+initial structure 
+for the 
+introductory 
+section of a 
+publication. The 
+team then writes 
+the text based on 
+that structure.
+- Cite AI tools among 
+the additional data in 
+the methodological 
+section of the 
+research.
+- Do not blindly 
+follow the proposed 
+structure without 
+checking and 
+comparing it with 
+your field’s accepted 
+practices.
+- ChatGPT 
+(https://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+15
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+To generate a 
+text by 
+entering the 
+initial structure 
+of a scientific 
+publication
+Word 
+processing / 
+new work 
+production
+The research 
+team provides 
+paragraph titles 
+with instructions 
+to write N lines 
+per paragraph. 
+The AI tool 
+generates the 
+text accordingly, 
+providing 
+information about 
+the sources.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Read all cited 
+publications and 
+check whether the 
+citation is accurate. 
+- Check whether the 
+paragraphs present 
+sufficiently diverse 
+views/evidence (e.g. 
+studies with 
+conflicting results). 
+- Report the use of AI 
+tools in the 
+methodology section 
+of the publication and 
+cite prompts and 
+outputs among the 
+supplementary data.
+- Do not copy and 
+paste texts into your 
+publications without 
+checking for 
+plagiarism or 
+licencing issues.
+- ChatGPT 
+(https://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+16
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+To correct 
+spelling 
+mistakes, 
+grammatical 
+errors and 
+paragraph 
+structure 
+according to 
+your input
+Word 
+processing
+- The research 
+team uses an AI 
+tool to improve 
+their text. The 
+tool makes 
+suggestions to 
+improve 
+paragraph 
+structure and 
+corrects 
+grammatical and 
+spelling errors. It 
+also suggests 
+alternatives for 
+inaccurate terms.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Cite AI tools in the 
+methodology section 
+of the publication.
+- Do not 
+automatically accept 
+all possible changes 
+without verifying 
+whether your 
+content has 
+changed.
+- Writefull 
+(https://www.writefull.com) 
+- Quillbot (https://quillbot.com) 
+- ChatGPT 
+(https://chat.openai.com) 
+- Copilot 
+(https://copilot.microsoft.com)
+17
+
+---
+
+Aim 
+Types of 
+activity 
+Case studies 
+DOs 
+DON’Ts 
+Examples of AI tools
+Analysis of 
+research data
+Data analysis 
+and 
+visualisation
+Various AI tools 
+are already 
+available for 
+analysing 
+research data. 
+This is not 
+necessarily 
+generative AI; 
+analysis can be 
+carried out based 
+on prompts with 
+existing software.
+​
+
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+- Carry out analyses 
+using AI with 
+sufficient substantive 
+control and in 
+accordance with 
+ethical and legal 
+principles (e.g. check 
+bias in data sets). 
+- Cite AI tools in the 
+methodology section 
+of the research.
+- do not perform 
+analyses based 
+solely on prompts 
+without checking 
+whether they have 
+been interpreted 
+correctly. 
+- do not make post 
+hoc hypotheses on a 
+dataset because 
+these hypotheses 
+are always 
+confirmed. 
+- GenAI was not 
+designed for this 
+type of application 
+and should be 
+avoided
+- Code Interpreter in GPT-4 
+(https://chat.openai.com/?model=g
+pt-4-code-interpreter) 
+- AutoML
+18
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+
+4. Benefits of AI in Research
+AI tools offer many benefits for research, including:
+● Increased productivity, i.e. the amount of research outputs produced with a
+given amount of resources. Tasks that are more time-consuming or repetitive can,
+at least partially, be delegated to AI tools. Moreover, such tools can also
+strengthen the researchers’ skills in generating ideas or can be used to identify
+complex patterns within large datasets, which can be particularly useful in
+exploratory research.
+●​ Increased quality of work. The use of GenAI tools can help researchers achieve
+their objectives more efficiently. For instance, studying scientific literature on a
+specific topic can be enhanced with the support of artificial intelligence.
+Additionally, AI tools can inspire insights, creativity, and self-critique, ultimately
+leading to higher-quality work.
+●​ Help in assessing one's own work. AI tools can provide valuable insights into
+an individual's beliefs, arguments, ideas, and outputs and offer a rapid external
+and objective perspective.
+●​ AI can help us face new challenges more readily. Today, researchers
+frequently encounter obstacles that demand new skills, such as writing project
+applications, drafting Data Management Plans, and navigating data protection
+legislation and ethical guidelines. One major hurdle is that the learning process
+can be time-consuming. However, utilizing AI tools could help streamline and
+expedite this process.
+●​ Bring about a change in our daily work. Artificial intelligence and other
+technologies are transforming work roles across various fields. These changes
+can impact various research activities, from project coordination and mentoring to
+administrative tasks and basic research. AI tools are anticipated to primarily be
+used for repetitive, non-intellectual tasks, such as bureaucratic duties. In contrast,
+AI is often employed alongside humans for more complex tasks. If we assume
+that AI will reduce the time spent on repetitive tasks without increasing their
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+19
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+volume, it is likely that more complex tasks – such as those involved in basic
+research – will occupy a greater portion of researchers' daily work in the future.
+●​ Reduce gaps between researchers with diverse characteristics and
+backgrounds. Research is a usually collective effort involving individuals with
+diverse 
+characteristics 
+and 
+backgrounds. 
+This diversity necessitates a
+consideration of the different opportunities and challenges faced by vulnerable or
+disadvantaged groups, such as individuals with Specific Learning Disabilities or
+other disabilities, neurodivergent individuals, and non-native speakers. For some,
+the use of AI tools can provide significant benefits. For instance, a researcher who
+struggles with writing research findings in English may utilise AI tools to help
+bridge this gap. In other words, AI tools have the potential to level the playing field
+for researchers by addressing specific skill deficits.
+●​ Making science more accessible. AI tools can be used to summarise and
+explain scientific texts, making them more accessible to a non-academic
+audience. They also help scientists communicate their results and findings more
+clearly. These tools effectively address a significant cognitive limitation known as
+the “curse of knowledge.” This occurs when a specialised individual assumes that
+others have the same background and understanding as they do, leading to
+misunderstandings in communication.
+●​ Promoting dialogue and research across disciplines. AI tools help
+researchers explore and understand large volumes of information found in
+extensive literature across various fields. These tools can also identify
+connections that may not be immediately apparent to researchers: by acting as
+matchmakers, AI tools can connect different research groups, thereby promoting
+interdisciplinary collaboration.
+
+Overall, it is expected that, with equal resources, these benefits for individual research
+teams will result in faster scientific progress and a bigger social impact of research at
+large. This indicates that the resources allocated to scientific research are likely to be
+used more effectively.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+20
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+5. Challenges and Potential Problems in the Use of
+AI for Research
+It is important to recognise that AI tools, especially generative AI, can have significant
+limitations, whether due to the technical shortcomings of the tools themselves or their
+potential for misuse. Additionally, risks may stem from the proprietary nature of certain
+tools, which may involve fees and restricted access to services, or from the concentration
+of ownership in a small number of companies, leading to unclear or opaque data usage
+practices. The key critical issues are outlined below by category.
+5.1 Outputs of AI Models
+●​ Veracity. The results of generative AI, particularly those based on Large
+Language Models (LLMs), may seem accurate and persuasive, yet they can
+actually be incorrect, fabricated, biased, or simply irrelevant. In this context, we
+describe as "biases" those instances where an AI tool generates outputs that are
+either not true, not factually accurate or not based on objective data. Additionally,
+the outputs produced by AI tools can often be redundant, irrelevant, or overly
+technical in style. The widespread and uncritical use of artificial intelligence can
+negatively impact the quality of work, particularly in areas where AI tools are not
+appropriate. The confidence with which these tools present their findings can be
+misleading, so it is essential to always evaluate very carefully the results they
+provide.
+●​ Bias. AI tools can produce biased and distorted outputs and contain sexist, racist,
+or other discriminatory content. Developing LLMs for specific tasks that require
+human evaluation might also introduce bias.
+●​ Lack of detailed information on how AI tools exactly work. Determining how
+algorithms reach specific results can often be challenging. While it may be evident
+that certain parts of the training data significantly impact outcomes, the reasons
+behind this influence may not always be clear. A lack of understanding regarding
+the precise functioning of AI tools can lead to serious consequences, particularly if
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+21
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+unintended correlations arise concerning sensitive characteristics such as gender,
+sexual orientation, religion, and others, or their indicators.
+●​ Limited reproducibility. Due to their stochastic nature, GenAI tools do not
+always produce identical outputs. For example, if you enter the same prompt
+multiple times, you may receive different segments of text each time. This
+unpredictability makes it challenging to achieve complete reproducibility in search
+processes, such as when you use an AI tool to gather literature on a specific topic.
+Additionally, algorithms can be unstable; inputs may not be processed consistently
+over time, leading to difficulties in establishing reproducible workflows.
+●​ Plagiarised elements within the output. Copying formal elements or ideas from
+existing texts or images in their entirety can infringe on copyright and research
+integrity. Not all AI tools can explicitly reference the sources they use. Citing
+sources can involve certain complexities, such as when sources appear within
+other sources (e.g., citations found in a review article) or when a text is
+misattributed to a specific source.
+●​ The generated new data is in conflict with existing privacy regulations such
+as the GDPR. Issues can occur with data linkage or derived information when
+individually anonymised data can, when combined, lead to the creation of new
+privacy-sensitive data (for example, linking income class with postcode). This
+indicates that the original datasets were not genuinely anonymous, as they were
+not irreversibly de-identified. Furthermore, contrary to the principle of maintaining
+accurate and up-to-date personal data, AI systems may produce incorrect or
+misleading information about specific individuals.
+5.2 Training and Learning Data for AI Models
+●​ Data distortions may occur in training.
+a.​ Training data may already reflect existing structural inequalities between
+different groups. Variations among groups, such as those based on gender,
+ethnicity, or socio-economic class, can lead to either over-representation or
+under-representation of real-world conditions in the data (for example, in
+labour force records, health data, etc.). The impact of structural inequalities
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+22
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+on group participation or outcomes is often greatly influenced by the source
+and context of the data.
+b.​ Training data may contain discriminatory language, racist overtones,
+incorrect information, and fallacious arguments resulting from logical
+errors. This is especially true when written texts are used as training data
+for large language models (LLM).
+c.​ Training data may present other forms of bias depending on the source
+type. For instance, the ‘publication plus bias’ may impact AI tools that
+initially screen evidence for subsequent scientific outputs.
+●​ Training data for AI tools may be dated. AI tools, including LLMs, may not have
+access to the most recent events or publications, as their training data has a
+knowledge cutoff. For example, GPT-3.5's knowledge limit was September 2021,
+and it did not include sources published after that date.
+●​ Training data for AI tools may already be partially influenced by large
+language models (LLMs). If the use of LLMs becomes widespread, this could
+affect the content of new texts, which may then be reused as training data for
+LLMs. This creates a form of “circularity,” posing the risk that, if there is insufficient
+human intervention, machines may replicate the errors made by other machines.
+●​ Various segments of training data are not equally informative. Training data
+for large language models (LLMs) can include various sources of information that
+typically have different levels of credibility. For instance, the results of a single
+empirical study are generally considered less credible than a meta-analysis that
+compiles all available empirical studies. Similarly, blogs, newspaper articles, and
+scientific publications do not inherently have the same level of credibility.
+LLMs, like ChatGPT, can theoretically account for these differences. This can
+occur through refinement phases or reinforcement learning from human feedback
+(RLHF) during their development. However, many LLMs still have the potential to
+connect users to less reliable sources, such as blogs, especially if no plug-ins or
+specialised AI tools are utilised.
+●​ Training data may contain personal information or copyrighted material that
+was unlawfully disclosed. The use of this data could therefore lead to violations of
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+23
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+research integrity, intellectual property rights, and/or the GDPR as well as relevant
+national data protection laws.
+●​ Training data used by AI tools can sometimes be reconstructed under certain
+conditions. Various types of "adversarial privacy attacks" – which aim to disrupt
+the functionality of AI models or steal sensitive information – pose significant risks.
+This is especially true for AI tools that analyse personal data or use images
+protected by rights without proper release. Under specific circumstances, third
+parties may be able to request data about particular individuals involved in the
+training (known as "membership inference attacks"). Additionally, parts of the
+training data could potentially be reconstructed through "model inversion attacks.".
+5.3 Text Prompts and User Input for AI Models
+●​ Entering personal data into AI tools could potentially breach the European
+Union's General Data Protection Regulation (GDPR). When personal
+information is inputted, it may be stored outside the EU, and third parties might
+gain access to this data.
+●​ Entering personal data into AI tools might conflict with the consent provided
+by research participants. Ethical guidelines for research participation often state
+that consent is deemed informed only if participants are made aware of all risks in
+advance. If the use of AI tools leads to unforeseen risks that were not disclosed,
+this may indicate that the consent was not adequately ‘informed’. Additionally,
+informed consent may also imply that participants' information should not be
+shared with commercial companies.
+●​ Using AI tools to provide feedback on completely new research ideas may
+be akin to making those ideas public for specific goals. For instance, it is
+important to consider whether employees of an AI tool company can view users'
+conversations with their tool to enhance the algorithm. If this is the case, it could
+result in the loss of opportunities to patent and commercialise an invention.
+Therefore, be careful with what you include in discussions if you plan to secure a
+patent in the future.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+24
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+●​ Your inputs into AI tools can affect the results obtained by others. Some free
+AI tools may use content – such as prompts, responses, uploaded images, and
+generated images – to enhance their services by training on the interactions
+people have with the tool. This may happen unless you choose to disable this
+option. Consequently, your interactions with the AI tool, including your prompts,
+could be used to improve the model's performance.
+It is unclear whether this process involves basic training, refinement, or
+reinforcement learning from human feedback (RLHF). If it involves basic training,
+your prompts or inputs might reappear as outputs for other users, although there
+is currently no conclusive evidence to confirm this. Conversely, if the process only
+involves further RLHF, your prompts are unlikely to be shared with other users.
+●​ The data entered into the system, such as quantitative data, may sometimes
+be of poor quality. This can result from flaws in the sample itself, which
+diminishes the data's usefulness for further analysis—this is known as
+methodological defects. Additionally, the data might lack sufficient context,
+referred to as metadata, making it inadequate for effective processing by AI
+models. Moreover, current AI models do not always manage metadata proficiently.
+Therefore, it is advisable for research teams to keep in mind the principle of
+"garbage in, garbage out."
+5.4 Environmental Implications
+Certain AI systems, like large language models (LLMs), consume vast amounts of water,
+energy, and raw materials, leading to significant impacts on both people and the
+environment. When using these systems for research, it is important to avoid generating
+unnecessary prompts and to restrict their use to essential purposes only.
+●​ Water consumption. The OECD Observatory on AI reports that training a large
+language model like GPT-3 can use millions of litres of fresh water for system
+cooling. It is projected that AI could consume up to 6.6 billion cubic meters of
+water globally by 2027. This is a significant concern, particularly in countries that
+are experiencing drought.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+25
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+●​ Electricity consumption. According to the International Energy Agency, a
+request made through ChatGPT consumes ten times more energy than a search
+on Google.
+●​ Consumption of raw materials. According to the UN report1, 800 kg of raw
+materials are required to produce a 2-kg computer. Additionally, the microchips
+that drive artificial intelligence rely on rare earth elements, which are frequently
+extracted in environmentally harmful ways.
+●​ Local environmental damage. Data centres generate electronic waste that
+contains hazardous substances and pollutants, including mercury and lead. The
+International Energy Agency reports that data centres used for AI consume
+significant amounts of energy, which is often produced by burning fossil fuels. This
+process releases greenhouse gases that contribute to global warming.
+●​ Conseguenze per le popolazioni locali. I data center sono spesso collocati in
+Paesi in via di sviluppo, che subiscono lo sfruttamento di materie prime, acqua
+potabile e risorse umane e devono quindi affrontare scarsità di risorse.
+Impact on Local Populations. Data centres are frequently situated in developing
+countries, which suffer from the exploitation of raw materials, drinking water, and
+human resources, leading to resource shortages2.
+6. Citing AI Tools in Research
+6.1 State of the Art
+The rise of AI tools employed in research presents new challenges for attributing
+scientific work. Currently, there is no consensus on the acceptability of these tools or how
+to ensure their use is transparent. Academic communities across various disciplines, as
+well as scientific journals and publishers, hold differing views on the use of AI tools and
+how they should be cited. It is important to note that some publishers and journals
+impose specific restrictions on the use of AI tools, so it is advisable to check these
+1 United Nations Environment Programme (2024). Artificial Intelligence (AI) end-to-end: The Environmental Impact of 
+the 
+Full 
+AI 
+Lifecycle 
+Needs 
+to 
+be 
+Comprehensively 
+Assessed 
+- 
+Issue 
+Note. 
+https://wedocs.unep.org/20.500.11822/46288.
+2 https://inthesetimes.com/article/microsoft-ai-data-center-water-climate.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+26
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+guidelines before submitting a paper. This inquiry should also be made prior to
+conducting research if the use of AI tools is a formal part of the research methodology or
+project. Furthermore, this check should be conducted beforehand if you plan to use AI
+tools to generate text or images while writing your paper.3
+Citation practices regarding AI will continue to evolve, so it is recommended to regularly
+review these aspects.
+6.2 Citations and AI
+The University recommends that you check the guidelines of the journal or publisher
+you plan to submit your work to, if such guidelines are available.
+If the journal or publisher does not provide specific guidelines regarding the use of AI
+tools, you can follow these general recommendations. It is advisable to describe the use
+of AI tools in the methodology section of your work, particularly when their use is
+significant and goes beyond simple tasks like grammatical, syntactic, or stylistic
+corrections. When detailing the use of AI tools, include the following technical
+specifications: the tool’s full name, version, a link to its repository, as well as any
+configurations and parameters used. If the AI tool has been described in detail in
+scientific publications, these articles should be cited. The prompts used and the outputs
+obtained should be described in the methodology section or included as supplementary
+data. If the AI-generated text contains any fragments or ideas from other sources, it is
+essential to cite the original sources accordingly.
+
+Please take note of these special instances:
+a.​ When AI tools are the object of the study (for example, you are analysing
+distortions in ChatGPT outputs) or you are citing their outputs verbatim. In
+this case, it is important to accurately present all prompts and cite the results
+precisely as they appear. This can be done by including the name of the AI tool in
+brackets at the end of the quotation. Generally, it is not necessary to list the AI tool
+as the ‘author’ in the bibliographical references section, but if the journal’s citation
+style allows it, then it is advisable to do so.
+3 We refer to images that do not describe the research results, because generative AI systems are not designed for 
+data visualisation. 
+ 
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+27
+
+---
+
+Ca’ Foscari University of Venice 
+Dorsoduro 3246, 30123 Venice, Italy
+www.unive.it
+b.​ When AI tools generate seemingly new insights or arguments without
+significant human intellectual contribution. To avoid plagiarism, it is essential
+to first verify the origin of any output. If an idea already exists, its source must be
+properly cited. If a thorough search fails to identify the origin of the idea, it is
+permissible to present it, but it should be clearly stated that the idea comes from
+an AI. The methods used to determine the origin should be detailed in the
+methodology section of the research products, and the prompts should be
+included as supplementary data.
+Computer Services and Telecommunication Area (ASIT) 
+Working Group for ICT Research Support Activities, November 2024
+28

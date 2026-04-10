@@ -1,0 +1,32 @@
+name: Validate guidelines
+
+on:
+  pull_request:
+    paths:
+      - 'guidelines.yaml'
+      - 'scripts/build_index.py'
+      - 'scripts/validate.py'
+      - '.github/workflows/validate.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install pyyaml
+
+      - name: Validate YAML schema and URL policy
+        run: python scripts/validate.py
+
+      - name: Rebuild derived files
+        run: python scripts/build_index.py
+
+      - name: Ensure generated files are committed
+        run: git diff --exit-code README.md index.json

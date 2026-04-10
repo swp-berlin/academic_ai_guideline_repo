@@ -1,0 +1,385 @@
+# Weierstraß-Institut
+# Source: https://www.wias-berlin.de/research/resp/gwp/files/AI_Guideline_DE.pdf
+# Date: None
+# Category: guideline
+# Download file: weierstra-institut.pdf
+
+WIAS-Richtlinie zur Nutzung generativer KI
+Präambel
+Der Einsatz von generativer künstlicher Intelligenz
+(GenKI) hat sich in der Gesellschaft und der Wis-
+senschaft weitestgehend verselbständigt. Es besteht
+ein Konsens, dass diese disruptive Technologie ein
+großes positives Potenzial für Lehre und Forschung
+besitzt, welches am WIAS ausgeschöpft, gesteuert
+und begleitet werden soll. Das Ziel der wissenschaft-
+lichen GenKI-Nutzung muss ein Erkenntnisgewinn
+sein, der das Vertrauen der Gesellschaft in wissen-
+schaftliche Methoden und deren Ergebnisse stärkt
+und zugleich die Freiheit von Forschung und Lehre
+wahrt. Für die Nutzung generativer KI am WIAS sind
+maßgeblich:
+• Europäische KI-Verordnung EU 2024/1689 [EU AI Act],
+• Europäische Datenschutz-Grundverordnung [DSGVO],
+• Leitlinien Guter Wissenschaftlicher Praxis von DFG und
+Forschungsverbund Berlin e.V. (FVB) [GWP],
+• Living guidelines on the responsible use of gene-
+rative AI in research der Europäischen Kommission
+[EU Guideline],
+• Empfehlung zur Sicherung der guten wissenschaftlichen
+Praxis beim Umgang mit Künstlicher Intelligenz der Leib-
+niz Gemeinschaft [Leibniz Guideline],
+• und ggf. die Richtlinien von Journalen, Kooperationspart-
+nern und Universitäten.
+Diese Richtlinie richtet sich an Beschäftigte des WIAS
+in Forschung, Verwaltung und IT und ebenso an
+WIAS-Gäste, die GenKI-Systeme des WIAS nutzen.
+Sie regelt primär die dienstliche Nutzung sogenann-
+ter Large Language Modelle (LLM). Die Kernprinzipi-
+en der Forschung mit und an KI sind [EU Guideline]:
+• Verlässlichkeit: Forschungsqualität durch Überprüfbar-
+keit und Reproduzierbarkeit sichern und auf Verzerrung
+(Bias) achten.
+• Redlichkeit: Forschung transparent, fair und unpartei-
+isch; Einsatz generativer KI offenlegen.
+• Respekt: Achtung von Mensch, Gesellschaft, Umwelt,
+sensiblen Daten (z.B. personenbezogene Daten, Ge-
+schäftsgeheimnisse, Gutachten, Anträge, geistig ge-
+schützte Inhalte), Privatsphäre, geistigen Eigentum und
+Fairness.
+• Verantwortlichkeit: Forschende bleiben für alle durch KI
+generierten Ergebnisse und deren Folgen verantwortlich;
+Nutzung generativer KI erfolgt unter menschlicher Auf-
+sicht und Steuerung.
+Verbotene KI-Praktiken im Sinne des [EU AI Act] sind
+am WIAS auch in der Forschung ausgeschlossen;
+Forschung und Entwicklung am WIAS richten sich
+nicht auf solche Zwecke.
+Das WIAS kommt mit dieser Richtlinie und ihren
+begleitenden Prozessen zugleich den Pflichten aus
+Art. 4 und Art. 11 KI-VO nach, ein angemessenes
+Maß an KI-Kompetenz sicherzustellen und eine tech-
+nische Dokumentation für die Nutzung der angebo-
+tenen KI-Systeme zur Verfügung zu stellen. Die Ge-
+samtverantwortung liegt bei der Institutsleitung und
+die Umsetzung erfolgt durch die in dieser Richtli-
+nie genannten Rollen (u.a. Datenschutzkoordinati-
+on, Ombudsperson, RSE, IT). Weiterbildungen zu KI-
+Themen sollen in der Zukunft angeboten werden; z.B.
+im Rahmen des RSE-Seminars am WIAS gibt es Ver-
+anstaltungen, um die KI-Kompetenz zu gewährleis-
+ten.
+Stufensystem (TIER 0,1,2)
+Im Sinne des [EU AI Act] ist wissenschaftliche For-
+schung in der Regel mit einem niedrigen Risiko ver-
+bunden. Zur weiteren praktischen Abschätzung und
+Eingrenzung von Risiken bei der Nutzung eines LLM
+setzt das WIAS ein TIER-Stufensystem ein. Es unter-
+scheidet Art und Zweck des LLM, ersetzt aber nicht
+die offizielle Hochrisiko-/Niedrigrisiko-Einstufung (und
+verbotene Praktiken) des [EU AI Act]. Die wesent-
+lichen Merkmale der TIER-Stufen sind in Tabel-
+le 1 abgebildet. Forschende können je nach Kom-
+plexität
+der
+Forschungsfragen
+TIER
+0,
+TIER
+1
+oder TIER 2 LLM nutzen. Die Entwicklung, An-
+passung und Evaluation eigener KI-Modelle ist im
+Rahmen der TIER-Stufen ausdrücklich möglich. Da-
+bei werden die maßgeblichen Rechtsvorschriften
+[DSGVO, EU AI Act] sowie die einschlägigen Leitli-
+nien [GWP, EU Guideline, Leibniz Guideline] einge-
+halten. [DSGVO] und [EU AI Act] definieren bestimm-
+te Ausnahmen und Privilegien für die Forschung
+(z.B. Art. 89 [DSGVO] oder Erwägungsgrund 25
+[EU AI Act]).
+1
+
+---
+
+TIER
+Risiko
+Typische Modelle / Nutzung
+Anforderungen
+0
+kaum
+lokale LLM ohne externe Datenübertragung;
+Basistools zur Text- und Codeunterstützung
+automatischer Zugang; Beachtung von Gui-
+deline und [GWP, DSGVO]
+1
+niedrig
+kuratierte, externe LLM mit Standardfunktio-
+nen (Chat, Text, Code) für Forschung und
+Administration ohne sensible Daten
+2
+mittel
+leistungsfähige externe LLM, spezialisierte
+APIs, komplexe agentische Workflows; For-
+schung mit und an Modellen
+Tabelle 1: Stufensystem für KI-Nutzungsfälle am WIAS
+Die Nutzung von LLM in der Verwaltung unterliegt
+den rechtlichen Vorgaben von [DSGVO, EU AI Act].
+Insbesondere Vorgänge in der Personal- und Finanz-
+verwaltung, der Drittmittel- und Vertragsverwaltung
+sowie der internen Organisation unterliegen einer be-
+sonderen Sorgfaltspflicht. Für die Verwaltung sollen
+daher in der Regel nur TIER 0 und nur bei klar unbe-
+denklichen1 Daten TIER 1 LLM genutzt werden. KI-
+Systeme dürfen nicht zur automatisierten Bewertung
+von Bewerbenden oder Beschäftigten benutzt wer-
+den.
+Für TIER 1 und TIER 2 sind jeweils auch Token-
+und Kostenlimits der externen LLM-Anbieter zu be-
+achten: die Modelle sind entsprechend differenziert
+nach Anwendungszweck energie- und kostensparend
+einzusetzen. In den Stufen TIER 0 und TIER 1 er-
+folgt die Nutzung ausschließlich aus dem WIAS-
+Intranet/VPN über
+https://webui.wias-berlin.de.
+In der Stufe TIER 2 erfolgt der Zugriff auf externe LLM
+ggf. direkt und somit nicht notwendig aus dem WIAS-
+Intranet/VPN. Der Freigabeprozess von TIER 2 erfolgt
+durch einen Antrag (siehe Tabelle 1).
+Richtlinie
+Forschende am WIAS dürfen generative künstliche
+Intelligenz wie andere Werkzeuge zur Unterstützung
+in Forschung, Lehre, Softwareentwicklung und Ver-
+waltung einsetzen, sofern sie die Regeln der [GWP],
+[DSGVO], der Universitäten und der Journale be-
+achten. Die Verantwortung für die Richtigkeit und
+Verwendbarkeit der Inhalte (Input und Output) ver-
+bleibt immer beim KI-Nutzenden. Für alle WIAS-
+Beschäftigten sind bei KI-Nutzung geltende Rechts-
+bestimmung zu beachten, z.B. hinsichtlich des Daten-
+schutzes, Urheberrechts, Patentrechts.
+Im Folgenden werden zentrale Aspekte bei der Nut-
+zung von GenKI hervorgehoben.
+1Klar unbedenkliche Daten erhalten keine persönliche, urheberrechtlich geschütze oder vertrauliche Informationen.
+Kenntnisnahme und Einhaltung der Richt-
+linie (schwarz) und [GWP, DSGVO]; Be-
+schränkung auf nicht-sensible Daten
+formeller Antrag + Prüfung, unterschriebene
+Richtlinie TIER 2 (blau), erweiterte Anforde-
+rungen und technische Expertise
+Verhaltensregeln und Dokumentation in der For-
+schung
+1. Die Leitlinien guter wissenschaftlicher Praxis des
+Forschungsverbunds Berlin e.V. und der DFG
+[GWP] sind Grundlage allen wissenschaftlichen
+Arbeitens am WIAS. GenKI darf die eigenständi-
+ge wissenschaftliche Leistung nicht ersetzen, son-
+dern nur unterstützen. Ausgaben sind auf inhaltli-
+che Richtigkeit (Halluzinationen) und Bias zu prü-
+fen.
+2. Die Nutzung von GenKI ist für wissenschaftli-
+che Arbeiten (Publikationen, Gutachten, Berichte,
+Lehrmaterialien etc.) so zu dokumentieren, dass
+Art, Umfang und Zweck der Unterstützung bzw.
+die eigene wissenschaftliche Leistung nachvoll-
+ziehbar sind.
+3. Autorenschaft, Verantwortlichkeit und Haftung ver-
+bleiben bei den jeweiligen Nutzenden und ggf. Co-
+Autor*innen. GenKI kann nicht als Autor*in ausge-
+wiesen werden.
+TIER 2: Um das Risiko der Nutzung nachvollzieh-
+bar zu gestalten, ist ein der Komplexität der Da-
+ten angemessener Forschungsdatenmanagement-
+plan (RDMP) anzufertigen. Bei einer Änderung des
+Datenprofils wird der RDMP angepasst. In einfachen
+Fällen dient der Antrag als RDMP. Besonders im
+TIER 2 ist eine hohe eigene KI-Kompetenz erforder-
+lich und die Nutzenden verpflichten sich, ihre Kennt-
+nisse zum Stand von Technik und Wissenschaft aktu-
+ell zu halten.
+Datenschutz
+Beim Einsatz von KI-Systemen gel-
+ten uneingeschränkt dieselben datenschutzrechtli-
+chen Grundsätze und Anforderungen wie bei allen
+anderen Anwendungen und Prozessen. Für den da-
+tenschutzkonformen Einsatz von KI-Systemen sind
+insbesondere die folgenden Punkte zu beachten:
+4. Der Nutzende ist verantwortlich für die Rechtmä-
+ßigkeit der Eingaben in und der Verwertung von
+2
+
+---
+
+Ausgaben von LLM. Externe LLM (ab TIER 1) kön-
+nen Ein- und Ausgaben für einige Zeit speichern
+und automatisiert überwachen, um Rechtsverstö-
+ße zu prüfen. Nach derzeitigem Kenntnisstand
+werden Eingaben über die API an externe LLM
+aktuell nicht zum Training verwendet. Feedbacks
+(z.B. Daumen hoch/runter) können jedoch geson-
+dert geregelt sein und unter Umständen dennoch
+zum Training benutzt werden.
+Details für die kuratierten TIER 1 LLM finden sich
+in den Nutzungsbedingungen der jeweiligen An-
+bieter (z.B. Mistral oder OpenAI).
+5. Die Verarbeitung personenbezogener Daten im
+Sinne der [DSGVO] sowie sonstiger sensibler Da-
+ten bedarf einer Rechtmäßigkeitsprüfung im Hin-
+blick auf geltende Gesetze und interne Daten-
+schutzregelungen. Diese muss in Abstimmung
+mit der Datenschutzkoordination und dem Daten-
+schutzbeauftragten des FVB erfolgen.
+6. Wenn personenbezogene Daten in Forschungs-
+projekten verarbeitet werden dürfen, sind diese
+je nach Art und Beschaffenheit der Daten in ge-
+eigneter Weise zu anonymisieren oder pseud-
+onymisieren. Darüberhinaus sind die im Ergebnis
+des Genehmigungsprozeßes auferlegten Pflich-
+ten, etwa hinsichtlich Datensparsamkeit, Datensi-
+cherheit, Dokumentation, Löschfristen und Betrof-
+fenenrechte, umzusetzen.
+7. Datenschutzvorfälle: Sofern es zu einer Verlet-
+zung des Schutzes personenbezogener Daten ge-
+kommen ist, ist diese unverzüglich der Daten-
+schutzkoordination zu melden und sicherzustel-
+len, dass der Schutz wieder hergestellt wird.
+8. Bei Unklarheiten oder konkreten Fragestellungen
+stehen die Datenschutzkoordination sowie der
+Datenschutzbeauftragte unterstützend zur Verfü-
+gung.
+TIER 2: Abhängig vom Nutzungsfall, haben die Nut-
+zer von TIER 2 Projekten eine besondere Sorg-
+faltspflicht (z.B. Kuratierung genutzter LLM-Modelle,
+Übersicht geteilter/generierter Daten, Konfiguration
+der LLM-Services (opt-out Training, Datenspeiche-
+rung)). Bei Nutzung externer Anbieter in Drittlän-
+dern (außerhalb von EU) werden die Vorgaben der
+[DSGVO] zu Drittlandübermittlungen durch Daten-
+schutzkoordination geprüft.
+Softwareentwicklung und Urheberrecht
+9. GenKI kann zur Unterstützung bei der Entwick-
+lung von Software (z. B. Code, Shell-Skripte,
+Webseiten) eingesetzt werden. Die Verantwor-
+tung für Funktionalität, Korrektheit, Sicherheit, Ur-
+heberrecht und Lizenzkonformität der resultie-
+renden Software liegt bei den Entwickelnden/KI-
+Nutzenden.
+10. Es ist darauf zu achten, dass in TIER 1/2 kei-
+ne vertraulichen Quelltexte oder proprietären Al-
+gorithmen offengelegt werden, sofern dies nicht
+ausdrücklich freigegeben ist. Bei Open-Source-
+Projekten sind die jeweiligen Lizenzbestimmungen
+zu beachten. Hinweis: GenKI kann urheberrecht-
+lich geschützte Inhalte beinhalten/reproduzieren.
+Viele kommerzielle und offene LLM besitzen kei-
+ne transparente Dokumentation der verwendeten
+Trainingsdaten, was die Prüfung von Urheber-
+schutzfragen deutlich erschwert.
+TIER 2: Der Einsatz von KI bei der Softwareentwick-
+lung soll nachvollziehbar dokumentiert werden, etwa
+durch aussagekräftige Commit-Texte. Nutzende prü-
+fen dabei die Vereinbarkeit der verwendeten Kompo-
+nenten mit Lizenz- und Urheberrechtsvorgaben. Ur-
+heberrecht entsteht ausschließlich durch menschli-
+che schöpferische Leistung; rein KI-generierte Co-
+des sind nicht urheberrechtlich geschützt. Für agen-
+tische Systeme, die automatisch Code generieren,
+ausführen oder externe Tools ansteuern, sind zusätz-
+liche technische Schutzmaßnahmen empfohlen (z. B.
+Sandbox-Umgebungen, Einschränkung kritischer Ak-
+tionen, Logging).
+Lehre und Publikationen
+11. In der Lehre kann GenKI sowohl von Lehrenden
+als auch von Lernenden unterstützend einge-
+setzt werden. Prüfungs- und Studienordnungen
+sowie die jeweiligen Bestimmungen der Univer-
+sitäten sind zu beachten. Täuschungshandlun-
+gen (z. B. Einreichen von KI-generierten Texten
+als eigene Leistung ohne Kennzeichnung) sind
+unzulässig.
+12. Für wissenschaftliche Publikationen ist die Nut-
+zung von GenKI transparent zu machen, sofern
+dies von Zeitschriften, Verlagen oder Förderor-
+ganisationen gefordert wird. Die jeweils gültigen
+Richtlinien (z. B. zum Einsatz von KI in Manu-
+skripten) sind zu beachten.
+TIER 2: Die Nutzung in Publikationen (z. B. um-
+fangreiche KI-gestützte Datenanalysen oder komple-
+xe agentische Workflows) ist sicherzustellen, dass die
+Ergebnisse nachvollziehbar, reproduzierbar und un-
+abhängig prüfbar bleiben. Dies umfasst insbesondere
+die Dokumentation der genutzten Modelle, Konfigura-
+tionen und Datenverarbeitungsschritte.
+3
+
+---
+
+Schlussbemerkungen
+Die vorliegende Richtlinie soll regelmäßig überprüft
+und bei Bedarf angepasst werden. Insbesondere die
+europäische und nationale Regulierung von KI, neue
+Angebote externer Anbieter sowie technische Ent-
+wicklungen (z. B. neue Modellklassen, agentische
+Systeme) erfordern eine fortlaufende Weiterentwick-
+lung.
+Im Rahmen der Entwicklung eigener KI-Modelle
+und KI-Systeme sind, soweit diese nicht ausschließ-
+lich zu Forschungszwecken im Sinne von Art. 2 Abs.
+6 KI-VO eingesetzt werden, ergänzend die Anbieter-
+Pflichten der KI-VO zu prüfen und zu beachten.
+Autoren: Christian Merdon2, Dirk Peschka3, Laura Prieto Saavedra4
+Literatur
+[EU AI Act] EU KI-Gesetz / Artificial Intelligence Act (Verordnung (EU) 2024/1689). https://artificialintelligenceact.eu/de/
+und https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+[DSGVO] Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürli-
+cher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr (Datenschutz-Grundverordnung).
+https://eur-lex.europa.eu/eli/reg/2016/679/oj.
+[GWP] Deutsche
+Forschungsgemeinschaft
+(DFG):
+Kodex
+„Leitlinien
+zur
+Sicherung
+guter
+wissenschaftlicher
+Praxis“.
+https://www.dfg.de/gwp. Forschungsverbund Berlin e.V. (FVB): „Verfahrensordnung bei Verdacht auf wissenschaftliches
+Fehlverhalten“ https://www.fv-berlin.de/ueber-uns/hinweise-kritik/gute-wissenschaftliche-praxis
+[EU Guideline] European
+Commission:
+Living
+Guidelines
+on
+the
+Responsible
+Use
+of
+Generative
+AI
+in
+Research.
+https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en.
+[Leibniz Guideline] Leibniz-Gemeinschaft: „Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstli-
+cher Intelligenz“. DOI: https://dx.doi.org/10.5281/zenodo.14420893.
+2Datenschutzkoordinator des WIAS
+3Ombudsperson des WIAS
+4Research Software Engineer (RSE) des WIAS
+Änderungen am TIER-System, an den zugelasse-
+nen Modellen oder an den Rollen und Zuständigkei-
+ten (z. B. Ombudsperson, Datenschutzkoordination,
+Beirat IT) werden in den entsprechenden Richtlinie
+TIER 1/TIER 2 sowie in begleitenden Prozessdo-
+kumenten festgehalten. Diese Richtlinie verweist in
+Zweifelsfällen auf diese ergänzenden Dokumente.
+Für
+Fragen
+zur
+Auslegung
+dieser
+Richtlinie,
+zu konkreten Anwendungsfällen oder zu geplanten
+TIER 2-Projekten stehen insbesondere Ombudsper-
+son, Datenschutzkoordination, Forschungssoftware-
+ingenieur (RSE) und IT-Abteilung als Ansprechperso-
+nen zur Verfügung.
+4
