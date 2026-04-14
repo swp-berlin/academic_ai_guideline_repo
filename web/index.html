@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Guidelines Explorer</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #18181b; color: #e4e4e7; font-family: system-ui, -apple-system, sans-serif; }
+  #root { min-height: 100vh; }
+  mark { background: #fbbf24; color: #18181b; padding: 0 1px; border-radius: 2px; }
+  input:focus, select:focus { border-color: #0ea5e9 !important; outline: none; }
+  a { color: #0ea5e9; text-decoration: none; }
+  button { font-family: inherit; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="module">
+import { createElement as h, useState, useMemo, useRef, useEffect } from "https://esm.sh/react@18.3.1";
+import { createRoot } from "https://esm.sh/react-dom@18.3.1/client";
+
+const BC = {
+  B1:  { bg: "#eef2ff", border: "#6366f1", text: "#3730a3" },
+  B2:  { bg: "#f3e8ff", border: "#8b5cf6", text: "#5b21b6" },
+  B3:  { bg: "#e0f2fe", border: "#0ea5e9", text: "#075985" },
+  B4:  { bg: "#ccfbf1", border: "#14b8a6", text: "#115e59" },
+  B5:  { bg: "#dcfce7", border: "#22c55e", text: "#14532d" },
+  B6:  { bg: "#fee2e2", border: "#ef4444", text: "#7f1d1d" },
+  B7:  { bg: "#fef3c7", border: "#f59e0b", text: "#78350f" },
+  B8:  { bg: "#fce7f3", border: "#ec4899", text: "#831843" },
+  B9:  { bg: "#ffedd5", border: "#f97316", text: "#7c2d12" },
+  B10: { bg: "#cffafe", border: "#06b6d4", text: "#155e75" },
+  B11: { bg: "#f3e8ff", border: "#a855f7", text: "#581c87" },
+};
+const DC = { bg: "#f4f4f5", border: "#a1a1aa", text: "#52525b" };
+const gc = c => BC[c] || DC;
+
+/* ── tiny components ── */
+
+function Hl({ text, q }) {
+  if (!q || q.length < 2) return text;
+  try {
+    const re = new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+    return text.split(re).map((p, i) => re.test(p) ? h("mark", { key: i }, p) : p);
+  } catch { return text; }
+}
+
+function Pill({ code, active, onClick, count, label }) {
+  const c = gc(code);
+  return h("button", { onClick, title: label, style: {
+    display: "inline-flex", alignItems: "center", gap: 5,
+    padding: "3px 9px", borderRadius: 6,
+    border: `1.5px solid ${active ? c.border : "transparent"}`,
+    background: active ? c.bg : "transparent",
+    color: active ? c.text : "#71717a",
+    fontSize: 12, fontWeight: 500, cursor: "pointer",
+    transition: "all 0.15s", whiteSpace: "nowrap",
+  }},
+    h("span", { style: { width: 7, height: 7, borderRadius: "50%", background: c.border, flexShrink: 0 } }),
+    code,
+    count != null && h("span", { style: { opacity: 0.6, fontSize: 11 } }, `(${count})`)
+  );
+}
+
+function SegRow({ seg, q, showDoc }) {
+  const c = gc(seg.B);
+  const [hv, setHv] = useState(false);
+  return h("div", {
+    onMouseEnter: () => setHv(true), onMouseLeave: () => setHv(false),
+    style: { borderLeft: `3px solid ${c.border}`, padding: "8px 12px",
+      background: hv ? c.bg + "33" : "transparent",
+      transition: "background 0.12s", borderRadius: "0 4px 4px 0" }
+  },
+    h("div", { style: { display: "flex", alignItems: "center", gap: 6, marginBottom: 3, flexWrap: "wrap" } },
+      h("span", { style: { fontSize: 10, fontWeight: 600, color: c.text, background: c.bg, padding: "1px 5px", borderRadius: 3 } }, seg.B),
+      h("span", { style: { fontSize: 11, color: "#a1a1aa" } }, seg.B_label),
+      showDoc && h("span", { style: { fontSize: 11, color: "#52525b", marginLeft: "auto" } }, seg._inst)
+    ),
+    h("p", { style: { fontSize: 13.5, lineHeight: 1.6, margin: 0, color: "#d4d4d8" } },
+      h(Hl, { text: seg.text, q }))
+  );
+}
+
+/* ── document detail view ── */
+
+function ProjSpan({ span }) {
+  if (span.B === "skip") {
+    const t = span.text.trim();
+    if (!t) return null;
+    return h("div", { style: {
+      padding: "3px 12px", fontSize: 11.5, lineHeight: 1.5,
+      color: "#52525b", borderLeft: "3px solid #27272a",
+      whiteSpace: "pre-wrap",
+    }}, t.length > 300 ? t.slice(0, 300) + "\u2026" : t);
+  }
+  const c = gc(span.B);
+  return h("div", { style: { borderLeft: `3px solid ${c.border}`, padding: "8px 12px", borderRadius: "0 4px 4px 0" } },
+    h("div", { style: { display: "flex", alignItems: "center", gap: 6, marginBottom: 3 } },
+      h("span", { style: { fontSize: 10, fontWeight: 600, color: c.text, background: c.bg, padding: "1px 5px", borderRadius: 3 } }, span.B),
+      h("span", { style: { fontSize: 11, color: "#a1a1aa" } }, span.B_label)),
+    h("p", { style: { fontSize: 13.5, lineHeight: 1.6, margin: 0, color: "#d4d4d8", whiteSpace: "pre-wrap" } }, span.text)
+  );
+}
+
+function UnmatchedCard({ seg }) {
+  const c = gc(seg.B);
+  return h("div", { style: { borderLeft: "3px solid #ef4444", padding: "8px 12px",
+    background: "rgba(239, 68, 68, 0.06)", borderRadius: "0 4px 4px 0" } },
+    h("div", { style: { display: "flex", alignItems: "center", gap: 6, marginBottom: 3 } },
+      h("span", { style: { fontSize: 10, fontWeight: 600, color: c.text, background: c.bg, padding: "1px 5px", borderRadius: 3 } }, seg.B),
+      h("span", { style: { fontSize: 11, color: "#a1a1aa" } }, seg.B_label),
+      h("span", { style: { fontSize: 10, color: "#ef4444", marginLeft: "auto", fontWeight: 600 } },
+        `\u26a0 unmatched (${seg.matched_words || "?"})`)),
+    h("p", { style: { fontSize: 13.5, lineHeight: 1.6, margin: 0, color: "#d4d4d8" } }, seg.text)
+  );
+}
+
+function DocView({ doc, onBack }) {
+  const [showSkips, setShowSkips] = useState(false);
+  const hasProj = doc.projection && doc.projection.length > 0;
+  const v = doc.validation;
+
+  return h("div", null,
+    h("button", { onClick: onBack, style: { background: "none", border: "none", color: "#0ea5e9", cursor: "pointer", fontSize: 13, padding: "4px 0 12px" } }, "\u2190 back to overview"),
+
+    // Header
+    h("div", { style: { marginBottom: 16 } },
+      h("h2", { style: { fontSize: 18, fontWeight: 600, color: "#e4e4e7", margin: 0 } }, doc.institution),
+      h("div", { style: { fontSize: 12, color: "#71717a", marginTop: 3 } },
+        [doc.category, doc.date, doc.language, `${doc.segments.length} segments`].filter(Boolean).join(" \u00b7 "),
+        doc.url && h("span", null, " \u00b7 ", h("a", { href: doc.url, target: "_blank", rel: "noopener noreferrer" }, "source \u2197"))
+      ),
+
+      // Validation stats bar
+      v && h("div", { style: { display: "flex", gap: 16, fontSize: 11, color: "#71717a", marginTop: 6, flexWrap: "wrap" } },
+        h("span", null, `matched: ${v.matched}/${v.total}`),
+        h("span", { style: { color: v.source_coverage >= 0.9 ? "#22c55e" : v.source_coverage >= 0.7 ? "#f59e0b" : "#ef4444" } },
+          `coverage: ${(v.source_coverage * 100).toFixed(1)}%`),
+        v.unmatched_count > 0 && h("span", { style: { color: "#f97316" } }, `${v.unmatched_count} unmatched`)
+      ),
+
+      // Coverage bar
+      v && h("div", { style: { marginTop: 6, height: 4, background: "#27272a", borderRadius: 2, overflow: "hidden" } },
+        h("div", { style: {
+          width: `${Math.min(v.source_coverage * 100, 100)}%`, height: "100%",
+          background: v.source_coverage >= 0.9 ? "#22c55e" : v.source_coverage >= 0.7 ? "#f59e0b" : "#ef4444",
+          borderRadius: 2, transition: "width 0.3s",
+        }})
+      )
+    ),
+
+    // Toggle skips
+    hasProj && h("label", { style: { display: "flex", alignItems: "center", gap: 6, fontSize: 12, color: "#71717a", marginBottom: 10, cursor: "pointer" } },
+      h("input", { type: "checkbox", checked: showSkips, onChange: () => setShowSkips(!showSkips) }),
+      "show structural/metadata (skipped text)"
+    ),
+
+    // Main content: projection or fallback to segments
+    hasProj
+      ? h("div", { style: { display: "flex", flexDirection: "column", gap: 1 } },
+          doc.projection.filter(s => showSkips || s.B !== "skip").map((s, i) => h(ProjSpan, { key: i, span: s })))
+      : h("div", { style: { display: "flex", flexDirection: "column", gap: 1 } },
+          doc.segments.map(s => h(SegRow, { key: s.id, seg: s }))),
+
+    // Unmatched at bottom
+    v && v.unmatched && v.unmatched.length > 0 && h("div", { style: { marginTop: 28, paddingTop: 16, borderTop: "1px solid #27272a" } },
+      h("h3", { style: { fontSize: 13, fontWeight: 600, color: "#f97316", marginBottom: 8 } },
+        `${v.unmatched.length} unmatched segment${v.unmatched.length > 1 ? "s" : ""} (model output not found in source)`),
+      h("p", { style: { fontSize: 11, color: "#52525b", marginBottom: 10 } },
+        "These segments were coded by the model but could not be string-matched back to the original text. Often caused by the model dropping list numbers or repeating shared preambles."),
+      h("div", { style: { display: "flex", flexDirection: "column", gap: 1 } },
+        v.unmatched.map((u, i) => h(UnmatchedCard, { key: i, seg: u })))
+    )
+  );
+}
+
+/* ── main app ── */
+
+function App() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [query, setQuery] = useState("");
+  const [activeCodes, setActiveCodes] = useState(new Set());
+  const [viewDocId, setViewDocId] = useState(null);
+  const inputRef = useRef(null);
+
+  useEffect(() => {
+    fetch("./explorer_data.json")
+      .then(r => { if (!r.ok) throw new Error(`${r.status} ${r.statusText}`); return r.json(); })
+      .then(d => { setData(d); setLoading(false); })
+      .catch(e => { setError(e.message); setLoading(false); });
+  }, []);
+
+  useEffect(() => { if (!loading && inputRef.current) inputRef.current.focus(); }, [loading]);
+
+  const toggle = c => setActiveCodes(p => { const n = new Set(p); n.has(c) ? n.delete(c) : n.add(c); return n; });
+
+  const allSegs = useMemo(() => data ? data.documents.flatMap(d =>
+    d.segments.map(s => ({ ...s, _did: d.doc_id, _inst: d.institution }))) : [], [data]);
+
+  const filtered = useMemo(() => {
+    let s = allSegs;
+    if (activeCodes.size) s = s.filter(x => activeCodes.has(x.B));
+    if (query.length >= 2) { const q = query.toLowerCase(); s = s.filter(x => x.text.toLowerCase().includes(q)); }
+    return s;
+  }, [allSegs, activeCodes, query]);
+
+  const counts = useMemo(() => {
+    const c = {}; for (const s of filtered) c[s.B] = (c[s.B] || 0) + 1; return c;
+  }, [filtered]);
+
+  const grouped = useMemo(() => {
+    const g = {};
+    for (const s of filtered) { if (!g[s._did]) g[s._did] = { inst: s._inst, segs: [] }; g[s._did].segs.push(s); }
+    return g;
+  }, [filtered]);
+
+  if (loading) return h("div", { style: { display: "flex", justifyContent: "center", padding: 60, color: "#71717a" } }, "Loading...");
+  if (error) return h("div", { style: { maxWidth: 560, margin: "40px auto", padding: 20 } },
+    h("h2", { style: { color: "#ef4444", fontSize: 15, marginBottom: 8 } }, "Could not load data"),
+    h("p", { style: { color: "#a1a1aa", fontSize: 13 } }, error),
+    h("p", { style: { color: "#71717a", fontSize: 12, marginTop: 12 } },
+      "Place explorer_data.json next to this HTML file."));
+
+  // Document detail
+  if (viewDocId) {
+    const doc = data.documents.find(d => d.doc_id === viewDocId);
+    if (doc) return h("div", { style: { maxWidth: 780, margin: "0 auto", padding: "20px 16px" } },
+      h(DocView, { doc, onBack: () => setViewDocId(null) }));
+  }
+
+  const ck = data.codebook ? Object.keys(data.codebook) : Object.keys(BC);
+  const sortedDocs = [...data.documents].sort((a, b) => a.institution.localeCompare(b.institution));
+
+  return h("div", { style: { maxWidth: 880, margin: "0 auto", padding: "20px 16px" } },
+
+    // Header
+    h("header", { style: { marginBottom: 18 } },
+      h("h1", { style: { fontSize: 20, fontWeight: 600, color: "#e4e4e7", margin: 0 } }, "AI Guidelines Explorer"),
+      h("p", { style: { fontSize: 12, color: "#71717a", margin: "3px 0 0" } },
+        `${data.document_count} guidelines \u00b7 ${data.segment_count} coded segments`)
+    ),
+
+    // Jump-to-document selector
+    h("div", { style: { marginBottom: 12 } },
+      h("select", {
+        value: "",
+        onChange: e => { if (e.target.value) setViewDocId(e.target.value); },
+        style: {
+          width: "100%", padding: "8px 10px", fontSize: 13,
+          background: "#27272a", border: "1px solid #3f3f46",
+          borderRadius: 7, color: "#a1a1aa", appearance: "auto",
+        }
+      },
+        h("option", { value: "" }, `Jump to guideline (${sortedDocs.length})...`),
+        ...sortedDocs.map(d => h("option", { key: d.doc_id, value: d.doc_id },
+          `${d.institution}${d.date ? ` (${d.date})` : ""}`))
+      )
+    ),
+
+    // Search
+    h("div", { style: { marginBottom: 12 } },
+      h("input", {
+        ref: inputRef, type: "text", value: query,
+        onChange: e => setQuery(e.target.value),
+        placeholder: "Search across all guidelines...",
+        style: { width: "100%", padding: "9px 12px", fontSize: 13.5,
+          background: "#27272a", border: "1px solid #3f3f46",
+          borderRadius: 7, color: "#e4e4e7", outline: "none" }
+      })
+    ),
+
+    // Code pills
+    h("div", { style: { display: "flex", flexWrap: "wrap", gap: 3, marginBottom: 14 } },
+      ...ck.map(c => h(Pill, { key: c, code: c, active: activeCodes.has(c), onClick: () => toggle(c),
+        count: counts[c] || 0, label: data.codebook?.[c] })),
+      activeCodes.size > 0 && h("button", {
+        onClick: () => setActiveCodes(new Set()),
+        style: { fontSize: 11, color: "#71717a", background: "none", border: "1px solid #3f3f46",
+          borderRadius: 5, padding: "3px 7px", cursor: "pointer" }
+      }, "clear")
+    ),
+
+    // Count
+    h("div", { style: { fontSize: 12, color: "#71717a", marginBottom: 10 } },
+      `${filtered.length} segment${filtered.length !== 1 ? "s" : ""} in ${Object.keys(grouped).length} guideline${Object.keys(grouped).length !== 1 ? "s" : ""}`),
+
+    // Results
+    ...Object.entries(grouped).map(([did, g]) => {
+      const doc = data.documents.find(d => d.doc_id === did);
+      const v = doc?.validation;
+      return h("div", { key: did, style: { marginBottom: 18 } },
+        h("div", { style: { display: "flex", alignItems: "center", justifyContent: "space-between",
+          padding: "5px 0", borderBottom: "1px solid #27272a", marginBottom: 5, gap: 8, flexWrap: "wrap" } },
+          h("h3", { style: { fontSize: 13, fontWeight: 600, color: "#d4d4d8", margin: 0 } },
+            g.inst, h("span", { style: { fontWeight: 400, color: "#71717a", marginLeft: 6 } }, `(${g.segs.length})`)),
+          h("div", { style: { display: "flex", alignItems: "center", gap: 8 } },
+            v && h("span", { style: {
+              fontSize: 10, padding: "1px 6px", borderRadius: 3,
+              background: v.source_coverage >= 0.9 ? "rgba(34,197,94,0.15)" : v.source_coverage >= 0.7 ? "rgba(245,158,11,0.15)" : "rgba(239,68,68,0.15)",
+              color: v.source_coverage >= 0.9 ? "#22c55e" : v.source_coverage >= 0.7 ? "#f59e0b" : "#ef4444",
+            } }, `${(v.source_coverage * 100).toFixed(0)}% coverage`),
+            h("button", { onClick: () => setViewDocId(did), style: {
+              fontSize: 11, color: "#0ea5e9", background: "none",
+              border: "1px solid #164e63", borderRadius: 4, padding: "2px 7px", cursor: "pointer" }
+            }, "full document")
+          )
+        ),
+        h("div", { style: { display: "flex", flexDirection: "column", gap: 1 } },
+          g.segs.map(s => h(SegRow, { key: `${did}-${s.id}`, seg: s, q: query })))
+      );
+    }),
+
+    !filtered.length && h("div", { style: { textAlign: "center", padding: 40, color: "#52525b", fontSize: 13 } }, "No segments match.")
+  );
+}
+
+createRoot(document.getElementById("root")).render(h(App));
+</script>
+</body>
+</html>

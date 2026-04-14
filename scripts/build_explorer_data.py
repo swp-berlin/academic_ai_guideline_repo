@@ -1,0 +1,141 @@
+#!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = ["pyyaml"]
+# ///
+"""Build explorer_data.json for the guidelines explorer website.
+
+Combines guidelines.yaml metadata with coding output from run_coding_v2.py.
+Outputs a single JSON file that the React explorer app can fetch.
+
+Usage:
+    uv run scripts/build_explorer_data.py
+    uv run scripts/build_explorer_data.py --output docs/explorer_data.json
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+GUIDELINES_FILE = ROOT / "guidelines.yaml"
+OUTPUTS_DIR = ROOT / "outputs"
+
+
+B_CODEBOOK = {
+    "B1": "definitions/terminology",
+    "B2": "scope/application",
+    "B3": "purpose/rationale/document status",
+    "B4": "principles/values",
+    "B5": "permitted or encouraged uses",
+    "B6": "restricted or prohibited uses",
+    "B7": "required safeguards/procedures",
+    "B8": "roles/accountability/oversight",
+    "B9": "risks/limitations/concerns",
+    "B10": "training/support/learning",
+    "B11": "monitoring/revision/updating",
+}
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Build explorer data JSON")
+    parser.add_argument("--output", type=Path, default=ROOT / "docs" / "explorer_data.json")
+    args = parser.parse_args()
+
+    with open(GUIDELINES_FILE, encoding="utf-8") as f:
+        guidelines = yaml.safe_load(f)
+
+    docs = []
+    skipped = 0
+
+    for entry in guidelines:
+        slug = entry["slug"]
+        coding_path = OUTPUTS_DIR / f"{slug}.json"
+
+        if not coding_path.exists():
+            skipped += 1
+            continue
+
+        with open(coding_path, encoding="utf-8") as f:
+            coding = json.load(f)
+
+        segments = coding.get("segments", [])
+        if not segments:
+            skipped += 1
+            continue
+
+        validation = coding.get("validation", None)
+
+        docs.append({
+            "doc_id": slug,
+            "institution": entry["institution"],
+            "category": entry.get("category", ""),
+            "date": entry.get("date", ""),
+            "language": entry.get("language", ""),
+            "url": entry.get("url", ""),
+            "segments": [
+                {
+                    "id": seg["id"],
+                    "B": seg["B"],
+                    "B_label": seg.get("B_label", B_CODEBOOK.get(seg["B"], "")),
+                    "text": seg["text"],
+                }
+                for seg in segments
+            ],
+            "projection": [
+                {
+                    "char_start": span["char_start"],
+                    "char_end": span["char_end"],
+                    "text": span["text"],
+                    "B": span["B"],
+                    "B_label": span.get("B_label", ""),
+                    "segment_id": span.get("segment_id"),
+                    "match_type": span.get("match_type", ""),
+                }
+                for span in coding.get("projection", [])
+            ] or None,
+            "validation": {
+                "matched": validation.get("matched", 0),
+                "total": validation.get("total", 0),
+                "unmatched_count": validation.get("unmatched_count", 0),
+                "source_coverage": validation.get("source_coverage", 0),
+                "unmatched": [
+                    {
+                        "id": u["id"],
+                        "B": u["B"],
+                        "B_label": B_CODEBOOK.get(u["B"], ""),
+                        "text": u["text"],
+                        "matched_words": u.get("matched_words", ""),
+                    }
+                    for u in validation.get("unmatched", [])
+                ],
+            } if validation else None,
+        })
+
+    data = {
+        "generated_at": __import__("datetime").datetime.now().isoformat(timespec="seconds"),
+        "codebook": B_CODEBOOK,
+        "document_count": len(docs),
+        "segment_count": sum(len(d["segments"]) for d in docs),
+        "documents": docs,
+    }
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+
+    print(f"Wrote {len(docs)} documents ({sum(len(d['segments']) for d in docs)} segments) to {args.output}")
+    if skipped:
+        print(f"Skipped {skipped} guidelines (no coding output)")
+
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
