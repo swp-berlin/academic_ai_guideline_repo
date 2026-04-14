@@ -1,0 +1,291 @@
+{
+  "doc_id": "urban-institute",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "The Urban Institute’s greatest asset is its reputation for objective, independent work that reflects the highest ethical and quality standards. These standards include the responsible use of emerging technologies—like generative artificial intelligence (AI)—that offer considerable benefits but also introduce important risks."
+    },
+    {
+      "id": 2,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Urban views generative AI as a tool to support our work, enhance productivity, and improve efficiency."
+    },
+    {
+      "id": 3,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "We also recognize the risks of using generative AI, including unverifiable provenance, perpetuation of biases, inaccuracies, plagiarism, harmful content, and breaches of privacy and confidentiality."
+    },
+    {
+      "id": 4,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "When using generative AI, Urban staff must follow strict guidelines to prevent and mitigate those risks."
+    },
+    {
+      "id": 5,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "The following rules apply to all Urban staff when using generative AI tools:"
+    },
+    {
+      "id": 6,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Staff are prohibited from using generative AI to produce images, videos, or other visual content."
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Staff are prohibited from entering personally identifying or confidential information into a generative AI tool. Exceptions may be made with approval from the institutional review board or Urban’s chief information officer."
+    },
+    {
+      "id": 8,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "All published written content and external communications created with the assistance of generative AI must be reviewed by Urban’s approved plagiarism detection software. The project’s principal investigator must also review the content for inaccuracies, bias, and harmful content that the generative AI might have introduced."
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Urban staff are permitted to use generative AI for word processing, programming, summarizing Urban work, and producing literature reviews. They may also study generative AI tools for research projects focused on AI."
+    },
+    {
+      "id": 10,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Urban staff may also use generative AI to produce written content from external source material provided the aggregate amount of AI-generated content represents a fair and reasonable use of the source."
+    },
+    {
+      "id": 11,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "In addition, Urban staff leading and responsible for any subcontractor’s or vendor’s work should ensure that the subcontractor or vendor follows this policy."
+    },
+    {
+      "id": 12,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "External content written with the assistance of generative AI must include a disclaimer, with a few exceptions. At this time, authors do not need to include an acknowledgment if they use generative AI to write code or if they use AI as a word-processing tool to improve a product’s grammar, clarity, or writing style."
+    },
+    {
+      "id": 13,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Generative AI is a rapidly evolving technology, so we expect to update this policy as conditions warrant."
+    }
+  ],
+  "validation": {
+    "total": 13,
+    "matched": 13,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.92,
+    "uncovered_chars": 187,
+    "uncovered_gaps": 1,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 187,
+        "length": 187,
+        "text": "# urban institute # source: https://www.urban.org/urbaninstitutesgenerativeaipolicy # date: 2025-03-31 # category: guideline urban institute's generative ai policy updated march 31, 2025"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 193,
+      "text": "# Urban Institute\n# Source: https://www.urban.org/urban-institutes-generative-ai-policy\n# Date: 2025-03-31\n# Category: guideline\n\nUrban Institute’s Generative AI Policy\nUpdated March 31, 2025\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 193,
+      "char_end": 519,
+      "text": "The Urban Institute’s greatest asset is its reputation for objective, independent work that reflects the highest ethical and quality standards. These standards include the responsible use of emerging technologies—like generative artificial intelligence (AI)—that offer considerable benefits but also introduce important risks.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 521,
+      "char_end": 623,
+      "text": "Urban views generative AI as a tool to support our work, enhance productivity, and improve efficiency.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 624,
+      "char_end": 822,
+      "text": "We also recognize the risks of using generative AI, including unverifiable provenance, perpetuation of biases, inaccuracies, plagiarism, harmful content, and breaches of privacy and confidentiality.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 823,
+      "char_end": 927,
+      "text": "When using generative AI, Urban staff must follow strict guidelines to prevent and mitigate those risks.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 929,
+      "char_end": 1005,
+      "text": "The following rules apply to all Urban staff when using generative AI tools:",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1005,
+      "char_end": 1009,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1009,
+      "char_end": 1106,
+      "text": "Staff are prohibited from using generative AI to produce images, videos, or other visual content.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1106,
+      "char_end": 1109,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1109,
+      "char_end": 1332,
+      "text": "Staff are prohibited from entering personally identifying or confidential information into a generative AI tool. Exceptions may be made with approval from the institutional review board or Urban’s chief information officer.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1332,
+      "char_end": 1335,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1335,
+      "char_end": 1661,
+      "text": "All published written content and external communications created with the assistance of generative AI must be reviewed by Urban’s approved plagiarism detection software. The project’s principal investigator must also review the content for inaccuracies, bias, and harmful content that the generative AI might have introduced.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1661,
+      "char_end": 1664,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1664,
+      "char_end": 1879,
+      "text": "Urban staff are permitted to use generative AI for word processing, programming, summarizing Urban work, and producing literature reviews. They may also study generative AI tools for research projects focused on AI.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1879,
+      "char_end": 1882,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1882,
+      "char_end": 2083,
+      "text": "Urban staff may also use generative AI to produce written content from external source material provided the aggregate amount of AI-generated content represents a fair and reasonable use of the source.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2083,
+      "char_end": 2086,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2086,
+      "char_end": 2243,
+      "text": "In addition, Urban staff leading and responsible for any subcontractor’s or vendor’s work should ensure that the subcontractor or vendor follows this policy.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2243,
+      "char_end": 2246,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2246,
+      "char_end": 2563,
+      "text": "External content written with the assistance of generative AI must include a disclaimer, with a few exceptions. At this time, authors do not need to include an acknowledgment if they use generative AI to write code or if they use AI as a word-processing tool to improve a product’s grammar, clarity, or writing style.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2565,
+      "char_end": 2670,
+      "text": "Generative AI is a rapidly evolving technology, so we expect to update this policy as conditions warrant.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 13,
+      "match_type": "exact"
+    }
+  ]
+}

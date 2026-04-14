@@ -1,0 +1,1042 @@
+{
+  "doc_id": "university-of-cyprus",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "GUIDELINES FOR\nTHE USE OF\nARTIFICIAL\nINTELLIGENCE IN\nTEACHING AND\nRESEARCH",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Written by\nThe Ad Hoc Committee of Artificial Intelligence\n- Prof. Tatiana-Eleni Synodinou, Vice Rector for Academic Affairs (Committee Chairperson)\n- Prof. Andros Kourtellos, Department of Economics\n- Prof. Demetris Zeinalipour, Department of Computer Science\n- Prof. Marios Dikaiakos, Department of Computer Science\n- Prof. Marios Polycarpou, Department of Electrical and Computer Engineering\n- Prof. Zacharias Zacharia, Department of Education\n- Assist. Prof Dionysios Stathakopoulos, Department of History and Archaeology\n- Assist. Prof. Margarita Chli, Department of Electrical and Computer Engineering\n- Assist. Prof. Nicolas Dietis, Medical School",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Content editing\nDr. Dora C. Stylianou, University Officer, Office of the Vice-Rector for Academic Affairs",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "This document was approved by the Rector’s Council at meeting 17/2025/RECT held on the 23rd of May, 2025 and by the Senate Council at meeting 14/2025/SENATE held on the 11th of June, 2025.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Artificial Intelligence (AI) is advancing at unprecedented speed, driven by the rise of generative AI and Large Language Models (LLMs) such as ChatGPT, DeepSeek, Claude, Gemini, and Mistral. These systems, trained on vast internet-scale datasets, now produce realistic, coherent text and multimedia content in response to human prompts. Their rapid integration into everyday tools has generated excitement about their potential, including their role in learning, research, and creative work.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Despite their impressive sophistication, LLMs are in essence probabilistic systems that rely on unverified data and offer no transparent reasoning and in some cases no source attribution. Their responses can be biased, inaccurate, or misleading - posing a serious challenge to academic integrity and the cultivation of independent thought. As LLMs increasingly mediate access to information, there is a growing risk that students may bypass the intellectual processes central to learning: engagement with and critical analysis of learning materials and scholarly text, evaluation and combination of different information sources, deep thinking and sustained reflection.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "The University of Cyprus is committed to upholding the foundational values of education: mastery of disciplinary knowledge, understanding of the scientific method, logical reasoning, self-directed inquiry, and the ability to express complex ideas with clarity and creativity.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "While LLMs may support these goals when used carefully, for example as assistants in writing, coding, brainstorming or routine work, they must not replace the human mastery of disciplinary knowledge required to achieve them.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "These guidelines are intended to help students, researchers, and educators to integrate AI responsibly, ensuring it enhances, rather than undermines, human intellectual development and the mission of higher education.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Commitment to Teaching, Learning and Research: The University of Cyprus remains committed to its core mission: advancing science through academic research and imparting scientific knowledge to students through rigorous instruction. It strives to empower students and researchers with a deep understanding of scientific principles, foster creativity and critical thinking, strengthen problem-solving abilities, and instil ethical values that support the development of responsible citizens who excel in scientific and professional careers while making positive contributions to society. The University of Cyprus considers AI a powerful tool that can enhance education and research, helping students, researchers and faculty pursue their distinct objectives in alignment with the University’s mission.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Use of AI and Compliance: The University of Cyprus community is encouraged to use available AI tools to improve comprehension, enhance teaching, support learning and research, and increase productivity provided that their use complies with ethical principles and legal requirements, including the University of Cyprus’ academic integrity policies, the EU AI Act and the guidelines of the European Commission under the European Digital Education Action Plan 2021-2027.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Output Responsibility: The University of Cyprus faculty, students and researchers who use AI tools are solely responsible for confirming the accuracy, reliability, and ethical compliance of the outputs they generate. This includes a duty to critically cross-check AI-generated content against original sources. This responsibility extends to AI tools or systems developed, used, distributed, or imported by the University of Cyprus, which must adhere to principles such as human agency and oversight, technical robustness, privacy and data governance, transparency, fairness, and accountability.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Since AI tools generate responses based on existing online material without any verification of their accuracy and timeliness against valid scientific information sources, users must independently assess and verify the accuracy and reliability before using, forwarding or referencing this output for any academic reason.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "AI as a Complement, Not Substitute: Every AI tool should be utilized with the aim of augmenting human learning and/or decision-making, serving as a supportive tool that enhances critical thinking and independent analysis rather than substituting them. It is imperative that users continue to engage deeply with the content and apply their own evaluative and critical appraisal skills, using AI as one of many resources to inform their decisions.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Awareness of AI Risks: The University of Cyprus adopts the risk categorisation defined in the EU AI Act—unacceptable, high, limited, and minimal risk—and its guidelines reflect this classification. University members must be aware of potential issues associated with the use of AI. These include but are not limited to:\n - academic integrity risks (e.g., plagiarism, copyright and IP infringement)\n - ethical, privacy and safety concerns (e.g., biases in outputs, privacy violations including uploading another author’s original writing without their consent, lack of transparency in declaring AI use)\n - dependency risks (e.g., diminished critical thinking and de-skilling)\n - inaccuracy and misinformation risks (e.g., hallucinated AI output and deepfakes – audiovisual content altered by AI – can lead to false information which may include intentionally and unintentionally manipulated data that leads to biased output)\n - social inequalities (e.g., unequal access or improper use that may provide unfair advantages to a person or a group)",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "AI Prohibitions and Ethical Risks: Certain AI applications pose unacceptable risks and are strictly prohibited at the University of Cyprus in accordance with the EU AI Act. These include:\n - subliminal AI manipulation, which influences behavior without user awareness\n - social scoring AI, which ranks individuals based on personal behavior or socioeconomic background\n - AI that exploits vulnerabilities, particularly those that discriminate based on age, disabilities, or socioeconomic status.\nThe University of Cyprus enforces strict compliance with these regulations to maintain ethical AI use.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Input Responsibility and Safety Considerations: Users must exercise great caution when entering data into AI tools, avoiding the input of personal, confidential or unpublished research data, as well as copyrighted content. It is emphasised that AI tools may store, analyse, or use input data to improve their models, potentially leading to data leaks, ethical and safety concerns.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Verbatim Copying: While AI tools may assist in academic work, direct submission of AI-generated content as one's own is prohibited, except where explicitly authorized. Students and researchers must substantially contribute original analysis and critical thinking, especially when using AI interactively to enhance their work. Additionally, it is noted that some AI tools might be using watermarking techniques — that is, the embedding of invisible identifiers in the generated content. These identifiers may be detected during plagiarism checks, potentially risking future plagiarism allegations and damaging the University of Cyprus’ and the user’s reputation. To prevent such risks, it is important to safeguard the University of Cyprus community and oneself against any future violations of academic integrity.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Citation Requirements: The general use of AI tools doesn’t necessitate explicit declaration unless mandated in specific contexts, such as research papers or student assignments. Depending on the task, using minimal-risk tools like spell-checkers, translators, and simple automation functions, or gathering information with AI from publicly available sources, can be employed to acquire knowledge and shape opinions. Generally, such methods should not be explicitly mentioned unless there’s a clear directive to the contrary. However, transparency is essential in the use of AI tools. Such tools range from AI-powered chatbots and plagiarism detection software to any AI tool or system that generates output (e.g., text, code, images) that is either directly used or substantially influences academic work (e.g., research papers, homework assignments, essays, exams). In such cases, users must properly cite the use of AI tools to avoid plagiarism and ensure transparency.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Mitigation of Risks: The University of Cyprus encourages all faculty, students and researchers to actively engage with and participate in the University’s inclusive activities and training sessions on AI, offering regular updates on emerging AI risks and best practices in teaching & learning, as main mitigation actions against these risks. Furthermore, both students and staff are encouraged to take personal initiative in developing their professional and digital skills, ensuring they are well-prepared to engage effectively and safely with advanced AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "This section enumerates the general guidelines to specific user groups (students, teaching staff and researchers) at the University of Cyprus.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "AI Usage Instructions: Instructors must exercise critical thinking over any AI-assisted use in teaching to ensure fairness, transparency, and accountability, with final responsibility for teaching and grading resting solely with the instructor.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Instructors should also provide specific guidelines for the permitted use of AI in the course syllabus or in the instructions of graded assignments or exams, in accordance with course objectives and learning outcomes, as well as academic integrity guidelines. Where AI use in graded coursework is not permissible, it should be stated in the assignment instructions.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Integrity of the Assessment Process: Instructors are encouraged to adapt the assessment methods for assignments and examinations to ensure the integrity of the assessment process. For example, take-home exams and thesis assessments may be replaced or complemented, if possible, with in-class quizzes or oral examinations to mitigate AI-related risks.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Use of Plagiarism Detection Tools: Instructors may use plagiarism detection tools such as those available in Blackboard and Moodle. It is noted, however, that these tools have a margin of error and should not constitute the sole source for the identification of academic misconduct.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "AI as a Teaching Tool: Instructors are encouraged to use AI tools to deliver personalized or group-tailored learning opportunities, acting as a personal tutor for each student or group to enhance engagement and improve learning outcomes. While AI can be a valuable tool in education, it should complement the instructor’s role rather than replace it. Instructors should remain aware of the potential limitations and inaccuracies of generative AI systems. For additional information on how AI tools may be used in the educational process, check out the “UCY Guidelines” and the “Information Resources” sections of the University of Cyprus’ AI website.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Certain AI tools considered to pose limited risk should be used transparently. Examples include AI-powered chatbots (e.g., virtual assistants for answering student questions), plagiarism detection tools (e.g., Turnitin, Blackboard SafeAssign), and AI-assisted feedback tools (e.g., Grammarly for writing improvement). Instructors who use these tools in ways that directly impact student assessment, or academic evaluation, must ensure transparency and inform students accordingly by specifying their use in the course syllabus.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Privacy Protection and Responsible Use: Instructors must ensure compliance with the General Data Protection Regulations (GDPR) and the EU AI Act when using AI tools or systems in teaching and assessment. They must not upload student or third-party work onto AI platforms in ways that may raise significant risks for privacy, intellectual property, or data security.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Development of Comprehensive AI Teaching Competencies: Instructors are urged to develop digital competencies on the use of AI in teaching, by: a) fostering general AI literacy among students (Teaching for AI), b) integrating AI tools when they assess that this can enhance pedagogy (Teaching with AI), and c) delivering specialized instructions on the use of AI technologies and the ethical considerations involved (Teaching about AI). In any case, the use of AI in teaching should be adapted to align with the unique pedagogical models, professional autonomy, and structural requirements of higher education.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Academic Skill Development: As part of their academic training, students must further develop and apply their skills in generating ideas and arguments, conducting research and analysis, designing and executing projects, applying critical thinking, writing and revising work, synthesizing information, and citing sources properly. This list is not exhaustive but reflects a broader effort to ensure that students gain the most from their academic training. In all, the use of AI must enhance but not substitute fundamental academic processes.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "AI as a Learning Aid: Students can use AI tools as an educational aid in order to enhance their learning. Examples of use are the following:\n - Better understanding of text, concepts and language\n AI tools, for example, can be used to obtain simple or even more detailed explanations of concepts or of elaborate text.\n - Brainstorming\n AI tools, for example, can serve as a sounding board for bouncing ideas, can provide suggestions or refine a concept. In more complex settings they can also analyse data and find trends or provide predictions for potential outcomes.\n - Checking and enhancing syntax and grammar\n Besides basic text corrections, AI tools can improve the clarity and readability of the text, the writing style and the structure of the assignment. Students are encouraged to review any text edits proposed by AI tools to pinpoint areas where they can further enhance their writing skills.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Transparency in Use: While AI can support learning, certain AI tools considered to pose limited risk require transparency in their use. Examples include AI-powered chatbots (e.g., ChatGPT for brainstorming), and adaptive learning platforms (e.g., AI-driven tutoring systems). If students use these tools in ways that directly influence their academic work, their use must be disclosed and properly referenced.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "For graded assignments, exams, or projects, if AI tool usage is not addressed in the general guidelines, students must consult the course instructor to determine what is permitted.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Plagiarism: The use of AI generated output may be considered plagiarism if it does not reflect substantial intellectual contribution by the student. Plagiarism is considered a disciplinary misconduct at the University of Cyprus. To avoid plagiarism students must always reference the original sources and use quotation marks (e.g., “copied text”) when directly incorporating or paraphrasing AI-generated content.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "In the event of plagiarism, disciplinary action may be taken in accordance with the Undergraduate Studies Rules or the Postgraduate Studies Rules depending on the level of study.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "AI Tools in Research: AI tools can be used effectively in conducting research. Novice researchers must learn the essentials for appropriate and ethical use of AI technology as defined by the University of Cyprus and European and international guidelines and laws as well as publishers.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers should apply critical judgement when using AI tools in research due to the lack of transparency regarding the datasets used to train these tools. The training datasets may include both unintentionally biased and inaccurate content, as well as data polluted with malicious intent. Even non-malicious data can reflect societal biases or outdated information, potentially compromising the reliability and ethical soundness of AI-generated outputs.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Research Originality: A basic tenet of research work is the original contribution to science and any use of AI that leads to non-genuine contributions is not permitted. This prohibition falls under unacceptable risk due to the potential for AI to undermine academic integrity by producing content without genuine authorship, introducing algorithmic bias, and facilitating the submission of non-original work.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Responsible Use of AI in Research: While generally considered of limited risk, the use of AI tools for research-related tasks such as literature reviews, coding, or data analysis requires researchers to be mindful of higher potential risks. Researchers must maintain transparency by documenting the AI tools used and the tasks performed with them. All researchers must comply with the “Living guidelines on the responsible use of generative AI in research” developed by the European Research Area Forum.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Misuse of AI in Research: Researchers are responsible for ensuring that AI is not used to create false, misleading, or unverifiable research findings. Fabrication or misrepresentation of data using AI constitutes academic misconduct and may result in disciplinary action.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Verification and Compliance: Researchers should exercise due diligence in verifying accuracy and comply with the University of Cyprus’ policies, intellectual property laws, the EU AI Act, and GDPR, including data protection and ethical considerations.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Preservation of Confidentiality: Researchers should apply care when dealing with confidential, personal, sensitive or proprietary content. Upholding confidentiality is essential to maintain trust, protect data subjects from potential harm, and adhere to ethical, research and legal standards.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "a. basic principles and general guidelines",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 43,
+    "matched": 43,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.91,
+    "uncovered_chars": 1754,
+    "uncovered_gaps": 8,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 182,
+        "length": 182,
+        "text": "# university of cyprus # source: https://www.ucy.ac.cy/graduateschool/wpcontent/uploads/sites/45/2025/09/ucy-guidelinesfor-ai-at-ucy-eng.pdf # date: 2025-06-11 # category: guideline"
+      },
+      {
+        "char_start": 999,
+        "char_end": 1009,
+        "length": 10,
+        "text": "approval"
+      },
+      {
+        "char_start": 1196,
+        "char_end": 1214,
+        "length": 18,
+        "text": ". ## introduction"
+      },
+      {
+        "char_start": 10109,
+        "char_end": 10148,
+        "length": 39,
+        "text": ". ## b. guidelines for specific groups"
+      },
+      {
+        "char_start": 10289,
+        "char_end": 10328,
+        "length": 39,
+        "text": ". ### b1. course instructor guidelines"
+      },
+      {
+        "char_start": 13722,
+        "char_end": 13751,
+        "length": 29,
+        "text": ". ### b2. student guidelines"
+      },
+      {
+        "char_start": 16367,
+        "char_end": 16399,
+        "length": 32,
+        "text": ". ### b3. researcher guidelines"
+      },
+      {
+        "char_start": 18866,
+        "char_end": 20271,
+        "length": 1405,
+        "text": ". ## references and bibliography 1. european union, the \"ai act\", regulation (eu) 2024/1689 of the european parliament and council of june 2024 https://eurlex.europa.eu/eli/reg/2024/1689/oj 2. european commission: directorate-general for education, youth, sport and culture, ethical guidelines on the use of artificial intelligence (ai) and data in teaching and learning for educators, publications office of the european union, 2022 https://data.europa.eu/doi/10.2766/153756 3. european commission: european education and culture executive agency: ai report - by the european digital education hub's squad on artificial intelligence in education, publications office of the european union, 2023 https://data.europa.eu/doi/10.2797/828281 4. the university of cyprus: academic affairs and student welfare service, undergraduate studies rules https://applications.ucy.ac.cy/icons/ects/docs/general_rules_of_study.pdf 5. the university of cyprus: the graduate school, postgraduate studies rules, 2023 https://www.ucy.ac.cy/graduateschool/wpcontent/uploads/sites/45/2023/08/kanonesdimosiefsimimorfi-01.08.23-english-1.pdf 6. european commission: directorate-general for research and innovation, living guidelines on the responsible use of generative ai in research - era forum stakeholders' document, 2024 https://researchandinnovation.ec.europa.eu/document/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en ## footnotes"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 185,
+      "text": "# University of Cyprus\n# Source: https://www.ucy.ac.cy/graduateschool/wp-content/uploads/sites/45/2025/09/UCY-Guidelines-for-AI-at-UCY-ENG.pdf\n# Date: 2025-06-11\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 185,
+      "char_end": 259,
+      "text": "GUIDELINES FOR\nTHE USE OF\nARTIFICIAL\nINTELLIGENCE IN\nTEACHING AND\nRESEARCH",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 261,
+      "char_end": 915,
+      "text": "Written by\nThe Ad Hoc Committee of Artificial Intelligence\n- Prof. Tatiana-Eleni Synodinou, Vice Rector for Academic Affairs (Committee Chairperson)\n- Prof. Andros Kourtellos, Department of Economics\n- Prof. Demetris Zeinalipour, Department of Computer Science\n- Prof. Marios Dikaiakos, Department of Computer Science\n- Prof. Marios Polycarpou, Department of Electrical and Computer Engineering\n- Prof. Zacharias Zacharia, Department of Education\n- Assist. Prof Dionysios Stathakopoulos, Department of History and Archaeology\n- Assist. Prof. Margarita Chli, Department of Electrical and Computer Engineering\n- Assist. Prof. Nicolas Dietis, Medical School",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 917,
+      "char_end": 1022,
+      "text": "Content editing\nDr. Dora C. Stylianou, University Officer, Office of the Vice-Rector for Academic Affairs",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1022,
+      "char_end": 1033,
+      "text": "\n\nApproval\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1033,
+      "char_end": 1221,
+      "text": "This document was approved by the Rector’s Council at meeting 17/2025/RECT held on the 23rd of May, 2025 and by the Senate Council at meeting 14/2025/SENATE held on the 11th of June, 2025.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1221,
+      "char_end": 1239,
+      "text": "\n\n## INTRODUCTION\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1239,
+      "char_end": 1730,
+      "text": "Artificial Intelligence (AI) is advancing at unprecedented speed, driven by the rise of generative AI and Large Language Models (LLMs) such as ChatGPT, DeepSeek, Claude, Gemini, and Mistral. These systems, trained on vast internet-scale datasets, now produce realistic, coherent text and multimedia content in response to human prompts. Their rapid integration into everyday tools has generated excitement about their potential, including their role in learning, research, and creative work.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1732,
+      "char_end": 2401,
+      "text": "Despite their impressive sophistication, LLMs are in essence probabilistic systems that rely on unverified data and offer no transparent reasoning and in some cases no source attribution. Their responses can be biased, inaccurate, or misleading - posing a serious challenge to academic integrity and the cultivation of independent thought. As LLMs increasingly mediate access to information, there is a growing risk that students may bypass the intellectual processes central to learning: engagement with and critical analysis of learning materials and scholarly text, evaluation and combination of different information sources, deep thinking and sustained reflection.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2403,
+      "char_end": 2678,
+      "text": "The University of Cyprus is committed to upholding the foundational values of education: mastery of disciplinary knowledge, understanding of the scientific method, logical reasoning, self-directed inquiry, and the ability to express complex ideas with clarity and creativity.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2680,
+      "char_end": 2904,
+      "text": "While LLMs may support these goals when used carefully, for example as assistants in writing, coding, brainstorming or routine work, they must not replace the human mastery of disciplinary knowledge required to achieve them.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2906,
+      "char_end": 3123,
+      "text": "These guidelines are intended to help students, researchers, and educators to integrate AI responsibly, ensuring it enhances, rather than undermines, human intellectual development and the mission of higher education.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3123,
+      "char_end": 3128,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3128,
+      "char_end": 3170,
+      "text": "A. BASIC PRINCIPLES AND GENERAL GUIDELINES",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3170,
+      "char_end": 3173,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3173,
+      "char_end": 3972,
+      "text": "Commitment to Teaching, Learning and Research: The University of Cyprus remains committed to its core mission: advancing science through academic research and imparting scientific knowledge to students through rigorous instruction. It strives to empower students and researchers with a deep understanding of scientific principles, foster creativity and critical thinking, strengthen problem-solving abilities, and instil ethical values that support the development of responsible citizens who excel in scientific and professional careers while making positive contributions to society. The University of Cyprus considers AI a powerful tool that can enhance education and research, helping students, researchers and faculty pursue their distinct objectives in alignment with the University’s mission.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3972,
+      "char_end": 3976,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3976,
+      "char_end": 4443,
+      "text": "Use of AI and Compliance: The University of Cyprus community is encouraged to use available AI tools to improve comprehension, enhance teaching, support learning and research, and increase productivity provided that their use complies with ethical principles and legal requirements, including the University of Cyprus’ academic integrity policies, the EU AI Act and the guidelines of the European Commission under the European Digital Education Action Plan 2021-2027.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4443,
+      "char_end": 4447,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4447,
+      "char_end": 5042,
+      "text": "Output Responsibility: The University of Cyprus faculty, students and researchers who use AI tools are solely responsible for confirming the accuracy, reliability, and ethical compliance of the outputs they generate. This includes a duty to critically cross-check AI-generated content against original sources. This responsibility extends to AI tools or systems developed, used, distributed, or imported by the University of Cyprus, which must adhere to principles such as human agency and oversight, technical robustness, privacy and data governance, transparency, fairness, and accountability.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5044,
+      "char_end": 5364,
+      "text": "Since AI tools generate responses based on existing online material without any verification of their accuracy and timeliness against valid scientific information sources, users must independently assess and verify the accuracy and reliability before using, forwarding or referencing this output for any academic reason.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5364,
+      "char_end": 5368,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5368,
+      "char_end": 5813,
+      "text": "AI as a Complement, Not Substitute: Every AI tool should be utilized with the aim of augmenting human learning and/or decision-making, serving as a supportive tool that enhances critical thinking and independent analysis rather than substituting them. It is imperative that users continue to engage deeply with the content and apply their own evaluative and critical appraisal skills, using AI as one of many resources to inform their decisions.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5813,
+      "char_end": 5817,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5817,
+      "char_end": 6860,
+      "text": "Awareness of AI Risks: The University of Cyprus adopts the risk categorisation defined in the EU AI Act—unacceptable, high, limited, and minimal risk—and its guidelines reflect this classification. University members must be aware of potential issues associated with the use of AI. These include but are not limited to:\n - academic integrity risks (e.g., plagiarism, copyright and IP infringement)\n - ethical, privacy and safety concerns (e.g., biases in outputs, privacy violations including uploading another author’s original writing without their consent, lack of transparency in declaring AI use)\n - dependency risks (e.g., diminished critical thinking and de-skilling)\n - inaccuracy and misinformation risks (e.g., hallucinated AI output and deepfakes – audiovisual content altered by AI – can lead to false information which may include intentionally and unintentionally manipulated data that leads to biased output)\n - social inequalities (e.g., unequal access or improper use that may provide unfair advantages to a person or a group)",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6860,
+      "char_end": 6864,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6864,
+      "char_end": 7462,
+      "text": "AI Prohibitions and Ethical Risks: Certain AI applications pose unacceptable risks and are strictly prohibited at the University of Cyprus in accordance with the EU AI Act. These include:\n - subliminal AI manipulation, which influences behavior without user awareness\n - social scoring AI, which ranks individuals based on personal behavior or socioeconomic background\n - AI that exploits vulnerabilities, particularly those that discriminate based on age, disabilities, or socioeconomic status.\nThe University of Cyprus enforces strict compliance with these regulations to maintain ethical AI use.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7462,
+      "char_end": 7466,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7466,
+      "char_end": 7846,
+      "text": "Input Responsibility and Safety Considerations: Users must exercise great caution when entering data into AI tools, avoiding the input of personal, confidential or unpublished research data, as well as copyrighted content. It is emphasised that AI tools may store, analyse, or use input data to improve their models, potentially leading to data leaks, ethical and safety concerns.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7846,
+      "char_end": 7850,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7850,
+      "char_end": 8663,
+      "text": "Verbatim Copying: While AI tools may assist in academic work, direct submission of AI-generated content as one's own is prohibited, except where explicitly authorized. Students and researchers must substantially contribute original analysis and critical thinking, especially when using AI interactively to enhance their work. Additionally, it is noted that some AI tools might be using watermarking techniques — that is, the embedding of invisible identifiers in the generated content. These identifiers may be detected during plagiarism checks, potentially risking future plagiarism allegations and damaging the University of Cyprus’ and the user’s reputation. To prevent such risks, it is important to safeguard the University of Cyprus community and oneself against any future violations of academic integrity.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8663,
+      "char_end": 8667,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8667,
+      "char_end": 9638,
+      "text": "Citation Requirements: The general use of AI tools doesn’t necessitate explicit declaration unless mandated in specific contexts, such as research papers or student assignments. Depending on the task, using minimal-risk tools like spell-checkers, translators, and simple automation functions, or gathering information with AI from publicly available sources, can be employed to acquire knowledge and shape opinions. Generally, such methods should not be explicitly mentioned unless there’s a clear directive to the contrary. However, transparency is essential in the use of AI tools. Such tools range from AI-powered chatbots and plagiarism detection software to any AI tool or system that generates output (e.g., text, code, images) that is either directly used or substantially influences academic work (e.g., research papers, homework assignments, essays, exams). In such cases, users must properly cite the use of AI tools to avoid plagiarism and ensure transparency.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9638,
+      "char_end": 9642,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9642,
+      "char_end": 10205,
+      "text": "Mitigation of Risks: The University of Cyprus encourages all faculty, students and researchers to actively engage with and participate in the University’s inclusive activities and training sessions on AI, offering regular updates on emerging AI risks and best practices in teaching & learning, as main mitigation actions against these risks. Furthermore, both students and staff are encouraged to take personal initiative in developing their professional and digital skills, ensuring they are well-prepared to engage effectively and safely with advanced AI tools.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10205,
+      "char_end": 10244,
+      "text": "\n\n## B. GUIDELINES FOR SPECIFIC GROUPS\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10244,
+      "char_end": 10386,
+      "text": "This section enumerates the general guidelines to specific user groups (students, teaching staff and researchers) at the University of Cyprus.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10386,
+      "char_end": 10427,
+      "text": "\n\n### B1. COURSE INSTRUCTOR GUIDELINES\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10427,
+      "char_end": 10671,
+      "text": "AI Usage Instructions: Instructors must exercise critical thinking over any AI-assisted use in teaching to ensure fairness, transparency, and accountability, with final responsibility for teaching and grading resting solely with the instructor.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10673,
+      "char_end": 11038,
+      "text": "Instructors should also provide specific guidelines for the permitted use of AI in the course syllabus or in the instructions of graded assignments or exams, in accordance with course objectives and learning outcomes, as well as academic integrity guidelines. Where AI use in graded coursework is not permissible, it should be stated in the assignment instructions.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11038,
+      "char_end": 11042,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11042,
+      "char_end": 11392,
+      "text": "Integrity of the Assessment Process: Instructors are encouraged to adapt the assessment methods for assignments and examinations to ensure the integrity of the assessment process. For example, take-home exams and thesis assessments may be replaced or complemented, if possible, with in-class quizzes or oral examinations to mitigate AI-related risks.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11392,
+      "char_end": 11396,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11396,
+      "char_end": 11678,
+      "text": "Use of Plagiarism Detection Tools: Instructors may use plagiarism detection tools such as those available in Blackboard and Moodle. It is noted, however, that these tools have a margin of error and should not constitute the sole source for the identification of academic misconduct.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11678,
+      "char_end": 11682,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11682,
+      "char_end": 12332,
+      "text": "AI as a Teaching Tool: Instructors are encouraged to use AI tools to deliver personalized or group-tailored learning opportunities, acting as a personal tutor for each student or group to enhance engagement and improve learning outcomes. While AI can be a valuable tool in education, it should complement the instructor’s role rather than replace it. Instructors should remain aware of the potential limitations and inaccuracies of generative AI systems. For additional information on how AI tools may be used in the educational process, check out the “UCY Guidelines” and the “Information Resources” sections of the University of Cyprus’ AI website.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12334,
+      "char_end": 12861,
+      "text": "Certain AI tools considered to pose limited risk should be used transparently. Examples include AI-powered chatbots (e.g., virtual assistants for answering student questions), plagiarism detection tools (e.g., Turnitin, Blackboard SafeAssign), and AI-assisted feedback tools (e.g., Grammarly for writing improvement). Instructors who use these tools in ways that directly impact student assessment, or academic evaluation, must ensure transparency and inform students accordingly by specifying their use in the course syllabus.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12861,
+      "char_end": 12865,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12865,
+      "char_end": 13230,
+      "text": "Privacy Protection and Responsible Use: Instructors must ensure compliance with the General Data Protection Regulations (GDPR) and the EU AI Act when using AI tools or systems in teaching and assessment. They must not upload student or third-party work onto AI platforms in ways that may raise significant risks for privacy, intellectual property, or data security.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13230,
+      "char_end": 13234,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13234,
+      "char_end": 13843,
+      "text": "Development of Comprehensive AI Teaching Competencies: Instructors are urged to develop digital competencies on the use of AI in teaching, by: a) fostering general AI literacy among students (Teaching for AI), b) integrating AI tools when they assess that this can enhance pedagogy (Teaching with AI), and c) delivering specialized instructions on the use of AI technologies and the ethical considerations involved (Teaching about AI). In any case, the use of AI in teaching should be adapted to align with the unique pedagogical models, professional autonomy, and structural requirements of higher education.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13843,
+      "char_end": 13874,
+      "text": "\n\n### B2. STUDENT GUIDELINES\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13874,
+      "char_end": 14415,
+      "text": "Academic Skill Development: As part of their academic training, students must further develop and apply their skills in generating ideas and arguments, conducting research and analysis, designing and executing projects, applying critical thinking, writing and revising work, synthesizing information, and citing sources properly. This list is not exhaustive but reflects a broader effort to ensure that students gain the most from their academic training. In all, the use of AI must enhance but not substitute fundamental academic processes.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14415,
+      "char_end": 14419,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14419,
+      "char_end": 15323,
+      "text": "AI as a Learning Aid: Students can use AI tools as an educational aid in order to enhance their learning. Examples of use are the following:\n - Better understanding of text, concepts and language\n AI tools, for example, can be used to obtain simple or even more detailed explanations of concepts or of elaborate text.\n - Brainstorming\n AI tools, for example, can serve as a sounding board for bouncing ideas, can provide suggestions or refine a concept. In more complex settings they can also analyse data and find trends or provide predictions for potential outcomes.\n - Checking and enhancing syntax and grammar\n Besides basic text corrections, AI tools can improve the clarity and readability of the text, the writing style and the structure of the assignment. Students are encouraged to review any text edits proposed by AI tools to pinpoint areas where they can further enhance their writing skills.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15323,
+      "char_end": 15327,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15327,
+      "char_end": 15736,
+      "text": "Transparency in Use: While AI can support learning, certain AI tools considered to pose limited risk require transparency in their use. Examples include AI-powered chatbots (e.g., ChatGPT for brainstorming), and adaptive learning platforms (e.g., AI-driven tutoring systems). If students use these tools in ways that directly influence their academic work, their use must be disclosed and properly referenced.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15738,
+      "char_end": 15918,
+      "text": "For graded assignments, exams, or projects, if AI tool usage is not addressed in the general guidelines, students must consult the course instructor to determine what is permitted.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15918,
+      "char_end": 15922,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15922,
+      "char_end": 16334,
+      "text": "Plagiarism: The use of AI generated output may be considered plagiarism if it does not reflect substantial intellectual contribution by the student. Plagiarism is considered a disciplinary misconduct at the University of Cyprus. To avoid plagiarism students must always reference the original sources and use quotation marks (e.g., “copied text”) when directly incorporating or paraphrasing AI-generated content.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16336,
+      "char_end": 16514,
+      "text": "In the event of plagiarism, disciplinary action may be taken in accordance with the Undergraduate Studies Rules or the Postgraduate Studies Rules depending on the level of study.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16514,
+      "char_end": 16548,
+      "text": "\n\n### B3. RESEARCHER GUIDELINES\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16548,
+      "char_end": 16833,
+      "text": "AI Tools in Research: AI tools can be used effectively in conducting research. Novice researchers must learn the essentials for appropriate and ethical use of AI technology as defined by the University of Cyprus and European and international guidelines and laws as well as publishers.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16835,
+      "char_end": 17291,
+      "text": "Researchers should apply critical judgement when using AI tools in research due to the lack of transparency regarding the datasets used to train these tools. The training datasets may include both unintentionally biased and inaccurate content, as well as data polluted with malicious intent. Even non-malicious data can reflect societal biases or outdated information, potentially compromising the reliability and ethical soundness of AI-generated outputs.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17291,
+      "char_end": 17295,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17295,
+      "char_end": 17703,
+      "text": "Research Originality: A basic tenet of research work is the original contribution to science and any use of AI that leads to non-genuine contributions is not permitted. This prohibition falls under unacceptable risk due to the potential for AI to undermine academic integrity by producing content without genuine authorship, introducing algorithmic bias, and facilitating the submission of non-original work.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17703,
+      "char_end": 17707,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17707,
+      "char_end": 18210,
+      "text": "Responsible Use of AI in Research: While generally considered of limited risk, the use of AI tools for research-related tasks such as literature reviews, coding, or data analysis requires researchers to be mindful of higher potential risks. Researchers must maintain transparency by documenting the AI tools used and the tasks performed with them. All researchers must comply with the “Living guidelines on the responsible use of generative AI in research” developed by the European Research Area Forum.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18210,
+      "char_end": 18214,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18214,
+      "char_end": 18485,
+      "text": "Misuse of AI in Research: Researchers are responsible for ensuring that AI is not used to create false, misleading, or unverifiable research findings. Fabrication or misrepresentation of data using AI constitutes academic misconduct and may result in disciplinary action.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18485,
+      "char_end": 18489,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18489,
+      "char_end": 18740,
+      "text": "Verification and Compliance: Researchers should exercise due diligence in verifying accuracy and comply with the University of Cyprus’ policies, intellectual property laws, the EU AI Act, and GDPR, including data protection and ethical considerations.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18740,
+      "char_end": 18744,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18744,
+      "char_end": 19036,
+      "text": "Preservation of Confidentiality: Researchers should apply care when dealing with confidential, personal, sensitive or proprietary content. Upholding confidentiality is essential to maintain trust, protect data subjects from potential harm, and adhere to ethical, research and legal standards.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19036,
+      "char_end": 20458,
+      "text": "\n\n## REFERENCES AND BIBLIOGRAPHY\n1. European Union, The “AI ACT”, Regulation (EU) 2024/1689 of the European Parliament and Council of 13 June 2024, https://eur-lex.europa.eu/eli/reg/2024/1689/oj\n2. European Commission: Directorate-General for Education, Youth, Sport and Culture, Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European Union, 2022, https://data.europa.eu/doi/10.2766/153756\n3. European Commission: European Education and Culture Executive Agency: AI report – By the European Digital Education Hub’s Squad on artificial intelligence in education, Publications Office of the European Union, 2023, https://data.europa.eu/doi/10.2797/828281\n4. The University of Cyprus: Academic Affairs and Student Welfare Service, Undergraduate Studies Rules, https://applications.ucy.ac.cy/icons/ects/docs/General_rules_of_study.pdf\n5. The University of Cyprus: The Graduate School, Postgraduate Studies Rules, 2023, https://www.ucy.ac.cy/graduateschool/wp-content/uploads/sites/45/2023/08/kanones-dimosiefsimi-morfi-01.08.23-english-1.pdf\n6. European Commission: Directorate-General for Research and Innovation, Living guidelines on the responsible use of generative AI in research - ERA Forum Stakeholders’ Document, 2024, https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en\n\n## FOOTNOTES",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

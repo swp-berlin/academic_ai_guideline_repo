@@ -1,0 +1,1065 @@
+{
+  "doc_id": "helmholtz-gemeinschaft",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Künstliche Intelligenz (KI), ihre vielfältigen Einsatzmöglichkeiten und potentiell damit verbundene Risiken beschäftigen derzeit große Teile der Gesellschaft. Anlass dafür sind insbesondere die Entwicklung und großflächige Nutzbarmachung von generativen KI-Systemen für die Text-, Video-, Bild- oder Musikerstellung (z.B. ChatGPT, Dall-E).",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Bereits vor der Veröffentlichung bekannter generativer KI-Systeme war KI im beruflichen und privaten Alltag vieler integriert. Während Navigationssoftware (z.B. Google Maps) KI bei der Routenplanung nutzt, verwenden Streamingdienste (z.B. YouTube, Netflix) und Verkaufsplattformen (z.B. Amazon) KI für personalisierte Empfehlungen basierend auf Nutzerverhalten und Vorlieben. Im beruflichen Kontext kommt KI mittlerweile großflächig zum Einsatz, z.B. bei der Rechtschreib- und Grammatikprüfung (z.B. Microsoft Word, Grammarly), bei der Analyse und Datenvisualisierung (z.B. Microsoft Excel) oder bei der automatischen Hintergrundgeräuschunterdrückung (z.B. Zoom). Doch erst die umfassende Nutzbarmachung von generativen KI-Systemen, also großen KI-Modellen, die auf umfangreichen Datenmengen trainiert werden und darauf basierend neue Inhalte generieren, die kaum noch von menschlich Produziertem zu unterscheiden sind, verdeutlichte gesamtgesellschaftlich das enorme Potential von KI.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "KI ist in der Helmholtz-Gemeinschaft ein relevanter Forschungsgegenstand und die Entwicklungen in dem Bereich daher von großer Bedeutung. So verfügt Helmholtz zum einen über selbst gehostete, große Rechenkapazitäten (z.B. JUWELS Booster, HoReKa und bald JUPITER) und stellt diese Forschenden und (externen) Nutzern zur Verfügung, um (generative) KI-Systeme zu entwickeln und anzuwenden. Zum anderen treibt Helmholtz aktiv die Entwicklung von eigenen KI-Modellen für eine Vielzahl von Forschungsbereichen voran (z.B. Helmholtz-Foundation-Modell-Initiative (HFMI)). Gleichzeitig entwickeln Forschende in Helmholtz neue KI-Methoden oder wenden KI-Technologien und -Systeme an, um mit deren Hilfe Lösungen für die großen Herausforderungen unserer Zeit zu entwickeln.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Als Europas größte Forschungsorganisation ist Helmholtz nicht nur daran gelegen, die Welt der KI durch die Entwicklung von eigenen KI-Systemen mitzugestalten, sondern auch daran, die Mitarbeitenden in allen Bereichen der Gemeinschaft zur verantwortungsvollen Nutzung zu ermutigen und zu befähigen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Ziel dieser Leitlinien soll es daher sein, neben den Chancen durch KI-Systeme auch potentielle Risiken und Handlungsempfehlungen zu deren Minimierung aufzuzeigen. Dies soll alle Mitarbeitenden der Helmholtz-Gemeinschaft dabei unterstützen, KI-Systeme informiert, reflektiert und verantwortungsbewusst zu verwenden bzw. zu entwickeln.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Es gibt bislang keine allgemein anerkannte Definition von KI und der rasante Fortschritt macht es unwahrscheinlich, dass bald ein Konsens erzielt wird. Es lassen sich aber einige Merkmale benennen, die verbreitet zur Charakterisierung von KI verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Künstliche Intelligenz (KI) bezeichnet den Bereich der Informatik, der sich mit der Entwicklung von Systemen und Algorithmen befasst, die es zum Ziel haben, Aufgaben für die digitale und physische Welt zu lösen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Traditionelle KI-Systeme, welche auch als regelbasierte oder symbolische KI-Systeme bekannt sind, beruhen auf vorgegebenen Regeln und Algorithmen, um Entscheidungen zu treffen und Probleme zu lösen. Diese Art der KI nutzt logische Schlussfolgerungen und explizit codierte Wissensdatenbanken, um Aufgaben zu erfüllen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Generative KI-Systeme sind eine spezielle Form der Künstlichen Intelligenz, die über Automatisierung und Klassifizierung traditioneller KI hinausgeht. Sie produzieren neue Inhalte (Texte, Bilder, Videos, Musik usw.), indem sie Muster und Strukturen in großen Datenmengen in einem Trainingsprozess lernen und replizieren.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "KI-Systeme haben das Potenzial, viele Aufgaben in Forschung, Management und Verwaltung zu erleichtern.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "In der Forschung ist Künstliche Intelligenz schon seit langer Zeit ein fester Bestandteil des Methodenrepertoires. Die in jüngster Zeit entwickelten generativen KI-Systeme versprechen dramatische Vereinfachungen datenwissenschaftlicher Prozesse. Insbesondere in der explorativen Phase der Forschung, in der Hypothesen generiert und getestet werden, können KI-Systeme zu einer Beschleunigung des Erkenntnisprozesses beitragen, etwa bei der Programmierung neuer Werkzeuge. Hinzu kommt, dass generative KI-Systeme die Anwendung komplizierter Analysealgorithmen vereinfachen können, etwa durch natürlichsprachliche Schnittstellen, und diese somit einer breiteren Forscherbasis zugänglich machen. Aber auch die Automatisierung wiederkehrender Aufgaben kann Effizienzen schaffen, wie zum Beispiel in der Datenaufbereitung oder bei der Generierung von Berichten. Dadurch können Forschende mehr Zeit in kreative und strategische Tätigkeiten investieren, was die Innovationskraft und wissenschaftliche Produktivität erheblich steigert.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Generative KI-Systeme bieten aber auch viele Anwendungsmöglichkeiten für die Verwaltung und das Management. Von Chatbots, die interaktiv den Zugang zu Wissen in Datenbanken oder Cloudsystemen ermöglichen, bis hin zum Verfassen von Besprechungsnotizen, Stellenausschreibungen oder Texte für vielfältige andere Kontexte – große Sprachmodelle können Arbeit erleichtern und effektivere Prozesse ermöglichen. Bild-generierende KI-Tools können dabei unterstützen, Grafiken und Visualisierungen für Präsentationen, Webauftritte oder die sozialen Medien zu erstellen und den Nutzenden so Kapazitäten für andere Aufgaben freimachen.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Neueste Entwicklungen ermöglichen zudem die Nutzung von sogenannte Multimodalen KI-Systemen, die neben geschriebenem Text auch Audio und Video verarbeiten und generieren können. Solche Systeme können beispielsweise bei der Erstellung von Pressemitteilungen helfen, wo nicht nur Text, sondern auch Abbildungen und kurze Videos verwendet werden sollen.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Aufgrund der rasanten Entwicklung im Bereich generativer KI kann diese Liste nur eine Momentaufnahme der Möglichkeiten darstellen, die regelmäßig ergänzt werden muss. Damit geht einher, dass auch die damit verbundenen neuen Herausforderungen, Unsicherheiten und Risiken gegenwärtig nur in groben Zügen zu umreißen sind. Die gesellschaftliche Einbettung von KI-Systemen befindet sich weitgehend noch in den Anfängen. Die Erfahrungen von Wissenschaft und Wissenschaftsmanagement mit den praktischen Möglichkeiten und Grenzen von KI-Systemen sind eine wichtige Ressource sozialer Reflexion und eine bedeutsame Instanz gesellschaftlichen Lernens hinsichtlich des zukünftigen Umgangs mit und der Gestaltung von solchen Systemen. Es ist das ausdrückliche Ziel der Helmholtz-Gemeinschaft, die Voraussetzungen dafür zu schaffen, dass sie und ihre Mitarbeitenden hierzu umfassend beitragen können.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Systeme, insbesondere generative KI-Systeme, bieten viele Einsatzmöglichkeiten. Sie bergen jedoch auch Risiken und Herausforderungen. Einige davon basieren auf technischen Beschränkungen einzelner KI-Systeme, andere sind auf die absichtliche oder unabsichtliche missbräuchliche Verwendung von KI-Systemen zurückzuführen. Im Folgenden werden einzelne Risiken und Handlungsempfehlungen zu deren Minimierung aufgezeigt.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Grundsätzlich gilt, dass Nutzende von KI-Systemen immer selbst verantwortlich sind für\n\n1. den Inhalt, den sie dem KI-System zur Verfügung stellen (Input), und\n2. die Nutzung des Inhalts, den das KI-System herausgibt (Output).",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "KI-Systeme sind keine moralischen oder rechtlichen Akteure und können weder rechtlich noch moralisch für Erzeugnisse verantwortlich gemacht werden. Insbesondere können KI-Systeme keine Autorenschaft übernehmen und weder für Fehlinformationen, Datenschutzverletzungen, Urheberrechtsverletzungen, noch für andere rechtlich oder moralisch problematische Informationen zur Rechenschaft gezogen werden. Verantwortung setzt eine bewusste Entscheidungsfähigkeit und moralisches Urteilsvermögen voraus, die KI-Systeme nicht besitzen. Daher stehen die Nutzenden in der Verantwortung, KI-Systeme und deren Ergebnisse so zu verwenden, dass moralische Standards und rechtliche Vorschriften eingehalten werden. Bei Verstößen haften ggf. die Nutzenden.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative KI-Systeme speichern und/oder nutzen häufig die von den Nutzenden eingegebenen Informationen, um z.B. die KI damit weiter zu trainieren. Auf diese Weise können die von Nutzenden eingegebenen Informationen sowohl zum Dienstleister als auch zu anderen, zukünftigen Nutzenden gelangen. Nutzende gehen bei bestimmten KI-Systemen somit das Risiko ein, sensible, vertrauliche oder persönliche Daten an andere weiterzugeben.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dies kann unterschiedliche Konsequenzen nach sich ziehen:\n\n- Die Datenschutz-Grundverordnung (DSGVO) kann verletzt werden, welche dem Schutz von personenbezogenen Daten dient.\n- Durch die Weitergabe von vertraulichen Geschäftsinformationen/-geheimnissen wird gegen das Geschäftsgeheimnisgesetz verstoßen.\n- Unveröffentlichte Forschungsergebnisse/-daten/-projekte und Manuskripte werden Dritten zugänglich gemacht, so dass diese von der Konkurrenz genutzt und ggf. veröffentlicht werden können.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von externen KI-Systemen ist darauf zu achten, dass keine sensiblen Daten an die Dienstleister weitergegeben werden. Dazu gehören\n - Personenbezogene Daten (siehe DSGVO für Details)\n - Geschäftsgeheimnisse, vertrauliche/ strategische Geschäftsinformationen\n - Unveröffentlichte Forschungsergebnisse/-daten, wissenschaftliche Manuskripte, Forschungs- und Projektanträge",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Wenn dennoch KI-Systeme verwendet werden, ist darauf zu achten, dass die sensiblen Daten unkenntlich gemacht werden, sodass sie weder vom externen Dienstleister noch von anderen Nutzenden rekonstruiert oder genutzt werden können.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Da zur sinnvollen Bewertung von wissenschaftlichen Manuskripten oder Forschungs- und Projektanträgen alle Informationen des Dokuments nötig sind und daher sensible Daten nicht unkenntlich gemacht werden können, sind Bewertungen und Begutachtungen grundsätzlich ohne die Unterstützung von KI-Systemen vorzunehmen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Systeme können mit urheberrechtlich geschützten Daten oder unter Nutzung von sonstigem geistigen Eigentum trainiert worden sein, die teilweise oder vollständig in den generierten Ergebnissen wiedergegeben werden. Verwenden oder verbreiten Nutzende diese Ergebnisse (Bilder, Texte, Videos, Filme etc.) ungeprüft, kommt es zur Urheberrechtsverletzung oder Verletzungen von anderen Rechten an geistigem Eigentum. In diesem Fall sind die Nutzenden verantwortlich und können ggf. rechtlich belangt werden, auch im Falle von unbeabsichtigter Verletzung von Urheberrechten und sonstigem geistigen Eigentum.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "KI-generierte Inhalte sollten stets auf Marken und andere offensichtlich urheberrechtlich, markenrechtlich, oder anderweitig geschützte Elemente geprüft werden (z.B. Logos auf generierten Bildern), bevor sie weiterverarbeitet werden. Sollten geschützte Elemente in den Ergebnissen gefunden werden, sollte der betreffende Dienst und die damit generierten Inhalte nach Möglichkeit nicht genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Es sollten bevorzugt etablierte Dienste genutzt werden, die auf Open-Source-Modellen basieren, ihre Trainingsdaten angeben und eine Überprüfung des Urheberrechtsstatus der Quelle ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Erstellung von Inhalten mit hoher Sichtbarkeit/ Reichweite (z.B. Bilder für soziale Medien oder wissenschaftliche Publikationen), sollten Nutzende die Verwendung von KI-Tools stets sorgfältig gegen das Risiko einer unbeabsichtigten Urheberrechtsverletzung abwägen.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Verwendung von KI-generierten Inhalten besteht das Risiko, dass Falschinformationen und Plagiate verbreitet werden. Diese Inhalte sind nicht mit den Grundzügen (wissenschaftlicher) Informationsintegrität vereinbar.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Falschinformationen**: KI-Systeme, insbesondere generative KI-Systeme, erzeugen ihre Ergebnisse, wie oben beschrieben, auf der Grundlage von Trainingsdaten, d.h. auf bereits bestehenden Texten, Daten, Bilder, Videos usw. Hierbei prüft das KI-System nicht, ob es sich bei den zum Training verwendeten Daten um korrekte Informationen handelt oder ob die Ergebnisse wahr oder sinnvoll sind. Es besteht folglich das Risiko, dass KI-generierte Inhalte falsche Informationen enthalten, welche bei deren Nutzung (unbeabsichtigt) verbreitet werden (können). Die Nutzenden stehen in der Verantwortung, den Output auf Richtigkeit zu prüfen, da sie bei Weiternutzung die Verantwortung dafür tragen. Die Offenlegungen und Dokumentation der Verwendung von KI-Systeme ist hier zentral.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**„Halluzinationen“**: KI-Systeme können Elemente ihrer Trainingsdaten so zu neuen Inhalten zusammenfügen, dass der Output falsch oder sogar unsinnig ist. Bei „Halluzinationen“ handelt es sich also um eine spezielle Art der Falschinformation, welche vom KI-System selbst generiert werden und keine Grundlage in den zugrundeliegenden Daten oder der Realität haben. Nutzende dürfen Ergebnisse daher nicht ungeprüft übernehmen und sollten grundsätzlich eine kritische Einstellung gegenüber KI-generierten Erzeugnissen einnehmen.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Plagiate**: KI-generierte Inhalte können Plagiate enthalten, die direkt aus den Trainingsdaten stammen. Verwenden Nutzende diese Inhalte ungeprüft weiter, verbreiten sie Plagiate. Verwenden Nutzende KI-generierte Inhalte und geben dieses als ihr eigenes geistiges Eigentum aus, plagieren sie, wenn die generierten Inhalte das geistige Eigentum anderer enthalten. Die Nutzenden tragen die Verantwortung für die genutzten Inhalte. Sie sind bei Weiterverarbeitung der generierten Inhalte die Autor:innen, nicht das verwendete KI-Tool.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Autorenschaft kann nur durch natürliche Personen übernommen werden. Diese sind es, die in ihrer Rolle der Autor:innen Verantwortung für Inhalte übernehmen und deren Qualität und Richtigkeit sicherzustellen. Inhalte sind deshalb stets gründlich auf Konsistenz, Fehler und Plagiate zu prüfen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Anwendung von KI-Systemen ist offenzulegen sowie nachvollziehbar und transparent zu dokumentieren. Nutzende sollten also stets darüber informieren, wenn KI genutzt wurde (z.B. per Disclaimer, Fußnote, Hinweis, Zitation o.ä.). Diese Aufgabe zur Wahrung wissenschaftlicher Integrität ist ein Leitprinzip der guten wissenschaftlichen Praxis. In wissenschaftlichen Arbeiten müssen KI-Systeme im Detail zitiert werden, um z.B. Analysen von Daten nachvollziehbar und, soweit möglich, replizierbar zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Open Science als leitendes Paradigma der wissenschaftlichen Arbeit in Helmholtz ist auch bei der Anwendung von KI-Systemen sicherzustellen. Über die Dokumentation hinaus sind Daten, Modelle und weiterführende Materialien nach dem Motto „as open as possible, as closed as necessary“ entsprechend der Helmholtz Open Science Policy offen und dokumentiert auf vertrauenswürdigen Repositorien zugänglich zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Verzerrungen oder Vorurteile („Bias“), die in den Daten vorhanden sind, die zum Training eines KI-Systems verwendet wurden, können in den damit generierten Inhalten fortbestehen und sogar verstärkt werden. Dabei kann es sich um Vorurteile gegenüber ethnischen Gruppen, Religionsgemeinschaften usw. handeln, aber auch um Verzerrungen, die beeinflussen, welche Daten, Metadaten oder Quellen wie häufig und in welchem Umfang von KI-Systemen im Output verwendet werden. Durch die ungeprüfte Verwendung von KI-generierten Inhalten können Nutzende daher selbst diskriminierend agieren. Dies kann wiederum dazu führen, dass solche Verzerrungen und Vorurteile weiter verbreitet und somit langfristig verstärkt werden.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Verwendung von KI-generierten Inhalten sind Nutzende angehalten, diese sorgfältig auf Verzerrungen/ Vorurteile zu überprüfen. Dies gilt vor allem dann, wenn die KI-generierten Ergebnisse für Entscheidungen genutzt werden, die erhebliche Auswirkungen auf Dritte haben.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI wird vermehrt zu einer Massenware. Selbst mäßige Programmierkenntnisse reichen mittlerweile aus, um KI-Dienste einzurichten und bereitzustellen, und es ist zu erwarten, dass dies in Zukunft noch einfacher wird. Daher wächst das Risiko, unwissentlich Dienste zu verwenden und/oder zu entwickeln, die gesetzliche Regularien nicht oder nur unzulänglich umsetzen.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Der „EU AI Act“ ist das erste umfassende Gesetz, das einen Rechtsrahmen für den Einsatz von KI-Dienste schafft. Der EU AI Act verfolgt einen risikobasierten Ansatz zur Regulierung von KI-Systemen und enthält, entsprechend der Einstufung eines KI-Systems, strenge Pflichten für Anbieter, Betreiber und Entwickler von KI-Systemen. Verstöße gegen diese Verpflichtungen können mit hohen Bußgeldern geahndet werden. Daher sollten Entwickler, Betreiber und Anbieter sich rechtlichen Rat einholen, bevor sie KI-Dienste anbieten oder betreiben.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Nutzende sollten bei der Wahl von KI-Diensten darauf achten, dass diese die gesetzlichen Regularien vollumfänglich berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "**Überprüfen von Inhalten**: Alle KI-generierten Inhalte sollten sorgfältig von Nutzenden überprüft werden, um die oben aufgeführten Risiken zu minimieren. Nutzende sind für die von ihnen verwendeten/ verbreiteten Inhalte selbst verantwortlich und können bei gesetzlichen Verstößen ggf. haftbar gemacht werden. Dies gilt insbesondere dann, wenn die KI-generierten Ergebnisse der Entscheidungsfindung oder Bewertung dienen.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "**Transparenz und Nachvollziehbarkeit**: Nutzende sollten stets transparent machen und offen dokumentieren, wann und in welchem Umfang KI genutzt wurde (z.B. per Disclaimer, Fußnote, Hinweis, Zitation o.ä.). Entwickler:innen von KI-Systemen sollten die grundlegende Funktionsweise sowie die fürs Training verwendeten Daten für Nutzende und Expert:innen ausreichend nachvollziehbar machen. Modelle und Daten sind im Sinne von Open Science auf vertrauenswürdigen Infrastrukturen, entsprechend dem Motto „as open as possible as closed as necessary“ im Sinne der Helmholtz Open Science Policy zugänglich zu machen. Zudem sollten Nutzende stets darüber Informiert werden, wenn sie nicht mit einem Menschen, sondern einem KI-System interagieren.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "**Verantwortungsvolle (Nicht-)Nutzung**: KI-Dienste sollten nicht verwendet werden, wenn die Gefahr besteht, dass sensible Daten (z.B. personenbezogene Daten, vertrauliche Geschäftsdaten, Geschäftsgeheimnisse, unveröffentlichte Forschungsergebnisse/-daten, Forschungsanträge usw.) weitergegeben werden könnten.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "**Verwendung bestimmter Dienste**: Nutzende sollten nach Möglichkeit KI-Dienste verwenden, die transparent über ihre Datenquellen informieren. Aus datenschutzrechtlichen Gründen sollten Nutzende zudem KI-Systeme bevorzugen, die in Europa gehostet werden.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "## 4.1 risiko: datenschutzverletzung und ungewollte weitergabe von informationen",
+      "repaired": true
+    },
+    {
+      "id": 44,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "## 4.2 risiko: verletzung von urheberund sonstigen schutzrechten",
+      "repaired": true
+    },
+    {
+      "id": 45,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "## 4.3 risiko: verbreitung von falschinformationen und fehlende (wissenschaftliche) informationsintegrität",
+      "repaired": true
+    },
+    {
+      "id": 46,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "## 4.4 risiko: verzerrung / vorurteile durch trainingsdaten",
+      "repaired": true
+    },
+    {
+      "id": 47,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "## 4.5 risiko: verstoß gegen ki-bezogene regulierungen",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 47,
+    "matched": 46,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 47,
+        "B": "B9",
+        "matched_words": "5/7",
+        "text": "## 4.5 risiko: verstoß gegen ki-bezogene regulierungen"
+      }
+    ],
+    "source_coverage": 0.931,
+    "uncovered_chars": 1324,
+    "uncovered_gaps": 12,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 376,
+        "length": 376,
+        "text": "# helmholtz-gemeinschaft # source: https://www.helmholtz.de/assets/helmholtz_gemeinschaft/downloads/helmholtz_handlungsempfehlungen_zum_einsatz_von_ki_version_1.0.pdf # date: 2024-09-18 # category: guideline # handlungsempfehlungen zum einsatz von künstlicher intelligenz version 1.0 (von der helmholtz-mitgliederversammlung beschlossene fassung vom 18.09.2024) # 1. präambel"
+      },
+      {
+        "char_start": 3091,
+        "char_end": 3116,
+        "length": 25,
+        "text": ". # 2. begriffserklärung"
+      },
+      {
+        "char_start": 4224,
+        "char_end": 4248,
+        "length": 24,
+        "text": ". # 3. chancen durch ki"
+      },
+      {
+        "char_start": 7239,
+        "char_end": 7301,
+        "length": 62,
+        "text": ". # 4. risiken und handlungsempfehlungen zu deren minimierung"
+      },
+      {
+        "char_start": 9681,
+        "char_end": 9729,
+        "length": 48,
+        "text": ". ### handlungsempfehlung zur risikominimierung"
+      },
+      {
+        "char_start": 11310,
+        "char_end": 11356,
+        "length": 46,
+        "text": ". ### handlungsempfehlung zur risikominderung"
+      },
+      {
+        "char_start": 14384,
+        "char_end": 14430,
+        "length": 46,
+        "text": ". ### handlungsempfehlung zur risikominderung"
+      },
+      {
+        "char_start": 16405,
+        "char_end": 16451,
+        "length": 46,
+        "text": ". ### handlungsempfehlung zur risikominderung"
+      },
+      {
+        "char_start": 16725,
+        "char_end": 16782,
+        "length": 57,
+        "text": ". ## 4.5 risiko: verstoß gegen ki-bezogene regulierungen"
+      },
+      {
+        "char_start": 17143,
+        "char_end": 17189,
+        "length": 46,
+        "text": ". ### handlungsempfehlung zur risikominderung"
+      },
+      {
+        "char_start": 17856,
+        "char_end": 17924,
+        "length": 68,
+        "text": ". # 5. good practices bei der nutzung & entwicklung von ki-systemen"
+      },
+      {
+        "char_start": 19651,
+        "char_end": 20131,
+        "length": 480,
+        "text": ". # impressum hermann von helmholtz-gemeinschaft deutscher forschungszentren e.v. geschäftsstelle berlin anna-louisa-karsch-straße 2, 10178 berlin www.helmholtz.de # footnotes nähere informationen zur dsgvo finden sie hier. nähere informationen zum gesetz zum schutz von geschäftsgeheimnis finden sie hier. vgl. auch stellungnahme der deutschen forschungsgemeinschaft (dfg) nähere informationen zum urheberrecht finden sie hier. siehe helmholtz open science policy siehe eu ai act"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 381,
+      "text": "# Helmholtz-Gemeinschaft\n# Source: https://www.helmholtz.de/assets/helmholtz_gemeinschaft/Downloads/Helmholtz_Handlungsempfehlungen_zum_Einsatz_von_KI_Version_1.0.pdf\n# Date: 2024-09-18\n# Category: guideline\n\n# Handlungsempfehlungen zum Einsatz von Künstlicher Intelligenz\n\nVersion 1.0\n\n(von der Helmholtz-Mitgliederversammlung beschlossene Fassung vom 18.09.2024)\n\n# 1. Präambel\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 381,
+      "char_end": 720,
+      "text": "Künstliche Intelligenz (KI), ihre vielfältigen Einsatzmöglichkeiten und potentiell damit verbundene Risiken beschäftigen derzeit große Teile der Gesellschaft. Anlass dafür sind insbesondere die Entwicklung und großflächige Nutzbarmachung von generativen KI-Systemen für die Text-, Video-, Bild- oder Musikerstellung (z.B. ChatGPT, Dall-E).",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 722,
+      "char_end": 1707,
+      "text": "Bereits vor der Veröffentlichung bekannter generativer KI-Systeme war KI im beruflichen und privaten Alltag vieler integriert. Während Navigationssoftware (z.B. Google Maps) KI bei der Routenplanung nutzt, verwenden Streamingdienste (z.B. YouTube, Netflix) und Verkaufsplattformen (z.B. Amazon) KI für personalisierte Empfehlungen basierend auf Nutzerverhalten und Vorlieben. Im beruflichen Kontext kommt KI mittlerweile großflächig zum Einsatz, z.B. bei der Rechtschreib- und Grammatikprüfung (z.B. Microsoft Word, Grammarly), bei der Analyse und Datenvisualisierung (z.B. Microsoft Excel) oder bei der automatischen Hintergrundgeräuschunterdrückung (z.B. Zoom). Doch erst die umfassende Nutzbarmachung von generativen KI-Systemen, also großen KI-Modellen, die auf umfangreichen Datenmengen trainiert werden und darauf basierend neue Inhalte generieren, die kaum noch von menschlich Produziertem zu unterscheiden sind, verdeutlichte gesamtgesellschaftlich das enorme Potential von KI.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1709,
+      "char_end": 2471,
+      "text": "KI ist in der Helmholtz-Gemeinschaft ein relevanter Forschungsgegenstand und die Entwicklungen in dem Bereich daher von großer Bedeutung. So verfügt Helmholtz zum einen über selbst gehostete, große Rechenkapazitäten (z.B. JUWELS Booster, HoReKa und bald JUPITER) und stellt diese Forschenden und (externen) Nutzern zur Verfügung, um (generative) KI-Systeme zu entwickeln und anzuwenden. Zum anderen treibt Helmholtz aktiv die Entwicklung von eigenen KI-Modellen für eine Vielzahl von Forschungsbereichen voran (z.B. Helmholtz-Foundation-Modell-Initiative (HFMI)). Gleichzeitig entwickeln Forschende in Helmholtz neue KI-Methoden oder wenden KI-Technologien und -Systeme an, um mit deren Hilfe Lösungen für die großen Herausforderungen unserer Zeit zu entwickeln.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2473,
+      "char_end": 2770,
+      "text": "Als Europas größte Forschungsorganisation ist Helmholtz nicht nur daran gelegen, die Welt der KI durch die Entwicklung von eigenen KI-Systemen mitzugestalten, sondern auch daran, die Mitarbeitenden in allen Bereichen der Gemeinschaft zur verantwortungsvollen Nutzung zu ermutigen und zu befähigen.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2772,
+      "char_end": 3105,
+      "text": "Ziel dieser Leitlinien soll es daher sein, neben den Chancen durch KI-Systeme auch potentielle Risiken und Handlungsempfehlungen zu deren Minimierung aufzuzeigen. Dies soll alle Mitarbeitenden der Helmholtz-Gemeinschaft dabei unterstützen, KI-Systeme informiert, reflektiert und verantwortungsbewusst zu verwenden bzw. zu entwickeln.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3105,
+      "char_end": 3131,
+      "text": "\n\n# 2. Begriffserklärung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3131,
+      "char_end": 3390,
+      "text": "Es gibt bislang keine allgemein anerkannte Definition von KI und der rasante Fortschritt macht es unwahrscheinlich, dass bald ein Konsens erzielt wird. Es lassen sich aber einige Merkmale benennen, die verbreitet zur Charakterisierung von KI verwendet werden.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3392,
+      "char_end": 3603,
+      "text": "Künstliche Intelligenz (KI) bezeichnet den Bereich der Informatik, der sich mit der Entwicklung von Systemen und Algorithmen befasst, die es zum Ziel haben, Aufgaben für die digitale und physische Welt zu lösen.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3605,
+      "char_end": 3921,
+      "text": "Traditionelle KI-Systeme, welche auch als regelbasierte oder symbolische KI-Systeme bekannt sind, beruhen auf vorgegebenen Regeln und Algorithmen, um Entscheidungen zu treffen und Probleme zu lösen. Diese Art der KI nutzt logische Schlussfolgerungen und explizit codierte Wissensdatenbanken, um Aufgaben zu erfüllen.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3923,
+      "char_end": 4243,
+      "text": "Generative KI-Systeme sind eine spezielle Form der Künstlichen Intelligenz, die über Automatisierung und Klassifizierung traditioneller KI hinausgeht. Sie produzieren neue Inhalte (Texte, Bilder, Videos, Musik usw.), indem sie Muster und Strukturen in großen Datenmengen in einem Trainingsprozess lernen und replizieren.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4243,
+      "char_end": 4268,
+      "text": "\n\n# 3. Chancen durch KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4268,
+      "char_end": 4370,
+      "text": "KI-Systeme haben das Potenzial, viele Aufgaben in Forschung, Management und Verwaltung zu erleichtern.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4372,
+      "char_end": 5398,
+      "text": "In der Forschung ist Künstliche Intelligenz schon seit langer Zeit ein fester Bestandteil des Methodenrepertoires. Die in jüngster Zeit entwickelten generativen KI-Systeme versprechen dramatische Vereinfachungen datenwissenschaftlicher Prozesse. Insbesondere in der explorativen Phase der Forschung, in der Hypothesen generiert und getestet werden, können KI-Systeme zu einer Beschleunigung des Erkenntnisprozesses beitragen, etwa bei der Programmierung neuer Werkzeuge. Hinzu kommt, dass generative KI-Systeme die Anwendung komplizierter Analysealgorithmen vereinfachen können, etwa durch natürlichsprachliche Schnittstellen, und diese somit einer breiteren Forscherbasis zugänglich machen. Aber auch die Automatisierung wiederkehrender Aufgaben kann Effizienzen schaffen, wie zum Beispiel in der Datenaufbereitung oder bei der Generierung von Berichten. Dadurch können Forschende mehr Zeit in kreative und strategische Tätigkeiten investieren, was die Innovationskraft und wissenschaftliche Produktivität erheblich steigert.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5400,
+      "char_end": 6023,
+      "text": "Generative KI-Systeme bieten aber auch viele Anwendungsmöglichkeiten für die Verwaltung und das Management. Von Chatbots, die interaktiv den Zugang zu Wissen in Datenbanken oder Cloudsystemen ermöglichen, bis hin zum Verfassen von Besprechungsnotizen, Stellenausschreibungen oder Texte für vielfältige andere Kontexte – große Sprachmodelle können Arbeit erleichtern und effektivere Prozesse ermöglichen. Bild-generierende KI-Tools können dabei unterstützen, Grafiken und Visualisierungen für Präsentationen, Webauftritte oder die sozialen Medien zu erstellen und den Nutzenden so Kapazitäten für andere Aufgaben freimachen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6025,
+      "char_end": 6375,
+      "text": "Neueste Entwicklungen ermöglichen zudem die Nutzung von sogenannte Multimodalen KI-Systemen, die neben geschriebenem Text auch Audio und Video verarbeiten und generieren können. Solche Systeme können beispielsweise bei der Erstellung von Pressemitteilungen helfen, wo nicht nur Text, sondern auch Abbildungen und kurze Videos verwendet werden sollen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6377,
+      "char_end": 7265,
+      "text": "Aufgrund der rasanten Entwicklung im Bereich generativer KI kann diese Liste nur eine Momentaufnahme der Möglichkeiten darstellen, die regelmäßig ergänzt werden muss. Damit geht einher, dass auch die damit verbundenen neuen Herausforderungen, Unsicherheiten und Risiken gegenwärtig nur in groben Zügen zu umreißen sind. Die gesellschaftliche Einbettung von KI-Systemen befindet sich weitgehend noch in den Anfängen. Die Erfahrungen von Wissenschaft und Wissenschaftsmanagement mit den praktischen Möglichkeiten und Grenzen von KI-Systemen sind eine wichtige Ressource sozialer Reflexion und eine bedeutsame Instanz gesellschaftlichen Lernens hinsichtlich des zukünftigen Umgangs mit und der Gestaltung von solchen Systemen. Es ist das ausdrückliche Ziel der Helmholtz-Gemeinschaft, die Voraussetzungen dafür zu schaffen, dass sie und ihre Mitarbeitenden hierzu umfassend beitragen können.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7265,
+      "char_end": 7328,
+      "text": "\n\n# 4. Risiken und Handlungsempfehlungen zu deren Minimierung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7328,
+      "char_end": 7747,
+      "text": "KI-Systeme, insbesondere generative KI-Systeme, bieten viele Einsatzmöglichkeiten. Sie bergen jedoch auch Risiken und Herausforderungen. Einige davon basieren auf technischen Beschränkungen einzelner KI-Systeme, andere sind auf die absichtliche oder unabsichtliche missbräuchliche Verwendung von KI-Systemen zurückzuführen. Im Folgenden werden einzelne Risiken und Handlungsempfehlungen zu deren Minimierung aufgezeigt.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7749,
+      "char_end": 7975,
+      "text": "Grundsätzlich gilt, dass Nutzende von KI-Systemen immer selbst verantwortlich sind für\n\n1. den Inhalt, den sie dem KI-System zur Verfügung stellen (Input), und\n2. die Nutzung des Inhalts, den das KI-System herausgibt (Output).",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7977,
+      "char_end": 8715,
+      "text": "KI-Systeme sind keine moralischen oder rechtlichen Akteure und können weder rechtlich noch moralisch für Erzeugnisse verantwortlich gemacht werden. Insbesondere können KI-Systeme keine Autorenschaft übernehmen und weder für Fehlinformationen, Datenschutzverletzungen, Urheberrechtsverletzungen, noch für andere rechtlich oder moralisch problematische Informationen zur Rechenschaft gezogen werden. Verantwortung setzt eine bewusste Entscheidungsfähigkeit und moralisches Urteilsvermögen voraus, die KI-Systeme nicht besitzen. Daher stehen die Nutzenden in der Verantwortung, KI-Systeme und deren Ergebnisse so zu verwenden, dass moralische Standards und rechtliche Vorschriften eingehalten werden. Bei Verstößen haften ggf. die Nutzenden.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8717,
+      "char_end": 8797,
+      "text": "## 4.1 Risiko: Datenschutzverletzung und ungewollte Weitergabe von Informationen",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8799,
+      "char_end": 9227,
+      "text": "Generative KI-Systeme speichern und/oder nutzen häufig die von den Nutzenden eingegebenen Informationen, um z.B. die KI damit weiter zu trainieren. Auf diese Weise können die von Nutzenden eingegebenen Informationen sowohl zum Dienstleister als auch zu anderen, zukünftigen Nutzenden gelangen. Nutzende gehen bei bestimmten KI-Systemen somit das Risiko ein, sensible, vertrauliche oder persönliche Daten an andere weiterzugeben.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9229,
+      "char_end": 9722,
+      "text": "Dies kann unterschiedliche Konsequenzen nach sich ziehen:\n\n- Die Datenschutz-Grundverordnung (DSGVO) kann verletzt werden, welche dem Schutz von personenbezogenen Daten dient.\n- Durch die Weitergabe von vertraulichen Geschäftsinformationen/-geheimnissen wird gegen das Geschäftsgeheimnisgesetz verstoßen.\n- Unveröffentlichte Forschungsergebnisse/-daten/-projekte und Manuskripte werden Dritten zugänglich gemacht, so dass diese von der Konkurrenz genutzt und ggf. veröffentlicht werden können.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9722,
+      "char_end": 9773,
+      "text": "\n\n### Handlungsempfehlung zur Risikominimierung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9773,
+      "char_end": 10157,
+      "text": "Bei der Nutzung von externen KI-Systemen ist darauf zu achten, dass keine sensiblen Daten an die Dienstleister weitergegeben werden. Dazu gehören\n - Personenbezogene Daten (siehe DSGVO für Details)\n - Geschäftsgeheimnisse, vertrauliche/ strategische Geschäftsinformationen\n - Unveröffentlichte Forschungsergebnisse/-daten, wissenschaftliche Manuskripte, Forschungs- und Projektanträge",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10157,
+      "char_end": 10160,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10160,
+      "char_end": 10389,
+      "text": "Wenn dennoch KI-Systeme verwendet werden, ist darauf zu achten, dass die sensiblen Daten unkenntlich gemacht werden, sodass sie weder vom externen Dienstleister noch von anderen Nutzenden rekonstruiert oder genutzt werden können.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10389,
+      "char_end": 10392,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10392,
+      "char_end": 10704,
+      "text": "Da zur sinnvollen Bewertung von wissenschaftlichen Manuskripten oder Forschungs- und Projektanträgen alle Informationen des Dokuments nötig sind und daher sensible Daten nicht unkenntlich gemacht werden können, sind Bewertungen und Begutachtungen grundsätzlich ohne die Unterstützung von KI-Systemen vorzunehmen.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10704,
+      "char_end": 10774,
+      "text": "\n\n## 4.2 Risiko: Verletzung von Urheber- und sonstigen Schutzrechten\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10774,
+      "char_end": 11376,
+      "text": "KI-Systeme können mit urheberrechtlich geschützten Daten oder unter Nutzung von sonstigem geistigen Eigentum trainiert worden sein, die teilweise oder vollständig in den generierten Ergebnissen wiedergegeben werden. Verwenden oder verbreiten Nutzende diese Ergebnisse (Bilder, Texte, Videos, Filme etc.) ungeprüft, kommt es zur Urheberrechtsverletzung oder Verletzungen von anderen Rechten an geistigem Eigentum. In diesem Fall sind die Nutzenden verantwortlich und können ggf. rechtlich belangt werden, auch im Falle von unbeabsichtigter Verletzung von Urheberrechten und sonstigem geistigen Eigentum.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11376,
+      "char_end": 11425,
+      "text": "\n\n### Handlungsempfehlung zur Risikominderung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11425,
+      "char_end": 11825,
+      "text": "KI-generierte Inhalte sollten stets auf Marken und andere offensichtlich urheberrechtlich, markenrechtlich, oder anderweitig geschützte Elemente geprüft werden (z.B. Logos auf generierten Bildern), bevor sie weiterverarbeitet werden. Sollten geschützte Elemente in den Ergebnissen gefunden werden, sollte der betreffende Dienst und die damit generierten Inhalte nach Möglichkeit nicht genutzt werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11825,
+      "char_end": 11828,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11828,
+      "char_end": 12019,
+      "text": "Es sollten bevorzugt etablierte Dienste genutzt werden, die auf Open-Source-Modellen basieren, ihre Trainingsdaten angeben und eine Überprüfung des Urheberrechtsstatus der Quelle ermöglichen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12019,
+      "char_end": 12022,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12022,
+      "char_end": 12294,
+      "text": "Bei der Erstellung von Inhalten mit hoher Sichtbarkeit/ Reichweite (z.B. Bilder für soziale Medien oder wissenschaftliche Publikationen), sollten Nutzende die Verwendung von KI-Tools stets sorgfältig gegen das Risiko einer unbeabsichtigten Urheberrechtsverletzung abwägen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12296,
+      "char_end": 12402,
+      "text": "## 4.3 Risiko: Verbreitung von Falschinformationen und fehlende (wissenschaftliche) Informationsintegrität",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12404,
+      "char_end": 12626,
+      "text": "Bei der Verwendung von KI-generierten Inhalten besteht das Risiko, dass Falschinformationen und Plagiate verbreitet werden. Diese Inhalte sind nicht mit den Grundzügen (wissenschaftlicher) Informationsintegrität vereinbar.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12626,
+      "char_end": 12630,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12630,
+      "char_end": 13403,
+      "text": "**Falschinformationen**: KI-Systeme, insbesondere generative KI-Systeme, erzeugen ihre Ergebnisse, wie oben beschrieben, auf der Grundlage von Trainingsdaten, d.h. auf bereits bestehenden Texten, Daten, Bilder, Videos usw. Hierbei prüft das KI-System nicht, ob es sich bei den zum Training verwendeten Daten um korrekte Informationen handelt oder ob die Ergebnisse wahr oder sinnvoll sind. Es besteht folglich das Risiko, dass KI-generierte Inhalte falsche Informationen enthalten, welche bei deren Nutzung (unbeabsichtigt) verbreitet werden (können). Die Nutzenden stehen in der Verantwortung, den Output auf Richtigkeit zu prüfen, da sie bei Weiternutzung die Verantwortung dafür tragen. Die Offenlegungen und Dokumentation der Verwendung von KI-Systeme ist hier zentral.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13403,
+      "char_end": 13407,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13407,
+      "char_end": 13932,
+      "text": "**„Halluzinationen“**: KI-Systeme können Elemente ihrer Trainingsdaten so zu neuen Inhalten zusammenfügen, dass der Output falsch oder sogar unsinnig ist. Bei „Halluzinationen“ handelt es sich also um eine spezielle Art der Falschinformation, welche vom KI-System selbst generiert werden und keine Grundlage in den zugrundeliegenden Daten oder der Realität haben. Nutzende dürfen Ergebnisse daher nicht ungeprüft übernehmen und sollten grundsätzlich eine kritische Einstellung gegenüber KI-generierten Erzeugnissen einnehmen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13932,
+      "char_end": 13936,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13936,
+      "char_end": 14469,
+      "text": "**Plagiate**: KI-generierte Inhalte können Plagiate enthalten, die direkt aus den Trainingsdaten stammen. Verwenden Nutzende diese Inhalte ungeprüft weiter, verbreiten sie Plagiate. Verwenden Nutzende KI-generierte Inhalte und geben dieses als ihr eigenes geistiges Eigentum aus, plagieren sie, wenn die generierten Inhalte das geistige Eigentum anderer enthalten. Die Nutzenden tragen die Verantwortung für die genutzten Inhalte. Sie sind bei Weiterverarbeitung der generierten Inhalte die Autor:innen, nicht das verwendete KI-Tool.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14469,
+      "char_end": 14518,
+      "text": "\n\n### Handlungsempfehlung zur Risikominderung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14518,
+      "char_end": 14808,
+      "text": "Autorenschaft kann nur durch natürliche Personen übernommen werden. Diese sind es, die in ihrer Rolle der Autor:innen Verantwortung für Inhalte übernehmen und deren Qualität und Richtigkeit sicherzustellen. Inhalte sind deshalb stets gründlich auf Konsistenz, Fehler und Plagiate zu prüfen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14808,
+      "char_end": 14812,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14812,
+      "char_end": 15317,
+      "text": "Die Anwendung von KI-Systemen ist offenzulegen sowie nachvollziehbar und transparent zu dokumentieren. Nutzende sollten also stets darüber informieren, wenn KI genutzt wurde (z.B. per Disclaimer, Fußnote, Hinweis, Zitation o.ä.). Diese Aufgabe zur Wahrung wissenschaftlicher Integrität ist ein Leitprinzip der guten wissenschaftlichen Praxis. In wissenschaftlichen Arbeiten müssen KI-Systeme im Detail zitiert werden, um z.B. Analysen von Daten nachvollziehbar und, soweit möglich, replizierbar zu machen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15317,
+      "char_end": 15321,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15321,
+      "char_end": 15730,
+      "text": "Open Science als leitendes Paradigma der wissenschaftlichen Arbeit in Helmholtz ist auch bei der Anwendung von KI-Systemen sicherzustellen. Über die Dokumentation hinaus sind Daten, Modelle und weiterführende Materialien nach dem Motto „as open as possible, as closed as necessary“ entsprechend der Helmholtz Open Science Policy offen und dokumentiert auf vertrauenswürdigen Repositorien zugänglich zu machen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15732,
+      "char_end": 15791,
+      "text": "## 4.4 Risiko: Verzerrung / Vorurteile durch Trainingsdaten",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15793,
+      "char_end": 16502,
+      "text": "Verzerrungen oder Vorurteile („Bias“), die in den Daten vorhanden sind, die zum Training eines KI-Systems verwendet wurden, können in den damit generierten Inhalten fortbestehen und sogar verstärkt werden. Dabei kann es sich um Vorurteile gegenüber ethnischen Gruppen, Religionsgemeinschaften usw. handeln, aber auch um Verzerrungen, die beeinflussen, welche Daten, Metadaten oder Quellen wie häufig und in welchem Umfang von KI-Systemen im Output verwendet werden. Durch die ungeprüfte Verwendung von KI-generierten Inhalten können Nutzende daher selbst diskriminierend agieren. Dies kann wiederum dazu führen, dass solche Verzerrungen und Vorurteile weiter verbreitet und somit langfristig verstärkt werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16502,
+      "char_end": 16551,
+      "text": "\n\n### Handlungsempfehlung zur Risikominderung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16551,
+      "char_end": 16826,
+      "text": "Bei der Verwendung von KI-generierten Inhalten sind Nutzende angehalten, diese sorgfältig auf Verzerrungen/ Vorurteile zu überprüfen. Dies gilt vor allem dann, wenn die KI-generierten Ergebnisse für Entscheidungen genutzt werden, die erhebliche Auswirkungen auf Dritte haben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16828,
+      "char_end": 16882,
+      "text": "## 4.5 Risiko: Verstoß gegen KI-bezogene Regulierungen",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16884,
+      "char_end": 17246,
+      "text": "KI wird vermehrt zu einer Massenware. Selbst mäßige Programmierkenntnisse reichen mittlerweile aus, um KI-Dienste einzurichten und bereitzustellen, und es ist zu erwarten, dass dies in Zukunft noch einfacher wird. Daher wächst das Risiko, unwissentlich Dienste zu verwenden und/oder zu entwickeln, die gesetzliche Regularien nicht oder nur unzulänglich umsetzen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17246,
+      "char_end": 17295,
+      "text": "\n\n### Handlungsempfehlung zur Risikominderung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17295,
+      "char_end": 17831,
+      "text": "Der „EU AI Act“ ist das erste umfassende Gesetz, das einen Rechtsrahmen für den Einsatz von KI-Dienste schafft. Der EU AI Act verfolgt einen risikobasierten Ansatz zur Regulierung von KI-Systemen und enthält, entsprechend der Einstufung eines KI-Systems, strenge Pflichten für Anbieter, Betreiber und Entwickler von KI-Systemen. Verstöße gegen diese Verpflichtungen können mit hohen Bußgeldern geahndet werden. Daher sollten Entwickler, Betreiber und Anbieter sich rechtlichen Rat einholen, bevor sie KI-Dienste anbieten oder betreiben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17831,
+      "char_end": 17834,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17834,
+      "char_end": 17965,
+      "text": "Nutzende sollten bei der Wahl von KI-Diensten darauf achten, dass diese die gesetzlichen Regularien vollumfänglich berücksichtigen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17965,
+      "char_end": 18036,
+      "text": "\n\n# 5. Good Practices bei der Nutzung & Entwicklung von KI-Systemen\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18036,
+      "char_end": 18458,
+      "text": "**Überprüfen von Inhalten**: Alle KI-generierten Inhalte sollten sorgfältig von Nutzenden überprüft werden, um die oben aufgeführten Risiken zu minimieren. Nutzende sind für die von ihnen verwendeten/ verbreiteten Inhalte selbst verantwortlich und können bei gesetzlichen Verstößen ggf. haftbar gemacht werden. Dies gilt insbesondere dann, wenn die KI-generierten Ergebnisse der Entscheidungsfindung oder Bewertung dienen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18458,
+      "char_end": 18462,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18462,
+      "char_end": 19201,
+      "text": "**Transparenz und Nachvollziehbarkeit**: Nutzende sollten stets transparent machen und offen dokumentieren, wann und in welchem Umfang KI genutzt wurde (z.B. per Disclaimer, Fußnote, Hinweis, Zitation o.ä.). Entwickler:innen von KI-Systemen sollten die grundlegende Funktionsweise sowie die fürs Training verwendeten Daten für Nutzende und Expert:innen ausreichend nachvollziehbar machen. Modelle und Daten sind im Sinne von Open Science auf vertrauenswürdigen Infrastrukturen, entsprechend dem Motto „as open as possible as closed as necessary“ im Sinne der Helmholtz Open Science Policy zugänglich zu machen. Zudem sollten Nutzende stets darüber Informiert werden, wenn sie nicht mit einem Menschen, sondern einem KI-System interagieren.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19201,
+      "char_end": 19205,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19205,
+      "char_end": 19515,
+      "text": "**Verantwortungsvolle (Nicht-)Nutzung**: KI-Dienste sollten nicht verwendet werden, wenn die Gefahr besteht, dass sensible Daten (z.B. personenbezogene Daten, vertrauliche Geschäftsdaten, Geschäftsgeheimnisse, unveröffentlichte Forschungsergebnisse/-daten, Forschungsanträge usw.) weitergegeben werden könnten.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19515,
+      "char_end": 19519,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19519,
+      "char_end": 19773,
+      "text": "**Verwendung bestimmter Dienste**: Nutzende sollten nach Möglichkeit KI-Dienste verwenden, die transparent über ihre Datenquellen informieren. Aus datenschutzrechtlichen Gründen sollten Nutzende zudem KI-Systeme bevorzugen, die in Europa gehostet werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19773,
+      "char_end": 20319,
+      "text": "\n\n# Impressum\n\nHermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.\nGeschäftsstelle Berlin\nAnna-Louisa-Karsch-Straße 2, 10178 Berlin\nwww.helmholtz.de\n\n# FOOTNOTES\n\nSiehe z.B. „Science in the age of AI“ der Royal Society.\n\nNähere Informationen zur DSGVO finden Sie hier.\n\nNähere Informationen zum Gesetz zum Schutz von Geschäftsgeheimnis finden Sie hier.\n\nVgl. auch Stellungnahme der Deutschen Forschungsgemeinschaft (DFG)\n\nNähere Informationen zum Urheberrecht finden Sie hier.\n\nSiehe Helmholtz Open Science Policy\n\nSiehe EU AI Act",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

@@ -1,0 +1,1397 @@
+{
+  "doc_id": "zalf",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Noch vor wenigen Jahren schien der breite Einsatz von künstlicher Intelligenz (KI) im Berufsleben in weiter Ferne zu liegen. Inzwischen hat sich die Technologie rasant entwickelt. Private und berufliche Anwendungen verschmelzen immer mehr. Viele Unternehmen und Organisationen, darunter auch Forschungseinrichtungen wie das ZALF, sehen die Vorteile von KI. Diese Technologie kann uns beispielsweise helfen, effizienter zu arbeiten, Kosten zu senken, Daten besser zu verwalten und unsere Kommunikation zu verbessern.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Allerdings bergen die Nutzung und Entwicklung von KI auch nicht unerhebliche Risiken. Daher ist es wichtig, dass wir – wie in anderen Bereichen unserer Arbeit auch – bestehende Gesetze wie Urheberrecht, Datenschutz und den Schutz von Geschäftsgeheimnissen einhalten. Darüber hinaus müssen wir sicherstellen, dass der Einsatz von KI in der Forschung den Standards guter wissenschaftlicher Praxis entspricht.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "- Bereitstellung von Orientierungshilfen und Ratschlägen für den Umgang mit KI\n- Schaffung eines Rahmens für die Nutzung von KI durch die Mitarbeitenden\n- Hervorhebung der Vorteile und Anleitung zur optimalen Nutzung von KI-Anwendungen\n- Vermeidung von Risiken im Umgang\n- Erstorientierung zu geeigneten Anwendungen",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Künstliche Intelligenzen, darauf basierende Anwendungen und Dienste sowie die rechtlichen Rahmenbedingungen dieser neuen Technologie unterliegen einem stetigen Wandel. Sowohl auf EU-Ebene als auch in Deutschland ist abzusehen, dass Regelungen zur KI-Nutzung weiterentwickelt werden. Daher ist diese Handreichung als »work in progress« zu verstehen – die jeweils aktuelle Version finden Sie im Intranet.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Für Rückmeldungen und Anregungen sind wir dankbar. Bitte wenden Sie sich an: KI@zalf.de.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zu den rechtlichen Risiken gehören insbesondere:",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**das Urheberrecht:**\n- Das Hochladen und/oder Verarbeiten von Texten oder anderen Inhalten kann kritisch sein, wenn Unklarheit über die hierfür notwendigen Urheberrechte besteht. Viele wissenschaftliche Verlage untersagen derzeit die Weiterverarbeitung ihrer Publikationen mit KI, wenn diese nicht unter einer bestimmten Lizenz (Creative Commons) veröffentlicht sind (siehe auch: Regel 1: Vereinbarungen kennen und beachten).\n- Nicht nur das Hochladen kann eine Urheberrechtsverletzung darstellen. Auch Informationen, die generative KI bereitstellt, können urheberrechtlich geschützt sein.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**der Datenschutz:**\n- Personenbezogene Daten dürfen nur mit ausdrücklicher Einwilligung der Betroffenen verarbeitet werden, dies gilt auch für generative KI.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "**die Datensicherheit:**\n- Geschäftsgeheimnisse und andere vertrauliche Informationen und Daten dürfen von generativer KI nicht verarbeitet werden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zu den ethischen Risiken, die mit der Nutzung generativer KI einhergehen, gehören Aspekte wie:\n- das Nahelegen von unethischen Entscheidungen, z.B. Diskriminierungen bei der Auswahl von Bewerberinnen & Bewerbern oder bei anderen Auswahlentscheidungen;\n- die Reproduktion von (diskriminierenden) Stereotypen;\n- die Verwendung von Quellen ohne Kennzeichnung;\n- das Erfinden von Informationen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Diese Risiken sollen nicht davon abschrecken, generative KI zu nutzen. Vielmehr sollen die im Rahmen dieses Leitfadens getroffenen Regelungen dazu beitragen, einen Handlungsrahmen und eine Nutzungskultur zu schaffen, die einen rechtssicheren und verantwortungsvollen Umgang ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "WAS IST KI?\n\nDas Europäische Parlament hat sich auf folgende Begriffsdefinition geeinigt:\n»Künstliche Intelligenz ist die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.«",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Die Anwendungsbereiche von KI sind sehr vielfältig und reichen vom autonomen Fahren bis zur automatischen Vervollständigung von Text in Ihrem Mobiltelefon. Um das Thema auf den für die Mitarbeitenden relevanten Bereich einzugrenzen, konzentrieren wir uns in dieser Handreichung auf den Bereich der »Generativen KI«. Diesen definieren wir wie folgt…",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "… »als KI-basierte Software, die in der Lage ist, Texte, Bilder, Videos oder andere Daten mithilfe generativer Modelle zu erzeugen, häufig als Reaktion auf Eingabeaufforderungen.«",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "WAS SIND TYPISCHE ANWENDUNGSBEREICHE VON GENERATIVER KI?\n\n- Übersetzungen: KI übersetzt einzelne Passagen oder ganze Dokumente (z.B. Deepl Translator, Google Translator)\n- Literaturrecherche: KI durchsucht Literatur (z.B. Perplexity, Scite)\n- Internet-Suche: KI kann ein virtueller Assistent sein, der Informationen aus dem Internet sammelt (z.B. Microsoft Copilot in Bing)\n- Textverständnis: KI erfasst Kontext und Bedeutung von Texten (z.B. Explainpaper, SciSpace)\n- Textproduktion: KI kann Texte in verschiedenen Sprachen und Tonlagen selbstständig verfassen bzw. umformulieren (z.B. Copy.ai, Jasper, Neuroflash)\n- Textbearbeitung: KI kann Texte bearbeiten, korrigieren und optimieren (z.B. Deepl Write, Grammarly, Language Tool)\n- Programmierung/Codierung: AI kann die Programmierung/Codierung in R, Python usw. unterstützen (z.B. github copilot, GPT4)\n- Sprachgenerierung: KI kann geschriebenen Text in realitätsnahe Tonaufnahmen umwandeln und sogar die eigene Stimme klonen, etwa für die Vertonung von Präsentationen, Anleitungen, Durchsagen uvm. (z.B. Elevenlabs, Hhygen)\n- Feedback-Tools: KI kann Feedback von Benutzerinnen und Benutzern sammeln und analysieren (z.B. Brand24, Peer)\n- Bild- und Videogenerierung: KI kann Bilder, Grafiken und visuelle Inhalte erstellen (z.B. Midjourney, Dall-E, Adobe Firefly, Leonardo.ai, OpenAI’s Sora)\n- Chatbots: KI kann menschenähnliche Konversationen führen und im Service-Bereich oder für Informationsdienste eingesetzt werden (z.B. ChatGPT, Google Gemini)\n- Text- und Data-Mining (TDM): TDM ermöglicht die automatisierte Analyse großer Text- und Datensätze, um Muster oder Zusammenhänge zu erkennen. Dies ist besonders nützlich für wissenschaftliche Forschung, um umfangreiche Literatur oder Daten effizient auszuwerten. Laut §60d UrhG ist TDM für wissenschaftliche Zwecke unter bestimmten Bedingungen erlaubt, ohne dass zusätzliche Genehmigungen erforderlich sind.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Die Grundsätze, die diesen Leitlinien zugrunde liegen, wurden unter Berücksichtigung wichtiger Rahmenwerke und Stellungnahmen zum Thema entwickelt, dazu gehören:\n- Die Living guidelines on the responsible use of generative AI in Research\n- der Europäische Verhaltenskodex für wissenschaftliche Integrität\n- die Leitlinien für vertrauenswürdige KI, die von einer hochrangigen Expertengruppe für KI entwickelt wurden\n- sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Die wichtigsten Prinzipien für den verantwortungsvollen Einsatz von generativer KI lassen sich auf Grundlage dieser Veröffentlichungen wie folgt zusammenfassen:\n\n- **Zuverlässigkeit** bei der Qualitätssicherung, die sich in der Konzeption, Methodik, Analyse und Verwendung der eingesetzten Ressourcen und Werkzeuge widerspiegelt: Das betrifft insbesondere die Überprüfbarkeit und Reproduzierbarkeit von mithilfe generativer KI produzierter Informationen. Dazu gehört auch das Bewusstsein für mögliche Diskriminierungsprobleme in Bezug auf Voreingenommenheit und Ungenauigkeiten.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "- **Ehrlichkeit** bei der Entwicklung, Durchführung, Überprüfung, Berichterstattung und Kommunikation von Inhalten auf transparente, faire, gründliche und unvoreingenommene Weise: Dieser Grundsatz schließt die Verpflichtung ein, offenzulegen, dass generative KI eingesetzt wurde.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "- **Respekt** gegenüber Kolleginnen und Kollegen, Forschungsteilnehmenden, Forschungssubjekten, der Gesellschaft, den Ökosystemen, dem kulturellen Erbe und der Umwelt: Der verantwortungsvolle Einsatz von generativer KI sollte die Grenzen der Technologie, ihre Auswirkungen auf Umwelt und Gesellschaft (Voreingenommenheit, Vielfalt, Nichtdiskriminierung, Fairness und Schadensverhütung) berücksichtigen, einschließlich der ordnungsgemäßen Verwaltung von Informationen, der Achtung der Privatsphäre, der Vertraulichkeit und der Rechte an geistigem Eigentum sowie des ordnungsgemäßen Zitierens.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "- **Verantwortungsübernahme** von der Idee bis zur Veröffentlichung, für das Management und die Organisation von KI-gestützten Daten und Informationen, für Schulungen, Betreuung und Anleitung zum Thema sowie zu den weiterreichenden gesellschaftlichen Auswirkungen beim Einsatz von generativer KI, einschließlich der Verantwortung für alle Ergebnisse, die Nutzende produzieren und veröffentlichen. Das Training von KI-Systemen am ZALF muss dokumentiert werden. Dies umfasst die Beschreibung der Trainingsdaten und der Methoden, um die Nachvollziehbarkeit zu gewährleisten.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "SELBSTVERSTÄNDNIS DES ZALF ZUM UMGANG MIT GENERATIVER KI\n\nDamit generative KI am ZALF verantwortungsvoll nach den oben genannten Prinzipien eingesetzt werden kann, möchten wir folgende Maßnahmen unterstützen und umsetzen:\n\n1. Förderung, Anleitung und Unterstützung des verantwortungsvollen Einsatzes generativer KI in Forschung und Verwaltung\n Wir sensibilisieren unsere Mitarbeitenden in dieser Handreichung sowie in Schulungen zum Einsatz generativer KI, insbesondere zur Überprüfung der Ergebnisse, zur Wahrung der Privatsphäre, zum Umgang mit Vorurteilen und zum Schutz der Rechte an geistigem Eigentum.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "2. Wir beobachten aktiv die Entwicklung und den Einsatz generativer KI-Systeme in unserer Organisation\n Wir entwickeln die Rahmenbedingungen für den Einsatz von generativer KI am ZALF stetig weiter, um die Nutzung effizient zu unterstützen. Wir analysieren die Möglichkeiten und Grenzen der eingesetzten Technologien und Werkzeuge, sind offen für Rückmeldungen aus der Belegschaft und geben unseren Mitarbeitenden regelmäßig Feedback und Empfehlungen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "3. Wir streben an, diese KI-Richtlinie in unsere allgemeinen Forschungsrichtlinien für gute Forschungspraktik und -ethik zu integrieren.\n Auf der Grundlage dieser Leitlinien konsultieren wir neben unserem Verwaltungspersonal explizit auch unsere Mitarbeitenden in der Forschung und sensibilisieren sie offen und transparent für den Einsatz von generativer KI und die damit verbundenen Chancen und Risiken.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "4. Wir streben an, zukünftig verstärkt lokal gehostete generative KI-Tools zu unterstützen.\n Diese sollen es unseren Mitarbeitenden ermöglichen, ihre (wissenschaftlichen) Daten in Tools einzuspeisen, die einen besseren Datenschutz und eine höhere Vertraulichkeit gewährleisten.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "1 Vereinbarungen kennen und beachten\nDas ZALF nutzt Anwendungen und Dienste auf Basis von künstlicher Intelligenz im administrativen und im wissenschaftlichen Bereich. Generative KI wird dabei für Recherchezwecke, zur Verbesserung der internen Kommunikation, zur Inspiration, zur Übersetzung und für weitere Anwendungsfelder eingesetzt.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Mitarbeitende halten bei allen Tätigkeiten die geltenden Gesetze und arbeitsrechtlichen Verpflichtungen ein. Hierzu finden regelmäßig allgemeine Schulungen statt. Die dabei behandelten Themenfelder gelten auch für den Einsatz von generativer KI und werden in den folgenden Regeln noch weiter ausgeführt. Die wichtigsten rechtlichen Bestimmungen betreffen die Themen:\n- Datenschutz\n- Urheberrecht\n- Geheimhaltung\n- Sanktionsrecht\n- Markenrecht\n- Strafrecht\n- Gute Wissenschaftliche Praxis",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Besondere Sorgfalt ist bei dem Hochladen von wissenschaftlichen Veröffentlichungen in generative KI-Tools geboten. Nach den aktuell geschlossenen Verträgen mit den drei Hauptverlagen des ZALF, Wiley, Elsevier und Springer, schließen diese die Verarbeitung von dort erschienenen wissenschaftlichen Veröffentlichungen durch KI-Tools aus (kein Upload, keine Bearbeitung, keine Analyse). Eine Ausnahme bilden Publikationen, die unter einer Creative Commons Lizenz veröffentlicht sind. Bitte prüfen Sie daher stets sorgfältig, unter welchen Lizenzen und Urheberrechtsvereinbarungen ein Paper veröffentlicht wurde, das Sie mit generativer KI verarbeiten wollen, und halten Sie sich unbedingt an diese Lizenzen (zu den Nachweispflichten siehe 9).",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Für wissenschaftliche Zwecke ist die Nutzung von Text- und Datamining (TDM) durch gesetzliche Regelungen wie §60d UrhG erlaubt, sofern die genutzten Werke rechtmäßig zugänglich sind. Dies bedeutet, dass für wissenschaftliche TDM-Aktivitäten keine zusätzlichen vertraglichen Genehmigungen erforderlich sind.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2 KI-Programme vor der Verwendung sorgfältig prüfen\nViele KI-Tools bergen Risiken, da für Laien oft nicht klar ist, was mit den eingegebenen Daten passiert und ob sie gemäß den geltenden Gesetzen, wie der Datenschutzgrundverordnung (DSGVO), behandelt werden. Da Sie verpflichtet sind, diese und weitere Regeln einzuhalten, prüfen Sie die Datenschutzinformationen und -optionen der genutzten Tools sorgfältig. Verwenden Sie vorzugsweise empfohlene KI-Tools.\n\n- Für die Überarbeitung von Texten und Rechtschreibprüfung empfehlen wir DEEPL in der Pro-Variante.\n- Als KI-Allrounder (Texterstellung und -überarbeitung, Programmierung, Kreation, Ideenfindung etc.) empfehlen wir aktuell die Nutzung von ChatGPT in der PRO oder Teams-Variante. Deaktivieren Sie unter Einstellungen/Datenkontrolle die Funktion »Das Modell für alle verbessern«\n- Für die Erstellung von Bildern empfehlen wir Adobe Firefly, das am ZALF Teil der Adobe Creative Suite ist und in diesem Rahmen mitgenutzt werden kann.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Um uns rechtssicher zu verhalten und zu ethischen Problemstellungen im Umgang mit generativer KI zu sensibilisieren, wurden die folgenden 10 Regeln aufgestellt.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "3 Der Mensch hat im Einsatz der KI das letzte Wort\nDer Einsatz und die Freigabe von KI-generierten Inhalten unterliegt stets der gewissenhaften Überwachung und Kontrolle durch Menschen. Die Beschäftigten verpflichten sich, Inhalte, die mithilfe von generativer KI erstellt wurden, stets von mindestens einer qualifizierten Person auf Richtigkeit, Faktentreue und Kontext zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "4 Keine personenbezogenen Daten verarbeiten\nDie Eingabe personenbezogener Daten in KI-Umgebungen ist nur dann zulässig, wenn die schriftliche Einwilligung im Sinne einer Datenverarbeitungserklärung der betroffenen Personen vorliegt.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "TIPPS FÜR DIE PRAXIS\nSo gut KI-basierte Systeme auch sein mögen, sie sind weder fehlerfrei noch sind sie Alleskönner. Im Gegensatz zur menschlichen Intelligenz, die von einer Vielzahl von Faktoren wie Erfahrung, sozialen Beziehungen, kulturellen Einflüssen und komplexen Emotionen geprägt ist, basieren die Fähigkeiten der KI lediglich auf den ihr zur Verfügung stehenden Daten, Informationen und Algorithmen. Meist wird nur das wahrscheinlichste Ergebnis von der KI wiedergegeben, das auch falsch sein kann. Das bedeutet, dass menschliche Fähigkeiten wie Wahrnehmung, Intuition und emotionale Intelligenz unersetzlich bleiben. Die Einzigartigkeit und Verantwortung des Menschen liegen in seiner Fähigkeit, menschliche Aspekte in die tägliche Arbeit einzubringen, Beziehungen zu berücksichtigen und in Zusammenhängen zu denken und zu handeln.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "TIPPS FÜR DIE PRAXIS\n- Beachten Sie, dass Sie bei vielen (insbesondere kostenlos frei verfügbaren) KI-Tools implizit der Weiterverarbeitung der eingegebenen Daten durch das anbietende Unternehmen zustimmen.\n- Eine gute Lösung ist die Anonymisierung von Daten, so dass keine Rückschlüsse auf personenbezogene Daten möglich sind (durch Entfernung von Namen und anderen Identifikatoren). Wenn eine vollständige Anonymisierung nicht möglich ist, sollten die Daten pseudonymisiert werden, um die Datensicherheitsstandards zu erfüllen (z.B. Ersetzen der tatsächlichen Daten durch zufällige Namen).\n- Auf die Verarbeitung personenbezogener Daten durch KI-Systeme ist in einer entsprechenden Datenschutzerklärung hinzuweisen.\n- Werden Daten außerhalb der EU gehostet, müssen die Vorschriften des Internationalen Datenverkehrs beachtet werden.\n- Bei der Verwendung von generativen KI wie ChatGPT sollte darauf geachtet werden, dass die Eingaben nicht für Trainingsinhalte genutzt werden (siehe Regel 2).",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Wann immer möglich, sollte die Nutzung lokal gehosteter generativer KI-Tools bevorzugt werden, um den Datenschutz und die Vertraulichkeit der verarbeiteten Daten zu gewährleisten. Das ZALF arbeitet daran, lokal gehostete Tools zu unterstützen, die den wissenschaftlichen Anforderungen entsprechen und eine höhere Sicherheit bieten als cloudbasierte Lösungen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "TIPPS FÜR DIE PRAXIS\nPrüfen Sie…\n- Darf ich die einzugebenden Daten rechtlich verwenden (Datenschutzrecht, Urheberrecht, Strafrecht, Sanktionsrecht, Personendaten etc.)?\n- Benötige ich für meine Arbeit zwingend ein KI-Tool?\n- Habe ich alle Genehmigungen für die Verwendung der Trainingsdaten?\n- Kann ich auch mit einem Tool arbeiten, das meine Eingaben nicht als Trainingsdaten verwendet?\n- Verwenden Sie keine Texteingaben, die auf urheberrechtlich geschützten Werken basieren, wie z.B. bekannte Buch- oder Filmtitel, Songtexte oder berühmte Gemälde.\n- Achten Sie darauf, keine Medien zu erstellen, die bestehenden urheberrechtlich geschützten Werken zu ähnlich sind.\n- Laden Sie Personenabbildungen nur dann in KI-Tools hoch, wenn Sie vorher das Einverständnis der Abgebildeten eingeholt haben.\n- Vergewissern Sie sich bei der Erstellung von Bildern, Videos und anderen Medien, dass Sie über die notwendigen Rechte verfügen, um diese zu verwenden. Wägen Sie sorgfältig ab, ob Urheberrecht verletzt werden könnten.\n- Verwenden Sie keine Texte, die bekannte Markennamen, Logos oder Markenzeichen enthalten bzw. achten Sie darauf, keine Medien zu erstellen, die Markenzeichen oder Logos enthalten, die mit existierenden Marken verwechselt werden könnten.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "6 Rechtliche Rahmenbedingungen einhalten\nZALF-Angehörige halten sich an geltendes Recht und berücksichtigen bei der Nutzung von generativen KI-Anwendungen sowie bei allen Veröffentlichungen von KI-generierten Inhalten insbesondere Urheber-, Persönlichkeits- und Markenrechte als auch Datenschutzbestimmungen.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Nutzung von KI am ZALF muss im Einklang mit der EU-KI-Verordnung erfolgen. Dabei ist insbesondere auf die Risikokategorisierung zu achten, um sicherzustellen, dass keine KI-Systeme eingesetzt werden, die ein unzulässiges oder hohes Risiko darstellen. Zur Einschätzung des Risikos sowie für weitere Informationen zu den Risikoklassen besuchen Sie im Intranet den Bereich „Künstliche Intelligenz“.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "5 Geheimhaltungsverpflichtung beachten\nVertrauliche Informationen über das ZALF oder über Dritte dürfen nicht in generativen KI-Anwendungen verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "7 Umgang mit der Qualität von KI-generierten Inhalten\nZALF-Angehörige verwenden Daten und Informationen aus generativen KI-Systemen erst, nachdem sie deren Richtigkeit und Zuverlässigkeit überprüft haben. Sie sind für die Integrität der von Ihnen mithilfe von generativer KI erstellten Inhalte verantwortlich. KI-Systeme sind weder Autoren noch Co-Autoren. Autorenschaft impliziert Handlungsfähigkeit und Verantwortung, sie liegt also bei den Nutzenden von KI-Tools.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "TIPPS FÜR DIE PRAXIS\n- Eine besondere Sorgfaltspflicht besteht darin, Plagiate (Text, Code, Bilder usw.), die durch generative KI erzeugt werden, auszuschließen. Schließen Sie aus, dass Daten, Textbausteine oder Bilder, die Sie in die KI-Anwendung eingeben oder die diese ausgibt, urheberrechtlich geschützt sind. Falls die verwendeten Daten, Textbausteine oder Bilder urheberrechtlich geschützt sind, stellen Sie sicher, dass Sie über die erforderlichen Nutzungsrechte oder Lizenzen zur Verwertung verfügen.\n- Respektieren Sie die Autorenschaft anderer und zitieren Sie deren Arbeiten ordnungsgemäß, wo es angebracht ist.\n- Von generativer KI erzeugte Daten dürfen nicht dazu verwendet werden, Originalforschungsdaten zu fälschen, zu verändern oder zu manipulieren.\n- Mitarbeitende berücksichtigen die zufällige Natur der Ergebnisse generativer KI-Werkzeuge, d.h. die Tendenz, aus demselben Input unterschiedliche Ergebnisse zu erzeugen. Die Ausgaben müssen kritisch auf Reproduzierbarkeit und Robustheit der Ergebnisse und Schlussfolgerungen geprüft werden. Die Grenzen der verwendeten generativen KI-Werkzeuge sollten insbesondere im wissenschaftlichen Prozess offengelegt und diskutiert werden, einschließlich möglicher Verzerrungen in den generierten Inhalten, sowie mögliche Minderungsmaßnahmen.\n- Überprüfen und bestätigen Sie die Richtigkeit von Informationen, Daten und Analysen, bevor Sie diese in Ihre Arbeit einfließen lassen.\n- Vergleichen Sie Informationen mit aktuellen und glaubwürdigen Quellen, um ihre Authentizität und Zuverlässigkeit zu überprüfen.\n- Stellen Sie sicher, dass Sie mit KI-Ergebnissen nicht versehentlich Desinformation verbreiten oder irreführende Darstellungen fördern.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "8 Kontrolle von KI-generierten Inhalten im Hinblick auf ethische Grundlagen\nInhalte, die mittels generativer KI erzeugt werden, müssen von den ZALF-Mitarbeitenden stets auf Verzerrungen bzw. ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. KI-Systeme sind nicht in der Lage, Entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. Um keine einseitigen Informationen zu verbreiten oder zu fördern, ist es entscheidend, KI-Systeme mit Daten zu trainieren, die frei von Vorurteilen und Diskriminierung sind. Ein anschauliches Beispiel für das Problem der Voreingenommenheit von KI-Systemen ist die Übersetzung von Texten. In Sprachen, in denen die Geschlechterrollen neutral bezeichnet werden, wie es im Englischen häufig der Fall ist, neigen viele KI-basierte Systeme dazu, die bestehenden Stereotypen in Übersetzungen zu übernehmen. KI-Modelle am ZALF müssen auf qualitativ hochwertigen und nicht diskriminierenden Daten basieren, um Verzerrungen zu vermeiden.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beispiel bei der Nutzung eines KI-gestützten Übersetzungstools:\n\nThe elementary school teacher asked the class a question – Die Grundschullehrerin stellt der Klasse eine Frage\n\nSo nicht: Hier wird die geschlechtsneutrale Bezeichnung in die weibliche Form übersetzt, was ein Stereotyp darstellt.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Auch Analysewerkzeuge und Bildgeneratoren stehen vor ähnlichen Herausforderungen. Ein Beispiel dafür ist die Tendenz einiger KI-Modelle, häufiger Bilder von weißen Männern in angesehenen Positionen (z.B. CEO, Richter oder Arzt) zu erzeugen, während vergleichsweise selten Bilder von Frauen oder Angehörigen von Minderheiten erscheinen. Einige Anbieter sind sich dieses Problems bewusst und arbeiten bereits an Lösungen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "TIPPS FÜR DIE PRAXIS\nPrüfen Sie…\n- Ist der KI-generierte Inhalt frei von Vorurteilen und Diskriminierung? Betrifft mein Beitrag ein gesellschaftlich oder sozial kontroverses Thema, zu dem besonders viele Miss- und Desinformationen kursieren?\n- Wer könnte Interesse an einer Verzerrung haben? Wie kann ich mögliche Verzerrungen richtigstellen?\n- Gibt es interne Richtlinien, an denen ich mich orientieren kann, etwa der Leitfaden für gendergerechte Sprache?\n- Ist der generierte Inhalt ethisch und moralisch vertretbar?\n- Werden durch die Inhalte bestimmte Personen(gruppen) verzerrt dargestellt oder diskriminiert?",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "9 Kennzeichnung KI-generierter Inhalte\nKI-generierte Inhalte sind an geeigneter Stelle zu kennzeichnen. Wenn KI nur zur Inspiration oder Ideenfindung bzw. zur Rechtschreibkorrektur genutzt wurde, sollte pragmatisch abgewogen werden, ob eine Kennzeichnung notwendig ist. Jede/r Mitarbeitende ist angehalten, dies im eigenen Bereich entsprechend den dort geltenden Rahmenbedingungen bestmöglich umzusetzen.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beschreiben Sie, welche generativen KI-Tools (und welche Version) für welche Zwecke verwendet wurden. Gegebenenfalls stellen die Forschenden den Input (Prompts=Eingabefehle) und Output nach den Prinzipien der offenen Wissenschaft (Open Science) zur Verfügung. KI-generierte Inhalte sollten in wissenschaftlichen Publikationen ähnlich wie andere Quellen angegeben werden, also in Form von Zitaten. Dies kann im Text, in einer Fußnote, Endnote oder im Literaturverzeichnis geschehen. Wichtig ist jedoch, dass KI-generierte Inhalte keine klassischen wissenschaftlichen Quellen sind. Es kann auch sinnvoll sein, solche Inhalte in der Einleitung oder im Methodenteil zu erwähnen. In besonderen Fällen könnten ausführlichere Konversationen mit KI-Tools als Anhang dokumentiert werden. Auch bei Inhalten, die nicht zur Veröffentlichung gedacht sind, wie interne Kommunikation zwischen Einreichenden und Verlag (z. B. Abstracts, Exposés), sollte der Einsatz von KI-Tools transparent gemacht werden. Es wird empfohlen, diese Angaben ebenfalls in Form von Zitaten vorzunehmen. Der Einsatz von KI-Tools im Begutachtungsprozess ist jedoch nicht zulässig, da die Vertraulichkeit der Einreichungen nicht garantiert werden kann. Zudem sind die Reviewer für den Inhalt ihrer Gutachten vollständig verantwortlich. Eingriffe in den KI-generierten Text müssen analog zu Eingriffen bei wörtlichen Zitaten kenntlich gemacht werden.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Es ist zudem sicherzustellen, dass Mitarbeitende und externe Personen immer informiert werden, wenn sie mit KI-generierten Inhalten interagieren. Dies gilt insbesondere für Chatbots oder andere automatisierte Systeme.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beispiel für einen Flyer-Text:\nDieser Text wurde mithilfe von ChatGPT 4.0 erstellt und unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft und überarbeitet.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beispiel für eine Kennzeichnung von mithilfe von KI erzeugtem Text auf Basis einer wissenschaftlichen Veröffentlichung in der Abteilung Öffentlichkeitsarbeit:\nDies ist eine mit Hilfe von ChatGPT 4.0 erzeugte Zusammenfassung des Originaltextes: Kim, Y.-U., Webber, H. (2024) Contrasting Responses of Spring and Summer Potato to Climate Change in South Korea, Potato Research. https://doi.org/10.1007/s11540-024-09691-7, veröffentlicht unter der Lizenz CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. Der Text wurde unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft und überarbeitet.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beispiel für eine Kennzeichnung von KI-generiertem Bildmaterial:\nDieses Bild wurde mit Hilfe von Adobe Firefly erstellt und unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Beispiel für eine Fußnotenzitation nach Chicago-Stil:\nAuf die Frage, ob die EU-Gesundheitsstatistik Rückschlüsse über einen möglichen Zusammenhang zwischen Zucker- und Fettaufnahme mit dem Körpergewicht zulässt, antwortet ChatGPT zustimmend und stellt einen substanziellen Zusammenhang fest, der durch zahlreiche Studien belegt sei.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "10 Aus- und Weiterbildungen zu künstlicher Intelligenz\nDie Beschäftigten des ZALF verpflichten sich zur Weiterbildung im Bereich KI und zur verantwortungsbewussten Anwendung der erworbenen Kenntnisse im beruflichen Alltag. Wir entwickeln derzeit eine Schulung, die Sie bei der sicheren und ethischen Nutzung von KI unterstützt.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Schulungen helfen uns dabei…\n- das Bewusstsein für die Chancen und Risiken des Einsatzes von KI zu schärfen.\n- das Risiko eines fahrlässigen und unbedachten Einsatzes zu verringern.\n- Überforderung der Anwenderinnen und Anwender zu vermeiden und sie zu motivieren.\n- Innovationen am ZALF zu fördern.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Wir schulen unsere Mitarbeitenden in Bezug auf:\n- das Verständnis für KI und ihre Anwendungsbereiche\n- die Auswahl und Anwendung geeigneter Werkzeuge\n- Feedbackschleifen für Bedarfsanalysen und Anwendungsfälle\n- die technischen Grenzen von KI\n- ethische Aspekte: Vorurteile und Auswirkungen auf Dritte\n- rechtliche Aspekte: Datenschutz, Haftung und Urheberrecht\n- Sicherheitsaspekte",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Darf ich meine Arbeits-E-Mail-Adresse verwenden, um mich bei KI-Tools anzumelden?\nDas ist gestattet, solange Sie die oben genannten Regeln einhalten. Prüfen Sie genau, welche Daten das KI-Tool sammelt und wo diese Daten gespeichert werden. Im Idealfall nutzen Sie Tools, die auf ZALF-eigenen Servern gehostet werden oder bei denen Ihre Eingaben nicht für Trainingszwecke genutzt bzw. vom Tool gespeichert werden.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Darf ich ein wissenschaftliches Paper von Chat GPT zusammenfassen lassen?\nDas ist zulässig, wenn das Papier unter einer Creative Commons Lizenz frei öffentlich zugänglich ist und diese Verarbeitung zulässt. Generell sollten Sie nur Daten in KI-Systeme einpflegen, die frei verfügbar sind, wenn Sie mit offenen KI-Systemen arbeiten.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Darf ich ein Bild, das von Chat GPT oder einem anderen Bildgenerator erstellt wurde, in einer wissenschaftlichen Veröffentlichung verwenden?\nDas ist kritisch. Viele Fachzeitschriften, wie Nature, schließen künstlich erstellte Bilder aus. Informieren Sie sich genau über die Bestimmungen im entsprechenden Journal. Wichtig: Machen Sie die Nutzung von Künstlicher Intelligenz immer transparent und kennzeichnen Sie erstellte Inhalte und Medien.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Darf ich mir von Chat GPT Textpassagen für meine wissenschaftliche Veröffentlichung schreiben lassen?\nNein! Alle redaktionellen Inhalte von wissenschaftlichen Veröffentlichungen müssen durch den oder die Autor/in selbst erstellt werden. Erlaubt sind lediglich KI-gestützte Rechtschreib- oder Formulierungshilfen, die keinen Einfluss auf den Inhalt haben.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Kann ich ChatGPT oder andere Chatbots als Co-Autor in eine wissenschaftliche Veröffentlichung aufnehmen?\nNein. Es wird vielmehr empfohlen, die Verwendung anzugeben (welches Tool, Version, Zweck).",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Handreichung hat ein internes Gremium aus ITS, Forschungsdatenmanagement, Arbeitsgruppenleitung mit KI-Bezug, Forschungskoordinator, PR, Legal & Compliance Officer, Datenschutzbeauftragter und administrativer Direktor erarbeitet. Diese stand daraufhin der Belegschaft ZALF-weit vier Wochen zur Kommentierung offen. Anregungen wurden eingearbeitet. Die Handreichung wurde im Anschluss vom Vorstand beschlossen. Die Handreichung wird stetig weiterentwickelt und angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "welche risiken können sich aus der nutzung von generativer ki ergeben?",
+      "repaired": true
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "ki-programme vor der verwendung sorgfältig prüfen viele ki-tools bergen risiken, da für laien oft nicht klar ist, was mit den eingegebenen daten passiert und ob sie gemäß den geltenden gesetzen, wie der datenschutzgrundverordnung (dsgvo), behandelt werden. da sie verpflichtet sind, diese und weitere regeln einzuhalten, prüfen sie die datenschutzinformationen und -optionen der genutzten tools sorgfältig.",
+      "repaired": true
+    },
+    {
+      "id": 64,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "verwenden sie vorzugsweise empfohlene ki-tools. für die überarbeitung von texten und rechtschreibprüfung empfehlen wir deepl in der pro-variante. als ki-allrounder (texterstellung und -überarbeitung, programmierung, kreation, ideenfindung etc.) empfehlen wir aktuell die nutzung von chatgpt in der pro oder teams-variante.",
+      "repaired": true
+    },
+    {
+      "id": 65,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "deaktivieren sie unter einstellungen/datenkontrolle die funktion »das modell für alle verbessern«",
+      "repaired": true
+    },
+    {
+      "id": 66,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "für die erstellung von bildern empfehlen wir adobe firefly, das am zalf teil der adobe creative suite ist und in diesem rahmen mitgenutzt werden kann.",
+      "repaired": true
+    },
+    {
+      "id": 67,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "der mensch hat im einsatz der ki das letzte wort der einsatz und die freigabe von ki-generierten inhalten unterliegt stets der gewissenhaften überwachung und kontrolle durch menschen.",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "die beschäftigten verpflichten sich, inhalte, die mithilfe von generativer ki erstellt wurden, stets von mindestens einer qualifizierten person auf richtigkeit, faktentreue und kontext zu überprüfen.",
+      "repaired": true
+    },
+    {
+      "id": 69,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "keine personenbezogenen daten verarbeiten die eingabe personenbezogener daten in ki-umgebungen ist nur dann zulässig, wenn die schriftliche einwilligung im sinne einer datenverarbeitungserklärung der betroffenen personen vorliegt.",
+      "repaired": true
+    },
+    {
+      "id": 70,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "zalf-angehörige halten sich an geltendes recht und berücksichtigen bei der nutzung von generativen ki-anwendungen sowie bei allen veröffentlichungen von ki-generierten inhalten insbesondere urheber-, persönlichkeitsund markenrechte als auch datenschutzbestimmungen.",
+      "repaired": true
+    },
+    {
+      "id": 71,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "geheimhaltungsverpflichtung beachten vertrauliche informationen über das zalf oder über dritte dürfen nicht in generativen ki-anwendungen verwendet werden.",
+      "repaired": true
+    },
+    {
+      "id": 72,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "umgang mit der qualität von ki-generierten inhalten zalf-angehörige verwenden daten und informationen aus generativen ki-systemen erst, nachdem sie deren richtigkeit und zuverlässigkeit überprüft haben. sie sind für die integrität der von ihnen mithilfe von generativer ki erstellten inhalte verantwortlich.",
+      "repaired": true
+    },
+    {
+      "id": 73,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "ki-systeme sind weder autoren noch co-autoren. autorenschaft impliziert handlungsfähigkeit und verantwortung, sie liegt also bei den nutzenden von ki-tools.",
+      "repaired": true
+    },
+    {
+      "id": 74,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "kontrolle von ki-generierten inhalten im hinblick auf ethische grundlagen inhalte, die mittels generativer ki erzeugt werden, müssen von den zalf-mitarbeitenden stets auf verzerrungen bzw. ethisch bedenkliche inhalte überprüft und gegebenenfalls korrigiert werden.",
+      "repaired": true
+    },
+    {
+      "id": 75,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "ki-systeme sind nicht in der lage, entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. um keine einseitigen informationen zu verbreiten oder zu fördern, ist es entscheidend, ki-systeme mit daten zu trainieren, die frei von vorurteilen und diskriminierung sind.",
+      "repaired": true
+    },
+    {
+      "id": 76,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "ein anschauliches beispiel für das problem der voreingenommenheit von ki-systemen ist die übersetzung von texten. in sprachen, in denen die geschlechterrollen neutral bezeichnet werden, wie es im englischen häufig der fall ist, neigen viele ki-basierte systeme dazu, die bestehenden stereotypen in übersetzungen zu übernehmen.",
+      "repaired": true
+    },
+    {
+      "id": 77,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "ki-modelle am zalf müssen auf qualitativ hochwertigen und nicht diskriminierenden daten basieren, um verzerrungen zu vermeiden.",
+      "repaired": true
+    },
+    {
+      "id": 78,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "die beschäftigten des zalf verpflichten sich zur weiterbildung im bereich ki und zur verantwortungsbewussten anwendung der erworbenen kenntnisse im beruflichen alltag.",
+      "repaired": true
+    },
+    {
+      "id": 79,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "wir entwickeln derzeit eine schulung, die sie bei der sicheren und ethischen nutzung von ki unterstützt.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 79,
+    "matched": 59,
+    "unmatched_count": 20,
+    "unmatched": [
+      {
+        "id": 29,
+        "B": "B7",
+        "matched_words": "1/131",
+        "text": "2 KI-Programme vor der Verwendung sorgfältig prüfen\nViele KI-Tools bergen Risiken, da für Laien oft nicht klar ist, was mit den eingegebenen Daten passiert und ob sie gemäß den geltenden Gesetzen, wie der Datenschutzgrundverordnung (DSGVO), behandelt werden. Da Sie verpflichtet sind, diese und weitere Regeln einzuhalten, prüfen Sie die Datenschutzinformationen und -optionen der genutzten Tools sorgfältig. Verwenden Sie vorzugsweise empfohlene KI-Tools.\n\n- Für die Überarbeitung von Texten und Rechtschreibprüfung empfehlen wir DEEPL in der Pro-Variante.\n- Als KI-Allrounder (Texterstellung und -überarbeitung, Programmierung, Kreation, Ideenfindung etc.) empfehlen wir aktuell die Nutzung von ChatGPT in der PRO oder Teams-Variante. Deaktivieren Sie unter Einstellungen/Datenkontrolle die Funktion »Das Modell für alle verbessern«\n- Für die Erstellung von Bildern empfehlen wir Adobe Firefly, das am ZALF Teil der Adobe Creative Suite ist und in diesem Rahmen mitgenutzt werden kann."
+      },
+      {
+        "id": 31,
+        "B": "B7",
+        "matched_words": "1/53",
+        "text": "3 Der Mensch hat im Einsatz der KI das letzte Wort\nDer Einsatz und die Freigabe von KI-generierten Inhalten unterliegt stets der gewissenhaften Überwachung und Kontrolle durch Menschen. Die Beschäftigten verpflichten sich, Inhalte, die mithilfe von generativer KI erstellt wurden, stets von mindestens einer qualifizierten Person auf Richtigkeit, Faktentreue und Kontext zu überprüfen."
+      },
+      {
+        "id": 32,
+        "B": "B7",
+        "matched_words": "1/27",
+        "text": "4 Keine personenbezogenen Daten verarbeiten\nDie Eingabe personenbezogener Daten in KI-Umgebungen ist nur dann zulässig, wenn die schriftliche Einwilligung im Sinne einer Datenverarbeitungserklärung der betroffenen Personen vorliegt."
+      },
+      {
+        "id": 37,
+        "B": "B7",
+        "matched_words": "1/32",
+        "text": "6 Rechtliche Rahmenbedingungen einhalten\nZALF-Angehörige halten sich an geltendes Recht und berücksichtigen bei der Nutzung von generativen KI-Anwendungen sowie bei allen Veröffentlichungen von KI-generierten Inhalten insbesondere Urheber-, Persönlichkeits- und Markenrechte als auch Datenschutzbestimmungen."
+      },
+      {
+        "id": 39,
+        "B": "B7",
+        "matched_words": "1/18",
+        "text": "5 Geheimhaltungsverpflichtung beachten\nVertrauliche Informationen über das ZALF oder über Dritte dürfen nicht in generativen KI-Anwendungen verwendet werden."
+      },
+      {
+        "id": 40,
+        "B": "B7",
+        "matched_words": "1/59",
+        "text": "7 Umgang mit der Qualität von KI-generierten Inhalten\nZALF-Angehörige verwenden Daten und Informationen aus generativen KI-Systemen erst, nachdem sie deren Richtigkeit und Zuverlässigkeit überprüft haben. Sie sind für die Integrität der von Ihnen mithilfe von generativer KI erstellten Inhalte verantwortlich. KI-Systeme sind weder Autoren noch Co-Autoren. Autorenschaft impliziert Handlungsfähigkeit und Verantwortung, sie liegt also bei den Nutzenden von KI-Tools."
+      },
+      {
+        "id": 42,
+        "B": "B7",
+        "matched_words": "1/133",
+        "text": "8 Kontrolle von KI-generierten Inhalten im Hinblick auf ethische Grundlagen\nInhalte, die mittels generativer KI erzeugt werden, müssen von den ZALF-Mitarbeitenden stets auf Verzerrungen bzw. ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. KI-Systeme sind nicht in der Lage, Entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. Um keine einseitigen Informationen zu verbreiten oder zu fördern, ist es entscheidend, KI-Systeme mit Daten zu trainieren, die frei von Vorurteilen und Diskriminierung sind. Ein anschauliches Beispiel für das Problem der Voreingenommenheit von KI-Systemen ist die Übersetzung von Texten. In Sprachen, in denen die Geschlechterrollen neutral bezeichnet werden, wie es im Englischen häufig der Fall ist, neigen viele KI-basierte Systeme dazu, die bestehenden Stereotypen in Übersetzungen zu übernehmen. KI-Modelle am ZALF müssen auf qualitativ hochwertigen und nicht diskriminierenden Daten basieren, um Verzerrungen zu vermeiden."
+      },
+      {
+        "id": 53,
+        "B": "B10",
+        "matched_words": "1/43",
+        "text": "10 Aus- und Weiterbildungen zu künstlicher Intelligenz\nDie Beschäftigten des ZALF verpflichten sich zur Weiterbildung im Bereich KI und zur verantwortungsbewussten Anwendung der erworbenen Kenntnisse im beruflichen Alltag. Wir entwickeln derzeit eine Schulung, die Sie bei der sicheren und ethischen Nutzung von KI unterstützt."
+      },
+      {
+        "id": 63,
+        "B": "B7",
+        "matched_words": "0/55",
+        "text": "ki-programme vor der verwendung sorgfältig prüfen viele ki-tools bergen risiken, da für laien oft nicht klar ist, was mit den eingegebenen daten passiert und ob sie gemäß den geltenden gesetzen, wie der datenschutzgrundverordnung (dsgvo), behandelt werden. da sie verpflichtet sind, diese und weitere regeln einzuhalten, prüfen sie die datenschutzinformationen und -optionen der genutzten tools sorgfältig."
+      },
+      {
+        "id": 64,
+        "B": "B5",
+        "matched_words": "4/39",
+        "text": "verwenden sie vorzugsweise empfohlene ki-tools. für die überarbeitung von texten und rechtschreibprüfung empfehlen wir deepl in der pro-variante. als ki-allrounder (texterstellung und -überarbeitung, programmierung, kreation, ideenfindung etc.) empfehlen wir aktuell die nutzung von chatgpt in der pro oder teams-variante."
+      },
+      {
+        "id": 67,
+        "B": "B8",
+        "matched_words": "16/27",
+        "text": "der mensch hat im einsatz der ki das letzte wort der einsatz und die freigabe von ki-generierten inhalten unterliegt stets der gewissenhaften überwachung und kontrolle durch menschen."
+      },
+      {
+        "id": 69,
+        "B": "B6",
+        "matched_words": "9/26",
+        "text": "keine personenbezogenen daten verarbeiten die eingabe personenbezogener daten in ki-umgebungen ist nur dann zulässig, wenn die schriftliche einwilligung im sinne einer datenverarbeitungserklärung der betroffenen personen vorliegt."
+      },
+      {
+        "id": 70,
+        "B": "B2",
+        "matched_words": "0/28",
+        "text": "zalf-angehörige halten sich an geltendes recht und berücksichtigen bei der nutzung von generativen ki-anwendungen sowie bei allen veröffentlichungen von ki-generierten inhalten insbesondere urheber-, persönlichkeitsund markenrechte als auch datenschutzbestimmungen."
+      },
+      {
+        "id": 71,
+        "B": "B6",
+        "matched_words": "14/17",
+        "text": "geheimhaltungsverpflichtung beachten vertrauliche informationen über das zalf oder über dritte dürfen nicht in generativen ki-anwendungen verwendet werden."
+      },
+      {
+        "id": 72,
+        "B": "B7",
+        "matched_words": "5/39",
+        "text": "umgang mit der qualität von ki-generierten inhalten zalf-angehörige verwenden daten und informationen aus generativen ki-systemen erst, nachdem sie deren richtigkeit und zuverlässigkeit überprüft haben. sie sind für die integrität der von ihnen mithilfe von generativer ki erstellten inhalte verantwortlich."
+      },
+      {
+        "id": 73,
+        "B": "B8",
+        "matched_words": "0/19",
+        "text": "ki-systeme sind weder autoren noch co-autoren. autorenschaft impliziert handlungsfähigkeit und verantwortung, sie liegt also bei den nutzenden von ki-tools."
+      },
+      {
+        "id": 74,
+        "B": "B7",
+        "matched_words": "2/32",
+        "text": "kontrolle von ki-generierten inhalten im hinblick auf ethische grundlagen inhalte, die mittels generativer ki erzeugt werden, müssen von den zalf-mitarbeitenden stets auf verzerrungen bzw. ethisch bedenkliche inhalte überprüft und gegebenenfalls korrigiert werden."
+      },
+      {
+        "id": 75,
+        "B": "B9",
+        "matched_words": "0/40",
+        "text": "ki-systeme sind nicht in der lage, entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. um keine einseitigen informationen zu verbreiten oder zu fördern, ist es entscheidend, ki-systeme mit daten zu trainieren, die frei von vorurteilen und diskriminierung sind."
+      },
+      {
+        "id": 76,
+        "B": "B9",
+        "matched_words": "9/44",
+        "text": "ein anschauliches beispiel für das problem der voreingenommenheit von ki-systemen ist die übersetzung von texten. in sprachen, in denen die geschlechterrollen neutral bezeichnet werden, wie es im englischen häufig der fall ist, neigen viele ki-basierte systeme dazu, die bestehenden stereotypen in übersetzungen zu übernehmen."
+      },
+      {
+        "id": 77,
+        "B": "B7",
+        "matched_words": "0/16",
+        "text": "ki-modelle am zalf müssen auf qualitativ hochwertigen und nicht diskriminierenden daten basieren, um verzerrungen zu vermeiden."
+      }
+    ],
+    "source_coverage": 0.773,
+    "uncovered_chars": 7564,
+    "uncovered_gaps": 14,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 270,
+        "length": 270,
+        "text": "# zalf # source: https://www.zalf.de/de/aktuelles/downloads/documents/imagebroschuere/ki-handreichung.pdf # date: 2024 # category: guideline handreichung zum umgang mit generativer ki am zalf leibniz-zentrum für agrarlandschaftsforschung (zalf) ki-guidelines einführung"
+      },
+      {
+        "char_start": 1191,
+        "char_end": 1222,
+        "length": 31,
+        "text": ". ziele dieser ki-handreichung"
+      },
+      {
+        "char_start": 6348,
+        "char_end": 6376,
+        "length": 28,
+        "text": ". umgang mit generativer ki"
+      },
+      {
+        "char_start": 10734,
+        "char_end": 10769,
+        "length": 35,
+        "text": ". unsere regeln zur nutzung von ki"
+      },
+      {
+        "char_start": 12623,
+        "char_end": 13355,
+        "length": 732,
+        "text": ". ki-programme vor der verwendung sorgfältig prüfen viele ki-tools bergen risiken, da für laien oft nicht klar ist, was mit den eingegebenen daten passiert und ob sie gemäß den geltenden gesetzen, wie der datenschutzgrundverordnung (dsgvo), behandelt werden. da sie verpflichtet sind, diese und weitere regeln einzuhalten, prüfen sie die datenschutzinformationen und -optionen der genutzten tools sorgfältig. verwenden sie vorzugsweise empfohlene ki-tools. für die überarbeitung von texten und rechtschreibprüfung empfehlen wir deepl in der pro-variante. als ki-allrounder (texterstellung und -überarbeitung, programmierung, kreation, ideenfindung etc.) empfehlen wir aktuell die nutzung von chatgpt in der pro oder teams-variante."
+      },
+      {
+        "char_start": 13760,
+        "char_end": 13946,
+        "length": 186,
+        "text": ". der mensch hat im einsatz der ki das letzte wort der einsatz und die freigabe von ki-generierten inhalten unterliegt stets der gewissenhaften überwachung und kontrolle durch menschen."
+      },
+      {
+        "char_start": 14144,
+        "char_end": 14377,
+        "length": 233,
+        "text": ". keine personenbezogenen daten verarbeiten die eingabe personenbezogener daten in ki-umgebungen ist nur dann zulässig, wenn die schriftliche einwilligung im sinne einer datenverarbeitungserklärung der betroffenen personen vorliegt."
+      },
+      {
+        "char_start": 17796,
+        "char_end": 18103,
+        "length": 307,
+        "text": ". rechtliche rahmenbedingungen einhalten zalf-angehörige halten sich an geltendes recht und berücksichtigen bei der nutzung von generativen ki-anwendungen sowie bei allen veröffentlichungen von ki-generierten inhalten insbesondere urheber-, persönlichkeitsund markenrechte als auch datenschutzbestimmungen."
+      },
+      {
+        "char_start": 18501,
+        "char_end": 19124,
+        "length": 623,
+        "text": ". geheimhaltungsverpflichtung beachten vertrauliche informationen über das zalf oder über dritte dürfen nicht in generativen ki-anwendungen verwendet werden. umgang mit der qualität von ki-generierten inhalten zalf-angehörige verwenden daten und informationen aus generativen ki-systemen erst, nachdem sie deren richtigkeit und zuverlässigkeit überprüft haben. sie sind für die integrität der von ihnen mithilfe von generativer ki erstellten inhalte verantwortlich. ki-systeme sind weder autoren noch co-autoren. autorenschaft impliziert handlungsfähigkeit und verantwortung, sie liegt also bei den nutzenden von ki-tools."
+      },
+      {
+        "char_start": 20814,
+        "char_end": 21817,
+        "length": 1003,
+        "text": ". kontrolle von ki-generierten inhalten im hinblick auf ethische grundlagen inhalte, die mittels generativer ki erzeugt werden, müssen von den zalf-mitarbeitenden stets auf verzerrungen bzw. ethisch bedenkliche inhalte überprüft und gegebenenfalls korrigiert werden. ki-systeme sind nicht in der lage, entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. um keine einseitigen informationen zu verbreiten oder zu fördern, ist es entscheidend, ki-systeme mit daten zu trainieren, die frei von vorurteilen und diskriminierung sind. ein anschauliches beispiel für das problem der voreingenommenheit von ki-systemen ist die übersetzung von texten. in sprachen, in denen die geschlechterrollen neutral bezeichnet werden, wie es im englischen häufig der fall ist, neigen viele ki-basierte systeme dazu, die bestehenden stereotypen in übersetzungen zu übernehmen. ki-modelle am zalf müssen auf qualitativ hochwertigen und nicht diskriminierenden daten basieren, um verzerrungen zu vermeiden."
+      },
+      {
+        "char_start": 26485,
+        "char_end": 26537,
+        "length": 52,
+        "text": ". ausund weiterbildungen zu künstlicher intelligenz"
+      },
+      {
+        "char_start": 27470,
+        "char_end": 27528,
+        "length": 58,
+        "text": "anhang faqs - fragen und antworten aus dem arbeitsalltag"
+      },
+      {
+        "char_start": 29263,
+        "char_end": 33256,
+        "length": 3993,
+        "text": ". quellen allea: the european code of conduct for research integrity, revised edition, 2023, online unter: http://www.doi.org/10.26356/ecoc der hamburgische beauftragte für datenschutz und informationsfreiheit: checkliste zum einsatz llm-basierter chatbots, 2023, online unter: https://datenschutzhamburg.de/fileadmin/user_upload/hmbbfdi/datenschutz/informationen/20231113_checkliste_llm_chatbots_de.pdf dfg: stellungnahme des präsidiums der deutschen forschungsgemeinschaft zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg, 2023, online unter: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahmepraesidiumkiaidata.pdf european commission: living guidelines on the responsible use of generative ai in research, 2024, online unter: https://researchandinnovation.ec.europa.eu/document/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en european commission: successful and timely uptake of artificial intelligence in the eu, 2024, online unter: https://scientificadvice.eu/advice/artificialintelligenceinscience/ europäische kommission, generaldirektion kommunikationsnetze, inhalte und technologien, ethik-leitlinien für eine vertrauenswürdige ki, publications office, 2019, online unter: https://data.europa.eu/doi/10.2759/22710 hochschulforum digitalisierung: leitlinie zum umgang mit generativer ki, 2024, online unter: https://hochschulforumdigitalisierung.de/news/blickpunktkileitlinien/ ki-guidelines für kmu: empfehlungen und anleitungen zum positiven umgang mit künstlicher intelligenz, 2024, online unter: https://www.wko.at/oe/digitalisierung/kmukiguidelines.pdf schürmann, rosenthal, dreyer rechtsanwälte: die ki-verordnung kommt: leitfaden für unternehmen, 2024, online unter: https://www.srdrechtsanwaelte.de/kiverordnung/ footnotes 1. https://www.europarl.europa.eu/topics/de/article/20200827sto85804/wasistkunstlicheintelligenzundwiewirdsiegenutzt,. 2. https://researchandinnovation.ec.europa.eu/news/allresearchandinnovationnews/guidelinesresponsibleusegenerativeairesearchdevelopedeuropeanresearchareaforum-2024-03-20_en, stand: 26.04.2024. 3. http://www.doi.org/10.26356/ecoc, stand: 26.04.2024. 4. https://op.europa.eu/de/publicationdetail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a, stand: 26.04.2024. 5. https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahmepraesidiumkiaidata.pdf, stand: 26.04.2024. 6. die pro-variante verfügt über die beste datensicherheit in form von ssl-verschlüsselung. zudem gibt das unternehmen an, alle eingaben nach übersetzung oder textanpassung umgehend zu löschen. als unternehmen mit sitz in deutschland erfüllt deepl zudem die strengen datenschutzbestimmungen der europäischen union in vollem umfang und ist nach iso 27001 zertifiziert. 7. ab dieser version kann in den einstellungen hinterlegt werden, dass die eingaben nicht für trainingsdaten genutzt werden. 8. das veröffentlichte firefly-modell wurde mit adobe stock-bildern, frei lizenzierten inhalten und public-domain-inhalten trainiert, deren urheberrechte abgelaufen sind, und dazu entwickelt, bilder zu erzeugen, die unbedenklich für den kommerziellen gebrauch verwendbar sind, vgl. online unter: https://helpx.adobe.com/de/stock/contributor/help/fireflyfaqforadobestockcontributors.html,. impressum leibniz-zentrum für agrarlandschaftsforschung (zalf) e. v. eberswalder straße 84 15374 müncheberg t 033432 82200 f 033432 82223 vorstand prof. dr. frank ewert (wissenschaftlicher direktor) martin jank (administrativer direktor) öffentlichkeitsarbeit hendrik schneider public.relations@zalf.de t 033432 82 242 redaktion hendrik schneider layout, satz und infografiken hannes schulze (nur mut) bildnachweise better images of ai / cc-by 4.0 s. 2, 13: yasmin dwiputri & data hazards project s. 4: alexa steinbrück s. 5: fritzchens fritz s. 6: rens dimmendaal & johann siemens s. 9: wes cockx s. 10: alan warburton s. 12: rick payne and team"
+      },
+      {
+        "char_start": 33731,
+        "char_end": 33744,
+        "length": 13,
+        "text": ". © zalf 2024"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 273,
+      "text": "# ZALF\n# Source: https://www.zalf.de/de/aktuelles/downloads/Documents/Imagebroschuere/KI-Handreichung.pdf\n# Date: 2024\n# Category: guideline\n\nHANDREICHUNG ZUM UMGANG\nMIT GENERATIVER KI AM ZALF\nLEIBNIZ-ZENTRUM FÜR\nAGRARLANDSCHAFTSFORSCHUNG\n(ZALF)\n\nKI-GUIDELINES\nEINFÜHRUNG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 273,
+      "char_end": 788,
+      "text": "Noch vor wenigen Jahren schien der breite Einsatz von künstlicher Intelligenz (KI) im Berufsleben in weiter Ferne zu liegen. Inzwischen hat sich die Technologie rasant entwickelt. Private und berufliche Anwendungen verschmelzen immer mehr. Viele Unternehmen und Organisationen, darunter auch Forschungseinrichtungen wie das ZALF, sehen die Vorteile von KI. Diese Technologie kann uns beispielsweise helfen, effizienter zu arbeiten, Kosten zu senken, Daten besser zu verwalten und unsere Kommunikation zu verbessern.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 790,
+      "char_end": 1196,
+      "text": "Allerdings bergen die Nutzung und Entwicklung von KI auch nicht unerhebliche Risiken. Daher ist es wichtig, dass wir – wie in anderen Bereichen unserer Arbeit auch – bestehende Gesetze wie Urheberrecht, Datenschutz und den Schutz von Geschäftsgeheimnissen einhalten. Darüber hinaus müssen wir sicherstellen, dass der Einsatz von KI in der Forschung den Standards guter wissenschaftlicher Praxis entspricht.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1196,
+      "char_end": 1228,
+      "text": "\n\nZIELE DIESER KI-HANDREICHUNG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1228,
+      "char_end": 1543,
+      "text": "- Bereitstellung von Orientierungshilfen und Ratschlägen für den Umgang mit KI\n- Schaffung eines Rahmens für die Nutzung von KI durch die Mitarbeitenden\n- Hervorhebung der Vorteile und Anleitung zur optimalen Nutzung von KI-Anwendungen\n- Vermeidung von Risiken im Umgang\n- Erstorientierung zu geeigneten Anwendungen",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1545,
+      "char_end": 1947,
+      "text": "Künstliche Intelligenzen, darauf basierende Anwendungen und Dienste sowie die rechtlichen Rahmenbedingungen dieser neuen Technologie unterliegen einem stetigen Wandel. Sowohl auf EU-Ebene als auch in Deutschland ist abzusehen, dass Regelungen zur KI-Nutzung weiterentwickelt werden. Daher ist diese Handreichung als »work in progress« zu verstehen – die jeweils aktuelle Version finden Sie im Intranet.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1949,
+      "char_end": 2037,
+      "text": "Für Rückmeldungen und Anregungen sind wir dankbar. Bitte wenden Sie sich an: KI@zalf.de.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2039,
+      "char_end": 2109,
+      "text": "WELCHE RISIKEN KÖNNEN SICH AUS DER NUTZUNG VON GENERATIVER KI ERGEBEN?",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2111,
+      "char_end": 2159,
+      "text": "Zu den rechtlichen Risiken gehören insbesondere:",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2161,
+      "char_end": 2751,
+      "text": "**das Urheberrecht:**\n- Das Hochladen und/oder Verarbeiten von Texten oder anderen Inhalten kann kritisch sein, wenn Unklarheit über die hierfür notwendigen Urheberrechte besteht. Viele wissenschaftliche Verlage untersagen derzeit die Weiterverarbeitung ihrer Publikationen mit KI, wenn diese nicht unter einer bestimmten Lizenz (Creative Commons) veröffentlicht sind (siehe auch: Regel 1: Vereinbarungen kennen und beachten).\n- Nicht nur das Hochladen kann eine Urheberrechtsverletzung darstellen. Auch Informationen, die generative KI bereitstellt, können urheberrechtlich geschützt sein.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2753,
+      "char_end": 2911,
+      "text": "**der Datenschutz:**\n- Personenbezogene Daten dürfen nur mit ausdrücklicher Einwilligung der Betroffenen verarbeitet werden, dies gilt auch für generative KI.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2913,
+      "char_end": 3060,
+      "text": "**die Datensicherheit:**\n- Geschäftsgeheimnisse und andere vertrauliche Informationen und Daten dürfen von generativer KI nicht verarbeitet werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3062,
+      "char_end": 3452,
+      "text": "Zu den ethischen Risiken, die mit der Nutzung generativer KI einhergehen, gehören Aspekte wie:\n- das Nahelegen von unethischen Entscheidungen, z.B. Diskriminierungen bei der Auswahl von Bewerberinnen & Bewerbern oder bei anderen Auswahlentscheidungen;\n- die Reproduktion von (diskriminierenden) Stereotypen;\n- die Verwendung von Quellen ohne Kennzeichnung;\n- das Erfinden von Informationen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3454,
+      "char_end": 3740,
+      "text": "Diese Risiken sollen nicht davon abschrecken, generative KI zu nutzen. Vielmehr sollen die im Rahmen dieses Leitfadens getroffenen Regelungen dazu beitragen, einen Handlungsrahmen und eine Nutzungskultur zu schaffen, die einen rechtssicheren und verantwortungsvollen Umgang ermöglichen.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3742,
+      "char_end": 3981,
+      "text": "WAS IST KI?\n\nDas Europäische Parlament hat sich auf folgende Begriffsdefinition geeinigt:\n»Künstliche Intelligenz ist die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.«",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3983,
+      "char_end": 4331,
+      "text": "Die Anwendungsbereiche von KI sind sehr vielfältig und reichen vom autonomen Fahren bis zur automatischen Vervollständigung von Text in Ihrem Mobiltelefon. Um das Thema auf den für die Mitarbeitenden relevanten Bereich einzugrenzen, konzentrieren wir uns in dieser Handreichung auf den Bereich der »Generativen KI«. Diesen definieren wir wie folgt…",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4333,
+      "char_end": 4512,
+      "text": "… »als KI-basierte Software, die in der Lage ist, Texte, Bilder, Videos oder andere Daten mithilfe generativer Modelle zu erzeugen, häufig als Reaktion auf Eingabeaufforderungen.«",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4514,
+      "char_end": 6428,
+      "text": "WAS SIND TYPISCHE ANWENDUNGSBEREICHE VON GENERATIVER KI?\n\n- Übersetzungen: KI übersetzt einzelne Passagen oder ganze Dokumente (z.B. Deepl Translator, Google Translator)\n- Literaturrecherche: KI durchsucht Literatur (z.B. Perplexity, Scite)\n- Internet-Suche: KI kann ein virtueller Assistent sein, der Informationen aus dem Internet sammelt (z.B. Microsoft Copilot in Bing)\n- Textverständnis: KI erfasst Kontext und Bedeutung von Texten (z.B. Explainpaper, SciSpace)\n- Textproduktion: KI kann Texte in verschiedenen Sprachen und Tonlagen selbstständig verfassen bzw. umformulieren (z.B. Copy.ai, Jasper, Neuroflash)\n- Textbearbeitung: KI kann Texte bearbeiten, korrigieren und optimieren (z.B. Deepl Write, Grammarly, Language Tool)\n- Programmierung/Codierung: AI kann die Programmierung/Codierung in R, Python usw. unterstützen (z.B. github copilot, GPT4)\n- Sprachgenerierung: KI kann geschriebenen Text in realitätsnahe Tonaufnahmen umwandeln und sogar die eigene Stimme klonen, etwa für die Vertonung von Präsentationen, Anleitungen, Durchsagen uvm. (z.B. Elevenlabs, Hhygen)\n- Feedback-Tools: KI kann Feedback von Benutzerinnen und Benutzern sammeln und analysieren (z.B. Brand24, Peer)\n- Bild- und Videogenerierung: KI kann Bilder, Grafiken und visuelle Inhalte erstellen (z.B. Midjourney, Dall-E, Adobe Firefly, Leonardo.ai, OpenAI’s Sora)\n- Chatbots: KI kann menschenähnliche Konversationen führen und im Service-Bereich oder für Informationsdienste eingesetzt werden (z.B. ChatGPT, Google Gemini)\n- Text- und Data-Mining (TDM): TDM ermöglicht die automatisierte Analyse großer Text- und Datensätze, um Muster oder Zusammenhänge zu erkennen. Dies ist besonders nützlich für wissenschaftliche Forschung, um umfangreiche Literatur oder Daten effizient auszuwerten. Laut §60d UrhG ist TDM für wissenschaftliche Zwecke unter bestimmten Bedingungen erlaubt, ohne dass zusätzliche Genehmigungen erforderlich sind.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6428,
+      "char_end": 6457,
+      "text": "\n\nUMGANG MIT GENERATIVER KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6457,
+      "char_end": 7074,
+      "text": "Die Grundsätze, die diesen Leitlinien zugrunde liegen, wurden unter Berücksichtigung wichtiger Rahmenwerke und Stellungnahmen zum Thema entwickelt, dazu gehören:\n- Die Living guidelines on the responsible use of generative AI in Research\n- der Europäische Verhaltenskodex für wissenschaftliche Integrität\n- die Leitlinien für vertrauenswürdige KI, die von einer hochrangigen Expertengruppe für KI entwickelt wurden\n- sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7076,
+      "char_end": 7654,
+      "text": "Die wichtigsten Prinzipien für den verantwortungsvollen Einsatz von generativer KI lassen sich auf Grundlage dieser Veröffentlichungen wie folgt zusammenfassen:\n\n- **Zuverlässigkeit** bei der Qualitätssicherung, die sich in der Konzeption, Methodik, Analyse und Verwendung der eingesetzten Ressourcen und Werkzeuge widerspiegelt: Das betrifft insbesondere die Überprüfbarkeit und Reproduzierbarkeit von mithilfe generativer KI produzierter Informationen. Dazu gehört auch das Bewusstsein für mögliche Diskriminierungsprobleme in Bezug auf Voreingenommenheit und Ungenauigkeiten.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7656,
+      "char_end": 7935,
+      "text": "- **Ehrlichkeit** bei der Entwicklung, Durchführung, Überprüfung, Berichterstattung und Kommunikation von Inhalten auf transparente, faire, gründliche und unvoreingenommene Weise: Dieser Grundsatz schließt die Verpflichtung ein, offenzulegen, dass generative KI eingesetzt wurde.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7937,
+      "char_end": 8528,
+      "text": "- **Respekt** gegenüber Kolleginnen und Kollegen, Forschungsteilnehmenden, Forschungssubjekten, der Gesellschaft, den Ökosystemen, dem kulturellen Erbe und der Umwelt: Der verantwortungsvolle Einsatz von generativer KI sollte die Grenzen der Technologie, ihre Auswirkungen auf Umwelt und Gesellschaft (Voreingenommenheit, Vielfalt, Nichtdiskriminierung, Fairness und Schadensverhütung) berücksichtigen, einschließlich der ordnungsgemäßen Verwaltung von Informationen, der Achtung der Privatsphäre, der Vertraulichkeit und der Rechte an geistigem Eigentum sowie des ordnungsgemäßen Zitierens.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8530,
+      "char_end": 9101,
+      "text": "- **Verantwortungsübernahme** von der Idee bis zur Veröffentlichung, für das Management und die Organisation von KI-gestützten Daten und Informationen, für Schulungen, Betreuung und Anleitung zum Thema sowie zu den weiterreichenden gesellschaftlichen Auswirkungen beim Einsatz von generativer KI, einschließlich der Verantwortung für alle Ergebnisse, die Nutzende produzieren und veröffentlichen. Das Training von KI-Systemen am ZALF muss dokumentiert werden. Dies umfasst die Beschreibung der Trainingsdaten und der Methoden, um die Nachvollziehbarkeit zu gewährleisten.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9103,
+      "char_end": 9710,
+      "text": "SELBSTVERSTÄNDNIS DES ZALF ZUM UMGANG MIT GENERATIVER KI\n\nDamit generative KI am ZALF verantwortungsvoll nach den oben genannten Prinzipien eingesetzt werden kann, möchten wir folgende Maßnahmen unterstützen und umsetzen:\n\n1. Förderung, Anleitung und Unterstützung des verantwortungsvollen Einsatzes generativer KI in Forschung und Verwaltung\n Wir sensibilisieren unsere Mitarbeitenden in dieser Handreichung sowie in Schulungen zum Einsatz generativer KI, insbesondere zur Überprüfung der Ergebnisse, zur Wahrung der Privatsphäre, zum Umgang mit Vorurteilen und zum Schutz der Rechte an geistigem Eigentum.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9712,
+      "char_end": 10163,
+      "text": "2. Wir beobachten aktiv die Entwicklung und den Einsatz generativer KI-Systeme in unserer Organisation\n Wir entwickeln die Rahmenbedingungen für den Einsatz von generativer KI am ZALF stetig weiter, um die Nutzung effizient zu unterstützen. Wir analysieren die Möglichkeiten und Grenzen der eingesetzten Technologien und Werkzeuge, sind offen für Rückmeldungen aus der Belegschaft und geben unseren Mitarbeitenden regelmäßig Feedback und Empfehlungen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10165,
+      "char_end": 10570,
+      "text": "3. Wir streben an, diese KI-Richtlinie in unsere allgemeinen Forschungsrichtlinien für gute Forschungspraktik und -ethik zu integrieren.\n Auf der Grundlage dieser Leitlinien konsultieren wir neben unserem Verwaltungspersonal explizit auch unsere Mitarbeitenden in der Forschung und sensibilisieren sie offen und transparent für den Einsatz von generativer KI und die damit verbundenen Chancen und Risiken.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10572,
+      "char_end": 10849,
+      "text": "4. Wir streben an, zukünftig verstärkt lokal gehostete generative KI-Tools zu unterstützen.\n Diese sollen es unseren Mitarbeitenden ermöglichen, ihre (wissenschaftlichen) Daten in Tools einzuspeisen, die einen besseren Datenschutz und eine höhere Vertraulichkeit gewährleisten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10849,
+      "char_end": 10885,
+      "text": "\n\nUNSERE REGELN ZUR NUTZUNG VON KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10885,
+      "char_end": 11221,
+      "text": "1 Vereinbarungen kennen und beachten\nDas ZALF nutzt Anwendungen und Dienste auf Basis von künstlicher Intelligenz im administrativen und im wissenschaftlichen Bereich. Generative KI wird dabei für Recherchezwecke, zur Verbesserung der internen Kommunikation, zur Inspiration, zur Übersetzung und für weitere Anwendungsfelder eingesetzt.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11223,
+      "char_end": 11710,
+      "text": "Mitarbeitende halten bei allen Tätigkeiten die geltenden Gesetze und arbeitsrechtlichen Verpflichtungen ein. Hierzu finden regelmäßig allgemeine Schulungen statt. Die dabei behandelten Themenfelder gelten auch für den Einsatz von generativer KI und werden in den folgenden Regeln noch weiter ausgeführt. Die wichtigsten rechtlichen Bestimmungen betreffen die Themen:\n- Datenschutz\n- Urheberrecht\n- Geheimhaltung\n- Sanktionsrecht\n- Markenrecht\n- Strafrecht\n- Gute Wissenschaftliche Praxis",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11712,
+      "char_end": 12451,
+      "text": "Besondere Sorgfalt ist bei dem Hochladen von wissenschaftlichen Veröffentlichungen in generative KI-Tools geboten. Nach den aktuell geschlossenen Verträgen mit den drei Hauptverlagen des ZALF, Wiley, Elsevier und Springer, schließen diese die Verarbeitung von dort erschienenen wissenschaftlichen Veröffentlichungen durch KI-Tools aus (kein Upload, keine Bearbeitung, keine Analyse). Eine Ausnahme bilden Publikationen, die unter einer Creative Commons Lizenz veröffentlicht sind. Bitte prüfen Sie daher stets sorgfältig, unter welchen Lizenzen und Urheberrechtsvereinbarungen ein Paper veröffentlicht wurde, das Sie mit generativer KI verarbeiten wollen, und halten Sie sich unbedingt an diese Lizenzen (zu den Nachweispflichten siehe 9).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12453,
+      "char_end": 12759,
+      "text": "Für wissenschaftliche Zwecke ist die Nutzung von Text- und Datamining (TDM) durch gesetzliche Regelungen wie §60d UrhG erlaubt, sofern die genutzten Werke rechtmäßig zugänglich sind. Dies bedeutet, dass für wissenschaftliche TDM-Aktivitäten keine zusätzlichen vertraglichen Genehmigungen erforderlich sind.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12761,
+      "char_end": 13748,
+      "text": "2 KI-Programme vor der Verwendung sorgfältig prüfen\nViele KI-Tools bergen Risiken, da für Laien oft nicht klar ist, was mit den eingegebenen Daten passiert und ob sie gemäß den geltenden Gesetzen, wie der Datenschutzgrundverordnung (DSGVO), behandelt werden. Da Sie verpflichtet sind, diese und weitere Regeln einzuhalten, prüfen Sie die Datenschutzinformationen und -optionen der genutzten Tools sorgfältig. Verwenden Sie vorzugsweise empfohlene KI-Tools.\n\n- Für die Überarbeitung von Texten und Rechtschreibprüfung empfehlen wir DEEPL in der Pro-Variante.\n- Als KI-Allrounder (Texterstellung und -überarbeitung, Programmierung, Kreation, Ideenfindung etc.) empfehlen wir aktuell die Nutzung von ChatGPT in der PRO oder Teams-Variante. Deaktivieren Sie unter Einstellungen/Datenkontrolle die Funktion »Das Modell für alle verbessern«\n- Für die Erstellung von Bildern empfehlen wir Adobe Firefly, das am ZALF Teil der Adobe Creative Suite ist und in diesem Rahmen mitgenutzt werden kann.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13750,
+      "char_end": 13910,
+      "text": "Um uns rechtssicher zu verhalten und zu ethischen Problemstellungen im Umgang mit generativer KI zu sensibilisieren, wurden die folgenden 10 Regeln aufgestellt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13912,
+      "char_end": 14297,
+      "text": "3 Der Mensch hat im Einsatz der KI das letzte Wort\nDer Einsatz und die Freigabe von KI-generierten Inhalten unterliegt stets der gewissenhaften Überwachung und Kontrolle durch Menschen. Die Beschäftigten verpflichten sich, Inhalte, die mithilfe von generativer KI erstellt wurden, stets von mindestens einer qualifizierten Person auf Richtigkeit, Faktentreue und Kontext zu überprüfen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14299,
+      "char_end": 14531,
+      "text": "4 Keine personenbezogenen Daten verarbeiten\nDie Eingabe personenbezogener Daten in KI-Umgebungen ist nur dann zulässig, wenn die schriftliche Einwilligung im Sinne einer Datenverarbeitungserklärung der betroffenen Personen vorliegt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14533,
+      "char_end": 15375,
+      "text": "TIPPS FÜR DIE PRAXIS\nSo gut KI-basierte Systeme auch sein mögen, sie sind weder fehlerfrei noch sind sie Alleskönner. Im Gegensatz zur menschlichen Intelligenz, die von einer Vielzahl von Faktoren wie Erfahrung, sozialen Beziehungen, kulturellen Einflüssen und komplexen Emotionen geprägt ist, basieren die Fähigkeiten der KI lediglich auf den ihr zur Verfügung stehenden Daten, Informationen und Algorithmen. Meist wird nur das wahrscheinlichste Ergebnis von der KI wiedergegeben, das auch falsch sein kann. Das bedeutet, dass menschliche Fähigkeiten wie Wahrnehmung, Intuition und emotionale Intelligenz unersetzlich bleiben. Die Einzigartigkeit und Verantwortung des Menschen liegen in seiner Fähigkeit, menschliche Aspekte in die tägliche Arbeit einzubringen, Beziehungen zu berücksichtigen und in Zusammenhängen zu denken und zu handeln.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15377,
+      "char_end": 16371,
+      "text": "TIPPS FÜR DIE PRAXIS\n- Beachten Sie, dass Sie bei vielen (insbesondere kostenlos frei verfügbaren) KI-Tools implizit der Weiterverarbeitung der eingegebenen Daten durch das anbietende Unternehmen zustimmen.\n- Eine gute Lösung ist die Anonymisierung von Daten, so dass keine Rückschlüsse auf personenbezogene Daten möglich sind (durch Entfernung von Namen und anderen Identifikatoren). Wenn eine vollständige Anonymisierung nicht möglich ist, sollten die Daten pseudonymisiert werden, um die Datensicherheitsstandards zu erfüllen (z.B. Ersetzen der tatsächlichen Daten durch zufällige Namen).\n- Auf die Verarbeitung personenbezogener Daten durch KI-Systeme ist in einer entsprechenden Datenschutzerklärung hinzuweisen.\n- Werden Daten außerhalb der EU gehostet, müssen die Vorschriften des Internationalen Datenverkehrs beachtet werden.\n- Bei der Verwendung von generativen KI wie ChatGPT sollte darauf geachtet werden, dass die Eingaben nicht für Trainingsinhalte genutzt werden (siehe Regel 2).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16373,
+      "char_end": 16731,
+      "text": "Wann immer möglich, sollte die Nutzung lokal gehosteter generativer KI-Tools bevorzugt werden, um den Datenschutz und die Vertraulichkeit der verarbeiteten Daten zu gewährleisten. Das ZALF arbeitet daran, lokal gehostete Tools zu unterstützen, die den wissenschaftlichen Anforderungen entsprechen und eine höhere Sicherheit bieten als cloudbasierte Lösungen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16733,
+      "char_end": 17986,
+      "text": "TIPPS FÜR DIE PRAXIS\nPrüfen Sie…\n- Darf ich die einzugebenden Daten rechtlich verwenden (Datenschutzrecht, Urheberrecht, Strafrecht, Sanktionsrecht, Personendaten etc.)?\n- Benötige ich für meine Arbeit zwingend ein KI-Tool?\n- Habe ich alle Genehmigungen für die Verwendung der Trainingsdaten?\n- Kann ich auch mit einem Tool arbeiten, das meine Eingaben nicht als Trainingsdaten verwendet?\n- Verwenden Sie keine Texteingaben, die auf urheberrechtlich geschützten Werken basieren, wie z.B. bekannte Buch- oder Filmtitel, Songtexte oder berühmte Gemälde.\n- Achten Sie darauf, keine Medien zu erstellen, die bestehenden urheberrechtlich geschützten Werken zu ähnlich sind.\n- Laden Sie Personenabbildungen nur dann in KI-Tools hoch, wenn Sie vorher das Einverständnis der Abgebildeten eingeholt haben.\n- Vergewissern Sie sich bei der Erstellung von Bildern, Videos und anderen Medien, dass Sie über die notwendigen Rechte verfügen, um diese zu verwenden. Wägen Sie sorgfältig ab, ob Urheberrecht verletzt werden könnten.\n- Verwenden Sie keine Texte, die bekannte Markennamen, Logos oder Markenzeichen enthalten bzw. achten Sie darauf, keine Medien zu erstellen, die Markenzeichen oder Logos enthalten, die mit existierenden Marken verwechselt werden könnten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17988,
+      "char_end": 18296,
+      "text": "6 Rechtliche Rahmenbedingungen einhalten\nZALF-Angehörige halten sich an geltendes Recht und berücksichtigen bei der Nutzung von generativen KI-Anwendungen sowie bei allen Veröffentlichungen von KI-generierten Inhalten insbesondere Urheber-, Persönlichkeits- und Markenrechte als auch Datenschutzbestimmungen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18298,
+      "char_end": 18697,
+      "text": "Die Nutzung von KI am ZALF muss im Einklang mit der EU-KI-Verordnung erfolgen. Dabei ist insbesondere auf die Risikokategorisierung zu achten, um sicherzustellen, dass keine KI-Systeme eingesetzt werden, die ein unzulässiges oder hohes Risiko darstellen. Zur Einschätzung des Risikos sowie für weitere Informationen zu den Risikoklassen besuchen Sie im Intranet den Bereich „Künstliche Intelligenz“.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18699,
+      "char_end": 18856,
+      "text": "5 Geheimhaltungsverpflichtung beachten\nVertrauliche Informationen über das ZALF oder über Dritte dürfen nicht in generativen KI-Anwendungen verwendet werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18858,
+      "char_end": 19324,
+      "text": "7 Umgang mit der Qualität von KI-generierten Inhalten\nZALF-Angehörige verwenden Daten und Informationen aus generativen KI-Systemen erst, nachdem sie deren Richtigkeit und Zuverlässigkeit überprüft haben. Sie sind für die Integrität der von Ihnen mithilfe von generativer KI erstellten Inhalte verantwortlich. KI-Systeme sind weder Autoren noch Co-Autoren. Autorenschaft impliziert Handlungsfähigkeit und Verantwortung, sie liegt also bei den Nutzenden von KI-Tools.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19326,
+      "char_end": 21031,
+      "text": "TIPPS FÜR DIE PRAXIS\n- Eine besondere Sorgfaltspflicht besteht darin, Plagiate (Text, Code, Bilder usw.), die durch generative KI erzeugt werden, auszuschließen. Schließen Sie aus, dass Daten, Textbausteine oder Bilder, die Sie in die KI-Anwendung eingeben oder die diese ausgibt, urheberrechtlich geschützt sind. Falls die verwendeten Daten, Textbausteine oder Bilder urheberrechtlich geschützt sind, stellen Sie sicher, dass Sie über die erforderlichen Nutzungsrechte oder Lizenzen zur Verwertung verfügen.\n- Respektieren Sie die Autorenschaft anderer und zitieren Sie deren Arbeiten ordnungsgemäß, wo es angebracht ist.\n- Von generativer KI erzeugte Daten dürfen nicht dazu verwendet werden, Originalforschungsdaten zu fälschen, zu verändern oder zu manipulieren.\n- Mitarbeitende berücksichtigen die zufällige Natur der Ergebnisse generativer KI-Werkzeuge, d.h. die Tendenz, aus demselben Input unterschiedliche Ergebnisse zu erzeugen. Die Ausgaben müssen kritisch auf Reproduzierbarkeit und Robustheit der Ergebnisse und Schlussfolgerungen geprüft werden. Die Grenzen der verwendeten generativen KI-Werkzeuge sollten insbesondere im wissenschaftlichen Prozess offengelegt und diskutiert werden, einschließlich möglicher Verzerrungen in den generierten Inhalten, sowie mögliche Minderungsmaßnahmen.\n- Überprüfen und bestätigen Sie die Richtigkeit von Informationen, Daten und Analysen, bevor Sie diese in Ihre Arbeit einfließen lassen.\n- Vergleichen Sie Informationen mit aktuellen und glaubwürdigen Quellen, um ihre Authentizität und Zuverlässigkeit zu überprüfen.\n- Stellen Sie sicher, dass Sie mit KI-Ergebnissen nicht versehentlich Desinformation verbreiten oder irreführende Darstellungen fördern.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21033,
+      "char_end": 22035,
+      "text": "8 Kontrolle von KI-generierten Inhalten im Hinblick auf ethische Grundlagen\nInhalte, die mittels generativer KI erzeugt werden, müssen von den ZALF-Mitarbeitenden stets auf Verzerrungen bzw. ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. KI-Systeme sind nicht in der Lage, Entscheidungen darüber zu treffen, was ethisch richtig oder falsch ist. Um keine einseitigen Informationen zu verbreiten oder zu fördern, ist es entscheidend, KI-Systeme mit Daten zu trainieren, die frei von Vorurteilen und Diskriminierung sind. Ein anschauliches Beispiel für das Problem der Voreingenommenheit von KI-Systemen ist die Übersetzung von Texten. In Sprachen, in denen die Geschlechterrollen neutral bezeichnet werden, wie es im Englischen häufig der Fall ist, neigen viele KI-basierte Systeme dazu, die bestehenden Stereotypen in Übersetzungen zu übernehmen. KI-Modelle am ZALF müssen auf qualitativ hochwertigen und nicht diskriminierenden Daten basieren, um Verzerrungen zu vermeiden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22037,
+      "char_end": 22331,
+      "text": "Beispiel bei der Nutzung eines KI-gestützten Übersetzungstools:\n\nThe elementary school teacher asked the class a question – Die Grundschullehrerin stellt der Klasse eine Frage\n\nSo nicht: Hier wird die geschlechtsneutrale Bezeichnung in die weibliche Form übersetzt, was ein Stereotyp darstellt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22333,
+      "char_end": 22752,
+      "text": "Auch Analysewerkzeuge und Bildgeneratoren stehen vor ähnlichen Herausforderungen. Ein Beispiel dafür ist die Tendenz einiger KI-Modelle, häufiger Bilder von weißen Männern in angesehenen Positionen (z.B. CEO, Richter oder Arzt) zu erzeugen, während vergleichsweise selten Bilder von Frauen oder Angehörigen von Minderheiten erscheinen. Einige Anbieter sind sich dieses Problems bewusst und arbeiten bereits an Lösungen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22754,
+      "char_end": 23368,
+      "text": "TIPPS FÜR DIE PRAXIS\nPrüfen Sie…\n- Ist der KI-generierte Inhalt frei von Vorurteilen und Diskriminierung? Betrifft mein Beitrag ein gesellschaftlich oder sozial kontroverses Thema, zu dem besonders viele Miss- und Desinformationen kursieren?\n- Wer könnte Interesse an einer Verzerrung haben? Wie kann ich mögliche Verzerrungen richtigstellen?\n- Gibt es interne Richtlinien, an denen ich mich orientieren kann, etwa der Leitfaden für gendergerechte Sprache?\n- Ist der generierte Inhalt ethisch und moralisch vertretbar?\n- Werden durch die Inhalte bestimmte Personen(gruppen) verzerrt dargestellt oder diskriminiert?",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23370,
+      "char_end": 23774,
+      "text": "9 Kennzeichnung KI-generierter Inhalte\nKI-generierte Inhalte sind an geeigneter Stelle zu kennzeichnen. Wenn KI nur zur Inspiration oder Ideenfindung bzw. zur Rechtschreibkorrektur genutzt wurde, sollte pragmatisch abgewogen werden, ob eine Kennzeichnung notwendig ist. Jede/r Mitarbeitende ist angehalten, dies im eigenen Bereich entsprechend den dort geltenden Rahmenbedingungen bestmöglich umzusetzen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23776,
+      "char_end": 25186,
+      "text": "Beschreiben Sie, welche generativen KI-Tools (und welche Version) für welche Zwecke verwendet wurden. Gegebenenfalls stellen die Forschenden den Input (Prompts=Eingabefehle) und Output nach den Prinzipien der offenen Wissenschaft (Open Science) zur Verfügung. KI-generierte Inhalte sollten in wissenschaftlichen Publikationen ähnlich wie andere Quellen angegeben werden, also in Form von Zitaten. Dies kann im Text, in einer Fußnote, Endnote oder im Literaturverzeichnis geschehen. Wichtig ist jedoch, dass KI-generierte Inhalte keine klassischen wissenschaftlichen Quellen sind. Es kann auch sinnvoll sein, solche Inhalte in der Einleitung oder im Methodenteil zu erwähnen. In besonderen Fällen könnten ausführlichere Konversationen mit KI-Tools als Anhang dokumentiert werden. Auch bei Inhalten, die nicht zur Veröffentlichung gedacht sind, wie interne Kommunikation zwischen Einreichenden und Verlag (z. B. Abstracts, Exposés), sollte der Einsatz von KI-Tools transparent gemacht werden. Es wird empfohlen, diese Angaben ebenfalls in Form von Zitaten vorzunehmen. Der Einsatz von KI-Tools im Begutachtungsprozess ist jedoch nicht zulässig, da die Vertraulichkeit der Einreichungen nicht garantiert werden kann. Zudem sind die Reviewer für den Inhalt ihrer Gutachten vollständig verantwortlich. Eingriffe in den KI-generierten Text müssen analog zu Eingriffen bei wörtlichen Zitaten kenntlich gemacht werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25188,
+      "char_end": 25405,
+      "text": "Es ist zudem sicherzustellen, dass Mitarbeitende und externe Personen immer informiert werden, wenn sie mit KI-generierten Inhalten interagieren. Dies gilt insbesondere für Chatbots oder andere automatisierte Systeme.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25407,
+      "char_end": 25584,
+      "text": "Beispiel für einen Flyer-Text:\nDieser Text wurde mithilfe von ChatGPT 4.0 erstellt und unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft und überarbeitet.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25586,
+      "char_end": 26198,
+      "text": "Beispiel für eine Kennzeichnung von mithilfe von KI erzeugtem Text auf Basis einer wissenschaftlichen Veröffentlichung in der Abteilung Öffentlichkeitsarbeit:\nDies ist eine mit Hilfe von ChatGPT 4.0 erzeugte Zusammenfassung des Originaltextes: Kim, Y.-U., Webber, H. (2024) Contrasting Responses of Spring and Summer Potato to Climate Change in South Korea, Potato Research. https://doi.org/10.1007/s11540-024-09691-7, veröffentlicht unter der Lizenz CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. Der Text wurde unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft und überarbeitet.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26200,
+      "char_end": 26397,
+      "text": "Beispiel für eine Kennzeichnung von KI-generiertem Bildmaterial:\nDieses Bild wurde mit Hilfe von Adobe Firefly erstellt und unter den Gesichtspunkten der KI-Regelungen am ZALF sorgfältig überprüft.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26399,
+      "char_end": 26731,
+      "text": "Beispiel für eine Fußnotenzitation nach Chicago-Stil:\nAuf die Frage, ob die EU-Gesundheitsstatistik Rückschlüsse über einen möglichen Zusammenhang zwischen Zucker- und Fettaufnahme mit dem Körpergewicht zulässt, antwortet ChatGPT zustimmend und stellt einen substanziellen Zusammenhang fest, der durch zahlreiche Studien belegt sei.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26733,
+      "char_end": 27060,
+      "text": "10 Aus- und Weiterbildungen zu künstlicher Intelligenz\nDie Beschäftigten des ZALF verpflichten sich zur Weiterbildung im Bereich KI und zur verantwortungsbewussten Anwendung der erworbenen Kenntnisse im beruflichen Alltag. Wir entwickeln derzeit eine Schulung, die Sie bei der sicheren und ethischen Nutzung von KI unterstützt.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27062,
+      "char_end": 27361,
+      "text": "Schulungen helfen uns dabei…\n- das Bewusstsein für die Chancen und Risiken des Einsatzes von KI zu schärfen.\n- das Risiko eines fahrlässigen und unbedachten Einsatzes zu verringern.\n- Überforderung der Anwenderinnen und Anwender zu vermeiden und sie zu motivieren.\n- Innovationen am ZALF zu fördern.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27363,
+      "char_end": 27745,
+      "text": "Wir schulen unsere Mitarbeitenden in Bezug auf:\n- das Verständnis für KI und ihre Anwendungsbereiche\n- die Auswahl und Anwendung geeigneter Werkzeuge\n- Feedbackschleifen für Bedarfsanalysen und Anwendungsfälle\n- die technischen Grenzen von KI\n- ethische Aspekte: Vorurteile und Auswirkungen auf Dritte\n- rechtliche Aspekte: Datenschutz, Haftung und Urheberrecht\n- Sicherheitsaspekte",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27745,
+      "char_end": 27805,
+      "text": "\n\nANHANG\nFAQS – FRAGEN UND ANTWORTEN AUS DEM ARBEITSALLTAG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27805,
+      "char_end": 28217,
+      "text": "Darf ich meine Arbeits-E-Mail-Adresse verwenden, um mich bei KI-Tools anzumelden?\nDas ist gestattet, solange Sie die oben genannten Regeln einhalten. Prüfen Sie genau, welche Daten das KI-Tool sammelt und wo diese Daten gespeichert werden. Im Idealfall nutzen Sie Tools, die auf ZALF-eigenen Servern gehostet werden oder bei denen Ihre Eingaben nicht für Trainingszwecke genutzt bzw. vom Tool gespeichert werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28219,
+      "char_end": 28550,
+      "text": "Darf ich ein wissenschaftliches Paper von Chat GPT zusammenfassen lassen?\nDas ist zulässig, wenn das Papier unter einer Creative Commons Lizenz frei öffentlich zugänglich ist und diese Verarbeitung zulässt. Generell sollten Sie nur Daten in KI-Systeme einpflegen, die frei verfügbar sind, wenn Sie mit offenen KI-Systemen arbeiten.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28552,
+      "char_end": 28994,
+      "text": "Darf ich ein Bild, das von Chat GPT oder einem anderen Bildgenerator erstellt wurde, in einer wissenschaftlichen Veröffentlichung verwenden?\nDas ist kritisch. Viele Fachzeitschriften, wie Nature, schließen künstlich erstellte Bilder aus. Informieren Sie sich genau über die Bestimmungen im entsprechenden Journal. Wichtig: Machen Sie die Nutzung von Künstlicher Intelligenz immer transparent und kennzeichnen Sie erstellte Inhalte und Medien.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28996,
+      "char_end": 29350,
+      "text": "Darf ich mir von Chat GPT Textpassagen für meine wissenschaftliche Veröffentlichung schreiben lassen?\nNein! Alle redaktionellen Inhalte von wissenschaftlichen Veröffentlichungen müssen durch den oder die Autor/in selbst erstellt werden. Erlaubt sind lediglich KI-gestützte Rechtschreib- oder Formulierungshilfen, die keinen Einfluss auf den Inhalt haben.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29352,
+      "char_end": 29547,
+      "text": "Kann ich ChatGPT oder andere Chatbots als Co-Autor in eine wissenschaftliche Veröffentlichung aufnehmen?\nNein. Es wird vielmehr empfohlen, die Verwendung anzugeben (welches Tool, Version, Zweck).",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29547,
+      "char_end": 33655,
+      "text": "\n\nQUELLEN\n- Allea: The European Code of Conduct for Research Integrity, Revised Edition, 2023, online unter: http://www.doi.org/10.26356/ECOC\n- Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit: Checkliste zum Einsatz LLM-basierter Chatbots, 2023, online unter: https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/20231113_Checkliste_LLM_Chatbots_DE.pdf\n- DFG: Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG, 2023, online unter: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf\n- European Commission: Living Guidelines on the Responsible Use of Generative AI in Research, 2024, online unter: https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en\n- European Commission: Successful and timely uptake of Artificial Intelligence in the EU, 2024, online unter: https://scientificadvice.eu/advice/artificial-intelligence-in-science/\n- Europäische Kommission, Generaldirektion Kommunikationsnetze, Inhalte und Technologien, Ethik-Leitlinien für eine vertrauenswürdige KI, Publications Office, 2019, online unter: https://data.europa.eu/doi/10.2759/22710\n- Hochschulforum Digitalisierung: Leitlinie zum Umgang mit generativer KI, 2024, online unter: https://hochschulforumdigitalisierung.de/news/blickpunkt-ki-leitlinien/\n- KI-Guidelines für KMU: Empfehlungen und Anleitungen zum positiven Umgang mit künstlicher Intelligenz, 2024, online unter: https://www.wko.at/oe/digitalisierung/kmu-ki-guidelines.pdf\n- Schürmann, Rosenthal, Dreyer Rechtsanwälte: Die KI-Verordnung kommt: Leitfaden für Unternehmen, 2024, online unter: https://www.srd-rechtsanwaelte.de/ki-verordnung/\n\nFOOTNOTES\n1. https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt, Stand 25.04.2024.\n2. https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-fo-rum-2024-03-20_en, Stand: 26.04.2024.\n3. http://www.doi.org/10.26356/ECOC, Stand: 26.04.2024.\n4. https://op.europa.eu/de/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1, Stand: 26.04.2024.\n5. https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf, Stand: 26.04.2024.\n6. Die Pro-Variante verfügt über die beste Datensicherheit in Form von SSL-Verschlüsselung. Zudem gibt das Unternehmen an, alle Eingaben nach Übersetzung oder Textanpassung umgehend zu löschen. Als Unternehmen mit Sitz in Deutschland erfüllt DeepL zudem die strengen Datenschutzbestimmungen der Europäischen Union in vollem Umfang und ist nach ISO 27001 zertifiziert.\n7. Ab dieser Version kann in den Einstellungen hinterlegt werden, dass die Eingaben nicht für Trainingsdaten genutzt werden.\n8. Das veröffentlichte Firefly-Modell wurde mit Adobe Stock-Bildern, frei lizenzierten Inhalten und Public-Domain-Inhalten trainiert, deren Urheberrechte abgelaufen sind, und dazu entwickelt, Bilder zu erzeugen, die unbedenklich für den kommerziellen Gebrauch verwendbar sind, vgl. Online unter: https://helpx.adobe.com/de/stock/contributor/help/firefly-faq-for-adobe-stock-contributors.html, Stand 26.04.2024.\n\nIMPRESSUM\nLeibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e. V.\nEberswalder Straße 84\n15374 Müncheberg\nT 033432 82200\nF 033432 82223\n\nVorstand\nProf. Dr. Frank Ewert\n(Wissenschaftlicher Direktor)\nMartin Jank\n(Administrativer Direktor)\n\nÖffentlichkeitsarbeit\nHendrik Schneider\npublic.relations@zalf.de\nT 033432 82 242\n\nRedaktion\nHendrik Schneider\n\nLayout, Satz und Infografiken\nHannes Schulze (Nur Mut)\n\nBildnachweise\nBetter Images of AI / CC-BY 4.0\nS. 2, 13: Yasmin Dwiputri & Data Hazards Project\nS. 4: Alexa Steinbrück\nS. 5: Fritzchens Fritz\nS. 6: Rens Dimmendaal & Johann Siemens\nS. 9: Wes Cockx\nS. 10: Alan Warburton\nS. 12: Rick Payne and team\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 33655,
+      "char_end": 34131,
+      "text": "Diese Handreichung hat ein internes Gremium aus ITS, Forschungsdatenmanagement, Arbeitsgruppenleitung mit KI-Bezug, Forschungskoordinator, PR, Legal & Compliance Officer, Datenschutzbeauftragter und administrativer Direktor erarbeitet. Diese stand daraufhin der Belegschaft ZALF-weit vier Wochen zur Kommentierung offen. Anregungen wurden eingearbeitet. Die Handreichung wurde im Anschluss vom Vorstand beschlossen. Die Handreichung wird stetig weiterentwickelt und angepasst.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34131,
+      "char_end": 34144,
+      "text": "\n\n© ZALF 2024",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

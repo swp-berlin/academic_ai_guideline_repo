@@ -1,0 +1,1239 @@
+{
+  "doc_id": "gesellschaft-fur-datenschutz-und-datensicherheit",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Diese Richtlinie stellt eine Musterrichtlinie für den verantwortungsvollen Umgang mit Künstlicher Intelligenz (KI) im Unternehmenskontext dar. Sie soll Unternehmen dabei unterstützen, klare Rahmenbedingungen für die Nutzung von KI-Systemen zu schaffen und dabei rechtliche, ethische und sicherheitsrelevante Aspekte zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Die vorliegende Musterrichtlinie erhebt keinen Anspruch auf Vollständigkeit und muss an die individuellen Gegebenheiten, Strukturen und Anforderungen des jeweiligen Unternehmens angepasst werden. Sie dient als Orientierungshilfe und ersetzt keine rechtliche Beratung.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Ziel ist es, durch präventive Maßnahmen und transparente Prozesse den sicheren, fairen und nachvollziehbaren Einsatz von KI-Anwendungen im betrieblichen Alltag zu gewährleisten.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Diese Richtlinie legt die Grundsätze und Regeln für die Nutzung von KI im Unternehmen fest. Ziel ist es, den verantwortungsvollen Einsatz von KI zu gewährleisten, Risiken zu minimieren und die Einhaltung rechtlicher sowie ethischer Standards zu sichern.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Diese Richtlinie gilt für alle Mitarbeitenden der XY-GmbH / des XY-Konzerns und an allen Betriebsstandorten.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Diese Richtlinie gilt für jede betriebliche Nutzung von KI-Systemen und umfasst neben bereits geprüften und freigegebenen KI-Anwendungen (4.1) auch künftig durch das Unternehmen nach Prüfung freigegebene Systeme.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Ein KI-System ist gemäß Art. 3 Nr. 1 KI-VO ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist und das nach seiner Betriebsaufnahme anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie etwa Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erstellt werden, die physische oder virtuelle Umgebungen beeinflussen können.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Vor Inbetriebnahme eines KI-Systems bedarf es einer Freigabe gemäß des unternehmensinternen Freigabeverfahrens für Software, unter ergänzender Berücksichtigung der für KI-Anwendungen spezifischen rechtlichen Anforderungen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Insbesondere ist zu prüfen, ob\n\n- der Einsatz des KI-Systems gegen die in Art. 5 KI-VO normierten Verbote unzulässiger Praktiken verstößt,\n- eine Einstufung als Hochrisiko-KI-System gemäß Art. 6 ff. KI-VO vorliegt und damit besondere Anforderungen an Entwicklung, Dokumentation, Transparenz, menschliche Aufsicht und Risikomanagement zu erfüllen sind,\n- sich Transparenzpflichten im Sinne des Art. 50 KI-VO ergeben.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die Prüfung eines KI-Systems im Rahmen des unternehmensinternen Freigabeverfahrens erfolgt durch den zuständigen KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger. Die Prüfung ist in enger Abstimmung mit dem Datenschutzbeauftragten sowie unter Einbeziehung der für den geplanten Einsatzbereich verantwortlichen Fachabteilungen vorzunehmen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die abschließende Freigabe eines KI-Systems obliegt ausschließlich der Unternehmensleitung oder einer ausdrücklich durch diese benannten Stelle.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Nur durch die Unternehmensleitung ausdrücklich freigegebene KI-Anwendungen dürfen verwendet werden. Die Nutzung nicht freigegebener Anwendungen ist untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Der gesamte Freigabeprozess ist zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Im Folgenden sind die von der Unternehmensleitung freigegebenen KI-Anwendungen abschließend aufgeführt:\n\n- XY-KI,\n- ...",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Die Nutzung von KI-Anwendungen darf ausschließlich unter Verwendung der dafür angelegten betrieblichen Accounts erfolgen. Eine Nutzung privater Accounts im betrieblichen Kontext ist nicht gestattet.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Bei der Nutzung von freigegebener KI (4.2) sind deren Nutzungsbedingungen und die festgelegte Zweckbestimmung einzuhalten. Falls das Unternehmen ausdrücklich genehmigte Zwecke definiert, sind diese zu befolgen.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Eine zweckentfremdende Nutzung oder eine eigenmächtige wesentliche Änderung der KI-Anwendung ist nicht gestattet.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-generierte Inhalte werden nicht auf Basis von Verständnis oder ethnischer Abwägungen erzeugt, sondern beruhen auf Wahrscheinlichkeit. Daher können die Inhalte ungenau, fehlerhaft oder potenziell diskriminierend sein.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Mitarbeitenden müssen alle KI-generierten Inhalte unter Anwendung der gebotenen Sorgfalt eigenverantwortlich prüfen und anhand ihrer fachlichen Expertise sowie unter Berücksichtigung inhaltlicher, ethischer und anwendungsbezogener Anforderungen bewerten.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Entscheidungen, die gegenüber betroffenen Personen rechtliche Wirkung entfalten oder sie in ähnlicher Weise erheblich beeinträchtigen, dürfen nicht ausschließlich auf einer automatisierten Verarbeitung durch eine KI-Anwendung beruhen. KI-generierte Entscheidungen sind stets einer menschlichen Prüfung zu unterziehen, die den geltenden Sorgfaltsmaßstäben entspricht (4.5).",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "KI-Anwendungen dürfen nicht für rechtswidrige oder ethisch unzulässige Zwecke eingesetzt werden. Insbesondere ist es untersagt, KI zur gezielten Manipulation oder Täuschung von Personen, zur Ausnutzung von Schutzbedürftigkeit oder zur Überwachung ohne hinreichende rechtliche Grundlage zu verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Der Einsatz von KI muss stets im Einklang mit geltendem Recht, den Grundsätzen der Transparenz, Fairness und Nichtdiskriminierung sowie unter Achtung der Menschenwürde erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI-Anwendungen müssen die Lizenzbedingungen eingehalten werden. Die Unternehmensleitung hat durch geeignete technische und organisatorische Maßnahmen sicherzustellen, dass bei der Verwendung von KI-generierten Inhalten alle geltenden Bestimmungen zum Urheberbeziehungsweise Nutzungsrecht, Markenrecht und Persönlichkeitsrecht (insbesondere bei Bildern) eingehalten werden.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Inhalte, die mit Unterstützung von KI erstellt wurden, dürfen nur unter Beachtung der rechtlichen Rahmenbedingungen verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Ergibt die Prüfung im Rahmen des Freigabeverfahrens einer KI-Anwendung, dass eine Kennzeichnungspflicht im Sinne des Art. 50 KI-VO besteht, so sind geeignete technische und organisatorische Maßnahmen zu treffen, um die Einhaltung dieser Verpflichtung sicherzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Umsetzung technischer und organisatorischer Maßnahmen entbindet nicht von der eigenverantwortlichen Überprüfungspflicht der Mitarbeitenden (4.5).",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Insbesondere ist bei der KI-generierten Erzeugung von Audio-, Bild-, Video- oder Textinhalten sicherzustellen, dass die KI-generierten oder -veränderten Inhalte für Dritte eindeutig als solche erkennbar sind.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Alle Mitarbeitenden, die KI-Systeme im Rahmen ihrer beruflichen Tätigkeit einsetzen, sind verpflichtet, an einer vom Unternehmen organisierten Schulung gemäß Art. 4 der KI-Verordnung teilzunehmen. Ziel der Schulung ist die Vermittlung der notwendigen Kompetenzen für den sicheren, verantwortungsvollen und rechtskonformen Umgang mit KI-Anwendungen. Dabei sind die technischen Vorkenntnisse, die Erfahrung, die Ausbildung sowie der Einsatzkontext der Mitarbeitenden und die Zielgruppen der KI-Systeme angemessen zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI-Systemen ist sicherzustellen, dass die im Unternehmen geltenden Vertraulichkeitsanforderungen für personenbezogene Daten sowie Geschäftsgeheimnisse uneingeschränkt gewahrt werden. Vertrauliche oder geschützte Informationen dürfen grundsätzlich nicht in KI-Anwendungen eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Ausnahmen sind nur zulässig, wenn diese ausdrücklich und schriftlich vom Unternehmen genehmigt wurden und die jeweilige KI-Anwendung ein nachweislich angemessenes Schutzniveau gewährleistet.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Personenbezogene Daten dürfen nur verarbeitet werden, wenn eine rechtskonforme datenschutzrechtliche Grundlage vorliegt. Die allgemeinen Datenschutzbestimmungen im Beschäftigungskontext sowie die Vorgaben der DS-GVO sind auch bei der Datenverarbeitung mittels KI uneingeschränkt zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Sofern eine KI-Anwendung durch eingegebene Informationen und generierte Ergebnisse trainiert wird, dürfen personenbezogene Daten grundsätzlich nur nach vorheriger Anonymisierung verwendet werden. Es ist sicherzustellen, dass für die Anonymisierung eine gültige Rechtsgrundlage vorliegt.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Geschäftsgeheimnisse sowie vertrauliche und geschützte Informationen dürfen ausschließlich in klar definierten Ausnahmefällen und nur nach ausdrücklicher Genehmigung für Trainingszwecke eingesetzt werden (5.1).",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI-Anwendungen sind alle im Unternehmen geltenden sicherheits-, datenschutzrechtlichen sowie sonstigen einschlägigen Anweisungen, Richtlinien und Vorgaben verbindlich zu beachten. Dies schließt insbesondere folgende Richtlinien ein:\n\n- ...",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Nutzung von KI in geschäftskritischen Prozessen ist zu dokumentieren. Dies umfasst insbesondere:\n\n- die eingesetzten KI-Anwendungen,\n- die Art der Nutzung und die erzielten Ergebnisse,\n- die Überprüfungsmaßnahmen der Ergebnisse.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die Dokumentation führt der KI-Beauftragte / der Datenschutzbeauftragte / die IT-Abteilung.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die Gesamtverantwortung für den unternehmensweiten Einsatz von KI-Anwendungen liegt nach außen hin beim Unternehmen, vertreten durch die Geschäftsführung.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Verstöße gegen diese Richtlinie können arbeitsrechtliche Konsequenzen bis hin zur Kündigung nach sich ziehen.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Mitarbeitende haften für Schäden, die aus einer missbräuchlichen oder fahrlässigen Nutzung von KI entstehen, im Rahmen der gesetzlichen Bestimmungen.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die Leiter der jeweiligen Fachbereiche, in denen KI-Systeme eingesetzt werden, sind unter Berücksichtigung ihrer erforderlichen KI-Kompetenz dazu verpflichtet, den Einsatz der KI-Systeme regelmäßig zu überwachen und sicherzustellen, dass diese ausschließlich im Rahmen der genehmigten Zwecke und unter Beachtung dieser Richtlinie betrieben werden.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die Überwachung und Bewertung erfolgt in enger Abstimmung mit den zuständigen KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger sowie unter Einbindung des Datenschutzbeauftragten.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Richtlinie wird regelmäßig überprüft und an neue technologische, rechtliche oder organisatorische Anforderungen angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Diese Richtlinie tritt am Datum in Kraft.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Für Rückfragen oder die Genehmigung neuer Anwendungen wenden Sie sich bitte an den KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger / die IT-Abteilung.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "grundsätze für die nutzung von ki",
+      "repaired": true
+    },
+    {
+      "id": 46,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "freigabe",
+      "repaired": true
+    },
+    {
+      "id": 47,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "geprüfte und freigegebene ki-anwendungen",
+      "repaired": true
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "verbot der nutzung privater ki-anwendungen",
+      "repaired": true
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "verantwortung und überprüfung der ergebnisse",
+      "repaired": true
+    },
+    {
+      "id": 50,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "kennzeichnung der von einer ki erstellten inhalte",
+      "repaired": true
+    },
+    {
+      "id": 51,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "personenbezogene daten und geschäftsgeheimnisse",
+      "repaired": true
+    },
+    {
+      "id": 52,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "dokumentation und nachvollziehbarkeit",
+      "repaired": true
+    },
+    {
+      "id": 53,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "regelmäßige überprüfung der richtlinie",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 53,
+    "matched": 51,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 47,
+        "B": "B5",
+        "matched_words": "3/4",
+        "text": "geprüfte und freigegebene ki-anwendungen"
+      },
+      {
+        "id": 48,
+        "B": "B6",
+        "matched_words": "4/5",
+        "text": "verbot der nutzung privater ki-anwendungen"
+      }
+    ],
+    "source_coverage": 0.852,
+    "uncovered_chars": 1725,
+    "uncovered_gaps": 24,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 269,
+        "length": 269,
+        "text": "# gesellschaft für datenschutz und datensicherheit # source: https://www.gdd.de/wpcontent/uploads/2025/06/gdd-musterrichtlinie-ki.pdf # date: 2025-05-30 # category: template # gdd-musterrichtlinie betriebliche richtlinie zum einsatz „künstlicher intelligenz\" # vorwort"
+      },
+      {
+        "char_start": 1049,
+        "char_end": 1076,
+        "length": 27,
+        "text": ". # 1. ziel der richtlinie"
+      },
+      {
+        "char_start": 1328,
+        "char_end": 1351,
+        "length": 23,
+        "text": ". # 2. geltungsbereich"
+      },
+      {
+        "char_start": 1458,
+        "char_end": 1483,
+        "length": 25,
+        "text": ". # 3. anwendungsbereich"
+      },
+      {
+        "char_start": 2137,
+        "char_end": 2144,
+        "length": 7,
+        "text": ". # 4."
+      },
+      {
+        "char_start": 2177,
+        "char_end": 2185,
+        "length": 8,
+        "text": "## 4.1"
+      },
+      {
+        "char_start": 3554,
+        "char_end": 3604,
+        "length": 50,
+        "text": ". ## 4.2 geprüfte und freigegebene ki-anwendungen"
+      },
+      {
+        "char_start": 3713,
+        "char_end": 3768,
+        "length": 55,
+        "text": ",... ## 4.3 verbot der nutzung privater ki-anwendungen"
+      },
+      {
+        "char_start": 3965,
+        "char_end": 3997,
+        "length": 32,
+        "text": ". ## 4.4 zweckgebundene nutzung"
+      },
+      {
+        "char_start": 4320,
+        "char_end": 4329,
+        "length": 9,
+        "text": ". ## 4.5"
+      },
+      {
+        "char_start": 4851,
+        "char_end": 4884,
+        "length": 33,
+        "text": ". ### 4.5.1 entscheidungsfindung"
+      },
+      {
+        "char_start": 5255,
+        "char_end": 5287,
+        "length": 32,
+        "text": ". ### 4.5.2 ethische grundsätze"
+      },
+      {
+        "char_start": 5763,
+        "char_end": 5802,
+        "length": 39,
+        "text": ". ## 4.6 einhaltung von urheberrechten"
+      },
+      {
+        "char_start": 6327,
+        "char_end": 6336,
+        "length": 9,
+        "text": ". ## 4.7"
+      },
+      {
+        "char_start": 7006,
+        "char_end": 7032,
+        "length": 26,
+        "text": ". ## 4.8 schulungspflicht"
+      },
+      {
+        "char_start": 7559,
+        "char_end": 7600,
+        "length": 41,
+        "text": ". # 5. sicherheit und datenschutz ## 5.1"
+      },
+      {
+        "char_start": 8439,
+        "char_end": 8476,
+        "length": 37,
+        "text": ". ## 5.2 training von ki-anwendungen"
+      },
+      {
+        "char_start": 8972,
+        "char_end": 9011,
+        "length": 39,
+        "text": ". ## 5.3 beachtung anderer richtlinien"
+      },
+      {
+        "char_start": 9262,
+        "char_end": 9272,
+        "length": 10,
+        "text": ":... # 6."
+      },
+      {
+        "char_start": 9626,
+        "char_end": 9656,
+        "length": 30,
+        "text": ". # 7. haftung und sanktionen"
+      },
+      {
+        "char_start": 10069,
+        "char_end": 10109,
+        "length": 40,
+        "text": ". # 8. überwachung und sicherer einsatz"
+      },
+      {
+        "char_start": 10678,
+        "char_end": 10685,
+        "length": 7,
+        "text": ". # 9."
+      },
+      {
+        "char_start": 10851,
+        "char_end": 10873,
+        "length": 22,
+        "text": ". # 10. inkrafttreten"
+      },
+      {
+        "char_start": 11109,
+        "char_end": 11964,
+        "length": 855,
+        "text": ". # mitglieder der arbeitsgruppe und autoren anna jenke projektleitung datenschutz, auditorin datenschutz & informationssicherheit, conceptec gmbh, mülheim an der ruhr anne maertens leitung innovationslabor, awo landesverband thüringen, erfurt christian schulz konzerndatenschutz, evonik, essen dirk lage konzerndatenschutz, evonik, essen georg karl bittorf konzern-datenschutzbeauftragter, awo bezirk westliches westfalen, dortmund ilja korzun aldi nord maximilian stegmann konzerndatenschutzbeauftragter dsw21, dortmund mechtild strahler datenschutzbeauftragte, gerhardi kunststofftechnik gmbh petra eul-löh hec harald eul consulting gmbh, brühl radoslaw romanow data protection manager aldi nord sabine link datenschutzbeauftragte der ämter für ausbildungsförderung der studierendenwerke in nrw, des studierendenwerks dortmund und des akafö # footnotes"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 274,
+      "text": "# Gesellschaft für Datenschutz und Datensicherheit\n# Source: https://www.gdd.de/wp-content/uploads/2025/06/GDD-Musterrichtlinie-KI.pdf\n# Date: 2025-05-30\n# Category: template\n\n# GDD-Musterrichtlinie\n\nBetriebliche Richtlinie zum Einsatz „Künstlicher Intelligenz“\n\n# Vorwort\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 274,
+      "char_end": 609,
+      "text": "Diese Richtlinie stellt eine Musterrichtlinie für den verantwortungsvollen Umgang mit Künstlicher Intelligenz (KI) im Unternehmenskontext dar. Sie soll Unternehmen dabei unterstützen, klare Rahmenbedingungen für die Nutzung von KI-Systemen zu schaffen und dabei rechtliche, ethische und sicherheitsrelevante Aspekte zu berücksichtigen.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 611,
+      "char_end": 878,
+      "text": "Die vorliegende Musterrichtlinie erhebt keinen Anspruch auf Vollständigkeit und muss an die individuellen Gegebenheiten, Strukturen und Anforderungen des jeweiligen Unternehmens angepasst werden. Sie dient als Orientierungshilfe und ersetzt keine rechtliche Beratung.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 880,
+      "char_end": 1057,
+      "text": "Ziel ist es, durch präventive Maßnahmen und transparente Prozesse den sicheren, fairen und nachvollziehbaren Einsatz von KI-Anwendungen im betrieblichen Alltag zu gewährleisten.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1057,
+      "char_end": 1085,
+      "text": "\n\n# 1. Ziel der Richtlinie\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1085,
+      "char_end": 1338,
+      "text": "Diese Richtlinie legt die Grundsätze und Regeln für die Nutzung von KI im Unternehmen fest. Ziel ist es, den verantwortungsvollen Einsatz von KI zu gewährleisten, Risiken zu minimieren und die Einhaltung rechtlicher sowie ethischer Standards zu sichern.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1338,
+      "char_end": 1362,
+      "text": "\n\n# 2. Geltungsbereich\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1362,
+      "char_end": 1470,
+      "text": "Diese Richtlinie gilt für alle Mitarbeitenden der XY-GmbH / des XY-Konzerns und an allen Betriebsstandorten.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1470,
+      "char_end": 1496,
+      "text": "\n\n# 3. Anwendungsbereich\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1496,
+      "char_end": 1708,
+      "text": "Diese Richtlinie gilt für jede betriebliche Nutzung von KI-Systemen und umfasst neben bereits geprüften und freigegebenen KI-Anwendungen (4.1) auch künftig durch das Unternehmen nach Prüfung freigegebene Systeme.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1710,
+      "char_end": 2156,
+      "text": "Ein KI-System ist gemäß Art. 3 Nr. 1 KI-VO ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist und das nach seiner Betriebsaufnahme anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie etwa Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erstellt werden, die physische oder virtuelle Umgebungen beeinflussen können.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2156,
+      "char_end": 2163,
+      "text": "\n\n# 4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2163,
+      "char_end": 2196,
+      "text": "Grundsätze für die Nutzung von KI",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2196,
+      "char_end": 2205,
+      "text": "\n\n## 4.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2205,
+      "char_end": 2213,
+      "text": "Freigabe",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2215,
+      "char_end": 2437,
+      "text": "Vor Inbetriebnahme eines KI-Systems bedarf es einer Freigabe gemäß des unternehmensinternen Freigabeverfahrens für Software, unter ergänzender Berücksichtigung der für KI-Anwendungen spezifischen rechtlichen Anforderungen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2438,
+      "char_end": 2853,
+      "text": "Insbesondere ist zu prüfen, ob\n\n- der Einsatz des KI-Systems gegen die in Art. 5 KI-VO normierten Verbote unzulässiger Praktiken verstößt,\n- eine Einstufung als Hochrisiko-KI-System gemäß Art. 6 ff. KI-VO vorliegt und damit besondere Anforderungen an Entwicklung, Dokumentation, Transparenz, menschliche Aufsicht und Risikomanagement zu erfüllen sind,\n- sich Transparenzpflichten im Sinne des Art. 50 KI-VO ergeben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2855,
+      "char_end": 3237,
+      "text": "Die Prüfung eines KI-Systems im Rahmen des unternehmensinternen Freigabeverfahrens erfolgt durch den zuständigen KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger. Die Prüfung ist in enger Abstimmung mit dem Datenschutzbeauftragten sowie unter Einbeziehung der für den geplanten Einsatzbereich verantwortlichen Fachabteilungen vorzunehmen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3239,
+      "char_end": 3383,
+      "text": "Die abschließende Freigabe eines KI-Systems obliegt ausschließlich der Unternehmensleitung oder einer ausdrücklich durch diese benannten Stelle.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3385,
+      "char_end": 3543,
+      "text": "Nur durch die Unternehmensleitung ausdrücklich freigegebene KI-Anwendungen dürfen verwendet werden. Die Nutzung nicht freigegebener Anwendungen ist untersagt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3545,
+      "char_end": 3594,
+      "text": "Der gesamte Freigabeprozess ist zu dokumentieren.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3594,
+      "char_end": 3603,
+      "text": "\n\n## 4.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3603,
+      "char_end": 3643,
+      "text": "Geprüfte und freigegebene KI-Anwendungen",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3645,
+      "char_end": 3764,
+      "text": "Im Folgenden sind die von der Unternehmensleitung freigegebenen KI-Anwendungen abschließend aufgeführt:\n\n- XY-KI,\n- ...",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3764,
+      "char_end": 3773,
+      "text": "\n\n## 4.3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3773,
+      "char_end": 3815,
+      "text": "Verbot der Nutzung privater KI-Anwendungen",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3817,
+      "char_end": 4015,
+      "text": "Die Nutzung von KI-Anwendungen darf ausschließlich unter Verwendung der dafür angelegten betrieblichen Accounts erfolgen. Eine Nutzung privater Accounts im betrieblichen Kontext ist nicht gestattet.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4015,
+      "char_end": 4048,
+      "text": "\n\n## 4.4 Zweckgebundene Nutzung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4048,
+      "char_end": 4258,
+      "text": "Bei der Nutzung von freigegebener KI (4.2) sind deren Nutzungsbedingungen und die festgelegte Zweckbestimmung einzuhalten. Falls das Unternehmen ausdrücklich genehmigte Zwecke definiert, sind diese zu befolgen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4259,
+      "char_end": 4372,
+      "text": "Eine zweckentfremdende Nutzung oder eine eigenmächtige wesentliche Änderung der KI-Anwendung ist nicht gestattet.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4372,
+      "char_end": 4381,
+      "text": "\n\n## 4.5 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4381,
+      "char_end": 4425,
+      "text": "Verantwortung und Überprüfung der Ergebnisse",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4427,
+      "char_end": 4646,
+      "text": "KI-generierte Inhalte werden nicht auf Basis von Verständnis oder ethnischer Abwägungen erzeugt, sondern beruhen auf Wahrscheinlichkeit. Daher können die Inhalte ungenau, fehlerhaft oder potenziell diskriminierend sein.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4648,
+      "char_end": 4906,
+      "text": "Die Mitarbeitenden müssen alle KI-generierten Inhalte unter Anwendung der gebotenen Sorgfalt eigenverantwortlich prüfen und anhand ihrer fachlichen Expertise sowie unter Berücksichtigung inhaltlicher, ethischer und anwendungsbezogener Anforderungen bewerten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4906,
+      "char_end": 4940,
+      "text": "\n\n### 4.5.1 Entscheidungsfindung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4940,
+      "char_end": 5312,
+      "text": "Entscheidungen, die gegenüber betroffenen Personen rechtliche Wirkung entfalten oder sie in ähnlicher Weise erheblich beeinträchtigen, dürfen nicht ausschließlich auf einer automatisierten Verarbeitung durch eine KI-Anwendung beruhen. KI-generierte Entscheidungen sind stets einer menschlichen Prüfung zu unterziehen, die den geltenden Sorgfaltsmaßstäben entspricht (4.5).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5312,
+      "char_end": 5345,
+      "text": "\n\n### 4.5.2 Ethische Grundsätze\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5345,
+      "char_end": 5644,
+      "text": "KI-Anwendungen dürfen nicht für rechtswidrige oder ethisch unzulässige Zwecke eingesetzt werden. Insbesondere ist es untersagt, KI zur gezielten Manipulation oder Täuschung von Personen, zur Ausnutzung von Schutzbedürftigkeit oder zur Überwachung ohne hinreichende rechtliche Grundlage zu verwenden.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5646,
+      "char_end": 5823,
+      "text": "Der Einsatz von KI muss stets im Einklang mit geltendem Recht, den Grundsätzen der Transparenz, Fairness und Nichtdiskriminierung sowie unter Achtung der Menschenwürde erfolgen.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5823,
+      "char_end": 5863,
+      "text": "\n\n## 4.6 Einhaltung von Urheberrechten\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5863,
+      "char_end": 6255,
+      "text": "Bei der Nutzung von KI-Anwendungen müssen die Lizenzbedingungen eingehalten werden. Die Unternehmensleitung hat durch geeignete technische und organisatorische Maßnahmen sicherzustellen, dass bei der Verwendung von KI-generierten Inhalten alle geltenden Bestimmungen zum Urheberbeziehungsweise Nutzungsrecht, Markenrecht und Persönlichkeitsrecht (insbesondere bei Bildern) eingehalten werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6256,
+      "char_end": 6389,
+      "text": "Inhalte, die mit Unterstützung von KI erstellt wurden, dürfen nur unter Beachtung der rechtlichen Rahmenbedingungen verwendet werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6389,
+      "char_end": 6398,
+      "text": "\n\n## 4.7 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6398,
+      "char_end": 6447,
+      "text": "Kennzeichnung der von einer KI erstellten Inhalte",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6449,
+      "char_end": 6716,
+      "text": "Ergibt die Prüfung im Rahmen des Freigabeverfahrens einer KI-Anwendung, dass eine Kennzeichnungspflicht im Sinne des Art. 50 KI-VO besteht, so sind geeignete technische und organisatorische Maßnahmen zu treffen, um die Einhaltung dieser Verpflichtung sicherzustellen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6718,
+      "char_end": 6867,
+      "text": "Die Umsetzung technischer und organisatorischer Maßnahmen entbindet nicht von der eigenverantwortlichen Überprüfungspflicht der Mitarbeitenden (4.5).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6869,
+      "char_end": 7077,
+      "text": "Insbesondere ist bei der KI-generierten Erzeugung von Audio-, Bild-, Video- oder Textinhalten sicherzustellen, dass die KI-generierten oder -veränderten Inhalte für Dritte eindeutig als solche erkennbar sind.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7077,
+      "char_end": 7104,
+      "text": "\n\n## 4.8 Schulungspflicht\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7104,
+      "char_end": 7634,
+      "text": "Alle Mitarbeitenden, die KI-Systeme im Rahmen ihrer beruflichen Tätigkeit einsetzen, sind verpflichtet, an einer vom Unternehmen organisierten Schulung gemäß Art. 4 der KI-Verordnung teilzunehmen. Ziel der Schulung ist die Vermittlung der notwendigen Kompetenzen für den sicheren, verantwortungsvollen und rechtskonformen Umgang mit KI-Anwendungen. Dabei sind die technischen Vorkenntnisse, die Erfahrung, die Ausbildung sowie der Einsatzkontext der Mitarbeitenden und die Zielgruppen der KI-Systeme angemessen zu berücksichtigen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7634,
+      "char_end": 7676,
+      "text": "\n\n# 5. Sicherheit und Datenschutz\n\n## 5.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7676,
+      "char_end": 7723,
+      "text": "Personenbezogene Daten und Geschäftsgeheimnisse",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7725,
+      "char_end": 8034,
+      "text": "Bei der Nutzung von KI-Systemen ist sicherzustellen, dass die im Unternehmen geltenden Vertraulichkeitsanforderungen für personenbezogene Daten sowie Geschäftsgeheimnisse uneingeschränkt gewahrt werden. Vertrauliche oder geschützte Informationen dürfen grundsätzlich nicht in KI-Anwendungen eingegeben werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8036,
+      "char_end": 8226,
+      "text": "Ausnahmen sind nur zulässig, wenn diese ausdrücklich und schriftlich vom Unternehmen genehmigt wurden und die jeweilige KI-Anwendung ein nachweislich angemessenes Schutzniveau gewährleistet.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8228,
+      "char_end": 8519,
+      "text": "Personenbezogene Daten dürfen nur verarbeitet werden, wenn eine rechtskonforme datenschutzrechtliche Grundlage vorliegt. Die allgemeinen Datenschutzbestimmungen im Beschäftigungskontext sowie die Vorgaben der DS-GVO sind auch bei der Datenverarbeitung mittels KI uneingeschränkt zu beachten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8519,
+      "char_end": 8557,
+      "text": "\n\n## 5.2 Training von KI-Anwendungen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8557,
+      "char_end": 8843,
+      "text": "Sofern eine KI-Anwendung durch eingegebene Informationen und generierte Ergebnisse trainiert wird, dürfen personenbezogene Daten grundsätzlich nur nach vorheriger Anonymisierung verwendet werden. Es ist sicherzustellen, dass für die Anonymisierung eine gültige Rechtsgrundlage vorliegt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8845,
+      "char_end": 9055,
+      "text": "Geschäftsgeheimnisse sowie vertrauliche und geschützte Informationen dürfen ausschließlich in klar definierten Ausnahmefällen und nur nach ausdrücklicher Genehmigung für Trainingszwecke eingesetzt werden (5.1).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9055,
+      "char_end": 9095,
+      "text": "\n\n## 5.3 Beachtung anderer Richtlinien\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9095,
+      "char_end": 9354,
+      "text": "Bei der Nutzung von KI-Anwendungen sind alle im Unternehmen geltenden sicherheits-, datenschutzrechtlichen sowie sonstigen einschlägigen Anweisungen, Richtlinien und Vorgaben verbindlich zu beachten. Dies schließt insbesondere folgende Richtlinien ein:\n\n- ...",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9354,
+      "char_end": 9361,
+      "text": "\n\n# 6. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9361,
+      "char_end": 9398,
+      "text": "Dokumentation und Nachvollziehbarkeit",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9400,
+      "char_end": 9632,
+      "text": "Die Nutzung von KI in geschäftskritischen Prozessen ist zu dokumentieren. Dies umfasst insbesondere:\n\n- die eingesetzten KI-Anwendungen,\n- die Art der Nutzung und die erzielten Ergebnisse,\n- die Überprüfungsmaßnahmen der Ergebnisse.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9634,
+      "char_end": 9725,
+      "text": "Die Dokumentation führt der KI-Beauftragte / der Datenschutzbeauftragte / die IT-Abteilung.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9725,
+      "char_end": 9756,
+      "text": "\n\n# 7. Haftung und Sanktionen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9756,
+      "char_end": 9910,
+      "text": "Die Gesamtverantwortung für den unternehmensweiten Einsatz von KI-Anwendungen liegt nach außen hin beim Unternehmen, vertreten durch die Geschäftsführung.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9912,
+      "char_end": 10021,
+      "text": "Verstöße gegen diese Richtlinie können arbeitsrechtliche Konsequenzen bis hin zur Kündigung nach sich ziehen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10023,
+      "char_end": 10172,
+      "text": "Mitarbeitende haften für Schäden, die aus einer missbräuchlichen oder fahrlässigen Nutzung von KI entstehen, im Rahmen der gesetzlichen Bestimmungen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10172,
+      "char_end": 10213,
+      "text": "\n\n# 8. Überwachung und sicherer Einsatz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10213,
+      "char_end": 10560,
+      "text": "Die Leiter der jeweiligen Fachbereiche, in denen KI-Systeme eingesetzt werden, sind unter Berücksichtigung ihrer erforderlichen KI-Kompetenz dazu verpflichtet, den Einsatz der KI-Systeme regelmäßig zu überwachen und sicherzustellen, dass diese ausschließlich im Rahmen der genehmigten Zwecke und unter Beachtung dieser Richtlinie betrieben werden.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10562,
+      "char_end": 10784,
+      "text": "Die Überwachung und Bewertung erfolgt in enger Abstimmung mit den zuständigen KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger sowie unter Einbindung des Datenschutzbeauftragten.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10784,
+      "char_end": 10791,
+      "text": "\n\n# 9. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10791,
+      "char_end": 10829,
+      "text": "Regelmäßige Überprüfung der Richtlinie",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10831,
+      "char_end": 10959,
+      "text": "Diese Richtlinie wird regelmäßig überprüft und an neue technologische, rechtliche oder organisatorische Anforderungen angepasst.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10959,
+      "char_end": 10982,
+      "text": "\n\n# 10. Inkrafttreten\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10982,
+      "char_end": 11023,
+      "text": "Diese Richtlinie tritt am Datum in Kraft.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11025,
+      "char_end": 11220,
+      "text": "Für Rückfragen oder die Genehmigung neuer Anwendungen wenden Sie sich bitte an den KI-Compliance-Beauftragten / KI-Experten / andere entsprechend qualifizierte Funktionsträger / die IT-Abteilung.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11220,
+      "char_end": 12087,
+      "text": "\n\n# Mitglieder der Arbeitsgruppe und Autoren\n\nAnna Jenke\nProjektleitung Datenschutz, Auditorin Datenschutz & Informationssicherheit, CONCEPTEC GmbH, Mülheim an der Ruhr\n\nAnne Maertens\nLeitung Innovationslabor, AWO Landesverband Thüringen, Erfurt\n\nChristian Schulz\nKonzerndatenschutz, evonik, Essen\n\nDirk Lage\nKonzerndatenschutz, evonik, Essen\n\nGeorg Karl Bittorf\nKonzern-Datenschutzbeauftragter, AWO Bezirk Westliches Westfalen, Dortmund\n\nIlja Korzun\nAldi Nord\n\nMaximilian Stegmann\nKonzerndatenschutzbeauftragter DSW21, Dortmund\n\nMechtild Strahler\nDatenschutzbeauftragte, Gerhardi Kunststofftechnik GmbH\n\nPetra Eul-Löh\nHEC Harald Eul Consulting GmbH, Brühl\n\nRadoslaw Romanow\nData Protection Manager Aldi Nord\n\nSabine Link\nDatenschutzbeauftragte der Ämter für Ausbildungsförderung der Studierendenwerke in NRW, des Studierendenwerks Dortmund und des AKAFÖ\n\n# FOOTNOTES",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

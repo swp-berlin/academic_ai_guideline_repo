@@ -1,0 +1,1176 @@
+{
+  "doc_id": "haw-hamburg",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Das Präsidium der Hochschule für Angewandte Wissenschaften Hamburg hat am 6. August 2025 nach § 79 Absatz 2 Nr. 12 des Hamburgischen Hochschulgesetzes (HmbHG) vom 18. Juli 2001 (HmbGVBl. S. 171), zuletzt geändert am 19. Februar 2025 (HmbGVBl. S. 241), den KI-Leitfaden der Hochschule für Angewandte Wissenschaften Hamburg in der nachstehenden Fassung beschlossen.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Dieser Leitfaden dient als verbindlicher Orientierungsrahmen für alle Beschäftigten. Er soll klare Richtlinien und Unterstützung im Umgang mit Künstlicher Intelligenz (KI) bieten, um sicherzustellen, dass verantwortungsvoll und effizient mit dieser Technologie gearbeitet wird. Durch die Einhaltung dieser Vorgaben tragen Sie dazu bei, die Vorteile der KI optimal zu nutzen und mögliche Risiken zu minimieren.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Unter Künstlicher Intelligenz wird heute die Anwendung von Verfahren maschinellen Lernens verstanden. Dies beinhaltet die automatische Erkennung von Mustern, (z.B. Empfehlungssysteme und Vorhersagemodelle) und, unter der Bezeichnung „Generative KI“ das Verwenden von Large Language Modells (LLMs) zum Verstehen und Erzeugen von natürlicher Sprache, (z.B. Chatbots). Zur Generativen KI zählen auch Programme der Bilderkennung und -generierung. Der Begriff KI hat seine Bedeutung mehrfach verändert und kann sich je nach Stand der technischen Entwicklung weiter verändern.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Auf Grund der leichten Zugänglichkeit und der zu vermutenden Veränderung des wissenschaftlichen Arbeitsprozesses durch LLM gestützte KI-Generatoren ist es in besonderem Maße geboten den Umgang mit diesen Systemen innerhalb der Hochschule rechtlich einzuordnen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Mitarbeitende, Lehrende und Studierende können den Copilot Chat als Teil von Microsoft365 nutzen, wenn sie mit ihrer HAW-Kennung angemeldet sind. Andere Dienste funktionieren ganz ohne Anmeldung (z. B. die Chatbox-Arena) bzw. laufen lokal auf dem eigenen Rechner (GPT4All und OLLAMA).",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Der Copilot Chat ist mit dem von ChatGPT vergleichbar und kann auch eine limitierte Anzahl an Bildern erstellen.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Arena, GPT4All und OLLAMA erlauben ohne Anmeldung den Vergleich verschiedener Sprachmodelle, u.a. GPT 4 oder GPT 4.o. Bitte beachten Sie hier die Nutzungsbedingungen, die u.a. eine Verarbeitung persönlicher und sensibler Daten ausschließen sollten.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Bei GPT4All und OLLAMA können lokal verschiedene Modelle installiert werden, die in geringerer Geschwindigkeit, aber ohne Internetverbindung genutzt werden können.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Weitere KI-Tools können zur Nutzung freigegeben werden. Dies setzt voraus, dass die KI-Tools geprüft und dokumentiert werden, um zu bewerten, welche Verpflichtungen nach der KI-Verordnung zu ergreifen sind. Weitere freigegebene Tools werden in einer Anlage zu diesem Leitfaden aufgeführt.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI sind Regelungen zur Vertraulichkeit (z. B. Amtsgeheimnis) zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "**Geben Sie keine vertraulichen Daten in KI-Systeme ein, insbesondere nicht, bei geplanter Veröffentlichung der Inhalte.**",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Werden personenbezogene Daten bei der Verwendung einer KI genutzt werden, gilt zudem das Datenschutzrecht. Dieses betrifft die\n- Eingabe personenbezogener Daten in die KI\n- KI generierten Ergebnisse\n- Anmeldedaten der die KI nutzenden Personen\n- Metadaten (z. B. IP-Adresse)",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Eingabe personenbezogener Daten in ein KI-System sind durch die HAW Hamburg alle mit der Verarbeitung personenbezogener Daten einhergehenden datenschutzrechtlichen Verpflichtungen einzuhalten.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Sobald personenbezogene oder personenbeziehbare Daten in ein öffentlich zugängliches KI-System eingegeben werden, hat die HAW Hamburg – zumindest bei den meisten aktuell eingesetzten KI-Systemen – keine weitere Kontrolle über deren Verwendung. D. h. die HAW Hamburg kann die ihr obliegenden datenschutzrechtlichen Verpflichtungen nicht erfüllen. Die Daten liegen auf dem Server des Anbieters des KI-Systems und unterliegen dessen Kontrolle. Viele Anbieter von KI-Systemen räumen sich – je nach konkretem Lizenzmodell – das Recht ein, die eingegebenen Daten auch zu eigenen Zwecken weiterzuverwenden. Beispielsweise geben einige Anbieter an, dass die Eingaben für das Training des KI-Systems weiterverwendet werden. Dies kann dazu führen, dass anderen Nutzer*innen Informationen aus diesen Eingaben weitergegeben werden könnten. Dies wäre datenschutzrechtlich unzulässig. Die gleichen Probleme gelten selbstverständlich auch bei der Eingabe vertraulicher Daten.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "**Stellen Sie sicher, dass keine vertraulichen oder nicht-öffentlichen Daten in KI-Systeme eingegeben werden! Soweit es sich bei den einzugebenden Daten nicht um vertrauliche Informationen handelt, müssen sämtliche personenbezogene oder personenbeziehbare Daten entfernt werden!**",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Durch die Nutzung von KI können Rechte Dritter, wie z. B. Urheberrechte verletzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "**D. h., dass beispielsweise die Eingabe urheberrechtlich geschützter Texte oder Bilder in eine KI ohne Zustimmung des*der Rechteinhaber*in unzulässig ist.**",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem kann durch die Eingabe von Informationen in ein KI-Tool die Schutzrechtsfähigkeit beseitigt werden. Ein Beispiel: Voraussetzung, dass eine Erfindung zum Patent angemeldet werden kann, ist, dass die Erfindung neu ist. Dies ist der Fall, wenn diese nicht zum Stand der Technik gehört. Der Stand der Technik umfasst alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der Öffentlichkeit zugänglich gemacht worden sind. Auch Informationen, die Sie selbst veröffentlicht haben, zählen zum Stand der Technik.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Geben Sie keine Inhalte an denen Rechte von anderen bestehen, ohne deren Zustimmung in ein KI-Tool ein!",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Geben Sie keine Informationen in ein KI-Tool ein, die im Hinblick auf eine Schutzrechtsanmeldung, zum Beispiel eine Anmeldung zum Patent, schädlich sein könnte!",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem können Sie sich auch bezüglich der Ausgaben von KI-Systemen nicht sicher sein, ob die entsprechenden Inhalte frei von Rechten Dritter sind. Die eigenen Schöpfungen eines KI-Systems unterliegen keinem besonderen Schutz. Sofern das KI-System aber einen Inhalt generiert, der sich von einem beispielsweise urheberrechtlich geschützten Werk in seinen Trainingsdaten kaum unterscheidet, könnten die Rechte dieses Urhebers dadurch beeinträchtigt werden.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zwar sollen die Anbieter von KI-Systemen dafür Sorge tragen, dass Ausgaben frei von Rechten Dritter sind, dies funktioniert bisher aber nicht in allen Fällen fehlerfrei.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Gerade bei der Erzeugung von Bildern ist daher zu beachten, dass die Eingaben so verfasst werden, dass eine möglichst weitgehende eigene Schöpfung des KI-Systems garantiert wird.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Mit generativer KI erstellte Inhalte, wie Bilder oder Videos müssen als solche gekennzeichnet werden, sofern diese als „Deepfake“ (Art. 3 Nr. 60 KI-VO) zu klassifizieren sind. Um Abgrenzungsschwierigkeiten zu vermeiden, sollten die mit generativer KI erstellten Inhalte grundsätzlich gekennzeichnet werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Dies gilt auch für Texte, es sei denn, es hat eine Überarbeitung stattgefunden.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Besondere Informationen zu Kennzeichnungspflichten für den Bereich Lehre und Prüfungen sind unter HAW-Hamburg: KI in der Lehre abrufbar.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln. Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Daraus ergibt sich für die Beschäftigten der HAW Hamburg folgende Handlungsanleitung:\n- Seien Sie vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter. Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden. Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing. Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen.\n- Befolgen Sie bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI. Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an: security@haw-hamburg.de.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-generierte Ergebnisse sind nicht immer frei von Fehlern und Diskriminierungen.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die von Ihnen generierten Ergebnisse sind daher stets kritisch auf inhaltliche Richtigkeit zu überprüfen. Daneben sind die KI generierten Ergebnisse auf Diskriminierungsfreiheit zu kontrollieren.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Siehe hierzu das HOOU-Lernangebot „KI und Diversität“",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Die Verordnung über künstliche Intelligenz (KI-VO) der Europäischen Union ist am 1. August 2024 in Kraft getreten. Durch diese obliegen der HAW Hamburg verschiedene Pflichten, wie Dokumentations- oder Transparenzpflichten.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "a) Kein Inverkehrbringen, keine Inbetriebnahme und keine Verwendung verbotener KI-Praktiken (Art. 5 KI-VO)\n\nD. h. die Nutzung von KI-Tools mit denen ein nicht tolerierbares Risiko verbunden ist, ist durch die KI-VO untersagt. Zu verbotenen KI-Praktiken gehören beispielsweise die Nutzung manipulativer Techniken, d. h. es dürfen keine Techniken angewendet werden, die Personen zu Entscheidungen verleiten, die diese sonst nicht treffen würden, insbesondere wenn daraus erheblicher Schaden entsteht, die Ausnutzung von Schutzbedürftigkeit etwa aufgrund des Alters, einer Behinderung oder einer bestimmten sozialen oder wirtschaftlichen Situation, soziale Bewertung von Personen oder Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen. Ebenso verboten sind die biometrische Kategorisierung, also eine Ableitung bestimmter Eigenschaften einer Person (z.B. Herkunft oder sexuelle Ausrichtung) auf Grundlage ihrer biometrischen Daten, Datenbanken zur Gesichtserkennung oder Predictive Policing, d. h. die Ermittlung des Risikos der zukünftigen Begehung von Straftaten bei einzelnen Personen.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "b) Besondere Maßnahmen bei Hochrisiko-KI-Systemen (Art. 6, Anlage 1 und 3 der KI-VO)\n\nEin KI-System ist ein Hochrisiko-KI-System, wenn der Einsatz des KI-Systems ein erhebliches Risiko der Beeinträchtigung von Gesundheit, Sicherheit oder einer nachteiligen Auswirkung auf die Grundrechte einzelner Personen birgt.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Hochrisiko-KI-Systeme sind beispielsweise:\n- Systeme, die biometrische Daten verarbeiten\n- Systeme, die in der kritischen Infrastruktur zum Einsatz kommen\n- Systeme im Bildungsbereich: Die Bewertung von Studierenden oder die Bewertung der Zulassung zu Bildungseinrichtungen/Bildungsangeboten oder die Überwachung und Erkennung von verbotenem Prüfungsverhalten (Bsp.: Proctoring und KI-Detektoren)\n- Systeme im Beschäftigungsverhältnis: Bewerberauswahl, Entscheidungen über Bedingungen des Arbeitsverhältnisses, Zuweisung von Aufgaben aufgrund individuellen Verhaltens oder persönlichen Merkmalen, Beobachtung und Bewertung von Leistungen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Wenn ein KI-System als Sicherheitsbauteil in einem Produkt dient, kann dieses ebenfalls als Hochrisiko-KI-System eingestuft werden, wenn für das Produkt eine der in Anhang I der KI-VO genannten Harmonisierungsvorschriften gilt. Wenn Hochrisiko-KI-Systeme angeboten oder betrieben werden, hat die HAW Hamburg besondere Maßnahmen zu ergreifen. Dabei handelt es sich insbesondere um\n- Risikomanagementmaßnahmen (u.a. auch eine menschliche Aufsicht)\n- Dokumentationspflichten,\n- Informationspflichten",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "c) Transparenzpflichten\n\nWenn KI-Systeme über bestimmte Funktionen verfügen, können künftig Transparenzpflichten entstehen – z. B. bei der Veränderung von Bildern oder der Interaktion mit Nutzer*innen",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "d) Schulungspflichten (Art. 4 KI-VO)\n\nNutzer*innen von KI-Systemen müssen über eine geeignete KI-Kompetenz verfügen. Dabei ist insbesondere von Bedeutung, dass ein Grundverständnis für KI vermittelt wird, die mit der Nutzung des KI-Systems einhergehenden Risiken bekannt sind und somit ein sachkundiger Einsatz von KI-Systemen gewährleistet werden kann. Um dies zu gewährleisten, stellt die HAW Hamburg neben diesem Leitfaden auch die unter „E. Machen Sie sich KI-fit“ genannten Angebote zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Für den Bereich generative KI im Lehren, Lernen und Prüfen beachten Sie bitte auch die Hinweise unter „HAW-Hamburg: KI in der Lehre“.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Die KI-VO gilt nach Art. 4 Abs. 6 nicht „für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden“.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Des Weiteren gilt die KI-VO nach Art. 4 Abs. 8 nicht „für Forschungs-, Test- und Entwicklungstätigkeiten zu KI-Systemen oder KI-Modellen, bevor diese in Verkehr gebracht oder in Betrieb genommen werden.“ Hierbei ist allerdings zu beachten, dass „Tests unter Realbedingungen“ nicht unter diesen Ausschluss fallen.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Auch, soweit die KI-Verordnung keine Anwendung findet, sind die im Abschnitt A. III. 1) bis 5) enthaltenen Grundsätze zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Sobald ein entwickeltes KI-System oder KI-Modell in den Verkehr gebracht werden soll (also auf dem Unionsmarkt bereitgestellt werden soll) oder außerhalb des alleinigen Forschungszwecks in Betrieb genommen werden soll, gilt die KI-VO mit all ihren auferlegten Verpflichtungen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Sofern ein KI-Modell oder KI-System unter einer freien und quelloffenen Lizenz (Open Source KI) bereitgestellt werden soll, gibt es ebenfalls kleinere Erleichterungen bzgl. der Verpflichtungen aus der KI-VO. Diese hängen allerdings von der Risikoeinstufung des KI-Modells oder KI-Systems ab und sollten daher individuell geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Neben den allgemeinen Vorgaben für Beschaffungen sind bei der Beschaffung von KI-Tools und die Vorgaben der KI-Verordnung zu beachten (siehe oben unter A., III., 6)).",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es ist darauf hinzuweisen, dass das Angebot an KI-Tools vielfältig ist und oftmals auch nach ausgiebiger Prüfung unklar sein kann, wie die mit der KI verarbeiteten Daten weiterverwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Vor einer Beschaffung der KI sind die Risiken, die mit einer Verwendung verbunden sind zu überprüfen und zu dokumentieren. Bei etwaigen Unsicherheiten ist auf die Beschaffung der KI zu verzichten. Beratend stehen Ihnen die Kolleg*innen vom Multimediakontor Hamburg (MMKH) (für datenschutzrechtliche Fragestellungen) und der Informationssicherheitsbeauftragte zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Keine Beschaffung von Hochrisiko-KI-Systemen ohne Freigabe durch das Präsidium der HAW Hamburg.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Nutzung von KI-Tools, insb. durch große Modelle, führt zu einem (hohen) Energieverbrauch und CO₂-Emissionen. Daher gilt im Sinne der Nachhaltigkeitsbestrebungen der HAW Hamburg unabhängig vom Anwendungsbereich in Forschung, Lehre und Verwaltung stets die Prämisse einer ressourcenbewussten Verwendung.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Das MMKH stellt für Beschäftigte der Hamburger Hochschulen ein vielfältiges und anwendungsorientiertes Schulungsangebot sowie Veranstaltungen zu generativer KI zur Verfügung. Informieren Sie sich zu\n- anstehenden KI-Schulungen: https://www.mmkh.de/schulungen/kuenstliche-intelligenz\n- KI-Veranstaltungen im Kontext einer länderübergreifenden Zusammenarbeit: https://www.mmkh.de/digitale-lehre/netzwerk-landesinitiativen\n- Schulungsaufzeichnungen: https://www.mmkh.de/schulungen/aufzeichnungen",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Zudem bietet die Hamburg Open Online University (HOOU) Veranstaltungen, Kurse und insbesondere Selbstlernangebote zu KI an. Informieren Sie sich zur Anwendung generativer KI unter: https://learn.hoou.de/blocks/course_overview_page/courses.php (Menüauswahl: Künstliche Intelligenz)",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Weitere Angebote speziell für den Bereich KI in der Lehre finden Sie unter HAW-Hamburg: KI in der Lehre. Auch werden verschiedene Formate wie z.B. KI in der Mittagspause, die KI-Werkstatt und KI-Workshops angeboten, um Sie KI-fit zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "was ist künstliche intelligenz (ki)?",
+      "repaired": true
+    },
+    {
+      "id": 54,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "diese ki-tools können an der haw hamburg genutzt werden",
+      "repaired": true
+    },
+    {
+      "id": 55,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "bei der nutzung von ki zu beachten ### 1) geheimnisschutz und datenschutz",
+      "repaired": true
+    },
+    {
+      "id": 56,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "kritischer umgang mit ki generierten ergebnissen",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 56,
+    "matched": 55,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 54,
+        "B": "B5",
+        "matched_words": "1/9",
+        "text": "diese ki-tools können an der haw hamburg genutzt werden"
+      }
+    ],
+    "source_coverage": 0.951,
+    "uncovered_chars": 735,
+    "uncovered_gaps": 17,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 325,
+        "length": 325,
+        "text": "# haw hamburg # source: https://www.hawhamburg.de/fileadmin/asd/zll-ki/leitfaden_zum_einsatz_von_ki-tools_in_lehre__froschung_und_verwaltung_2025_07_28.pdf # date: 2025-07-25 # category: guideline # leitfaden zum einsatz von ki-tools in lehre, forschung und verwaltung an der hochschule für angewandte wissenschaften hamburg"
+      },
+      {
+        "char_start": 682,
+        "char_end": 702,
+        "length": 20,
+        "text": ". ## a. allgemeines"
+      },
+      {
+        "char_start": 1110,
+        "char_end": 1118,
+        "length": 8,
+        "text": ". ## i."
+      },
+      {
+        "char_start": 1985,
+        "char_end": 2050,
+        "length": 65,
+        "text": ". ## ii. diese ki-tools können an der haw hamburg genutzt werden"
+      },
+      {
+        "char_start": 3148,
+        "char_end": 3158,
+        "length": 10,
+        "text": ". ## iii."
+      },
+      {
+        "char_start": 4876,
+        "char_end": 4889,
+        "length": 13,
+        "text": ". das heißt:"
+      },
+      {
+        "char_start": 5168,
+        "char_end": 5206,
+        "length": 38,
+        "text": "### 2) umgang mit geistigem eigentum"
+      },
+      {
+        "char_start": 6073,
+        "char_end": 6086,
+        "length": 13,
+        "text": ". das heißt:"
+      },
+      {
+        "char_start": 7152,
+        "char_end": 7172,
+        "length": 20,
+        "text": ". ## 3) transparenz"
+      },
+      {
+        "char_start": 7689,
+        "char_end": 7711,
+        "length": 22,
+        "text": ". ## 4) it-sicherheit"
+      },
+      {
+        "char_start": 8836,
+        "char_end": 8844,
+        "length": 8,
+        "text": ". ## 5)"
+      },
+      {
+        "char_start": 9224,
+        "char_end": 9258,
+        "length": 34,
+        "text": "## 6) vorgaben der ki-verordnung"
+      },
+      {
+        "char_start": 12704,
+        "char_end": 12740,
+        "length": 36,
+        "text": ". ## b. nutzung von ki in der lehre"
+      },
+      {
+        "char_start": 12872,
+        "char_end": 12900,
+        "length": 28,
+        "text": ". ## c. ki in der forschung"
+      },
+      {
+        "char_start": 14178,
+        "char_end": 14213,
+        "length": 35,
+        "text": ". ## d. beschaffungen von ki-tools"
+      },
+      {
+        "char_start": 15042,
+        "char_end": 15070,
+        "length": 28,
+        "text": ". ## e. ressourcenverbrauch"
+      },
+      {
+        "char_start": 15374,
+        "char_end": 15406,
+        "length": 32,
+        "text": ". ## f. machen sie sich ki-fit!"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 328,
+      "text": "# HAW Hamburg\n# Source: https://www.haw-hamburg.de/fileadmin/ASD/ZLL-KI/Leitfaden_zum_Einsatz_von_KI-Tools_in_Lehre__Froschung_und_Verwaltung_2025_07_28.pdf\n# Date: 2025-07-25\n# Category: guideline\n\n# Leitfaden zum Einsatz von KI-Tools in Lehre, Forschung und Verwaltung an der Hochschule für Angewandte Wissenschaften Hamburg\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 328,
+      "char_end": 691,
+      "text": "Das Präsidium der Hochschule für Angewandte Wissenschaften Hamburg hat am 6. August 2025 nach § 79 Absatz 2 Nr. 12 des Hamburgischen Hochschulgesetzes (HmbHG) vom 18. Juli 2001 (HmbGVBl. S. 171), zuletzt geändert am 19. Februar 2025 (HmbGVBl. S. 241), den KI-Leitfaden der Hochschule für Angewandte Wissenschaften Hamburg in der nachstehenden Fassung beschlossen.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 691,
+      "char_end": 712,
+      "text": "\n\n## A. Allgemeines\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 712,
+      "char_end": 1121,
+      "text": "Dieser Leitfaden dient als verbindlicher Orientierungsrahmen für alle Beschäftigten. Er soll klare Richtlinien und Unterstützung im Umgang mit Künstlicher Intelligenz (KI) bieten, um sicherzustellen, dass verantwortungsvoll und effizient mit dieser Technologie gearbeitet wird. Durch die Einhaltung dieser Vorgaben tragen Sie dazu bei, die Vorteile der KI optimal zu nutzen und mögliche Risiken zu minimieren.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1121,
+      "char_end": 1129,
+      "text": "\n\n## I. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1129,
+      "char_end": 1165,
+      "text": "Was ist Künstliche Intelligenz (KI)?",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1167,
+      "char_end": 1737,
+      "text": "Unter Künstlicher Intelligenz wird heute die Anwendung von Verfahren maschinellen Lernens verstanden. Dies beinhaltet die automatische Erkennung von Mustern, (z.B. Empfehlungssysteme und Vorhersagemodelle) und, unter der Bezeichnung „Generative KI“ das Verwenden von Large Language Modells (LLMs) zum Verstehen und Erzeugen von natürlicher Sprache, (z.B. Chatbots). Zur Generativen KI zählen auch Programme der Bilderkennung und -generierung. Der Begriff KI hat seine Bedeutung mehrfach verändert und kann sich je nach Stand der technischen Entwicklung weiter verändern.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1739,
+      "char_end": 1999,
+      "text": "Auf Grund der leichten Zugänglichkeit und der zu vermutenden Veränderung des wissenschaftlichen Arbeitsprozesses durch LLM gestützte KI-Generatoren ist es in besonderem Maße geboten den Umgang mit diesen Systemen innerhalb der Hochschule rechtlich einzuordnen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1999,
+      "char_end": 2008,
+      "text": "\n\n## II. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2008,
+      "char_end": 2063,
+      "text": "Diese KI-Tools können an der HAW Hamburg genutzt werden",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2065,
+      "char_end": 2349,
+      "text": "Mitarbeitende, Lehrende und Studierende können den Copilot Chat als Teil von Microsoft365 nutzen, wenn sie mit ihrer HAW-Kennung angemeldet sind. Andere Dienste funktionieren ganz ohne Anmeldung (z. B. die Chatbox-Arena) bzw. laufen lokal auf dem eigenen Rechner (GPT4All und OLLAMA).",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2351,
+      "char_end": 2463,
+      "text": "Der Copilot Chat ist mit dem von ChatGPT vergleichbar und kann auch eine limitierte Anzahl an Bildern erstellen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2465,
+      "char_end": 2713,
+      "text": "Arena, GPT4All und OLLAMA erlauben ohne Anmeldung den Vergleich verschiedener Sprachmodelle, u.a. GPT 4 oder GPT 4.o. Bitte beachten Sie hier die Nutzungsbedingungen, die u.a. eine Verarbeitung persönlicher und sensibler Daten ausschließen sollten.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2715,
+      "char_end": 2878,
+      "text": "Bei GPT4All und OLLAMA können lokal verschiedene Modelle installiert werden, die in geringerer Geschwindigkeit, aber ohne Internetverbindung genutzt werden können.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2880,
+      "char_end": 3168,
+      "text": "Weitere KI-Tools können zur Nutzung freigegeben werden. Dies setzt voraus, dass die KI-Tools geprüft und dokumentiert werden, um zu bewerten, welche Verpflichtungen nach der KI-Verordnung zu ergreifen sind. Weitere freigegebene Tools werden in einer Anlage zu diesem Leitfaden aufgeführt.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3168,
+      "char_end": 3178,
+      "text": "\n\n## III. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3178,
+      "char_end": 3252,
+      "text": "Bei der Nutzung von KI zu beachten\n\n### 1) Geheimnisschutz und Datenschutz",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3254,
+      "char_end": 3347,
+      "text": "Bei der Nutzung von KI sind Regelungen zur Vertraulichkeit (z. B. Amtsgeheimnis) zu beachten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3349,
+      "char_end": 3471,
+      "text": "**Geben Sie keine vertraulichen Daten in KI-Systeme ein, insbesondere nicht, bei geplanter Veröffentlichung der Inhalte.**",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3473,
+      "char_end": 3748,
+      "text": "Werden personenbezogene Daten bei der Verwendung einer KI genutzt werden, gilt zudem das Datenschutzrecht. Dieses betrifft die\n\n- Eingabe personenbezogener Daten in die KI\n- KI generierten Ergebnisse\n- Anmeldedaten der die KI nutzenden Personen\n- Metadaten (z. B. IP-Adresse)",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3750,
+      "char_end": 3950,
+      "text": "Bei der Eingabe personenbezogener Daten in ein KI-System sind durch die HAW Hamburg alle mit der Verarbeitung personenbezogener Daten einhergehenden datenschutzrechtlichen Verpflichtungen einzuhalten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3952,
+      "char_end": 4912,
+      "text": "Sobald personenbezogene oder personenbeziehbare Daten in ein öffentlich zugängliches KI-System eingegeben werden, hat die HAW Hamburg – zumindest bei den meisten aktuell eingesetzten KI-Systemen – keine weitere Kontrolle über deren Verwendung. D. h. die HAW Hamburg kann die ihr obliegenden datenschutzrechtlichen Verpflichtungen nicht erfüllen. Die Daten liegen auf dem Server des Anbieters des KI-Systems und unterliegen dessen Kontrolle. Viele Anbieter von KI-Systemen räumen sich – je nach konkretem Lizenzmodell – das Recht ein, die eingegebenen Daten auch zu eigenen Zwecken weiterzuverwenden. Beispielsweise geben einige Anbieter an, dass die Eingaben für das Training des KI-Systems weiterverwendet werden. Dies kann dazu führen, dass anderen Nutzer*innen Informationen aus diesen Eingaben weitergegeben werden könnten. Dies wäre datenschutzrechtlich unzulässig. Die gleichen Probleme gelten selbstverständlich auch bei der Eingabe vertraulicher Daten.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4912,
+      "char_end": 4926,
+      "text": "\n\nDas heißt:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4926,
+      "char_end": 5206,
+      "text": "**Stellen Sie sicher, dass keine vertraulichen oder nicht-öffentlichen Daten in KI-Systeme eingegeben werden! Soweit es sich bei den einzugebenden Daten nicht um vertrauliche Informationen handelt, müssen sämtliche personenbezogene oder personenbeziehbare Daten entfernt werden!**",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5206,
+      "char_end": 5246,
+      "text": "\n\n### 2) Umgang mit geistigem Eigentum\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5246,
+      "char_end": 5334,
+      "text": "Durch die Nutzung von KI können Rechte Dritter, wie z. B. Urheberrechte verletzt werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5336,
+      "char_end": 5493,
+      "text": "**D. h., dass beispielsweise die Eingabe urheberrechtlich geschützter Texte oder Bilder in eine KI ohne Zustimmung des*der Rechteinhaber*in unzulässig ist.**",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5495,
+      "char_end": 6116,
+      "text": "Zudem kann durch die Eingabe von Informationen in ein KI-Tool die Schutzrechtsfähigkeit beseitigt werden. Ein Beispiel: Voraussetzung, dass eine Erfindung zum Patent angemeldet werden kann, ist, dass die Erfindung neu ist. Dies ist der Fall, wenn diese nicht zum Stand der Technik gehört. Der Stand der Technik umfasst alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der Öffentlichkeit zugänglich gemacht worden sind. Auch Informationen, die Sie selbst veröffentlicht haben, zählen zum Stand der Technik.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6116,
+      "char_end": 6130,
+      "text": "\n\nDas heißt:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6130,
+      "char_end": 6233,
+      "text": "Geben Sie keine Inhalte an denen Rechte von anderen bestehen, ohne deren Zustimmung in ein KI-Tool ein!",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6235,
+      "char_end": 6395,
+      "text": "Geben Sie keine Informationen in ein KI-Tool ein, die im Hinblick auf eine Schutzrechtsanmeldung, zum Beispiel eine Anmeldung zum Patent, schädlich sein könnte!",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6397,
+      "char_end": 6850,
+      "text": "Zudem können Sie sich auch bezüglich der Ausgaben von KI-Systemen nicht sicher sein, ob die entsprechenden Inhalte frei von Rechten Dritter sind. Die eigenen Schöpfungen eines KI-Systems unterliegen keinem besonderen Schutz. Sofern das KI-System aber einen Inhalt generiert, der sich von einem beispielsweise urheberrechtlich geschützten Werk in seinen Trainingsdaten kaum unterscheidet, könnten die Rechte dieses Urhebers dadurch beeinträchtigt werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6852,
+      "char_end": 7021,
+      "text": "Zwar sollen die Anbieter von KI-Systemen dafür Sorge tragen, dass Ausgaben frei von Rechten Dritter sind, dies funktioniert bisher aber nicht in allen Fällen fehlerfrei.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7023,
+      "char_end": 7201,
+      "text": "Gerade bei der Erzeugung von Bildern ist daher zu beachten, dass die Eingaben so verfasst werden, dass eine möglichst weitgehende eigene Schöpfung des KI-Systems garantiert wird.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7201,
+      "char_end": 7222,
+      "text": "\n\n## 3) Transparenz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7222,
+      "char_end": 7528,
+      "text": "Mit generativer KI erstellte Inhalte, wie Bilder oder Videos müssen als solche gekennzeichnet werden, sofern diese als „Deepfake“ (Art. 3 Nr. 60 KI-VO) zu klassifizieren sind. Um Abgrenzungsschwierigkeiten zu vermeiden, sollten die mit generativer KI erstellten Inhalte grundsätzlich gekennzeichnet werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7530,
+      "char_end": 7609,
+      "text": "Dies gilt auch für Texte, es sei denn, es hat eine Überarbeitung stattgefunden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7611,
+      "char_end": 7747,
+      "text": "Besondere Informationen zu Kennzeichnungspflichten für den Bereich Lehre und Prüfungen sind unter HAW-Hamburg: KI in der Lehre abrufbar.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7747,
+      "char_end": 7770,
+      "text": "\n\n## 4) IT-Sicherheit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7770,
+      "char_end": 7973,
+      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln. Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7975,
+      "char_end": 8905,
+      "text": "Daraus ergibt sich für die Beschäftigten der HAW Hamburg folgende Handlungsanleitung:\n\n- Seien Sie vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter. Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden. Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing. Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen.\n- Befolgen Sie bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI. Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an: security@haw-hamburg.de.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8905,
+      "char_end": 8913,
+      "text": "\n\n## 5) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8913,
+      "char_end": 8961,
+      "text": "Kritischer Umgang mit KI generierten Ergebnissen",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8963,
+      "char_end": 9044,
+      "text": "KI-generierte Ergebnisse sind nicht immer frei von Fehlern und Diskriminierungen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9046,
+      "char_end": 9241,
+      "text": "Die von Ihnen generierten Ergebnisse sind daher stets kritisch auf inhaltliche Richtigkeit zu überprüfen. Daneben sind die KI generierten Ergebnisse auf Diskriminierungsfreiheit zu kontrollieren.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9243,
+      "char_end": 9296,
+      "text": "Siehe hierzu das HOOU-Lernangebot „KI und Diversität“",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9296,
+      "char_end": 9332,
+      "text": "\n\n## 6) Vorgaben der KI-Verordnung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9332,
+      "char_end": 9554,
+      "text": "Die Verordnung über künstliche Intelligenz (KI-VO) der Europäischen Union ist am 1. August 2024 in Kraft getreten. Durch diese obliegen der HAW Hamburg verschiedene Pflichten, wie Dokumentations- oder Transparenzpflichten.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9556,
+      "char_end": 10654,
+      "text": "a) Kein Inverkehrbringen, keine Inbetriebnahme und keine Verwendung verbotener KI-Praktiken (Art. 5 KI-VO)\n\nD. h. die Nutzung von KI-Tools mit denen ein nicht tolerierbares Risiko verbunden ist, ist durch die KI-VO untersagt. Zu verbotenen KI-Praktiken gehören beispielsweise die Nutzung manipulativer Techniken, d. h. es dürfen keine Techniken angewendet werden, die Personen zu Entscheidungen verleiten, die diese sonst nicht treffen würden, insbesondere wenn daraus erheblicher Schaden entsteht, die Ausnutzung von Schutzbedürftigkeit etwa aufgrund des Alters, einer Behinderung oder einer bestimmten sozialen oder wirtschaftlichen Situation, soziale Bewertung von Personen oder Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen. Ebenso verboten sind die biometrische Kategorisierung, also eine Ableitung bestimmter Eigenschaften einer Person (z.B. Herkunft oder sexuelle Ausrichtung) auf Grundlage ihrer biometrischen Daten, Datenbanken zur Gesichtserkennung oder Predictive Policing, d. h. die Ermittlung des Risikos der zukünftigen Begehung von Straftaten bei einzelnen Personen.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10656,
+      "char_end": 10969,
+      "text": "b) Besondere Maßnahmen bei Hochrisiko-KI-Systemen (Art. 6, Anlage 1 und 3 der KI-VO)\n\nEin KI-System ist ein Hochrisiko-KI-System, wenn der Einsatz des KI-Systems ein erhebliches Risiko der Beeinträchtigung von Gesundheit, Sicherheit oder einer nachteiligen Auswirkung auf die Grundrechte einzelner Personen birgt.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10971,
+      "char_end": 11610,
+      "text": "Hochrisiko-KI-Systeme sind beispielsweise:\n\n- Systeme, die biometrische Daten verarbeiten\n- Systeme, die in der kritischen Infrastruktur zum Einsatz kommen\n- Systeme im Bildungsbereich: Die Bewertung von Studierenden oder die Bewertung der Zulassung zu Bildungseinrichtungen/Bildungsangeboten oder die Überwachung und Erkennung von verbotenem Prüfungsverhalten (Bsp.: Proctoring und KI-Detektoren)\n- Systeme im Beschäftigungsverhältnis: Bewerberauswahl, Entscheidungen über Bedingungen des Arbeitsverhältnisses, Zuweisung von Aufgaben aufgrund individuellen Verhaltens oder persönlichen Merkmalen, Beobachtung und Bewertung von Leistungen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11612,
+      "char_end": 12109,
+      "text": "Wenn ein KI-System als Sicherheitsbauteil in einem Produkt dient, kann dieses ebenfalls als Hochrisiko-KI-System eingestuft werden, wenn für das Produkt eine der in Anhang I der KI-VO genannten Harmonisierungsvorschriften gilt. Wenn Hochrisiko-KI-Systeme angeboten oder betrieben werden, hat die HAW Hamburg besondere Maßnahmen zu ergreifen. Dabei handelt es sich insbesondere um\n\n- Risikomanagementmaßnahmen (u.a. auch eine menschliche Aufsicht)\n- Dokumentationspflichten,\n- Informationspflichten",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12111,
+      "char_end": 12311,
+      "text": "c) Transparenzpflichten\n\nWenn KI-Systeme über bestimmte Funktionen verfügen, können künftig Transparenzpflichten entstehen – z. B. bei der Veränderung von Bildern oder der Interaktion mit Nutzer*innen",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12313,
+      "char_end": 12815,
+      "text": "d) Schulungspflichten (Art. 4 KI-VO)\n\nNutzer*innen von KI-Systemen müssen über eine geeignete KI-Kompetenz verfügen. Dabei ist insbesondere von Bedeutung, dass ein Grundverständnis für KI vermittelt wird, die mit der Nutzung des KI-Systems einhergehenden Risiken bekannt sind und somit ein sachkundiger Einsatz von KI-Systemen gewährleistet werden kann. Um dies zu gewährleisten, stellt die HAW Hamburg neben diesem Leitfaden auch die unter „E. Machen Sie sich KI-fit“ genannten Angebote zur Verfügung.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12815,
+      "char_end": 12852,
+      "text": "\n\n## B. Nutzung von KI in der Lehre\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12852,
+      "char_end": 12985,
+      "text": "Für den Bereich generative KI im Lehren, Lernen und Prüfen beachten Sie bitte auch die Hinweise unter „HAW-Hamburg: KI in der Lehre“.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12985,
+      "char_end": 13014,
+      "text": "\n\n## C. KI in der Forschung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13014,
+      "char_end": 13245,
+      "text": "Die KI-VO gilt nach Art. 4 Abs. 6 nicht „für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden“.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13247,
+      "char_end": 13559,
+      "text": "Des Weiteren gilt die KI-VO nach Art. 4 Abs. 8 nicht „für Forschungs-, Test- und Entwicklungstätigkeiten zu KI-Systemen oder KI-Modellen, bevor diese in Verkehr gebracht oder in Betrieb genommen werden.“ Hierbei ist allerdings zu beachten, dass „Tests unter Realbedingungen“ nicht unter diesen Ausschluss fallen.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13561,
+      "char_end": 13691,
+      "text": "Auch, soweit die KI-Verordnung keine Anwendung findet, sind die im Abschnitt A. III. 1) bis 5) enthaltenen Grundsätze zu beachten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13693,
+      "char_end": 13969,
+      "text": "Sobald ein entwickeltes KI-System oder KI-Modell in den Verkehr gebracht werden soll (also auf dem Unionsmarkt bereitgestellt werden soll) oder außerhalb des alleinigen Forschungszwecks in Betrieb genommen werden soll, gilt die KI-VO mit all ihren auferlegten Verpflichtungen.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13971,
+      "char_end": 14307,
+      "text": "Sofern ein KI-Modell oder KI-System unter einer freien und quelloffenen Lizenz (Open Source KI) bereitgestellt werden soll, gibt es ebenfalls kleinere Erleichterungen bzgl. der Verpflichtungen aus der KI-VO. Diese hängen allerdings von der Risikoeinstufung des KI-Modells oder KI-Systems ab und sollten daher individuell geprüft werden.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14307,
+      "char_end": 14343,
+      "text": "\n\n## D. Beschaffungen von KI-Tools\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14343,
+      "char_end": 14509,
+      "text": "Neben den allgemeinen Vorgaben für Beschaffungen sind bei der Beschaffung von KI-Tools und die Vorgaben der KI-Verordnung zu beachten (siehe oben unter A., III., 6)).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14511,
+      "char_end": 14704,
+      "text": "Es ist darauf hinzuweisen, dass das Angebot an KI-Tools vielfältig ist und oftmals auch nach ausgiebiger Prüfung unklar sein kann, wie die mit der KI verarbeiteten Daten weiterverwendet werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14706,
+      "char_end": 15079,
+      "text": "Vor einer Beschaffung der KI sind die Risiken, die mit einer Verwendung verbunden sind zu überprüfen und zu dokumentieren. Bei etwaigen Unsicherheiten ist auf die Beschaffung der KI zu verzichten. Beratend stehen Ihnen die Kolleg*innen vom Multimediakontor Hamburg (MMKH) (für datenschutzrechtliche Fragestellungen) und der Informationssicherheitsbeauftragte zur Verfügung.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15081,
+      "char_end": 15176,
+      "text": "Keine Beschaffung von Hochrisiko-KI-Systemen ohne Freigabe durch das Präsidium der HAW Hamburg.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15176,
+      "char_end": 15205,
+      "text": "\n\n## E. Ressourcenverbrauch\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15205,
+      "char_end": 15510,
+      "text": "Die Nutzung von KI-Tools, insb. durch große Modelle, führt zu einem (hohen) Energieverbrauch und CO₂-Emissionen. Daher gilt im Sinne der Nachhaltigkeitsbestrebungen der HAW Hamburg unabhängig vom Anwendungsbereich in Forschung, Lehre und Verwaltung stets die Prämisse einer ressourcenbewussten Verwendung.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15510,
+      "char_end": 15543,
+      "text": "\n\n## F. Machen Sie sich KI-fit!\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15543,
+      "char_end": 16036,
+      "text": "Das MMKH stellt für Beschäftigte der Hamburger Hochschulen ein vielfältiges und anwendungsorientiertes Schulungsangebot sowie Veranstaltungen zu generativer KI zur Verfügung. Informieren Sie sich zu\n\n- anstehenden KI-Schulungen: https://www.mmkh.de/schulungen/kuenstliche-intelligenz\n- KI-Veranstaltungen im Kontext einer länderübergreifenden Zusammenarbeit: https://www.mmkh.de/digitale-lehre/netzwerk-landesinitiativen\n- Schulungsaufzeichnungen: https://www.mmkh.de/schulungen/aufzeichnungen",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16038,
+      "char_end": 16318,
+      "text": "Zudem bietet die Hamburg Open Online University (HOOU) Veranstaltungen, Kurse und insbesondere Selbstlernangebote zu KI an. Informieren Sie sich zur Anwendung generativer KI unter: https://learn.hoou.de/blocks/course_overview_page/courses.php (Menüauswahl: Künstliche Intelligenz)",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16320,
+      "char_end": 16560,
+      "text": "Weitere Angebote speziell für den Bereich KI in der Lehre finden Sie unter HAW-Hamburg: KI in der Lehre. Auch werden verschiedene Formate wie z.B. KI in der Mittagspause, die KI-Werkstatt und KI-Workshops angeboten, um Sie KI-fit zu machen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 52,
+      "match_type": "exact"
+    }
+  ]
+}

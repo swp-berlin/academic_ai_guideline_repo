@@ -1,0 +1,1218 @@
+{
+  "doc_id": "universitat-koln",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Präambel\n(1) Die Entwicklung und der Einsatz von IT-Systemen unter Nutzung Künstlicher Intelligenz („KI“) birgt erhebliches Potential für die Steigerung der Effizienz der Universität zu Köln und die Vereinfachung der von unseren Mitarbeiter*innen zu erfüllenden Aufgaben. Die Nutzung solcher KI-Lösungen wird künftig nicht mehr wegzudenken und unerlässlich sein, um im akademischen Wettbewerb zu bestehen."
+    },
+    {
+      "id": 2,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "(2) Gleichzeitig ist der Einsatz von KI-Anwendungen mit Gefahren und Herausforderungen für unsere dienstlichen und Forschungsgeheimnisse und die personenbezogenen Daten unserer Mitarbeiter*innen, Studierenden sowie Dritter verbunden. Auch müssen urheberrechtliche Risiken und die gesetzlichen Vorgaben der KI-Verordnung der Europäischen Union ((EU) 2024/1689, im Folgenden „KI-VO“) beachtet werden. Der Einsatz von KI-Anwendungen ist insoweit für die Universität zu Köln, u. U. aber auch für jede*n einzelne*n Mitarbeiter*in, mit Haftungs- und Bußgeldrisiken verbunden."
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "(3) Diese Richtlinie zum Einsatz von Künstlicher Intelligenz (KI) bei der Universität zu Köln (im Folgenden „Richtlinie“) und die in ihr beschriebenen Maßnahmen sollen sicherstellen, dass wir, die Universität zu Köln (im Folgenden „Universität“), KI-Anwendungen stets verantwortungsvoll, rechtskonform und so einsetzen, dass weder unsere eigenen noch die uns anvertrauten dienstlichen und Forschungsgeheimnisse sowie personenbezogene Daten Unbefugten offengelegt werden."
+    },
+    {
+      "id": 4,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "§ 1\nGegenstand und Anwendungsbereich dieser Richtlinie\n(1) Diese Richtlinie ist eine verbindliche interne Richtlinie der Universität und regelt Pflichten und Zuständigkeiten der Mitarbeiter*innen der Universität zu Köln bei der Nutzung von KI-Anwendungen zu dienstlichen Zwecken der Universität. Sie setzt die Vorgaben des geltenden nationalen und europäischen Rechts um. Zuwiderhandlungen gegen diese Richtlinie können arbeits- bzw. dienstrechtliche Sanktionen nach sich ziehen und u. U., etwa im Falle des Verstoßes gegen datenschutzrechtliche Vorschriften oder solche der KI-VO, bußgeldbewehrt oder strafbar sein."
+    },
+    {
+      "id": 5,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(2) Diese Richtlinie beruht auf den einschlägigen Bestimmungen des HG sowie den geltenden europäischen und nationalen Rechtsvorschriften, insbesondere der KI-VO, der Datenschutzgrundverordnung (DSGVO), dem Datenschutzgesetz Nordrhein-Westfalen (DSG NRW) und dem Produkthaftungsrecht. Die Verarbeitung personenbezogener Daten im Rahmen dieser Richtlinie erfolgt auf Grundlage von Art. 6 Abs. 1 lit. e DSGVO (Wahrnehmung öffentlicher Aufgaben) i. V. m. dem HG."
+    },
+    {
+      "id": 6,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "(3) Der Begriff „KI-Anwendung“ meint in dieser Richtlinie in gleicher Weise sowohl KI-Systeme gem. Art. 3 Nr. 1 KI-VO als auch KI-Modelle i. S. d. KI-VO (einschließlich KI-Modelle mit allgemeinem Verwendungszweck gem. Art. 3 Nr. 63 KI-VO)."
+    },
+    {
+      "id": 7,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(4) Diese Richtlinie findet Anwendung auf alle Beschäftigten der Universität und auf die Personen, die für die Universität in Forschung und Lehre tätig sind, ohne Beschäftigte der Universität zu sein. All diese werden in dieser Richtlinie gemeinsam als Nutzende bezeichnet."
+    },
+    {
+      "id": 8,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(5) Die Richtlinie findet unabhängig davon Anwendung, ob die Tätigkeit für die Universität in Betriebsstätten von der Hochschule oder außerhalb dieser Betriebsstätten (z. B. im Homeoffice oder Mobile Office) ausgeübt wird."
+    },
+    {
+      "id": 9,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(6) Die Richtlinie gilt für Universitätsbeschäftigte in der Medizinischen Fakultät nur, soweit diese KI-Anwendungen nutzen, die von der Universität zu Köln bereitgestellt werden oder soweit sie KI-Anwendungen gemäß § 10 nutzen."
+    },
+    {
+      "id": 10,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(7) Die Richtlinie gilt nicht für den Einsatz von KI-Anwendungen, die nach Art. 2 Abs. 6 KI-VO für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden. Dessen ungeachtet sind in der Forschung die allgemeinen Vorgaben des Datenschutzrechts, des Geheimnisschutzes sowie einschlägige Ethikstandards weiterhin strikt einzuhalten. Darüber hinaus wird das Verhältnis von KI-Einsatz und Forschung unter dem Aspekt der wissenschaftlichen Redlichkeit maßgeblich von der DFG untersucht und dargestellt; die jeweils aktuellen DFG-Leitlinien hierzu sind zu beachten."
+    },
+    {
+      "id": 11,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(8) Die Richtlinie gilt nicht für Studierende; es sei denn, dass sie bei der Universität beschäftigt sind, z. B. als Studentische Hilfskräfte (SHK). Dessen ungeachtet gelten für sie die Grundsätze des Prüfungsrechts auch für den KI-Einsatz im Rahmen von Prüfungen; weitergehende Informationen geben die Prüfenden bekannt."
+    },
+    {
+      "id": 12,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "(9) Die Rechte der Personalräte bleiben von dieser Richtlinie unberührt. Ergänzend zur Richtlinie gelten die Dienstvereinbarungen zur künstlichen Intelligenz."
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "(10) Bei Einsatz, Entwicklung und Bereitstellung von KI-Anwendungen gilt die EU-Produkthaftungsrichtlinie (EU (2024/2853)) und das nationale Produkthaftungsrecht. Alle Verantwortlichen stellen sicher, dass KI-Anwendungen insbesondere regelmäßig dokumentiert, auf Fehlerfreiheit geprüft und relevante Risiken hinsichtlich der Haftung für Schäden, Datenverluste und Diskriminierung adressiert werden. Bei jedem KI-basierten Output ist eine dem Risiko angemessene menschliche Überprüfung gemäß Punkt 2.7 des Anhangs durchzuführen."
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "§ 2\nAllgemeine Grundsätze des Einsatzes von KI-Anwendungen (Schutzziele)\nKI-Anwendungen sind stets so einzusetzen, dass die folgenden Grundsätze (sog. Schutzziele) eingehalten werden. Dies betrifft sowohl die Nutzung von KI-Anwendung (Dritter Abschnitt) als auch die Genehmigung von KI-Anwendung (Vierter Abschnitt)."
+    },
+    {
+      "id": 15,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "1. Informationssicherheit: Es gilt die Informationssicherheitsrichtlinie."
+    },
+    {
+      "id": 16,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2. Datenschutz: Wenn bei der Nutzung von KI-Anwendungen personenbezogene Daten verarbeitet werden, muss dies unter Beachtung des anwendbaren Datenschutzrechts erfolgen. In den Regelungen dieser Richtlinie ist dies berücksichtigt."
+    },
+    {
+      "id": 17,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "3. Fairness: Beim Einsatz von KI-Anwendungen sind Risiken in Bezug auf Diskriminierung oder Ungleichbehandlung natürlicher Personen zu minimieren."
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "4. Autonomie, Kontrolle und Menschliche Letztverantwortung\na) Wenn KI-Anwendungen autonom agieren können und dadurch etwa Risiken für geschützte Rechtsgüter entstehen (z. B. finanzieller Schaden, Sachbeschädigung, Körperverletzung), dann müssen Eingriffsmöglichkeiten in den Betrieb der KI-Anwendung existieren, die eine angemessene Kontrolle ermöglichen. Entscheidungen mit Rechtswirkung durch eine KI-Anwendung dürfen nicht ohne menschliche Kontrolle erfolgen.\nb) Für jede KI-gestützte Anwendung ist eine namentlich benannte Rolle mit menschlicher Letztverantwortung festzulegen. Die Benennung der Person und Dokumentation der Aufgaben erfolgt durch das KI-Office im Rahmen des Freigabeverfahrens. Letztüberprüfung bedeutet eine dem Risiko angemessene, wirksame Aufsicht ohne generelle Pflicht zur dauernden Vorabfreigabe.\nc) Die Art der Kontrolle des Einsatzes von KI-Anwendungen muss dem Risiko der KI-Anwendung angemessen sein."
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "5. Transparenz: KI-Anwendungen müssen für die Betroffenen in der Interaktion als solche erkennbar bleiben. Betroffene müssen über die Verwendung ihrer personenbezogenen Daten bei der Nutzung der KI-Anwendung informiert werden, z. B. beim Training von KI-Modellen und bei der Speicherung von Chatverläufen. Die Verarbeitung personenbezogener Daten muss nachvollziehbar und prüfbar sein, um der datenschutzrechtlichen Rechenschaftspflicht zu genügen."
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "6. Verlässlichkeit: Die Eignung einer KI-Anwendung für ihren beabsichtigten Zweck muss innerhalb tolerierbarer Fehlergrenzen geprüft und sichergestellt werden. Es sind Maßnahmen zu ergreifen, um Fehlausgaben (z. B. Halluzinieren oder Konfabulieren) zu minimieren. KI-Anwendungen müssen vor Manipulation geschützt sein."
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "7. Sicherheit: KI-Anwendungen unterliegen sämtlichen Anforderungen der IT-Sicherheit. Deren Ziel ist es, ungewollte technische Störungen oder Fehlfunktionen ebenso wirksam zu verhindern („Safety“) wie unbefugte Zugriffe oder Manipulationen („Security“). Die Schutzziele der sog. CIA-Triade (Vertraulichkeit, Integrität und Verfügbarkeit) sind dabei zu gewährleisten."
+    },
+    {
+      "id": 22,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "8. Legalität: KI-Anwendungen sind auch jenseits des Anwendungsbereichs des Datenschutzrechts, der KI-VO und der Anforderungen an die Informationssicherheit so einzusetzen, dass die Universität keinen Ansprüchen Dritter aufgrund von Rechtsverletzungen (z. B. Urheberrecht, Geheimnisschutz) ausgesetzt wird, oder Diskriminierung bzw. unzulässige Benachteiligung (Allgemeines Gleichbehandlungsgesetz - AGG) erfolgt."
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "§ 3\nGovernance-Akteure\n(1) Das Rektorat ist das oberste Entscheidungsgremium für alle strategischen und grundlegenden Fragen des KI-Einsatzes an der Universität. Es erlässt die vorliegende Richtlinie und kann die operative Verantwortung und Entscheidungsbefugnis an nachgeordnete Gremien und Einheiten delegieren."
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(2) Das CIO-Board gemäß § 2a der Richtlinie des Rektorats über die Kommissionen und Beiräte des Rektorats ist das strategische Steuerungsgremium für IT-bezogene und KI-relevante Entscheidungen. Es stimmt sich mit den Fakultäten und weiteren universitären Vertretungen ab und erarbeitet Entscheidungsvorlagen für das Rektorat, insbesondere zur Einführung, Ablösung oder Priorisierung zentraler KI-Anwendungen. Soweit nicht zusätzliche Finanzmittel außerhalb der bestehenden Haushaltsplanungen erforderlich sind, fällt die Entscheidung über die Einführung oder Ablösung zentraler und dezentraler KI-Anwendungen in die Kompetenz des CIO-Boards, in den übrigen Fällen entscheidet das Rektorat."
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(3) Das KI-Office ist die zentrale operative Einheit für die tagesaktuellen Entscheidungen im Zusammenhang mit der Zulassung, Nutzung und Überwachung von KI-Anwendungen. Das KI-Office prüft Einzelfälle, pflegt die Whitelist freigegebener KI-Anwendungen, erstellt Handreichungen und unterstützt die Fakultäten bei der Umsetzung dieser Richtlinie. Das KI-Office ist dem ITCC zugeordnet."
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(4) Die fachverantwortliche Person ist die Person, die die inhaltliche und technische Verantwortung für ein spezifisches KI-Verfahren oder ein konkretes KI-Projekt trägt. Sie trägt die operative Letztverantwortung für den Einsatz der spezifischen KI-Anwendung, die innerhalb des eigenen Projekts oder der eigenen Organisationseinheit entwickelt oder genutzt wird."
+    },
+    {
+      "id": 27,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "§ 4\nGovernance-Prinzipien\nDie Bereitstellung und die Nutzung von KI-Anwendungen folgen in dieser Richtlinie folgenden Prinzipien:"
+    },
+    {
+      "id": 28,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "1. KI-Anwendungen dürfen nur\na) nach vorheriger Genehmigung und nach der Maßgabe dieser Genehmigung (§ 5) zu dienstlichen Zwecken eingesetzt und\nb) gemäß den Nutzungsregelungen für KI-Anwendungen (Dritter Abschnitt) genutzt\nwerden. Die Nutzung der KI-Anwendungen der Universität, einschließlich aller lizenzierten Dienste und selbstentwickelter Anwendungen, zu privaten oder nicht-dienstlichen Zwecken ist grundsätzlich untersagt."
+    },
+    {
+      "id": 29,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2. Die genehmigten KI-Anwendungen und die wesentlichen Genehmigungsmaßgaben werden in einer Positivliste (Whitelist, § 5) geführt."
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "3. Abweichend von Nr. 1 Satz 1 Buchst. a dürfen im Internet verfügbare, browsergestützte KI-Anwendungen, bei denen die Universität weder Betreiber noch Anbieter i. S. d. KI-VO ist, nach Maßgabe des § 10 genutzt werden."
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "4. KI-Anwendungen, die den verbotenen KI-Praktiken nach Art. 5 der KI-VO unterfallen (z. B. Social Scoring, manipulativ täuschende KI) dürfen weder genehmigt noch genutzt werden."
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 5\nGenehmigungsverfahren, Whitelist\n(1) Die Genehmigung des Einsatzes von KI-Anwendungen erfolgt durch Aufnahme auf eine Whitelist. Dabei werden auch, soweit erforderlich, Vorgaben zum erlaubten Nutzungszweck, zum erlaubten Umfang, zur Art der Nutzung sowie zum zur Nutzung berechtigten Personenkreis gemacht."
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(2) Die Aufnahme auf die Whitelist kann auf folgende Arten erfolgen:\n1. Genehmigung durch das CIO-Board für besondere Anwendungen.\n2. Genehmigung durch das KI-Office für einfach gelagerte Fälle.\nDie Einzelheiten zur Zuständigkeit und den Genehmigungsvoraussetzungen ergeben sich aus der Anlage."
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(3) Die Whitelist wird vom KI-Office geführt. Das KI-Office ist angewiesen, die Aktualität der Whitelist durch regelmäßige Überprüfungen sicherzustellen."
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "(4) Das Rektorat ist jederzeit berechtigt, die Genehmigungen zu widerrufen oder einzuschränken."
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "§ 6\nKI-Kompetenz\n(1) Das KI-Office und die fachverantwortliche Person sind angewiesen, durch angemessene Maßnahmen sicherzustellen, dass die Nutzenden in einem risikoangemessenen Maß über Kenntnisse im Umgang mit KI-Anwendungen und ihren Risiken verfügen."
+    },
+    {
+      "id": 37,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "(2) Bei der Einführung oder der Erweiterung von KI-Anwendungen werden die Nutzenden von den Führungskräften im Vorfeld über die Art des KI-Einsatzes sowie über die entsprechenden Maßnahmen nach Absatz 1 informiert. Es gehört zu den Pflichten einer jeden Führungskraft, den Weiterbildungsbedarf der Mitarbeiterinnen und Mitarbeiter tätigkeitsbezogen zu ermitteln und entsprechende Schulungen zu ermöglichen. Die Mitarbeiterinnen und Mitarbeiter machen ihrerseits ihren Weiterbildungsbedarf bei ihren Führungskräften geltend. Die Teilnahme an den Schulungsmaßnahmen erfolgt in Anrechnung auf die Arbeitszeit."
+    },
+    {
+      "id": 38,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 7\nAllgemeine Vorgaben für die Nutzung von KI-Anwendungen\n(1) Die Nutzenden dürfen – vorbehaltlich des § 10 – nur die in der Whitelist geführten genehmigten KI-Anwendungen nutzen; dabei sind die Maßgaben der Genehmigung zu beachten. Die Nutzenden von KI-Anwendungen haben dabei die in den §§ 7 - 10 dargelegten Grundsätze zu beachten, sofern im Rahmen der Genehmigung der KI-Anwendung keine anderslautenden Vorgaben gemacht werden."
+    },
+    {
+      "id": 39,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "(2) KI-Anwendungen dürfen nur bestimmungsgemäß genutzt werden. Es ist verboten die KI-Anwendung zu manipulieren oder deren Schutzmechanismen zu umgehen."
+    },
+    {
+      "id": 40,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "(3) Die per Whitelist freigegebenen KI-Anwendungen dürfen nur für dienstliche Zwecke genutzt werden. Die Nutzenden sind verpflichtet – vorbehaltlich des § 10 –, zu dienstlichen Zwecken immer ausschließlich die von der Universität oder die anderweitig in dienstlichem Zusammenhang zu diesem Zweck bereitgestellten Zugänge und Benutzerkonten zu verwenden."
+    },
+    {
+      "id": 41,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 8\nVorgaben für Input-Daten\nFür die Eingabe von Daten in KI-Anwendungen (Input-Daten) gilt:\n\n1. Sensible Daten (personenbezogene Daten, dienstlich vertrauliche Informationen, Geschäfts- und Betriebsgeheimnisse von Vertrags- oder Kooperations- oder Geschäftspartnern sowie Forschungsgeheimnisse) ist für die Bereiche Lehre und Verwaltung ausschließlich in den Self-Hosted- oder Private-Cloud-Umgebungen der Universität zulässig."
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "2. Die Verarbeitung solcher Daten in Public-Cloud-SaaS/API-Diensten (Drittanbieter) ist grundsätzlich untersagt. Ausnahmen bedürfen einer höchsten Rechtfertigung und der ausdrücklichen Genehmigung des CIO-Boards."
+    },
+    {
+      "id": 43,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "3. Im Bereich der Forschung kann die Nutzung ausnahmsweise breiter erfolgen, sofern alle geltenden Datenschutz- und Ethikauflagen (z. B. Ethikvotum, Auftragsverarbeitungsvertrag) nachweislich eingehalten werden."
+    },
+    {
+      "id": 44,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "4. Sofern nach der Maßgabe der Genehmigung der KI-Anwendung die Eingabe sensibler Daten erlaubt ist, dürfen Nutzende nur solche Daten zu solchen Zwecken eingeben, zu deren Verarbeitung sie auch im Übrigen befugt sind."
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "5. Nr. 1 und 2 gelten nicht für die Eingabe eigener personenbezogener Daten der Nutzenden, soweit dies für die Anmeldung oder für die Nutzung der KI-Anwendung erforderlich ist."
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "6. Bei der Eingabe von Inhalten, an denen Schutzrechte bestehen, etwa nach dem Urheber- oder Markenrecht, ist sicherzustellen, dass die Verwendung in KI-Anwendungen rechtskonform erfolgt."
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 9\nVorgaben für Output-Daten\nFür die Verwendung von durch KI-Anwendungen generierte Inhalte (Output-Daten) gilt:\n\n1. Nutzende sind verpflichtet, die von ihnen mittels einer KI-Anwendung generierten Inhalte auf ihre Richtigkeit, Validität und Vollständigkeit zu überprüfen, bevor diese veröffentlicht, weitergeben oder in dienstlichen Prozessen verwendet werden. Dabei müssen sie die Inhalte auch dahingehend überprüfen, ob diese nicht aufgrund von Halluzinationen zu falschen Fakten oder von systematisch verzerrten Ergebnissen (sog. Bias) zu Diskriminierung oder Ungleichbehandlung von Betroffenen führen."
+    },
+    {
+      "id": 48,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2. KI-generierte Inhalte, insbesondere Texte, Bilder, Audios oder Videos, sind als solche zu kennzeichnen."
+    },
+    {
+      "id": 49,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "3. Output-Daten, die auf urheberrechtlich geschützten Inhalten Dritter beruhen, sind als solche zu kennzeichnen."
+    },
+    {
+      "id": 50,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "4. Deep Fakes dürfen nur auf ausdrückliche dokumentierte Genehmigung der Führungskraft verwendet werden. Bei der weiteren Verwendung von Deep Fakes muss offengelegt werden, dass die Inhalte künstlich erzeugt oder manipuliert wurden."
+    },
+    {
+      "id": 51,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "§ 10\nAusnahmeregelung für KI-Anwendungen mit geringem Risiko außerhalb der Whitelist\nAbweichend von § 7 Abs. 1 dürfen im Internet verfügbare, browser-gestützte KI-Anwendungen, bei denen die Universität weder Betreiber noch Anbieter i. S. d. KI-VO ist, auch wenn sie nicht in der Whitelist geführt sind, unter folgenden Voraussetzungen genutzt werden:\n\n1. es werden keinerlei sensible Daten i. S. d. § 8 Nr. 1 (personenbezogene Daten - mit Ausnahme von Metadaten -, dienstlich vertrauliche Informationen, Geschäfts- und Betriebsgeheimnisse von Vertrags- oder Kooperations- oder Geschäftspartnern sowie Forschungsgeheimnisse) oder urheberrechtlich geschützte Inhalte in die Anwendungen eingegeben; § 8 Nr. 5 gilt entsprechend; Nutzende sind zur Einhaltung dieser Pflicht weisungsgebunden, und"
+    },
+    {
+      "id": 52,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2. die Allgemeinen Vorgaben für die Nutzung von KI-Anwendungen des § 7 Abs. 2 und 3 und Vorgaben für Output-Daten des § 9 und zur Transparenz des § 12 werden eingehalten."
+    },
+    {
+      "id": 53,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 11\nDatenverarbeitung zum Zwecke des Trainings von KI-Modellen\n(1) Die für das KI-Training fachverantwortliche Person hat sicherzustellen, dass die Verwendung von Daten als Trainingsdaten rechtskonform erfolgt, insbesondere unter Beachtung datenschutz- und urheberrechtlicher Bestimmungen. Soweit möglich, sind synthetische Trainingsdaten zu nutzen und die Verwendung der Daten muss so datensparsam wie möglich erfolgen. Die Verarbeitungen personenbezogener Daten (einschließlich ihrer Pseudonymisierung oder Anonymisierung) im Rahmen oder in Vorbereitung des Trainings dürfen nur erfolgen, wenn sich die Universität hierfür auf eine datenschutzrechtliche Rechtsgrundlage stützen kann."
+    },
+    {
+      "id": 54,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "(2) Die für das KI-Training fachverantwortliche Person ist verpflichtet, den Einsatz von Trainingsdaten so zu dokumentieren, dass die Universität jederzeit ihrer datenschutzrechtlichen Rechenschaftspflicht gem. Art. 5 Abs. 2 DSGVO sowie gesetzlicher Vorgaben der KI-VO nachkommen kann."
+    },
+    {
+      "id": 55,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "§ 12\nUmsetzung von Betroffenenrechten, Transparenz und Dokumentationspflichten\n(1) Soweit in KI-Anwendungen personenbezogen Daten verarbeitet werden, hat das KI-Office sicherzustellen, dass der datenschutzrechtlich Betroffene im Falle eines Auskunftsersuchens gem. Art. 15 DSGVO im gesetzlich erforderlichen Umfang Auskunft über die Verarbeitung seiner personenbezogenen Daten in KI-Anwendungen erhält. Die für das KI-Verfahren fachverantwortliche Person hat sicherzustellen, dass dem KI-Office auf Aufforderung die hierfür erforderlichen Informationen unverzüglich bereitgestellt werden."
+    },
+    {
+      "id": 56,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "(2) Auf Aufforderung durch das KI-Office hat die für das KI-Verfahren fachverantwortliche Person sicherzustellen, dass Löschungsverlangen des Betroffenen gem. Art. 17 DSGVO unverzüglich im gesetzlich erforderlichen Umfang nachgekommen wird. Im Übrigen hat die für das KI-Verfahren fachverantwortliche Person sicherzustellen, dass der datenschutzrechtlich Betroffene gemäß Art. 13 bzw. 14 DSGVO vor Verarbeitung seiner personenbezogenen Daten informiert wird und die übrigen Betroffenenrechte aus der DSGVO wahrnehmen kann."
+    },
+    {
+      "id": 57,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "(3) Die für das KI-Verfahren fachverantwortliche Person hat sicherzustellen, dass KI-Anwendungen, die zur Interaktion mit natürlichen Personen eingesetzt werden, etwa Chatbots, für diese Personen als KI-Systeme erkennbar sind. Für die Kennzeichnung solcher KI-Anwendung stimmt sich die für das KI-Verfahren fachverantwortliche Person mit dem KI-Office ab."
+    },
+    {
+      "id": 58,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "(4) Die für das KI-Verfahren fachverantwortliche Person ist verpflichtet sicherzustellen, dass die Datenverarbeitung in KI-Anwendungen so dokumentiert wird, dass die Universität jederzeit ihrer datenschutzrechtlichen Verpflichtungen sowie solche nach der KI-VO nachkommen und einen auch im Übrigen rechtskonformen Einsatz der KI-Anwendung nachweisen kann. Sie hat die notwendigen Informationen für das Verarbeitungsverzeichnis gemäß Art. 30 DSGVO unverzüglich dem KI-Office zur Verfügung zu stellen; das KI-Office hat die Führung des Verarbeitungsverzeichnisses sicherzustellen."
+    },
+    {
+      "id": 59,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "§ 13\nÜberprüfung und Aktualisierung der Richtlinie\nDiese Richtlinie wird zwei Jahre nach Inkrafttreten evaluiert und bei Bedarf an neue technologische Entwicklungen angepasst."
+    },
+    {
+      "id": 60,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "§ 14\nVeröffentlichung und Inkrafttreten\nDiese Richtlinie tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Mitteilungen der Universität zu Köln in Kraft."
+    },
+    {
+      "id": 61,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Anhang: Genehmigung von KI-Anwendungen\n\n1. Genehmigungszuständigkeit\n\n1.1 Zuständigkeit des CIO-Boards\n\nDas CIO-Board ist zuständig für die Genehmigung des Einsatzes einer KI-Anwendung, soweit nicht das KI-Office zuständig ist (Nr. 1.2). In den folgenden Fällen ist das CIO-Board immer zuständig:\n\n1.1.1 Das Ergebnis der KI-Anwendung soll unmittelbar in ein Produkt einfließen (z. B. als Sicherheitsbauteil). In diesem Fall hat das KI-Office für das CIO-Board vorbereitend zu bewerten und zu prüfen, ob das KI-System ein Hochrisiko-KI-System i. S. d. Art. 6 Abs. 1 der KI-VO ist und zusätzliche Maßnahmen im Hinblick auf die Produkthaftung von der Universität in Betracht zu ziehen sind.\n\n1.1.2 Die KI-Anwendung soll zu einem der in Art. 6 Abs. 2 i. V. m. Anhang III der KI-Verordnung genannten Zwecke eingesetzt werden. Dies meint insbesondere die folgenden Zwecke:\n\na) Biometrie\nb) Kritische Infrastruktur\nc) Allgemeine und berufliche Bildung\nd) Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit\ne) Zugang und Inanspruchnahme grundlegender privater und öffentlicher Dienste und Leistungen\nf) Strafverfolgung\ng) Migration, Asyl und Grenzkontrolle\nh) Rechtspflege und demokratische Prozesse\n\n1.1.3 Die KI-Anwendung soll mit personenbezogenen Daten trainiert oder personenbezogene Daten sollen zu diesem Trainingszweck anonymisiert werden. In diesem Fall hat das KI-Office eine Einschätzung des Datenschutzbeauftragten einzuholen und ggfls. eine Datenschutz-Folgenabschätzung gem. Art. 35 DSGVO vorzunehmen.\n\n1.1.4 Die KI-Anwendung soll zu Lasten oder zugunsten einer natürlichen Person Entscheidungen mit rechtlicher oder ähnlich erheblich beeinträchtigender Wirkung treffen, ohne dass diese Entscheidung von einem Menschen überprüft und ggfls. abgeändert wird. In diesem Fall hat das KI-Office eine Einschätzung des Datenschutzbeauftragten im Hinblick auf Art. 22 DSGVO einzuholen.\n\n1.1.5 Das CIO-Board ist berechtigt, für bestimmte KI-Anwendungen Ausnahmen vom Standard-Freigabeverfahren zu beschließen, sofern dies die Einhaltung der rechtlichen Vorgaben nicht gefährdet. Ein solches Ausnahmeverfahren kann beispielsweise als „Fast-Track-Verfahren“ für KI-Anwendungen mit geringem Risiko dienen."
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "1.2 Zuständigkeit des KI-Office\n\nDas KI-Office ist zuständig für die Genehmigung des Einsatzes von KI-Anwendungen, die zuvor auf Risiken für die Informations- und Datensicherheit geprüft wurden und keine grundsätzlichen strategischen Veränderungen der IT-Versorgung nach sich ziehen."
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2. Vorgaben für die Genehmigung\n\nBei der Genehmigung durch KI-Office, CIO-Board und Rektorat sind die folgenden Grundsätze zu beachten:\n\n2.1 KI-Anwendungen dürfen nur eingesetzt werden, wenn dieses keine erhebliche Gefahr für die dienstlichen und rechtlichen Interessen der Universität darstellt."
+    },
+    {
+      "id": 64,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.2 KI-Anwendungen dürfen nur dann zur Verarbeitung von dienstlichen und Forschungsgeheimnissen und sonstigen vertraulichen Informationen eingesetzt werden, wenn der Anbieter angemessene Geheimhaltungsmaßnahmen zum Schutz der der Universität oder ihr anvertrauten dienstlichen und Forschungsgeheimnisse gewährleistet. Hierzu zählt mindestens:\na) eine vertragliche Verpflichtung des Anbieters, im Rahmen der Nutzung des konkreten KI-Systems die Vertraulichkeit zu wahren und\nb) die Gewährleistung marktüblicher Technisch-Organisatorischer Maßnahmen („TOM“) und\nc) angemessene Regelungen für den Fall der Beendigung der Zusammenarbeit („Exit-Strategie“)."
+    },
+    {
+      "id": 65,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.3 KI-Anwendungen dürfen nur dann zur Verarbeitung von personenbezogenen Daten eingesetzt werden, wenn die Datenschutzkonformität sichergestellt ist. Zu den Kriterien für die Bestimmung der Datenschutzkonformität gehören mindestens:\na) der vorherige Abschluss eines Auftragsverarbeitungsvertrages gem. Art. 28 DSGVO mit dem Anbieter und\nb) die Gewährleistung des Anbieters, personenbezogenen Daten nicht zu eigenen Zwecken, insbesondere nicht zum Training seiner KI-Modelle zu verarbeiten und\nc) hinreichende Garantien i. S. d. Kapitels V der DSGVO im Falle von Datentransfers in Staaten außerhalb des Europäischen Wirtschaftsraumes und\nd) die Gewährleistung marktüblicher Technisch-Organisatorischer Maßnahmen („TOM“) und\ne) angemessene Regelungen für den Fall der Beendigung der Zusammenarbeit („Exit-Strategie“)."
+    },
+    {
+      "id": 66,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.4 KI-Anwendungen dürfen nur eingesetzt werden, wenn dies die Universität keinen unvertretbaren urheberrechtlichen Risiken aussetzt. Hierfür ist mindestens erforderlich, dass\na) die Nutzungsbedingungen des Anbieters die Nutzung des Dienstes durch die Universität zu kommerziellen Zwecken erlauben und\nb) im Falle der Nutzung von Open Source Software sichergestellt ist, dass die Universität keinen Copyleft-Regelungen o. ä. Risiken unterworfen wird."
+    },
+    {
+      "id": 67,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.5 Vor jeder An- oder Einbindung der KI-Anwendung eines Dritten sind die Risiken für die Informationssicherheit der Universität zu überprüfen und geeignete Schutzmaßnahmen zu treffen."
+    },
+    {
+      "id": 68,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.6 Für jede KI-Anwendung existieren soweit erforderlich – ein Berechtigungskonzept und eine Berechtigungsverwaltung. Mit diesen stellt die fachverantwortliche Person sicher, dass Nutzende auch im Rahmen der Anwendung von KI-Systemen nur Zugriff auf solche Daten haben, auf die sie nach dem jeweils geltenden Berechtigungskonzept bei der Universität Zugriff haben dürfen. Dabei ist durch technische Maßnahmen auch sicherzustellen, dass Nutzende mittels der KI-Anwendung keine Datenbestände durchsuchen können, für die sie nach dem geltenden Berechtigungskonzept keine Berechtigung haben."
+    },
+    {
+      "id": 69,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.7 Im Rahmen der Genehmigung ist soweit erforderlich eine Risikoanalyse im Sinne der KI-VO und eine Einordnung in Risikoklassen durchzuführen. Bei Erstellung eines Risikomodells soll dargelegt werden, unter welchen Gesichtspunkten Risiken für Betroffene bestehen und festgelegt werden, durch welche spezifischen Maßnahmen diese Risiken begrenzt werden. Den Fachverantwortlichen werden dazu entsprechende Fragebögen und Vorlagen bereitgestellt. Dabei richtet sich die Art der Kontrolle des Einsatzes von KI-Anwendungen nach dem Risiko der KI-Anwendung:\na) Bei Hochrisiko-KI-Systemen i. S. d. KI-VO und bei Hochrisikoentscheidungen mit rechtlicher oder erheblicher personenbezogener Wirkung ist vor Wirksamwerden eine menschliche Endfreigabe zwingend (Human-in-the-Loop).\nb) Bei mittlerem Risiko genügt eine laufende Überwachung mit Eingriffsrecht (Human-on-the-Loop).\nc) Bei geringem Risiko erfolgt eine stichproben- oder anlassbezogene Nachkontrolle."
+    },
+    {
+      "id": 70,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "2.8 Im Rahmen der Genehmigung ist die Vereinbarkeit der KI-Anwendung mit den Schutzzielen nach § 2 sowie der KI-Strategie der Universität zu prüfen. Dabei sind auch folgende Aspekte zu beachten:\na) Einhaltung von ethischen Standards\nb) Einhaltung von Souveränitätsstandards\nc) Einhaltung von Nachhaltigkeitsstandards\nd) Offenheit (z. B. Open Source, Open Data, Open Education, Open Science etc.)\ne) Nachvollziehbarkeit und Erklärbarkeit (v. a. bei Hochrisiko-Anwendungen)\nf) Bias- und Diskriminierungsrisiken\ng) Qualität und Zuverlässigkeit (z. B. durch Benchmarks)\nh) Kosten und Lizenzmodell\ni) Verfügbarkeit, inkl. Lock-In-Problematiken\nj) Technische Möglichkeiten zur Einhaltung der Kennzeichnungspflichten\nk) Datenschutzrechtliche Compliance und IT-Sicherheit (insbesondere hinsichtlich Technisch-Organisatorischer Maßnahmen (TOMs) und Auftragsverarbeitungsverträgen (AVV))\nl) Urheberrecht und Rechte des Geistigen Eigentums (IP)\nm) Einhaltung des Allgemeinen Gleichbehandlungsgesetzes (AGG)"
+    },
+    {
+      "id": 71,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "2.9 Im Rahmen der Genehmigung sind die Vereinbarkeit der KI-Anwendung mit den Dienstvereinbarungen und die Mitbestimmungspflichtigkeit zu prüfen. Den Personalräten ist die Prüfdokumentation zugänglich zu machen. Ggf. ist vor der Genehmigung die gesetzliche Beteiligung der Personalräte durchzuführen."
+    },
+    {
+      "id": 72,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "3. Angaben auf der Whitelist\n\n3.1 Auf der Whitelist können einzelne bestimmte KI-Anwendungen, bestimmte Arten von zulässigen KI-Anwendungen oder Kriterien für zulässige KI-Anwendungen aufgenommen werden."
+    },
+    {
+      "id": 73,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "3.2 Aus der Whitelist muss für die Nutzenden der erlaubte Nutzungszweck, der erlaubte Umfang, die Art der erlaubten Nutzung, der zur Nutzung berechtigten Personenkreis ersichtlich sein sowie ggf. weitere Einschränkungen, insbesondere hinsichtlich bestimmter zulässiger Einstellungen der KI-Anwendung und darüber hinaus spezifische Pflichten oder Verantwortlichkeiten der Nutzenden."
+    }
+  ],
+  "validation": {
+    "total": 73,
+    "matched": 73,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.919,
+    "uncovered_chars": 2385,
+    "uncovered_gaps": 7,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 1893,
+        "length": 1893,
+        "text": "# universität köln # source: https://am.unikoeln.de/e45267/data/records54900/am_2026-02_ki_rl_ger.pdf # date: 2026-01-27 # category: guideline am 2/2026 amtliche mitteilungen 2/2026 richtlinie zum einsatz von künstlicher intelligenz (ki) an der universität zu köln (ki-richtlinie) vom 27.1.2026 i m p r e s s u m herausgeber: universität zu köln der rektor albertus-magnus-platz 50923 köln 28. januar 2026 rügeobliegenheit: gemäß § 12 abs. des gesetzes über die hochschulen des landes nordrhein-westfalen (hochschulgesetz-hg nrw) kann nach ablauf eines jahres seit der bekanntmachung dieser ordnung die verletzung von verfahrensoder formvorschriften des hochschulgesetzes oder des ordnungsoder des sonstigen autonomen rechts der hochschule nicht mehr geltend gemacht werden, es sei denn, 1. die ordnung ist nicht ordnungsgemäß bekannt gegeben worden, 2. das rektorat hat den beschluss des die ordnung beschließenden gremiums vorher beanstandet, 3. der formoder verfahrensmangel ist gegenüber der hochschule vorher gerügt und dabei die verletzte rechtsvorschrift und die tatsache bezeichnet worden, die den mangel ergibt, oder 4. bei der öffentlichen bekanntmachung der ordnung ist auf die rechtsfolge des rügeausschlusses nicht hingewiesen worden. richtlinie zum einsatz von künstlicher intelligenz (ki) an der universität zu köln (ki-richtlinie) vom 27. januar 2026 aufgrund der §§ 2 absatz satz 1, 16 absatz des gesetzes über die hochschulen des landes nordrhein-westfalen (hochschulgesetz - hg) in der fassung des hochschulzukunftsgesetzes (hzg nrw) vom 16. september 2014 (gv. nrw. 2014, s. 547), zuletzt geändert durch artikel des gesetzes zur stärkung des hochschulstandorts bochum im bereich des gesundheitswesens und zur änderung weiterer hochschulrechtlicher vorschriften vom 19. dezember 2024 (gv. nrw. s. 1222), erlässt das rektorat der universität zu köln die folgende richtlinie:"
+      },
+      {
+        "char_start": 3336,
+        "char_end": 3400,
+        "length": 64,
+        "text": ". erster abschnitt anwendungsbereich und schutzziele (§§ 1 - 2)"
+      },
+      {
+        "char_start": 10293,
+        "char_end": 10335,
+        "length": 42,
+        "text": ". zweiter abschnitt governance (§§ 3 - 6)"
+      },
+      {
+        "char_start": 14886,
+        "char_end": 14956,
+        "length": 70,
+        "text": ". dritter abschnitt nutzungsregelungen für ki-anwendungen (§§ 7 - 10)"
+      },
+      {
+        "char_start": 19192,
+        "char_end": 19245,
+        "length": 53,
+        "text": ". vierter abschnitt besondere pflichten (§§ 11 - 12)"
+      },
+      {
+        "char_start": 22242,
+        "char_end": 22295,
+        "length": 53,
+        "text": ". fünfter abschnitt schlussbestimmungen (§§ 13 - 14)"
+      },
+      {
+        "char_start": 22632,
+        "char_end": 22842,
+        "length": 210,
+        "text": ". ausgefertigt aufgrund des beschlusses des rektorats der universität zu köln vom 20. januar 2026. köln, den 27. januar 2026 der rektor der universität zu köln gez. universitätsprofessor dr. joybrato mukherjee"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 1912,
+      "text": "# Universität Köln\n# Source: https://am.uni-koeln.de/e45267/data/records54900/AM_2026-02_KI_RL_ger.pdf\n# Date: 2026-01-27\n# Category: guideline\n\nAM 2/2026\nAmtliche Mitteilungen 2/2026\nRichtlinie zum Einsatz von Künstlicher Intelligenz (KI) an der Universität zu Köln\n(KI-Richtlinie)\nvom 27.1.2026\n\nI M P R E S S U M\nHerausgeber:\nUNIVERSITÄT ZU KÖLN\nDER REKTOR\nALBERTUS-MAGNUS-PLATZ 50923 KÖLN\n28. JANUAR 2026\nRügeobliegenheit:\nGemäß § 12 Abs. 5 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz-HG NRW) kann nach Ablauf eines Jahres seit der Bekanntmachung dieser Ordnung die Verletzung von Verfahrens- oder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen autonomen Rechts der Hochschule nicht mehr geltend gemacht werden, es sei denn,\n1. die Ordnung ist nicht ordnungsgemäß bekannt gegeben worden,\n2. das Rektorat hat den Beschluss des die Ordnung beschließenden Gremiums vorher beanstandet,\n3. der Form- oder Verfahrensmangel ist gegenüber der Hochschule vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet worden, die den Mangel ergibt, oder\n4. bei der öffentlichen Bekanntmachung der Ordnung ist auf die Rechtsfolge des Rügeausschlusses nicht hingewiesen worden.\n\nRichtlinie zum Einsatz von Künstlicher Intelligenz (KI) an der Universität zu Köln\n(KI-Richtlinie)\nvom 27. Januar 2026\nAufgrund der §§ 2 Absatz 4 Satz 1, 16 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz – HG) in der Fassung des Hochschulzukunftsgesetzes (HZG NRW) vom 16. September 2014 (GV. NRW. 2014, S. 547), zuletzt geändert durch Artikel 2 des Gesetzes zur Stärkung des Hochschulstandorts Bochum im Bereich des Gesundheitswesens und zur Änderung weiterer hochschulrechtlicher Vorschriften vom 19. Dezember 2024 (GV. NRW. S. 1222), erlässt das Rektorat der Universität zu Köln die folgende Richtlinie:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1912,
+      "char_end": 2317,
+      "text": "Präambel\n(1) Die Entwicklung und der Einsatz von IT-Systemen unter Nutzung Künstlicher Intelligenz („KI“) birgt erhebliches Potential für die Steigerung der Effizienz der Universität zu Köln und die Vereinfachung der von unseren Mitarbeiter*innen zu erfüllenden Aufgaben. Die Nutzung solcher KI-Lösungen wird künftig nicht mehr wegzudenken und unerlässlich sein, um im akademischen Wettbewerb zu bestehen.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2319,
+      "char_end": 2888,
+      "text": "(2) Gleichzeitig ist der Einsatz von KI-Anwendungen mit Gefahren und Herausforderungen für unsere dienstlichen und Forschungsgeheimnisse und die personenbezogenen Daten unserer Mitarbeiter*innen, Studierenden sowie Dritter verbunden. Auch müssen urheberrechtliche Risiken und die gesetzlichen Vorgaben der KI-Verordnung der Europäischen Union ((EU) 2024/1689, im Folgenden „KI-VO“) beachtet werden. Der Einsatz von KI-Anwendungen ist insoweit für die Universität zu Köln, u. U. aber auch für jede*n einzelne*n Mitarbeiter*in, mit Haftungs- und Bußgeldrisiken verbunden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2890,
+      "char_end": 3360,
+      "text": "(3) Diese Richtlinie zum Einsatz von Künstlicher Intelligenz (KI) bei der Universität zu Köln (im Folgenden „Richtlinie“) und die in ihr beschriebenen Maßnahmen sollen sicherstellen, dass wir, die Universität zu Köln (im Folgenden „Universität“), KI-Anwendungen stets verantwortungsvoll, rechtskonform und so einsetzen, dass weder unsere eigenen noch die uns anvertrauten dienstlichen und Forschungsgeheimnisse sowie personenbezogene Daten Unbefugten offengelegt werden.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3360,
+      "char_end": 3425,
+      "text": "\n\nErster Abschnitt\nAnwendungsbereich und Schutzziele (§§ 1 - 2)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3425,
+      "char_end": 4041,
+      "text": "§ 1\nGegenstand und Anwendungsbereich dieser Richtlinie\n(1) Diese Richtlinie ist eine verbindliche interne Richtlinie der Universität und regelt Pflichten und Zuständigkeiten der Mitarbeiter*innen der Universität zu Köln bei der Nutzung von KI-Anwendungen zu dienstlichen Zwecken der Universität. Sie setzt die Vorgaben des geltenden nationalen und europäischen Rechts um. Zuwiderhandlungen gegen diese Richtlinie können arbeits- bzw. dienstrechtliche Sanktionen nach sich ziehen und u. U., etwa im Falle des Verstoßes gegen datenschutzrechtliche Vorschriften oder solche der KI-VO, bußgeldbewehrt oder strafbar sein.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4043,
+      "char_end": 4501,
+      "text": "(2) Diese Richtlinie beruht auf den einschlägigen Bestimmungen des HG sowie den geltenden europäischen und nationalen Rechtsvorschriften, insbesondere der KI-VO, der Datenschutzgrundverordnung (DSGVO), dem Datenschutzgesetz Nordrhein-Westfalen (DSG NRW) und dem Produkthaftungsrecht. Die Verarbeitung personenbezogener Daten im Rahmen dieser Richtlinie erfolgt auf Grundlage von Art. 6 Abs. 1 lit. e DSGVO (Wahrnehmung öffentlicher Aufgaben) i. V. m. dem HG.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4503,
+      "char_end": 4742,
+      "text": "(3) Der Begriff „KI-Anwendung“ meint in dieser Richtlinie in gleicher Weise sowohl KI-Systeme gem. Art. 3 Nr. 1 KI-VO als auch KI-Modelle i. S. d. KI-VO (einschließlich KI-Modelle mit allgemeinem Verwendungszweck gem. Art. 3 Nr. 63 KI-VO).",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4744,
+      "char_end": 5017,
+      "text": "(4) Diese Richtlinie findet Anwendung auf alle Beschäftigten der Universität und auf die Personen, die für die Universität in Forschung und Lehre tätig sind, ohne Beschäftigte der Universität zu sein. All diese werden in dieser Richtlinie gemeinsam als Nutzende bezeichnet.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5019,
+      "char_end": 5241,
+      "text": "(5) Die Richtlinie findet unabhängig davon Anwendung, ob die Tätigkeit für die Universität in Betriebsstätten von der Hochschule oder außerhalb dieser Betriebsstätten (z. B. im Homeoffice oder Mobile Office) ausgeübt wird.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5243,
+      "char_end": 5470,
+      "text": "(6) Die Richtlinie gilt für Universitätsbeschäftigte in der Medizinischen Fakultät nur, soweit diese KI-Anwendungen nutzen, die von der Universität zu Köln bereitgestellt werden oder soweit sie KI-Anwendungen gemäß § 10 nutzen.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5472,
+      "char_end": 6086,
+      "text": "(7) Die Richtlinie gilt nicht für den Einsatz von KI-Anwendungen, die nach Art. 2 Abs. 6 KI-VO für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden. Dessen ungeachtet sind in der Forschung die allgemeinen Vorgaben des Datenschutzrechts, des Geheimnisschutzes sowie einschlägige Ethikstandards weiterhin strikt einzuhalten. Darüber hinaus wird das Verhältnis von KI-Einsatz und Forschung unter dem Aspekt der wissenschaftlichen Redlichkeit maßgeblich von der DFG untersucht und dargestellt; die jeweils aktuellen DFG-Leitlinien hierzu sind zu beachten.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6088,
+      "char_end": 6409,
+      "text": "(8) Die Richtlinie gilt nicht für Studierende; es sei denn, dass sie bei der Universität beschäftigt sind, z. B. als Studentische Hilfskräfte (SHK). Dessen ungeachtet gelten für sie die Grundsätze des Prüfungsrechts auch für den KI-Einsatz im Rahmen von Prüfungen; weitergehende Informationen geben die Prüfenden bekannt.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6411,
+      "char_end": 6569,
+      "text": "(9) Die Rechte der Personalräte bleiben von dieser Richtlinie unberührt. Ergänzend zur Richtlinie gelten die Dienstvereinbarungen zur künstlichen Intelligenz.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6571,
+      "char_end": 7098,
+      "text": "(10) Bei Einsatz, Entwicklung und Bereitstellung von KI-Anwendungen gilt die EU-Produkthaftungsrichtlinie (EU (2024/2853)) und das nationale Produkthaftungsrecht. Alle Verantwortlichen stellen sicher, dass KI-Anwendungen insbesondere regelmäßig dokumentiert, auf Fehlerfreiheit geprüft und relevante Risiken hinsichtlich der Haftung für Schäden, Datenverluste und Diskriminierung adressiert werden. Bei jedem KI-basierten Output ist eine dem Risiko angemessene menschliche Überprüfung gemäß Punkt 2.7 des Anhangs durchzuführen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7100,
+      "char_end": 7416,
+      "text": "§ 2\nAllgemeine Grundsätze des Einsatzes von KI-Anwendungen (Schutzziele)\nKI-Anwendungen sind stets so einzusetzen, dass die folgenden Grundsätze (sog. Schutzziele) eingehalten werden. Dies betrifft sowohl die Nutzung von KI-Anwendung (Dritter Abschnitt) als auch die Genehmigung von KI-Anwendung (Vierter Abschnitt).",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7418,
+      "char_end": 7491,
+      "text": "1. Informationssicherheit: Es gilt die Informationssicherheitsrichtlinie.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7493,
+      "char_end": 7722,
+      "text": "2. Datenschutz: Wenn bei der Nutzung von KI-Anwendungen personenbezogene Daten verarbeitet werden, muss dies unter Beachtung des anwendbaren Datenschutzrechts erfolgen. In den Regelungen dieser Richtlinie ist dies berücksichtigt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7724,
+      "char_end": 7870,
+      "text": "3. Fairness: Beim Einsatz von KI-Anwendungen sind Risiken in Bezug auf Diskriminierung oder Ungleichbehandlung natürlicher Personen zu minimieren.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7872,
+      "char_end": 8804,
+      "text": "4. Autonomie, Kontrolle und Menschliche Letztverantwortung\na) Wenn KI-Anwendungen autonom agieren können und dadurch etwa Risiken für geschützte Rechtsgüter entstehen (z. B. finanzieller Schaden, Sachbeschädigung, Körperverletzung), dann müssen Eingriffsmöglichkeiten in den Betrieb der KI-Anwendung existieren, die eine angemessene Kontrolle ermöglichen. Entscheidungen mit Rechtswirkung durch eine KI-Anwendung dürfen nicht ohne menschliche Kontrolle erfolgen.\nb) Für jede KI-gestützte Anwendung ist eine namentlich benannte Rolle mit menschlicher Letztverantwortung festzulegen. Die Benennung der Person und Dokumentation der Aufgaben erfolgt durch das KI-Office im Rahmen des Freigabeverfahrens. Letztüberprüfung bedeutet eine dem Risiko angemessene, wirksame Aufsicht ohne generelle Pflicht zur dauernden Vorabfreigabe.\nc) Die Art der Kontrolle des Einsatzes von KI-Anwendungen muss dem Risiko der KI-Anwendung angemessen sein.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8806,
+      "char_end": 9254,
+      "text": "5. Transparenz: KI-Anwendungen müssen für die Betroffenen in der Interaktion als solche erkennbar bleiben. Betroffene müssen über die Verwendung ihrer personenbezogenen Daten bei der Nutzung der KI-Anwendung informiert werden, z. B. beim Training von KI-Modellen und bei der Speicherung von Chatverläufen. Die Verarbeitung personenbezogener Daten muss nachvollziehbar und prüfbar sein, um der datenschutzrechtlichen Rechenschaftspflicht zu genügen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9256,
+      "char_end": 9574,
+      "text": "6. Verlässlichkeit: Die Eignung einer KI-Anwendung für ihren beabsichtigten Zweck muss innerhalb tolerierbarer Fehlergrenzen geprüft und sichergestellt werden. Es sind Maßnahmen zu ergreifen, um Fehlausgaben (z. B. Halluzinieren oder Konfabulieren) zu minimieren. KI-Anwendungen müssen vor Manipulation geschützt sein.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9576,
+      "char_end": 9942,
+      "text": "7. Sicherheit: KI-Anwendungen unterliegen sämtlichen Anforderungen der IT-Sicherheit. Deren Ziel ist es, ungewollte technische Störungen oder Fehlfunktionen ebenso wirksam zu verhindern („Safety“) wie unbefugte Zugriffe oder Manipulationen („Security“). Die Schutzziele der sog. CIA-Triade (Vertraulichkeit, Integrität und Verfügbarkeit) sind dabei zu gewährleisten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9944,
+      "char_end": 10356,
+      "text": "8. Legalität: KI-Anwendungen sind auch jenseits des Anwendungsbereichs des Datenschutzrechts, der KI-VO und der Anforderungen an die Informationssicherheit so einzusetzen, dass die Universität keinen Ansprüchen Dritter aufgrund von Rechtsverletzungen (z. B. Urheberrecht, Geheimnisschutz) ausgesetzt wird, oder Diskriminierung bzw. unzulässige Benachteiligung (Allgemeines Gleichbehandlungsgesetz - AGG) erfolgt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10356,
+      "char_end": 10399,
+      "text": "\n\nZweiter Abschnitt\nGovernance (§§ 3 - 6)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10399,
+      "char_end": 10712,
+      "text": "§ 3\nGovernance-Akteure\n(1) Das Rektorat ist das oberste Entscheidungsgremium für alle strategischen und grundlegenden Fragen des KI-Einsatzes an der Universität. Es erlässt die vorliegende Richtlinie und kann die operative Verantwortung und Entscheidungsbefugnis an nachgeordnete Gremien und Einheiten delegieren.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10714,
+      "char_end": 11403,
+      "text": "(2) Das CIO-Board gemäß § 2a der Richtlinie des Rektorats über die Kommissionen und Beiräte des Rektorats ist das strategische Steuerungsgremium für IT-bezogene und KI-relevante Entscheidungen. Es stimmt sich mit den Fakultäten und weiteren universitären Vertretungen ab und erarbeitet Entscheidungsvorlagen für das Rektorat, insbesondere zur Einführung, Ablösung oder Priorisierung zentraler KI-Anwendungen. Soweit nicht zusätzliche Finanzmittel außerhalb der bestehenden Haushaltsplanungen erforderlich sind, fällt die Entscheidung über die Einführung oder Ablösung zentraler und dezentraler KI-Anwendungen in die Kompetenz des CIO-Boards, in den übrigen Fällen entscheidet das Rektorat.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11405,
+      "char_end": 11789,
+      "text": "(3) Das KI-Office ist die zentrale operative Einheit für die tagesaktuellen Entscheidungen im Zusammenhang mit der Zulassung, Nutzung und Überwachung von KI-Anwendungen. Das KI-Office prüft Einzelfälle, pflegt die Whitelist freigegebener KI-Anwendungen, erstellt Handreichungen und unterstützt die Fakultäten bei der Umsetzung dieser Richtlinie. Das KI-Office ist dem ITCC zugeordnet.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11791,
+      "char_end": 12154,
+      "text": "(4) Die fachverantwortliche Person ist die Person, die die inhaltliche und technische Verantwortung für ein spezifisches KI-Verfahren oder ein konkretes KI-Projekt trägt. Sie trägt die operative Letztverantwortung für den Einsatz der spezifischen KI-Anwendung, die innerhalb des eigenen Projekts oder der eigenen Organisationseinheit entwickelt oder genutzt wird.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12156,
+      "char_end": 12285,
+      "text": "§ 4\nGovernance-Prinzipien\nDie Bereitstellung und die Nutzung von KI-Anwendungen folgen in dieser Richtlinie folgenden Prinzipien:",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12287,
+      "char_end": 12717,
+      "text": "1. KI-Anwendungen dürfen nur\na) nach vorheriger Genehmigung und nach der Maßgabe dieser Genehmigung (§ 5) zu dienstlichen Zwecken eingesetzt und\nb) gemäß den Nutzungsregelungen für KI-Anwendungen (Dritter Abschnitt) genutzt\nwerden. Die Nutzung der KI-Anwendungen der Universität, einschließlich aller lizenzierten Dienste und selbstentwickelter Anwendungen, zu privaten oder nicht-dienstlichen Zwecken ist grundsätzlich untersagt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12719,
+      "char_end": 12849,
+      "text": "2. Die genehmigten KI-Anwendungen und die wesentlichen Genehmigungsmaßgaben werden in einer Positivliste (Whitelist, § 5) geführt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12851,
+      "char_end": 13069,
+      "text": "3. Abweichend von Nr. 1 Satz 1 Buchst. a dürfen im Internet verfügbare, browsergestützte KI-Anwendungen, bei denen die Universität weder Betreiber noch Anbieter i. S. d. KI-VO ist, nach Maßgabe des § 10 genutzt werden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13071,
+      "char_end": 13249,
+      "text": "4. KI-Anwendungen, die den verbotenen KI-Praktiken nach Art. 5 der KI-VO unterfallen (z. B. Social Scoring, manipulativ täuschende KI) dürfen weder genehmigt noch genutzt werden.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13251,
+      "char_end": 13561,
+      "text": "§ 5\nGenehmigungsverfahren, Whitelist\n(1) Die Genehmigung des Einsatzes von KI-Anwendungen erfolgt durch Aufnahme auf eine Whitelist. Dabei werden auch, soweit erforderlich, Vorgaben zum erlaubten Nutzungszweck, zum erlaubten Umfang, zur Art der Nutzung sowie zum zur Nutzung berechtigten Personenkreis gemacht.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13563,
+      "char_end": 13857,
+      "text": "(2) Die Aufnahme auf die Whitelist kann auf folgende Arten erfolgen:\n1. Genehmigung durch das CIO-Board für besondere Anwendungen.\n2. Genehmigung durch das KI-Office für einfach gelagerte Fälle.\nDie Einzelheiten zur Zuständigkeit und den Genehmigungsvoraussetzungen ergeben sich aus der Anlage.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13859,
+      "char_end": 14012,
+      "text": "(3) Die Whitelist wird vom KI-Office geführt. Das KI-Office ist angewiesen, die Aktualität der Whitelist durch regelmäßige Überprüfungen sicherzustellen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14014,
+      "char_end": 14109,
+      "text": "(4) Das Rektorat ist jederzeit berechtigt, die Genehmigungen zu widerrufen oder einzuschränken.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14111,
+      "char_end": 14366,
+      "text": "§ 6\nKI-Kompetenz\n(1) Das KI-Office und die fachverantwortliche Person sind angewiesen, durch angemessene Maßnahmen sicherzustellen, dass die Nutzenden in einem risikoangemessenen Maß über Kenntnisse im Umgang mit KI-Anwendungen und ihren Risiken verfügen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14368,
+      "char_end": 14974,
+      "text": "(2) Bei der Einführung oder der Erweiterung von KI-Anwendungen werden die Nutzenden von den Führungskräften im Vorfeld über die Art des KI-Einsatzes sowie über die entsprechenden Maßnahmen nach Absatz 1 informiert. Es gehört zu den Pflichten einer jeden Führungskraft, den Weiterbildungsbedarf der Mitarbeiterinnen und Mitarbeiter tätigkeitsbezogen zu ermitteln und entsprechende Schulungen zu ermöglichen. Die Mitarbeiterinnen und Mitarbeiter machen ihrerseits ihren Weiterbildungsbedarf bei ihren Führungskräften geltend. Die Teilnahme an den Schulungsmaßnahmen erfolgt in Anrechnung auf die Arbeitszeit.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14974,
+      "char_end": 15045,
+      "text": "\n\nDritter Abschnitt\nNutzungsregelungen für KI-Anwendungen (§§ 7 – 10)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15045,
+      "char_end": 15477,
+      "text": "§ 7\nAllgemeine Vorgaben für die Nutzung von KI-Anwendungen\n(1) Die Nutzenden dürfen – vorbehaltlich des § 10 – nur die in der Whitelist geführten genehmigten KI-Anwendungen nutzen; dabei sind die Maßgaben der Genehmigung zu beachten. Die Nutzenden von KI-Anwendungen haben dabei die in den §§ 7 - 10 dargelegten Grundsätze zu beachten, sofern im Rahmen der Genehmigung der KI-Anwendung keine anderslautenden Vorgaben gemacht werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15479,
+      "char_end": 15631,
+      "text": "(2) KI-Anwendungen dürfen nur bestimmungsgemäß genutzt werden. Es ist verboten die KI-Anwendung zu manipulieren oder deren Schutzmechanismen zu umgehen.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15633,
+      "char_end": 15986,
+      "text": "(3) Die per Whitelist freigegebenen KI-Anwendungen dürfen nur für dienstliche Zwecke genutzt werden. Die Nutzenden sind verpflichtet – vorbehaltlich des § 10 –, zu dienstlichen Zwecken immer ausschließlich die von der Universität oder die anderweitig in dienstlichem Zusammenhang zu diesem Zweck bereitgestellten Zugänge und Benutzerkonten zu verwenden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15988,
+      "char_end": 16416,
+      "text": "§ 8\nVorgaben für Input-Daten\nFür die Eingabe von Daten in KI-Anwendungen (Input-Daten) gilt:\n\n1. Sensible Daten (personenbezogene Daten, dienstlich vertrauliche Informationen, Geschäfts- und Betriebsgeheimnisse von Vertrags- oder Kooperations- oder Geschäftspartnern sowie Forschungsgeheimnisse) ist für die Bereiche Lehre und Verwaltung ausschließlich in den Self-Hosted- oder Private-Cloud-Umgebungen der Universität zulässig.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16418,
+      "char_end": 16630,
+      "text": "2. Die Verarbeitung solcher Daten in Public-Cloud-SaaS/API-Diensten (Drittanbieter) ist grundsätzlich untersagt. Ausnahmen bedürfen einer höchsten Rechtfertigung und der ausdrücklichen Genehmigung des CIO-Boards.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16632,
+      "char_end": 16843,
+      "text": "3. Im Bereich der Forschung kann die Nutzung ausnahmsweise breiter erfolgen, sofern alle geltenden Datenschutz- und Ethikauflagen (z. B. Ethikvotum, Auftragsverarbeitungsvertrag) nachweislich eingehalten werden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16845,
+      "char_end": 17062,
+      "text": "4. Sofern nach der Maßgabe der Genehmigung der KI-Anwendung die Eingabe sensibler Daten erlaubt ist, dürfen Nutzende nur solche Daten zu solchen Zwecken eingeben, zu deren Verarbeitung sie auch im Übrigen befugt sind.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17064,
+      "char_end": 17240,
+      "text": "5. Nr. 1 und 2 gelten nicht für die Eingabe eigener personenbezogener Daten der Nutzenden, soweit dies für die Anmeldung oder für die Nutzung der KI-Anwendung erforderlich ist.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17242,
+      "char_end": 17429,
+      "text": "6. Bei der Eingabe von Inhalten, an denen Schutzrechte bestehen, etwa nach dem Urheber- oder Markenrecht, ist sicherzustellen, dass die Verwendung in KI-Anwendungen rechtskonform erfolgt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17431,
+      "char_end": 18038,
+      "text": "§ 9\nVorgaben für Output-Daten\nFür die Verwendung von durch KI-Anwendungen generierte Inhalte (Output-Daten) gilt:\n\n1. Nutzende sind verpflichtet, die von ihnen mittels einer KI-Anwendung generierten Inhalte auf ihre Richtigkeit, Validität und Vollständigkeit zu überprüfen, bevor diese veröffentlicht, weitergeben oder in dienstlichen Prozessen verwendet werden. Dabei müssen sie die Inhalte auch dahingehend überprüfen, ob diese nicht aufgrund von Halluzinationen zu falschen Fakten oder von systematisch verzerrten Ergebnissen (sog. Bias) zu Diskriminierung oder Ungleichbehandlung von Betroffenen führen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18040,
+      "char_end": 18146,
+      "text": "2. KI-generierte Inhalte, insbesondere Texte, Bilder, Audios oder Videos, sind als solche zu kennzeichnen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18148,
+      "char_end": 18260,
+      "text": "3. Output-Daten, die auf urheberrechtlich geschützten Inhalten Dritter beruhen, sind als solche zu kennzeichnen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18262,
+      "char_end": 18494,
+      "text": "4. Deep Fakes dürfen nur auf ausdrückliche dokumentierte Genehmigung der Führungskraft verwendet werden. Bei der weiteren Verwendung von Deep Fakes muss offengelegt werden, dass die Inhalte künstlich erzeugt oder manipuliert wurden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18496,
+      "char_end": 19286,
+      "text": "§ 10\nAusnahmeregelung für KI-Anwendungen mit geringem Risiko außerhalb der Whitelist\nAbweichend von § 7 Abs. 1 dürfen im Internet verfügbare, browser-gestützte KI-Anwendungen, bei denen die Universität weder Betreiber noch Anbieter i. S. d. KI-VO ist, auch wenn sie nicht in der Whitelist geführt sind, unter folgenden Voraussetzungen genutzt werden:\n\n1. es werden keinerlei sensible Daten i. S. d. § 8 Nr. 1 (personenbezogene Daten - mit Ausnahme von Metadaten -, dienstlich vertrauliche Informationen, Geschäfts- und Betriebsgeheimnisse von Vertrags- oder Kooperations- oder Geschäftspartnern sowie Forschungsgeheimnisse) oder urheberrechtlich geschützte Inhalte in die Anwendungen eingegeben; § 8 Nr. 5 gilt entsprechend; Nutzende sind zur Einhaltung dieser Pflicht weisungsgebunden, und",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19288,
+      "char_end": 19458,
+      "text": "2. die Allgemeinen Vorgaben für die Nutzung von KI-Anwendungen des § 7 Abs. 2 und 3 und Vorgaben für Output-Daten des § 9 und zur Transparenz des § 12 werden eingehalten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19458,
+      "char_end": 19512,
+      "text": "\n\nVierter Abschnitt\nBesondere Pflichten (§§ 11 - 12)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19512,
+      "char_end": 20198,
+      "text": "§ 11\nDatenverarbeitung zum Zwecke des Trainings von KI-Modellen\n(1) Die für das KI-Training fachverantwortliche Person hat sicherzustellen, dass die Verwendung von Daten als Trainingsdaten rechtskonform erfolgt, insbesondere unter Beachtung datenschutz- und urheberrechtlicher Bestimmungen. Soweit möglich, sind synthetische Trainingsdaten zu nutzen und die Verwendung der Daten muss so datensparsam wie möglich erfolgen. Die Verarbeitungen personenbezogener Daten (einschließlich ihrer Pseudonymisierung oder Anonymisierung) im Rahmen oder in Vorbereitung des Trainings dürfen nur erfolgen, wenn sich die Universität hierfür auf eine datenschutzrechtliche Rechtsgrundlage stützen kann.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20200,
+      "char_end": 20485,
+      "text": "(2) Die für das KI-Training fachverantwortliche Person ist verpflichtet, den Einsatz von Trainingsdaten so zu dokumentieren, dass die Universität jederzeit ihrer datenschutzrechtlichen Rechenschaftspflicht gem. Art. 5 Abs. 2 DSGVO sowie gesetzlicher Vorgaben der KI-VO nachkommen kann.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20487,
+      "char_end": 21075,
+      "text": "§ 12\nUmsetzung von Betroffenenrechten, Transparenz und Dokumentationspflichten\n(1) Soweit in KI-Anwendungen personenbezogen Daten verarbeitet werden, hat das KI-Office sicherzustellen, dass der datenschutzrechtlich Betroffene im Falle eines Auskunftsersuchens gem. Art. 15 DSGVO im gesetzlich erforderlichen Umfang Auskunft über die Verarbeitung seiner personenbezogenen Daten in KI-Anwendungen erhält. Die für das KI-Verfahren fachverantwortliche Person hat sicherzustellen, dass dem KI-Office auf Aufforderung die hierfür erforderlichen Informationen unverzüglich bereitgestellt werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21077,
+      "char_end": 21599,
+      "text": "(2) Auf Aufforderung durch das KI-Office hat die für das KI-Verfahren fachverantwortliche Person sicherzustellen, dass Löschungsverlangen des Betroffenen gem. Art. 17 DSGVO unverzüglich im gesetzlich erforderlichen Umfang nachgekommen wird. Im Übrigen hat die für das KI-Verfahren fachverantwortliche Person sicherzustellen, dass der datenschutzrechtlich Betroffene gemäß Art. 13 bzw. 14 DSGVO vor Verarbeitung seiner personenbezogenen Daten informiert wird und die übrigen Betroffenenrechte aus der DSGVO wahrnehmen kann.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21601,
+      "char_end": 21956,
+      "text": "(3) Die für das KI-Verfahren fachverantwortliche Person hat sicherzustellen, dass KI-Anwendungen, die zur Interaktion mit natürlichen Personen eingesetzt werden, etwa Chatbots, für diese Personen als KI-Systeme erkennbar sind. Für die Kennzeichnung solcher KI-Anwendung stimmt sich die für das KI-Verfahren fachverantwortliche Person mit dem KI-Office ab.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21958,
+      "char_end": 22536,
+      "text": "(4) Die für das KI-Verfahren fachverantwortliche Person ist verpflichtet sicherzustellen, dass die Datenverarbeitung in KI-Anwendungen so dokumentiert wird, dass die Universität jederzeit ihrer datenschutzrechtlichen Verpflichtungen sowie solche nach der KI-VO nachkommen und einen auch im Übrigen rechtskonformen Einsatz der KI-Anwendung nachweisen kann. Sie hat die notwendigen Informationen für das Verarbeitungsverzeichnis gemäß Art. 30 DSGVO unverzüglich dem KI-Office zur Verfügung zu stellen; das KI-Office hat die Führung des Verarbeitungsverzeichnisses sicherzustellen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22536,
+      "char_end": 22590,
+      "text": "\n\nFünfter Abschnitt\nSchlussbestimmungen (§§ 13 - 14)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22590,
+      "char_end": 22765,
+      "text": "§ 13\nÜberprüfung und Aktualisierung der Richtlinie\nDiese Richtlinie wird zwei Jahre nach Inkrafttreten evaluiert und bei Bedarf an neue technologische Entwicklungen angepasst.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22767,
+      "char_end": 22929,
+      "text": "§ 14\nVeröffentlichung und Inkrafttreten\nDiese Richtlinie tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Mitteilungen der Universität zu Köln in Kraft.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22929,
+      "char_end": 23143,
+      "text": "\n\nAusgefertigt aufgrund des Beschlusses des Rektorats der Universität zu Köln vom 20. Januar 2026.\n\nKöln, den 27. Januar 2026\n\nDer Rektor\nder Universität zu Köln\n\ngez.\nUniversitätsprofessor Dr. Joybrato Mukherjee\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23143,
+      "char_end": 25358,
+      "text": "Anhang: Genehmigung von KI-Anwendungen\n\n1. Genehmigungszuständigkeit\n\n1.1 Zuständigkeit des CIO-Boards\n\nDas CIO-Board ist zuständig für die Genehmigung des Einsatzes einer KI-Anwendung, soweit nicht das KI-Office zuständig ist (Nr. 1.2). In den folgenden Fällen ist das CIO-Board immer zuständig:\n\n1.1.1 Das Ergebnis der KI-Anwendung soll unmittelbar in ein Produkt einfließen (z. B. als Sicherheitsbauteil). In diesem Fall hat das KI-Office für das CIO-Board vorbereitend zu bewerten und zu prüfen, ob das KI-System ein Hochrisiko-KI-System i. S. d. Art. 6 Abs. 1 der KI-VO ist und zusätzliche Maßnahmen im Hinblick auf die Produkthaftung von der Universität in Betracht zu ziehen sind.\n\n1.1.2 Die KI-Anwendung soll zu einem der in Art. 6 Abs. 2 i. V. m. Anhang III der KI-Verordnung genannten Zwecke eingesetzt werden. Dies meint insbesondere die folgenden Zwecke:\n\na) Biometrie\nb) Kritische Infrastruktur\nc) Allgemeine und berufliche Bildung\nd) Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit\ne) Zugang und Inanspruchnahme grundlegender privater und öffentlicher Dienste und Leistungen\nf) Strafverfolgung\ng) Migration, Asyl und Grenzkontrolle\nh) Rechtspflege und demokratische Prozesse\n\n1.1.3 Die KI-Anwendung soll mit personenbezogenen Daten trainiert oder personenbezogene Daten sollen zu diesem Trainingszweck anonymisiert werden. In diesem Fall hat das KI-Office eine Einschätzung des Datenschutzbeauftragten einzuholen und ggfls. eine Datenschutz-Folgenabschätzung gem. Art. 35 DSGVO vorzunehmen.\n\n1.1.4 Die KI-Anwendung soll zu Lasten oder zugunsten einer natürlichen Person Entscheidungen mit rechtlicher oder ähnlich erheblich beeinträchtigender Wirkung treffen, ohne dass diese Entscheidung von einem Menschen überprüft und ggfls. abgeändert wird. In diesem Fall hat das KI-Office eine Einschätzung des Datenschutzbeauftragten im Hinblick auf Art. 22 DSGVO einzuholen.\n\n1.1.5 Das CIO-Board ist berechtigt, für bestimmte KI-Anwendungen Ausnahmen vom Standard-Freigabeverfahren zu beschließen, sofern dies die Einhaltung der rechtlichen Vorgaben nicht gefährdet. Ein solches Ausnahmeverfahren kann beispielsweise als „Fast-Track-Verfahren“ für KI-Anwendungen mit geringem Risiko dienen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25360,
+      "char_end": 25643,
+      "text": "1.2 Zuständigkeit des KI-Office\n\nDas KI-Office ist zuständig für die Genehmigung des Einsatzes von KI-Anwendungen, die zuvor auf Risiken für die Informations- und Datensicherheit geprüft wurden und keine grundsätzlichen strategischen Veränderungen der IT-Versorgung nach sich ziehen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25645,
+      "char_end": 25941,
+      "text": "2. Vorgaben für die Genehmigung\n\nBei der Genehmigung durch KI-Office, CIO-Board und Rektorat sind die folgenden Grundsätze zu beachten:\n\n2.1 KI-Anwendungen dürfen nur eingesetzt werden, wenn dieses keine erhebliche Gefahr für die dienstlichen und rechtlichen Interessen der Universität darstellt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25943,
+      "char_end": 26595,
+      "text": "2.2 KI-Anwendungen dürfen nur dann zur Verarbeitung von dienstlichen und Forschungsgeheimnissen und sonstigen vertraulichen Informationen eingesetzt werden, wenn der Anbieter angemessene Geheimhaltungsmaßnahmen zum Schutz der der Universität oder ihr anvertrauten dienstlichen und Forschungsgeheimnisse gewährleistet. Hierzu zählt mindestens:\na) eine vertragliche Verpflichtung des Anbieters, im Rahmen der Nutzung des konkreten KI-Systems die Vertraulichkeit zu wahren und\nb) die Gewährleistung marktüblicher Technisch-Organisatorischer Maßnahmen („TOM“) und\nc) angemessene Regelungen für den Fall der Beendigung der Zusammenarbeit („Exit-Strategie“).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26595,
+      "char_end": 27414,
+      "text": "\n\n2.3 KI-Anwendungen dürfen nur dann zur Verarbeitung von personenbezogenen Daten eingesetzt werden, wenn die Datenschutzkonformität sichergestellt ist. Zu den Kriterien für die Bestimmung der Datenschutzkonformität gehören mindestens:\na) der vorherige Abschluss eines Auftragsverarbeitungsvertrages gem. Art. 28 DSGVO mit dem Anbieter und\nb) die Gewährleistung des Anbieters, personenbezogenen Daten nicht zu eigenen Zwecken, insbesondere nicht zum Training seiner KI-Modelle zu verarbeiten und\nc) hinreichende Garantien i. S. d. Kapitels V der DSGVO im Falle von Datentransfers in Staaten außerhalb des Europäischen Wirtschaftsraumes und\nd) die Gewährleistung marktüblicher Technisch-Organisatorischer Maßnahmen („TOM“) und\ne) angemessene Regelungen für den Fall der Beendigung der Zusammenarbeit („Exit-Strategie“)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27414,
+      "char_end": 27864,
+      "text": "2.4 KI-Anwendungen dürfen nur eingesetzt werden, wenn dies die Universität keinen unvertretbaren urheberrechtlichen Risiken aussetzt. Hierfür ist mindestens erforderlich, dass\na) die Nutzungsbedingungen des Anbieters die Nutzung des Dienstes durch die Universität zu kommerziellen Zwecken erlauben und\nb) im Falle der Nutzung von Open Source Software sichergestellt ist, dass die Universität keinen Copyleft-Regelungen o. ä. Risiken unterworfen wird.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27866,
+      "char_end": 28050,
+      "text": "2.5 Vor jeder An- oder Einbindung der KI-Anwendung eines Dritten sind die Risiken für die Informationssicherheit der Universität zu überprüfen und geeignete Schutzmaßnahmen zu treffen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28052,
+      "char_end": 28639,
+      "text": "2.6 Für jede KI-Anwendung existieren soweit erforderlich – ein Berechtigungskonzept und eine Berechtigungsverwaltung. Mit diesen stellt die fachverantwortliche Person sicher, dass Nutzende auch im Rahmen der Anwendung von KI-Systemen nur Zugriff auf solche Daten haben, auf die sie nach dem jeweils geltenden Berechtigungskonzept bei der Universität Zugriff haben dürfen. Dabei ist durch technische Maßnahmen auch sicherzustellen, dass Nutzende mittels der KI-Anwendung keine Datenbestände durchsuchen können, für die sie nach dem geltenden Berechtigungskonzept keine Berechtigung haben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28641,
+      "char_end": 29592,
+      "text": "2.7 Im Rahmen der Genehmigung ist soweit erforderlich eine Risikoanalyse im Sinne der KI-VO und eine Einordnung in Risikoklassen durchzuführen. Bei Erstellung eines Risikomodells soll dargelegt werden, unter welchen Gesichtspunkten Risiken für Betroffene bestehen und festgelegt werden, durch welche spezifischen Maßnahmen diese Risiken begrenzt werden. Den Fachverantwortlichen werden dazu entsprechende Fragebögen und Vorlagen bereitgestellt. Dabei richtet sich die Art der Kontrolle des Einsatzes von KI-Anwendungen nach dem Risiko der KI-Anwendung:\na) Bei Hochrisiko-KI-Systemen i. S. d. KI-VO und bei Hochrisikoentscheidungen mit rechtlicher oder erheblicher personenbezogener Wirkung ist vor Wirksamwerden eine menschliche Endfreigabe zwingend (Human-in-the-Loop).\nb) Bei mittlerem Risiko genügt eine laufende Überwachung mit Eingriffsrecht (Human-on-the-Loop).\nc) Bei geringem Risiko erfolgt eine stichproben- oder anlassbezogene Nachkontrolle.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29594,
+      "char_end": 30589,
+      "text": "2.8 Im Rahmen der Genehmigung ist die Vereinbarkeit der KI-Anwendung mit den Schutzzielen nach § 2 sowie der KI-Strategie der Universität zu prüfen. Dabei sind auch folgende Aspekte zu beachten:\na) Einhaltung von ethischen Standards\nb) Einhaltung von Souveränitätsstandards\nc) Einhaltung von Nachhaltigkeitsstandards\nd) Offenheit (z. B. Open Source, Open Data, Open Education, Open Science etc.)\ne) Nachvollziehbarkeit und Erklärbarkeit (v. a. bei Hochrisiko-Anwendungen)\nf) Bias- und Diskriminierungsrisiken\ng) Qualität und Zuverlässigkeit (z. B. durch Benchmarks)\nh) Kosten und Lizenzmodell\ni) Verfügbarkeit, inkl. Lock-In-Problematiken\nj) Technische Möglichkeiten zur Einhaltung der Kennzeichnungspflichten\nk) Datenschutzrechtliche Compliance und IT-Sicherheit (insbesondere hinsichtlich Technisch-Organisatorischer Maßnahmen (TOMs) und Auftragsverarbeitungsverträgen (AVV))\nl) Urheberrecht und Rechte des Geistigen Eigentums (IP)\nm) Einhaltung des Allgemeinen Gleichbehandlungsgesetzes (AGG)",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30591,
+      "char_end": 30891,
+      "text": "2.9 Im Rahmen der Genehmigung sind die Vereinbarkeit der KI-Anwendung mit den Dienstvereinbarungen und die Mitbestimmungspflichtigkeit zu prüfen. Den Personalräten ist die Prüfdokumentation zugänglich zu machen. Ggf. ist vor der Genehmigung die gesetzliche Beteiligung der Personalräte durchzuführen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30893,
+      "char_end": 31096,
+      "text": "3. Angaben auf der Whitelist\n\n3.1 Auf der Whitelist können einzelne bestimmte KI-Anwendungen, bestimmte Arten von zulässigen KI-Anwendungen oder Kriterien für zulässige KI-Anwendungen aufgenommen werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31098,
+      "char_end": 31479,
+      "text": "3.2 Aus der Whitelist muss für die Nutzenden der erlaubte Nutzungszweck, der erlaubte Umfang, die Art der erlaubten Nutzung, der zur Nutzung berechtigten Personenkreis ersichtlich sein sowie ggf. weitere Einschränkungen, insbesondere hinsichtlich bestimmter zulässiger Einstellungen der KI-Anwendung und darüber hinaus spezifische Pflichten oder Verantwortlichkeiten der Nutzenden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 73,
+      "match_type": "exact"
+    }
+  ]
+}

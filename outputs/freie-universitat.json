@@ -1,0 +1,1242 @@
+{
+  "doc_id": "freie-universitat",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "KI und darauf basierende Systeme und Tools haben in den letzten Jahren erheblich an Bedeutung gewonnen und sind mittlerweile Bestandteil vielfältiger Lebensbereiche, nicht zuletzt in Bildung und Forschung. Die Entwicklungen im Feld künstlicher Intelligenz haben sowohl in inhaltlicher Hinsicht wie auch im Hinblick auf Verbreitung und Zugänglichkeit eine neue Dimension erreicht.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Den unverhandelbaren Grundsätzen guter wissenschaftlicher Praxis und wissenschaftlicher Integrität verpflichtet, strebt die Freie Universität Berlin im Umgang mit KI-basierten Tools in Studium und Lehre eine kritische und technologiereflektierende Position an: Im Sinne einer zukunftsorientierten Hochschullehre, die Studierende zur Übernahme von Verantwortung in einer globalen, diversen und digitalen Wissenschaft vorbereitet, ist es das Ziel, den Mehrwert neuer Technologien auf Basis fachlich-methodischer Reflexion zu nutzen, wie auch Risiken und ethische Fragen angemessen zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Das vorliegende Papier formuliert Eckpunkte für eine verantwortungsbewusste Nutzung in Studium und Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Angesichts der dynamischen Entwicklungen werden diese Eckpunkte regelmäßig hochschulintern und auf Basis der jeweils aktuellen Forschungslage sowie europa-, bundes- oder landesrechtlicher Änderungen abgestimmt und angepasst. Die im Folgenden dargestellten Hinweise zu Grundsätzen und Einzelaspekten verstehen sich daher vorbehaltlich. Dieses Eckpunktepapier wurde erstmals im Mai 2023 veröffentlicht und nun umfassend aktualisiert (Stand: 07. Oktober 2025).",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "KI-basierte Tools bergen für Studium und Lehre vielfältige Chancen und Anlässe zur Weiterentwicklung von curricularen Inhalten, didaktischen Konzepten, Lern- bzw. Prüfungsszenarien, aber auch Arbeitsweisen und studentischen Lernstrategien im Sinne einer modernen auf Zukunftskompetenzen ausgerichteten Hochschullehre.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Dabei ist die Fähigkeit, künstliche Intelligenz zu verstehen, kritisch zu hinterfragen und verantwortungsvoll einzusetzen, essenziell. Eine entsprechende KI-Kompetenz ist Voraussetzung, um fundierte Entscheidungen zu treffen, Risiken zu minimieren und gesetzliche Vorgaben einzuhalten. Gleichzeitig ermöglicht sie, dass das Potenzial von KI bestmöglich genutzt wird und Innovationen entwickelt werden können.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Anliegen der Freien Universität ist es, den Studierenden und Lehrenden die durch KI eröffneten Möglichkeiten chancengerecht, teilhabeorientiert und regulierungskonform zugänglich zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Die Freie Universität stellt ihren Hochschulangehörigen daher mit KI.Assist@FU einen zentralen Zugang zu generativer KI verbunden mit Angeboten und Empfehlungen zum Kompetenzerwerb bereit. Damit unterstützt sie Lehrende im verantwortungsvollen Umgang mit KI-Tools und dem Erwerb der dafür notwendigen Kenntnisse. Auf diese Weise werden Lehrende in die Lage versetzt, sicherzustellen, dass sie über die erforderlichen Kompetenzen verfügen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Zum Einsatz von KI in der Lehre wird dieser regulierungskonforme, chancengerechte und zentral bereitgestellte Zugang empfohlen. Dies gilt insbesondere dann, sofern die Nutzung für Studierende verpflichtender Bestandteil der Lehre sein soll. Ob und inwiefern KI in ihrer Lehre zum Einsatz kommt, liegt dabei im Ermessen der jeweiligen Lehrenden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Im Umgang mit KI-Systemen ist grundsätzlich zu beachten:\n\n- Ergebnisqualität: KI-Systeme können sogenannte Halluzinationen erzeugen, d. h. faktisch unzutreffende oder erfundene Inhalte, die plausibel und evident erscheinen. Ergebnisse sollten daher stets einer kritischen Prüfung auf Grundlage fachspezifischer wissenschaftlicher Kriterien unterzogen werden, insbesondere im Hinblick auf Nachvollziehbarkeit, fachliche Richtigkeit und argumentative Schlüssigkeit.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Bias: Trainingsdaten von KI-Modellen können stereotype, unausgewogene oder diskriminierende Muster enthalten. Diese Verzerrungen können sich in den generierten Ergebnissen niederschlagen und unbeabsichtigt reproduziert oder verstärkt werden.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Gute wissenschaftliche Praxis: Der Einsatz von KI-basierten Tools darf die Grundsätze guter wissenschaftlicher Praxis nicht verletzen, insbesondere das Transparenzgebot als wissenschaftliches Redlichkeitsprinzip.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Nachhaltigkeit und ressourcenschonender Einsatz: Die Entwicklung und der Betrieb von KI-Systemen sind mit erheblichem Energieverbrauch und Kosten verbunden. Ein bewusster, zweckgebundener und ressourcenschonender Einsatz ist daher erforderlich und soll im Einklang mit den Nachhaltigkeitszielen der Freien Universität erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Datenschutz: Bei der Nutzung von KI-Tools ist die Einhaltung des geltenden Datenschutzrechts, insbesondere der DSGVO, des BDSG und des Berliner Datenschutzgesetzes (BlnDSG), zwingend sicherzustellen. Dies betrifft sowohl die Eingabe personenbezogener Daten in KI-Systeme als auch die Weiterverwendung der durch die KI-Systeme erzeugten Inhalte.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Urheberrecht: KI-Tools können nicht als Urheber*innen im Sinne des Urheberrechtsgesetzes gelten. Die Verantwortung für die Verwendung von KI-generierten Inhalten, einschließlich fehlerhafter Angaben, unzutreffender Referenzen, urheberrechtlicher Verstöße oder Plagiate, liegt ausschließlich bei den Nutzenden. Der Upload urheberrechtlich geschützter Materialien in KI-Tools stellt eine urheberrechtlich relevante Handlung dar und ist nur im Rahmen der gesetzlichen Bestimmungen zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "- Kompetenzerwerb gem. KI-Verordnung (KI-VO) Art. 4: Gem. KI-VO Art. 4 ergreift die Freie Universität Maßnahmen um sicherzustellen, dass Personen, die im Rahmen ihrer Tätigkeit in Studium und Lehre mit dem Betrieb und der Nutzung von KI.Assist@FU befasst sind, über ein ausreichendes Maß an KI-Kompetenz verfügen. Zu diesem Zwecke bietet die Freie Universität Schulungen an, die Themen wie ethische Fragestellungen, Datenschutz, Inklusion sowie praktische Anwendung und Grenzen von KI-Systemen in der Lehre umfassen. Lehrende sind angehalten, regelmäßig Weiterbildungen im Bereich KI zu absolvieren und ihre jeweilige Teilnahme zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "- KI-VO Art. 5 und 6: Verbotene Praktiken gemäß KI-VO Art. 5 sowie Hochrisiko-Anwendungen gemäß KI-VO Art. 6 Abs. 2 sind untersagt. Dies umfasst gemäß Art. 6 Abs. 2 Anhang III Nr. 3 KI-VO insbesondere KI-Systeme, die die Zulassung zum Studium und zu Prüfungen, Leistungsbewertung, die Bewertung des Bildungsniveaus sowie die Überwachung in Prüfungen betreffen.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Die Integration von KI-Anwendungen in die Hochschullehre eröffnet die Möglichkeit, in fachlich und methodisch relevanter Hinsicht modernste technologische Entwicklungen zum Gegenstand kritischer Reflexion und Erprobung zu machen. Für Lehrende bietet KI zudem vielfältige Möglichkeiten, ihre Lehrtätigkeit effizienter, flexibler und individueller zu gestalten. KI-gestützte Anwendungen können in zahlreichen Phasen des Lehrprozesses zur Unterstützung einbezogen werden – von der Planung über die Durchführung bis hin zur reflexiven Weiterentwicklung. Sie können neue didaktische Perspektiven fördern und den Zugang zu Wissen für Studierende diverse Zielgruppen durch den Abbau von Barrieren erleichtern.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Für Lehrende ergeben sich insbesondere folgende Einsatzszenarien von KI.Assist@FU in der Lehre, stets unter Berücksichtigung rechtlicher, ethischer und prüfungsbezogener Rahmenbedingungen.\n\n- Fachlich-methodische Auseinandersetzung mit KI im Rahmen der Lehre als Baustein zu einer studierendenzentrierten auf Zukunftskompetenzen ausgerichteten Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Konzeptionelle und methodische Planung von Lehrveranstaltungen: Bei der Planung und Vorbereitung von Lehrveranstaltungen können KI-Tools helfen, indem sie Inspiration für Lehr-Konzepte und -Methoden liefern, Lehrveranstaltungen durch die Erstellung von Semesterplänen strukturieren oder entsprechende Lernziele und Kursbeschreibungen bereitstellen. Außerdem ermöglichen sie eine stärkere Individualisierung der Lehre, etwa durch Empfehlungen für differenzierte Lernwege je nach Kenntnisstand der Studierenden. Auch das Vereinfachen oder Übersetzen komplexer Inhalte zur Reduktion von Zugangsbarrieren kann durch KI-Anwendungen erleichtert werden.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Erstellung von Lehr-Lern-Materialien: Lehrende können KI-Tools nutzen, um Lehr-Lern-Materialien wie Foliensätze, Zusammenfassungen, Arbeitsblätter, Fallstudien oder Quiz- und Prüfungsfragen zu generieren. Ebenso können Lernmaterialien wie Tutorials, Hausaufgaben oder zusätzliche Übungsaufgaben automatisiert erstellt und an den Lernkontext angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Unterstützung bei der Erstellung von Feedback: KI-Tools können Lehrende bei der Erstellung von Feedback unterstützen – beispielsweise bei der Formulierung von Fließtexten aus Stichpunkten bei Rückmeldungen zu Argumentationen, Hausarbeiten oder anderen studentischen Leistungen. Basis für die Erstellung von Feedback mittels KI-Anwendungen muss dabei immer die eigene Bewertung des Lehrenden sein. Die Eingabe von studentischen Leistungen in KI-Tools ist dabei aus Urhebergründen nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI sollten Lehrende in Ergänzung der allgemeinen Grundsätze (s. Pkt. 2) insbesondere folgende rechtlichen und ethischen Aspekte beachten. Ausführungen zum Prüfungskontext finden sich gesondert unter Pkt. 5.\n\n- Kompetenzerwerb: Lehrende, die KI einsetzen, sind angehalten, Kompetenzen zu erwerben, um KI-Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen können, bewusst zu sein. Lehrende sind entsprechend angehalten, regelmäßig Weiterbildungen im Bereich KI zu absolvieren und ihre jeweilige Teilnahme zu dokumentieren. Dies gilt insbesondere dann, sofern die Nutzung für Studierende verpflichtender Bestandteil der Lehre ist.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Transparenz und Kompetenzvermittlung: Der Einsatz von KI-Tools in Lehrveranstaltungen muss klar kommuniziert und nachvollziehbar gestaltet werden. Sofern im Rahmen der Lehre die Nutzung von KI durch Studierende vorgesehen ist, muss die Lehrperson die Studierenden über die Funktionsweise und Risiken der im Kontext der jeweiligen Lehre eingesetzten bzw. zugelassenen KI-basierten Tools aufklären. Zudem sind Studierenden die Kompetenzen zum kritischen Einsatz auf Basis fachlich-methodischer Reflexion sowie gemäß den fachspezifischen Hinweisen zum wissenschaftlichen Arbeiten zu vermitteln.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "- Didaktische Verantwortung: Der Einsatz von KI in der Lehre steht stets im Dienst der Lernziele. KI-Elemente werden didaktisch geplant und transparent in das Curriculum eingebettet. Ihre Wirksamkeit und fachliche Richtigkeit sind regelmäßig zu überprüfen und bei Bedarf anzupassen. Die pädagogische Gesamtverantwortung verbleibt uneingeschränkt bei den Lehrenden.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Chancengerechtigkeit: Sofern KI in der Lehre verbindlich zum Einsatz kommen soll, muss der verbindliche Einsatz im Sinne der Chancengerechtigkeit so ausgestaltet sein, dass die Lernziele bzw. das Bearbeiten von Aufgabenstellungen mit der zentral bereitgestellten KI der FU vollumfänglich erreichbar sind.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Datenschutz und Urheberrecht: Bei der Verarbeitung von Daten sind die geltenden rechtlichen Vorgaben einzuhalten. Insbesondere ist die Eingabe / der Upload personenbezogener bzw. urheberrechtlich geschützter Inhalte in KI-Systeme grundsätzlich untersagt. Die Eingabe von studentischen Leistungen in KI-Tools ist daher nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "- Einsatzwecke: Die Nutzung von KI.Assist@FU ist ausschließlich zu universitären Zwecken erlaubt.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "Die Freie Universität Berlin versteht den souveränen Umgang mit Künstlicher Intelligenz als eine Schlüsselkompetenz der Zukunft. Sie verfolgt das Ziel, Studierende fachwissenschaftlich zu bilden und verbunden damit, sie auf eine zunehmend digitale und dynamische Arbeits- und Forschungswelt vorzubereiten. KI-Kompetenzen im Sinne einer umfassenden AI Literacy sind dabei ein zentraler Bestandteil moderner akademischer Bildung.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Um dies zu unterstützen, stellt die Freie Universität ihren Studierenden einen datenschutzkonformen Zugang zu KI-gestützten Anwendungen bereit, ergänzt durch begleitende Materialien sowie Empfehlungen zur KI-Kompetenzentwicklung, die eine verantwortungsvolle, rechtskonforme und zugleich kreative Nutzung von KI im Studium ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Für Studierende ergeben sich insbesondere folgende Einsatzszenarien von KI-Tools, stets unter Berücksichtigung rechtlicher, ethischer und insbesondere fachspezifischer und prüfungsrechtlicher Rahmenbedingungen. Gesonderte Ausführungen zum Prüfungskontext finden sich unter Pkt. 5.\n\n- Inspiration und Themenfindung: KI-Tools können Studierende dabei unterstützen, im Studienkontext passende Themengebiete (z.B. auf Basis eigenständig erbrachter Vorleistungen) zu finden und diese mittels exemplarischer Forschungsfragen entsprechend einzugrenzen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Orientierung in Wissensgebieten: KI-Tools können das Lernen unterstützen, indem sie erste Orientierung in einem neuen Wissens- oder Fachgebiet bieten oder komplexe Konzepte und Begriffe erläutern und anschaulich machen.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Dialogische Unterstützung von Lernprozessen: KI-Tools können Quizfragen auf Basis von allgemeinem Fachwissen oder Mitschriften aus einer Lehrveranstaltung erstellen, um den Lernfortschritt zu unterstützen oder zur gezielten Prüfungsvorbereitung. KI kann über dialogische Ansätze auch den kritisch reflektierenden Lernprozess („sokratisches Lernen“) unterstützen oder als digitaler „study buddy“ fungieren. Ferner können Studierende mithilfe von KI-Tools Lernphasen strukturieren, indem sie sich Zeitpläne oder Meilensteine ausgegeben lassen.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Erstellung von Feedback: KI kann kritisches Feedback zum Arbeitsstand geben. So können Studierende z.B. den von ihnen erarbeiteten Text nach Stärken und Schwächen analysieren lassen, um mithilfe von den Ergebnissen eine Überarbeitung vorzunehmen.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "- Editing und Überarbeitung: KI-Tools können genutzt werden, um Texte formal zu überarbeiten, z.B. im Rahmen der Optimierung von Rechtschreibung, Grammatik und des sprachlichen Ausdrucks.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Bei der Nutzung von KI sollten Studierende in Ergänzung der allgemeinen Grundsätze (s. Pkt. 2) insbesondere folgende rechtlichen und ethischen Aspekte beachten:\n\n- Eigenverantwortung und Informationspflicht: Studierende sind verpflichtet, sich eigenständig über die für ihr Studium geltenden Regelungen zur Nutzung von KI zu informieren. Im Zweifel über Zulässigkeit oder Umfang der Nutzung im Kontext von Studium und Lehre sind sie angehalten, vorab Rücksprache mit den jeweiligen Lehrenden zu halten.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Gute wissenschaftliche Praxis: Grundsätze wissenschaftlicher Integrität (z. B. Transparenz, Nachvollziehbarkeit, Eigenleistung) sind beim Einsatz von KI einzuhalten.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Überprüfung der Ergebnisse: KI-Outputs müssen stets sorgfältig überprüft und, falls erforderlich, angepasst werden. Studierende sind sich dabei insbesondere auch der Bias und Diskriminierungsrisiken bewusst.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "- Verantwortung für Inhalte: Studierende sind für alle von ihnen mit KI-Tools generierten Inhalte verantwortlich, einschließlich möglicher Falschaussagen, verzerrter Darstellungen oder Plagiate.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Datenschutz und Urheberrecht: Bei der Eingabe von Daten sind die geltenden rechtlichen Vorgaben einzuhalten. Insbesondere ist der Upload urheberrechtlich geschützter (z. B. Fachartikel, Lehrbücher) oder personenbezogener Inhalte (z. B. Namen, E-Mail-Adressen, Matrikelnummer, Prüfungsdaten) in KI-Systeme untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "- Einsatzzwecke: Die Nutzung von KI.Assist@FU ist ausschließlich zu universitären Zwecken erlaubt.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "A) KI-basierte Tools als nicht zugelassenes Hilfsmittel (empfohlen für Prüfungen unter Aufsicht, z.B. Klausuren)\n\nSofern KI-basierte Tools nicht ausdrücklich für die Prüfungen zugelassen sind und die Studierenden die Benutzung der KI-basierten Tools nicht angeben, täuschen Studierende durch den Einsatz von KI-basierten Tools während der Prüfungen über die Eigenständigkeit ihrer Leistung. Selbst wenn die Studierenden die Benutzung der KI-basierten Tools ausdrücklich angeben, obwohl diese KI-basierten Tools nicht zugelassen sind, handelt es sich gleichwohl um die Benutzung eines unzulässigen Hilfsmittels gemäß § 19 Absatz 3 Satz 1 Var. 2 RSPO, die wie ein Täuschungsversuch in der Rechtsfolge behandelt wird.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "B) KI-basierte Tools als zugelassenes Hilfsmittel (empfohlen für Prüfungen ohne Aufsicht, z.B. Hausarbeiten)\n\nOb es überhaupt möglich ist, dass KI-basierte Tools als Hilfsmittel in Prüfungen zugelassen werden, entscheidet der jeweilige Prüfungsausschuss nach gründlicher Abwägung im Rahmen seiner Zuständigkeit nach § 6 Absatz 1 Satz 2 RSPO. Im Zuge dessen sollten durch den Prüfungsausschuss die Eigenständigkeitserklärung sowie die fachspezifischen Empfehlungen zum wissenschaftlichen Arbeiten geprüft und ggfs. angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Dass bzw. welche KI-basierten Tools tatsächlich in einer bestimmten Prüfung zugelassen sind, wird jeweils durch den*die Lehrende*n, der*die die Prüfung abnimmt, entschieden und den Studierenden gegenüber transparent gemacht. In diesem Zusammenhang ist auch klar zu kommunizieren, welche Art der Nutzung der zugelassenen KI-basierten Technologien erlaubt ist, etwa ausschließlich zur sprachlichen Überarbeitung, zur Einholung von Feedback zum eigenen Text oder zur Unterstützung bei der Literaturrecherche. In jedem Fall ist es notwendig, die Studierenden über Funktionsweise und Risiken der zugelassenen KI-basierten Tools sowie den Einsatz im Sinne guter wissenschaftlicher Praxis aufzuklären. Prüfende, die den Einsatz von KI gestatten müssen darüber hinaus methodische Wege entwickeln, die eine von KI abgrenzbare Eigenleistung identifizierbar und bewertbar machen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Als zugelassenes Hilfsmittel muss die Verwendung entsprechend gekennzeichnet und dokumentiert werden. Eine Kennzeichnungspflicht für KI-generierte Inhalte kann sich zudem aus den jeweiligen Nutzungsbedingen der jeweiligen Tools ergeben.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Sofern KI-basierte Tools für die Prüfung zugelassen sind, aber ohne entsprechende Kennzeichnung eingesetzt werden, handelt es sich um eine Täuschung über die Eigenständigkeit gemäß § 19 Absatz 3 Satz 1 Var. 1 RSPO.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "C) Verpflichtender Einsatz in Prüfungen\n\nVon einem verpflichtenden Einsatz von KI in Prüfungen wird bis auf Weiteres dringend abgeraten.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "D) Bewertung von Prüfungen\n\nDie automatisierte Bewertung von Lernergebnissen und insbesondere von Prüfungen durch KI wird von der KI-VO (in Art. 6 Abs. 2 i.V.m. Anlage 3) als „hochriskant“ eingestuft und ist bis auf Weiteres untersagt. KI sollte allenfalls vorbereitend und unterstützend eingesetzt werden, indem die Vorschläge als unverbindlich für den Bewertungsprozess angesehen werden. KI-Outputs sind stets durch die prüfende Person kritisch zu hinterfragen. Die prüfende Person muss stets die Letztentscheidung für die Bewertung treffen und trägt die Verantwortung für die Bewertung. Die Eingabe von studentischen Leistungen in KI-Tools ist aus Urheberrechtsgründen nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "E) Empfehlungen im Hinblick auf Verdachtsfälle bzgl. Täuschungsversuchen und der Benutzung von unerlaubten Hilfsmitteln bzw. Verstößen gegen gute wissenschaftliche Praxis\n\nDie Prüfung eines Verdachtsfalls und die Ergebnisse der Prüfung sind vollständig zu dokumentieren und sollte in der Regel zeitnah erfolgen. Im Rahmen dessen findet eine Anhörung gem. §19 Abs. 6 RSPO statt.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Antiplagiatssoftware „Identific“ oder andere KI-gestützte Tools zur Erkennung von ggf. KI-generierten Texten sind angesichts nicht hinreichender Ergebnisqualität und mangels Überprüfbarkeit der Ergebnisse durch die prüfende Person prüfungsrechtlich nicht belastbar und daher alleine nicht geeignet für die Feststellung von KI-generierten Texten. Auch die Wahrung des Urheberrechts ist in diesem Kontext zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Die nähere Regelung zum Umgang mit Verdachtsfällen bzgl. Täuschungsversuchen und der Benutzung von unerlaubten Hilfsmitteln obliegt gem. §§ 6 Absatz 1, 19 Absatz 3 RSPO dem jeweils zuständigen Prüfungsausschuss.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "Die Freie Universität Berlin stellt ihren Hochschulangehörigen mit KI.Assist@FU einen zentralen Zugang zu generativer KI bereit, um den regulierungskonformen und chancengerechten Einsatz von KI in Studium und Lehre zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Im Rahmen des zentral bereitgestellten Angebots stehen unterschiedliche KI-Modelle zur Verfügung, die über europäisch gehostete Infrastrukturen bereitgestellt werden:\n\n- Open-Weight-Modelle werden durch nationale KI-Servicezentren (z. B. GWDG/KISSKI) zur Verfügung gestellt und auf Servern in Deutschland betrieben.\n- Proprietäre Modelle (z. B. OpenAI-Modelle) werden über EU-basierte Cloud-Dienste bereitgestellt. Die Verarbeitung erfolgt unter Einhaltung der Vorgaben der DSGVO in einem datenschutzkonformen Silo-Modell mit verschlüsselter Speicherung.\n- Perspektivisch ist auch die Einbindung lokal an der Freien Universität Berlin gehosteter Modelle vorgesehen und in der Architektur bereits angelegt.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Nutzende werden über die Nutzungsoberfläche transparent darüber informiert, welches KI-Modell ihre Anfrage bearbeitet. Informationen zu den spezifischen Eigenschaften der verschiedenen Modelle finden sich unter: https://wikis.fu-berlin.de/x/doh3a",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Die Nutzung ist ausschließlich zu universitären Zwecken erlaubt.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Die Anmeldung erfolgt über das zentrale Single-Sign-On-Verfahren mit dem persönlichen FU-Account, eine zusätzliche Registrierung bei externen Anbietern ist nicht erforderlich. Die Nutzung erfolgt pseudonymisiert und datensparsam. Die Eingabe personenbezogener oder vertraulicher Daten ist gemäß der Nutzungsbedingungen nicht zulässig. Die Verwendung der Eingaben zum Training der zugrunde liegenden Modelle ist ausgeschlossen.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "Bis auf Weiteres werden die Kosten zentral übernommen und prozessbegleitend evaluiert. Je nach Kostenentwicklung behält sich die Hochschulleitung Anpassungen vor. Detaillierte Informationen zu den verfügbaren KI-Modellen, datenschutzrechtlichen Rahmenbedingungen, Einsatzszenarien sowie organisatorischen Hinweisen werden durch die zuständigen zentralen Stellen der Universität regelmäßig aktualisiert und veröffentlicht (www.ki.fu-berlin.de).",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Die Freie Universität Berlin empfiehlt zur Nutzung generativer KI in der Lehre ausdrücklich das zentral bereitgestellte Angebot. Damit ist verbunden:\n\n- Rechtssicherheit durch geprüfte Infrastruktur, Auftragsverarbeitungsverträge (AVV) und dokumentiertes IT-Verfahren,\n- Chancengleichheit durch kostenfreien Zugang für alle Statusgruppen,\n- Technisch-didaktische Unterstützung durch begleitende Schulungen und Beratung.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Beratung und Angebote zu technischen und didaktischen Fragen rund um KI-basierte Tools in der Hochschullehre werden an der Freien Universität Berlin sukzessive ausgebaut und derzeit durch den Bereich E-Learning und E-Examination der Abt. Lehre, Studium, Forschung der FUB-IT (ehem. CeDiS), die UB und das Dahlem Center for Academic Teaching (DCAT) angeboten. Ergänzende Angebote finden sich beim BZHL und der dghd.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Für Fragen zu generativer KI sowie zum reflektierten und rechtskonformen Einsatz von KI in Studium und Lehre stehen verschiedene Unterstützungsangebote für Lehrende und Studierende an der Freien Universität Berlin zur Verfügung, eine Übersicht bietet die KI@FU-Projektseite: www.ki.fu-berlin.de. Bei weiteren Fragen wenden Sie sich bitte an das Team von KI@FU (ki@fu-berlin.de).",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Vorschlag zur Anpassung der Eigenständigkeitserklärung sofern KI-basierte Tools in Prüfungen ohne Aufsicht zugelassen sind:\n\n1. Hiermit versichere ich,\n - dass ich die von mir vorgelegte Arbeit selbständig abgefasst habe, und\n - dass ich keine weiteren Hilfsmittel verwendet habe als diejenigen, die im Vorfeld explizit zugelassen und von mir angegeben wurden und\n - dass ich die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen und KI-basierte Tools) entnommen sind, unter Angabe der Quelle kenntlich gemacht habe und\n - dass ich die vorliegende Arbeit noch nicht für andere Prüfungen eingereicht habe.\n\n2. Mir ist bewusst,\n - dass ich diese Prüfung nicht bestanden habe, wenn ich die mir bekannte Frist für die Einreichung meiner schriftlichen Arbeit versäume und\n - dass ich im Falle eines Täuschungsversuchs diese Prüfung nicht bestanden habe und\n - dass ich im Falle eines schwerwiegenden Täuschungsversuchs ggf. die Gesamtprüfung endgültig nicht bestanden habe und in diesem Studiengang bzw. Studienangebot nicht mehr weiter studieren darf und\n - dass ich, sofern ich zur Erstellung dieser Arbeit KI-basierter Tools verwendet habe, die Verantwortung für eventuell durch die KI generierte fehlerhafte oder verzerrte (bias) Inhalte, fehlerhafte Referenzen, Verstöße gegen das Datenschutz- und Urheberrecht oder Plagiate trage.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Folgende Aspekte können bei einer Anpassung der Leitfaden zum wissenschaftlichen Arbeiten berücksichtigt werden.\n\n## Kennzeichnungspflicht:\n\n- Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach KI-basierten Tools (insbes. Textgeneratoren) entnommen sind, sind unter Angabe der Quelle kenntlich zu machen. Beachten Sie dabei, dass es sich bei KI-erstellten Inhalten i.d.R. nicht um zitierfähige wissenschaftliche Quellen handelt (sofern diese nicht selbst Gegenstand der Arbeit sind). Fachliche Aussagen sollten stets durch überprüfbare wissenschaftliche Literatur belegt werden.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "## Transparenzmachung der Art der Nutzung:\n\n- Stellen der Arbeit, die auf der Nutzung von KI-basierten Tools im Hinblick auf für die Prüfung relevante Kompetenzen basieren, müssen per Fußnote entsprechend kenntlich gemacht und die Art der Nutzung genannt werden. (Exemplarisch: Nutzung zur Ideenfindung, zur Erstellung der Gliederung, zur Entwicklung/Optimierung von Software-Quelltexten, zur sprachlichen Optimierung, zur Erstellung von Textpassagen etc.)",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "## Dokumentationspflicht:\n\n- Im Anhang der Arbeit sind die zur Erstellung der Arbeit genutzten KI-basierten Tools wie folgt zu dokumentieren:\n - Name des KI-Tools, Modell/Softwareversion, ggfs. Datum des Abrufs, ggfs. URL, ggfs. verwendeter Prompt und ggfs. Ergebnis (Transkription oder Screenshots)",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "# ki.assist@fu: zentrales ki-system an der freien universität berlin",
+      "repaired": true
+    },
+    {
+      "id": 66,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "# angebote zum kompetenzaufbau und beratung an der freien universität",
+      "repaired": true
+    },
+    {
+      "id": 67,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "weitere beispiele für eigenständigkeitserklärungen aus verschiedenen fachkontexten finden sich hier: bcp: https://www.bcp.fuberlin.de/studiumlehre/verwaltung/pruefungsbuero/pruefungsbuero_biologie/bsckombibiologie/0_ressourcen/vorlage-eigenstaendigkeit.pdf lai: hausarbeiten: https://www.lai.fuberlin.de/studium/master/060-wichtige_dokumente/ressourcen_wichtige_dokumente/eigenstaendigkeitserklärung_hausarbeit-ma-las_2024.pdf abschlussarbeiten: https://www.polsoz.fuberlin.de/studium/downloads/downloads_studiengaenge/ma_interdisziplinaere_lateinamerikastudien/eidestattl_-erklaerung_ma-arbeit-las_2024.pdf",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "# vorschlag zur ergänzung von leitfaden bzw. hinweisen zum wissenschaftlichen arbeiten sofern ki-basierte tools zugelassen sind:",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 68,
+    "matched": 65,
+    "unmatched_count": 3,
+    "unmatched": [
+      {
+        "id": 65,
+        "B": "B10",
+        "matched_words": "3/9",
+        "text": "# ki.assist@fu: zentrales ki-system an der freien universität berlin"
+      },
+      {
+        "id": 67,
+        "B": "B10",
+        "matched_words": "11/17",
+        "text": "weitere beispiele für eigenständigkeitserklärungen aus verschiedenen fachkontexten finden sich hier: bcp: https://www.bcp.fuberlin.de/studiumlehre/verwaltung/pruefungsbuero/pruefungsbuero_biologie/bsckombibiologie/0_ressourcen/vorlage-eigenstaendigkeit.pdf lai: hausarbeiten: https://www.lai.fuberlin.de/studium/master/060-wichtige_dokumente/ressourcen_wichtige_dokumente/eigenstaendigkeitserklärung_hausarbeit-ma-las_2024.pdf abschlussarbeiten: https://www.polsoz.fuberlin.de/studium/downloads/downloads_studiengaenge/ma_interdisziplinaere_lateinamerikastudien/eidestattl_-erklaerung_ma-arbeit-las_2024.pdf"
+      },
+      {
+        "id": 68,
+        "B": "B7",
+        "matched_words": "12/16",
+        "text": "# vorschlag zur ergänzung von leitfaden bzw. hinweisen zum wissenschaftlichen arbeiten sofern ki-basierte tools zugelassen sind:"
+      }
+    ],
+    "source_coverage": 0.866,
+    "uncovered_chars": 3879,
+    "uncovered_gaps": 9,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 586,
+        "length": 586,
+        "text": "# freie universität # source: https://www.ki.fuberlin.de/_dokumente/eckpunktezum-umgangmit-ki-basierten-systemenund-toolsin-studiumund-lehre.pdf # date: 2025-10-07 # category: guideline # download file: freieuniversitat.pdf # extraction: mistralocr # eckpunkte zum umgang mit ki-basierten systemen und tools in studium und lehre impressum freie universität berlin das präsidium fub-it | abt. lehre, studium, forschung | arbeitsbereich e-learning & e-examinations www.ki.fuberlin.de oktober 2025 eckpunkte zum umgang mit ki-basierten systemen und tools in studium und lehre # einführung"
+      },
+      {
+        "char_start": 2124,
+        "char_end": 2191,
+        "length": 67,
+        "text": ". # grundsätzliches zum umgang mit ki-basierten systemen und tools"
+      },
+      {
+        "char_start": 6952,
+        "char_end": 6982,
+        "length": 30,
+        "text": ". # ki.assist@fu in der lehre"
+      },
+      {
+        "char_start": 12060,
+        "char_end": 12088,
+        "length": 28,
+        "text": ". # ki.assist@fu im studium"
+      },
+      {
+        "char_start": 16064,
+        "char_end": 16130,
+        "length": 66,
+        "text": ". # umgang mit ki-basierten tools in prüfungen (mit rechtsfolgen)"
+      },
+      {
+        "char_start": 20568,
+        "char_end": 20639,
+        "length": 71,
+        "text": ". # ki.assist@fu: zentrales ki-system an der freien universität berlin"
+      },
+      {
+        "char_start": 24022,
+        "char_end": 25781,
+        "length": 1759,
+        "text": ". # weiterführende informationen bast schneider, a., dammer, k. h., eckhardt kamps, c., & schön, h. (2025). ki und chatgpt in bildungskontexten: theoretische überlegungen und beispiele aus der praxis (bd. 67). heidelberg: mattes verlag. https://doi.org/10.60497/opus-1747 europäische union. (2024). verordnung über künstliche intelligenz: ki-verordnung (ki-vo). abgerufen am 01.10.2025, von https://aiactlaw.eu/de/ geminn, c., johannes, p. c., nebel, m., & bile, t. (2025). beurteilung von learning analytics nach datenschutzrecht und ki-verordnung an hochschulen in berlin: gutachten im auftrag des fachgebiets „didaktik der informatik | informatik und gesellschaft\" an der humboldt-universität zu berlin. mathematisch-naturwissenschaftliche fakultät. abgerufen am 01.10.2025, von https://doi.org/10.18452/34635 glatzmeier, a. (2025). faqs zum einsatz von identific. abgerufen am 01.10.2025, von https://www.fuberlin.de/sites/ub/forschenlehren/antiplagiatssoftware/faqs/index.html hochschulforum digitalisierung. (2024). chatgpt in studium und lehre. abgerufen am 01.10.2025, von https://hochschulforumdigitalisierung.de/chatgptinstudiumundlehre/ hochschulforum digitalisierung. (2025). hawki2: vom interface zum eigenständigen ki-ökosystem für hochschulen. abgerufen am 01.10.2025, von https://hochschulforumdigitalisierung.de/eigenstaendigeskioekosystemfuerhochschulen/ hoeren, t. (2025). rechtsgutachten zur bedeutung der europäischen ki-verordnung. abgerufen am 01.10.2025, von https://doi.org/10.13154/294-13421 salden, p., & leschke, j. (hrsg.). (2023). didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung. bochum: ruhr-universität bochum. abgerufen am 01.10.2025, von https://doi.org/10.13154/294-9734 # anhang"
+      },
+      {
+        "char_start": 27138,
+        "char_end": 27877,
+        "length": 739,
+        "text": ". weitere beispiele für eigenständigkeitserklärungen aus verschiedenen fachkontexten finden sich hier: bcp: https://www.bcp.fuberlin.de/studiumlehre/verwaltung/pruefungsbuero/pruefungsbuero_biologie/bsckombibiologie/0_ressourcen/vorlage-eigenstaendigkeit.pdf lai: hausarbeiten: https://www.lai.fuberlin.de/studium/master/060-wichtige_dokumente/ressourcen_wichtige_dokumente/eigenstaendigkeitserklärung_hausarbeit-ma-las_2024.pdf abschlussarbeiten: https://www.polsoz.fuberlin.de/studium/downloads/downloads_studiengaenge/ma_interdisziplinaere_lateinamerikastudien/eidestattl_-erklaerung_ma-arbeit-las_2024.pdf # vorschlag zur ergänzung von leitfaden bzw. hinweisen zum wissenschaftlichen arbeiten sofern ki-basierte tools zugelassen sind:"
+      },
+      {
+        "char_start": 29204,
+        "char_end": 29737,
+        "length": 533,
+        "text": "# footnotes 1. ein entsprechendes formular finden sie hier: https://www.ki.fuberlin.de/_dokumente/einverstaendniserklaerung-ki_assistatfu-studierende-va.docx 2. ein entsprechendes formular finden sie hier: https://www.ki.fuberlin.de/_dokumente/einverstaendniserklaerung-ki_assistatfu-studierende-va.docx 3. ein entsprechendes formular finden sie hier: https://www.ki.fuberlin.de/_dokumente/einverstaendniserklaerung-ki_assistatfu-studierende-va.docx 4. exemplarische weiterentwicklung der eigenständigkeitserklärung des fb philgeist"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 601,
+      "text": "# Freie Universität\n# Source: https://www.ki.fu-berlin.de/_dokumente/Eckpunkte-zum-Umgang-mit-KI-basierten-Systemen-und-Tools-in-Studium-und-Lehre.pdf\n# Date: 2025-10-07\n# Category: guideline\n# Download file: freie-universitat.pdf\n# Extraction: mistral-ocr\n\n# Eckpunkte zum Umgang mit KI-basierten Systemen und Tools in Studium und Lehre\n\nImpressum\n\nFreie Universität Berlin\nDas Präsidium\nFUB-IT | Abt. Lehre, Studium, Forschung | Arbeitsbereich E-Learning & E-Examinations\nwww.ki.fu-berlin.de\nOktober 2025\n\nEckpunkte zum Umgang mit KI-basierten Systemen und Tools in Studium und Lehre\n\n# Einführung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 601,
+      "char_end": 980,
+      "text": "KI und darauf basierende Systeme und Tools haben in den letzten Jahren erheblich an Bedeutung gewonnen und sind mittlerweile Bestandteil vielfältiger Lebensbereiche, nicht zuletzt in Bildung und Forschung. Die Entwicklungen im Feld künstlicher Intelligenz haben sowohl in inhaltlicher Hinsicht wie auch im Hinblick auf Verbreitung und Zugänglichkeit eine neue Dimension erreicht.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 982,
+      "char_end": 1580,
+      "text": "Den unverhandelbaren Grundsätzen guter wissenschaftlicher Praxis und wissenschaftlicher Integrität verpflichtet, strebt die Freie Universität Berlin im Umgang mit KI-basierten Tools in Studium und Lehre eine kritische und technologiereflektierende Position an: Im Sinne einer zukunftsorientierten Hochschullehre, die Studierende zur Übernahme von Verantwortung in einer globalen, diversen und digitalen Wissenschaft vorbereitet, ist es das Ziel, den Mehrwert neuer Technologien auf Basis fachlich-methodischer Reflexion zu nutzen, wie auch Risiken und ethische Fragen angemessen zu berücksichtigen.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1581,
+      "char_end": 1686,
+      "text": "Das vorliegende Papier formuliert Eckpunkte für eine verantwortungsbewusste Nutzung in Studium und Lehre.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1688,
+      "char_end": 2145,
+      "text": "Angesichts der dynamischen Entwicklungen werden diese Eckpunkte regelmäßig hochschulintern und auf Basis der jeweils aktuellen Forschungslage sowie europa-, bundes- oder landesrechtlicher Änderungen abgestimmt und angepasst. Die im Folgenden dargestellten Hinweise zu Grundsätzen und Einzelaspekten verstehen sich daher vorbehaltlich. Dieses Eckpunktepapier wurde erstmals im Mai 2023 veröffentlicht und nun umfassend aktualisiert (Stand: 07. Oktober 2025).",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2145,
+      "char_end": 2213,
+      "text": "\n\n# Grundsätzliches zum Umgang mit KI-basierten Systemen und Tools\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2213,
+      "char_end": 2530,
+      "text": "KI-basierte Tools bergen für Studium und Lehre vielfältige Chancen und Anlässe zur Weiterentwicklung von curricularen Inhalten, didaktischen Konzepten, Lern- bzw. Prüfungsszenarien, aber auch Arbeitsweisen und studentischen Lernstrategien im Sinne einer modernen auf Zukunftskompetenzen ausgerichteten Hochschullehre.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2532,
+      "char_end": 2940,
+      "text": "Dabei ist die Fähigkeit, künstliche Intelligenz zu verstehen, kritisch zu hinterfragen und verantwortungsvoll einzusetzen, essenziell. Eine entsprechende KI-Kompetenz ist Voraussetzung, um fundierte Entscheidungen zu treffen, Risiken zu minimieren und gesetzliche Vorgaben einzuhalten. Gleichzeitig ermöglicht sie, dass das Potenzial von KI bestmöglich genutzt wird und Innovationen entwickelt werden können.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2942,
+      "char_end": 3131,
+      "text": "Anliegen der Freien Universität ist es, den Studierenden und Lehrenden die durch KI eröffneten Möglichkeiten chancengerecht, teilhabeorientiert und regulierungskonform zugänglich zu machen.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3132,
+      "char_end": 3570,
+      "text": "Die Freie Universität stellt ihren Hochschulangehörigen daher mit KI.Assist@FU einen zentralen Zugang zu generativer KI verbunden mit Angeboten und Empfehlungen zum Kompetenzerwerb bereit. Damit unterstützt sie Lehrende im verantwortungsvollen Umgang mit KI-Tools und dem Erwerb der dafür notwendigen Kenntnisse. Auf diese Weise werden Lehrende in die Lage versetzt, sicherzustellen, dass sie über die erforderlichen Kompetenzen verfügen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3571,
+      "char_end": 3915,
+      "text": "Zum Einsatz von KI in der Lehre wird dieser regulierungskonforme, chancengerechte und zentral bereitgestellte Zugang empfohlen. Dies gilt insbesondere dann, sofern die Nutzung für Studierende verpflichtender Bestandteil der Lehre sein soll. Ob und inwiefern KI in ihrer Lehre zum Einsatz kommt, liegt dabei im Ermessen der jeweiligen Lehrenden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3917,
+      "char_end": 4380,
+      "text": "Im Umgang mit KI-Systemen ist grundsätzlich zu beachten:\n\n- Ergebnisqualität: KI-Systeme können sogenannte Halluzinationen erzeugen, d. h. faktisch unzutreffende oder erfundene Inhalte, die plausibel und evident erscheinen. Ergebnisse sollten daher stets einer kritischen Prüfung auf Grundlage fachspezifischer wissenschaftlicher Kriterien unterzogen werden, insbesondere im Hinblick auf Nachvollziehbarkeit, fachliche Richtigkeit und argumentative Schlüssigkeit.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4381,
+      "char_end": 4624,
+      "text": "- Bias: Trainingsdaten von KI-Modellen können stereotype, unausgewogene oder diskriminierende Muster enthalten. Diese Verzerrungen können sich in den generierten Ergebnissen niederschlagen und unbeabsichtigt reproduziert oder verstärkt werden.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4625,
+      "char_end": 4839,
+      "text": "- Gute wissenschaftliche Praxis: Der Einsatz von KI-basierten Tools darf die Grundsätze guter wissenschaftlicher Praxis nicht verletzen, insbesondere das Transparenzgebot als wissenschaftliches Redlichkeitsprinzip.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4840,
+      "char_end": 5169,
+      "text": "- Nachhaltigkeit und ressourcenschonender Einsatz: Die Entwicklung und der Betrieb von KI-Systemen sind mit erheblichem Energieverbrauch und Kosten verbunden. Ein bewusster, zweckgebundener und ressourcenschonender Einsatz ist daher erforderlich und soll im Einklang mit den Nachhaltigkeitszielen der Freien Universität erfolgen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5170,
+      "char_end": 5516,
+      "text": "- Datenschutz: Bei der Nutzung von KI-Tools ist die Einhaltung des geltenden Datenschutzrechts, insbesondere der DSGVO, des BDSG und des Berliner Datenschutzgesetzes (BlnDSG), zwingend sicherzustellen. Dies betrifft sowohl die Eingabe personenbezogener Daten in KI-Systeme als auch die Weiterverwendung der durch die KI-Systeme erzeugten Inhalte.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5517,
+      "char_end": 6006,
+      "text": "- Urheberrecht: KI-Tools können nicht als Urheber*innen im Sinne des Urheberrechtsgesetzes gelten. Die Verantwortung für die Verwendung von KI-generierten Inhalten, einschließlich fehlerhafter Angaben, unzutreffender Referenzen, urheberrechtlicher Verstöße oder Plagiate, liegt ausschließlich bei den Nutzenden. Der Upload urheberrechtlich geschützter Materialien in KI-Tools stellt eine urheberrechtlich relevante Handlung dar und ist nur im Rahmen der gesetzlichen Bestimmungen zulässig.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6007,
+      "char_end": 6652,
+      "text": "- Kompetenzerwerb gem. KI-Verordnung (KI-VO) Art. 4: Gem. KI-VO Art. 4 ergreift die Freie Universität Maßnahmen um sicherzustellen, dass Personen, die im Rahmen ihrer Tätigkeit in Studium und Lehre mit dem Betrieb und der Nutzung von KI.Assist@FU befasst sind, über ein ausreichendes Maß an KI-Kompetenz verfügen. Zu diesem Zwecke bietet die Freie Universität Schulungen an, die Themen wie ethische Fragestellungen, Datenschutz, Inklusion sowie praktische Anwendung und Grenzen von KI-Systemen in der Lehre umfassen. Lehrende sind angehalten, regelmäßig Weiterbildungen im Bereich KI zu absolvieren und ihre jeweilige Teilnahme zu dokumentieren.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6653,
+      "char_end": 7013,
+      "text": "- KI-VO Art. 5 und 6: Verbotene Praktiken gemäß KI-VO Art. 5 sowie Hochrisiko-Anwendungen gemäß KI-VO Art. 6 Abs. 2 sind untersagt. Dies umfasst gemäß Art. 6 Abs. 2 Anhang III Nr. 3 KI-VO insbesondere KI-Systeme, die die Zulassung zum Studium und zu Prüfungen, Leistungsbewertung, die Bewertung des Bildungsniveaus sowie die Überwachung in Prüfungen betreffen.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7013,
+      "char_end": 7044,
+      "text": "\n\n# KI.Assist@FU in der Lehre\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7044,
+      "char_end": 7746,
+      "text": "Die Integration von KI-Anwendungen in die Hochschullehre eröffnet die Möglichkeit, in fachlich und methodisch relevanter Hinsicht modernste technologische Entwicklungen zum Gegenstand kritischer Reflexion und Erprobung zu machen. Für Lehrende bietet KI zudem vielfältige Möglichkeiten, ihre Lehrtätigkeit effizienter, flexibler und individueller zu gestalten. KI-gestützte Anwendungen können in zahlreichen Phasen des Lehrprozesses zur Unterstützung einbezogen werden – von der Planung über die Durchführung bis hin zur reflexiven Weiterentwicklung. Sie können neue didaktische Perspektiven fördern und den Zugang zu Wissen für Studierende diverse Zielgruppen durch den Abbau von Barrieren erleichtern.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7748,
+      "char_end": 8098,
+      "text": "Für Lehrende ergeben sich insbesondere folgende Einsatzszenarien von KI.Assist@FU in der Lehre, stets unter Berücksichtigung rechtlicher, ethischer und prüfungsbezogener Rahmenbedingungen.\n\n- Fachlich-methodische Auseinandersetzung mit KI im Rahmen der Lehre als Baustein zu einer studierendenzentrierten auf Zukunftskompetenzen ausgerichteten Lehre.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8099,
+      "char_end": 8747,
+      "text": "- Konzeptionelle und methodische Planung von Lehrveranstaltungen: Bei der Planung und Vorbereitung von Lehrveranstaltungen können KI-Tools helfen, indem sie Inspiration für Lehr-Konzepte und -Methoden liefern, Lehrveranstaltungen durch die Erstellung von Semesterplänen strukturieren oder entsprechende Lernziele und Kursbeschreibungen bereitstellen. Außerdem ermöglichen sie eine stärkere Individualisierung der Lehre, etwa durch Empfehlungen für differenzierte Lernwege je nach Kenntnisstand der Studierenden. Auch das Vereinfachen oder Übersetzen komplexer Inhalte zur Reduktion von Zugangsbarrieren kann durch KI-Anwendungen erleichtert werden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8748,
+      "char_end": 9108,
+      "text": "- Erstellung von Lehr-Lern-Materialien: Lehrende können KI-Tools nutzen, um Lehr-Lern-Materialien wie Foliensätze, Zusammenfassungen, Arbeitsblätter, Fallstudien oder Quiz- und Prüfungsfragen zu generieren. Ebenso können Lernmaterialien wie Tutorials, Hausaufgaben oder zusätzliche Übungsaufgaben automatisiert erstellt und an den Lernkontext angepasst werden.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9109,
+      "char_end": 9671,
+      "text": "- Unterstützung bei der Erstellung von Feedback: KI-Tools können Lehrende bei der Erstellung von Feedback unterstützen – beispielsweise bei der Formulierung von Fließtexten aus Stichpunkten bei Rückmeldungen zu Argumentationen, Hausarbeiten oder anderen studentischen Leistungen. Basis für die Erstellung von Feedback mittels KI-Anwendungen muss dabei immer die eigene Bewertung des Lehrenden sein. Die Eingabe von studentischen Leistungen in KI-Tools ist dabei aus Urhebergründen nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9673,
+      "char_end": 10385,
+      "text": "Bei der Nutzung von KI sollten Lehrende in Ergänzung der allgemeinen Grundsätze (s. Pkt. 2) insbesondere folgende rechtlichen und ethischen Aspekte beachten. Ausführungen zum Prüfungskontext finden sich gesondert unter Pkt. 5.\n\n- Kompetenzerwerb: Lehrende, die KI einsetzen, sind angehalten, Kompetenzen zu erwerben, um KI-Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen können, bewusst zu sein. Lehrende sind entsprechend angehalten, regelmäßig Weiterbildungen im Bereich KI zu absolvieren und ihre jeweilige Teilnahme zu dokumentieren. Dies gilt insbesondere dann, sofern die Nutzung für Studierende verpflichtender Bestandteil der Lehre ist.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10386,
+      "char_end": 10979,
+      "text": "- Transparenz und Kompetenzvermittlung: Der Einsatz von KI-Tools in Lehrveranstaltungen muss klar kommuniziert und nachvollziehbar gestaltet werden. Sofern im Rahmen der Lehre die Nutzung von KI durch Studierende vorgesehen ist, muss die Lehrperson die Studierenden über die Funktionsweise und Risiken der im Kontext der jeweiligen Lehre eingesetzten bzw. zugelassenen KI-basierten Tools aufklären. Zudem sind Studierenden die Kompetenzen zum kritischen Einsatz auf Basis fachlich-methodischer Reflexion sowie gemäß den fachspezifischen Hinweisen zum wissenschaftlichen Arbeiten zu vermitteln.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10980,
+      "char_end": 11344,
+      "text": "- Didaktische Verantwortung: Der Einsatz von KI in der Lehre steht stets im Dienst der Lernziele. KI-Elemente werden didaktisch geplant und transparent in das Curriculum eingebettet. Ihre Wirksamkeit und fachliche Richtigkeit sind regelmäßig zu überprüfen und bei Bedarf anzupassen. Die pädagogische Gesamtverantwortung verbleibt uneingeschränkt bei den Lehrenden.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11345,
+      "char_end": 11651,
+      "text": "- Chancengerechtigkeit: Sofern KI in der Lehre verbindlich zum Einsatz kommen soll, muss der verbindliche Einsatz im Sinne der Chancengerechtigkeit so ausgestaltet sein, dass die Lernziele bzw. das Bearbeiten von Aufgabenstellungen mit der zentral bereitgestellten KI der FU vollumfänglich erreichbar sind.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11652,
+      "char_end": 12053,
+      "text": "- Datenschutz und Urheberrecht: Bei der Verarbeitung von Daten sind die geltenden rechtlichen Vorgaben einzuhalten. Insbesondere ist die Eingabe / der Upload personenbezogener bzw. urheberrechtlich geschützter Inhalte in KI-Systeme grundsätzlich untersagt. Die Eingabe von studentischen Leistungen in KI-Tools ist daher nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12054,
+      "char_end": 12151,
+      "text": "- Einsatzwecke: Die Nutzung von KI.Assist@FU ist ausschließlich zu universitären Zwecken erlaubt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12151,
+      "char_end": 12180,
+      "text": "\n\n# KI.Assist@FU im Studium\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12180,
+      "char_end": 12607,
+      "text": "Die Freie Universität Berlin versteht den souveränen Umgang mit Künstlicher Intelligenz als eine Schlüsselkompetenz der Zukunft. Sie verfolgt das Ziel, Studierende fachwissenschaftlich zu bilden und verbunden damit, sie auf eine zunehmend digitale und dynamische Arbeits- und Forschungswelt vorzubereiten. KI-Kompetenzen im Sinne einer umfassenden AI Literacy sind dabei ein zentraler Bestandteil moderner akademischer Bildung.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12608,
+      "char_end": 12943,
+      "text": "Um dies zu unterstützen, stellt die Freie Universität ihren Studierenden einen datenschutzkonformen Zugang zu KI-gestützten Anwendungen bereit, ergänzt durch begleitende Materialien sowie Empfehlungen zur KI-Kompetenzentwicklung, die eine verantwortungsvolle, rechtskonforme und zugleich kreative Nutzung von KI im Studium ermöglichen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12945,
+      "char_end": 13490,
+      "text": "Für Studierende ergeben sich insbesondere folgende Einsatzszenarien von KI-Tools, stets unter Berücksichtigung rechtlicher, ethischer und insbesondere fachspezifischer und prüfungsrechtlicher Rahmenbedingungen. Gesonderte Ausführungen zum Prüfungskontext finden sich unter Pkt. 5.\n\n- Inspiration und Themenfindung: KI-Tools können Studierende dabei unterstützen, im Studienkontext passende Themengebiete (z.B. auf Basis eigenständig erbrachter Vorleistungen) zu finden und diese mittels exemplarischer Forschungsfragen entsprechend einzugrenzen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13491,
+      "char_end": 13712,
+      "text": "- Orientierung in Wissensgebieten: KI-Tools können das Lernen unterstützen, indem sie erste Orientierung in einem neuen Wissens- oder Fachgebiet bieten oder komplexe Konzepte und Begriffe erläutern und anschaulich machen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13713,
+      "char_end": 14256,
+      "text": "- Dialogische Unterstützung von Lernprozessen: KI-Tools können Quizfragen auf Basis von allgemeinem Fachwissen oder Mitschriften aus einer Lehrveranstaltung erstellen, um den Lernfortschritt zu unterstützen oder zur gezielten Prüfungsvorbereitung. KI kann über dialogische Ansätze auch den kritisch reflektierenden Lernprozess („sokratisches Lernen“) unterstützen oder als digitaler „study buddy“ fungieren. Ferner können Studierende mithilfe von KI-Tools Lernphasen strukturieren, indem sie sich Zeitpläne oder Meilensteine ausgegeben lassen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14257,
+      "char_end": 14505,
+      "text": "- Erstellung von Feedback: KI kann kritisches Feedback zum Arbeitsstand geben. So können Studierende z.B. den von ihnen erarbeiteten Text nach Stärken und Schwächen analysieren lassen, um mithilfe von den Ergebnissen eine Überarbeitung vorzunehmen.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14506,
+      "char_end": 14693,
+      "text": "- Editing und Überarbeitung: KI-Tools können genutzt werden, um Texte formal zu überarbeiten, z.B. im Rahmen der Optimierung von Rechtschreibung, Grammatik und des sprachlichen Ausdrucks.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14695,
+      "char_end": 15197,
+      "text": "Bei der Nutzung von KI sollten Studierende in Ergänzung der allgemeinen Grundsätze (s. Pkt. 2) insbesondere folgende rechtlichen und ethischen Aspekte beachten:\n\n- Eigenverantwortung und Informationspflicht: Studierende sind verpflichtet, sich eigenständig über die für ihr Studium geltenden Regelungen zur Nutzung von KI zu informieren. Im Zweifel über Zulässigkeit oder Umfang der Nutzung im Kontext von Studium und Lehre sind sie angehalten, vorab Rücksprache mit den jeweiligen Lehrenden zu halten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15198,
+      "char_end": 15365,
+      "text": "- Gute wissenschaftliche Praxis: Grundsätze wissenschaftlicher Integrität (z. B. Transparenz, Nachvollziehbarkeit, Eigenleistung) sind beim Einsatz von KI einzuhalten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15366,
+      "char_end": 15575,
+      "text": "- Überprüfung der Ergebnisse: KI-Outputs müssen stets sorgfältig überprüft und, falls erforderlich, angepasst werden. Studierende sind sich dabei insbesondere auch der Bias und Diskriminierungsrisiken bewusst.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15576,
+      "char_end": 15770,
+      "text": "- Verantwortung für Inhalte: Studierende sind für alle von ihnen mit KI-Tools generierten Inhalte verantwortlich, einschließlich möglicher Falschaussagen, verzerrter Darstellungen oder Plagiate.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15771,
+      "char_end": 16088,
+      "text": "- Datenschutz und Urheberrecht: Bei der Eingabe von Daten sind die geltenden rechtlichen Vorgaben einzuhalten. Insbesondere ist der Upload urheberrechtlich geschützter (z. B. Fachartikel, Lehrbücher) oder personenbezogener Inhalte (z. B. Namen, E-Mail-Adressen, Matrikelnummer, Prüfungsdaten) in KI-Systeme untersagt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16089,
+      "char_end": 16187,
+      "text": "- Einsatzzwecke: Die Nutzung von KI.Assist@FU ist ausschließlich zu universitären Zwecken erlaubt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16187,
+      "char_end": 16254,
+      "text": "\n\n# Umgang mit KI-basierten Tools in Prüfungen (mit Rechtsfolgen)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16254,
+      "char_end": 16968,
+      "text": "A) KI-basierte Tools als nicht zugelassenes Hilfsmittel (empfohlen für Prüfungen unter Aufsicht, z.B. Klausuren)\n\nSofern KI-basierte Tools nicht ausdrücklich für die Prüfungen zugelassen sind und die Studierenden die Benutzung der KI-basierten Tools nicht angeben, täuschen Studierende durch den Einsatz von KI-basierten Tools während der Prüfungen über die Eigenständigkeit ihrer Leistung. Selbst wenn die Studierenden die Benutzung der KI-basierten Tools ausdrücklich angeben, obwohl diese KI-basierten Tools nicht zugelassen sind, handelt es sich gleichwohl um die Benutzung eines unzulässigen Hilfsmittels gemäß § 19 Absatz 3 Satz 1 Var. 2 RSPO, die wie ein Täuschungsversuch in der Rechtsfolge behandelt wird.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16970,
+      "char_end": 17501,
+      "text": "B) KI-basierte Tools als zugelassenes Hilfsmittel (empfohlen für Prüfungen ohne Aufsicht, z.B. Hausarbeiten)\n\nOb es überhaupt möglich ist, dass KI-basierte Tools als Hilfsmittel in Prüfungen zugelassen werden, entscheidet der jeweilige Prüfungsausschuss nach gründlicher Abwägung im Rahmen seiner Zuständigkeit nach § 6 Absatz 1 Satz 2 RSPO. Im Zuge dessen sollten durch den Prüfungsausschuss die Eigenständigkeitserklärung sowie die fachspezifischen Empfehlungen zum wissenschaftlichen Arbeiten geprüft und ggfs. angepasst werden.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17503,
+      "char_end": 18371,
+      "text": "Dass bzw. welche KI-basierten Tools tatsächlich in einer bestimmten Prüfung zugelassen sind, wird jeweils durch den*die Lehrende*n, der*die die Prüfung abnimmt, entschieden und den Studierenden gegenüber transparent gemacht. In diesem Zusammenhang ist auch klar zu kommunizieren, welche Art der Nutzung der zugelassenen KI-basierten Technologien erlaubt ist, etwa ausschließlich zur sprachlichen Überarbeitung, zur Einholung von Feedback zum eigenen Text oder zur Unterstützung bei der Literaturrecherche. In jedem Fall ist es notwendig, die Studierenden über Funktionsweise und Risiken der zugelassenen KI-basierten Tools sowie den Einsatz im Sinne guter wissenschaftlicher Praxis aufzuklären. Prüfende, die den Einsatz von KI gestatten müssen darüber hinaus methodische Wege entwickeln, die eine von KI abgrenzbare Eigenleistung identifizierbar und bewertbar machen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18373,
+      "char_end": 18609,
+      "text": "Als zugelassenes Hilfsmittel muss die Verwendung entsprechend gekennzeichnet und dokumentiert werden. Eine Kennzeichnungspflicht für KI-generierte Inhalte kann sich zudem aus den jeweiligen Nutzungsbedingen der jeweiligen Tools ergeben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18611,
+      "char_end": 18825,
+      "text": "Sofern KI-basierte Tools für die Prüfung zugelassen sind, aber ohne entsprechende Kennzeichnung eingesetzt werden, handelt es sich um eine Täuschung über die Eigenständigkeit gemäß § 19 Absatz 3 Satz 1 Var. 1 RSPO.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18827,
+      "char_end": 18963,
+      "text": "C) Verpflichtender Einsatz in Prüfungen\n\nVon einem verpflichtenden Einsatz von KI in Prüfungen wird bis auf Weiteres dringend abgeraten.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18965,
+      "char_end": 19718,
+      "text": "D) Bewertung von Prüfungen\n\nDie automatisierte Bewertung von Lernergebnissen und insbesondere von Prüfungen durch KI wird von der KI-VO (in Art. 6 Abs. 2 i.V.m. Anlage 3) als „hochriskant“ eingestuft und ist bis auf Weiteres untersagt. KI sollte allenfalls vorbereitend und unterstützend eingesetzt werden, indem die Vorschläge als unverbindlich für den Bewertungsprozess angesehen werden. KI-Outputs sind stets durch die prüfende Person kritisch zu hinterfragen. Die prüfende Person muss stets die Letztentscheidung für die Bewertung treffen und trägt die Verantwortung für die Bewertung. Die Eingabe von studentischen Leistungen in KI-Tools ist aus Urheberrechtsgründen nur mit dem ausdrücklichen schriftlichen Einverständnis der Studierenden möglich.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19720,
+      "char_end": 20097,
+      "text": "E) Empfehlungen im Hinblick auf Verdachtsfälle bzgl. Täuschungsversuchen und der Benutzung von unerlaubten Hilfsmitteln bzw. Verstößen gegen gute wissenschaftliche Praxis\n\nDie Prüfung eines Verdachtsfalls und die Ergebnisse der Prüfung sind vollständig zu dokumentieren und sollte in der Regel zeitnah erfolgen. Im Rahmen dessen findet eine Anhörung gem. §19 Abs. 6 RSPO statt.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20099,
+      "char_end": 20518,
+      "text": "Die Antiplagiatssoftware „Identific“ oder andere KI-gestützte Tools zur Erkennung von ggf. KI-generierten Texten sind angesichts nicht hinreichender Ergebnisqualität und mangels Überprüfbarkeit der Ergebnisse durch die prüfende Person prüfungsrechtlich nicht belastbar und daher alleine nicht geeignet für die Feststellung von KI-generierten Texten. Auch die Wahrung des Urheberrechts ist in diesem Kontext zu beachten.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20519,
+      "char_end": 20730,
+      "text": "Die nähere Regelung zum Umgang mit Verdachtsfällen bzgl. Täuschungsversuchen und der Benutzung von unerlaubten Hilfsmitteln obliegt gem. §§ 6 Absatz 1, 19 Absatz 3 RSPO dem jeweils zuständigen Prüfungsausschuss.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20732,
+      "char_end": 20800,
+      "text": "# KI.Assist@FU: Zentrales KI-System an der Freien Universität Berlin",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20802,
+      "char_end": 21032,
+      "text": "Die Freie Universität Berlin stellt ihren Hochschulangehörigen mit KI.Assist@FU einen zentralen Zugang zu generativer KI bereit, um den regulierungskonformen und chancengerechten Einsatz von KI in Studium und Lehre zu ermöglichen.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21034,
+      "char_end": 21739,
+      "text": "Im Rahmen des zentral bereitgestellten Angebots stehen unterschiedliche KI-Modelle zur Verfügung, die über europäisch gehostete Infrastrukturen bereitgestellt werden:\n\n- Open-Weight-Modelle werden durch nationale KI-Servicezentren (z. B. GWDG/KISSKI) zur Verfügung gestellt und auf Servern in Deutschland betrieben.\n- Proprietäre Modelle (z. B. OpenAI-Modelle) werden über EU-basierte Cloud-Dienste bereitgestellt. Die Verarbeitung erfolgt unter Einhaltung der Vorgaben der DSGVO in einem datenschutzkonformen Silo-Modell mit verschlüsselter Speicherung.\n- Perspektivisch ist auch die Einbindung lokal an der Freien Universität Berlin gehosteter Modelle vorgesehen und in der Architektur bereits angelegt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21741,
+      "char_end": 21987,
+      "text": "Nutzende werden über die Nutzungsoberfläche transparent darüber informiert, welches KI-Modell ihre Anfrage bearbeitet. Informationen zu den spezifischen Eigenschaften der verschiedenen Modelle finden sich unter: https://wikis.fu-berlin.de/x/doh3a",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21989,
+      "char_end": 22053,
+      "text": "Die Nutzung ist ausschließlich zu universitären Zwecken erlaubt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22055,
+      "char_end": 22481,
+      "text": "Die Anmeldung erfolgt über das zentrale Single-Sign-On-Verfahren mit dem persönlichen FU-Account, eine zusätzliche Registrierung bei externen Anbietern ist nicht erforderlich. Die Nutzung erfolgt pseudonymisiert und datensparsam. Die Eingabe personenbezogener oder vertraulicher Daten ist gemäß der Nutzungsbedingungen nicht zulässig. Die Verwendung der Eingaben zum Training der zugrunde liegenden Modelle ist ausgeschlossen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22482,
+      "char_end": 22925,
+      "text": "Bis auf Weiteres werden die Kosten zentral übernommen und prozessbegleitend evaluiert. Je nach Kostenentwicklung behält sich die Hochschulleitung Anpassungen vor. Detaillierte Informationen zu den verfügbaren KI-Modellen, datenschutzrechtlichen Rahmenbedingungen, Einsatzszenarien sowie organisatorischen Hinweisen werden durch die zuständigen zentralen Stellen der Universität regelmäßig aktualisiert und veröffentlicht (www.ki.fu-berlin.de).",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22927,
+      "char_end": 23346,
+      "text": "Die Freie Universität Berlin empfiehlt zur Nutzung generativer KI in der Lehre ausdrücklich das zentral bereitgestellte Angebot. Damit ist verbunden:\n\n- Rechtssicherheit durch geprüfte Infrastruktur, Auftragsverarbeitungsverträge (AVV) und dokumentiertes IT-Verfahren,\n- Chancengleichheit durch kostenfreien Zugang für alle Statusgruppen,\n- Technisch-didaktische Unterstützung durch begleitende Schulungen und Beratung.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23348,
+      "char_end": 23417,
+      "text": "# Angebote zum Kompetenzaufbau und Beratung an der Freien Universität",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23419,
+      "char_end": 23833,
+      "text": "Beratung und Angebote zu technischen und didaktischen Fragen rund um KI-basierte Tools in der Hochschullehre werden an der Freien Universität Berlin sukzessive ausgebaut und derzeit durch den Bereich E-Learning und E-Examination der Abt. Lehre, Studium, Forschung der FUB-IT (ehem. CeDiS), die UB und das Dahlem Center for Academic Teaching (DCAT) angeboten. Ergänzende Angebote finden sich beim BZHL und der dghd.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23835,
+      "char_end": 24213,
+      "text": "Für Fragen zu generativer KI sowie zum reflektierten und rechtskonformen Einsatz von KI in Studium und Lehre stehen verschiedene Unterstützungsangebote für Lehrende und Studierende an der Freien Universität Berlin zur Verfügung, eine Übersicht bietet die KI@FU-Projektseite: www.ki.fu-berlin.de. Bei weiteren Fragen wenden Sie sich bitte an das Team von KI@FU (ki@fu-berlin.de).",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24213,
+      "char_end": 26003,
+      "text": "\n\n# Weiterführende Informationen\n\n- Bast Schneider, A., Dammer, K. H., Eckhardt Kamps, C., & Schön, H. (2025). KI und ChatGPT in Bildungskontexten: Theoretische Überlegungen und Beispiele aus der Praxis (Bd. 67). Heidelberg: Mattes Verlag. https://doi.org/10.60497/opus-1747\n- Europäische Union. (2024). Verordnung über künstliche Intelligenz: KI-Verordnung (KI-VO). Abgerufen am 01.10.2025, von https://ai-act-law.eu/de/\n- Geminn, C., Johannes, P. C., Nebel, M., & Bile, T. (2025). Beurteilung von Learning Analytics nach Datenschutzrecht und KI-Verordnung an Hochschulen in Berlin: Gutachten im Auftrag des Fachgebiets „Didaktik der Informatik | Informatik und Gesellschaft“ an der Humboldt-Universität zu Berlin. Mathematisch-Naturwissenschaftliche Fakultät. Abgerufen am 01.10.2025, von https://doi.org/10.18452/34635\n- Glatzmeier, A. (2025). FAQs zum Einsatz von Identific. Abgerufen am 01.10.2025, von https://www.fu-berlin.de/sites/ub/forschen-lehren/antiplagiatssoftware/FAQs/index.html\n- Hochschulforum Digitalisierung. (2024). ChatGPT in Studium und Lehre. Abgerufen am 01.10.2025, von https://hochschulforumdigitalisierung.de/chatgpt-in-studium-und-lehre/\n- Hochschulforum Digitalisierung. (2025). HAWKI2: Vom Interface zum eigenständigen KI-Ökosystem für Hochschulen. Abgerufen am 01.10.2025, von https://hochschulforumdigitalisierung.de/eigenstaendiges-ki-oekosystem-fuer-hochschulen/\n- Hoeren, T. (2025). Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung. Abgerufen am 01.10.2025, von https://doi.org/10.13154/294-13421\n- Salden, P., & Leschke, J. (Hrsg.). (2023). Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung. Bochum: Ruhr-Universität Bochum. Abgerufen am 01.10.2025, von https://doi.org/10.13154/294-9734\n\n# Anhang\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26003,
+      "char_end": 27389,
+      "text": "Vorschlag zur Anpassung der Eigenständigkeitserklärung sofern KI-basierte Tools in Prüfungen ohne Aufsicht zugelassen sind:\n\n1. Hiermit versichere ich,\n - dass ich die von mir vorgelegte Arbeit selbständig abgefasst habe, und\n - dass ich keine weiteren Hilfsmittel verwendet habe als diejenigen, die im Vorfeld explizit zugelassen und von mir angegeben wurden und\n - dass ich die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen und KI-basierte Tools) entnommen sind, unter Angabe der Quelle kenntlich gemacht habe und\n - dass ich die vorliegende Arbeit noch nicht für andere Prüfungen eingereicht habe.\n\n2. Mir ist bewusst,\n - dass ich diese Prüfung nicht bestanden habe, wenn ich die mir bekannte Frist für die Einreichung meiner schriftlichen Arbeit versäume und\n - dass ich im Falle eines Täuschungsversuchs diese Prüfung nicht bestanden habe und\n - dass ich im Falle eines schwerwiegenden Täuschungsversuchs ggf. die Gesamtprüfung endgültig nicht bestanden habe und in diesem Studiengang bzw. Studienangebot nicht mehr weiter studieren darf und\n - dass ich, sofern ich zur Erstellung dieser Arbeit KI-basierter Tools verwendet habe, die Verantwortung für eventuell durch die KI generierte fehlerhafte oder verzerrte (bias) Inhalte, fehlerhafte Referenzen, Verstöße gegen das Datenschutz- und Urheberrecht oder Plagiate trage.",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27391,
+      "char_end": 28016,
+      "text": "Weitere Beispiele für Eigenständigkeitserklärungen aus verschiedenen Fachkontexten finden sich hier:\n\n- BCP: https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/pruefungsbuero/pruefungs-buero_biologie/bsc-kombi-biologie/0_ressourcen/Vorlage-Eigenstaendigkeit.pdf\n- LAI:\n - Hausarbeiten: https://www.lai.fu-berlin.de/studium/master/060-Wichtige_Dokumente/Ressourcen_Wichtige_Dokumente/Eigenstaendigkeitserklärung_Hausarbeit-MA-LAS_2024.pdf\n - Abschlussarbeiten: https://www.polsoz.fu-berlin.de/studium/downloads/downloads_studiengaenge/ma_interdisziplinaere_lateinamerikastudien/Eidestattl_-Erklaerung_MA-Arbeit-LAS_2024.pdf",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28018,
+      "char_end": 28146,
+      "text": "# Vorschlag zur Ergänzung von Leitfaden bzw. Hinweisen zum wissenschaftlichen Arbeiten sofern KI-basierte Tools zugelassen sind:",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28148,
+      "char_end": 28731,
+      "text": "Folgende Aspekte können bei einer Anpassung der Leitfaden zum wissenschaftlichen Arbeiten berücksichtigt werden.\n\n## Kennzeichnungspflicht:\n\n- Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach KI-basierten Tools (insbes. Textgeneratoren) entnommen sind, sind unter Angabe der Quelle kenntlich zu machen. Beachten Sie dabei, dass es sich bei KI-erstellten Inhalten i.d.R. nicht um zitierfähige wissenschaftliche Quellen handelt (sofern diese nicht selbst Gegenstand der Arbeit sind). Fachliche Aussagen sollten stets durch überprüfbare wissenschaftliche Literatur belegt werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28733,
+      "char_end": 29189,
+      "text": "## Transparenzmachung der Art der Nutzung:\n\n- Stellen der Arbeit, die auf der Nutzung von KI-basierten Tools im Hinblick auf für die Prüfung relevante Kompetenzen basieren, müssen per Fußnote entsprechend kenntlich gemacht und die Art der Nutzung genannt werden. (Exemplarisch: Nutzung zur Ideenfindung, zur Erstellung der Gliederung, zur Entwicklung/Optimierung von Software-Quelltexten, zur sprachlichen Optimierung, zur Erstellung von Textpassagen etc.)",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29191,
+      "char_end": 29490,
+      "text": "## Dokumentationspflicht:\n\n- Im Anhang der Arbeit sind die zur Erstellung der Arbeit genutzten KI-basierten Tools wie folgt zu dokumentieren:\n - Name des KI-Tools, Modell/Softwareversion, ggfs. Datum des Abrufs, ggfs. URL, ggfs. verwendeter Prompt und ggfs. Ergebnis (Transkription oder Screenshots)",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29490,
+      "char_end": 30029,
+      "text": "\n\n# FOOTNOTES\n\n1. Ein entsprechendes Formular finden Sie hier: https://www.ki.fu-berlin.de/_dokumente/Einverstaendniserklaerung-KI_AssistatFU-Studierende-Va.docx\n2. Ein entsprechendes Formular finden Sie hier: https://www.ki.fu-berlin.de/_dokumente/Einverstaendniserklaerung-KI_AssistatFU-Studierende-Va.docx\n3. Ein entsprechendes Formular finden Sie hier: https://www.ki.fu-berlin.de/_dokumente/Einverstaendniserklaerung-KI_AssistatFU-Studierende-Va.docx\n4. Exemplarische Weiterentwicklung der Eigenständigkeitserklärung des FB PhilGeist.",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}
