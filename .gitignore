@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 .venv/
-
+.env
 # OS
 .DS_Store
 Thumbs.db
@@ -10,3 +10,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+*.diff.html
