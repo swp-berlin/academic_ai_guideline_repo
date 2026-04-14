@@ -3,61 +3,62 @@
 # Date: 2025-12-01
 # Category: guideline
 # Download file: universitat-freiburg.pdf
+# Extraction: pymupdf-fallback
 
-Stand: Dezember 2024
 Policy zum Umgang mit 
 generativer KI in der Forschung
 Inhalt 
-Vorwort  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
-Einleitung/Hintergrund   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
-Empfehlungen für Wissenschaftler*innen an der Universität Freiburg . . . . . . . . . . . . . . .3
-Weiterführende Informationen   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
-Liste der Beitragenden   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
-Ansprechpartner*innen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
-Quellenverzeichnis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Vorwort  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2 
+Einleitung/Hintergrund   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3 
+Empfehlungen für Wissenschaftler*innen an der Universität Freiburg . . . . . . . . . . . . . . .3 
+Weiterführende Informationen   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 
+Liste der Beitragenden   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 
+Ansprechpartner*innen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 
+Quellenverzeichnis  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6 
+Stand: Dezember 2024
 
 ---
 
 2
 Vorwort
 Die Anwendung generativer Künstlicher Intelligenz (genKI) in der Forschung bietet viele Chancen, 
-die jedoch mit Risiken abgewogen werden müssen.
+die jedoch mit Risiken abgewogen werden müssen. 
 Die Universität Freiburg hat im Einklang mit ihrem Leitbild und dem Struktur- und Entwicklungsplan 
 die „Digitale Transformation gestalten“ (2023, 1.), in Anlehnung an die „Living guidelines on the 
 responsible use of generative AI in research“ der EU-Kommission (2024, 2.) und an die Leitlinien der 
 Deutschen Forschungsgemeinschaft (2023, 3.) zum Umgang mit generativen Modellen zur Text- 
 und Bilderstellung, die vorliegende Policy entwickelt. Dieses Dokument wurde im Nachgang der 
 Veranstaltung „ChatGPT –  KITools in der Forschung“ (2023, 4.) basierend auf den dort diskutierten 
-Punkten erstellt.
+Punkten erstellt. 
 Ein verantwortungsvoller und informierter Umgang mit genKI soll Missbrauch verhindern und 
-sicherstellen, dass KI in allen Forschungsprozessen sinnvoll und gewinnbringend eingesetzt wird.
+sicherstellen, dass KI in allen Forschungsprozessen sinnvoll und gewinnbringend eingesetzt wird. 
 Mit dieser Policy möchten wir für einen bewussten Umgang mit genKI im Forschungskontext 
-sensibilisieren und Empfehlungen zum Umgang mit entsprechenden Tools geben.
+sensibilisieren und Empfehlungen zum Umgang mit entsprechenden Tools geben. 
 Für den Gebrauch von KI-basierten Werkzeugen in Studium und Lehre sowie in der Verwaltung 
-werden aktuell Richtlinien entwickelt.
+werden aktuell Richtlinien entwickelt. 
 Diese Policy muss als Momentaufnahme verstanden werden, da die Entwicklung der KI zum aktuellen 
 Zeitpunkt nur schwer abschätzbar ist und sicherlich Änderungen notwendig werden. Daher wird 
-dieses Dokument regelmäßig aktualisiert.
+dieses Dokument regelmäßig aktualisiert. 
 ___________________________  
 _________________________ 
 Prof. Dr. Stefan Rensing  
 Prof. Dr. Stefan Günther 
 Prorektor für Forschung und Innovation  
-Chief Information Officer
+Chief Information Officer 
 ____________________
-Dr. Stefan Günther
+Dr. Stefan Günther 
 Information Officer
 
 ---
 
-3
-Einleitung/Hintergrund
+3 
+Einleitung/Hintergrund 
 Was ist unter generativer Künstlicher Intelligenz zu verstehen?
 Der Begriff “generative KI” beschreibt KI-Systeme, die in der Lage sind, auf Anfragen (Prompts) neuartige 
 Inhalte selbstständig zu erstellen. Diese Systeme lernen aus Daten, die sie während ihrer Trainingsphase 
 erhalten haben, und nutzen diese Informationen, um Ausgaben zu erzeugen. Grundlage dafür sind sogenannte 
 Large Language Modelle (LLMs), die mit sehr großen Datenmengen und sehr aufwändigen Berechnungen 
-erstellt wurden.
+erstellt wurden. 
 Chancen und Risiken von KI
 Die Nutzung von genKI bei der Text- und Datenverarbeitung bietet die Möglichkeit Texte, Bilder, Videos und 
 Code schnell und komfortabel zu erstellen. 
@@ -67,7 +68,7 @@ Generation von Programmcode bzw. der Fehlersuche darin. KI-basierte Annotation v
 bzw. Synchronübersetzung finden bereits vielfach Anwendung. Das Extrahieren von Daten aus (multiplen) 
 Publikationen und deren Zusammenfassung gelingt mittels LLMs sehr leicht und schnell. Als Übersetzungs-Tool 
 bieten LLMs potenziell Nachteilsausgleich für Forschende, die der zu verwendenden Sprache weniger mächtig 
-sind.
+sind. 
 Risiken bestehen darin, dass genKI nicht neutral ist, sondern (herabsetzende) Diskriminierungen aufgrund der 
 Trainingsdaten enthalten kann (sogenannte „biases“), oder plausibel formulierte fehlerhafte Antworten gibt, die 
 nicht den Tatsachen entsprechen (sogenannte „Halluzinationen“). Dies fördert unter Umständen die Erstellung 
@@ -94,7 +95,7 @@ von LLMs kann zu unterschiedlichen Ausgaben führen.
 
 ---
 
-4
+4 
 Vermeidung von Verzerrung (Bias)
 Wissenschaftler*innen müssen sicherstellen, dass ihre Ergebnisse wissenschaftlich fundiert sind und sollen 
 potenzielle Schadensszenarien bedenken und ggf. vermeiden. Die Anwendung von genKI birgt auch das Risiko 
@@ -103,7 +104,7 @@ mit verwendeten Trainingsdaten muss systematischer Bias, der durch gesellschaftl
 denen bestimmte Vorurteile in den Daten inhärent sind, vermieden werden. Bias während des Prozesses der 
 Datenerfassung oder Datenannotation oder bei der Wahl des Algorithmus oder des Systemdesigns muss 
 minimiert werden.
-Autorenschaft in Publikationen im Zusammenhang mit KI
+Autorenschaft in Publikationen im Zusammenhang mit KI 
 Das Committee on Publication Ethics (2023, 5.) stellt klar, dass KI-Systeme keine Autor*innen bei 
 wissenschaftlichen Publikationen sein können, u. a. weil sie keine juristischen Personen sind. Die Benutzung von 
 KI Tools muss transparent im Methodenteil von Publikationen angegeben werden. 
@@ -132,7 +133,7 @@ auf den freiheitlich-demokratischen Grundwerten ist auch bei der Entwicklung und
 Diskriminierung zu vermeiden, Vielfalt und Fairness zu gewährleisten und Schaden für Leib, Leben und Umwelt 
 abzuwenden. Nicht zuletzt ist der Energieverbrauch bei Nutzung von KI Systemen, die vor allem für das Training 
 viel Rechenleistung benötigen, zu bedenken (Beispiele siehe hier).
-Orientierung an ethischen Fragen
+Orientierung an ethischen Fragen 
 Wissenschaftler*innen sollen bei Nutzung von genKI ethische Grundsätze beachten. Ihnen muss auch 
 bei der Verwendung oder Entwicklung von KI-Tools das Missbrauchsrisiko bewusst sein. Dazu gehören 
 auch Missbrauchsszenarien für unerlaubte militärische Nutzung oder Nutzung für Straftaten (Dual Use 
@@ -143,28 +144,28 @@ wissenschaftlichen Praxis an der Universität Freiburg.
 
 ---
 
-5
+5 
 Einhaltung von rechtlichen Anforderungen 
 Die Einhaltung der Datenschutzbestimmungen und der Schutz der Rechte an geistigem Eigentum durch 
 verantwortungsvollen und angemessenen Umgang mit personenbezogenen Daten muss gewährleistet sein. 
-Außerdem sind Vorgaben des Exportkontrollrechts einzuhalten, wenn grenzüberschreitend publiziert oder
+Außerdem sind Vorgaben des Exportkontrollrechts einzuhalten, wenn grenzüberschreitend publiziert oder 
 geforscht wird, und ggf. Vorgaben des Medizinproduktrechts zu beachten.
 Weiterführende Informationen
 KI Tools an der Universität Freiburg (Intranet-Zugang benötigt) 
 Die Universität Freiburg ermöglicht ihren Mitgliedern einen datenschutzkonformen Zugang zu generativer KI, 
-siehe hier.
+siehe hier. 
 Die Seite enthält auch Beispiele zum Energieverbrauch von generativer KI.
 Forschung und Innovation in der EU zu KI 
 Die Kommission und die Länder des Europäischen Forschungsraums und die Interessenträger haben 
-gemeinsam eine Reihe von Leitlinien vorgelegt, um die europäische Forschungsgemeinschaft bei der
+gemeinsam eine Reihe von Leitlinien vorgelegt, um die europäische Forschungsgemeinschaft bei der 
 verantwortungsvollen Nutzung generativer künstlicher Intelligenz (KI) zu unterstützen (2.).
 EU-Gesetz zur KI 
 Das “EU-Gesetz zur Künstlichen Intelligenz“ (EU AI Act, 2024, 7.) trägt der rasanten technologischen 
-Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein. Mithilfe des EU AI
+Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein. Mithilfe des EU AI 
 Acts sollen verlässliche Rahmenbedingungen bei der Erforschung und Anwendung von KI geschaffen werden.
 Internationale Konferenz Maschinelles Lernen 
 Fünf Prinzipien sollen die menschliche Verantwortung in der Forschung weiterhin sichern, wie jetzt eine 
-interdisziplinäre Arbeitsgruppe mit Mitgliedern aus Politik, Unternehmen und Wissenschaft in Proceedings of
+interdisziplinäre Arbeitsgruppe mit Mitgliedern aus Politik, Unternehmen und Wissenschaft in Proceedings of 
 the National Academies of Sciences (PNAS) fordert (2024, 8.).
 Liste der Beitragenden 
 Prof. Dr. Stefan Rensing, Prorektor für Forschung und Innovation 
@@ -184,24 +185,24 @@ N.N., Chief Information Officer
 
 ---
 
-6
+6 
 Quellenverzeichnis
 1.   Jahresbericht der Universität Freiburg 2023, S. 7
 https://uni-freiburg.de/wp-content/uploads/Jahresbericht_der_Universitaet_Freiburg_2023.pdf  
  
  
-(aufgerufen am 5.11.2024)
-2.   Living guidelines on the responsible use of generative AI in research (März 2024)
+(aufgerufen am 5.11.2024) 
+2.   Living guidelines on the responsible use of generative AI in research (März 2024) 
 https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5 0d32050143dc_en
  
-(aufgerufen am 5.11.2024)
+(aufgerufen am 5.11.2024) 
 3. Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einﬂ uss generativer 
  
 Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG (September 2023) 
 https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921 stellungnahme
 praesidium-ki-ai-data.pdf
  
-(aufgerufen am 5.11.2024).
+(aufgerufen am 5.11.2024). 
 4. ChatGPT - KI-Tools in der Forschung (Oktober 2023)
 https://videoportal.uni-freiburg.de/video/chatgpt-ki-tools-in-der-forschung-englisch untertitelt/
 b08e66cd4ec53fba503a7f4028825d1b (aufgerufen am 5.11.2024)
@@ -222,7 +223,8 @@ https://www.europarl.europa.eu/topics/de/article/20230601STO93804/ki-gesetz-erst
 der-kunstlichen-intelligenz
  
 (aufgerufen am 5.11.2024)
-8. Blau, Wolfgang. et al. (2024), Protecting scientific integrity in an age of generative AI,
-Vol. 121 (22) e2407886121, PNAS.
+8. Blau, Wolfgang. et al. (2024), Protecting scientific integrity in an age of generative AI, 
+ 
+Vol. 121 (22) e2407886121, PNAS. 
 Dieses Werk ist unter einer Creative Commons Namensnennung 4.0 International
 Lizenz lizenziert. https://doi.org/10.6094/UNIFR/262841

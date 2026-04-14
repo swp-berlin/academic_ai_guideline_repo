@@ -3,205 +3,104 @@
 # Date: 2025-12
 # Category: guideline
 # Download file: dzsf.pdf
+# Extraction: mistral-ocr
 
-Hinweise zur Nutzung von Künstlicher Intelligenz (KI)
-Die Leitlinie zur Nutzung von Künstlicher Intelligenz im Eisenbahn-Bundesamt (KI-Leitlinie EBA) 
-wird in Hinblick auf Fragestellungen, die im Rahmen wissenschaftlicher und wissenschafts-
-akzessorischer Tätigkeiten auftreten können, durch spezifische Hinweise präzisiert.
-Einführung
-Die KI-Leitlinie des DZSF dient allen Mitarbeiterinnen und Mitarbeitern des DZSF als Hilfestellung im 
-Umgang mit Künstlicher Intelligenz (KI) im Arbeitsalltag und soll Klarheit bei der Nutzung in der 
-Forschungstätigkeit im Rahmen von Auftrags-, Antrags- und Eigenforschung schaffen. Sie findet 
-ebenso Anwendung durch Personen und Unternehmen, die im Auftrag des DZSF oder in der 
-Forschungsförderung (Z-SGV) agieren. Die KI-Leitlinie entspricht dem aktuellen Kenntnisstand 
-(November 2025) und bedarf stetiger Anpassung.
-Die Leitsätze dieser KI-Leitlinie basieren auf den „Living guidelines on the responsible use of 
-generative AI in research“ der Europäischen Kommission1 sowie den FAQ des Ombudsgremiums für 
-wissenschaftliche Integrität2, die sich vor allem auf den Einsatz von generativer KI beziehen, welche 
-die Generierung von Text, Code, Daten, Bildern, Musik, Stimmen, Videos etc. ermöglicht.
-Die KI-Leitlinie des DZSF soll dazu beitragen, die Forschungspraktiken zu verbessern und den 
-Missbrauch von KI zu verhindern, indem sie den verantwortungsvollen, transparenten, effizienten 
-und angemessenen Umgang mit generativer KI aufzeigt. Der Einsatz von KI in der Forschung muss 
-mit den Leitlinien der guten wissenschaftlichen Praxis des DZSF in Einklang stehen, um einen hohen 
-wissenschaftlichen Standard am DZSF garantieren zu können.
-Leitsätze
-Forscherinnen und Forscher, Mitarbeiterinnen und Mitarbeiter des DZSF oder Personen, 
-Unternehmen, die im Auftrag des DZSF agieren, …
-1. sind und bleiben für ihre wissenschaftlichen Ergebnisse selbst verantwortlich.
-• 
-sind für die Integrität der Inhalte verantwortlich, die von KI-Tools oder mit deren Hilfe 
-erzeugt wurden.
-1 European Commission (2025). Living guidelines on the responsible use of generative AI in research. Verfügbar 
-unter [Stand 04.2025]: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-
-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf 
-2 Frisch, Katrin (2025). FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis. Version 2. 
-Zenodo. https://doi.org/10.5281/zenodo.17349995
+Deutsches Zentrum für Schienenverkehrsforschung beim
+
 KI-LEITLINIE DES DZSF
 
+Eisenbahn-Bundesamt
 
-bei der Forschungstätigkeit am DZSF
+# Hinweise zur Nutzung von Künstlicher Intelligenz (KI) bei der Forschungstätigkeit am DZSF
 
----
+Die Leitlinie zur Nutzung von Künstlicher Intelligenz im Eisenbahn-Bundesamt (KI-Leitlinie EBA) wird in Hinblick auf Fragestellungen, die im Rahmen wissenschaftlicher und wissenschafts-akzessorischer Tätigkeiten auftreten können, durch spezifische Hinweise präzisiert.
 
-• 
-verfolgen einen kritischen Ansatz bei der Nutzung der von KI erzeugten Ergebnisse und sind 
-sich der Grenzen der Werkzeuge, wie z. B. Verzerrungen, inkorrekte oder sinnfreie 
-Informationen und Ungenauigkeiten (sog. KI-Halluzinationen), bewusst. 
-• 
-verwenden von generativer KI erstelltes Material im wissenschaftlichen Prozess nur bewusst 
-und nachvollziehbar. Nur dann sind Veränderungen von Originaldaten und -texten für ihren 
-jeweiligen Anwendungszweck zulässig. 
-• 
-KI-Systeme können weder Autoren noch Co-Autoren sein. Autorenschaft und Urheberschaft 
-setzt menschliche Handlungsfähigkeit und Verantwortung voraus und liegt daher bei den 
-Forscherinnen und Forschern. 
- 
-2. nutzen generative KI transparent
-• 
-machen transparent, welche generativen KI-Tools in ihren Forschungsprozessen in 
-erheblichem Maße3 eingesetzt wurden. Bei der Übernahme von mithilfe von KI erstellten 
-Inhalten muss dargelegt werden, WAS (z. B. Texte, Tabellen, Diagramme, Bilder, Audios, 
-Videos, Softwarecodes, Datensätze), WOMIT (z. B. Anbieter, Modell, URL), WANN (z. B. 
-Datum, Version), WIE (z. B. Beschreibung der Vorgehensweise) generiert wurde4. Es sollte eine 
-Reflexion über den KI-Einsatz und die so generierten Inhalte erfolgen. 
-• 
-berücksichtigen die stochastische (zufällige) Natur generativer KI-Werkzeuge, d. h. die 
-Tendenz, aus vergleichbarem Input unterschiedliche Ergebnisse zu erzeugen. Die Forscher 
-streben nach Reproduzierbarkeit und Robustheit ihrer Ergebnisse und Schlussfolgerungen. 
-Sie legen die Grenzen der verwendeten generativen KI-Werkzeuge offen oder erörtern diese 
-einschließlich möglicher Verzerrungen in den generierten Inhalten sowie möglicher 
-Abhilfemaßnahmen. 
- 
-3. achten besonders auf Fragen des Datenschutzes, der Vertraulichkeit und der Rechte an
-geistigem Eigentum, wenn sie sensible oder geschützte Informationen mit KI-Tools teilen 
-• 
-sind sich bewusst, dass generierte oder hochgeladene Eingaben (Text, Daten, 
-Eingabeaufforderungen, Bilder usw.) für andere Zwecke, z. B. für das Training von KI-
-Modellen, verwendet werden könnten. Daher schützen sie unveröffentlichte oder sensible 
-Arbeiten (z. B. eigene oder fremde unveröffentlichte Arbeiten), indem sie darauf achten, diese 
-nicht in ein Online-KI-System hochzuladen, es sei denn, es ist vertraglich durch den 
-Serviceanbieter gewährleistet, dass die Daten nicht wiederverwendet werden, z. B. zum 
-Trainieren künftiger Sprachmodelle oder zur nicht nachvollziehbaren und nicht 
-überprüfbaren Wiederverwendung von Daten. 
-• 
-achten darauf, keine personenbezogenen Daten an generative Online-KI-Systeme 
-weiterzugeben, es sei denn, die betroffene Person hat eingewilligt und die Forscher haben ein 
-klares Ziel, für das die personenbezogenen Daten verwendet werden sollen, sodass die 
-Einhaltung des geltenden Datenschutzrechts gewährleistet ist. 
-• 
-sind sich der technischen und ethischen Auswirkungen auf die Privatsphäre, die 
-Vertraulichkeit und die Rechte an geistigem Eigentum bewusst. Sie prüfen z. B. die
-3 Der Einsatz von generativer KI als grundlegendes Werkzeug zur Unterstützung von Autoren, beispielsweise bei 
-der Übersetzung, Rechtschreib- und Grammatikprüfung, ist zum Beispiel nicht erheblich. Inhaltliche Be- oder 
-Überarbeitungen, wie die Interpretation von Datenanalysen, die Durchführung einer Literaturrecherche, die 
-Identifizierung von Forschungslücken, die Formulierung von Forschungszielen, die Entwicklung von Hypothesen 
-usw. können jedoch einen erheblichen Einfluss haben. 
-4 Konkrete Umsetzungsmöglichkeiten sind in der DZSF-Handreichung zur KI-Leitlinie einzusehen.
+## Einführung
+
+Die KI-Leitlinie des DZSF dient allen Mitarbeiterinnen und Mitarbeitern des DZSF als Hilfestellung im Umgang mit Künstlicher Intelligenz (KI) im Arbeitsalltag und soll Klarheit bei der Nutzung in der Forschungstätigkeit im Rahmen von Auftrags-, Antrags- und Eigenforschung schaffen. Sie findet ebenso Anwendung durch Personen und Unternehmen, die im Auftrag des DZSF oder in der Forschungsförderung (Z-SGV) agieren. Die KI-Leitlinie entspricht dem aktuellen Kenntnisstand (November 2025) und bedarf stetiger Anpassung.
+
+Die Leitsätze dieser KI-Leitlinie basieren auf den „Living guidelines on the responsible use of generative AI in research“ der Europäischen Kommission¹ sowie den FAQ des Ombudsgremiums für wissenschaftliche Integrität², die sich vor allem auf den Einsatz von generativer KI beziehen, welche die Generierung von Text, Code, Daten, Bildern, Musik, Stimmen, Videos etc. ermöglicht.
+
+Die KI-Leitlinie des DZSF soll dazu beitragen, die Forschungspraktiken zu verbessern und den Missbrauch von KI zu verhindern, indem sie den verantwortungsvollen, transparenten, effizienten und angemessenen Umgang mit generativer KI aufzeigt. Der Einsatz von KI in der Forschung muss mit den Leitlinien der guten wissenschaftlichen Praxis des DZSF in Einklang stehen, um einen hohen wissenschaftlichen Standard am DZSF garantieren zu können.
+
+## Leitsätze
+
+Forscherinnen und Forscher, Mitarbeiterinnen und Mitarbeiter des DZSF oder Personen, Unternehmen, die im Auftrag des DZSF agieren, ...
+
+1. sind und bleiben für ihre wissenschaftlichen Ergebnisse selbst verantwortlich.
+- sind für die Integrität der Inhalte verantwortlich, die von KI-Tools oder mit deren Hilfe erzeugt wurden.
 
 ---
 
-Datenschutzoptionen des Tools, wer das Tool verwaltet (öffentliche oder private 
-Einrichtungen, Unternehmen usw.), wo das Tool betrieben wird und welche Auswirkungen es 
-auf die hochgeladenen Informationen hat. Dies kann von geschlossenen Umgebungen, die 
-auf einer Infrastruktur Dritter mit garantiertem Datenschutz gehostet werden, bis hin zu 
-offenen, über das Internet zugänglichen Plattformen reichen. 
- 
-4. beachten wie bei ihren regulären Forschungstätigkeiten die geltenden nationalen,
-europäischen und internationalen Rechtsvorschriften, wenn sie generative KI einsetzen.  
-• 
-sind sich bewusst, dass insbesondere der von generativer KI erzeugte Output in Bezug auf 
-den Schutz der Rechte an geistigem Eigentum und personenbezogenen Daten besonders 
-sensibel sein kann. 
-• 
-achten auf die Gefahr von Plagiaten (Text, Code, Bilder usw.), wenn sie Ergebnisse generativer 
-KI verwenden. Forscher respektieren die Urheberschaft Anderer und zitieren deren Arbeit, wo 
-es angebracht ist. Der Output einer generativen KI (z. B. ein großes Sprachmodell) kann auf 
-den Ergebnissen einer anderen Person beruhen und muss entsprechend anerkannt und zitiert 
-werden. 
-• 
-achten auf personenbezogene Daten im Output einer generativen KI. Wenn dies erkennbar 
-wird, sind die Forscher für den verantwortungsvollen und angemessenen Umgang mit den 
-ausgegebenen personenbezogenen Daten verantwortlich und geltende Datenschutz-
-vorschriften sind zu befolgen. 
- 
-5. lernen kontinuierlich, auch durch Schulungen, wie man generative KI-Tools richtig einsetzt, um
-ihren Nutzen zu maximieren. 
-• 
-halten sich über die besten Praktiken auf dem Laufenden und tauschen sie mit Kolleginnen 
-und Kollegen und anderen Beteiligten aus, da generative KI sich schnell weiterentwickelt und 
-regelmäßig neue Möglichkeiten zu ihrer Nutzung aufkommen.  
- 
-6. verwenden generative KI-Tools bei sensiblen Tätigkeiten, die sich auf andere Forschende oder
-Organisationen auswirken könnten, ausschließlich im Rahmen folgender Schranken: 
-• 
-sind sich bewusst, dass Peer Reviews, die Prüfung von Berichten, Bewertung von Angeboten 
-sowie die Verschriftlichung der Bewertung für Auftragsforschungsprojekte des DZSF und die 
-Bewertung von Projektskizzen sensible Tätigkeiten sind. 
-• 
-unterscheiden zwischen der Entscheidungsvorbereitung, Entscheidungsfindung und der 
-Verschriftlichung von Bewertungen in Textform. Die Verantwortung für die Ergebnisse 
-verbleibt in jedem Falle beim Menschen, welcher die Ergebnisse eingehend auf Fehler (siehe 
-Nr. 1) prüft. Im Rahmen der Entscheidungsfindung wird besonderes Augenmerk auf 
-Diskriminierungsfreiheit und Nachvollziehbarkeit der Ergebnisse gelegt. 
-• 
-entfernen personen- und unternehmensbezogene Daten vor der Bearbeitung mit generativer 
-KI. 
-• 
-nutzen zur Unterstützung der Entscheidungsfindung nur vertrauenswürdige Modelle, die 
-durch das DZSF explizit dafür zugelassen wurden (Whitelist). 
-• 
-nehmen eine interne Dokumentation der Nutzung gemäß Nr. 2 vor.  
- 
+¹ European Commission (2025). Living guidelines on the responsible use of generative AI in research. Verfügbar unter [Stand 04.2025]: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf
+
+² Frisch, Katrin (2025). FAQ Künstliche Intelligenz und gute wissenschaftliche Praxis. Version 2. Zenodo. https://doi.org/10.5281/zenodo.17349995
+
+---
+
+- verfolgen einen kritischen Ansatz bei der Nutzung der von KI erzeugten Ergebnisse und sind sich der Grenzen der Werkzeuge, wie z. B. Verzerrungen, inkorrekte oder sinnfreie Informationen und Ungenauigkeiten (sog. KI-Halluzinationen), bewusst.
+- verwenden von generativer KI erstelltes Material im wissenschaftlichen Prozess nur bewusst und nachvollziehbar. Nur dann sind Veränderungen von Originaldaten und -texten für ihren jeweiligen Anwendungszweck zulässig.
+- KI-Systeme können weder Autoren noch Co-Autoren sein. Autorenschaft und Urheberschaft setzt menschliche Handlungsfähigkeit und Verantwortung voraus und liegt daher bei den Forscherinnen und Forschern.
+
+## 2. nutzen generative KI transparent
+
+- machen transparent, welche generativen KI-Tools in ihren Forschungsprozessen in erheblichem Maße³ eingesetzt wurden. Bei der Übernahme von mithilfe von KI erstellten Inhalten muss dargelegt werden, WAS (z. B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze), WOMIT (z. B. Anbieter, Modell, URL), WANN (z. B. Datum, Version), WIE (z. B. Beschreibung der Vorgehensweise) generiert wurde⁴. Es sollte eine Reflexion über den KI-Einsatz und die so generierten Inhalte erfolgen.
+- berücksichtigen die stochastische (zufällige) Natur generativer KI-Werkzeuge, d. h. die Tendenz, aus vergleichbarem Input unterschiedliche Ergebnisse zu erzeugen. Die Forscher streben nach Reproduzierbarkeit und Robustheit ihrer Ergebnisse und Schlussfolgerungen. Sie legen die Grenzen der verwendeten generativen KI-Werkzeuge offen oder erörtern diese einschließlich möglicher Verzerrungen in den generierten Inhalten sowie möglicher Abhilfemaßnahmen.
+
+## 3. achten besonders auf Fragen des Datenschutzes, der Vertraulichkeit und der Rechte an geistigem Eigentum, wenn sie sensible oder geschützte Informationen mit KI-Tools teilen
+
+- sind sich bewusst, dass generierte oder hochgeladene Eingaben (Text, Daten, Eingabeaufforderungen, Bilder usw.) für andere Zwecke, z. B. für das Training von KI-Modellen, verwendet werden könnten. Daher schützen sie unveröffentlichte oder sensible Arbeiten (z. B. eigene oder fremde unveröffentlichte Arbeiten), indem sie darauf achten, diese nicht in ein Online-KI-System hochzuladen, es sei denn, es ist vertraglich durch den Serviceanbieter gewährleistet, dass die Daten nicht wiederverwendet werden, z. B. zum Trainieren künftiger Sprachmodelle oder zur nicht nachvollziehbaren und nicht überprüfbaren Wiederverwendung von Daten.
+- achten darauf, keine personenbezogenen Daten an generative Online-KI-Systeme weiterzugeben, es sei denn, die betroffene Person hat eingewilligt und die Forscher haben ein klares Ziel, für das die personenbezogenen Daten verwendet werden sollen, sodass die Einhaltung des geltenden Datenschutzrechts gewährleistet ist.
+- sind sich der technischen und ethischen Auswirkungen auf die Privatsphäre, die Vertraulichkeit und die Rechte an geistigem Eigentum bewusst. Sie prüfen z. B. die
+
+³ Der Einsatz von generativer KI als grundlegendes Werkzeug zur Unterstützung von Autoren, beispielsweise bei der Übersetzung, Rechtschreib- und Grammatikprüfung, ist zum Beispiel nicht erheblich. Inhaltliche Be- oder Überarbeitungen, wie die Interpretation von Datenanalysen, die Durchführung einer Literaturrecherche, die Identifizierung von Forschungslücken, die Formulierung von Forschungszielen, die Entwicklung von Hypothesen usw. können jedoch einen erheblichen Einfluss haben.
+
+⁴ Konkrete Umsetzungsmöglichkeiten sind in der DZSF-Handreichung zur KI-Leitlinie einzusehen.
+
+---
+
+Datenschutzoptionen des Tools, wer das Tool verwaltet (öffentliche oder private Einrichtungen, Unternehmen usw.), wo das Tool betrieben wird und welche Auswirkungen es auf die hochgeladenen Informationen hat. Dies kann von geschlossenen Umgebungen, die auf einer Infrastruktur Dritter mit garantiertem Datenschutz gehostet werden, bis hin zu offenen, über das Internet zugänglichen Plattformen reichen.
+
+4. beachten wie bei ihren regulären Forschungstätigkeiten die geltenden nationalen, europäischen und internationalen Rechtsvorschriften, wenn sie generative KI einsetzen.
+- sind sich bewusst, dass insbesondere der von generativer KI erzeugte Output in Bezug auf den Schutz der Rechte an geistigem Eigentum und personenbezogenen Daten besonders sensibel sein kann.
+- achten auf die Gefahr von Plagiaten (Text, Code, Bilder usw.), wenn sie Ergebnisse generativer KI verwenden. Forscher respektieren die Urheberschaft Anderer und zitieren deren Arbeit, wo es angebracht ist. Der Output einer generativen KI (z. B. ein großes Sprachmodell) kann auf den Ergebnissen einer anderen Person beruhen und muss entsprechend anerkannt und zitiert werden.
+- achten auf personenbezogene Daten im Output einer generativen KI. Wenn dies erkennbar wird, sind die Forscher für den verantwortungsvollen und angemessenen Umgang mit den ausgegebenen personenbezogenen Daten verantwortlich und geltende Datenschutzvorschriften sind zu befolgen.
+
+5. lernen kontinuierlich, auch durch Schulungen, wie man generative KI-Tools richtig einsetzt, um ihren Nutzen zu maximieren.
+- halten sich über die besten Praktiken auf dem Laufenden und tauschen sie mit Kolleginnen und Kollegen und anderen Beteiligten aus, da generative KI sich schnell weiterentwickelt und regelmäßig neue Möglichkeiten zu ihrer Nutzung aufkommen.
+
+6. verwenden generative KI-Tools bei sensiblen Tätigkeiten, die sich auf andere Forschende oder Organisationen auswirken könnten, ausschließlich im Rahmen folgender Schranken:
+- sind sich bewusst, dass Peer Reviews, die Prüfung von Berichten, Bewertung von Angeboten sowie die Verschriftlichung der Bewertung für Auftragsforschungsprojekte des DZSF und die Bewertung von Projektskizzen sensible Tätigkeiten sind.
+- unterscheiden zwischen der Entscheidungsvorbereitung, Entscheidungsfindung und der Verschriftlichung von Bewertungen in Textform. Die Verantwortung für die Ergebnisse verbleibt in jedem Falle beim Menschen, welcher die Ergebnisse eingehend auf Fehler (siehe Nr. 1) prüft. Im Rahmen der Entscheidungsfindung wird besonderes Augenmerk auf Diskriminierungsfreiheit und Nachvollziehbarkeit der Ergebnisse gelegt.
+- entfernen personen- und unternehmensbezogene Daten vor der Bearbeitung mit generativer KI.
+- nutzen zur Unterstützung der Entscheidungsfindung nur vertrauenswürdige Modelle, die durch das DZSF explizit dafür zugelassen wurden (Whitelist).
+- nehmen eine interne Dokumentation der Nutzung gemäß Nr. 2 vor.
+
 7. beachten die Grundsätze dieser Leitlinien auch im Rahmen der Öffentlichkeitsarbeit.
-• 
-übernehmen Verantwortung für die Verbreitung der Inhalte durch Prüfung und menschliche 
-Aufsicht.
+- übernehmen Verantwortung für die Verbreitung der Inhalte durch Prüfung und menschliche Aufsicht.
 
 ---
 
-• 
-kennzeichnen auch in nichtwissenschaftlichen Veröffentlichungen mittels generativer KI 
-erzeugte Inhalte wie Grafiken, Videos usw., die den Eindruck erwecken könnten, dass es sich 
-um Abbildungen der Realität handeln könnte.
-Transfer
-Das DZSF…
+- kennzeichnen auch in nichtwissenschaftlichen Veröffentlichungen mittels generativer KI erzeugte Inhalte wie Grafiken, Videos usw., die den Eindruck erwecken könnten, dass es sich um Abbildungen der Realität handeln könnte.
+
+## Transfer
+
+## Das DZSF...
+
 I. fördert und unterstützt den verantwortungsvollen Einsatz von KI im DZSF.
-• 
-bietet für Mitarbeiterinnen und Mitarbeiter regelmäßig interne Schulungen zur Nutzung von 
-KI, insbesondere generativer KI, an. 
-• 
-erstellt und aktualisiert eine HANDREICHUNG mit praktischen Anwendungen der  
-KI-Leitlinie, Zitationshilfen und Hinweisen im Umgang mit KI. 
- 
-II. befürwortet den verantwortungsvollen Einsatz von generativer KI in Forschungsorganisationen
-und Unternehmen, die im Auftrag des DZSF agieren. 
-• 
-gestaltet Forschungsförderung, die offen, aufgeschlossen und unterstützend für den 
-verantwortungsvollen und ethischen Einsatz von generativen KI-Technologien in der 
-Forschung ist. 
-• 
-verlangt, dass die geförderte Forschung und die Zuwendungsempfänger mit den geltenden 
-nationalen, europäischen und internationalen Gesetzen (wo anwendbar) und den Leitsätzen 
-der EU und des DZSF für den Einsatz generativer KI überein-stimmen. 
- 
-III. beobachtet und beteiligt sich aktiv an der sich schnell entwickelnden generativen
-KI-Landschaft. 
-• 
-beobachtet die Entwicklung von Empfehlungen zur KI-Nutzung relevanter wissenschafts-
-politischer Beratungsgremien. 
-• 
-passt die Leitlinie und damit verbundene Dokumente entsprechend aktueller Entwicklungen 
-jährlich an. 
- 
+- bietet für Mitarbeiterinnen und Mitarbeiter regelmäßig interne Schulungen zur Nutzung von KI, insbesondere generativer KI, an.
+- erstellt und aktualisiert eine HANDREICHUNG mit praktischen Anwendungen der KI-Leitlinie, Zitationshilfen und Hinweisen im Umgang mit KI.
+
+II. befürwortet den verantwortungsvollen Einsatz von generativer KI in Forschungsorganisationen und Unternehmen, die im Auftrag des DZSF agieren.
+- gestaltet Forschungsförderung, die offen, aufgeschlossen und unterstützend für den verantwortungsvollen und ethischen Einsatz von generativen KI-Technologien in der Forschung ist.
+- verlangt, dass die geförderte Forschung und die Zuwendungsempfänger mit den geltenden nationalen, europäischen und internationalen Gesetzen (wo anwendbar) und den Leitsätzen der EU und des DZSF für den Einsatz generativer KI übereinstimmen.
+
+III. beobachtet und beteiligt sich aktiv an der sich schnell entwickelnden generativen KI-Landschaft.
+- beobachtet die Entwicklung von Empfehlungen zur KI-Nutzung relevanter wissenschaftspolitischer Beratungsgremien.
+- passt die Leitlinie und damit verbundene Dokumente entsprechend aktueller Entwicklungen jährlich an.
+
 IV. verweist aktiv auf die Leitlinien der guten wissenschaftlichen Praxis.
-• 
-verweist in Schulungen und internen Beratungen auf die KI-Leitlinie und deren 
-Zusammenhang mit der guten wissenschaftlichen Praxis. 
-• 
-informiert im Rahmen der Forschungsförderung über die Inhalte der Leitlinie und fordert 
-deren Beachtung ein.
-
-
-
+- verweist in Schulungen und internen Beratungen auf die KI-Leitlinie und deren Zusammenhang mit der guten wissenschaftlichen Praxis.
+- informiert im Rahmen der Forschungsförderung über die Inhalte der Leitlinie und fordert deren Beachtung ein.
 
 Dresden, Dezember 2025

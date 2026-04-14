@@ -3,6 +3,7 @@
 # Date: None
 # Category: guideline
 # Download file: weierstra-institut.pdf
+# Extraction: pymupdf-fallback
 
 WIAS-Richtlinie zur Nutzung generativer KI
 Präambel
@@ -116,11 +117,17 @@ niedrig
 kuratierte, externe LLM mit Standardfunktio-
 nen (Chat, Text, Code) für Forschung und
 Administration ohne sensible Daten
+Kenntnisnahme und Einhaltung der Richt-
+linie (schwarz) und [GWP, DSGVO]; Be-
+schränkung auf nicht-sensible Daten
 2
 mittel
 leistungsfähige externe LLM, spezialisierte
 APIs, komplexe agentische Workflows; For-
 schung mit und an Modellen
+formeller Antrag + Prüfung, unterschriebene
+Richtlinie TIER 2 (blau), erweiterte Anforde-
+rungen und technische Expertise
 Tabelle 1: Stufensystem für KI-Nutzungsfälle am WIAS
 Die Nutzung von LLM in der Verwaltung unterliegt
 den rechtlichen Vorgaben von [DSGVO, EU AI Act].
@@ -159,13 +166,6 @@ bestimmung zu beachten, z.B. hinsichtlich des Daten-
 schutzes, Urheberrechts, Patentrechts.
 Im Folgenden werden zentrale Aspekte bei der Nut-
 zung von GenKI hervorgehoben.
-1Klar unbedenkliche Daten erhalten keine persönliche, urheberrechtlich geschütze oder vertrauliche Informationen.
-Kenntnisnahme und Einhaltung der Richt-
-linie (schwarz) und [GWP, DSGVO]; Be-
-schränkung auf nicht-sensible Daten
-formeller Antrag + Prüfung, unterschriebene
-Richtlinie TIER 2 (blau), erweiterte Anforde-
-rungen und technische Expertise
 Verhaltensregeln und Dokumentation in der For-
 schung
 1. Die Leitlinien guter wissenschaftlicher Praxis des
@@ -205,6 +205,7 @@ tenschutzkonformen Einsatz von KI-Systemen sind
 insbesondere die folgenden Punkte zu beachten:
 4. Der Nutzende ist verantwortlich für die Rechtmä-
 ßigkeit der Eingaben in und der Verwertung von
+1Klar unbedenkliche Daten erhalten keine persönliche, urheberrechtlich geschütze oder vertrauliche Informationen.
 2
 
 ---
@@ -326,6 +327,24 @@ und KI-Systeme sind, soweit diese nicht ausschließ-
 lich zu Forschungszwecken im Sinne von Art. 2 Abs.
 6 KI-VO eingesetzt werden, ergänzend die Anbieter-
 Pflichten der KI-VO zu prüfen und zu beachten.
+Änderungen am TIER-System, an den zugelasse-
+nen Modellen oder an den Rollen und Zuständigkei-
+ten (z. B. Ombudsperson, Datenschutzkoordination,
+Beirat IT) werden in den entsprechenden Richtlinie
+TIER 1/TIER 2 sowie in begleitenden Prozessdo-
+kumenten festgehalten. Diese Richtlinie verweist in
+Zweifelsfällen auf diese ergänzenden Dokumente.
+Für
+Fragen
+zur
+Auslegung
+dieser
+Richtlinie,
+zu konkreten Anwendungsfällen oder zu geplanten
+TIER 2-Projekten stehen insbesondere Ombudsper-
+son, Datenschutzkoordination, Forschungssoftware-
+ingenieur (RSE) und IT-Abteilung als Ansprechperso-
+nen zur Verfügung.
 Autoren: Christian Merdon2, Dirk Peschka3, Laura Prieto Saavedra4
 Literatur
 [EU AI Act] EU KI-Gesetz / Artificial Intelligence Act (Verordnung (EU) 2024/1689). https://artificialintelligenceact.eu/de/
@@ -364,22 +383,4 @@ cher Intelligenz“. DOI: https://dx.doi.org/10.5281/zenodo.14420893.
 2Datenschutzkoordinator des WIAS
 3Ombudsperson des WIAS
 4Research Software Engineer (RSE) des WIAS
-Änderungen am TIER-System, an den zugelasse-
-nen Modellen oder an den Rollen und Zuständigkei-
-ten (z. B. Ombudsperson, Datenschutzkoordination,
-Beirat IT) werden in den entsprechenden Richtlinie
-TIER 1/TIER 2 sowie in begleitenden Prozessdo-
-kumenten festgehalten. Diese Richtlinie verweist in
-Zweifelsfällen auf diese ergänzenden Dokumente.
-Für
-Fragen
-zur
-Auslegung
-dieser
-Richtlinie,
-zu konkreten Anwendungsfällen oder zu geplanten
-TIER 2-Projekten stehen insbesondere Ombudsper-
-son, Datenschutzkoordination, Forschungssoftware-
-ingenieur (RSE) und IT-Abteilung als Ansprechperso-
-nen zur Verfügung.
 4

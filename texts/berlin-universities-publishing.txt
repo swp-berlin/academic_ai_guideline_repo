@@ -3,83 +3,46 @@
 # Date: 2024-05-02
 # Category: guideline
 # Download file: berlin-universities-publishing.pdf
+# Extraction: mistral-ocr
+
+Berlin Universities Publishing
 
 Stand: 02.05.2024
-Leitlinie zum Umgang mit künstlicher Intelligenz
-1. Grundsätzliches
-Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen
-vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und
-das wissenschaftliche Publizieren. Die Entwicklungen bergen jedoch zugleich eine Reihe von
-Risiken in sich. Mit der vorliegenden KI-Leitlinie adressiert Berlin Universities Publishing
-(BerlinUP) diese Risiken in Bezug auf das wissenschaftliche Publizieren und regelt den Umgang
-mit künstlicher Intelligenz bzw. den Einsatz von KI-Tools bei Verlagspublikationen.
-Als Orientierung dienen dabei die von der Europäischen Kommission in Auftrag gegebenen
-Ethik-Leitlinien für eine vertrauenswürdige KI 1, das Positionspaper vom Committee of
-Publication Ethics (COPE) Authorship and AI 2, die Empfehlungen der World Association of
-Medical Editors (WAME) Chatbots and Generative Artificial Intelligence in Relation to Scholarly
-Publications 3 sowie die Stellungnahme des Präsidiums der Deutschen
-Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und 
-Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG 4.
-Künstliche Intelligenz gilt als Überbegriff für Anwendungen, bei denen Maschinen
-menschenähnliche Intelligenzleistungen erbringen. Im Bereich des wissenschaftlichen
-Publizierens sind vor allem generative KI-Tools relevant, die durch eine natürlichsprachliche
 
+# Leitlinie zum Umgang mit künstlicher Intelligenz
 
-1 Hochrangige Expertengruppe für KI (2019): Ethik-Leitlinien für eine vertrauenswürdige KI.
-https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
-2 COPE (2023): Authorship and AI Tools. https://publicationethics.org/cope-position-
-statements/ai-author
-3 WAME (2023): Chatbots and Generative Artificial Intelligence in Relation to Scholarly 
-Publications. https://doi.org/10.1080/03007995.2023.2286102
-4 DFG (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum
-Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das
-Förderhandeln der DFG.
-https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahm
-en_papiere/2023/230921_stellungnahme_praesidium_ki_ai.pdf
-1
+## 1. Grundsätzliches
+
+Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und das wissenschaftliche Publizieren. Die Entwicklungen bergen jedoch zugleich eine Reihe von Risiken in sich. Mit der vorliegenden KI-Leitlinie adressiert Berlin Universities Publishing (BerlinUP) diese Risiken in Bezug auf das wissenschaftliche Publizieren und regelt den Umgang mit künstlicher Intelligenz bzw. den Einsatz von KI-Tools bei Verlagspublikationen.
+
+Als Orientierung dienen dabei die von der Europäischen Kommission in Auftrag gegebenen Ethik-Leitlinien für eine vertrauenswürdige KI¹, das Positionspaper vom Committee of Publication Ethics (COPE) Authorship and AI², die Empfehlungen der World Association of Medical Editors (WAME) Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications³ sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG⁴.
+
+Künstliche Intelligenz gilt als Überbegriff für Anwendungen, bei denen Maschinen menschenähnliche Intelligenzleistungen erbringen. Im Bereich des wissenschaftlichen Publizierens sind vor allem generative KI-Tools relevant, die durch eine natürlichsprachliche
+
+¹ Hochrangige Expertengruppe für KI (2019): Ethik-Leitlinien für eine vertrauenswürdige KI. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+² COPE (2023): Authorship and AI Tools. https://publicationethics.org/cope-position-statements/ai-author
+
+³ WAME (2023): Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications. https://doi.org/10.1080/03007995.2023.2286102
+
+⁴ DFG (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_stellungnahme_praesidium_ki_ai.pdf
 
 ---
 
-Eingabe („Prompt“) neue Inhalte generieren in Form von Texten, Bildern, Audios, Videos,
-Softwarecodes oder Datensätzen.
-Dabei kommt insbesondere die Technologie des maschinellen Lernens zur Anwendung, bei der
-auf Grundlage von Trainingsdaten autonom Muster erkannt und Algorithmen trainiert werden,
-um der jeweiligen Eingabe zu entsprechen. Zu den bekannten Beispielen zählen
-textgenerierende Chatbots wie ChatGPT, Copilot, Gemini oder LLaMA sowie bildgenerierende
-KI-Tools wie DALL-E, Stable Diffusion oder Midjourney.
-Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust
-ist. Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die
-Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit. Aus
-diesen Grundsätzen leiten sich für BerlinUP folgende Anwendungsfälle zum Umgang mit KI
-beim wissenschaftlichen Publizieren ab, die auf Grund der dynamischen Entwicklungen
-regelmäßig evaluiert werden.
-2.  Anwendungsfälle
-KI-Tools können keine Autor*innenschaft übernehmen: Gemäß der Auffassung von COPE,
-WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw.
-Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit
-übernehmen können. KI-Tools sind weder natürliche noch juristischen Personen und können 
-daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine
-möglichen Interessenkonflikte feststellen. BerlinUP schließt sich dieser Auffassung an und
-akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen
-aufgeführt werden.
-Der Einsatz von KI-Tools muss transparent dargelegt werden: Die Verwendung von KI-Tools
-beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, 
-Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden. Dabei muss
-klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz
-kamen und wie die KI-Tools verwendet wurden. Dies gilt auch für nicht zur Veröffentlichung
-vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den
-Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften.
-Siehe auch: Handreichung zur Zitation von KI-Tools. https://www.berlin-universities-
-publishing.de/ueber-uns/policies/ki-leitlinie/ki-handreichung/index.html
-Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten: Die Autor*innen sind in
-vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für
-die Teile, die mit KI-Tools erstellt wurden. Das schließt die Richtigkeit der Darstellung, die
-Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein. Somit haften
-die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen 
-Grundsätze des wissenschaftlichen Publizierens.
+Eingabe („Prompt“) neue Inhalte generieren in Form von Texten, Bildern, Audios, Videos, Softwarecodes oder Datensätzen.
 
-Creative Commons CC0 – Soweit rechtlich möglich, wird auf alle Urheberrechte und 
-verbundenen oder verwandten Schutzrechte an dem Text verzichtet. Der Text wird
+Dabei kommt insbesondere die Technologie des maschinellen Lernens zur Anwendung, bei der auf Grundlage von Trainingsdaten autonom Muster erkannt und Algorithmen trainiert werden, um der jeweiligen Eingabe zu entsprechen. Zu den bekannten Beispielen zählen textgenerierende Chatbots wie ChatGPT, Copilot, Gemini oder LLaMA sowie bildgenerierende KI-Tools wie DALL-E, Stable Diffusion oder Midjourney.
 
-veröffentlicht aus: Deutschland.
-2
+Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust ist. Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit. Aus diesen Grundsätzen leiten sich für BerlinUP folgende Anwendungsfälle zum Umgang mit KI beim wissenschaftlichen Publizieren ab, die auf Grund der dynamischen Entwicklungen regelmäßig evaluiert werden.
+
+## 2. Anwendungsfälle
+
+**KI-Tools können keine Autor*innenschaft übernehmen:** Gemäß der Auffassung von COPE, WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw. Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit übernehmen können. KI-Tools sind weder natürliche noch juristischen Personen und können daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine möglichen Interessenkonflikte feststellen. BerlinUP schließt sich dieser Auffassung an und akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen aufgeführt werden.
+
+**Der Einsatz von KI-Tools muss transparent dargelegt werden:** Die Verwendung von KI-Tools beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden. Dabei muss klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz kamen und wie die KI-Tools verwendet wurden. Dies gilt auch für nicht zur Veröffentlichung vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften.
+
+Siehe auch: *Handreichung zur Zitation von KI-Tools*. https://www.berlin-universities-publishing.de/ueber-uns/policies/ki-leitlinie/ki-handreichung/index.html
+
+**Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten:** Die Autor*innen sind in vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für die Teile, die mit KI-Tools erstellt wurden. Das schließt die Richtigkeit der Darstellung, die Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein. Somit haften die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen Grundsätze des wissenschaftlichen Publizierens.
+
+Creative Commons CCO – Soweit rechtlich möglich, wird auf alle Urheberrechte und verbundenen oder verwandten Schutzrechte an dem Text verzichtet. Der Text wird veröffentlicht aus: Deutschland.
