@@ -1,0 +1,134 @@
+# Leibniz-Gemeinschaft (Geschäftsstelle)
+# Source: https://www.leibniz-gemeinschaft.de/fileadmin/documents/3225-3070/Leibniz-Geschaeftsstelle_Richtlinie_zur_KI-Nutzung.pdf
+# Date: 2025-07-11
+# Category: guideline
+
+# Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft
+
+10. Juli 2025
+
+# Impressum
+
+## Herausgeber
+
+Die Generalsekretärin der Leibniz-Gemeinschaft
+Bettina Böhm
+Chausseestraße 111
+10115 Berlin
+info@leibniz-gemeinschaft.de
+
+## Lizenzhinweis
+
+Alle Texte dieser Publikation sind, ausgenommen Zitate und soweit nicht anders angegeben, unter der Lizenz Namensnennung 4.0 International (CC BY 4.0) veröffentlicht.
+
+Die Erstellung dieser Richtlinie wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat von diversen KI-Diensten unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.
+
+## Redaktion
+
+Die AG „Künstliche Intelligenz" (Mai 2024 - Juni 2025) der Leibniz-Geschäftsstelle bestehend aus: Jan Biesenbender, Johannes Bronisch, Natalia Göllner, Anja Gornitz, Luzia Goldmann, Felix Kießling, Lisa Kressin, Samuel Krug, Andrea Meixner, Sebastian Scheringer, Gabriel Sollberger, Philipp Steglich, Veronika Thanner, Tim Urban & Sophie Wulk.
+
+## Ansprechpersonen in der Geschäftsstelle
+
+Sebastian Scheringer & Philipp Steglich
+ki@leibniz-gemeinschaft.de
+
+## Datum
+
+10. Juli 2025
+
+## DOI
+
+10.5281/zenodo.15162387
+
+## Zitierweise
+
+Leibniz-Gemeinschaft. (2025). Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft. Zenodo.
+https://doi.org/10.5281/zenodo.15162387. | Die jeweils neueste Version dieser Richtlinie erreichen Sie über diesen Link: https://doi.org/10.5281/zenodo.15162386.
+
+# 1. Präambel
+
+Die Geschäftsstelle der Leibniz-Gemeinschaft bekennt sich zur verantwortungsvollen Nutzung generativer Künstlicher Intelligenz (KI) bei der Unterstützung von Arbeitsprozessen und als Instrument zur Stärkung einer offenen Datenkultur. Als Teil der Digitalisierungsstrategie soll KI das Informationsmanagement fördern, die digitale Transformation beschleunigen und datenbasierte Entscheidungen unterstützen.
+
+Mit dieser Richtlinie stärken wir eine innovationsfreundliche Arbeitskultur: Wir möchten die Mitarbeiterinnen und Mitarbeiter bei der dienstlichen Verwendung von KI-Systemen unterstützen und einen transparenten und rechtlich einwandfreien Umgang mit KI-Systemen ermöglichen.
+
+# 2. Begriffsbestimmung
+
+Generative KI im Sinne dieser Richtlinie bezeichnet Systeme, die auf Basis großer Datenmengen trainiert wurden und in der Lage sind, auf Anfragen (Prompts) neue Inhalte wie Texte, Bilder, Tabellen oder Code zu erzeugen bzw. Datenanalysen vorzunehmen.
+
+Large Language Models (LLM) sind generative KI-Systeme, die darauf spezialisiert sind, menschliche Sprache zu verarbeiten und zu erzeugen. Ein LLM kann Inhalte nicht verstehen. Basierend auf Trainingsdaten sagt es wahrscheinliche Wortfolgen vorher. Deshalb können LLMs auch „Halluzinationen“ erzeugen (plausibel klingende, aber falsche Informationen).
+
+# 3. Grundsätze
+
+Für die Nutzung von KI-Systemen in der Geschäftsstelle der Leibniz-Gemeinschaft gelten die folgenden Grundsätze:
+
+- **Menschliche Verantwortung und Kontrolle:** Die menschlichen Nutzerinnen und Nutzer behalten stets die Verantwortung für KI-generierte Inhalte, da KI-Systeme über keine Fähigkeit zum Verständnis im menschlichen Sinne verfügen und Fehlinformationen produzieren können („Halluzinationen“, s. o.). KI-generierte Inhalte müssen auf sachliche Richtigkeit und Plausibilität überprüft werden. Die Überprüfung muss durch den Menschen erfolgen, nicht etwa durch eine andere KI.
+
+- **Umgang mit Verzerrungen:** KI-generierte Inhalte müssen auf Verzerrungen und ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. Besonders zu achten ist etwa auf
+  - Stereotype z.B. bei Übersetzungen und Bildgenerierung
+  - Diskriminierung bestimmter Personengruppen
+  - Einseitige Darstellungen
+
+- **Ressourcenschonung:** Die Nutzung von KI-Systemen ist ressourcenintensiv. Bei der Verwendung von KI sind finanzielle und ökologische Kosten zu berücksichtigen.
+
+- **Unterstützung bei der Nutzung:** Neben dieser Richtlinie wird die Nutzung von KI-Systemen durch Informations-, Schulungs- und Austauschformate unterstützt (siehe hierzu Abschnitt 6. Schulungen und Austausch).
+
+- **Keine Pflicht zur Nutzung:** Es besteht keine Verpflichtung zur Nutzung von KI-Systemen.
+
+# 4. Transparenz
+
+Bei der Verwendung von KI ist Transparenz erforderlich. Daher gilt eine Hinweispflicht, insbesondere wenn KI-Systeme für die Erarbeitung von Texten oder Bildern genutzt wurden.
+
+Folgende Angaben sind zu machen:
+
+- Name, Version und Anbieter des verwendeten KI-Modells
+- Zeitraum der Nutzung
+- Bezeichnung des Zwecks der Verwendung (Textgenerierung, Zusammenfassung, Übersetzung, Recherche, Textüberarbeitung, etc.)
+- Hinweis auf diese Richtlinie der Leibniz-Geschäftsstelle zur Nutzung von KI
+
+Beispiel:
+
+Die Erstellung dieses Textes wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat durch die folgenden KI-Dienste unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.
+
+# 5. Rechtliche Aspekte
+
+Um die Einhaltung rechtlicher Rahmenbedingungen, insbesondere bezüglich Datenschutz und Vertraulichkeit, zu gewährleisten und zu verhindern, dass Daten zu Trainingszwecken für KI-Systeme verwendet werden, sind ausschließlich die von der Leibniz-Geschäftsstelle bereitgestellten KI-Dienste zu nutzen. Diese sind über das KI-Portal zu erreichen: https://leibniz.eu.typingcloud.com
+
+Sofern weitere zulässige KI- bzw. Cloud-Dienste (wie deepL Pro u.a.) verwendet werden sollen, sind Accounts bei der IT der Leibniz-Geschäftsstelle zu beantragen.
+
+## 5.1. Datenschutz und Vertraulichkeit
+
+Bei der Nutzung von KI-Systemen sind die Regelungen der Datenschutzgrundverordnung (DSGVO) und damit der Schutz personenbezogener Daten zu beachten:
+
+- Keine Übermittlung personenbezogener Daten im Sinne des Art. 4 (1) DSGVO (Ausnahme: bereits öffentlich bekannte Daten)
+- Vollständige Anonymisierung von personenbezogenen Daten vor der Verarbeitung
+- Keine Übermittlung vertraulicher Informationen (Betriebs- und Geschäftsgeheimnisse, geistiges Eigentum) oder sicherheitsrelevanter Daten
+
+Beispiele für zulässige Nutzungen:
+- Textzusammenfassungen, sofern die zusammenzufassenden Texte keine personenbezogenen Daten enthalten
+- Erstellung bzw. Überarbeitung von Vorlagen oder Protokollen, sofern keine personenbezogenen Daten verwendet werden
+- Datenanalyse mit vollständig anonymisierten Datensätzen
+
+Beispiele für unzulässige Nutzungen:
+- Hochladen von Lebensläufen zur Analyse oder Optimierung
+- Eingabe von Mitarbeiterbewertungen oder Informationen aus Personalakten
+- Verwendung von Dokumenten mit schutzwürdigem geistigen Eigentum (s. auch Abschnitt 5.2. Urheberrecht)
+
+## 5.2. Urheberrecht
+
+Die Nutzerinnen und Nutzer von KI-Systemen sind verantwortlich für die Einhaltung der gesetzlichen urheberrechtlichen Regelungen.
+
+Bei der Nutzung von KI-Systemen ist zu beachten:
+- Input (eingegebene Inhalte) und Output (KI-generierte Inhalte) sind unter urheberrechtlichen Gesichtspunkten zu prüfen.
+- Gemeinfreie Werke, Creative Commons-lizenzierte Dokumente und Werke ohne Schöpfungshöhe dürfen verwendet werden.
+
+# 6. Schulungen und Austausch
+
+Gemäß der EU-KI-Verordnung müssen Mitarbeiterinnen und Mitarbeiter, die KI-Systeme nutzen, zuvor entsprechend geschult werden. Die IT der Leibniz-Geschäftsstelle bietet hierfür Schulungen an, in denen die Gegenstände dieser Richtlinie vertieft und die Verwendung des KI-Portals erklärt werden.
+
+Darüber hinaus werden aktuelle, praktische Hinweise zur Nutzung von KI im internen Wiki bereitgestellt. In der Reihe IT-Talks werden regelmäßig Aspekte der Künstlichen Intelligenz in Webinaren oder Workshops vorgestellt. Ebenfalls für den internen Austausch aller Mitarbeitenden und Mitarbeiter steht ein Kommunikations-Kanal in Slack zur Verfügung.
+
+# 7. Freigabe und Aktualisierung der Richtlinie
+
+Diese Richtlinie wird mit der Freigabe durch die Generalsekretärin/den Generalsekretär für die Leibniz-Geschäftsstelle verbindlich.
+
+Die Richtlinie wird mindestens einmal jährlich auf Aktualität geprüft und gegebenenfalls angepasst. Änderungsvorschläge können jederzeit an ki@leibniz-gemeinschaft.de gerichtet werden. Die Freigabe von Anpassungen der Richtlinie erfolgt durch die Generalsekretärin/den Generalsekretär.
