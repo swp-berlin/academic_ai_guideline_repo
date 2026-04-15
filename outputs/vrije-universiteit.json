@@ -1,0 +1,4489 @@
+{
+  "doc_id": "vrije-universiteit",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "Artificial intelligence, often abbreviated as \"AI\", is a collective name for several technologies that perform tasks or behave in an \"intelligent\" manner. The Organisation for Economic Cooperation and Development (OECD) defines an Artificial Intelligence System as \"a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. AI systems are designed to operate with varying levels of autonomy\".",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Developments in AI have recently gained momentum. The launch of OpenAI's ChatGPT in November 2022 has created high expectations about the possible deployability of generative AI tools (hereinafter \"GenAI\") for a variety of purposes.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Numerous alternatives to ChatGPT have now been developed, such as Anthropic's Claude and Meta's LLaMa. Various plug-ins have already been created for some of these AI tools, which further increases the range of functionalities and therefore the large-scale usability of these tools. These tools can process not only text input, but also images (e.g. DALL-E, Midjourney) and datasets (e.g. ChatGPT Advanced Data Analysis).",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "It remains unclear exactly how the above-mentioned AI tools can be used. However, it is undeniable that this evolution creates many new opportunities to (partially) strengthen and automate processes within research.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "In the future, researchers can expect that the range of available AI tools (and associated plug-ins) will only continue to expand. In time, these AI tools will also be integrated into commonly used software programs and databases. The benefits are clear: Researchers' resources and time are limited, so using these tools will ensure that more can be achieved with the same resources (in other words, increasing productivity). This is especially true for activities or processes that are time-consuming and repetitive, and require only limited insight from researchers. Outsourcing these tasks to AI tools will ensure better use of scarce research resources, benefiting both researchers and taxpayers.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "In addition, these tools can also improve the quality of scientific work. Here, AI tools should be seen as a tool that promotes researchers' own capacity to create high-quality scientific work. For example, AI tools can help researchers come up with new ideas and improve self-written texts, especially for non-native speakers of English.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "Nevertheless, AI tools also raise questions about what exactly their responsible use entails. With these policy guidelines, the VUB wishes to develop a strategic vision regarding AI tools and to provide more clarity about what our university considers appropriate and inappropriate use of AI tools within research processes. The VUB supports and encourages the use of AI tools by researchers. Our university would also like to point out to researchers the limitations and risks that the use of AI tools in research processes can entail.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "These guidelines apply to the use of generative AI tools for research purposes. We mainly focus on the use of commercially/publicly available AI tools regardless of their scope (broadly applicable or with specific purposes) and type of input/output (e.g. written text, figures, data). The guidelines also apply to AI tools that are available in software programs through plug-ins. It includes both online and offline use of commercially/publicly available AI tools (e.g. within a closed environment).",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "These guidelines do, strictly speaking, not apply to processes associated with development of AI tools as part of academic activities (as well as the reuse of in-house AI tools by VUB colleagues). In addition, the guidelines exempt the use of AI techniques for data analysis if data are not made available through an external portal. AI tools for data mining that are formally part of the research method or design are not considered. These guidelines also do not apply to educational activities at VUB, including the organization of master's theses. For more information around AI and education, please visit Generative Artificial Intelligence and Education. Some parts of these guidelines may remain purely informative for these matters.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "The elements taken into account in this scope will be further examined with VUB researchers. The scope can therefore be adjusted or specified in the future.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "The VUB is open to using AI tools for various research purposes and imposes few specific restrictions.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "However, deploying AI tools for research purposes should always adhere to a set of general principles. These principles are:",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "Researchers remain fully responsible for AI outputs as well as the appropriateness of the research process in which AI is used. Responsibility cannot therefore be passed on to AI tools. In practice, this means that researchers can be held accountable for inappropriate use of AI tools, such as failure to comply with the rules regarding scientific integrity (plagiarism, citing sources, etc.). This rule is consistent with the position of the Committee of Publication Ethics (COPE) that \"authors are fully responsible for the content of their manuscript, even those parts produced by an AI-tool, and are thus guilty for any breach of publication ethics\". ALLEA's 2023 European Code of Conduct for Research Integrity requires researchers to report the use of AI tools in accordance with the standards of the scientific field to which they belong.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "principles/values",
+      "text": "The creative ideas and input of researchers remain important. The interaction between researcher and AI tools can generate new ideas. Researchers can build on their own ideas or gain new insights through AI tools, even if the insight is not explicitly presented by the AI tool. With regard to ideation, AI tools are best regarded as (versatile) instruments that can be an extension of the researcher: They promote the capacity of researchers to generate ideas.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers must provide the greatest possible degree of transparency on the use of AI tools in their scientific activities. This means that the way AI tools are used often needs to be described in detail in the Materials & Methods section and/or Supplementary Data, including prompts, output, name and version of the AI tool. Researchers should also properly reference AI tools in scientific publications (See section \"How to reference AI?\")",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers need to check the outputs of AI tools. For example, various verification steps must be built in. One should always look for the original sources and, where applicable, check licenses for the original work. Original ideas must also be properly attributed to their creator. Training data used by AI tools may also be copyrighted or reuse may be restricted by licensing. In that case, one cannot literally copy the AI output. In addition, it is necessary to provide information (mainly facts and figures) to fact-check. Researchers should check whether outputs reflect sufficiently diverse views (e.g. conflicting results of studies). In addition, one must check whether scientific statements are sufficiently supported by empirical material (if relevant to the research discipline). The more \"autonomous\" AI tools work, the greater the degree of verification that researchers have to perform. The greater the risk of potential harm and the amount of harm that could be caused, the greater the degree of scrutiny researchers must exercise.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers must follow possible discipline-specific rules regarding the responsible use of AI tools as well as guidelines from scientific journals. Some journals prohibit the use of AI tools for text production, while others allow it conditionally. Researchers should inform themselves about these guidelines and follow them if they want to publish in a specific scientific journal (See section \"Referring to the use of AI tools in research processes\").",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers should be aware that using AI tools can also be a disadvantage in some circumstances. For example, AI tools can generate text with generic statements. The lack of specificity in the text and/or the use of AI tools itself (about which researchers should be transparent) could also play a role as negative elements in review processes.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Researchers serve not to enter the following data in AI tools:",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Personal data: data that can (directly or indirectly) lead to the identification of persons",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Data that is important with a view to future valorization or data that is (or can be) protected by intellectual property law. See also \"Text Prompts and User Inputs in AI Models\" under the \"Limitations and Potential Issues\" section. Article 3 of the Valorisation Regulations states that \"Before publication, Valorisable Research Results must be made known to the Knowledge & Technology Transfer Interface of the Institution\". Contact techtransfer@vub.be with questions or for support.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Data whose release could be ethically problematic, such as in the event of a real risk of inappropriate use or group harm (e.g. stigmatization)",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Data where existing contracts (e.g. non-disclosure agreements) or rules from funding organizations impose restrictions on sharing",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Data subject to contracts with third parties (e.g. companies)",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Data that is protected by copyright or database rights of another person, unless with that person's permission.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Exceptions: This general guideline may be deviated from for certain AI tools and under certain conditions. Please contact AI4research@vub.be if you have any questions about possible exceptions.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "We recommend that researchers check the privacy settings of the AI tools and adjust them if deemed necessary.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "It is not permitted to use AI tools to write the substantive aspects of peer reviews.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "In contrast, researchers are allowed to:",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "allow the lead author(s) to use AI tools themselves to generate feedback.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Use AI tools to better formulate self-written peer reviews linguistically (e.g. Grammarly) if measures are taken to ensure confidentiality.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "This section serves to give researchers more insight into how AI tools can be used. The following table describes possible purposes. The purposes listed are non-exhaustive. Each purpose is illustrated with a short case study that also provides the Dos & Don'ts when using AI tools. These Dos & Don'ts are more specific guidelines that should be observed in addition to the \"General Principles\". Finally, a series of AI tools are linked to each purpose. This list is also not exhaustive. These AI tools can be applicable for specific or multiple purposes. There can be significant differences in performance of these AI tools, and we recommend always using the state-of-the-art AI tools. In practice, this often means using the paid versions (via individual or group licenses). If there are any further questions about these cases or use of AI tools for other research purposes, please feel free to contact us at AI4research@vub.be.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Identifying new literature",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "When conducting a literature study, an AI tool is additionally used to identify relevant literature in lesser-known fields (e.g. in interdisciplinary research).",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Appropriate mention of AI tool in \"Method\" section",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Free use if not within the context of a formal literature study",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Using AI-suggested papers in literature review without content checking",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Elicit\n- Perplexity\n- Inciteful\n- Research Rabbit\n- Connected Papers\n- Consensus\n- Scite\n- Iris",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Summarizing articles",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool that screens and summarizes recent literature. The summaries are then reviewed in detail.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Use for initial screening before reading the full texts",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Citing/referencing articles based on a summary without having read it yourself",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Semantic Scholar\n- Humata\n- Iris\n- ChatGPT\n- Perplexity",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Selectively searching the content of articles",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to find \"Recommendations\" and \"Perspectives\" in scientific publications to keep up with the most recent policy implications of studies within his/her domain.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Screening for specific parts of articles or terminology and then reviewing them manually",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Summarizing specific parts across articles and not reading these individual parts thoroughly",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Lack of references when processing in own academic work",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Iris\n- Semantic Scholar\n- ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Formulating scientific propositions",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher enters his or her own scientific statements and hypotheses into an AI tool to receive feedback. The AI tool suggests possible improvements (e.g. substantive improvements or clarification)",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Indicate use of AI tool to rework statement, including prompts and outputs, if hypothesis testing is part of scientific publication",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT\n- Elicit",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Criticizing statements or positions taken",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to criticize a statement. This can be used to gain more insight into the counterarguments that can be raised.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Self-test whether all arguments that undermine the position can be refuted",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Possible use to educate students through debate",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Citing very personal stories from one's own life to try to support one's own position",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "DebateDevil\n- Elicit\n- Scite\n- ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Carrying out a preliminary screening of evidence for and against scientific statements",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to screen the results of scientific publications. These results can be positive or negative relationships between certain variables. In this way, the researcher wants to gain insight into the burden of proof for a particular hypothesis.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "An initial screening of evidence and shortcomings of studies, before thoroughly reviewing them later",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Additional screening during systematic review and meta-analysis of studies",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Take publication bias in favor of studies with positive results into account during this exercise",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Use of output from AI tool as \"burden of proof\" for or against a statement in social debate",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Complete dependence on a tool for selecting studies for a systematic review",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Consensus\n- Perplexity\n- System Beta\n- Scite\n- ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Brainstorming",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher submits his or her own ideas to an AI tool and asks whether they are already covered in existing literature. The tool finds some potentially valuable publications that partly answer the research question.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Mention interactions with AI tool to generate ideas in publications, including prompts and outputs",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Avoid introducing completely new ideas if you anticipate to engage in valorisation later",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT\n- Elicit",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Generating new ideas for manuscripts",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool and receives an output that contains an idea/argument that is suspected to be new. The prompts provided by the researcher did not actively generate this idea.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The origin of the output is determined via multiple prompts. The researcher also searches through other sources. If necessary, the original source is referenced. The prompt of how the idea was arrived at is added as Supplementary Data in the Method section",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The idea is used as an impetus/starting point",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Copying ideas and presenting them as one's own intellectual contribution",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "No checking whether ideas come from other sources and no acknowledgment of sources",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Generating an initial structure for writing subparts of a scientific publication",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to create an initial structure for the introduction section. Afterwards, the researcher writes the text himself based on this structure.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The use of AI tools is mentioned in the Method section of the publication",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Generating a text by entering the initial structure of subparts of a scientific publication",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher gives the titles of five paragraphs with the instruction to write six lines per paragraph. The AI tool generates a general text with source information.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The researcher must have read all cited publications and check whether the quotation is an accurate representation",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The researcher checks whether the paragraphs present sufficiently diverse views or evidence (e.g. studies with contrasting results)",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Use of the AI tools is reported in the Method section of the publication and the prompt and output are shown in Supplementary Data",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Copy-pasting text in your own publications without checking for plagiarism, for possible licenses that limit reuse",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Correcting spelling errors, grammatical errors and structure of paragraphs based on your own text input",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to improve their own text. The tool makes suggestions to improve the structure of paragraphs and corrects grammatical and spelling errors. In addition, the AI tool suggests replacing vague terms.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The use of AI tools is mentioned in the Method section of the publication",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Automatically accepting all possible adjustments without checking whether the content has changed",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Writefull\n- Quillbot\n- ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Analyzing research data",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Various AI methods are already available to analyze research data. This doesn't necessarily have to be about generative AI. Analyzes can possibly be done based on prompts within existing software.",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Performing analyzes with AI with sufficient substantive control and in accordance with ethical (e.g. checking for bias in data sets) and legal principles",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Mention of AI tool in Method section",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Performing analyzes based solely on prompts without checking whether the prompt has been interpreted correctly",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "The post-hoc formulation of hypotheses based on a given data set so that these hypotheses are always confirmed",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Code Interpreter in GPT-4\n- AutoML",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Code generation",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to help write parts of software.",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Mention of AI tool in Method section",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Copying entire pieces of code without checking the feasibility of the code and whether the desired result is achieved",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "GitHub Copilot\n- ChatWithGit plugin in GPT-4\n- AskTheCode plugin in GPT-4\n- Code Whisperer\n- Code LLama",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Generation of data",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses AI to generate synthetic data while maintaining statistical correlations for exploratory research.",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Publications mention that synthetic data was used and how it was produced in the Method section.",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Use of AI tools is only acceptable if it is clear what happens to data inputs",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Falsifying research data (fraud)",
+      "repaired": false
+    },
+    {
+      "id": 113,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Science communication",
+      "repaired": false
+    },
+    {
+      "id": 114,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to summarize scientific texts for the general public. These messages are shared on social media and the research group's page.",
+      "repaired": false
+    },
+    {
+      "id": 115,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Checking AI summaries before they are sent out for correctness of the contents and style",
+      "repaired": false
+    },
+    {
+      "id": 116,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Chatbot for citizens that can answer follow-up questions",
+      "repaired": false
+    },
+    {
+      "id": 117,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Excessive distribution of science communication (\"spamming\")",
+      "repaired": false
+    },
+    {
+      "id": 118,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 119,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Writing a Data Management Plan (DMP)",
+      "repaired": false
+    },
+    {
+      "id": 120,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to ask specific questions about completing the DMP (e.g. certain sections). The AI tool provides targeted answers about the researcher's options.",
+      "repaired": false
+    },
+    {
+      "id": 121,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Use of AI to better answer specific questions (e.g. which databases are suitable for data type X?)",
+      "repaired": false
+    },
+    {
+      "id": 122,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Writing DMPs by AI if substantive control and understanding of DMP implications",
+      "repaired": false
+    },
+    {
+      "id": 123,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Take into account VUB-specific guidelines regarding Research Data Management",
+      "repaired": false
+    },
+    {
+      "id": 124,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Avoid generating very generic DMPs with little detail",
+      "repaired": false
+    },
+    {
+      "id": 125,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 126,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Writing project applications",
+      "repaired": false
+    },
+    {
+      "id": 127,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "The researcher uses an AI tool to write certain parts of a project application.",
+      "repaired": false
+    },
+    {
+      "id": 128,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The researcher who submits the application has final responsibility for the scientific content and must be sure that it is an original proposal",
+      "repaired": false
+    },
+    {
+      "id": 129,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Publicize the use of AI tool for generating the text",
+      "repaired": false
+    },
+    {
+      "id": 130,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Check whether AI-generated text is sufficiently precise",
+      "repaired": false
+    },
+    {
+      "id": 131,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Check whether the project application meets the conditions of the project call",
+      "repaired": false
+    },
+    {
+      "id": 132,
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Completely outsource the writing of project applications to AI tools",
+      "repaired": false
+    },
+    {
+      "id": 133,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Grantable\n- Granted AI\n- ChatGPT",
+      "repaired": false
+    },
+    {
+      "id": 134,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "Find more detailed information on how to get started with AI tools on our \"Practical information for using AI tools\" page.",
+      "repaired": false
+    },
+    {
+      "id": 135,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "If you are interested in helping organize classes around the use of AI tools for specific purposes, please contact us at AI4research@vub.be. If you are already organizing lessons on this topic, please also contact us. In this way we gain insight into the existing training material and so we can further build on your work and the work of others.",
+      "repaired": false
+    },
+    {
+      "id": 136,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "There are several benefits to using AI tools for various research purposes. We can divide the benefits (and consequences) for researchers into different levels:",
+      "repaired": false
+    },
+    {
+      "id": 137,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Increasing the productivity of researchers. We consider productivity here as the amount of (desirable) research outcomes that one produces given a fixed amount of resources. Scientific studies indicate that using GenAI tools can significantly increase employee productivity. With regard to research, we foresee that time-intensive (and/or repetitive) tasks that do not require substantial intellectual contributions from researchers to AI tools can be partly outsourced. In addition, AI tools can also strengthen researchers' own competencies (e.g. to generate ideas). AI tools can also be used to identify complex patterns in large data sets, which can be useful in the context of exploratory research. Together these can increase the productivity of researchers.",
+      "repaired": false
+    },
+    {
+      "id": 138,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Increasing the quality of researchers' work. Observations from other sectors indicate that the use of GenAI tools can help perform certain tasks in a more qualitative manner. We equally expect that researchers will be able to achieve their stated objectives in the context of research in a more qualitative manner. In this way, a literature study could be made more comprehensive. AI tools can also foster researchers' insights, creativity, and self-reflection, which can lead to more high-quality work.",
+      "repaired": false
+    },
+    {
+      "id": 139,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Promote reflection on one's own work. Just like your fellow scientists, AI tools can cast a new light at your own beliefs, arguments, ideas and works. However, all kinds of factors can complicate the process of giving and receiving feedback. AI tools can therefore have the advantage of quickly taking an \"external and impersonal\" look at one's own work.",
+      "repaired": false
+    },
+    {
+      "id": 140,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Lead to greater agility among researchers. Within today's research environment, researchers are often confronted with challenges that require new skills. For example, researchers must learn to write project applications, draw up DMPs and deal with data protection legislation and ethical guidelines. A significant barrier here is that the learning process can take a lot of time. We expect that the availability of AI tools can reduce the learning time required for \"new\" tasks. They can therefore increase the researcher's agility to deal with these challenges.",
+      "repaired": false
+    },
+    {
+      "id": 141,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Bringing about a shift in the daily work of researchers. One study shows that AI, like other technologies, can cause shifts in job roles. For researchers, this range of tasks consists of coordination, core research tasks, teaching tasks and administrative tasks. AI tools can be used for all these tasks. However, we anticipate that, at this time, they will be more likely to be deployed for repetitive tasks of a non-intellectual nature (e.g. administrative work). They can also be used for more complex tasks, mainly in collaboration with human beings. If we assume that repetitive tasks will require less time (and they will not increase in number), then more complex tasks will account for a larger share of daily work in the future (e.g. core research tasks).",
+      "repaired": false
+    },
+    {
+      "id": 142,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "For certain skills, the gap between researchers could decrease. Some studies indicate that less skilled workers benefit more from using AI tools than skilled workers. For example, one can imagine that a skilled researcher who is not skilled in writing down his/her findings could use an AI tool to compensate for this deficiency. In other words, AI tools could have a leveling effect on the gap between researchers for certain skills.",
+      "repaired": false
+    },
+    {
+      "id": 143,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Narrowing the gap between citizen and scientist. AI tools can be used to summarize and explain scientific texts at the level of the average citizen. This helps scientists explain their research in a sufficiently understandable manner. In fact, AI tools in this way allow to circumvent an important cognitive limitation of humans (the so-called \"curse of knowledge\").",
+      "repaired": false
+    },
+    {
+      "id": 144,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "Promote interdisciplinary dialogue and research. AI tools facilitate the exploration and understanding of abundant information, such as diverse academic work across disciplines. They can also make connections across this diverse literature that are not immediately visible to researchers (In fact, this is a form of creativity). Here, AI tools can also take on the role of match-makers to connect researchers with each other, which can promote interdisciplinarity.",
+      "repaired": false
+    },
+    {
+      "id": 145,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "At a system level, we can anticipate that these benefits for individual researchers will translate into greater speed of scientific progress and overall societal impact of research (given the same amount of resources). This means that the planned resources used in scientific research would generally be better spent.",
+      "repaired": false
+    },
+    {
+      "id": 146,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "As described above, using AI tools can have clear benefits. However, researchers should be aware that AI tools can also have some serious shortcomings and limitations. These are explained per category below.",
+      "repaired": false
+    },
+    {
+      "id": 147,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Data bias can occur in training data",
+      "repaired": false
+    },
+    {
+      "id": 148,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training dates may already be influenced by existing structural inequalities between groups. Differences between groups, such as between different genders, ethnicities or socio-economic classes, can result in over- or under-representation in real-world data (e.g. workforce files, healthcare data). Structural inequalities in group participation or outcomes can be highly dependent on the data source and context. They are not limited to the aforementioned categories.",
+      "repaired": false
+    },
+    {
+      "id": 149,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training data may contain discriminatory language or racist undertones, incorrect information and argumentation (i.e. logical fallacies). This is especially true when written text is used as training data for Large Language Models (LLMs).",
+      "repaired": false
+    },
+    {
+      "id": 150,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training data can exhibit other forms of bias depending on the type of source. For example, publication bias in favor of positive results can still have an impact on AI tools that perform an initial screening for evidence for scientific statements.",
+      "repaired": false
+    },
+    {
+      "id": 151,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training dates for AI tools may be dated. AI tools, including LLMs, may not have access to the latest events or publications. The knowledge cut-off of GPT-3.5 was September 2021 because sources after this date are not included in the training data. Since September 27, GPT4 (Plus and Enterprise) no longer have this limitation and GPT-3.5 will no longer have it in the future.",
+      "repaired": false
+    },
+    {
+      "id": 152,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training data for AI tools may already be (partly) influenced by LLMs. If the use of LLMs is widespread, this will influence the content of new texts. These new texts can in theory be reused as \"training data\" for LLMs. This is a form of \"circularity\" where there is a risk that, if the degree of human intervention is too low, machines will imitate the mistakes of other machines.",
+      "repaired": false
+    },
+    {
+      "id": 153,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Several parts of the training data are not equally informative. The training data for LLMs may contain sets of information that, under normal circumstances, would have varying levels of credibility. For example, results from a single empirical study would be considered less credible than a meta-analysis of all available empirical studies. Likewise, blogs, newspaper articles and scientific publications are not necessarily given the same level of credibility. LLMs such as ChatGPT can, in principle, take these differences into account, for example through fine-tuning or reinforcement learning from human feedback (RLHF) steps during development. However, at this time, one can still get links to less \"reliable sources\", such as blogs, from some LLMs if one does not use plugins or specialized AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 154,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training data may contain personal information or copyrighted material that has been unlawfully released. Personal information that has been unlawfully released may be contained in training data. The use of this data may therefore constitute a (further) violation of research integrity and/or the GDPR.",
+      "repaired": false
+    },
+    {
+      "id": 155,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training data used by AI tools could be partially reconstructed under certain circumstances. Various forms of adversarial privacy attacks, in which targeted attacks are made to disrupt the functioning of AI models or steal information, could pose a risk. The theoretical possibility of this has been documented for AI-tools that use personal data for data analysis (and, therefore, not necessarily for GenAI). In theory, third parties could, under specific conditions, request the presence of an individual's data in training data (\"Membership Inference Attacks\"), whether parts of training data could be reconstructed (\"Model Inversion Attacks\").",
+      "repaired": false
+    },
+    {
+      "id": 156,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Entering personal data into AI tools may violate the European Union's General Data Protection Regulation (GDPR). Personal data entered into AI tools could be stored outside the European Union and third parties could gain access to this data. Please contact AI4research@vub.be before entering personal data into an AI tool.",
+      "repaired": false
+    },
+    {
+      "id": 157,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Entering personal data into AI tools may conflict with the informed consent obtained from the research participant. Ethical guidelines surrounding participation in research may require that consent is only informed if the risks have been made known to research participants in advance. If the use of AI tools produces risks that have not been disclosed, this may mean that the consent was not sufficiently \"informed\". In addition, the informed consent may include that data will not be released to commercial companies. Please contact AI4research@vub.be before entering personal data into an AI tool.",
+      "repaired": false
+    },
+    {
+      "id": 158,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "The use of AI tools to provide feedback on completely new research ideas could be equated with the \"making public\" of these ideas for specific purposes. For example, OpenAI employees view user conversations with their AI tool to improve the algorithm. In that case, researchers may lose the opportunity to patent and valorize inventions. So be careful what you enter if you intend to obtain a patent (in the long term).",
+      "repaired": false
+    },
+    {
+      "id": 159,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Your inputs into AI tools can impact the outputs others get. Unlike the paid GPT-4, OpenAI states that the free version of GPT-3.5 \"[...] may use content such as prompts, responses, uploaded images, and generated images to improve our services. (...) ChatGPT, for instance, improves by further training on the conversations people have with it, unless you choose to disable training\". This means that your interactions with ChatGPT, including your prompts, can be used to improve the performance of the model. It is unclear whether this concerns basic training, fine-tuning or reinforcement learning from human feedback (RLHF). If this is basic training, your prompts/ inputs could reappear as outputs for other users. However, there is no conclusive evidence for this at this time. If it's just about further RLHF, then your prompts won't come back to others.",
+      "repaired": false
+    },
+    {
+      "id": 160,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Your inputs themselves (e.g. quantitative data) may also be of low quality. For example, there may have been shortcomings in carrying out the sample, making the data obtained less informative for making statements about the population (in other words, methodological shortcomings). Your data may also contain insufficient \"metadata\" (i.e. information about experimental conditions) to be processed appropriately by AI models. Finally, AI models cannot always handle metadata appropriately at the moment. We recommend that researchers keep the idea of \"Garbage in, garbage out\" in mind.",
+      "repaired": false
+    },
+    {
+      "id": 161,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Outputs from AI tools can contain bias. The forms of bias described under \"Training data for AI models\" can influence the outputs of AI tools. In this way, Large Language Models (LLMs) can reproduce sexist, racist, or other discriminatory ideas. In addition, fine-tuning LLMs for specific tasks that require humans to assess outputs from AI tools can introduce bias.",
+      "repaired": false
+    },
+    {
+      "id": 162,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Lack of insight into exactly how AI tools work. It is often impossible to determine exactly how algorithms arrive at a certain output. Even if it is clear that a certain part of training data had a greater influence, an explanation that is plausible to humans is still lacking. For example, if one observes that a certain region has a greater influence on images, then there is no causal explanation for why this is the case. A lack of insight into the exact workings of AI tools can have serious consequences. This is mainly the case if unintended correlations with regard to protected characteristics (e.g. gender, orientation, religion, etc.) or proxies for these are identified.",
+      "repaired": false
+    },
+    {
+      "id": 163,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Truthfulness. The outputs of LLMs can be presented as convincing but can be inaccurate, completely wrong or simply irrelevant. A single study already showed that, under some circumstances, the use of high-quality AI can harm the quality of work if users become too dependent (mainly on tasks for which AI tools are not yet suitable). They fall asleep behind the steering wheel, as it were. The self-confidence with which AI tools make statements can therefore be misleading. Researchers must therefore be very critical of text outputs from AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 164,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Limited degree of reproducibility. Generative AI tools create outputs that cannot always be exactly replicated. For example, the same prompt can lead to different text fragments. This also means that complete reproducibility of research processes is not always possible, such as when entering the same prompt for a tool that recommends literature. In addition, algorithms, mainly dynamic-learning AI tools, can themselves also be unstable in the sense that inputs do not process in the same way over time, which makes it more difficult to develop (reproducible) workflows.",
+      "repaired": false
+    },
+    {
+      "id": 165,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "Outputs may contain plagiarized elements. Form elements or ideas from existing texts or images can be copied in their entirety and thus violate research integrity. Not all AI tools are able to generate qualitative references to the sources used. Correct citation in practice may involve some complexities, such as the presence of sources within other sources (e.g. citations within review paper) and attributing a misinterpreted text to a particular source.",
+      "repaired": false
+    },
+    {
+      "id": 166,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "AI tools can produce new data that conflicts with existing privacy rules, such as the GDPR. There may also be (general) problems regarding data linkage and/or derived information where individually anonymized data can together give rise to new privacy-sensitive data. For example, AI tools can, in principle, create new information that is privacy-sensitive or that can be used as a proxy for protected characteristics (e.g., combination of income class and zip code). This also means that the original data sets were not truly \"anonymous\" (i.e. irreversibly deidentified), which also raises the fundamental question of whether \"anonymity\" can actually exist.",
+      "repaired": false
+    },
+    {
+      "id": 167,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "text": "The widespread use of AI tools in research processes creates new challenges for the attribution of scientific contributions. There is currently no consensus as to whether AI tools are allowed and how their use should be made transparent. Scientific journals and publishers have their own positions regarding the use of and reference to AI tools. Note that some publishers impose restrictions on the use of AI tools. We advise researchers to inform themselves about this. This can be done before conducting the research if the use of AI tools is formally part of the method or research design. This can also be done before writing the manuscript if AI tools are used to generate text or figures. The way in which references should be made may also evolve further. A regular check is therefore recommended.",
+      "repaired": false
+    },
+    {
+      "id": 168,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "The VUB advises researchers to first check the guidelines of the journal or publisher where they want to publish! Follow these guidelines if they are available.",
+      "repaired": false
+    },
+    {
+      "id": 169,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "If the journal or publisher does not provide explicit guidelines around the use of AI tools, the following general guideline can be followed:",
+      "repaired": false
+    },
+    {
+      "id": 170,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers should describe the use of AI tools in the Method section, including their technical specifications. These specifications include but are not limited to the full name, version, link to a repository, parameters used and configurations. If the AI tool has been described in detail in scientific publications, these papers can be cited. The prompts used and outputs obtained are described in the Method section or included as Supplementary Data. If a text output from AI tools contains text fragments or ideas originating from others, the original sources should be cited.",
+      "repaired": false
+    },
+    {
+      "id": 171,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "In two specific cases, reference should be made differently:",
+      "repaired": false
+    },
+    {
+      "id": 172,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "AI tools are the object of the study (e.g. studying bias in ChatGPT outputs) and/or the output of AI tools is quoted verbatim",
+      "repaired": false
+    },
+    {
+      "id": 173,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers should accurately present all prompts and cite AI outputs verbatim. This can be done, for example, by putting the name of the AI tool in brackets at the end of the quote. So, in principle, this does not require reference to AI tools as \"author\" of the quotes in the References section. If the journal uses a referencing style that allows this, researchers should follow these guidelines.",
+      "repaired": false
+    },
+    {
+      "id": 174,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "AI tools create seemingly new insights or arguments without significant intellectual contribution from researchers",
+      "repaired": false
+    },
+    {
+      "id": 175,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Researchers should first and foremost check the origin of the output to avoid plagiarism. If there is an existing idea, the source must be cited. If the origin of the idea cannot be found after extensive searching, researchers may quote the idea, but it must be clear that it does not come from the researcher himself. The actions taken by the researchers to determine the origin should be described in the Method section. The prompts themselves should be added as Supplemental Data.",
+      "repaired": false
+    },
+    {
+      "id": 176,
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "for what research purposes can ai tools be used?",
+      "repaired": true
+    },
+    {
+      "id": 177,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- the use of ai tools is mentioned in the method section of the publication",
+      "repaired": true
+    },
+    {
+      "id": 178,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- mention of ai tool in method section",
+      "repaired": true
+    },
+    {
+      "id": 179,
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "available ai tools for research purposes",
+      "repaired": true
+    },
+    {
+      "id": 180,
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "trainings regarding the use of ai tools for these purposes",
+      "repaired": true
+    },
+    {
+      "id": 181,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "limitations and potential problems when using ai tools in research",
+      "repaired": true
+    },
+    {
+      "id": 182,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "training data and learning for ai models",
+      "repaired": true
+    },
+    {
+      "id": 183,
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "text prompts and user inputs for ai models",
+      "repaired": true
+    },
+    {
+      "id": 184,
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "refer to the use of ai tools in research processes",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 184,
+    "matched": 184,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.843,
+    "uncovered_chars": 6799,
+    "uncovered_gaps": 40,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 250,
+        "length": 250,
+        "text": "# vrije universiteit # source: https://www.vub.be/sites/default/files/2023-12/2023_research_ai_richtlijnen_eng.pdf # date: none # category: guideline # responsible use of artificial intelligence for research purposes # 1. introduction ## 1.1 general"
+      },
+      {
+        "char_start": 3189,
+        "char_end": 3218,
+        "length": 29,
+        "text": ". ## 1.2 scope of guidelines"
+      },
+      {
+        "char_start": 4612,
+        "char_end": 4638,
+        "length": 26,
+        "text": ". # 2. general principles"
+      },
+      {
+        "char_start": 10191,
+        "char_end": 10198,
+        "length": 7,
+        "text": ". # 3."
+      },
+      {
+        "char_start": 10246,
+        "char_end": 10272,
+        "length": 26,
+        "text": "## 3.1 research purposes"
+      },
+      {
+        "char_start": 11198,
+        "char_end": 11282,
+        "length": 84,
+        "text": ". | purposes | type | case | do's | don'ts | examples of ai tools | | | | | | | | |"
+      },
+      {
+        "char_start": 11308,
+        "char_end": 11335,
+        "length": 27,
+        "text": "| information retrieval |"
+      },
+      {
+        "char_start": 11800,
+        "char_end": 11821,
+        "length": 21,
+        "text": "| word processing |"
+      },
+      {
+        "char_start": 12186,
+        "char_end": 12213,
+        "length": 27,
+        "text": "| information retrieval |"
+      },
+      {
+        "char_start": 12721,
+        "char_end": 12742,
+        "length": 21,
+        "text": "| word processing |"
+      },
+      {
+        "char_start": 13147,
+        "char_end": 13161,
+        "length": 14,
+        "text": "| ideation |"
+      },
+      {
+        "char_start": 13645,
+        "char_end": 13672,
+        "length": 27,
+        "text": "| information retrieval |"
+      },
+      {
+        "char_start": 14457,
+        "char_end": 14471,
+        "length": 14,
+        "text": "| ideation |"
+      },
+      {
+        "char_start": 14886,
+        "char_end": 14910,
+        "length": 24,
+        "text": "| - chatgpt elicit | |"
+      },
+      {
+        "char_start": 14946,
+        "char_end": 14984,
+        "length": 38,
+        "text": "| ideation/production of new works |"
+      },
+      {
+        "char_start": 15640,
+        "char_end": 15657,
+        "length": 17,
+        "text": "| - chatgpt | |"
+      },
+      {
+        "char_start": 15737,
+        "char_end": 15758,
+        "length": 21,
+        "text": "| word processing |"
+      },
+      {
+        "char_start": 16003,
+        "char_end": 16022,
+        "length": 19,
+        "text": "| | - chatgpt | |"
+      },
+      {
+        "char_start": 16113,
+        "char_end": 16154,
+        "length": 41,
+        "text": "| word processing/producing new works |"
+      },
+      {
+        "char_start": 16821,
+        "char_end": 16838,
+        "length": 17,
+        "text": "| - chatgpt | |"
+      },
+      {
+        "char_start": 16941,
+        "char_end": 16962,
+        "length": 21,
+        "text": "| word processing |"
+      },
+      {
+        "char_start": 17187,
+        "char_end": 17271,
+        "length": 84,
+        "text": ". | - the use of ai tools is mentioned in the method section of the publication | -"
+      },
+      {
+        "char_start": 17427,
+        "char_end": 17464,
+        "length": 37,
+        "text": "| data analysis and visualization |"
+      },
+      {
+        "char_start": 18137,
+        "char_end": 18162,
+        "length": 25,
+        "text": "| producing new works |"
+      },
+      {
+        "char_start": 18224,
+        "char_end": 18271,
+        "length": 47,
+        "text": ". | - mention of ai tool in method section | -"
+      },
+      {
+        "char_start": 18511,
+        "char_end": 18536,
+        "length": 25,
+        "text": "| producing new works |"
+      },
+      {
+        "char_start": 18898,
+        "char_end": 18958,
+        "length": 60,
+        "text": "| writing assistance for administrative/additional tasks |"
+      },
+      {
+        "char_start": 19329,
+        "char_end": 19346,
+        "length": 17,
+        "text": "| - chatgpt | |"
+      },
+      {
+        "char_start": 19382,
+        "char_end": 19442,
+        "length": 60,
+        "text": "| writing assistance for administrative/additional tasks |"
+      },
+      {
+        "char_start": 19936,
+        "char_end": 19953,
+        "length": 17,
+        "text": "| - chatgpt | |"
+      },
+      {
+        "char_start": 19981,
+        "char_end": 20041,
+        "length": 60,
+        "text": "| writing assistance for administrative/additional tasks |"
+      },
+      {
+        "char_start": 20562,
+        "char_end": 20572,
+        "length": 10,
+        "text": "| ## 3.2"
+      },
+      {
+        "char_start": 20734,
+        "char_end": 20743,
+        "length": 9,
+        "text": ". ## 3.3"
+      },
+      {
+        "char_start": 21147,
+        "char_end": 21187,
+        "length": 40,
+        "text": ". # 4. benefits of using ai in research"
+      },
+      {
+        "char_start": 25877,
+        "char_end": 25884,
+        "length": 7,
+        "text": ". # 5."
+      },
+      {
+        "char_start": 32554,
+        "char_end": 32581,
+        "length": 27,
+        "text": ". ## output from ai models"
+      },
+      {
+        "char_start": 35864,
+        "char_end": 35871,
+        "length": 7,
+        "text": ". # 6."
+      },
+      {
+        "char_start": 35921,
+        "char_end": 35946,
+        "length": 25,
+        "text": "## 4.1 state of affairs"
+      },
+      {
+        "char_start": 36749,
+        "char_end": 36778,
+        "length": 29,
+        "text": ". ## 4.2 how to refer to ai?"
+      },
+      {
+        "char_start": 38853,
+        "char_end": 44295,
+        "length": 5442,
+        "text": ". # 7. reference list 1. oecd. recommendation of the council on oecd legal instruments artificial intelligence. 2022. available from: https://legalinstruments.oecd.org/public/doc/648/1df51f15-53fc-43ef-9f13-ee9f957076bc.htm 2. european parliament. proposal for a regulation of the european parliament and of the council laying down harmonized rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts. 2021. available from: https://eurlex.europa.eu/legalcontent/en/txt/?uri=celex%3a52021pc0206 3. midjourney. midjourney. available from: https://www.midjourney.com/home/?callbackurl=%2fapp%2f 4. dall-e 2. available from: https://openai.com/dalle-2 5. cope: committee on publication ethics. authorship and ai tools. available from: https://publicationethics.org/copepositionstatements/aiauthor 6. allea. the european code of conduct for research integrity revised edition 2023. available from: https://allea.org/wpcontent/uploads/2023/06/european-codeof-conduct-revised-edition-2023.pdf 7. dell'acqua f, mcfowland e, mollick er, lifshitz-assaf h, kellogg k, rajendran s, et al. navigating the jagged technological frontier: field experimental evidence of the effects of ai on knowledge worker productivity and quality. ssrn electron j. 2023. available from: https://www.ssrn.com/abstract=4573321 8. brynjolfsson e, li d, raymond l. generative ai at work. cambridge, ma: national bureau of economic research; 2023 apr. report no.: w31161. available from: http://www.nber.org/papers/w31161.pdf 9. noy s, zhang w. experimental evidence on the productivity effects of generative artificial intelligence. science. 2023 jul 14;381(6654):187-192. doi: 10.1126/science.adh2586 10. peng s, kalliamvakou e, cihon p, demirer m. the impact of ai on developer productivity: evidence from github copilot. 2023. available from: https://arxiv.org/abs/2302.06590 11. kanazawa k, kawaguchi d, shigeoka h, watanabe y. ai, skill, and productivity: the case of taxi drivers. cambridge, ma: national bureau of economic research; 2022 oct. report no.: w30612. available from: http://www.nber.org/papers/w30612.pdf 12. campero a, vaccaro m, song j, wen h, almaatouq a, malone tw. a test for evaluating performance in human-computer systems. arxiv; 2022. available from: http://arxiv.org/abs/2206.12390 13. the curse of knowledge: a difficulty in understanding less-informed perspectives - effectiviology. available from: https://effectiviology.com/curseofknowledge/ 14. mollick e. automating creativity. 2023. available from: https://www.oneusefulthing.org/p/automatingcreativity 15. chubb j, cowling p, reed d. speeding up to keep up: exploring the use of ai in the research process. ai & soc. 2022;37:1439-1457. doi: 10.1007/s00146-021-01259-0 16. kenton z, everitt t, weidinger l, gabriel i, mikulik v, irving g. alignment of language agents. 2021. available from: https://arxiv.org/abs/2103.14659 17. rigaki m, garcia s. a survey of privacy attacks in machine learning. 2020. available from: https://arxiv.org/abs/2007.07646 18. zhang g, liu b, zhu t, zhou a, zhou w. visual privacy attacks and defenses in deep learning: a survey. artif intel rev. august 2022;55(6):4347-401. doi: 10.1007/s10462-021-10123-y 19. balle b, cherubin g, hayes j. reconstructing training data with informed adversaries. arxiv; 2022. available from: http://arxiv.org/abs/2201.04845 20. carlini n, tramer f, wallace e, jagielski m, herbert-voss a, lee k, et al. extracting training data from large language models. 2020. available from: https://arxiv.org/abs/2012.07805 21. what is chatgpt? | openai help center. available from: https://help.openai.com/en/articles/6783457-whatischatgpt 22. data usage for consumer services faq | openai help center. available from: https://help.openai.com/en/articles/7039943-datausageforconsumerservicesfaq 23. how your data is used to improve model performance | openai help center. available from: https://help.openai.com/en/articles/5722486-howyourdataisusedtoimprovemodelperformance 24. chatgpt and large language model bias. available from: https://www.cbsnews.com/news/chatgptlargelanguagemodelbias-60-minutes-2023-03-05/ 25. omiye ja, lester j, spichak s, rotemberg v, daneshjou r. beyond the hype: large language models propagate racebased medicine. health informatics; 2023 jul. available from: http://medrxiv.org/lookup/doi/10.1101/2023.07 26. deshpande a, murahari v, rajpurohit t, kalyan a, narasimhan k. toxicity in chatgpt: analyzing personaassigned language models. 2023. available from: https://arxiv.org/abs/2304.05335 27. ouyang l, wu j, jiang x, almeida d, wainwright cl, mishkin p, et al. training language models to follow instructions with human feedback. arxiv; 2022. available from: https://doi.org/10.48550/arxiv.2203.02155 28. obermeyer z, powers b, vogeli c, mullainathan s. dissecting racial bias in an algorithm used to manage the health of populations. science. oct 2019;366(6464):447-453. doi: 10.1126/science.aax2342 29. hosseini m, rasmussen lm, resnik db. using ai to write scholarly publications. account res. january 25, 2023;1-9. https://doi.org/10.1080/08989621.2023.2168535 30. fabrizio dell'acqua, falling asleep at the wheel: human/ai collaboration in a field experiment on hr recruiters. available from: https://static.squarespace.com/static/604b23e38c22a96e9c78879e/t/62d5d9448d061f7327e8a7e7/1658181956291/falling+asleep+at+the+wheel+-+fabrizio+dellacqua.pdf"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 254,
+      "text": "# Vrije Universiteit\n# Source: https://www.vub.be/sites/default/files/2023-12/2023_RESEARCH_AI_Richtlijnen_ENG.pdf\n# Date: None\n# Category: guideline\n\n# Responsible use of artificial intelligence for research purposes\n\n# 1. Introduction\n\n## 1.1 General\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 254,
+      "char_end": 756,
+      "text": "Artificial intelligence, often abbreviated as \"AI\", is a collective name for several technologies that perform tasks or behave in an \"intelligent\" manner. The Organisation for Economic Cooperation and Development (OECD) defines an Artificial Intelligence System as \"a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. AI systems are designed to operate with varying levels of autonomy\".",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 758,
+      "char_end": 990,
+      "text": "Developments in AI have recently gained momentum. The launch of OpenAI's ChatGPT in November 2022 has created high expectations about the possible deployability of generative AI tools (hereinafter \"GenAI\") for a variety of purposes.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 991,
+      "char_end": 1412,
+      "text": "Numerous alternatives to ChatGPT have now been developed, such as Anthropic's Claude and Meta's LLaMa. Various plug-ins have already been created for some of these AI tools, which further increases the range of functionalities and therefore the large-scale usability of these tools. These tools can process not only text input, but also images (e.g. DALL-E, Midjourney) and datasets (e.g. ChatGPT Advanced Data Analysis).",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1414,
+      "char_end": 1629,
+      "text": "It remains unclear exactly how the above-mentioned AI tools can be used. However, it is undeniable that this evolution creates many new opportunities to (partially) strengthen and automate processes within research.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1630,
+      "char_end": 2330,
+      "text": "In the future, researchers can expect that the range of available AI tools (and associated plug-ins) will only continue to expand. In time, these AI tools will also be integrated into commonly used software programs and databases. The benefits are clear: Researchers' resources and time are limited, so using these tools will ensure that more can be achieved with the same resources (in other words, increasing productivity). This is especially true for activities or processes that are time-consuming and repetitive, and require only limited insight from researchers. Outsourcing these tasks to AI tools will ensure better use of scarce research resources, benefiting both researchers and taxpayers.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2332,
+      "char_end": 2670,
+      "text": "In addition, these tools can also improve the quality of scientific work. Here, AI tools should be seen as a tool that promotes researchers' own capacity to create high-quality scientific work. For example, AI tools can help researchers come up with new ideas and improve self-written texts, especially for non-native speakers of English.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2672,
+      "char_end": 3208,
+      "text": "Nevertheless, AI tools also raise questions about what exactly their responsible use entails. With these policy guidelines, the VUB wishes to develop a strategic vision regarding AI tools and to provide more clarity about what our university considers appropriate and inappropriate use of AI tools within research processes. The VUB supports and encourages the use of AI tools by researchers. Our university would also like to point out to researchers the limitations and risks that the use of AI tools in research processes can entail.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3208,
+      "char_end": 3238,
+      "text": "\n\n## 1.2 Scope of guidelines\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3238,
+      "char_end": 3738,
+      "text": "These guidelines apply to the use of generative AI tools for research purposes. We mainly focus on the use of commercially/publicly available AI tools regardless of their scope (broadly applicable or with specific purposes) and type of input/output (e.g. written text, figures, data). The guidelines also apply to AI tools that are available in software programs through plug-ins. It includes both online and offline use of commercially/publicly available AI tools (e.g. within a closed environment).",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3740,
+      "char_end": 4479,
+      "text": "These guidelines do, strictly speaking, not apply to processes associated with development of AI tools as part of academic activities (as well as the reuse of in-house AI tools by VUB colleagues). In addition, the guidelines exempt the use of AI techniques for data analysis if data are not made available through an external portal. AI tools for data mining that are formally part of the research method or design are not considered. These guidelines also do not apply to educational activities at VUB, including the organization of master's theses. For more information around AI and education, please visit Generative Artificial Intelligence and Education. Some parts of these guidelines may remain purely informative for these matters.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4481,
+      "char_end": 4637,
+      "text": "The elements taken into account in this scope will be further examined with VUB researchers. The scope can therefore be adjusted or specified in the future.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4637,
+      "char_end": 4664,
+      "text": "\n\n# 2. General principles\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4664,
+      "char_end": 4766,
+      "text": "The VUB is open to using AI tools for various research purposes and imposes few specific restrictions.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4768,
+      "char_end": 4892,
+      "text": "However, deploying AI tools for research purposes should always adhere to a set of general principles. These principles are:",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4892,
+      "char_end": 4896,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4896,
+      "char_end": 5741,
+      "text": "Researchers remain fully responsible for AI outputs as well as the appropriateness of the research process in which AI is used. Responsibility cannot therefore be passed on to AI tools. In practice, this means that researchers can be held accountable for inappropriate use of AI tools, such as failure to comply with the rules regarding scientific integrity (plagiarism, citing sources, etc.). This rule is consistent with the position of the Committee of Publication Ethics (COPE) that \"authors are fully responsible for the content of their manuscript, even those parts produced by an AI-tool, and are thus guilty for any breach of publication ethics\". ALLEA's 2023 European Code of Conduct for Research Integrity requires researchers to report the use of AI tools in accordance with the standards of the scientific field to which they belong.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5741,
+      "char_end": 5744,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5744,
+      "char_end": 6204,
+      "text": "The creative ideas and input of researchers remain important. The interaction between researcher and AI tools can generate new ideas. Researchers can build on their own ideas or gain new insights through AI tools, even if the insight is not explicitly presented by the AI tool. With regard to ideation, AI tools are best regarded as (versatile) instruments that can be an extension of the researcher: They promote the capacity of researchers to generate ideas.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6204,
+      "char_end": 6207,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6207,
+      "char_end": 6649,
+      "text": "Researchers must provide the greatest possible degree of transparency on the use of AI tools in their scientific activities. This means that the way AI tools are used often needs to be described in detail in the Materials & Methods section and/or Supplementary Data, including prompts, output, name and version of the AI tool. Researchers should also properly reference AI tools in scientific publications (See section \"How to reference AI?\")",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6649,
+      "char_end": 6652,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6652,
+      "char_end": 7700,
+      "text": "Researchers need to check the outputs of AI tools. For example, various verification steps must be built in. One should always look for the original sources and, where applicable, check licenses for the original work. Original ideas must also be properly attributed to their creator. Training data used by AI tools may also be copyrighted or reuse may be restricted by licensing. In that case, one cannot literally copy the AI output. In addition, it is necessary to provide information (mainly facts and figures) to fact-check. Researchers should check whether outputs reflect sufficiently diverse views (e.g. conflicting results of studies). In addition, one must check whether scientific statements are sufficiently supported by empirical material (if relevant to the research discipline). The more \"autonomous\" AI tools work, the greater the degree of verification that researchers have to perform. The greater the risk of potential harm and the amount of harm that could be caused, the greater the degree of scrutiny researchers must exercise.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7700,
+      "char_end": 7703,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7703,
+      "char_end": 8157,
+      "text": "Researchers must follow possible discipline-specific rules regarding the responsible use of AI tools as well as guidelines from scientific journals. Some journals prohibit the use of AI tools for text production, while others allow it conditionally. Researchers should inform themselves about these guidelines and follow them if they want to publish in a specific scientific journal (See section \"Referring to the use of AI tools in research processes\").",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8157,
+      "char_end": 8160,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8160,
+      "char_end": 8505,
+      "text": "Researchers should be aware that using AI tools can also be a disadvantage in some circumstances. For example, AI tools can generate text with generic statements. The lack of specificity in the text and/or the use of AI tools itself (about which researchers should be transparent) could also play a role as negative elements in review processes.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8507,
+      "char_end": 8569,
+      "text": "Researchers serve not to enter the following data in AI tools:",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8569,
+      "char_end": 8573,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8573,
+      "char_end": 8664,
+      "text": "Personal data: data that can (directly or indirectly) lead to the identification of persons",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8664,
+      "char_end": 8667,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8667,
+      "char_end": 9151,
+      "text": "Data that is important with a view to future valorization or data that is (or can be) protected by intellectual property law. See also \"Text Prompts and User Inputs in AI Models\" under the \"Limitations and Potential Issues\" section. Article 3 of the Valorisation Regulations states that \"Before publication, Valorisable Research Results must be made known to the Knowledge & Technology Transfer Interface of the Institution\". Contact techtransfer@vub.be with questions or for support.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9151,
+      "char_end": 9154,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9154,
+      "char_end": 9297,
+      "text": "Data whose release could be ethically problematic, such as in the event of a real risk of inappropriate use or group harm (e.g. stigmatization)",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9297,
+      "char_end": 9300,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9300,
+      "char_end": 9429,
+      "text": "Data where existing contracts (e.g. non-disclosure agreements) or rules from funding organizations impose restrictions on sharing",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9429,
+      "char_end": 9432,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9432,
+      "char_end": 9493,
+      "text": "Data subject to contracts with third parties (e.g. companies)",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9493,
+      "char_end": 9496,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9496,
+      "char_end": 9607,
+      "text": "Data that is protected by copyright or database rights of another person, unless with that person's permission.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9609,
+      "char_end": 9802,
+      "text": "Exceptions: This general guideline may be deviated from for certain AI tools and under certain conditions. Please contact AI4research@vub.be if you have any questions about possible exceptions.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9804,
+      "char_end": 9913,
+      "text": "We recommend that researchers check the privacy settings of the AI tools and adjust them if deemed necessary.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9913,
+      "char_end": 9917,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9917,
+      "char_end": 10002,
+      "text": "It is not permitted to use AI tools to write the substantive aspects of peer reviews.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10003,
+      "char_end": 10043,
+      "text": "In contrast, researchers are allowed to:",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10043,
+      "char_end": 10047,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10047,
+      "char_end": 10120,
+      "text": "allow the lead author(s) to use AI tools themselves to generate feedback.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10120,
+      "char_end": 10124,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10124,
+      "char_end": 10263,
+      "text": "Use AI tools to better formulate self-written peer reviews linguistically (e.g. Grammarly) if measures are taken to ensure confidentiality.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10263,
+      "char_end": 10270,
+      "text": "\n\n# 3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10270,
+      "char_end": 10318,
+      "text": "For what research purposes can AI tools be used?",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 176,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10318,
+      "char_end": 10346,
+      "text": "\n\n## 3.1 Research purposes\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10346,
+      "char_end": 11277,
+      "text": "This section serves to give researchers more insight into how AI tools can be used. The following table describes possible purposes. The purposes listed are non-exhaustive. Each purpose is illustrated with a short case study that also provides the Dos & Don'ts when using AI tools. These Dos & Don'ts are more specific guidelines that should be observed in addition to the \"General Principles\". Finally, a series of AI tools are linked to each purpose. This list is also not exhaustive. These AI tools can be applicable for specific or multiple purposes. There can be significant differences in performance of these AI tools, and we recommend always using the state-of-the-art AI tools. In practice, this often means using the paid versions (via individual or group licenses). If there are any further questions about these cases or use of AI tools for other research purposes, please feel free to contact us at AI4research@vub.be.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11277,
+      "char_end": 11385,
+      "text": "\n\n| Purposes | Type | Case | Do's | Don'ts | Examples of AI tools |\n| --- | --- | --- | --- | --- | --- |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11385,
+      "char_end": 11411,
+      "text": "Identifying new literature",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11411,
+      "char_end": 11438,
+      "text": " | Information retrieval | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11438,
+      "char_end": 11598,
+      "text": "When conducting a literature study, an AI tool is additionally used to identify relevant literature in lesser-known fields (e.g. in interdisciplinary research).",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11598,
+      "char_end": 11603,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11603,
+      "char_end": 11653,
+      "text": "Appropriate mention of AI tool in \"Method\" section",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11653,
+      "char_end": 11656,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11656,
+      "char_end": 11719,
+      "text": "Free use if not within the context of a formal literature study",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11719,
+      "char_end": 11724,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11724,
+      "char_end": 11795,
+      "text": "Using AI-suggested papers in literature review without content checking",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11795,
+      "char_end": 11800,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11800,
+      "char_end": 11895,
+      "text": "Elicit\n- Perplexity\n- Inciteful\n- Research Rabbit\n- Connected Papers\n- Consensus\n- Scite\n- Iris",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11895,
+      "char_end": 11900,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11900,
+      "char_end": 11920,
+      "text": "Summarizing articles",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11920,
+      "char_end": 11941,
+      "text": " | Word processing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11941,
+      "char_end": 12061,
+      "text": "The researcher uses an AI tool that screens and summarizes recent literature. The summaries are then reviewed in detail.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12061,
+      "char_end": 12066,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12066,
+      "char_end": 12121,
+      "text": "Use for initial screening before reading the full texts",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12121,
+      "char_end": 12126,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12126,
+      "char_end": 12204,
+      "text": "Citing/referencing articles based on a summary without having read it yourself",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12204,
+      "char_end": 12209,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12209,
+      "char_end": 12264,
+      "text": "Semantic Scholar\n- Humata\n- Iris\n- ChatGPT\n- Perplexity",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12264,
+      "char_end": 12269,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12269,
+      "char_end": 12314,
+      "text": "Selectively searching the content of articles",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12314,
+      "char_end": 12341,
+      "text": " | Information retrieval | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12341,
+      "char_end": 12529,
+      "text": "The researcher uses an AI tool to find \"Recommendations\" and \"Perspectives\" in scientific publications to keep up with the most recent policy implications of studies within his/her domain.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12529,
+      "char_end": 12534,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12534,
+      "char_end": 12622,
+      "text": "Screening for specific parts of articles or terminology and then reviewing them manually",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12622,
+      "char_end": 12627,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12627,
+      "char_end": 12719,
+      "text": "Summarizing specific parts across articles and not reading these individual parts thoroughly",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12719,
+      "char_end": 12722,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12722,
+      "char_end": 12777,
+      "text": "Lack of references when processing in own academic work",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12777,
+      "char_end": 12782,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12782,
+      "char_end": 12815,
+      "text": "Iris\n- Semantic Scholar\n- ChatGPT",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12815,
+      "char_end": 12820,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12820,
+      "char_end": 12855,
+      "text": "Formulating scientific propositions",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12855,
+      "char_end": 12876,
+      "text": " | Word processing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12876,
+      "char_end": 13078,
+      "text": "The researcher enters his or her own scientific statements and hypotheses into an AI tool to receive feedback. The AI tool suggests possible improvements (e.g. substantive improvements or clarification)",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13078,
+      "char_end": 13083,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13083,
+      "char_end": 13214,
+      "text": "Indicate use of AI tool to rework statement, including prompts and outputs, if hypothesis testing is part of scientific publication",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13214,
+      "char_end": 13221,
+      "text": " | | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13221,
+      "char_end": 13237,
+      "text": "ChatGPT\n- Elicit",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13237,
+      "char_end": 13242,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13242,
+      "char_end": 13283,
+      "text": "Criticizing statements or positions taken",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13283,
+      "char_end": 13297,
+      "text": " | Ideation | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13297,
+      "char_end": 13437,
+      "text": "The researcher uses an AI tool to criticize a statement. This can be used to gain more insight into the counterarguments that can be raised.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13437,
+      "char_end": 13442,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13442,
+      "char_end": 13516,
+      "text": "Self-test whether all arguments that undermine the position can be refuted",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13516,
+      "char_end": 13519,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13519,
+      "char_end": 13566,
+      "text": "Possible use to educate students through debate",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13566,
+      "char_end": 13571,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13571,
+      "char_end": 13656,
+      "text": "Citing very personal stories from one's own life to try to support one's own position",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13656,
+      "char_end": 13661,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13661,
+      "char_end": 13699,
+      "text": "DebateDevil\n- Elicit\n- Scite\n- ChatGPT",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13699,
+      "char_end": 13704,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13704,
+      "char_end": 13790,
+      "text": "Carrying out a preliminary screening of evidence for and against scientific statements",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13790,
+      "char_end": 13817,
+      "text": " | Information retrieval | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13817,
+      "char_end": 14084,
+      "text": "The researcher uses an AI tool to screen the results of scientific publications. These results can be positive or negative relationships between certain variables. In this way, the researcher wants to gain insight into the burden of proof for a particular hypothesis.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14084,
+      "char_end": 14089,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14089,
+      "char_end": 14189,
+      "text": "An initial screening of evidence and shortcomings of studies, before thoroughly reviewing them later",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14189,
+      "char_end": 14192,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14192,
+      "char_end": 14266,
+      "text": "Additional screening during systematic review and meta-analysis of studies",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14266,
+      "char_end": 14269,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14269,
+      "char_end": 14366,
+      "text": "Take publication bias in favor of studies with positive results into account during this exercise",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14366,
+      "char_end": 14371,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14371,
+      "char_end": 14462,
+      "text": "Use of output from AI tool as \"burden of proof\" for or against a statement in social debate",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14462,
+      "char_end": 14465,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14465,
+      "char_end": 14540,
+      "text": "Complete dependence on a tool for selecting studies for a systematic review",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14540,
+      "char_end": 14545,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14545,
+      "char_end": 14599,
+      "text": "Consensus\n- Perplexity\n- System Beta\n- Scite\n- ChatGPT",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14599,
+      "char_end": 14604,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14604,
+      "char_end": 14617,
+      "text": "Brainstorming",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14617,
+      "char_end": 14631,
+      "text": " | Ideation | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14631,
+      "char_end": 14850,
+      "text": "The researcher submits his or her own ideas to an AI tool and asks whether they are already covered in existing literature. The tool finds some potentially valuable publications that partly answer the research question.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14850,
+      "char_end": 14855,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14855,
+      "char_end": 14953,
+      "text": "Mention interactions with AI tool to generate ideas in publications, including prompts and outputs",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14953,
+      "char_end": 14958,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14958,
+      "char_end": 15046,
+      "text": "Avoid introducing completely new ideas if you anticipate to engage in valorisation later",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15046,
+      "char_end": 15072,
+      "text": " | - ChatGPT\n- Elicit |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15072,
+      "char_end": 15108,
+      "text": "Generating new ideas for manuscripts",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15108,
+      "char_end": 15146,
+      "text": " | Ideation/production of new works | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15146,
+      "char_end": 15335,
+      "text": "The researcher uses an AI tool and receives an output that contains an idea/argument that is suspected to be new. The prompts provided by the researcher did not actively generate this idea.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15335,
+      "char_end": 15340,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15340,
+      "char_end": 15596,
+      "text": "The origin of the output is determined via multiple prompts. The researcher also searches through other sources. If necessary, the original source is referenced. The prompt of how the idea was arrived at is added as Supplementary Data in the Method section",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15596,
+      "char_end": 15599,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15599,
+      "char_end": 15644,
+      "text": "The idea is used as an impetus/starting point",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15644,
+      "char_end": 15649,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15649,
+      "char_end": 15721,
+      "text": "Copying ideas and presenting them as one's own intellectual contribution",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15721,
+      "char_end": 15724,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15724,
+      "char_end": 15806,
+      "text": "No checking whether ideas come from other sources and no acknowledgment of sources",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15806,
+      "char_end": 15823,
+      "text": " | - ChatGPT |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15823,
+      "char_end": 15903,
+      "text": "Generating an initial structure for writing subparts of a scientific publication",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15903,
+      "char_end": 15924,
+      "text": " | Word processing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15924,
+      "char_end": 16091,
+      "text": "The researcher uses an AI tool to create an initial structure for the introduction section. Afterwards, the researcher writes the text himself based on this structure.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16091,
+      "char_end": 16096,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16096,
+      "char_end": 16169,
+      "text": "The use of AI tools is mentioned in the Method section of the publication",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16169,
+      "char_end": 16188,
+      "text": " | | - ChatGPT |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16188,
+      "char_end": 16279,
+      "text": "Generating a text by entering the initial structure of subparts of a scientific publication",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16279,
+      "char_end": 16320,
+      "text": " | Word processing/Producing new works | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16320,
+      "char_end": 16487,
+      "text": "The researcher gives the titles of five paragraphs with the instruction to write six lines per paragraph. The AI tool generates a general text with source information.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16487,
+      "char_end": 16492,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16492,
+      "char_end": 16606,
+      "text": "The researcher must have read all cited publications and check whether the quotation is an accurate representation",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16606,
+      "char_end": 16609,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16609,
+      "char_end": 16740,
+      "text": "The researcher checks whether the paragraphs present sufficiently diverse views or evidence (e.g. studies with contrasting results)",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16740,
+      "char_end": 16743,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16743,
+      "char_end": 16873,
+      "text": "Use of the AI tools is reported in the Method section of the publication and the prompt and output are shown in Supplementary Data",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16873,
+      "char_end": 16878,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16878,
+      "char_end": 16992,
+      "text": "Copy-pasting text in your own publications without checking for plagiarism, for possible licenses that limit reuse",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16992,
+      "char_end": 17009,
+      "text": " | - ChatGPT |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17009,
+      "char_end": 17112,
+      "text": "Correcting spelling errors, grammatical errors and structure of paragraphs based on your own text input",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17112,
+      "char_end": 17133,
+      "text": " | Word processing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17133,
+      "char_end": 17359,
+      "text": "The researcher uses an AI tool to improve their own text. The tool makes suggestions to improve the structure of paragraphs and corrects grammatical and spelling errors. In addition, the AI tool suggests replacing vague terms.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17359,
+      "char_end": 17442,
+      "text": " | - The use of AI tools is mentioned in the Method section of the publication | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17442,
+      "char_end": 17539,
+      "text": "Automatically accepting all possible adjustments without checking whether the content has changed",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17539,
+      "char_end": 17544,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17544,
+      "char_end": 17574,
+      "text": "Writefull\n- Quillbot\n- ChatGPT",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17574,
+      "char_end": 17579,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17579,
+      "char_end": 17602,
+      "text": "Analyzing research data",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17602,
+      "char_end": 17639,
+      "text": " | Data analysis and visualization | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17639,
+      "char_end": 17835,
+      "text": "Various AI methods are already available to analyze research data. This doesn't necessarily have to be about generative AI. Analyzes can possibly be done based on prompts within existing software.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17835,
+      "char_end": 17840,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17840,
+      "char_end": 17993,
+      "text": "Performing analyzes with AI with sufficient substantive control and in accordance with ethical (e.g. checking for bias in data sets) and legal principles",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17993,
+      "char_end": 17996,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17996,
+      "char_end": 18032,
+      "text": "Mention of AI tool in Method section",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18032,
+      "char_end": 18037,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18037,
+      "char_end": 18147,
+      "text": "Performing analyzes based solely on prompts without checking whether the prompt has been interpreted correctly",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18147,
+      "char_end": 18150,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18150,
+      "char_end": 18260,
+      "text": "The post-hoc formulation of hypotheses based on a given data set so that these hypotheses are always confirmed",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18260,
+      "char_end": 18265,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18265,
+      "char_end": 18299,
+      "text": "Code Interpreter in GPT-4\n- AutoML",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18299,
+      "char_end": 18304,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18304,
+      "char_end": 18319,
+      "text": "Code generation",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18319,
+      "char_end": 18344,
+      "text": " | Producing new works | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18344,
+      "char_end": 18407,
+      "text": "The researcher uses an AI tool to help write parts of software.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18407,
+      "char_end": 18453,
+      "text": " | - Mention of AI tool in Method section | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18453,
+      "char_end": 18570,
+      "text": "Copying entire pieces of code without checking the feasibility of the code and whether the desired result is achieved",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18570,
+      "char_end": 18575,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18575,
+      "char_end": 18678,
+      "text": "GitHub Copilot\n- ChatWithGit plugin in GPT-4\n- AskTheCode plugin in GPT-4\n- Code Whisperer\n- Code LLama",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18678,
+      "char_end": 18683,
+      "text": " |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18683,
+      "char_end": 18701,
+      "text": "Generation of data",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18701,
+      "char_end": 18726,
+      "text": " | Producing new works | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18726,
+      "char_end": 18844,
+      "text": "The researcher uses AI to generate synthetic data while maintaining statistical correlations for exploratory research.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18844,
+      "char_end": 18849,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18849,
+      "char_end": 18945,
+      "text": "Publications mention that synthetic data was used and how it was produced in the Method section.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18945,
+      "char_end": 18948,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18948,
+      "char_end": 19025,
+      "text": "Use of AI tools is only acceptable if it is clear what happens to data inputs",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19025,
+      "char_end": 19030,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19030,
+      "char_end": 19062,
+      "text": "Falsifying research data (fraud)",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19062,
+      "char_end": 19069,
+      "text": " | |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19069,
+      "char_end": 19090,
+      "text": "Science communication",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19090,
+      "char_end": 19150,
+      "text": " | Writing assistance for administrative/additional tasks | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19150,
+      "char_end": 19307,
+      "text": "The researcher uses an AI tool to summarize scientific texts for the general public. These messages are shared on social media and the research group's page.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19307,
+      "char_end": 19312,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19312,
+      "char_end": 19400,
+      "text": "Checking AI summaries before they are sent out for correctness of the contents and style",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19400,
+      "char_end": 19403,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19403,
+      "char_end": 19459,
+      "text": "Chatbot for citizens that can answer follow-up questions",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19459,
+      "char_end": 19464,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19464,
+      "char_end": 19524,
+      "text": "Excessive distribution of science communication (\"spamming\")",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19524,
+      "char_end": 19541,
+      "text": " | - ChatGPT |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19541,
+      "char_end": 19577,
+      "text": "Writing a Data Management Plan (DMP)",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19577,
+      "char_end": 19637,
+      "text": " | Writing assistance for administrative/additional tasks | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19637,
+      "char_end": 19813,
+      "text": "The researcher uses an AI tool to ask specific questions about completing the DMP (e.g. certain sections). The AI tool provides targeted answers about the researcher's options.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19813,
+      "char_end": 19818,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19818,
+      "char_end": 19916,
+      "text": "Use of AI to better answer specific questions (e.g. which databases are suitable for data type X?)",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19916,
+      "char_end": 19919,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19919,
+      "char_end": 19998,
+      "text": "Writing DMPs by AI if substantive control and understanding of DMP implications",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19998,
+      "char_end": 20001,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20001,
+      "char_end": 20077,
+      "text": "Take into account VUB-specific guidelines regarding Research Data Management",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20077,
+      "char_end": 20082,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20082,
+      "char_end": 20135,
+      "text": "Avoid generating very generic DMPs with little detail",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20135,
+      "char_end": 20152,
+      "text": " | - ChatGPT |\n| ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20152,
+      "char_end": 20180,
+      "text": "Writing project applications",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20180,
+      "char_end": 20240,
+      "text": " | Writing assistance for administrative/additional tasks | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20240,
+      "char_end": 20319,
+      "text": "The researcher uses an AI tool to write certain parts of a project application.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20319,
+      "char_end": 20324,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20324,
+      "char_end": 20467,
+      "text": "The researcher who submits the application has final responsibility for the scientific content and must be sure that it is an original proposal",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20467,
+      "char_end": 20470,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20470,
+      "char_end": 20522,
+      "text": "Publicize the use of AI tool for generating the text",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 129,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20522,
+      "char_end": 20525,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20525,
+      "char_end": 20580,
+      "text": "Check whether AI-generated text is sufficiently precise",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 130,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20580,
+      "char_end": 20583,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20583,
+      "char_end": 20661,
+      "text": "Check whether the project application meets the conditions of the project call",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 131,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20661,
+      "char_end": 20666,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20666,
+      "char_end": 20734,
+      "text": "Completely outsource the writing of project applications to AI tools",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "segment_id": 132,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20734,
+      "char_end": 20739,
+      "text": " | - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20739,
+      "char_end": 20771,
+      "text": "Grantable\n- Granted AI\n- ChatGPT",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 133,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20771,
+      "char_end": 20782,
+      "text": " |\n\n## 3.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20782,
+      "char_end": 20822,
+      "text": "Available AI tools for research purposes",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 179,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20824,
+      "char_end": 20946,
+      "text": "Find more detailed information on how to get started with AI tools on our \"Practical information for using AI tools\" page.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 134,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20946,
+      "char_end": 20955,
+      "text": "\n\n## 3.3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20955,
+      "char_end": 21013,
+      "text": "Trainings regarding the use of AI tools for these purposes",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 180,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21015,
+      "char_end": 21361,
+      "text": "If you are interested in helping organize classes around the use of AI tools for specific purposes, please contact us at AI4research@vub.be. If you are already organizing lessons on this topic, please also contact us. In this way we gain insight into the existing training material and so we can further build on your work and the work of others.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 135,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21361,
+      "char_end": 21402,
+      "text": "\n\n# 4. Benefits of using AI in research\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21402,
+      "char_end": 21562,
+      "text": "There are several benefits to using AI tools for various research purposes. We can divide the benefits (and consequences) for researchers into different levels:",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 136,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21562,
+      "char_end": 21566,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21566,
+      "char_end": 22330,
+      "text": "Increasing the productivity of researchers. We consider productivity here as the amount of (desirable) research outcomes that one produces given a fixed amount of resources. Scientific studies indicate that using GenAI tools can significantly increase employee productivity. With regard to research, we foresee that time-intensive (and/or repetitive) tasks that do not require substantial intellectual contributions from researchers to AI tools can be partly outsourced. In addition, AI tools can also strengthen researchers' own competencies (e.g. to generate ideas). AI tools can also be used to identify complex patterns in large data sets, which can be useful in the context of exploratory research. Together these can increase the productivity of researchers.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 137,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22330,
+      "char_end": 22333,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22333,
+      "char_end": 22836,
+      "text": "Increasing the quality of researchers' work. Observations from other sectors indicate that the use of GenAI tools can help perform certain tasks in a more qualitative manner. We equally expect that researchers will be able to achieve their stated objectives in the context of research in a more qualitative manner. In this way, a literature study could be made more comprehensive. AI tools can also foster researchers' insights, creativity, and self-reflection, which can lead to more high-quality work.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 138,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22836,
+      "char_end": 22839,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22839,
+      "char_end": 23193,
+      "text": "Promote reflection on one's own work. Just like your fellow scientists, AI tools can cast a new light at your own beliefs, arguments, ideas and works. However, all kinds of factors can complicate the process of giving and receiving feedback. AI tools can therefore have the advantage of quickly taking an \"external and impersonal\" look at one's own work.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 139,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23193,
+      "char_end": 23196,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23196,
+      "char_end": 23758,
+      "text": "Lead to greater agility among researchers. Within today's research environment, researchers are often confronted with challenges that require new skills. For example, researchers must learn to write project applications, draw up DMPs and deal with data protection legislation and ethical guidelines. A significant barrier here is that the learning process can take a lot of time. We expect that the availability of AI tools can reduce the learning time required for \"new\" tasks. They can therefore increase the researcher's agility to deal with these challenges.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 140,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23758,
+      "char_end": 23761,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23761,
+      "char_end": 24525,
+      "text": "Bringing about a shift in the daily work of researchers. One study shows that AI, like other technologies, can cause shifts in job roles. For researchers, this range of tasks consists of coordination, core research tasks, teaching tasks and administrative tasks. AI tools can be used for all these tasks. However, we anticipate that, at this time, they will be more likely to be deployed for repetitive tasks of a non-intellectual nature (e.g. administrative work). They can also be used for more complex tasks, mainly in collaboration with human beings. If we assume that repetitive tasks will require less time (and they will not increase in number), then more complex tasks will account for a larger share of daily work in the future (e.g. core research tasks).",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 141,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24525,
+      "char_end": 24528,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24528,
+      "char_end": 24962,
+      "text": "For certain skills, the gap between researchers could decrease. Some studies indicate that less skilled workers benefit more from using AI tools than skilled workers. For example, one can imagine that a skilled researcher who is not skilled in writing down his/her findings could use an AI tool to compensate for this deficiency. In other words, AI tools could have a leveling effect on the gap between researchers for certain skills.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 142,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24962,
+      "char_end": 24965,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24965,
+      "char_end": 25331,
+      "text": "Narrowing the gap between citizen and scientist. AI tools can be used to summarize and explain scientific texts at the level of the average citizen. This helps scientists explain their research in a sufficiently understandable manner. In fact, AI tools in this way allow to circumvent an important cognitive limitation of humans (the so-called \"curse of knowledge\").",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 143,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25331,
+      "char_end": 25334,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25334,
+      "char_end": 25798,
+      "text": "Promote interdisciplinary dialogue and research. AI tools facilitate the exploration and understanding of abundant information, such as diverse academic work across disciplines. They can also make connections across this diverse literature that are not immediately visible to researchers (In fact, this is a form of creativity). Here, AI tools can also take on the role of match-makers to connect researchers with each other, which can promote interdisciplinarity.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 144,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25800,
+      "char_end": 26117,
+      "text": "At a system level, we can anticipate that these benefits for individual researchers will translate into greater speed of scientific progress and overall societal impact of research (given the same amount of resources). This means that the planned resources used in scientific research would generally be better spent.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 145,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26117,
+      "char_end": 26124,
+      "text": "\n\n# 5. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26124,
+      "char_end": 26190,
+      "text": "Limitations and potential problems when using AI tools in research",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 181,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26192,
+      "char_end": 26399,
+      "text": "As described above, using AI tools can have clear benefits. However, researchers should be aware that AI tools can also have some serious shortcomings and limitations. These are explained per category below.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 146,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26399,
+      "char_end": 26404,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26404,
+      "char_end": 26444,
+      "text": "Training data and learning for AI models",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 182,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26444,
+      "char_end": 26450,
+      "text": "\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26450,
+      "char_end": 26486,
+      "text": "Data bias can occur in training data",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 147,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26486,
+      "char_end": 26491,
+      "text": "\n\na. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26491,
+      "char_end": 26959,
+      "text": "Training dates may already be influenced by existing structural inequalities between groups. Differences between groups, such as between different genders, ethnicities or socio-economic classes, can result in over- or under-representation in real-world data (e.g. workforce files, healthcare data). Structural inequalities in group participation or outcomes can be highly dependent on the data source and context. They are not limited to the aforementioned categories.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 148,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26959,
+      "char_end": 26963,
+      "text": "\nb. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26963,
+      "char_end": 27201,
+      "text": "Training data may contain discriminatory language or racist undertones, incorrect information and argumentation (i.e. logical fallacies). This is especially true when written text is used as training data for Large Language Models (LLMs).",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 149,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27201,
+      "char_end": 27205,
+      "text": "\nc. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27205,
+      "char_end": 27453,
+      "text": "Training data can exhibit other forms of bias depending on the type of source. For example, publication bias in favor of positive results can still have an impact on AI tools that perform an initial screening for evidence for scientific statements.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 150,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27453,
+      "char_end": 27457,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27457,
+      "char_end": 27833,
+      "text": "Training dates for AI tools may be dated. AI tools, including LLMs, may not have access to the latest events or publications. The knowledge cut-off of GPT-3.5 was September 2021 because sources after this date are not included in the training data. Since September 27, GPT4 (Plus and Enterprise) no longer have this limitation and GPT-3.5 will no longer have it in the future.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 151,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27833,
+      "char_end": 27836,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27836,
+      "char_end": 28217,
+      "text": "Training data for AI tools may already be (partly) influenced by LLMs. If the use of LLMs is widespread, this will influence the content of new texts. These new texts can in theory be reused as \"training data\" for LLMs. This is a form of \"circularity\" where there is a risk that, if the degree of human intervention is too low, machines will imitate the mistakes of other machines.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 152,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28217,
+      "char_end": 28220,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 28220,
+      "char_end": 29027,
+      "text": "Several parts of the training data are not equally informative. The training data for LLMs may contain sets of information that, under normal circumstances, would have varying levels of credibility. For example, results from a single empirical study would be considered less credible than a meta-analysis of all available empirical studies. Likewise, blogs, newspaper articles and scientific publications are not necessarily given the same level of credibility. LLMs such as ChatGPT can, in principle, take these differences into account, for example through fine-tuning or reinforcement learning from human feedback (RLHF) steps during development. However, at this time, one can still get links to less \"reliable sources\", such as blogs, from some LLMs if one does not use plugins or specialized AI tools.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 153,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29027,
+      "char_end": 29030,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29030,
+      "char_end": 29332,
+      "text": "Training data may contain personal information or copyrighted material that has been unlawfully released. Personal information that has been unlawfully released may be contained in training data. The use of this data may therefore constitute a (further) violation of research integrity and/or the GDPR.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 154,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29332,
+      "char_end": 29335,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29335,
+      "char_end": 29982,
+      "text": "Training data used by AI tools could be partially reconstructed under certain circumstances. Various forms of adversarial privacy attacks, in which targeted attacks are made to disrupt the functioning of AI models or steal information, could pose a risk. The theoretical possibility of this has been documented for AI-tools that use personal data for data analysis (and, therefore, not necessarily for GenAI). In theory, third parties could, under specific conditions, request the presence of an individual's data in training data (\"Membership Inference Attacks\"), whether parts of training data could be reconstructed (\"Model Inversion Attacks\").",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 155,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29982,
+      "char_end": 29987,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29987,
+      "char_end": 30029,
+      "text": "Text prompts and user inputs for AI models",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 183,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30029,
+      "char_end": 30033,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30033,
+      "char_end": 30355,
+      "text": "Entering personal data into AI tools may violate the European Union's General Data Protection Regulation (GDPR). Personal data entered into AI tools could be stored outside the European Union and third parties could gain access to this data. Please contact AI4research@vub.be before entering personal data into an AI tool.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 156,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30355,
+      "char_end": 30358,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30358,
+      "char_end": 30958,
+      "text": "Entering personal data into AI tools may conflict with the informed consent obtained from the research participant. Ethical guidelines surrounding participation in research may require that consent is only informed if the risks have been made known to research participants in advance. If the use of AI tools produces risks that have not been disclosed, this may mean that the consent was not sufficiently \"informed\". In addition, the informed consent may include that data will not be released to commercial companies. Please contact AI4research@vub.be before entering personal data into an AI tool.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 157,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30958,
+      "char_end": 30961,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30961,
+      "char_end": 31380,
+      "text": "The use of AI tools to provide feedback on completely new research ideas could be equated with the \"making public\" of these ideas for specific purposes. For example, OpenAI employees view user conversations with their AI tool to improve the algorithm. In that case, researchers may lose the opportunity to patent and valorize inventions. So be careful what you enter if you intend to obtain a patent (in the long term).",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 158,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31380,
+      "char_end": 31383,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 31383,
+      "char_end": 32243,
+      "text": "Your inputs into AI tools can impact the outputs others get. Unlike the paid GPT-4, OpenAI states that the free version of GPT-3.5 “[...] may use content such as prompts, responses, uploaded images, and generated images to improve our services. (...) ChatGPT, for instance, improves by further training on the conversations people have with it, unless you choose to disable training”. This means that your interactions with ChatGPT, including your prompts, can be used to improve the performance of the model. It is unclear whether this concerns basic training, fine-tuning or reinforcement learning from human feedback (RLHF). If this is basic training, your prompts/ inputs could reappear as outputs for other users. However, there is no conclusive evidence for this at this time. If it's just about further RLHF, then your prompts won't come back to others.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 159,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32243,
+      "char_end": 32246,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32246,
+      "char_end": 32831,
+      "text": "Your inputs themselves (e.g. quantitative data) may also be of low quality. For example, there may have been shortcomings in carrying out the sample, making the data obtained less informative for making statements about the population (in other words, methodological shortcomings). Your data may also contain insufficient \"metadata\" (i.e. information about experimental conditions) to be processed appropriately by AI models. Finally, AI models cannot always handle metadata appropriately at the moment. We recommend that researchers keep the idea of \"Garbage in, garbage out\" in mind.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 160,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32831,
+      "char_end": 32861,
+      "text": "\n\n## Output from AI models\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32861,
+      "char_end": 33227,
+      "text": "Outputs from AI tools can contain bias. The forms of bias described under \"Training data for AI models\" can influence the outputs of AI tools. In this way, Large Language Models (LLMs) can reproduce sexist, racist, or other discriminatory ideas. In addition, fine-tuning LLMs for specific tasks that require humans to assess outputs from AI tools can introduce bias.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 161,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33227,
+      "char_end": 33230,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 33230,
+      "char_end": 33912,
+      "text": "Lack of insight into exactly how AI tools work. It is often impossible to determine exactly how algorithms arrive at a certain output. Even if it is clear that a certain part of training data had a greater influence, an explanation that is plausible to humans is still lacking. For example, if one observes that a certain region has a greater influence on images, then there is no causal explanation for why this is the case. A lack of insight into the exact workings of AI tools can have serious consequences. This is mainly the case if unintended correlations with regard to protected characteristics (e.g. gender, orientation, religion, etc.) or proxies for these are identified.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 162,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33912,
+      "char_end": 33915,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 33915,
+      "char_end": 34464,
+      "text": "Truthfulness. The outputs of LLMs can be presented as convincing but can be inaccurate, completely wrong or simply irrelevant. A single study already showed that, under some circumstances, the use of high-quality AI can harm the quality of work if users become too dependent (mainly on tasks for which AI tools are not yet suitable). They fall asleep behind the steering wheel, as it were. The self-confidence with which AI tools make statements can therefore be misleading. Researchers must therefore be very critical of text outputs from AI tools.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 163,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34464,
+      "char_end": 34467,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 34467,
+      "char_end": 35039,
+      "text": "Limited degree of reproducibility. Generative AI tools create outputs that cannot always be exactly replicated. For example, the same prompt can lead to different text fragments. This also means that complete reproducibility of research processes is not always possible, such as when entering the same prompt for a tool that recommends literature. In addition, algorithms, mainly dynamic-learning AI tools, can themselves also be unstable in the sense that inputs do not process in the same way over time, which makes it more difficult to develop (reproducible) workflows.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 164,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35039,
+      "char_end": 35042,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 35042,
+      "char_end": 35499,
+      "text": "Outputs may contain plagiarized elements. Form elements or ideas from existing texts or images can be copied in their entirety and thus violate research integrity. Not all AI tools are able to generate qualitative references to the sources used. Correct citation in practice may involve some complexities, such as the presence of sources within other sources (e.g. citations within review paper) and attributing a misinterpreted text to a particular source.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 165,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35499,
+      "char_end": 35502,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 35502,
+      "char_end": 36161,
+      "text": "AI tools can produce new data that conflicts with existing privacy rules, such as the GDPR. There may also be (general) problems regarding data linkage and/or derived information where individually anonymized data can together give rise to new privacy-sensitive data. For example, AI tools can, in principle, create new information that is privacy-sensitive or that can be used as a proxy for protected characteristics (e.g., combination of income class and zip code). This also means that the original data sets were not truly \"anonymous\" (i.e. irreversibly deidentified), which also raises the fundamental question of whether \"anonymity\" can actually exist.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 166,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36161,
+      "char_end": 36168,
+      "text": "\n\n# 6. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 36168,
+      "char_end": 36218,
+      "text": "Refer to the use of AI tools in research processes",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 184,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36218,
+      "char_end": 36245,
+      "text": "\n\n## 4.1 State of affairs\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 36245,
+      "char_end": 37049,
+      "text": "The widespread use of AI tools in research processes creates new challenges for the attribution of scientific contributions. There is currently no consensus as to whether AI tools are allowed and how their use should be made transparent. Scientific journals and publishers have their own positions regarding the use of and reference to AI tools. Note that some publishers impose restrictions on the use of AI tools. We advise researchers to inform themselves about this. This can be done before conducting the research if the use of AI tools is formally part of the method or research design. This can also be done before writing the manuscript if AI tools are used to generate text or figures. The way in which references should be made may also evolve further. A regular check is therefore recommended.",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 167,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37049,
+      "char_end": 37079,
+      "text": "\n\n## 4.2 How to refer to AI?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 37079,
+      "char_end": 37239,
+      "text": "The VUB advises researchers to first check the guidelines of the journal or publisher where they want to publish! Follow these guidelines if they are available.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 168,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37241,
+      "char_end": 37382,
+      "text": "If the journal or publisher does not provide explicit guidelines around the use of AI tools, the following general guideline can be followed:",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 169,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37384,
+      "char_end": 37965,
+      "text": "Researchers should describe the use of AI tools in the Method section, including their technical specifications. These specifications include but are not limited to the full name, version, link to a repository, parameters used and configurations. If the AI tool has been described in detail in scientific publications, these papers can be cited. The prompts used and outputs obtained are described in the Method section or included as Supplementary Data. If a text output from AI tools contains text fragments or ideas originating from others, the original sources should be cited.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 170,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37967,
+      "char_end": 38027,
+      "text": "In two specific cases, reference should be made differently:",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 171,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38027,
+      "char_end": 38032,
+      "text": "\n\na. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 38032,
+      "char_end": 38157,
+      "text": "AI tools are the object of the study (e.g. studying bias in ChatGPT outputs) and/or the output of AI tools is quoted verbatim",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 172,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38159,
+      "char_end": 38558,
+      "text": "Researchers should accurately present all prompts and cite AI outputs verbatim. This can be done, for example, by putting the name of the AI tool in brackets at the end of the quote. So, in principle, this does not require reference to AI tools as \"author\" of the quotes in the References section. If the journal uses a referencing style that allows this, researchers should follow these guidelines.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 173,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38558,
+      "char_end": 38563,
+      "text": "\n\nb. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 38563,
+      "char_end": 38677,
+      "text": "AI tools create seemingly new insights or arguments without significant intellectual contribution from researchers",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 174,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38679,
+      "char_end": 39162,
+      "text": "Researchers should first and foremost check the origin of the output to avoid plagiarism. If there is an existing idea, the source must be cited. If the origin of the idea cannot be found after extensive searching, researchers may quote the idea, but it must be clear that it does not come from the researcher himself. The actions taken by the researchers to determine the origin should be described in the Method section. The prompts themselves should be added as Supplemental Data.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 175,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 39162,
+      "char_end": 44641,
+      "text": "\n\n# 7. Reference list\n\n1. OECD. Recommendation of the Council on OECD Legal Instruments Artificial Intelligence. 2022. Available from: https://legalinstruments.oecd.org/public/doc/648/1df51f15-53fc-43ef-9f13-ee9f957076bc.htm\n2. European Parliament. Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONIZED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS. 2021. Available from: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206\n3. Midjourney. Midjourney. Available from: https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F\n4. DALL-E 2. Available from: https://openai.com/dall-e-2\n5. COPE: Committee on Publication Ethics. Authorship and AI tools. Available from: https://publicationethics.org/cope-position-statements/ai-author\n6. ALLEA. The European Code of Conduct for Research Integrity REVISED EDITION 2023. Available from: https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf\n7. Dell'Acqua F, McFowland E, Mollick ER, Lifshitz-Assaf H, Kellogg K, Rajendran S, et al. Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality. SSRN Electron J. 2023. Available from: https://www.ssrn.com/abstract=4573321\n8. Brynjolfsson E, Li D, Raymond L. Generative AI at Work. Cambridge, MA: National Bureau of Economic Research; 2023 Apr. Report No.: w31161. Available from: http://www.nber.org/papers/w31161.pdf\n9. Noy S, Zhang W. Experimental evidence on the productivity effects of generative artificial intelligence. Science. 2023 Jul 14;381(6654):187-192. DOI: 10.1126/science.adh2586\n10. Peng S, Kalliamvakou E, Cihon P, Demirer M. The Impact of AI on Developer Productivity: Evidence from GitHub Copilot. 2023. Available from: https://arxiv.org/abs/2302.06590\n11. Kanazawa K, Kawaguchi D, Shigeoka H, Watanabe Y. AI, Skill, and Productivity: The Case of Taxi Drivers. Cambridge, MA: National Bureau of Economic Research; 2022 Oct. Report No.: w30612. Available from: http://www.nber.org/papers/w30612.pdf\n12. Campero A, Vaccaro M, Song J, Wen H, Almaatouq A, Malone TW. A Test for Evaluating Performance in Human-Computer Systems. arXiv; 2022. Available from: http://arxiv.org/abs/2206.12390\n13. The Curse of Knowledge: A Difficulty in Understanding Less-Informed Perspectives - Effectiviology. Available from: https://effectiviology.com/curse-of-knowledge/\n14. Mollick E. Automating creativity. 2023. Available from: https://www.oneusefulthing.org/p/automating-creativity\n15. Chubb J, Cowling P, Reed D. Speeding up to keep up: exploring the use of AI in the research process. AI & Soc. 2022;37:1439-1457. DOI: 10.1007/s00146-021-01259-0\n16. Kenton Z, Everitt T, Weidinger L, Gabriel I, Mikulik V, Irving G. Alignment of Language Agents. 2021. Available from: https://arxiv.org/abs/2103.14659\n17. Rigaki M, Garcia S. A Survey of Privacy Attacks in Machine Learning. 2020. Available from: https://arxiv.org/abs/2007.07646\n18. Zhang G, Liu B, Zhu T, Zhou A, Zhou W. Visual privacy attacks and defenses in deep learning: a survey. Artif Intel Rev. August 2022;55(6):4347-401. DOI: 10.1007/s10462-021-10123-y\n19. Balle B, Cherubin G, Hayes J. Reconstructing Training Data with Informed Adversaries. arXiv; 2022. Available from: http://arxiv.org/abs/2201.04845\n20. Carlini N, Tramer F, Wallace E, Jagielski M, Herbert-Voss A, Lee K, et al. Extracting Training Data from Large Language Models. 2020. Available from: https://arxiv.org/abs/2012.07805\n21. What is ChatGPT? | OpenAI Help Center. Available from: https://help.openai.com/en/articles/6783457-what-is-chatgpt\n22. Data usage for consumer services FAQ | OpenAI Help Center. Available from: https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq\n23. How your data is used to improve model performance | OpenAI Help Center. Available from: https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance\n24. ChatGPT and Large Language Model bias. Available from: https://www.cbsnews.com/news/chatgpt-large-language-model-bias-60-minutes-2023-03-05/\n25. Omiye JA, Lester J, Spichak S, Rotemberg V, Daneshjou R. Beyond the hype: large language models propagate race-based medicine. Health Informatics; 2023 Jul. Available from: http://medrxiv.org/lookup/doi/10.1101/2023.07\n26. Deshpande A, Murahari V, Rajpurohit T, Kalyan A, Narasimhan K. Toxicity in ChatGPT: Analyzing Persona-assigned Language Models. 2023. Available from: https://arxiv.org/abs/2304.05335\n27. Ouyang L, Wu J, Jiang X, Almeida D, Wainwright CL, Mishkin P, et al. Training language models to follow instructions with human feedback. arXiv; 2022. Available from: https://doi.org/10.48550/arXiv.2203.02155\n28. Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias in an algorithm used to manage the health of populations. Science. 25 Oct 2019;366(6464):447-453. DOI: 10.1126/science.aax2342\n29. Hosseini M, Rasmussen LM, Resnik DB. Using AI to write scholarly publications. Account Res. January 25, 2023;1-9. https://doi.org/10.1080/08989621.2023.2168535\n30. Fabrizio Dell'Acqua, Falling Asleep at the Wheel: Human/AI Collaboration in a Field Experiment on HR Recruiters. Available from: https://static1.squarespace.com/static/604b23e38c22a96e9c78879e/t/62d5d9448d061f7327e8a7e7/1658181956291/Falling+Asleep+at+the+Wheel+-+Fabrizio+DellAcqua.pdf",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

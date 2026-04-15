@@ -26,7 +26,7 @@
       "id": 4,
       "B": "B3",
       "B_label": "purpose/rationale/document status",
-      "text": "Die vorliegende Richtlinie zur KI basiert auf dem Selbstverständnis einer modernen Universität, die technologische Chancen gezielt nutzt, dabei den Schutz von Personen und deren Persönlichkeitsrechten sowie die Integrität der Organisation wahrt und ihren Umgang mit neuen Technologien – hier mit KI-Systemen - fortlaufend reflektiert.",
+      "text": "Die vorliegende Richtlinie zur KI basiert auf dem Selbstverständnis einer modernen Universität, die technologische Chancen gezielt nutzt, dabei den Schutz von Personen und deren Persönlichkeitsrechten sowie die Integrität der Organisation wahr und ihren Umgang mit neuen Technologien – hier mit KI-Systemen – fortlaufend reflektiert.",
       "repaired": false
     },
     {
@@ -47,14 +47,14 @@
       "id": 7,
       "B": "B2",
       "B_label": "scope/application",
-      "text": "Anwendungsbereich: Diese Richtlinie gilt für alle Beschäftigten der Universität Stuttgart, die KI-Systeme im Rahmen ihrer dienstlichen Tätigkeiten außerhalb von Forschung einsetzen, etwa für Projektmanagement, Drittmittelverwaltung, Prüfungsorganisation oder Gremienarbeit.",
+      "text": "**Anwendungsbereich:** Diese Richtlinie gilt für alle Beschäftigten der Universität Stuttgart, die KI-Systeme im Rahmen ihrer dienstlichen Tätigkeiten außerhalb von Forschung einsetzen, etwa für Projektmanagement, Drittmittelverwaltung, Prüfungsorganisation oder Gremienarbeit.",
       "repaired": false
     },
     {
       "id": 8,
       "B": "B2",
       "B_label": "scope/application",
-      "text": "Sie wird durch folgende Dokumente ergänzt:\n- Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen\n- Whitelist für die unterschiedlichen Typen von KI-Systemen",
+      "text": "Sie wird durch folgende Dokumente ergänzt:\n\n- Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen\n- Whitelist für die unterschiedlichen Typen von KI-Systemen",
       "repaired": false
     },
     {
@@ -82,7 +82,7 @@
       "id": 12,
       "B": "B1",
       "B_label": "definitions/terminology",
-      "text": "Dazu zählen insbesondere Systeme, mit denen Nutzerinnen und Nutzer in Dialogform z.B. über Texteingaben interagieren und die in Echtzeit oder asynchron eine Ausgabe erzeugen. Beispiele hierfür sind Chatbots (z. B. ChatGPT), Schreibassistenten (z. B. Copilot, DeepL Write), Bild- oder Analysegeneratoren (z. B. Midjourney, KI-gestützte Dashboards) sowie Business-Intelligence-Systeme, die Daten automatisiert klassifizieren (z.B. Power BI).",
+      "text": "Dazu zählen insbesondere Systeme, mit denen Nutzerinnen und Nutzer in Dialogform z.B. über Texteingaben interagieren und die in Echtzeit oder asynchron eine Ausgabe erzeugen. Beispiele hierfür sind Chatbots (z.B. ChatGPT), Schreibassistenten (z.B. Copilot, DeepL Write), Bild- oder Analysegeneratoren (z.B. Midjourney, KI-gestützte Dashboards) sowie Business-Intelligence-Systeme, die Daten automatisiert klassifizieren (z.B. Power BI).",
       "repaired": false
     },
     {
@@ -94,15 +94,15 @@
     },
     {
       "id": 14,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Deshalb ist bei jeder Nutzung eines KI-Systems entscheidend, welche Informationen dort eingegeben werden - nicht nur, welches Ergebnis das KI-System liefert.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "Deshalb ist bei jeder Nutzung eines KI-Systems entscheidend, welche Informationen dort eingegeben werden – nicht nur, welches Ergebnis das KI-System liefert.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "scope/application",
       "text": "Die vorliegende KI-Richtlinie basiert auf einer Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen. Diese steht als gesondertes Dokument zur Verfügung.",
       "repaired": false
     },
@@ -110,414 +110,439 @@
       "id": 16,
       "B": "B7",
       "B_label": "required safeguards/procedures",
-      "text": "Vor der Eingabe von Informationen in ein KI-System ist von den Nutzenden sorgfältig zu prüfen, welcher Vertraulichkeitsklasse die betreffende Information angehört.\n- Liegt bereits eine Einstufung in eine dieser Vertraulichkeitsklassen vor, ist diese verbindlich zu beachten.\n- Liegt keine Einstufung vor, sind die Nutzenden verpflichtet, die Vertraulichkeitsklasse in eigenem pflichtgemäßen Ermessen festzulegen oder von einer übergeordneten Instanz (Vorgesetzte, Rektorat, …) festlegen zu lassen.",
+      "text": "Vor der Eingabe von Informationen in ein KI-System ist von den Nutzenden sorgfältig zu prüfen, welcher Vertraulichkeitsklasse die betreffende Information angehört.",
       "repaired": false
     },
     {
       "id": 17,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Liegt bereits eine Einstufung in eine dieser Vertraulichkeitsklassen vor, ist diese verbindlich zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Liegt keine Einstufung vor, sind die Nutzenden verpflichtet, die Vertraulichkeitsklasse in eigenem pflichtgemäßen Ermessen festzulegen oder von einer übergeordneten Instanz (Vorgesetzte, Rektorat, ...) festlegen zu lassen.",
+      "repaired": false
+    },
+    {
+      "id": 19,
       "B": "B4",
       "B_label": "principles/values",
       "text": "KI-Systeme sollen als Hilfsmittel verwendet werden. Sie können und dürfen menschliches Urteilsvermögen und die Entscheidungsverantwortung des Einzelnen nicht ersetzen.",
       "repaired": false
     },
     {
-      "id": 18,
+      "id": 20,
       "B": "B4",
       "B_label": "principles/values",
       "text": "Der Schutz von Persönlichkeitsrechten und von vertraulichen Informationen hat oberste Priorität.",
       "repaired": false
     },
     {
-      "id": 19,
+      "id": 21,
       "B": "B7",
       "B_label": "required safeguards/procedures",
       "text": "Vor der dienstlichen Nutzung eines KI-Systems prüfen die Nutzenden, welche Informationen gemäß dieser Richtlinie in welches System eingegeben werden dürfen. Für die Verarbeitung personenbezogener Daten braucht es eine Rechtsgrundlage.",
       "repaired": false
     },
     {
-      "id": 20,
+      "id": 22,
       "B": "B4",
       "B_label": "principles/values",
       "text": "Der Einsatz von KI-Systemen ist so transparent wie möglich zu gestalten. Das bedeutet, dass Funktionsweise, Entscheidungsgrundlagen und Verantwortlichkeiten für alle betroffenen Personen nachvollziehbar sind.",
       "repaired": false
     },
     {
-      "id": 21,
+      "id": 23,
       "B": "B8",
       "B_label": "roles/accountability/oversight/escalation",
       "text": "Die Verantwortung für die Qualität und die Richtigkeit von Inhalten, in die Ergebnisse aus KI-Systemen einfließen, liegt bei den Nutzenden. Diesen obliegt es, KI-generierte Inhalte vor der Verwendung sorgfältig zu prüfen.",
       "repaired": false
     },
     {
-      "id": 22,
+      "id": 24,
       "B": "B10",
       "B_label": "training/support/learning resources",
       "text": "Die Universität stellt ihren Beschäftigten die erforderlichen Informationen für eine sichere, verantwortungsvolle, ethisch vertretbare und rechtskonforme Nutzung von KI-Systemen einfach zugänglich bereit.",
       "repaired": false
     },
     {
-      "id": 23,
+      "id": 25,
       "B": "B10",
       "B_label": "training/support/learning resources",
       "text": "Sie bietet als unterstützende Maßnahmen Schulungen an und benennt eine zentrale Ansprechperson für Nachfragen hinsichtlich einer KI-Nutzung.",
       "repaired": false
     },
     {
-      "id": 24,
+      "id": 26,
       "B": "B2",
       "B_label": "scope/application",
       "text": "Diese Richtlinie unterscheidet folgende Typen von KI-Systemen und schränkt zulässige Eingaben entsprechend ein:",
       "repaired": false
     },
     {
-      "id": 25,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Universitätseigene KI-Systeme (Typ 1):\nKI-Systeme, die vollständig von und innerhalb der Universität Stuttgart betrieben werden und bei denen ausgeschlossen ist, dass Daten in externe Systeme abfließen. Diese KI-Systeme verarbeiten Daten ausschließlich innerhalb universitärer Infrastruktur und dürfen nach Freigabe des Systems durch das Rektorat für die Eingabe von Informationen aller Vertraulichkeitsklassen einschließlich streng vertraulicher Informationen (C4) verwendet werden.",
-      "repaired": false
-    },
-    {
-      "id": 26,
+      "id": 27,
       "B": "B5",
       "B_label": "permitted or encouraged uses",
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C4 in diese Systeme eingeben, bei C3 und C4 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
-      "repaired": false
-    },
-    {
-      "id": 27,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem wissenschaftsnahen Partner (z. B. GWDG) (Typ 2):\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle, die von vertrauenswürdigen, wissenschaftsnahen Einrichtungen wie der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) gehostet werden, ohne dass Daten an Dritte weitergegeben werden.",
+      "text": "**Universitätseigene KI-Systeme (Typ 1):**\nKI-Systeme, die vollständig von und innerhalb der Universität Stuttgart betrieben werden und bei denen ausgeschlossen ist, dass Daten in externe Systeme abfließen. Diese KI-Systeme verarbeiten Daten ausschließlich innerhalb universitärer Infrastruktur und dürfen nach Freigabe des Systems durch das Rektorat für die Eingabe von Informationen aller Vertraulichkeitsklassen einschließlich streng vertraulicher Informationen (C4) verwendet werden. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C4 in diese Systeme eingeben, bei C3 und C4 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
       "repaired": false
     },
     {
       "id": 28,
       "B": "B5",
       "B_label": "permitted or encouraged uses",
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C3 in diese Systeme eingeben, bei C3 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
+      "text": "**Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem wissenschaftsnahen Partner (z. B. GWDG) (Typ 2):**\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle, die von vertrauenswürdigen, wissenschaftlichen Einrichtungen wie der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) gehostet werden, ohne dass Daten an Dritte weitergegeben werden. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C3 in diese Systeme eingeben, bei C3 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem kommerziellen Anbieter (z. B. Azure OpenAI) (Typ 3):\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle in externen Cloud-Infrastrukturen innerhalb der EU.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "text": "**Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem kommerziellen Anbieter (z. B. Azure OpenAI) (Typ 3):**\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle in externen Cloud-Infrastrukturen innerhalb der EU. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
       "repaired": false
     },
     {
       "id": 30,
       "B": "B5",
       "B_label": "permitted or encouraged uses",
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
+      "text": "**Externe Dienste mit datenschutzfreundlichen Einstellungen und Enterprise-Verträgen (z. B. ChatGPT Team) (Typ 4):**\nKI-Systeme großer Anbieter, die über Hochschulverträge genutzt werden und nach Anmeldung mit dem Universitätsaccount datenschutzfreundliche Voreinstellungen bieten. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Externe Dienste mit datenschutzfreundlichen Einstellungen und Enterprise-Verträgen (z. B. ChatGPT Team) (Typ 4):\nKI-Systeme großer Anbieter, die über Hochschulverträge genutzt werden und nach Anmeldung mit dem Universitätsaccount datenschutzfreundliche Voreinstellungen bieten.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "**Nicht geprüfte öffentliche KI-Systeme (z. B. Chat GPT Free) (Typ 5):**\nBeschäftigte dürfen nur Informationen der Vertraulichkeitsklasse C1 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C2, C3 und C4 ist nicht erlaubt. Eine Eingabe von personenbezogenen oder vertraulichen Informationen ist strikt untersagt.",
       "repaired": false
     },
     {
       "id": 32,
       "B": "B5",
       "B_label": "permitted or encouraged uses",
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
+      "text": "Die folgende Matrix zeigt, welche Informationen welcher Vertraulichkeitsklasse in welche Typen von KI-Systemen eingegeben werden dürfen und in welchen Fällen zuvor eine zusätzliche Prüfung erforderlich ist. Der konkrete Anwendungsfall (z. B. Textentwurf, Planung, Auswertung unter Zuhilfenahme eines KI-Systems) ist jeweils zulässig, wenn die gewählte Kombination von Systemtyp und Vertraulichkeitsklasse dies erlaubt (ggf. nach zusätzlicher Prüfung).",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Nicht geprüfte öffentliche KI-Systeme (z.B. Chat GPT Free) (Typ 5):",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "Solange unklar ist, welchem Typ ein KI-System zuzuordnen ist, dürfen nur öffentliche Daten (C1) in diese KI-System eingegeben werden (Restriktivfall).",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Beschäftigte dürfen nur Informationen der Vertraulichkeitsklasse C1 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C2, C3 und C4 ist nicht erlaubt. Eine Eingabe von personenbezogenen oder vertraulichen Informationen ist strikt untersagt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Wird ein KI-System in größerem Umfang z. B. beim Erstellen eines Textes eingesetzt, soll dies durch eine Notiz (z. B. \"erstellt mit Hilfe von GPT-4 am 20.6.2025\") im Dokument kenntlich gemacht werden.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Die folgende Matrix zeigt, welche Informationen welcher Vertraulichkeitsklasse in welche Typen von KI-Systemen eingegeben werden dürfen und in welchen Fällen zuvor eine zusätzliche Prüfung erforderlich ist. Der konkrete Anwendungsfall (z. B. Textentwurf, Planung, Auswertung unter Zuhilfenahme eines KI-Systems) ist jeweils zulässig, wenn die gewählte Kombination von Systemtyp und Vertraulichkeitsklasse dies erlaubt (ggf. nach zusätzlicher Prüfung).",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Wird ein KI-System nur in geringem Umfang genutzt (z. B. zur Einholung von Formulierungsvorschlägen), ist keine Kennzeichnung erforderlich.",
       "repaired": false
     },
     {
       "id": 36,
       "B": "B7",
       "B_label": "required safeguards/procedures",
-      "text": "Solange unklar ist, welchem Typ ein KI-System zuzuordnen ist, dürfen nur öffentliche Daten (C1) in dieses KI-System eingegeben werden (Restriktivfall).",
+      "text": "- Eine Kennzeichnung muss erfolgen, wenn KI-generierte Inhalte direkt weiterverwendet werden, etwa für Webseiten, offizielle Schreiben oder andere Veröffentlichungen.",
       "repaired": false
     },
     {
       "id": 37,
       "B": "B7",
       "B_label": "required safeguards/procedures",
-      "text": "Wird ein KI-System in größerem Umfang z. B. beim Erstellen eines Textes eingesetzt, soll dies durch eine Notiz (z. B. \"erstellt mit Hilfe von GPT-4 am 20.6.2025\") im Dokument kenntlich gemacht werden.",
+      "text": "- Wenn KI-Systeme zur Beantwortung von Anfragen eingesetzt werden – etwa im Kontakt mit Studierenden oder mit externen Personen – muss dies klar zu erkennen sein. Das gleiche gilt für den Einsatz von KI-Systemen in Lern-Management-Systemen.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wird ein KI-System nur in geringem Umfang genutzt (z. B. zur Einholung von Formulierungsvorschlägen), ist keine Kennzeichnung erforderlich.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "- Die Universität bietet kontinuierlich Weiterbildungen zur sicheren und vertrauensvollen Nutzung von KI-Systemen an und hält dafür Schulungen in einem asynchron nutzbaren Format bereit.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Eine Kennzeichnung muss erfolgen, wenn KI-generierte Inhalte direkt weiterverwendet werden, etwa für Webseiten, offizielle Schreiben oder andere Veröffentlichungen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "- Die Sensibilisierung für potenzielle Verzerrungen („Bias“), Diskriminierungen und sogenannte Halluzinationen bei KI-generierten Inhalten ist fester Bestandteil dieser Schulungen.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wenn KI-Systeme zur Beantwortung von Anfragen eingesetzt werden – etwa im Kontakt mit Studierenden oder mit externen Personen – muss dies klar zu erkennen sein. Das gleiche gilt für den Einsatz von KI-Systemen in Lern-Management-Systemen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "text": "- Die Schulungen beinhalten auch Hinweise auf nachhaltige und digital-souveräne Nutzung von KI-Systemen, z. B. durch bevorzugte Verwendung europäischer Anbieter oder ressourcenschonender Systeme.",
       "repaired": false
     },
     {
       "id": 41,
       "B": "B10",
       "B_label": "training/support/learning resources",
-      "text": "Die Universität bietet kontinuierlich Weiterbildungen zur sicheren und vertrauensvollen Nutzung von KI-Systemen an und hält dafür Schulungen in einem asynchron nutzbaren Format bereit.",
+      "text": "- Beschäftigte sind verpflichtet, sich vor der dienstlichen Nutzung eines KI-Systems über die sichere und vertrauensvolle Nutzung, die rechtlichen Rahmenbedingungen sowie die Risiken beim Einsatz von KI-Systemen zu informieren.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die Sensibilisierung für potenzielle Verzerrungen („Bias\"), Diskriminierungen und sogenannte Halluzinationen bei KI-generierten Inhalten ist fester Bestandteil dieser Schulungen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "- Die Letztverantwortung für die richtlinienkonforme Nutzung von KI liegt bei den jeweils nutzenden Beschäftigten bzw. deren Vorgesetzten oder übergeordneten Stellen, wenn diese die Nutzung angewiesen haben.",
       "repaired": false
     },
     {
       "id": 43,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die Schulungen beinhalten auch Hinweise auf nachhaltige und digital-souveräne Nutzung von KI-Systemen, z. B. durch bevorzugte Verwendung europäischer Anbieter oder ressourcenschonender Systeme.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "- Das Rektorat benennt eine Ansprechperson im Prorektorat IT („KI-Referent*in“) für Richtlinien, Schulungen der Beschäftigten zu ethischen Standards und Compliance-Anforderungen sowie die Durchführung von Audits und Risikobewertungen im Zusammenhang mit der Nutzung von KI-Systemen.",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Beschäftigte sind verpflichtet, sich vor der dienstlichen Nutzung eines KI-Systems über die sichere und vertrauensvolle Nutzung, die rechtlichen Rahmenbedingungen sowie die Risiken beim Einsatz von KI-Systemen zu informieren.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "text": "- In der „Whitelist für die unterschiedlichen Typen von KI-Systemen“, einem zusätzlichen Dokument, welches laufend aktualisiert wird, werden die vom Rektorat freigegebenen KI-Systeme aufgeführt.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Letztverantwortung für die richtlinienkonforme Nutzung von KI liegt bei den jeweils nutzenden Beschäftigten bzw. deren Vorgesetzten oder übergeordneten Stellen, wenn diese die Nutzung angewiesen haben.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Die Freigabe eines neuen KI-Systems erfordert die Einbeziehung des KI-Referenten/der KI-Referentin, der Datenschutzstelle, dem Datenschutzbeauftragten/der Datenschutzbeauftragten und der Stabsstelle Informationssicherheit.",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Das Rektorat benennt eine Ansprechperson im Prorektorat IT („KI-Referent*in“) für Richtlinien, Schulungen der Beschäftigten zu ethischen Standards und Compliance-Anforderungen sowie die Durchführung von Audits und Risikobewertungen im Zusammenhang mit der Nutzung von KI-Systemen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Vor der dienstlichen Nutzung neuer KI-Systeme, d. h. KI-Systeme, die nicht bereits vom Rektorat freigegeben wurden, ist für Informationen der Vertraulichkeitsklasse C2 und höher eine Prüfung durch den KI-Referenten/die KI-Referentin erforderlich.",
       "repaired": false
     },
     {
       "id": 47,
       "B": "B8",
       "B_label": "roles/accountability/oversight/escalation",
-      "text": "In der „Whitelist für die unterschiedlichen Typen von KI-Systemen“, einem zusätzlichen Dokument, welches laufend aktualisiert wird, werden die vom Rektorat freigegebenen KI-Systeme aufgeführt.",
+      "text": "- Die Leitungen von Verwaltungseinheiten, zentralen Einrichtungen sowie von wissenschaftlichen Organisationseinheiten (z. B. Institutsleitungen, Projektleitungen) tragen die Verantwortung für die Einhaltung dieser Richtlinie innerhalb ihres jeweiligen Zuständigkeitsbereichs. Sie vergeben außerdem Freigaben für die Eingabe von Informationen ab Vertraulichkeitsklasse C3 in KI-Systeme.",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Freigabe eines neuen KI-Systems erfordert die Einbeziehung des KI-Referenten/der KI-Referentin, der Datenschutzstelle, dem Datenschutzbeauftragten/der Datenschutzbeauftragten und der Stabsstelle Informationssicherheit.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Im Rahmen der EU-Verordnung über Künstliche Intelligenz (EU-AI Act) ist insbesondere auf Hochrisiko-KI-Systeme zu achten. Das sind Systeme, die etwa zur automatisierten Bewertung von Bewerbungen und Prüfungsleistungen oder zur Entscheidung über die Vergabe eines Studienplatzes eingesetzt werden. Sie unterliegen strengen rechtlichen Anforderungen.",
       "repaired": false
     },
     {
       "id": 49,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Vor der dienstlichen Nutzung neuer KI-Systeme, d. h. KI-Systeme, die nicht bereits vom Rektorat freigegeben wurden, ist für Informationen der Vertraulichkeitsklasse C2 und höher eine Prüfung durch den KI-Referenten/die KI-Referentin erforderlich.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
+      "text": "- Die Universität Stuttgart setzt aktuell keine Hochrisiko-KI-Systeme ein.",
       "repaired": false
     },
     {
       "id": 50,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Leitungen von Verwaltungseinheiten, zentralen Einrichtungen sowie von wissenschaftlichen Organisationseinheiten (z. B. Institutsleitungen, Projektleitungen) tragen die Verantwortung für die Einhaltung dieser Richtlinie innerhalb ihres jeweiligen Zuständigkeitsbereichs. Sie vergeben außerdem Freigaben für die Eingabe von Informationen ab Vertraulichkeitsklasse C3 in KI-Systeme.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Sollte ein solches System eingeführt werden, ist vor der Nutzung eine Prüfung durch das Rektorat erforderlich, eingesteuert durch den/die Chief Information Officer und beraten durch den KI-Referenten/die KI-Referentin, die Datenschutzstelle, den Datenschutzbeauftragten/die Datenschutzbeauftragte, die Stabsstelle Informationssicherheit und ggf. die Ethikkommission.",
       "repaired": false
     },
     {
       "id": 51,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Im Rahmen der EU-Verordnung über Künstliche Intelligenz (EU-AI Act) ist insbesondere auf Hochrisiko-KI-Systeme zu achten. Das sind Systeme, die etwa zur automatisierten Bewertung von Bewerbungen und Prüfungsleistungen oder zur Entscheidung über die Vergabe eines Studienplatzes eingesetzt werden. Sie unterliegen strengen rechtlichen Anforderungen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "text": "- Für generative KI-Systeme (z. B. Chatbots, Bildgeneratoren) gelten die Transparenzpflichten der EU-KI-Verordnung – diese sind durch die Kennzeichnungspflichten in dieser Richtlinie abgedeckt.",
       "repaired": false
     },
     {
       "id": 52,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Die Universität Stuttgart setzt aktuell keine Hochrisiko-KI-Systeme ein.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Das Rektorat wird diese Richtlinie mindestens einmal im Jahr überprüfen und bei Bedarf anpassen.",
       "repaired": false
     },
     {
       "id": 53,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Sollte ein solches System eingeführt werden, ist vor der Nutzung eine Prüfung durch das Rektorat erforderlich, eingesteuert durch den/die Chief Information Officer und beraten durch den KI-Referenten/die KI-Referentin, die Datenschutzstelle, den Datenschutzbeauftragten/die Datenschutzbeauftragte, die Stabsstelle Informationssicherheit und ggf. die Ethikkommission.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Vorschläge, Anwendungsbeispiele oder Fragen zur Weiterentwicklung der Richtlinie können an die E-Mail-Adresse ki@uni-stuttgart.de gerichtet werden.",
       "repaired": false
     },
     {
       "id": 54,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Für generative KI-Systeme (z. B. Chatbots, Bildgeneratoren) gelten die Transparenzpflichten der EU-KI-Verordnung – diese sind durch die Kennzeichnungspflichten in dieser Richtlinie abgedeckt.",
-      "repaired": false
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "text": "definition von ki-systemen und relevanz der informationsklassifikation",
+      "repaired": true
     },
     {
       "id": 55,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Das Rektorat wird diese Richtlinie mindestens einmal im Jahr überprüfen und bei Bedarf anpassen.",
-      "repaired": false
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "| ki-systemtyp/vertraulichkeitsklasse | universitätseigene ki-systeme | von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z. b. azure/openai) | externe enterprise-ki-systeme (z. b. chatgpt teams) | nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) |",
+      "repaired": true
     },
     {
       "id": 56,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Vorschläge, Anwendungsbeispiele oder Fragen zur Weiterentwicklung der Richtlinie können an die E-Mail-Adresse ki@uni-stuttgart.de gerichtet werden.",
-      "repaired": false
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "| c1 - öffentlich | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt |",
+      "repaired": true
     },
     {
       "id": 57,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "beschäftigte dürfen informationen der vertraulichkeitsklassen c1 und c2 in diese systeme eingeben. eine eingabe von informationen der vertraulichkeitsklassen c3 und c4 ist nicht erlaubt.",
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "| c2 - intern | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☐ nicht erlaubt |",
       "repaired": true
     },
     {
       "id": 58,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "| ki-systemtyp/vertraulichkeitsklasse | typ 1 universitätseigene ki-systeme | typ 2 von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | typ 3 von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z.b. azure/openai) | typ 4 externe enterprise-ki-systeme (z. b. chatgpt teams) | typ 5 nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) | | -| | | --| --| -| | c1 - öffentlich | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | | c2 - intern | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ❌ nicht erlaubt | | c3 - vertraulich | ✔ erlaubt (nach prüfung) | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | | c4 - streng vertraulich | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt |",
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "| c3 - vertraulich | ☑ erlaubt (nach prüfung) | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |",
       "repaired": true
     },
     {
       "id": 59,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
+      "B": "B2",
+      "B_label": "scope/application",
+      "text": "| c4 - streng vertraulich | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |",
+      "repaired": true
+    },
+    {
+      "id": 60,
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
       "text": "gültigkeit: version 1.0, stand oktober 2025 verantwortlich: ki-referent/in, prorektorat informationstechnologie",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 59,
-    "matched": 56,
-    "unmatched_count": 3,
+    "total": 60,
+    "matched": 53,
+    "unmatched_count": 7,
     "unmatched": [
       {
+        "id": 54,
+        "B": "B1",
+        "matched_words": "2/7",
+        "text": "definition von ki-systemen und relevanz der informationsklassifikation"
+      },
+      {
+        "id": 55,
+        "B": "B2",
+        "matched_words": "1/51",
+        "text": "| ki-systemtyp/vertraulichkeitsklasse | universitätseigene ki-systeme | von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z. b. azure/openai) | externe enterprise-ki-systeme (z. b. chatgpt teams) | nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) |"
+      },
+      {
+        "id": 56,
+        "B": "B2",
+        "matched_words": "2/20",
+        "text": "| c1 - öffentlich | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt |"
+      },
+      {
         "id": 57,
-        "B": "B6",
-        "matched_words": "6/24",
-        "text": "beschäftigte dürfen informationen der vertraulichkeitsklassen c1 und c2 in diese systeme eingeben. eine eingabe von informationen der vertraulichkeitsklassen c3 und c4 ist nicht erlaubt."
+        "B": "B2",
+        "matched_words": "2/21",
+        "text": "| c2 - intern | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☐ nicht erlaubt |"
       },
       {
         "id": 58,
-        "B": "B6",
-        "matched_words": "1/157",
-        "text": "| ki-systemtyp/vertraulichkeitsklasse | typ 1 universitätseigene ki-systeme | typ 2 von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | typ 3 von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z.b. azure/openai) | typ 4 externe enterprise-ki-systeme (z. b. chatgpt teams) | typ 5 nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) | | -| | | --| --| -| | c1 - öffentlich | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | | c2 - intern | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ❌ nicht erlaubt | | c3 - vertraulich | ✔ erlaubt (nach prüfung) | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | | c4 - streng vertraulich | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt |"
+        "B": "B2",
+        "matched_words": "2/27",
+        "text": "| c3 - vertraulich | ☑ erlaubt (nach prüfung) | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |"
       },
       {
         "id": 59,
-        "B": "B11",
+        "B": "B2",
+        "matched_words": "2/27",
+        "text": "| c4 - streng vertraulich | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |"
+      },
+      {
+        "id": 60,
+        "B": "B3",
         "matched_words": "7/10",
         "text": "gültigkeit: version 1.0, stand oktober 2025 verantwortlich: ki-referent/in, prorektorat informationstechnologie"
       }
     ],
-    "source_coverage": 0.881,
-    "uncovered_chars": 1842,
-    "uncovered_gaps": 13,
+    "source_coverage": 0.879,
+    "uncovered_chars": 1688,
+    "uncovered_gaps": 12,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 294,
-        "length": 294,
-        "text": "# universität stuttgart # source: https://www.beschaeftigte.unistuttgart.de/document/dokument_it/richtlinie-ki-nutzungbeschaeftigte.pdf # date: 2025-09-30 # category: guideline richtlinie zur nutzung von künstlicher intelligenz (ki) und zum einsatz von ki-systemen an der universität stuttgart"
+        "char_end": 296,
+        "length": 296,
+        "text": "# universität stuttgart # source: https://www.beschaeftigte.unistuttgart.de/document/dokument_it/richtlinie-ki-nutzungbeschaeftigte.pdf # date: 2025-09-30 # category: guideline # richtlinie zur nutzung von künstlicher intelligenz (ki) und zum einsatz von ki-systemen an der universität stuttgart"
       },
       {
-        "char_start": 510,
-        "char_end": 521,
-        "length": 11,
-        "text": ". präambel"
+        "char_start": 512,
+        "char_end": 526,
+        "length": 14,
+        "text": ". ## präambel"
       },
       {
-        "char_start": 2365,
-        "char_end": 2441,
-        "length": 76,
-        "text": ". 1. definition von ki-systemen und relevanz der informationsklassifikation"
+        "char_start": 2373,
+        "char_end": 2451,
+        "length": 78,
+        "text": ". # 1. definition von ki-systemen und relevanz der informationsklassifikation"
       },
       {
-        "char_start": 4430,
-        "char_end": 4461,
-        "length": 31,
-        "text": ". 2. grundsätze der ki-nutzung"
-      },
-      {
-        "char_start": 5736,
-        "char_end": 5794,
-        "length": 58,
-        "text": ". 3. typisierung von ki-systemen zur dienstlichen nutzung"
-      },
-      {
-        "char_start": 8033,
-        "char_end": 8222,
-        "length": 189,
-        "text": ". beschäftigte dürfen informationen der vertraulichkeitsklassen c1 und c2 in diese systeme eingeben. eine eingabe von informationen der vertraulichkeitsklassen c3 und c4 ist nicht erlaubt."
-      },
-      {
-        "char_start": 8565,
-        "char_end": 8596,
-        "length": 31,
-        "text": ". 4. zulässige anwendungsfälle"
-      },
-      {
-        "char_start": 9198,
-        "char_end": 10079,
-        "length": 881,
-        "text": ". | ki-systemtyp/vertraulichkeitsklasse | typ 1 universitätseigene ki-systeme | typ 2 von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | typ 3 von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z.b. azure/openai) | typ 4 externe enterprise-ki-systeme (z. b. chatgpt teams) | typ 5 nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) | | -| | | --| --| -| | c1 - öffentlich | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | | c2 - intern | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ❌ nicht erlaubt | | c3 - vertraulich | ✔ erlaubt (nach prüfung) | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | | c4 - streng vertraulich | ✔ erlaubt (nach prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | 5. transparenz & dokumentation"
-      },
-      {
-        "char_start": 10822,
-        "char_end": 10859,
-        "length": 37,
-        "text": ". 6. schulung & kompetenzentwicklung"
-      },
-      {
-        "char_start": 11640,
-        "char_end": 11672,
-        "length": 32,
-        "text": ". 7. governance & verantwortung"
-      },
-      {
-        "char_start": 13204,
-        "char_end": 13259,
-        "length": 55,
-        "text": ". ergänzende hinweise zur eu-ki-verordnung (eu-ai act)"
-      },
-      {
-        "char_start": 14238,
-        "char_end": 14272,
+        "char_start": 4438,
+        "char_end": 4472,
         "length": 34,
-        "text": ". 8. weiterentwicklung & feedback"
+        "text": ". ## 2. grundsätze der ki-nutzung"
       },
       {
-        "char_start": 14514,
-        "char_end": 14627,
+        "char_start": 5747,
+        "char_end": 5808,
+        "length": 61,
+        "text": ". ## 3. typisierung von ki-systemen zur dienstlichen nutzung"
+      },
+      {
+        "char_start": 8600,
+        "char_end": 8633,
+        "length": 33,
+        "text": ". # 4. zulässige anwendungsfälle"
+      },
+      {
+        "char_start": 9234,
+        "char_end": 10126,
+        "length": 892,
+        "text": ". | | typ 1 | typ 2 | typ 3 | typ 4 | typ 5 | | | | | | | | | ki-systemtyp/vertraulichkeitsklasse | universitätseigene ki-systeme | von der uni stgt betriebene ki-systeme mit modellen bei wiss.-nahen partnern (z. b. gwdg) | von der uni stgt betriebene ki-systeme mit modellen bei kommerziellen anbietern (z. b. azure/openai) | externe enterprise-ki-systeme (z. b. chatgpt teams) | nichtgeprüfte öffentliche ki-systeme (z. b. chatgpt free) | | c1 - öffentlich | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | | c2 - intern | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☐ nicht erlaubt | | c3 - vertraulich | ☑ erlaubt (nach prüfung) | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | | c4 - streng vertraulich | ☑ erlaubt (nach prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | # 5. transparenz & dokumentation"
+      },
+      {
+        "char_start": 10869,
+        "char_end": 10908,
+        "length": 39,
+        "text": ". # 6. schulung & kompetenzentwicklung"
+      },
+      {
+        "char_start": 11689,
+        "char_end": 11723,
+        "length": 34,
+        "text": ". # 7. governance & verantwortung"
+      },
+      {
+        "char_start": 13255,
+        "char_end": 13313,
+        "length": 58,
+        "text": ". ## ergänzende hinweise zur eu-ki-verordnung (eu-ai act)"
+      },
+      {
+        "char_start": 14292,
+        "char_end": 14328,
+        "length": 36,
+        "text": ". # 8. weiterentwicklung & feedback"
+      },
+      {
+        "char_start": 14570,
+        "char_end": 14683,
         "length": 113,
         "text": ". gültigkeit: version 1.0, stand oktober 2025 verantwortlich: ki-referent/in, prorektorat informationstechnologie"
       }
@@ -526,16 +551,16 @@
   "projection": [
     {
       "char_start": 0,
-      "char_end": 298,
-      "text": "# Universität Stuttgart\n# Source: https://www.beschaeftigte.uni-stuttgart.de/document/dokument_it/richtlinie-KI-nutzung-beschaeftigte.pdf\n# Date: 2025-09-30\n# Category: guideline\n\nRichtlinie zur Nutzung von Künstlicher Intelligenz (KI) und zum Einsatz von KI-Systemen an der Universität Stuttgart\n\n",
+      "char_end": 300,
+      "text": "# Universität Stuttgart\n# Source: https://www.beschaeftigte.uni-stuttgart.de/document/dokument_it/richtlinie-KI-nutzung-beschaeftigte.pdf\n# Date: 2025-09-30\n# Category: guideline\n\n# Richtlinie zur Nutzung von Künstlicher Intelligenz (KI) und zum Einsatz von KI-Systemen an der Universität Stuttgart\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 298,
-      "char_end": 515,
+      "char_start": 300,
+      "char_end": 517,
       "text": "Das Rektorat der Universität Stuttgart hat in seiner Sitzung am 30.09.2025 die nachstehende Richtlinie zur Nutzung Künstlicher Intelligenz (KI) und zum Einsatz von KI-Systemen an der Universität Stuttgart beschlossen.",
       "B": "B3",
       "B_label": "purpose/rationale/document status",
@@ -543,17 +568,17 @@
       "match_type": "exact"
     },
     {
-      "char_start": 515,
-      "char_end": 526,
-      "text": "\n\nPräambel\n",
+      "char_start": 517,
+      "char_end": 532,
+      "text": "\n\n## Präambel\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 526,
-      "char_end": 693,
+      "char_start": 532,
+      "char_end": 699,
       "text": "Die Nutzung Künstlicher Intelligenz (KI) eröffnet der Universität Stuttgart neue Möglichkeiten zur Effizienzsteigerung, Qualitätsverbesserung und Innovationsförderung.",
       "B": "B3",
       "B_label": "purpose/rationale/document status",
@@ -561,8 +586,8 @@
       "match_type": "exact"
     },
     {
-      "char_start": 694,
-      "char_end": 826,
+      "char_start": 700,
+      "char_end": 832,
       "text": "Zugleich erfordert der verantwortungsvolle Umgang mit KI-Systemen gewisse Vorgaben rechtlicher, ethischer und organisatorischer Art.",
       "B": "B9",
       "B_label": "risks/limitations/concerns",
@@ -570,17 +595,17 @@
       "match_type": "exact"
     },
     {
-      "char_start": 827,
-      "char_end": 1161,
-      "text": "Die vorliegende Richtlinie zur KI basiert auf dem Selbstverständnis einer modernen Universität, die technologische Chancen gezielt nutzt, dabei den Schutz von Personen und deren Persönlichkeitsrechten sowie die Integrität der Organisation wahrt und ihren Umgang mit neuen Technologien – hier mit KI-Systemen - fortlaufend reflektiert.",
+      "char_start": 834,
+      "char_end": 1167,
+      "text": "Die vorliegende Richtlinie zur KI basiert auf dem Selbstverständnis einer modernen Universität, die technologische Chancen gezielt nutzt, dabei den Schutz von Personen und deren Persönlichkeitsrechten sowie die Integrität der Organisation wahr und ihren Umgang mit neuen Technologien – hier mit KI-Systemen – fortlaufend reflektiert.",
       "B": "B3",
       "B_label": "purpose/rationale/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 1162,
-      "char_end": 1390,
+      "char_start": 1169,
+      "char_end": 1397,
       "text": "Angesichts der rasanten technischen Entwicklungen im Bereich der Künstlichen Intelligenz sowie sich wandelnder rechtlicher und gesellschaftlicher Rahmenbedingungen, wird diese Richtlinie regelmäßig überprüft und fortgeschrieben.",
       "B": "B11",
       "B_label": "monitoring/revision/updating",
@@ -588,8 +613,8 @@
       "match_type": "exact"
     },
     {
-      "char_start": 1391,
-      "char_end": 1612,
+      "char_start": 1398,
+      "char_end": 1619,
       "text": "Ihr Zweck ist es, allen Beschäftigten einen verlässlichen Rahmen zu geben, in dem sie KI-Systeme sicher, verantwortungsvoll, ethisch vertretbar, transparent und rechtskonform an der Universität Stuttgart einsetzen können.",
       "B": "B3",
       "B_label": "purpose/rationale/document status",
@@ -597,26 +622,26 @@
       "match_type": "exact"
     },
     {
-      "char_start": 1614,
-      "char_end": 1887,
-      "text": "Anwendungsbereich: Diese Richtlinie gilt für alle Beschäftigten der Universität Stuttgart, die KI-Systeme im Rahmen ihrer dienstlichen Tätigkeiten außerhalb von Forschung einsetzen, etwa für Projektmanagement, Drittmittelverwaltung, Prüfungsorganisation oder Gremienarbeit.",
+      "char_start": 1621,
+      "char_end": 1898,
+      "text": "**Anwendungsbereich:** Diese Richtlinie gilt für alle Beschäftigten der Universität Stuttgart, die KI-Systeme im Rahmen ihrer dienstlichen Tätigkeiten außerhalb von Forschung einsetzen, etwa für Projektmanagement, Drittmittelverwaltung, Prüfungsorganisation oder Gremienarbeit.",
       "B": "B2",
       "B_label": "scope/application",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 1888,
-      "char_end": 2082,
-      "text": "Sie wird durch folgende Dokumente ergänzt:\n- Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen\n- Whitelist für die unterschiedlichen Typen von KI-Systemen",
+      "char_start": 1899,
+      "char_end": 2094,
+      "text": "Sie wird durch folgende Dokumente ergänzt:\n\n- Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen\n- Whitelist für die unterschiedlichen Typen von KI-Systemen",
       "B": "B2",
       "B_label": "scope/application",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 2084,
-      "char_end": 2268,
+      "char_start": 2096,
+      "char_end": 2280,
       "text": "Die letztinstanzliche Entscheidung darüber, ob und vor allem welche KI-Systeme für dienstliche Zwecke außerhalb der Forschung eingesetzt werden dürfen, obliegt der Universitätsleitung.",
       "B": "B8",
       "B_label": "roles/accountability/oversight/escalation",
@@ -624,8 +649,8 @@
       "match_type": "exact"
     },
     {
-      "char_start": 2269,
-      "char_end": 2377,
+      "char_start": 2281,
+      "char_end": 2389,
       "text": "Für die in der Wissenschaft tätigen Beschäftigten gilt diese Richtlinie auch, zuzüglich weiterer Regelungen.",
       "B": "B2",
       "B_label": "scope/application",
@@ -633,17 +658,26 @@
       "match_type": "exact"
     },
     {
-      "char_start": 2377,
-      "char_end": 2453,
-      "text": "\n\n1. Definition von KI-Systemen und Relevanz der Informationsklassifikation\n",
+      "char_start": 2389,
+      "char_end": 2396,
+      "text": "\n\n# 1. ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 2453,
-      "char_end": 2707,
+      "char_start": 2396,
+      "char_end": 2466,
+      "text": "Definition von KI-Systemen und Relevanz der Informationsklassifikation",
+      "B": "B1",
+      "B_label": "definitions/terminology",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2468,
+      "char_end": 2722,
       "text": "KI-Systeme im Sinne dieser Richtlinie sind softwarebasierte Anwendungen, die daten- oder regelbasierte Verfahren nutzen, um eigenständig Informationen zu verarbeiten, zu erzeugen und menschliche Entscheidungs- oder Problemlösungsprozesse zu unterstützen.",
       "B": "B1",
       "B_label": "definitions/terminology",
@@ -651,17 +685,17 @@
       "match_type": "exact"
     },
     {
-      "char_start": 2708,
-      "char_end": 3147,
-      "text": "Dazu zählen insbesondere Systeme, mit denen Nutzerinnen und Nutzer in Dialogform z.B. über Texteingaben interagieren und die in Echtzeit oder asynchron eine Ausgabe erzeugen. Beispiele hierfür sind Chatbots (z. B. ChatGPT), Schreibassistenten (z. B. Copilot, DeepL Write), Bild- oder Analysegeneratoren (z. B. Midjourney, KI-gestützte Dashboards) sowie Business-Intelligence-Systeme, die Daten automatisiert klassifizieren (z.B. Power BI).",
+      "char_start": 2724,
+      "char_end": 3160,
+      "text": "Dazu zählen insbesondere Systeme, mit denen Nutzerinnen und Nutzer in Dialogform z.B. über Texteingaben interagieren und die in Echtzeit oder asynchron eine Ausgabe erzeugen. Beispiele hierfür sind Chatbots (z.B. ChatGPT), Schreibassistenten (z.B. Copilot, DeepL Write), Bild- oder Analysegeneratoren (z.B. Midjourney, KI-gestützte Dashboards) sowie Business-Intelligence-Systeme, die Daten automatisiert klassifizieren (z.B. Power BI).",
       "B": "B1",
       "B_label": "definitions/terminology",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 3149,
-      "char_end": 3611,
+      "char_start": 3162,
+      "char_end": 3624,
       "text": "Bereits die Eingabe von Informationen in solche Systeme – in Form strukturierter Daten (z.B. Tabellen, Datenbanken, Excel-Dateien) oder unstrukturierter Daten (z.B. Texte, Bilder, Audio- oder Videodateien) – ist datenschutz- und sicherheitsrelevant. Denn ein KI-System kann diese Informationen nicht nur speichern oder weiterverarbeiten, es kann sie fallweise auch zur eigenen Weiterentwicklung nutzen (z. B. zum Training der nächsten Version des Sprachmodells).",
       "B": "B9",
       "B_label": "risks/limitations/concerns",
@@ -669,80 +703,71 @@
       "match_type": "exact"
     },
     {
-      "char_start": 3612,
-      "char_end": 3769,
-      "text": "Deshalb ist bei jeder Nutzung eines KI-Systems entscheidend, welche Informationen dort eingegeben werden - nicht nur, welches Ergebnis das KI-System liefert.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 3625,
+      "char_end": 3782,
+      "text": "Deshalb ist bei jeder Nutzung eines KI-Systems entscheidend, welche Informationen dort eingegeben werden – nicht nur, welches Ergebnis das KI-System liefert.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 14,
       "match_type": "exact"
     },
     {
-      "char_start": 3771,
-      "char_end": 3961,
+      "char_start": 3784,
+      "char_end": 3974,
       "text": "Die vorliegende KI-Richtlinie basiert auf einer Vertraulichkeitsklassifikation für Informationen im Kontext des Einsatzes von KI-Systemen. Diese steht als gesondertes Dokument zur Verfügung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "scope/application",
       "segment_id": 15,
       "match_type": "exact"
     },
     {
-      "char_start": 3962,
-      "char_end": 4459,
-      "text": "Vor der Eingabe von Informationen in ein KI-System ist von den Nutzenden sorgfältig zu prüfen, welcher Vertraulichkeitsklasse die betreffende Information angehört.\n- Liegt bereits eine Einstufung in eine dieser Vertraulichkeitsklassen vor, ist diese verbindlich zu beachten.\n- Liegt keine Einstufung vor, sind die Nutzenden verpflichtet, die Vertraulichkeitsklasse in eigenem pflichtgemäßen Ermessen festzulegen oder von einer übergeordneten Instanz (Vorgesetzte, Rektorat, …) festlegen zu lassen.",
+      "char_start": 3976,
+      "char_end": 4139,
+      "text": "Vor der Eingabe von Informationen in ein KI-System ist von den Nutzenden sorgfältig zu prüfen, welcher Vertraulichkeitsklasse die betreffende Information angehört.",
       "B": "B7",
       "B_label": "required safeguards/procedures",
       "segment_id": 16,
       "match_type": "exact"
     },
     {
-      "char_start": 4459,
-      "char_end": 4492,
-      "text": "\n\n2. Grundsätze der KI-Nutzung\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 4492,
-      "char_end": 4659,
-      "text": "KI-Systeme sollen als Hilfsmittel verwendet werden. Sie können und dürfen menschliches Urteilsvermögen und die Entscheidungsverantwortung des Einzelnen nicht ersetzen.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 4141,
+      "char_end": 4251,
+      "text": "- Liegt bereits eine Einstufung in eine dieser Vertraulichkeitsklassen vor, ist diese verbindlich zu beachten.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 17,
       "match_type": "exact"
     },
     {
-      "char_start": 4659,
-      "char_end": 4662,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 4662,
-      "char_end": 4758,
-      "text": "Der Schutz von Persönlichkeitsrechten und von vertraulichen Informationen hat oberste Priorität.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 4252,
+      "char_end": 4476,
+      "text": "- Liegt keine Einstufung vor, sind die Nutzenden verpflichtet, die Vertraulichkeitsklasse in eigenem pflichtgemäßen Ermessen festzulegen oder von einer übergeordneten Instanz (Vorgesetzte, Rektorat, ...) festlegen zu lassen.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 18,
       "match_type": "exact"
     },
     {
-      "char_start": 4759,
-      "char_end": 4993,
-      "text": "Vor der dienstlichen Nutzung eines KI-Systems prüfen die Nutzenden, welche Informationen gemäß dieser Richtlinie in welches System eingegeben werden dürfen. Für die Verarbeitung personenbezogener Daten braucht es eine Rechtsgrundlage.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 4476,
+      "char_end": 4513,
+      "text": "\n\n## 2. Grundsätze der KI-Nutzung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4513,
+      "char_end": 4680,
+      "text": "KI-Systeme sollen als Hilfsmittel verwendet werden. Sie können und dürfen menschliches Urteilsvermögen und die Entscheidungsverantwortung des Einzelnen nicht ersetzen.",
+      "B": "B4",
+      "B_label": "principles/values",
       "segment_id": 19,
       "match_type": "exact"
     },
     {
-      "char_start": 4993,
-      "char_end": 4996,
+      "char_start": 4680,
+      "char_end": 4683,
       "text": "\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
@@ -750,71 +775,26 @@
       "match_type": "gap"
     },
     {
-      "char_start": 4996,
-      "char_end": 5204,
-      "text": "Der Einsatz von KI-Systemen ist so transparent wie möglich zu gestalten. Das bedeutet, dass Funktionsweise, Entscheidungsgrundlagen und Verantwortlichkeiten für alle betroffenen Personen nachvollziehbar sind.",
+      "char_start": 4683,
+      "char_end": 4779,
+      "text": "Der Schutz von Persönlichkeitsrechten und von vertraulichen Informationen hat oberste Priorität.",
       "B": "B4",
       "B_label": "principles/values",
       "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 5204,
-      "char_end": 5207,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 5207,
-      "char_end": 5428,
-      "text": "Die Verantwortung für die Qualität und die Richtigkeit von Inhalten, in die Ergebnisse aus KI-Systemen einfließen, liegt bei den Nutzenden. Diesen obliegt es, KI-generierte Inhalte vor der Verwendung sorgfältig zu prüfen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 4780,
+      "char_end": 5014,
+      "text": "Vor der dienstlichen Nutzung eines KI-Systems prüfen die Nutzenden, welche Informationen gemäß dieser Richtlinie in welches System eingegeben werden dürfen. Für die Verarbeitung personenbezogener Daten braucht es eine Rechtsgrundlage.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 21,
       "match_type": "exact"
     },
     {
-      "char_start": 5430,
-      "char_end": 5634,
-      "text": "Die Universität stellt ihren Beschäftigten die erforderlichen Informationen für eine sichere, verantwortungsvolle, ethisch vertretbare und rechtskonforme Nutzung von KI-Systemen einfach zugänglich bereit.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 22,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5635,
-      "char_end": 5775,
-      "text": "Sie bietet als unterstützende Maßnahmen Schulungen an und benennt eine zentrale Ansprechperson für Nachfragen hinsichtlich einer KI-Nutzung.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 23,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5775,
-      "char_end": 5833,
-      "text": "\n\n3. Typisierung von KI-Systemen zur dienstlichen Nutzung\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 5833,
-      "char_end": 5944,
-      "text": "Diese Richtlinie unterscheidet folgende Typen von KI-Systemen und schränkt zulässige Eingaben entsprechend ein:",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5944,
-      "char_end": 5947,
+      "char_start": 5014,
+      "char_end": 5017,
       "text": "\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
@@ -822,26 +802,71 @@
       "match_type": "gap"
     },
     {
-      "char_start": 5947,
-      "char_end": 6431,
-      "text": "Universitätseigene KI-Systeme (Typ 1):\n KI-Systeme, die vollständig von und innerhalb der Universität Stuttgart betrieben werden und bei denen ausgeschlossen ist, dass Daten in externe Systeme abfließen. Diese KI-Systeme verarbeiten Daten ausschließlich innerhalb universitärer Infrastruktur und dürfen nach Freigabe des Systems durch das Rektorat für die Eingabe von Informationen aller Vertraulichkeitsklassen einschließlich streng vertraulicher Informationen (C4) verwendet werden.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 5017,
+      "char_end": 5225,
+      "text": "Der Einsatz von KI-Systemen ist so transparent wie möglich zu gestalten. Das bedeutet, dass Funktionsweise, Entscheidungsgrundlagen und Verantwortlichkeiten für alle betroffenen Personen nachvollziehbar sind.",
+      "B": "B4",
+      "B_label": "principles/values",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5225,
+      "char_end": 5228,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5228,
+      "char_end": 5449,
+      "text": "Die Verantwortung für die Qualität und die Richtigkeit von Inhalten, in die Ergebnisse aus KI-Systemen einfließen, liegt bei den Nutzenden. Diesen obliegt es, KI-generierte Inhalte vor der Verwendung sorgfältig zu prüfen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5451,
+      "char_end": 5655,
+      "text": "Die Universität stellt ihren Beschäftigten die erforderlichen Informationen für eine sichere, verantwortungsvolle, ethisch vertretbare und rechtskonforme Nutzung von KI-Systemen einfach zugänglich bereit.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5656,
+      "char_end": 5796,
+      "text": "Sie bietet als unterstützende Maßnahmen Schulungen an und benennt eine zentrale Ansprechperson für Nachfragen hinsichtlich einer KI-Nutzung.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
       "segment_id": 25,
       "match_type": "exact"
     },
     {
-      "char_start": 6432,
-      "char_end": 6665,
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C4 in diese Systeme eingeben, bei C3 und C4 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 5796,
+      "char_end": 5858,
+      "text": "\n\n## 3. Typisierung von KI-Systemen zur dienstlichen Nutzung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5858,
+      "char_end": 5969,
+      "text": "Diese Richtlinie unterscheidet folgende Typen von KI-Systemen und schränkt zulässige Eingaben entsprechend ein:",
+      "B": "B2",
+      "B_label": "scope/application",
       "segment_id": 26,
       "match_type": "exact"
     },
     {
-      "char_start": 6665,
-      "char_end": 6669,
+      "char_start": 5969,
+      "char_end": 5973,
       "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
@@ -849,44 +874,35 @@
       "match_type": "gap"
     },
     {
-      "char_start": 6669,
-      "char_end": 7105,
-      "text": "Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem wissenschaftsnahen Partner (z. B. GWDG) (Typ 2):\n KI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle, die von vertrauenswürdigen, wissenschaftsnahen Einrichtungen wie der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) gehostet werden, ohne dass Daten an Dritte weitergegeben werden.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 5973,
+      "char_end": 6694,
+      "text": "**Universitätseigene KI-Systeme (Typ 1):**\nKI-Systeme, die vollständig von und innerhalb der Universität Stuttgart betrieben werden und bei denen ausgeschlossen ist, dass Daten in externe Systeme abfließen. Diese KI-Systeme verarbeiten Daten ausschließlich innerhalb universitärer Infrastruktur und dürfen nach Freigabe des Systems durch das Rektorat für die Eingabe von Informationen aller Vertraulichkeitsklassen einschließlich streng vertraulicher Informationen (C4) verwendet werden. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C4 in diese Systeme eingeben, bei C3 und C4 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
       "segment_id": 27,
       "match_type": "exact"
     },
     {
-      "char_start": 7106,
-      "char_end": 7332,
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C3 in diese Systeme eingeben, bei C3 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
+      "char_start": 6694,
+      "char_end": 6698,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6698,
+      "char_end": 7364,
+      "text": "**Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem wissenschaftsnahen Partner (z. B. GWDG) (Typ 2):**\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle, die von vertrauenswürdigen, wissenschaftlichen Einrichtungen wie der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) gehostet werden, ohne dass Daten an Dritte weitergegeben werden. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 bis C3 in diese Systeme eingeben, bei C3 allerdings nur nach Prüfung und dokumentierter Freigabe durch den Vorgesetzten/die Vorgesetzte oder eine höhere Instanz.",
       "B": "B5",
       "B_label": "permitted or encouraged uses",
       "segment_id": 28,
       "match_type": "exact"
     },
     {
-      "char_start": 7332,
-      "char_end": 7620,
-      "text": "\n\n- Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem kommerziellen Anbieter (z. B. Azure OpenAI) (Typ 3):\n KI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle in externen Cloud-Infrastrukturen innerhalb der EU. ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 7620,
-      "char_end": 7806,
-      "text": "Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 30,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7806,
-      "char_end": 7810,
+      "char_start": 7364,
+      "char_end": 7368,
       "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
@@ -894,435 +910,327 @@
       "match_type": "gap"
     },
     {
-      "char_start": 7810,
-      "char_end": 8088,
-      "text": "Externe Dienste mit datenschutzfreundlichen Einstellungen und Enterprise-Verträgen (z. B. ChatGPT Team) (Typ 4):\n KI-Systeme großer Anbieter, die über Hochschulverträge genutzt werden und nach Anmeldung mit dem Universitätsaccount datenschutzfreundliche Voreinstellungen bieten.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 7368,
+      "char_end": 7841,
+      "text": "**Von der Universität Stuttgart betriebene KI-Systeme mit Zugriff auf ein Modell bei einem kommerziellen Anbieter (z. B. Azure OpenAI) (Typ 3):**\nKI-Systeme, deren Oberfläche die Universität Stuttgart betreibt, mit Zugriff auf Modelle in externen Cloud-Infrastrukturen innerhalb der EU. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7841,
+      "char_end": 7845,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7845,
+      "char_end": 8313,
+      "text": "**Externe Dienste mit datenschutzfreundlichen Einstellungen und Enterprise-Verträgen (z. B. ChatGPT Team) (Typ 4):**\nKI-Systeme großer Anbieter, die über Hochschulverträge genutzt werden und nach Anmeldung mit dem Universitätsaccount datenschutzfreundliche Voreinstellungen bieten. Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8313,
+      "char_end": 8317,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8317,
+      "char_end": 8666,
+      "text": "**Nicht geprüfte öffentliche KI-Systeme (z. B. Chat GPT Free) (Typ 5):**\nBeschäftigte dürfen nur Informationen der Vertraulichkeitsklasse C1 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C2, C3 und C4 ist nicht erlaubt. Eine Eingabe von personenbezogenen oder vertraulichen Informationen ist strikt untersagt.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
       "segment_id": 31,
       "match_type": "exact"
     },
     {
-      "char_start": 8088,
-      "char_end": 8279,
-      "text": " Beschäftigte dürfen Informationen der Vertraulichkeitsklassen C1 und C2 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C3 und C4 ist nicht erlaubt.\n\n- ",
+      "char_start": 8666,
+      "char_end": 8700,
+      "text": "\n\n# 4. Zulässige Anwendungsfälle\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 8279,
-      "char_end": 8346,
-      "text": "Nicht geprüfte öffentliche KI-Systeme (z.B. Chat GPT Free) (Typ 5):",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 8700,
+      "char_end": 9151,
+      "text": "Die folgende Matrix zeigt, welche Informationen welcher Vertraulichkeitsklasse in welche Typen von KI-Systemen eingegeben werden dürfen und in welchen Fällen zuvor eine zusätzliche Prüfung erforderlich ist. Der konkrete Anwendungsfall (z. B. Textentwurf, Planung, Auswertung unter Zuhilfenahme eines KI-Systems) ist jeweils zulässig, wenn die gewählte Kombination von Systemtyp und Vertraulichkeitsklasse dies erlaubt (ggf. nach zusätzlicher Prüfung).",
+      "B": "B5",
+      "B_label": "permitted or encouraged uses",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9153,
+      "char_end": 9303,
+      "text": "Solange unklar ist, welchem Typ ein KI-System zuzuordnen ist, dürfen nur öffentliche Daten (C1) in diese KI-System eingegeben werden (Restriktivfall).",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
       "segment_id": 33,
       "match_type": "exact"
     },
     {
-      "char_start": 8348,
-      "char_end": 8624,
-      "text": "Beschäftigte dürfen nur Informationen der Vertraulichkeitsklasse C1 in diese Systeme eingeben. Eine Eingabe von Informationen der Vertraulichkeitsklassen C2, C3 und C4 ist nicht erlaubt. Eine Eingabe von personenbezogenen oder vertraulichen Informationen ist strikt untersagt.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 34,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8624,
-      "char_end": 8655,
-      "text": "\n\n4. Zulässige Anwendungsfälle\n",
+      "char_start": 9303,
+      "char_end": 9387,
+      "text": "\n\n| | TYP 1 | TYP 2 | TYP 3 | TYP 4 | TYP 5 |\n| --- | --- | --- | --- | --- | --- |\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 8655,
-      "char_end": 9106,
-      "text": "Die folgende Matrix zeigt, welche Informationen welcher Vertraulichkeitsklasse in welche Typen von KI-Systemen eingegeben werden dürfen und in welchen Fällen zuvor eine zusätzliche Prüfung erforderlich ist. Der konkrete Anwendungsfall (z. B. Textentwurf, Planung, Auswertung unter Zuhilfenahme eines KI-Systems) ist jeweils zulässig, wenn die gewählte Kombination von Systemtyp und Vertraulichkeitsklasse dies erlaubt (ggf. nach zusätzlicher Prüfung).",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 9387,
+      "char_end": 9768,
+      "text": "| KI-Systemtyp/Vertraulichkeitsklasse | Universitätseigene KI-Systeme | Von der Uni Stgt betriebene KI-Systeme mit Modellen bei wiss.-nahen Partnern (z. B. GWDG) | Von der Uni Stgt betriebene KI-Systeme mit Modellen bei kommerziellen Anbietern (z. B. Azure/OpenAI) | Externe Enterprise-KI-Systeme (z. B. ChatGPT Teams) | Nicht-geprüfte öffentliche KI-Systeme (z. B. ChatGPT Free) |",
+      "B": "B2",
+      "B_label": "scope/application",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9768,
+      "char_end": 10222,
+      "text": "\n| C1 – Öffentlich | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt |\n| C2 – Intern | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☑ erlaubt | ☐ nicht erlaubt |\n| C3 – Vertraulich | ☑ erlaubt (nach Prüfung) | ☑ erlaubt (nach Prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |\n| C4 – Streng vertraulich | ☑ erlaubt (nach Prüfung) | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt | ☐ nicht erlaubt |\n\n# 5. Transparenz & Dokumentation\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10222,
+      "char_end": 10424,
+      "text": "- Wird ein KI-System in größerem Umfang z. B. beim Erstellen eines Textes eingesetzt, soll dies durch eine Notiz (z. B. \"erstellt mit Hilfe von GPT-4 am 20.6.2025\") im Dokument kenntlich gemacht werden.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10425,
+      "char_end": 10566,
+      "text": "- Wird ein KI-System nur in geringem Umfang genutzt (z. B. zur Einholung von Formulierungsvorschlägen), ist keine Kennzeichnung erforderlich.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 9107,
-      "char_end": 9258,
-      "text": "Solange unklar ist, welchem Typ ein KI-System zuzuordnen ist, dürfen nur öffentliche Daten (C1) in dieses KI-System eingegeben werden (Restriktivfall).",
+      "char_start": 10567,
+      "char_end": 10733,
+      "text": "- Eine Kennzeichnung muss erfolgen, wenn KI-generierte Inhalte direkt weiterverwendet werden, etwa für Webseiten, offizielle Schreiben oder andere Veröffentlichungen.",
       "B": "B7",
       "B_label": "required safeguards/procedures",
       "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 9260,
-      "char_end": 10344,
-      "text": "| KI-Systemtyp/Vertraulichkeitsklasse | TYP 1 Universitätseigene KI-Systeme | TYP 2 Von der Uni Stgt betriebene KI-Systeme mit Modellen bei wiss.-nahen Partnern (z. B. GWDG) | TYP 3 Von der Uni Stgt betriebene KI-Systeme mit Modellen bei kommerziellen Anbietern (z.B. Azure/OpenAI) | TYP 4 Externe Enterprise-KI-Systeme (z. B. ChatGPT Teams) | TYP 5 Nicht-geprüfte öffentliche KI-Systeme (z. B. ChatGPT Free) |\n|-------------------------------------|------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|\n| C1 – Öffentlich | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt |\n| C2 – Intern | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ✔ erlaubt | ❌ nicht erlaubt |\n| C3 – Vertraulich | ✔ erlaubt (nach Prüfung) | ✔ erlaubt (nach Prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt |",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 58,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 10344,
-      "char_end": 10524,
-      "text": " ❌ nicht erlaubt |\n| C4 – Streng vertraulich | ✔ erlaubt (nach Prüfung) | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt | ❌ nicht erlaubt |\n\n5. Transparenz & Dokumentation\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 10524,
-      "char_end": 10724,
-      "text": "Wird ein KI-System in größerem Umfang z. B. beim Erstellen eines Textes eingesetzt, soll dies durch eine Notiz (z. B. \"erstellt mit Hilfe von GPT-4 am 20.6.2025\") im Dokument kenntlich gemacht werden.",
+      "char_start": 10734,
+      "char_end": 10974,
+      "text": "- Wenn KI-Systeme zur Beantwortung von Anfragen eingesetzt werden – etwa im Kontakt mit Studierenden oder mit externen Personen – muss dies klar zu erkennen sein. Das gleiche gilt für den Einsatz von KI-Systemen in Lern-Management-Systemen.",
       "B": "B7",
       "B_label": "required safeguards/procedures",
       "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 10724,
-      "char_end": 10727,
-      "text": "\n- ",
+      "char_start": 10974,
+      "char_end": 11014,
+      "text": "\n\n# 6. Schulung & Kompetenzentwicklung\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 10727,
-      "char_end": 10866,
-      "text": "Wird ein KI-System nur in geringem Umfang genutzt (z. B. zur Einholung von Formulierungsvorschlägen), ist keine Kennzeichnung erforderlich.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 11014,
+      "char_end": 11200,
+      "text": "- Die Universität bietet kontinuierlich Weiterbildungen zur sicheren und vertrauensvollen Nutzung von KI-Systemen an und hält dafür Schulungen in einem asynchron nutzbaren Format bereit.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
       "segment_id": 38,
       "match_type": "exact"
     },
     {
-      "char_start": 10866,
-      "char_end": 10869,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 10869,
-      "char_end": 11033,
-      "text": "Eine Kennzeichnung muss erfolgen, wenn KI-generierte Inhalte direkt weiterverwendet werden, etwa für Webseiten, offizielle Schreiben oder andere Veröffentlichungen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 11201,
+      "char_end": 11381,
+      "text": "- Die Sensibilisierung für potenzielle Verzerrungen („Bias“), Diskriminierungen und sogenannte Halluzinationen bei KI-generierten Inhalten ist fester Bestandteil dieser Schulungen.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
       "segment_id": 39,
       "match_type": "exact"
     },
     {
-      "char_start": 11033,
-      "char_end": 11036,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 11036,
-      "char_end": 11274,
-      "text": "Wenn KI-Systeme zur Beantwortung von Anfragen eingesetzt werden – etwa im Kontakt mit Studierenden oder mit externen Personen – muss dies klar zu erkennen sein. Das gleiche gilt für den Einsatz von KI-Systemen in Lern-Management-Systemen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 11382,
+      "char_end": 11577,
+      "text": "- Die Schulungen beinhalten auch Hinweise auf nachhaltige und digital-souveräne Nutzung von KI-Systemen, z. B. durch bevorzugte Verwendung europäischer Anbieter oder ressourcenschonender Systeme.",
+      "B": "B10",
+      "B_label": "training/support/learning resources",
       "segment_id": 40,
       "match_type": "exact"
     },
     {
-      "char_start": 11274,
-      "char_end": 11313,
-      "text": "\n\n6. Schulung & Kompetenzentwicklung\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 11313,
-      "char_end": 11497,
-      "text": "Die Universität bietet kontinuierlich Weiterbildungen zur sicheren und vertrauensvollen Nutzung von KI-Systemen an und hält dafür Schulungen in einem asynchron nutzbaren Format bereit.",
+      "char_start": 11578,
+      "char_end": 11805,
+      "text": "- Beschäftigte sind verpflichtet, sich vor der dienstlichen Nutzung eines KI-Systems über die sichere und vertrauensvolle Nutzung, die rechtlichen Rahmenbedingungen sowie die Risiken beim Einsatz von KI-Systemen zu informieren.",
       "B": "B10",
       "B_label": "training/support/learning resources",
       "segment_id": 41,
       "match_type": "exact"
     },
     {
-      "char_start": 11497,
-      "char_end": 11500,
-      "text": "\n- ",
+      "char_start": 11805,
+      "char_end": 11840,
+      "text": "\n\n# 7. Governance & Verantwortung\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 11500,
-      "char_end": 11678,
-      "text": "Die Sensibilisierung für potenzielle Verzerrungen („Bias\"), Diskriminierungen und sogenannte Halluzinationen bei KI-generierten Inhalten ist fester Bestandteil dieser Schulungen.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 11840,
+      "char_end": 12047,
+      "text": "- Die Letztverantwortung für die richtlinienkonforme Nutzung von KI liegt bei den jeweils nutzenden Beschäftigten bzw. deren Vorgesetzten oder übergeordneten Stellen, wenn diese die Nutzung angewiesen haben.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
       "segment_id": 42,
       "match_type": "exact"
     },
     {
-      "char_start": 11678,
-      "char_end": 11681,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 11681,
-      "char_end": 11874,
-      "text": "Die Schulungen beinhalten auch Hinweise auf nachhaltige und digital-souveräne Nutzung von KI-Systemen, z. B. durch bevorzugte Verwendung europäischer Anbieter oder ressourcenschonender Systeme.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 12048,
+      "char_end": 12330,
+      "text": "- Das Rektorat benennt eine Ansprechperson im Prorektorat IT („KI-Referent*in“) für Richtlinien, Schulungen der Beschäftigten zu ethischen Standards und Compliance-Anforderungen sowie die Durchführung von Audits und Risikobewertungen im Zusammenhang mit der Nutzung von KI-Systemen.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
       "segment_id": 43,
       "match_type": "exact"
     },
     {
-      "char_start": 11874,
-      "char_end": 11877,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 11877,
-      "char_end": 12102,
-      "text": "Beschäftigte sind verpflichtet, sich vor der dienstlichen Nutzung eines KI-Systems über die sichere und vertrauensvolle Nutzung, die rechtlichen Rahmenbedingungen sowie die Risiken beim Einsatz von KI-Systemen zu informieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 12331,
+      "char_end": 12525,
+      "text": "- In der „Whitelist für die unterschiedlichen Typen von KI-Systemen“, einem zusätzlichen Dokument, welches laufend aktualisiert wird, werden die vom Rektorat freigegebenen KI-Systeme aufgeführt.",
+      "B": "B8",
+      "B_label": "roles/accountability/oversight/escalation",
       "segment_id": 44,
       "match_type": "exact"
     },
     {
-      "char_start": 12102,
-      "char_end": 12136,
-      "text": "\n\n7. Governance & Verantwortung\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 12136,
-      "char_end": 12341,
-      "text": "Die Letztverantwortung für die richtlinienkonforme Nutzung von KI liegt bei den jeweils nutzenden Beschäftigten bzw. deren Vorgesetzten oder übergeordneten Stellen, wenn diese die Nutzung angewiesen haben.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 12526,
+      "char_end": 12750,
+      "text": "- Die Freigabe eines neuen KI-Systems erfordert die Einbeziehung des KI-Referenten/der KI-Referentin, der Datenschutzstelle, dem Datenschutzbeauftragten/der Datenschutzbeauftragten und der Stabsstelle Informationssicherheit.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 45,
       "match_type": "exact"
     },
     {
-      "char_start": 12341,
-      "char_end": 12344,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 12344,
-      "char_end": 12624,
-      "text": "Das Rektorat benennt eine Ansprechperson im Prorektorat IT („KI-Referent*in“) für Richtlinien, Schulungen der Beschäftigten zu ethischen Standards und Compliance-Anforderungen sowie die Durchführung von Audits und Risikobewertungen im Zusammenhang mit der Nutzung von KI-Systemen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 12751,
+      "char_end": 12999,
+      "text": "- Vor der dienstlichen Nutzung neuer KI-Systeme, d. h. KI-Systeme, die nicht bereits vom Rektorat freigegeben wurden, ist für Informationen der Vertraulichkeitsklasse C2 und höher eine Prüfung durch den KI-Referenten/die KI-Referentin erforderlich.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 46,
       "match_type": "exact"
     },
     {
-      "char_start": 12624,
-      "char_end": 12627,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 12627,
-      "char_end": 12819,
-      "text": "In der „Whitelist für die unterschiedlichen Typen von KI-Systemen“, einem zusätzlichen Dokument, welches laufend aktualisiert wird, werden die vom Rektorat freigegebenen KI-Systeme aufgeführt.",
+      "char_start": 13000,
+      "char_end": 13385,
+      "text": "- Die Leitungen von Verwaltungseinheiten, zentralen Einrichtungen sowie von wissenschaftlichen Organisationseinheiten (z. B. Institutsleitungen, Projektleitungen) tragen die Verantwortung für die Einhaltung dieser Richtlinie innerhalb ihres jeweiligen Zuständigkeitsbereichs. Sie vergeben außerdem Freigaben für die Eingabe von Informationen ab Vertraulichkeitsklasse C3 in KI-Systeme.",
       "B": "B8",
       "B_label": "roles/accountability/oversight/escalation",
       "segment_id": 47,
       "match_type": "exact"
     },
     {
-      "char_start": 12819,
-      "char_end": 12822,
-      "text": "\n- ",
+      "char_start": 13385,
+      "char_end": 13444,
+      "text": "\n\n## Ergänzende Hinweise zur EU-KI-Verordnung (EU-AI Act)\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 12822,
-      "char_end": 13044,
-      "text": "Die Freigabe eines neuen KI-Systems erfordert die Einbeziehung des KI-Referenten/der KI-Referentin, der Datenschutzstelle, dem Datenschutzbeauftragten/der Datenschutzbeauftragten und der Stabsstelle Informationssicherheit.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 13444,
+      "char_end": 13794,
+      "text": "- Im Rahmen der EU-Verordnung über Künstliche Intelligenz (EU-AI Act) ist insbesondere auf Hochrisiko-KI-Systeme zu achten. Das sind Systeme, die etwa zur automatisierten Bewertung von Bewerbungen und Prüfungsleistungen oder zur Entscheidung über die Vergabe eines Studienplatzes eingesetzt werden. Sie unterliegen strengen rechtlichen Anforderungen.",
+      "B": "B9",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 48,
       "match_type": "exact"
     },
     {
-      "char_start": 13044,
-      "char_end": 13047,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 13047,
-      "char_end": 13293,
-      "text": "Vor der dienstlichen Nutzung neuer KI-Systeme, d. h. KI-Systeme, die nicht bereits vom Rektorat freigegeben wurden, ist für Informationen der Vertraulichkeitsklasse C2 und höher eine Prüfung durch den KI-Referenten/die KI-Referentin erforderlich.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 13795,
+      "char_end": 13869,
+      "text": "- Die Universität Stuttgart setzt aktuell keine Hochrisiko-KI-Systeme ein.",
+      "B": "B6",
+      "B_label": "restricted or prohibited uses",
       "segment_id": 49,
       "match_type": "exact"
     },
     {
-      "char_start": 13293,
-      "char_end": 13296,
-      "text": "\n- ",
+      "char_start": 13869,
+      "char_end": 14237,
+      "text": " Sollte ein solches System eingeführt werden, ist vor der Nutzung eine Prüfung durch das Rektorat erforderlich, eingesteuert durch den/die Chief Information Officer und beraten durch den KI-Referenten/die KI-Referentin, die Datenschutzstelle, den Datenschutzbeauftragten/die Datenschutzbeauftragte, die Stabsstelle Informationssicherheit und ggf. die Ethikkommission.\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 13296,
-      "char_end": 13679,
-      "text": "Die Leitungen von Verwaltungseinheiten, zentralen Einrichtungen sowie von wissenschaftlichen Organisationseinheiten (z. B. Institutsleitungen, Projektleitungen) tragen die Verantwortung für die Einhaltung dieser Richtlinie innerhalb ihres jeweiligen Zuständigkeitsbereichs. Sie vergeben außerdem Freigaben für die Eingabe von Informationen ab Vertraulichkeitsklasse C3 in KI-Systeme.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 50,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 13679,
-      "char_end": 13736,
-      "text": "\n\nErgänzende Hinweise zur EU-KI-Verordnung (EU-AI Act)\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 13736,
-      "char_end": 14084,
-      "text": "Im Rahmen der EU-Verordnung über Künstliche Intelligenz (EU-AI Act) ist insbesondere auf Hochrisiko-KI-Systeme zu achten. Das sind Systeme, die etwa zur automatisierten Bewertung von Bewerbungen und Prüfungsleistungen oder zur Entscheidung über die Vergabe eines Studienplatzes eingesetzt werden. Sie unterliegen strengen rechtlichen Anforderungen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 14237,
+      "char_end": 14430,
+      "text": "- Für generative KI-Systeme (z. B. Chatbots, Bildgeneratoren) gelten die Transparenzpflichten der EU-KI-Verordnung – diese sind durch die Kennzeichnungspflichten in dieser Richtlinie abgedeckt.",
+      "B": "B7",
+      "B_label": "required safeguards/procedures",
       "segment_id": 51,
       "match_type": "exact"
     },
     {
-      "char_start": 14084,
-      "char_end": 14087,
-      "text": "\n- ",
+      "char_start": 14430,
+      "char_end": 14467,
+      "text": "\n\n# 8. Weiterentwicklung & Feedback\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 14087,
-      "char_end": 14159,
-      "text": "Die Universität Stuttgart setzt aktuell keine Hochrisiko-KI-Systeme ein.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 14467,
+      "char_end": 14565,
+      "text": "- Das Rektorat wird diese Richtlinie mindestens einmal im Jahr überprüfen und bei Bedarf anpassen.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
       "segment_id": 52,
       "match_type": "exact"
     },
     {
-      "char_start": 14160,
-      "char_end": 14526,
-      "text": "Sollte ein solches System eingeführt werden, ist vor der Nutzung eine Prüfung durch das Rektorat erforderlich, eingesteuert durch den/die Chief Information Officer und beraten durch den KI-Referenten/die KI-Referentin, die Datenschutzstelle, den Datenschutzbeauftragten/die Datenschutzbeauftragte, die Stabsstelle Informationssicherheit und ggf. die Ethikkommission.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 14566,
+      "char_end": 14715,
+      "text": "- Vorschläge, Anwendungsbeispiele oder Fragen zur Weiterentwicklung der Richtlinie können an die E-Mail-Adresse ki@uni-stuttgart.de gerichtet werden.",
+      "B": "B11",
+      "B_label": "monitoring/revision/updating",
       "segment_id": 53,
       "match_type": "exact"
     },
     {
-      "char_start": 14526,
-      "char_end": 14529,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 14529,
-      "char_end": 14720,
-      "text": "Für generative KI-Systeme (z. B. Chatbots, Bildgeneratoren) gelten die Transparenzpflichten der EU-KI-Verordnung – diese sind durch die Kennzeichnungspflichten in dieser Richtlinie abgedeckt.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 54,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14720,
-      "char_end": 14756,
-      "text": "\n\n8. Weiterentwicklung & Feedback\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 14756,
-      "char_end": 14852,
-      "text": "Das Rektorat wird diese Richtlinie mindestens einmal im Jahr überprüfen und bei Bedarf anpassen.",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 55,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14852,
-      "char_end": 14855,
-      "text": "\n- ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 14855,
-      "char_end": 15002,
-      "text": "Vorschläge, Anwendungsbeispiele oder Fragen zur Weiterentwicklung der Richtlinie können an die E-Mail-Adresse ki@uni-stuttgart.de gerichtet werden.",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 56,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 15004,
-      "char_end": 15115,
-      "text": "Gültigkeit: Version 1.0, Stand Oktober 2025\nVerantwortlich: KI-Referent/in, Prorektorat Informationstechnologie",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 59,
+      "char_start": 14717,
+      "char_end": 14829,
+      "text": "Gültigkeit: Version 1.0, Stand Oktober 2025\n\nVerantwortlich: KI-Referent/in, Prorektorat Informationstechnologie",
+      "B": "B3",
+      "B_label": "purpose/rationale/document status",
+      "segment_id": 60,
       "match_type": "exact"
     }
   ]
