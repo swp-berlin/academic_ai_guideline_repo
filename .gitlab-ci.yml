@@ -11,7 +11,9 @@ build-archive:
     - if: $CI_COMMIT_TAG
   script:
     - tar -czf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" web/
-    - echo "JOB_ID=$CI_JOB_ID" >> build.env
+    - touch "tag-${CI_COMMIT_TAG}"
+    - tar -rf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" "tag-${CI_COMMIT_TAG}"
+    #- echo "JOB_ID=$CI_JOB_ID" >> build.env
   artifacts:
     name: "${PACKAGE_NAME}.${CI_COMMIT_TAG}"
     paths:
