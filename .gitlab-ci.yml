@@ -10,9 +10,9 @@ build-archive:
   rules:
     - if: $CI_COMMIT_TAG
   script:
+    - touch "web/tag-${CI_COMMIT_TAG}"
     - tar -czf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" web/
-    - touch "tag-${CI_COMMIT_TAG}"
-    - tar -rf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" "tag-${CI_COMMIT_TAG}"
+    #- tar -rf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" "tag-${CI_COMMIT_TAG}"
     #- echo "JOB_ID=$CI_JOB_ID" >> build.env
   artifacts:
     name: "${PACKAGE_NAME}.${CI_COMMIT_TAG}"
