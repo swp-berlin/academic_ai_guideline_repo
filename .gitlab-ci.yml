@@ -27,6 +27,7 @@ release-job:
     - if: $CI_COMMIT_TAG
   before_script:
     - glab config set host swp-git.swp-berlin.intern
+    - glab auth login --token $CI_JOB_TOKEN
   script:
     - glab release create "$CI_COMMIT_TAG" "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" --name "Release $CI_COMMIT_TAG" --notes "Release created from tag $CI_COMMIT_TAG"
   dependencies:
