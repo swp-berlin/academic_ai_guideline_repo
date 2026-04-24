@@ -27,17 +27,19 @@ OUTPUTS_DIR = ROOT / "outputs"
 
 
 B_CODEBOOK = {
-    "B1": "definitions/terminology",
-    "B2": "scope/application",
-    "B3": "purpose/rationale/document status",
-    "B4": "principles/values",
-    "B5": "permitted or encouraged uses",
-    "B6": "restricted or prohibited uses",
-    "B7": "required safeguards/procedures",
-    "B8": "roles/accountability/oversight",
-    "B9": "risks/limitations/concerns",
-    "B10": "training/support/learning",
-    "B11": "monitoring/revision/updating",
+    "B1": "definition of AI",
+    "B2": "other definitions/terminology",
+    "B3": "scope/application of the document",
+    "B4": "purpose/rationale (why a guideline)/document status",
+    "B5": "principles/values underlying document or AI use",
+    "B6": "permitted or encouraged uses of AI",
+    "B7": "restricted or prohibited uses of AI",
+    "B8": "required safeguards/procedures for AI",
+    "B9": "roles/accountability/oversight",
+    "B10": "risks/limitations/concerns",
+    "B11": "training/support/learning resources",
+    "B12": "monitoring/revision/updating",
+    "B13": "other/not coded/metadata",
 }
 
 
@@ -63,12 +65,20 @@ def main() -> int:
         with open(coding_path, encoding="utf-8") as f:
             coding = json.load(f)
 
-        segments = coding.get("segments", [])
+        validation = coding.get("validation", None)
+        unmatched_ids = {
+            unmatched["id"]
+            for unmatched in (validation or {}).get("unmatched", [])
+            if "id" in unmatched
+        }
+        segments = [
+            seg
+            for seg in coding.get("segments", [])
+            if seg.get("id") not in unmatched_ids
+        ]
         if not segments:
             skipped += 1
             continue
-
-        validation = coding.get("validation", None)
 
         docs.append({
             "doc_id": slug,
