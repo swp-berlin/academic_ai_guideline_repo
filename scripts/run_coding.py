@@ -235,7 +235,7 @@ def call_mistral(
             {"role": "user", "content": prompt},
         ],
         "temperature": temperature,
-        "max_tokens": 64_768,
+        "max_tokens": 128_768,
         "response_format": {"type": "json_object"},
     }
 
@@ -772,7 +772,7 @@ def main() -> int:
     print(f"Model: {model}")
     print(f"Files: {len(files)}")
 
-    with httpx.Client(timeout=1800.0) as client:
+    with httpx.Client(timeout=6400.0) as client:
         for i, text_path in enumerate(files):
             try:
                 process_file(
