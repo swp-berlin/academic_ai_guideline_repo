@@ -3,151 +3,381 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Systeme „Künstlicher Intelligenz“ (KI) entwickeln sich dynamisch und haben in unterschiedlichem Umfang Einzug in die wissenschaftliche Praxis gehalten. Sie beeinflussen wissenschaftliches Arbeiten voraussichtlich langfristig und tiefgreifend. Die Erprobung und Ausschöpfung der Potenziale ebenso wie die Steuerung der Risiken von KI-Systemen erfordern deshalb eine stete Begleitung und kritische Prüfung auch im Hinblick auf die Regeln der wissenschaftlichen Integrität. Hierbei gilt es, etablierte Standards auch in neuen Wissenschaftspraktiken zu wahren."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Systeme „Künstlicher Intelligenz“ (KI) entwickeln sich dynamisch und haben in unterschiedlichem Umfang Einzug in die wissenschaftliche Praxis gehalten. Sie beeinflussen wissenschaftliches Arbeiten voraussichtlich langfristig und tiefgreifend. Die Erprobung und Ausschöpfung der Potenziale ebenso wie die Steuerung der Risiken von KI-Systemen erfordern deshalb eine stete Begleitung und kritische Prüfung auch im Hinblick auf die Regeln der wissenschaftlichen Integrität. Hierbei gilt es, etablierte Standards auch in neuen Wissenschaftspraktiken zu wahren.",
+      "repaired": false
     },
     {
       "id": 2,
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Mit KI-Systemen sind in der folgenden Empfehlung Systeme generativer KI gemeint. Dies schließt insbesondere unterschiedliche Nutzungsweisen von Large Language Model-basierten Anwendungen, vorrangig der Text- und Codegenerierung, sowie deren Nutzung als Recherche- und Sprachbearbeitungsinstrumente ein, aber auch KI-Anwendungen zur Bildgenerierung und Datenanalyse."
+      "B_label": "definition of AI",
+      "text": "Mit KI-Systemen sind in der folgenden Empfehlung Systeme generativer KI gemeint. Dies schließt insbesondere unterschiedliche Nutzungsweisen von Large Language Model-basierten Anwendungen, vorrangig der Text- und Codegenerierung, sowie deren Nutzung als Recherche- und Sprachbearbeitungsinstrumente ein, aber auch KI-Anwendungen zur Bildgenerierung und Datenanalyse.",
+      "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Auf Vorschlag des Leibniz-Ombudsgremiums und beschlossen durch das Präsidium der Leibniz-Gemeinschaft soll die hier vorliegende Empfehlung den Wissenschaftlerinnen und Wissenschaftlern in der Leibniz-Gemeinschaft als Orientierungshilfe bei der Nutzung von generativen KI-Systemen im Forschungsalltag dienen. Zudem möchte sie den Austausch über die konkrete Ausgestaltung und Weiterentwicklung der wissenschaftsadäquaten Nutzung von KI-Systemen in fachspezifischer Perspektive innerhalb der und zwischen den Einrichtungen der Leibniz-Gemeinschaft, aber auch darüber hinaus, anregen und mitgestalten."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Auf Vorschlag des Leibniz-Ombudsgremiums und beschlossen durch das Präsidium der Leibniz-Gemeinschaft soll die hier vorliegende Empfehlung den Wissenschaftlerinnen und Wissenschaftlern in der Leibniz-Gemeinschaft als Orientierungshilfe bei der Nutzung von generativen KI-Systemen im Forschungsalltag dienen. Zudem möchte sie den Austausch über die konkrete Ausgestaltung und Weiterentwicklung der wissenschaftsadäquaten Nutzung von KI-Systemen in fachspezifischer Perspektive innerhalb der und zwischen den Einrichtungen der Leibniz-Gemeinschaft, aber auch darüber hinaus, anregen und mitgestalten.",
+      "repaired": false
     },
     {
       "id": 4,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "# Empfehlungen an die Wissenschaftlerinnen und Wissenschaftler in der Leibniz-Gemeinschaft"
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Verantwortung: Die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis gelten uneingeschränkt auch dann, wenn im Forschungsprozess sowie bei der Projektierung und Beantragung von Forschungsvorhaben KI-Systeme zur Anwendung gelangen. KI-Systeme können dabei lediglich unterstützende Instrumente sein. Ihre Resultate haben als solche keine wissenschaftliche Validität und sind kein Ersatz für authentische Erkenntnis- und Entscheidungsprozesse. Die Nutzung von KI-Systemen mindert deswegen nicht die Verantwortung von Wissenschaftlerinnen und Wissenschaftlern. Ihnen obliegt die Sicherstellung der Einhaltung der wissenschaftlichen Standards, wozu auch die Reflexion über einen methodologisch und inhaltlich sinnvollen Einsatz von KI-Systemen gehört. Der mit einer wissenschaftlichen Autorschaft an Forschungsarbeiten und -ergebnissen möglicherweise verbundene Reputationsgewinn kann nur auf dieser Verantwortung beruhen.",
+      "repaired": false
     },
     {
       "id": 5,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "1. Verantwortung: Die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis gelten uneingeschränkt auch dann, wenn im Forschungsprozess sowie bei der Projektierung und Beantragung von Forschungsvorhaben KI-Systeme zur Anwendung gelangen. KI-Systeme können dabei lediglich unterstützende Instrumente sein. Ihre Resultate haben als solche keine wissenschaftliche Validität und sind kein Ersatz für authentische Erkenntnis- und Entscheidungsprozesse. Die Nutzung von KI-Systemen mindert deswegen nicht die Verantwortung von Wissenschaftlerinnen und Wissenschaftlern. Ihnen obliegt die Sicherstellung der Einhaltung der wissenschaftlichen Standards, wozu auch die Reflexion über einen methodologisch und inhaltlich sinnvollen Einsatz von KI-Systemen gehört. Der mit einer wissenschaftlichen Autorschaft an Forschungsarbeiten und -ergebnissen möglicherweise verbundene Reputationsgewinn kann nur auf dieser Verantwortung beruhen."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Systeme erfüllen nicht die Kriterien wissenschaftlicher Autorschaft. Diese beruht auf einer nicht übertragbaren Verantwortung für Korrektheit, Adäquanz und Nachvollziehbarkeit aller Angaben in Veröffentlichungen und Anträgen.",
+      "repaired": false
     },
     {
       "id": 6,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "2. **Autorschaft**: KI-Systeme erfüllen nicht die Kriterien wissenschaftlicher Autorschaft. Diese beruht auf einer nicht übertragbaren Verantwortung für Korrektheit, Adäquanz und Nachvollziehbarkeit aller Angaben in Veröffentlichungen und Anträgen. Daraus folgt die Verpflichtung wissenschaftlicher Autorinnen und Autoren, Auswahl und Einsatz von KI-Systemen so vorzunehmen, dass ihnen und anderen eine möglichst weitgehende Überprüfung der durch die KI generierten Resultate möglich wird. Das Ausmaß der Verwendung von KI sollte in Bezug zum Grad der Nachvollziehbarkeit stehen. Darüber hinaus empfiehlt sich eine frühzeitige Berücksichtigung der Vorgaben des avisierten Publikationsorganes bzw. der adressierten Forschungsförderorganisation bezüglich der Nutzung von KI-Systemen. Bei gemeinsamen Veröffentlichungen sollte eine klare Abstimmung hinsichtlich Art und Umfang der Anwendung von KI-Systemen unter allen Autorinnen und Autoren erfolgen und dokumentiert werden. Die Nutzung von KI-Systemen zur Generierung oder Manipulation von Realbildern verschiedener Art wie Fotografien, Mikroskopiebildern, Röntgen-, CT-, MRT- und nuklearmedizinischen Bildern, Western-Blots- und Zellkultur-Abbildungen, Fluoreszenzbildern sowie Spektral-, Teleskop-, Luft- und Satellitenaufnahmen u.ä. ist unzulässig."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daraus folgt die Verpflichtung wissenschaftlicher Autorinnen und Autoren, Auswahl und Einsatz von KI-Systemen so vorzunehmen, dass ihnen und anderen eine möglichst weitgehende Überprüfung der durch die KI generierten Resultate möglich wird. Das Ausmaß der Verwendung von KI sollte in Bezug zum Grad der Nachvollziehbarkeit stehen.",
+      "repaired": false
     },
     {
       "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "3. **Nachweise und Zitationsregeln**: Die Nutzung von KI-Anwendungen im Forschungsprozess unterliegt den etablierten Nachweisanforderungen der guten wissenschaftlichen Praxis. Sie muss immer offengelegt werden. Eine solche Offenlegung sollte in der Regel mindestens eine klare Nennung der mit Hilfe von KI erstellten oder bearbeiteten Inhalte unter Angabe der genutzten Software inklusive Eigentümer, Version sowie eine vollständige Dokumentation der verwendeten Prompts mit Datierung umfassen. Die Verwendung von Prompt-engineering-tools ist ebenso nachzuweisen. Beispiele hierfür finden sich im Anhang zu dieser Empfehlung. Bei großflächigem KI-Einsatz bspw. zur Verbesserung der Lesbarkeit eines Textes sowie bei der Nutzung von KI in der Phase der Ideen- und Hypothesenentwicklung wird eine entsprechende Erwähnung im Rahmen der Beschreibung der zum Einsatz gekommenen Methoden oder an anderer geeigneter Stelle empfohlen."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Darüber hinaus empfiehlt sich eine frühzeitige Berücksichtigung der Vorgaben des avisierten Publikationsorganes bzw. der adressierten Forschungsförderorganisation bezüglich der Nutzung von KI-Systemen.",
+      "repaired": false
     },
     {
       "id": 8,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "4. Begutachtungen: Der Umgang mit unveröffentlichten Forschungsergebnissen und Forschungsdaten sowie mit Förder- und Projektanträgen Dritter ist mit hoher Verantwortung verbunden und bedarf besonderer Umsicht. Eine Eingabe in und Bearbeitung solcher Daten mit KI-Systemen – bspw. in Begutachtungs- und Peer-review-Prozessen – ist unzulässig, solange diesem Vorgehen datenschutz- und urheberrechtliche Bedenken entgegenstehen. Hinzu kommen im Rahmen von Gutachtertätigkeiten weitere Sorgfalts- und Vertraulichkeitsanforderungen, u.a. aufgrund der damit oftmals verbundenen Karriererelevanz für Dritte. Die Verantwortung für Bewertungen in Begutachtungsprozessen muss ungemindert bei den Gutachterinnen und Gutachtern verbleiben. Wie im Forschungsprozess können KI-Anwendungen hierbei nur unterstützende Funktionen einnehmen. Gutachterinnen und Gutachter sowie Herausgeberinnen und Herausgeber sollten zudem bei Unklarheiten über die Art und Intensität der Verwendung von KI-Systemen in den ihnen vorgelegten Anträgen oder Forschungsergebnissen auf Klärung oder Nachbesserung bestehen."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei gemeinsamen Veröffentlichungen sollte eine klare Abstimmung hinsichtlich Art und Umfang der Anwendung von KI-Systemen unter allen Autorinnen und Autoren erfolgen und dokumentiert werden.",
+      "repaired": false
     },
     {
       "id": 9,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "5. Beachtung von Rechtskontexten: Die Dynamik der Rechtsprechung sowie die Entwicklung der Vorgaben und Leitlinien von Publikationsorganen und Forschungsförderorganisationen bezüglich der Nutzung von KI-Systemen erfordert aufmerksame Beobachtung. Grundsätzlich ist von einer Nutzung von KI-Systemen immer abzusehen, wenn dabei die Gefahr der unbefugten Weitergabe von persönlichen oder sensiblen Daten, von Geschäftsgeheimnissen oder von Informationen, die einer Geheimhaltungspflicht unterliegen, besteht oder eine Verletzung von Urheberrechten droht. Die konkret möglichen Anwendungsbereiche für – insbesondere proprietäre – KI-Systeme in der wissenschaftlichen Arbeit stehen in enger Abhängigkeit von den jeweiligen Nutzungsbedingungen und dem geltenden rechtlichen Rahmen."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Nutzung von KI-Systemen zur Generierung oder Manipulation von Realbildern verschiedener Art wie Fotografien, Mikroskopiebildern, Röntgen-, CT-, MRT- und nuklearmedizinischen Bildern, Western-Blots- und Zellkultur-Abbildungen, Fluoreszenzbildern sowie Spektral-, Teleskop-, Luft- und Satellitenaufnahmen u.ä. ist unzulässig.",
+      "repaired": false
     },
     {
       "id": 10,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "6. Forschungsethik: Die Einhaltung forschungsethischer Standards ist auch bei der Nutzung von KI-Systemen zu gewährleisten. Resultate aus KI-Systemen dürfen nicht an die Stelle von ethischen Reflexionsprozessen und verantwortungsvoller Entscheidungsfindung durch Wissenschaftlerinnen und Wissenschaftler treten. Diskriminierungs-, Verfälschungs- und Halluzinationseffekte und ihre Verstärkung, die sich u.a. aus den Trainingsdaten und der Funktionsweise der KI-Anwendungen ergeben, erfordern eine besondere Aufmerksamkeit. Zudem sollte der insgesamt ressourcenintensive Einsatz von KI aus Gründen der Nachhaltigkeit auch im Forschungskontext stets mit Augenmaß erfolgen."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nachweise und Zitationsregeln: Die Nutzung von KI-Anwendungen im Forschungsprozess unterliegt den etablierten Nachweisanforderungen der guten wissenschaftlichen Praxis. Sie muss immer offengelegt werden. Eine solche Offenlegung sollte in der Regel mindestens eine klare Nennung der mit Hilfe von KI erstellten oder bearbeiteten Inhalte unter Angabe der genutzten Software inklusive Eigentümer, Version sowie eine vollständige Dokumentation der verwendeten Prompts mit Datierung umfassen. Die Verwendung von Prompt-engineering-tools ist ebenso nachzuweisen. Beispiele hierfür finden sich im Anhang zu dieser Empfehlung.",
+      "repaired": false
     },
     {
       "id": 11,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "## Empfehlungen an die Einrichtungen der Leibniz-Gemeinschaft"
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei großflächigem KI-Einsatz bspw. zur Verbesserung der Lesbarkeit eines Textes sowie bei der Nutzung von KI in der Phase der Ideen- und Hypothesenentwicklung wird eine entsprechende Erwähnung im Rahmen der Beschreibung der zum Einsatz gekommenen Methoden oder an anderer geeigneter Stelle empfohlen.",
+      "repaired": false
     },
     {
       "id": 12,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "7. Einrichtungsinterne Reflexionsprozesse und Kompetenzaufbau: Angesichts der Dynamik der Entwicklung und Verbreitung von KI-Systemen wird den Leibniz-Einrichtungen empfohlen, interne Reflexionsprozesse zur Nutzung von KI im Forschungsprozess und den Aufbau notwendiger Kompetenzen strukturiert zu fördern und institutsübergreifend Verantwortlichkeiten zu definieren. Hierbei sollten vor allem die forschungsethischen Implikationen des Einsatzes von KI, die möglichen Folgen für die epistemische Situation des Wissenschaftlers und Autors und – disziplin- und fachabhängig – der Stellenwert von Text thematisiert und vor dem Hintergrund der Institutsstrategie und -kultur diskutiert werden. Die Herstellung institutsübergreifender Transparenz über den Einsatz von KI-Systemen sollte dabei zu den Zielen gehören. Der Aufbau von Kompetenzen zur informierten und umsichtigen Nutzung von KI sollte für alle Wissenschaftlerinnen und Wissenschaftler der Leibniz-Einrichtungen in geeigneten Formaten und unter Hinzuziehung von interner oder externer Expertise gefördert werden. Einrichtungsinterne Verpflichtungen zum Einsatz von KI-Systemen sind abzulehnen, es sei denn, diese selbst sind Gegenstand oder lege artis Teil der Vorgehensweise von Forschung."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Begutachtungen: Der Umgang mit unveröffentlichten Forschungsergebnissen und Forschungsdaten sowie mit Förder- und Projektanträgen Dritter ist mit hoher Verantwortung verbunden und bedarf besonderer Umsicht. Eine Eingabe in und Bearbeitung solcher Daten mit KI-Systemen – bspw. in Begutachtungs- und Peer-review-Prozessen – ist unzulässig, solange diesem Vorgehen datenschutz- und urheberrechtliche Bedenken entgegenstehen.",
+      "repaired": false
     },
     {
       "id": 13,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "8. Aufgaben der Ombudspersonen: Die Ombudspersonen der Leibniz-Einrichtungen werden gebeten, die hier formulierten Empfehlungen einrichtungsspezifisch zu reflektieren, ihre Umsetzung zu begleiten und zu ihrer Weiterentwicklung beizutragen. Eventuelle Verstöße gegen die Regeln der guten wissenschaftlichen Praxis im Zusammenhang mit der Verwendung von KI-Systemen sind entsprechend den geltenden Regelungen zu behandeln. Den Ombudspersonen wird empfohlen, sich an der allgemeinen Debatte um die Weiterentwicklung der Standards der guten wissenschaftlichen Praxis im Hinblick auf den Einsatz von KI-Systemen zu beteiligen."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Hinzu kommen im Rahmen von Gutachtertätigkeiten weitere Sorgfalts- und Vertraulichkeitsanforderungen, u.a. aufgrund der damit oftmals verbundenen Karriererelevanz für Dritte.",
+      "repaired": false
     },
     {
       "id": 14,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "9. Beteiligung am Fachdiskurs: Den Mitgliedseinrichtungen der Leibniz-Gemeinschaft wird nachdrücklich empfohlen, sich an der jeweils fachspezifischen Diskussion über den Einsatz von KI zu beteiligen. Leibniz-Einrichtungen sollten ihre Expertise und ihre spezifischen Schwerpunkte in Forschung und Infrastruktur einbringen, um den jeweiligen fachlichen lege artis-Standard im Sinne einer bestmöglichen Sicherung wissenschaftlicher Integrität mitzuprägen."
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für Bewertungen in Begutachtungsprozessen muss ungemindert bei den Gutachterinnen und Gutachtern verbleiben. Wie im Forschungsprozess können KI-Anwendungen hierbei nur unterstützende Funktionen einnehmen.",
+      "repaired": false
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "10. Allgemeine Informationssicherheitshinweise: Leibniz-Einrichtungen, die in ihrem Forschungsfeld die Möglichkeit von regelmäßiger und den Anforderungen der wissenschaftlichen Integrität genügender Anwendung von KI-Systemen wahrnehmen, sollten die Etablierung einheitlicher, einrichtungsweiter Anwendungen in Abstimmung mit den zuständigen Beauftragten prüfen. Dabei wird empfohlen, dies mit einem forschungsbezogenen Qualitätssicherungsprozess zu begleiten."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Gutachterinnen und Gutachter sowie Herausgeberinnen und Herausgeber sollten zudem bei Unklarheiten über die Art und Intensität der Verwendung von KI-Systemen in den ihnen vorgelegten Anträgen oder Forschungsergebnissen auf Klärung oder Nachbesserung bestehen.",
+      "repaired": false
     },
     {
       "id": 16,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "### Empfehlungen zur Zitation bei der Nutzung generativer Sprachmodelle\n\nFür die gängigen Zitationsstile APA, Chicago und MLA existieren bereits Empfehlungen für die Zitierung von Ergebnissen sprachgenerierender KI in wissenschaftlichen Texten. Ausführliche Erläuterungen finden sich auf den entsprechenden Webseiten. Zentrale Angaben für die transparente Nutzung von KI sind in allen Zitationsstilen Angaben zum Eigentümer, zur Versionsnummer und Nutzungsdaten sowie Ausweisung der durch KI-Systeme bearbeiteten Passagen sowie der genutzten Prompts bzw. Chatverläufe."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Beachtung von Rechtskontexten: Die Dynamik der Rechtsprechung sowie die Entwicklung der Vorgaben und Leitlinien von Publikationsorganen und Forschungsförderorganisationen bezüglich der Nutzung von KI-Systemen erfordert aufmerksame Beobachtung.",
+      "repaired": false
     },
     {
       "id": 17,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Folgend finden sich zu allen drei Stilen Beispiele für wörtliche Zitate sowie bei MLA ein Beispiel für ein Bildzitat zur Orientierung:\n\n#### a. APA-Style: https://apastyle.apa.org/blog/how-to-cite-chatgpt\n\nEin Hinweis auf die Verwendung von KI-Systemen sollte je nach Textgenre im Methodenteil oder der Einleitung erfolgen. Prompts sollten in den Text aufgenommen werden. Bei umfangreicheren Chatverläufen wird die Dokumentation der In- und Outputs über die zitierten Passagen in einem Anhang empfohlen. Alternativ lassen sich längere Chatverläufe auch über https://sharegpt.com/ oder https://aiarchives.org/ verlinken und teilen.\n\n**Zitationsbeispiel:**\n\nWhen prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).\n\n**Referenzangabe im Literaturverzeichnis:**\n\nOpenAI. (2023). ChatGPT (Mar 14, version xy) [Large language model]. https://chat.openai.com/chat"
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Grundsätzlich ist von einer Nutzung von KI-Systemen immer abzusehen, wenn dabei die Gefahr der unbefugten Weitergabe von persönlichen oder sensiblen Daten, von Geschäftsgeheimnissen oder von Informationen, die einer Geheimhaltungspflicht unterliegen, besteht oder eine Verletzung von Urheberrechten droht.",
+      "repaired": false
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "#### b. Chicago-Style: https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html\n\nUm KI-Systeme in Literaturverzeichnisse aufnehmen zu können, wird nach Chicago-Style eine Verlinkung der vollständigen Chatverläufe bspw. über https://sharegpt.com/ oder https://aiarchives.org/ gefordert.\n\n**Zitationsbeispiel:**\n\nThe following recipe for pizza dough was generated by ChatGPT: „Ingredients: 3 cups all-purpose flour, 1 tsp salt, 1 tsp sugar, 2 1/4 tsp active dry yeast (or 1 packet), 1 cup warm water (about 110°F or 43°C), 2 tbsp olive oil [...]“\n\n**Referenzangabe im Literaturverzeichnis:**\n\nA. Fuß- bzw. Endnote: 1. ChatGPT, response to “Explain how to make pizza dough from common household ingredients,” OpenAI, March 7, 2023, version xy.\nB. Im Text-Angabe: „xxx“ (ChatGPT, March 7, 2023, version xy)."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die konkret möglichen Anwendungsbereiche für – insbesondere proprietäre – KI-Systeme in der wissenschaftlichen Arbeit stehen in enger Abhängigkeit von den jeweiligen Nutzungsbedingungen und dem geltenden rechtlichen Rahmen.",
+      "repaired": false
     },
     {
       "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "#### c. MLA-Style: https://style.mla.org/citing-generative-ai/\n\nAuch im MLA-Style wird die Nutzung individueller Verlinkungen von Chatverläufen zur Dokumentation des Beitrags von KI-Systemen gefordert.\n\n**Zitationsbeispiel:**\n\nWhen asked to describe the symbolism of the green light in The Great Gatsby, ChatGPT provided a summary about optimism, the unattainability of the American dream, greed, and covetousness. However, when further prompted to cite the source on which that summary was based, it noted that it lacked “the ability to conduct research or cite sources independently” but that it could “provide a list of scholarly sources related to the symbolism of the green light in The Great Gatsby” (“In 200 words”).\n\n**Referenzangabe im Literaturverzeichnis:**\n\n“In 200 words, describe the symbolism of the green light in The Great Gatsby” follow-up prompt to list sources. ChatGPT, version xy, OpenAI, 9 Mar. 2023, chat.openai.com/chat.\n\n**Referenzangaben zu KI-generierten Bildern:**\n\nFig. 1. \"Pointillist painting of a sheep in a sunny field of blue flowers\" prompt, DALL-E, version 2, OpenAI, 8 Mar. 2023, labs.openai.com/."
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Forschungsethik: Die Einhaltung forschungsethischer Standards ist auch bei der Nutzung von KI-Systemen zu gewährleisten.",
+      "repaired": false
     },
     {
       "id": 20,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "¹ Siehe u. a. Leibniz-Gemeinschaft (2021): Leibniz-Kodex gute wissenschaftliche Praxis. URL: www.leibniz-gemeinschaft.de/kodex-gute-wissenschaftliche-praxis; Deutsche Forschungsgemeinschaft (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. URL: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-al-data.pdf; European Commission, Directorate-General for Research and Innovation (2024): Living guidelines on the responsible use of generative AI in research. URL: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf"
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Resultate aus KI-Systemen dürfen nicht an die Stelle von ethischen Reflexionsprozessen und verantwortungsvoller Entscheidungsfindung durch Wissenschaftlerinnen und Wissenschaftler treten.",
+      "repaired": false
     },
     {
       "id": 21,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "² Siehe auch Leibniz-Gemeinschaft (2023): Empfehlung zur Sicherung der guten wissenschaftlichen Praxis bei Koautorschaften. Präsidium der Leibniz-Gemeinschaft. URL: https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/%C3%9Cber_uns/Gute_wissenschaftliche_Praxis/Empfehlung_Koautorschaften.pdf"
+      "text": "Diskriminierungs-, Verfälschungs- und Halluzinationseffekte und ihre Verstärkung, die sich u.a. aus den Trainingsdaten und der Funktionsweise der KI-Anwendungen ergeben, erfordern eine besondere Aufmerksamkeit.",
+      "repaired": false
     },
     {
       "id": 22,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "³ Diese Aussage zielt nicht auf Forschung, die in Gegenstand oder Vorgehensweise lege artis entsprechende KI-Systeme verwendet."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem sollte der insgesamt ressourcenintensive Einsatz von KI aus Gründen der Nachhaltigkeit auch im Forschungskontext stets mit Augenmaß erfolgen.",
+      "repaired": false
     },
     {
       "id": 23,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "⁴ Die Ausführungen beziehen sich auf KI-Anwendungen im Sinne von generativen KI-Systemen."
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Einrichtungsinterne Reflexionsprozesse und Kompetenzaufbau: Angesichts der Dynamik der Entwicklung und Verbreitung von KI-Systemen wird den Leibniz-Einrichtungen empfohlen, interne Reflexionsprozesse zur Nutzung von KI im Forschungsprozess und den Aufbau notwendiger Kompetenzen strukturiert zu fördern und institutsübergreifend Verantwortlichkeiten zu definieren.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Hierbei sollten vor allem die forschungsethischen Implikationen des Einsatzes von KI, die möglichen Folgen für die epistemische Situation des Wissenschaftlers und Autors und – disziplin- und fachabhängig – der Stellenwert von Text thematisiert und vor dem Hintergrund der Institutsstrategie und -kultur diskutiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Herstellung institutsübergreifender Transparenz über den Einsatz von KI-Systemen sollte dabei zu den Zielen gehören.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Der Aufbau von Kompetenzen zur informierten und umsichtigen Nutzung von KI sollte für alle Wissenschaftlerinnen und Wissenschaftler der Leibniz-Einrichtungen in geeigneten Formaten und unter Hinzuziehung von interner oder externer Expertise gefördert werden.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Einrichtungsinterne Verpflichtungen zum Einsatz von KI-Systemen sind abzulehnen, es sei denn, diese selbst sind Gegenstand oder lege artis Teil der Vorgehensweise von Forschung.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Aufgaben der Ombudspersonen: Die Ombudspersonen der Leibniz-Einrichtungen werden gebeten, die hier formulierten Empfehlungen einrichtungsspezifisch zu reflektieren, ihre Umsetzung zu begleiten und zu ihrer Weiterentwicklung beizutragen.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eventuelle Verstöße gegen die Regeln der guten wissenschaftlichen Praxis im Zusammenhang mit der Verwendung von KI-Systemen sind entsprechend den geltenden Regelungen zu behandeln.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Den Ombudspersonen wird empfohlen, sich an der allgemeinen Debatte um die Weiterentwicklung der Standards der guten wissenschaftlichen Praxis im Hinblick auf den Einsatz von KI-Systemen zu beteiligen.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Beteiligung am Fachdiskurs: Den Mitgliedseinrichtungen der Leibniz-Gemeinschaft wird nachdrücklich empfohlen, sich an der jeweils fachspezifischen Diskussion über den Einsatz von KI zu beteiligen. Leibniz-Einrichtungen sollten ihre Expertise und ihre spezifischen Schwerpunkte in Forschung und Infrastruktur einbringen, um den jeweiligen fachlichen lege artis-Standard im Sinne einer bestmöglichen Sicherung wissenschaftlicher Integrität mitzuprägen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Allgemeine Informationssicherheitshinweise: Leibniz-Einrichtungen, die in ihrem Forschungsfeld die Möglichkeit von regelmäßiger und den Anforderungen der wissenschaftlichen Integrität genügender Anwendung von KI-Systemen wahrnehmen, sollten die Etablierung einheitlicher, einrichtungsweiter Anwendungen in Abstimmung mit den zuständigen Beauftragten prüfen.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei wird empfohlen, dies mit einem forschungsbezogenen Qualitätssicherungsprozess zu begleiten.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Für die gängigen Zitationsstile APA, Chicago und MLA existieren bereits Empfehlungen für die Zitierung von Ergebnissen sprachgenerierender KI in wissenschaftlichen Texten. Ausführliche Erläuterungen finden sich auf den entsprechenden Webseiten. Zentrale Angaben für die transparente Nutzung von KI sind in allen Zitationsstilen Angaben zum Eigentümer, zur Versionsnummer und Nutzungsdaten sowie Ausweisung der durch KI-Systeme bearbeiteten Passagen sowie der genutzten Prompts bzw. Chatverläufe.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ein Hinweis auf die Verwendung von KI-Systemen sollte je nach Textgenre im Methodenteil oder der Einleitung erfolgen. Prompts sollten in den Text aufgenommen werden. Bei umfangreicheren Chatverläufen wird die Dokumentation der In- und Outputs über die zitierten Passagen in einem Anhang empfohlen. Alternativ lassen sich längere Chatverläufe auch über https://sharegpt.com/ oder https://aiarchives.org/ verlinken und teilen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Zitationsbeispiel:**\n\nWhen prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\nOpenAI. (2023). ChatGPT (Mar 14, version xy) [Large language model]. https://chat.openai.com/chat",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um KI-Systeme in Literaturverzeichnisse aufnehmen zu können, wird nach Chicago-Style eine Verlinkung der vollständigen Chatverläufe bspw. über https://sharegpt.com/ oder https://aiarchives.org/ gefordert.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Zitationsbeispiel:**\n\nThe following recipe for pizza dough was generated by ChatGPT: „Ingredients: 3 cups all-purpose flour, 1 tsp salt, 1 tsp sugar, 2 1/4 tsp active dry yeast (or 1 packet), 1 cup warm water (about 110°F or 43°C), 2 tbsp olive oil [...]“",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\nA. Fuß- bzw. Endnote: 1. ChatGPT, response to “Explain how to make pizza dough from common household ingredients,” OpenAI, March 7, 2023, version xy.\nB. Im Text-Angabe: „xxx“ (ChatGPT, March 7, 2023, version xy).",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Auch im MLA-Style wird die Nutzung individueller Verlinkungen von Chatverläufen zur Dokumentation des Beitrags von KI-Systemen gefordert.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Zitationsbeispiel:**\n\nWhen asked to describe the symbolism of the green light in The Great Gatsby, ChatGPT provided a summary about optimism, the unattainability of the American dream, greed, and covetousness. However, when further prompted to cite the source on which that summary was based, it noted that it lacked “the ability to conduct research or cite sources independently” but that it could “provide a list of scholarly sources related to the symbolism of the green light in The Great Gatsby” (“In 200 words”).",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\n“In 200 words, describe the symbolism of the green light in The Great Gatsby” follow-up prompt to list sources. ChatGPT, version xy, OpenAI, 9 Mar. 2023, chat.openai.com/chat.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Referenzangaben zu KI-generierten Bildern:**\n\nFig. 1. \"Pointillist painting of a sheep in a sunny field of blue flowers\" prompt, DALL-E, version 2, OpenAI, 8 Mar. 2023, labs.openai.com/.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die nutzung von ki-anwendungen im forschungsprozess unterliegt den etablierten nachweisanforderungen der guten wissenschaftlichen praxis. sie muss immer offengelegt werden.",
+      "repaired": true
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "eine solche offenlegung sollte in der regel mindestens eine klare nennung der mit hilfe von ki erstellten oder bearbeiteten inhalte unter angabe der genutzten software inklusive eigentümer, version sowie eine vollständige dokumentation der verwendeten prompts mit datierung umfassen.",
+      "repaired": true
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die verwendung von promptengineeringtools ist ebenso nachzuweisen.",
+      "repaired": true
+    },
+    {
+      "id": 48,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "³ diese aussage zielt nicht auf forschung, die in gegenstand oder vorgehensweise lege artis entsprechende ki-systeme verwendet.",
+      "repaired": true
+    },
+    {
+      "id": 49,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "⁴ die ausführungen beziehen sich auf ki-anwendungen im sinne von generativen ki-systemen",
+      "repaired": true
     }
   ],
   "validation": {
-    "total": 23,
-    "matched": 23,
-    "unmatched_count": 0,
-    "unmatched": [],
-    "source_coverage": 0.899,
-    "uncovered_chars": 1634,
-    "uncovered_gaps": 3,
+    "total": 49,
+    "matched": 45,
+    "unmatched_count": 4,
+    "unmatched": [
+      {
+        "id": 10,
+        "B": "B8",
+        "matched_words": "2/76",
+        "text": "Nachweise und Zitationsregeln: Die Nutzung von KI-Anwendungen im Forschungsprozess unterliegt den etablierten Nachweisanforderungen der guten wissenschaftlichen Praxis. Sie muss immer offengelegt werden. Eine solche Offenlegung sollte in der Regel mindestens eine klare Nennung der mit Hilfe von KI erstellten oder bearbeiteten Inhalte unter Angabe der genutzten Software inklusive Eigentümer, Version sowie eine vollständige Dokumentation der verwendeten Prompts mit Datierung umfassen. Die Verwendung von Prompt-engineering-tools ist ebenso nachzuweisen. Beispiele hierfür finden sich im Anhang zu dieser Empfehlung."
+      },
+      {
+        "id": 45,
+        "B": "B8",
+        "matched_words": "3/19",
+        "text": "die nutzung von ki-anwendungen im forschungsprozess unterliegt den etablierten nachweisanforderungen der guten wissenschaftlichen praxis. sie muss immer offengelegt werden."
+      },
+      {
+        "id": 48,
+        "B": "B10",
+        "matched_words": "15/17",
+        "text": "³ diese aussage zielt nicht auf forschung, die in gegenstand oder vorgehensweise lege artis entsprechende ki-systeme verwendet."
+      },
+      {
+        "id": 49,
+        "B": "B2",
+        "matched_words": "6/12",
+        "text": "⁴ die ausführungen beziehen sich auf ki-anwendungen im sinne von generativen ki-systemen"
+      }
+    ],
+    "source_coverage": 0.773,
+    "uncovered_chars": 3664,
+    "uncovered_gaps": 11,
     "uncovered": [
       {
         "char_start": 0,
@@ -156,16 +386,64 @@
         "text": "# leibniz-gemeinschaft # source: https://www.leibnizgemeinschaft.de/fileadmin/documents/3085-2906/leibniz_empfehlung_zur_ki_beschluss_praesidium_2024_11_29_.pdf # date: 2024-11-29 # category: guideline # empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz beschlossen durch das präsidium der leibniz-gemeinschaft am 29. november 2024 # herausgeber die präsidentin der leibniz-gemeinschaft martina brockmeier chausseestraße 111 10115 berlin info@leibnizgemeinschaft.de # lizenzhinweis alle texte dieser publikation sind, ausgenommen zitate und soweit nicht anders angegeben, unter der lizenz namensnennung 4.0 international (cc by 4.0) veröffentlicht. # redaktion johannes bronisch (geschäftsstelle leibniz-gemeinschaft), sabine brünger-weilandt (leibniz-ombudsgremium), luzia goldmann (geschäftsstelle leibniz-gemeinschaft), hans-georg joost (leibniz-ombudsgremium, sprecher), andreas radbruch (leibniz-ombudsgremium) # ansprechperson in der geschäftsstelle johannes bronisch chausseestraße 111 10115 berlin bronisch@leibnizgemeinschaft.de # beschlussdatum beschlossen durch das präsidium der leibniz-gemeinschaft am 29. november 2024 # webseite https://www.leibnizgemeinschaft.de/gutewissenschaftlichepraxis # doi 10.5281/zenodo.14420893 # zitierweise leibniz-gemeinschaft. (2024). empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz. zenodo. https://doi.org/10.5281/zenodo.14420893 diese empfehlung ist in deutscher wie englischer sprache verfügbar. this recommendation is available in german and english."
       },
       {
+        "char_start": 3121,
+        "char_end": 3217,
+        "length": 96,
+        "text": ". # empfehlungen an die wissenschaftlerinnen und wissenschaftler in der leibniz-gemeinschaft 1."
+      },
+      {
+        "char_start": 4162,
+        "char_end": 4184,
+        "length": 22,
+        "text": ". 2. **autorschaft**:"
+      },
+      {
+        "char_start": 5458,
+        "char_end": 5671,
+        "length": 213,
+        "text": ". 3. **nachweise und zitationsregeln**: die nutzung von ki-anwendungen im forschungsprozess unterliegt den etablierten nachweisanforderungen der guten wissenschaftlichen praxis. sie muss immer offengelegt werden."
+      },
+      {
+        "char_start": 6020,
+        "char_end": 6084,
+        "length": 64,
+        "text": ". beispiele hierfür finden sich im anhang zu dieser empfehlung."
+      },
+      {
+        "char_start": 8902,
+        "char_end": 8969,
+        "length": 67,
+        "text": ". ## empfehlungen an die einrichtungen der leibniz-gemeinschaft 7."
+      },
+      {
         "char_start": 11746,
-        "char_end": 11759,
-        "length": 13,
-        "text": ". ## anlage:"
+        "char_end": 11831,
+        "length": 85,
+        "text": ". ## anlage: ### empfehlungen zur zitation bei der nutzung generativer sprachmodelle"
+      },
+      {
+        "char_start": 12325,
+        "char_end": 12528,
+        "length": 203,
+        "text": ". folgend finden sich zu allen drei stilen beispiele für wörtliche zitate sowie bei mla ein beispiel für ein bildzitat zur orientierung: #### a. apa-style: https://apastyle.apa.org/blog/howtocitechatgpt"
+      },
+      {
+        "char_start": 13456,
+        "char_end": 13566,
+        "length": 110,
+        "text": "#### b. chicago-style: https://www.chicagomanualofstyle.org/qanda/data/faq/topics/documentation/faq0422.html"
+      },
+      {
+        "char_start": 14278,
+        "char_end": 14341,
+        "length": 63,
+        "text": ". #### c. mla-style: https://style.mla.org/citinggenerativeai/"
       },
       {
         "char_start": 15404,
-        "char_end": 15419,
-        "length": 15,
-        "text": ". ## footnotes"
+        "char_end": 16539,
+        "length": 1135,
+        "text": ". ## footnotes ¹ url: www.leibnizgemeinschaft.de/kodexgutewissenschaftlichepraxis; deutsche forschungsgemeinschaft (2023): stellungnahme des präsidiums der deutschen forschungsgemeinschaft (dfg) zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg. url: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahmepraesidiumkialdata.pdf; european commission, directorate-general for research and innovation (2024): living guidelines on the responsible use of generative ai in research. url: https://researchandinnovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en?filename=ec_rtd_aiguidelines.pdf. ² präsidium der leibniz-gemeinschaft. url: https://www.leibnizgemeinschaft.de/fileadmin/user_upload/bilder_und_downloads/%c3%9cber_uns/gute_wissenschaftliche_praxis/empfehlung_koautorschaften.pdf. ³ diese aussage zielt nicht auf forschung, die in gegenstand oder vorgehensweise lege artis entsprechende ki-systeme verwendet. ⁴ die ausführungen beziehen sich auf ki-anwendungen im sinne von generativen ki-systemen"
       }
     ]
   },
@@ -183,8 +461,8 @@
       "char_start": 1632,
       "char_end": 2188,
       "text": "Systeme „Künstlicher Intelligenz“ (KI) entwickeln sich dynamisch und haben in unterschiedlichem Umfang Einzug in die wissenschaftliche Praxis gehalten. Sie beeinflussen wissenschaftliches Arbeiten voraussichtlich langfristig und tiefgreifend. Die Erprobung und Ausschöpfung der Potenziale ebenso wie die Steuerung der Risiken von KI-Systemen erfordern deshalb eine stete Begleitung und kritische Prüfung auch im Hinblick auf die Regeln der wissenschaftlichen Integrität. Hierbei gilt es, etablierte Standards auch in neuen Wissenschaftspraktiken zu wahren.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -193,7 +471,7 @@
       "char_end": 2555,
       "text": "Mit KI-Systemen sind in der folgenden Empfehlung Systeme generativer KI gemeint. Dies schließt insbesondere unterschiedliche Nutzungsweisen von Large Language Model-basierten Anwendungen, vorrangig der Text- und Codegenerierung, sowie deren Nutzung als Recherche- und Sprachbearbeitungsinstrumente ein, aber auch KI-Anwendungen zur Bildgenerierung und Datenanalyse.",
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -201,204 +479,528 @@
       "char_start": 2557,
       "char_end": 3155,
       "text": "Auf Vorschlag des Leibniz-Ombudsgremiums und beschlossen durch das Präsidium der Leibniz-Gemeinschaft soll die hier vorliegende Empfehlung den Wissenschaftlerinnen und Wissenschaftlern in der Leibniz-Gemeinschaft als Orientierungshilfe bei der Nutzung von generativen KI-Systemen im Forschungsalltag dienen. Zudem möchte sie den Austausch über die konkrete Ausgestaltung und Weiterentwicklung der wissenschaftsadäquaten Nutzung von KI-Systemen in fachspezifischer Perspektive innerhalb der und zwischen den Einrichtungen der Leibniz-Gemeinschaft, aber auch darüber hinaus, anregen und mitgestalten.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
-      "char_start": 3157,
-      "char_end": 3247,
-      "text": "# Empfehlungen an die Wissenschaftlerinnen und Wissenschaftler in der Leibniz-Gemeinschaft",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 3155,
+      "char_end": 3252,
+      "text": "\n\n# Empfehlungen an die Wissenschaftlerinnen und Wissenschaftler in der Leibniz-Gemeinschaft\n\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3252,
+      "char_end": 4200,
+      "text": "Verantwortung: Die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis gelten uneingeschränkt auch dann, wenn im Forschungsprozess sowie bei der Projektierung und Beantragung von Forschungsvorhaben KI-Systeme zur Anwendung gelangen. KI-Systeme können dabei lediglich unterstützende Instrumente sein. Ihre Resultate haben als solche keine wissenschaftliche Validität und sind kein Ersatz für authentische Erkenntnis- und Entscheidungsprozesse. Die Nutzung von KI-Systemen mindert deswegen nicht die Verantwortung von Wissenschaftlerinnen und Wissenschaftlern. Ihnen obliegt die Sicherstellung der Einhaltung der wissenschaftlichen Standards, wozu auch die Reflexion über einen methodologisch und inhaltlich sinnvollen Einsatz von KI-Systemen gehört. Der mit einer wissenschaftlichen Autorschaft an Forschungsarbeiten und -ergebnissen möglicherweise verbundene Reputationsgewinn kann nur auf dieser Verantwortung beruhen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 3249,
-      "char_end": 4200,
-      "text": "1. Verantwortung: Die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis gelten uneingeschränkt auch dann, wenn im Forschungsprozess sowie bei der Projektierung und Beantragung von Forschungsvorhaben KI-Systeme zur Anwendung gelangen. KI-Systeme können dabei lediglich unterstützende Instrumente sein. Ihre Resultate haben als solche keine wissenschaftliche Validität und sind kein Ersatz für authentische Erkenntnis- und Entscheidungsprozesse. Die Nutzung von KI-Systemen mindert deswegen nicht die Verantwortung von Wissenschaftlerinnen und Wissenschaftlern. Ihnen obliegt die Sicherstellung der Einhaltung der wissenschaftlichen Standards, wozu auch die Reflexion über einen methodologisch und inhaltlich sinnvollen Einsatz von KI-Systemen gehört. Der mit einer wissenschaftlichen Autorschaft an Forschungsarbeiten und -ergebnissen möglicherweise verbundene Reputationsgewinn kann nur auf dieser Verantwortung beruhen.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 4200,
+      "char_end": 4222,
+      "text": "\n\n2. **Autorschaft**: ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4222,
+      "char_end": 4450,
+      "text": "KI-Systeme erfüllen nicht die Kriterien wissenschaftlicher Autorschaft. Diese beruht auf einer nicht übertragbaren Verantwortung für Korrektheit, Adäquanz und Nachvollziehbarkeit aller Angaben in Veröffentlichungen und Anträgen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 4202,
-      "char_end": 5502,
-      "text": "2. **Autorschaft**: KI-Systeme erfüllen nicht die Kriterien wissenschaftlicher Autorschaft. Diese beruht auf einer nicht übertragbaren Verantwortung für Korrektheit, Adäquanz und Nachvollziehbarkeit aller Angaben in Veröffentlichungen und Anträgen. Daraus folgt die Verpflichtung wissenschaftlicher Autorinnen und Autoren, Auswahl und Einsatz von KI-Systemen so vorzunehmen, dass ihnen und anderen eine möglichst weitgehende Überprüfung der durch die KI generierten Resultate möglich wird. Das Ausmaß der Verwendung von KI sollte in Bezug zum Grad der Nachvollziehbarkeit stehen. Darüber hinaus empfiehlt sich eine frühzeitige Berücksichtigung der Vorgaben des avisierten Publikationsorganes bzw. der adressierten Forschungsförderorganisation bezüglich der Nutzung von KI-Systemen. Bei gemeinsamen Veröffentlichungen sollte eine klare Abstimmung hinsichtlich Art und Umfang der Anwendung von KI-Systemen unter allen Autorinnen und Autoren erfolgen und dokumentiert werden. Die Nutzung von KI-Systemen zur Generierung oder Manipulation von Realbildern verschiedener Art wie Fotografien, Mikroskopiebildern, Röntgen-, CT-, MRT- und nuklearmedizinischen Bildern, Western-Blots- und Zellkultur-Abbildungen, Fluoreszenzbildern sowie Spektral-, Teleskop-, Luft- und Satellitenaufnahmen u.ä. ist unzulässig.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 4451,
+      "char_end": 4781,
+      "text": "Daraus folgt die Verpflichtung wissenschaftlicher Autorinnen und Autoren, Auswahl und Einsatz von KI-Systemen so vorzunehmen, dass ihnen und anderen eine möglichst weitgehende Überprüfung der durch die KI generierten Resultate möglich wird. Das Ausmaß der Verwendung von KI sollte in Bezug zum Grad der Nachvollziehbarkeit stehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 5504,
-      "char_end": 6430,
-      "text": "3. **Nachweise und Zitationsregeln**: Die Nutzung von KI-Anwendungen im Forschungsprozess unterliegt den etablierten Nachweisanforderungen der guten wissenschaftlichen Praxis. Sie muss immer offengelegt werden. Eine solche Offenlegung sollte in der Regel mindestens eine klare Nennung der mit Hilfe von KI erstellten oder bearbeiteten Inhalte unter Angabe der genutzten Software inklusive Eigentümer, Version sowie eine vollständige Dokumentation der verwendeten Prompts mit Datierung umfassen. Die Verwendung von Prompt-engineering-tools ist ebenso nachzuweisen. Beispiele hierfür finden sich im Anhang zu dieser Empfehlung. Bei großflächigem KI-Einsatz bspw. zur Verbesserung der Lesbarkeit eines Textes sowie bei der Nutzung von KI in der Phase der Ideen- und Hypothesenentwicklung wird eine entsprechende Erwähnung im Rahmen der Beschreibung der zum Einsatz gekommenen Methoden oder an anderer geeigneter Stelle empfohlen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 4782,
+      "char_end": 4983,
+      "text": "Darüber hinaus empfiehlt sich eine frühzeitige Berücksichtigung der Vorgaben des avisierten Publikationsorganes bzw. der adressierten Forschungsförderorganisation bezüglich der Nutzung von KI-Systemen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 6432,
-      "char_end": 7515,
-      "text": "4. Begutachtungen: Der Umgang mit unveröffentlichten Forschungsergebnissen und Forschungsdaten sowie mit Förder- und Projektanträgen Dritter ist mit hoher Verantwortung verbunden und bedarf besonderer Umsicht. Eine Eingabe in und Bearbeitung solcher Daten mit KI-Systemen – bspw. in Begutachtungs- und Peer-review-Prozessen – ist unzulässig, solange diesem Vorgehen datenschutz- und urheberrechtliche Bedenken entgegenstehen. Hinzu kommen im Rahmen von Gutachtertätigkeiten weitere Sorgfalts- und Vertraulichkeitsanforderungen, u.a. aufgrund der damit oftmals verbundenen Karriererelevanz für Dritte. Die Verantwortung für Bewertungen in Begutachtungsprozessen muss ungemindert bei den Gutachterinnen und Gutachtern verbleiben. Wie im Forschungsprozess können KI-Anwendungen hierbei nur unterstützende Funktionen einnehmen. Gutachterinnen und Gutachter sowie Herausgeberinnen und Herausgeber sollten zudem bei Unklarheiten über die Art und Intensität der Verwendung von KI-Systemen in den ihnen vorgelegten Anträgen oder Forschungsergebnissen auf Klärung oder Nachbesserung bestehen.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 4984,
+      "char_end": 5174,
+      "text": "Bei gemeinsamen Veröffentlichungen sollte eine klare Abstimmung hinsichtlich Art und Umfang der Anwendung von KI-Systemen unter allen Autorinnen und Autoren erfolgen und dokumentiert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 7517,
-      "char_end": 8293,
-      "text": "5. Beachtung von Rechtskontexten: Die Dynamik der Rechtsprechung sowie die Entwicklung der Vorgaben und Leitlinien von Publikationsorganen und Forschungsförderorganisationen bezüglich der Nutzung von KI-Systemen erfordert aufmerksame Beobachtung. Grundsätzlich ist von einer Nutzung von KI-Systemen immer abzusehen, wenn dabei die Gefahr der unbefugten Weitergabe von persönlichen oder sensiblen Daten, von Geschäftsgeheimnissen oder von Informationen, die einer Geheimhaltungspflicht unterliegen, besteht oder eine Verletzung von Urheberrechten droht. Die konkret möglichen Anwendungsbereiche für – insbesondere proprietäre – KI-Systeme in der wissenschaftlichen Arbeit stehen in enger Abhängigkeit von den jeweiligen Nutzungsbedingungen und dem geltenden rechtlichen Rahmen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 5175,
+      "char_end": 5502,
+      "text": "Die Nutzung von KI-Systemen zur Generierung oder Manipulation von Realbildern verschiedener Art wie Fotografien, Mikroskopiebildern, Röntgen-, CT-, MRT- und nuklearmedizinischen Bildern, Western-Blots- und Zellkultur-Abbildungen, Fluoreszenzbildern sowie Spektral-, Teleskop-, Luft- und Satellitenaufnahmen u.ä. ist unzulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
     {
-      "char_start": 8295,
-      "char_end": 8965,
-      "text": "6. Forschungsethik: Die Einhaltung forschungsethischer Standards ist auch bei der Nutzung von KI-Systemen zu gewährleisten. Resultate aus KI-Systemen dürfen nicht an die Stelle von ethischen Reflexionsprozessen und verantwortungsvoller Entscheidungsfindung durch Wissenschaftlerinnen und Wissenschaftler treten. Diskriminierungs-, Verfälschungs- und Halluzinationseffekte und ihre Verstärkung, die sich u.a. aus den Trainingsdaten und der Funktionsweise der KI-Anwendungen ergeben, erfordern eine besondere Aufmerksamkeit. Zudem sollte der insgesamt ressourcenintensive Einsatz von KI aus Gründen der Nachhaltigkeit auch im Forschungskontext stets mit Augenmaß erfolgen.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 10,
+      "char_start": 5502,
+      "char_end": 5542,
+      "text": "\n\n3. **Nachweise und Zitationsregeln**: ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5542,
+      "char_end": 5714,
+      "text": "Die Nutzung von KI-Anwendungen im Forschungsprozess unterliegt den etablierten Nachweisanforderungen der guten wissenschaftlichen Praxis. Sie muss immer offengelegt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
-      "char_start": 8967,
-      "char_end": 9028,
-      "text": "## Empfehlungen an die Einrichtungen der Leibniz-Gemeinschaft",
+      "char_start": 5715,
+      "char_end": 5998,
+      "text": "Eine solche Offenlegung sollte in der Regel mindestens eine klare Nennung der mit Hilfe von KI erstellten oder bearbeiteten Inhalte unter Angabe der genutzten Software inklusive Eigentümer, Version sowie eine vollständige Dokumentation der verwendeten Prompts mit Datierung umfassen.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5998,
+      "char_end": 6130,
+      "text": " Die Verwendung von Prompt-engineering-tools ist ebenso nachzuweisen. Beispiele hierfür finden sich im Anhang zu dieser Empfehlung. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6130,
+      "char_end": 6430,
+      "text": "Bei großflächigem KI-Einsatz bspw. zur Verbesserung der Lesbarkeit eines Textes sowie bei der Nutzung von KI in der Phase der Ideen- und Hypothesenentwicklung wird eine entsprechende Erwähnung im Rahmen der Beschreibung der zum Einsatz gekommenen Methoden oder an anderer geeigneter Stelle empfohlen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 11,
       "match_type": "exact"
     },
     {
-      "char_start": 9030,
-      "char_end": 10277,
-      "text": "7. Einrichtungsinterne Reflexionsprozesse und Kompetenzaufbau: Angesichts der Dynamik der Entwicklung und Verbreitung von KI-Systemen wird den Leibniz-Einrichtungen empfohlen, interne Reflexionsprozesse zur Nutzung von KI im Forschungsprozess und den Aufbau notwendiger Kompetenzen strukturiert zu fördern und institutsübergreifend Verantwortlichkeiten zu definieren. Hierbei sollten vor allem die forschungsethischen Implikationen des Einsatzes von KI, die möglichen Folgen für die epistemische Situation des Wissenschaftlers und Autors und – disziplin- und fachabhängig – der Stellenwert von Text thematisiert und vor dem Hintergrund der Institutsstrategie und -kultur diskutiert werden. Die Herstellung institutsübergreifender Transparenz über den Einsatz von KI-Systemen sollte dabei zu den Zielen gehören. Der Aufbau von Kompetenzen zur informierten und umsichtigen Nutzung von KI sollte für alle Wissenschaftlerinnen und Wissenschaftler der Leibniz-Einrichtungen in geeigneten Formaten und unter Hinzuziehung von interner oder externer Expertise gefördert werden. Einrichtungsinterne Verpflichtungen zum Einsatz von KI-Systemen sind abzulehnen, es sei denn, diese selbst sind Gegenstand oder lege artis Teil der Vorgehensweise von Forschung.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 6430,
+      "char_end": 6435,
+      "text": "\n\n4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6435,
+      "char_end": 6857,
+      "text": "Begutachtungen: Der Umgang mit unveröffentlichten Forschungsergebnissen und Forschungsdaten sowie mit Förder- und Projektanträgen Dritter ist mit hoher Verantwortung verbunden und bedarf besonderer Umsicht. Eine Eingabe in und Bearbeitung solcher Daten mit KI-Systemen – bspw. in Begutachtungs- und Peer-review-Prozessen – ist unzulässig, solange diesem Vorgehen datenschutz- und urheberrechtliche Bedenken entgegenstehen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 10279,
-      "char_end": 10900,
-      "text": "8. Aufgaben der Ombudspersonen: Die Ombudspersonen der Leibniz-Einrichtungen werden gebeten, die hier formulierten Empfehlungen einrichtungsspezifisch zu reflektieren, ihre Umsetzung zu begleiten und zu ihrer Weiterentwicklung beizutragen. Eventuelle Verstöße gegen die Regeln der guten wissenschaftlichen Praxis im Zusammenhang mit der Verwendung von KI-Systemen sind entsprechend den geltenden Regelungen zu behandeln. Den Ombudspersonen wird empfohlen, sich an der allgemeinen Debatte um die Weiterentwicklung der Standards der guten wissenschaftlichen Praxis im Hinblick auf den Einsatz von KI-Systemen zu beteiligen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 6858,
+      "char_end": 7032,
+      "text": "Hinzu kommen im Rahmen von Gutachtertätigkeiten weitere Sorgfalts- und Vertraulichkeitsanforderungen, u.a. aufgrund der damit oftmals verbundenen Karriererelevanz für Dritte.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 10902,
-      "char_end": 11355,
-      "text": "9. Beteiligung am Fachdiskurs: Den Mitgliedseinrichtungen der Leibniz-Gemeinschaft wird nachdrücklich empfohlen, sich an der jeweils fachspezifischen Diskussion über den Einsatz von KI zu beteiligen. Leibniz-Einrichtungen sollten ihre Expertise und ihre spezifischen Schwerpunkte in Forschung und Infrastruktur einbringen, um den jeweiligen fachlichen lege artis-Standard im Sinne einer bestmöglichen Sicherung wissenschaftlicher Integrität mitzuprägen.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 7033,
+      "char_end": 7255,
+      "text": "Die Verantwortung für Bewertungen in Begutachtungsprozessen muss ungemindert bei den Gutachterinnen und Gutachtern verbleiben. Wie im Forschungsprozess können KI-Anwendungen hierbei nur unterstützende Funktionen einnehmen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 14,
       "match_type": "exact"
     },
     {
-      "char_start": 11357,
-      "char_end": 11816,
-      "text": "10. Allgemeine Informationssicherheitshinweise: Leibniz-Einrichtungen, die in ihrem Forschungsfeld die Möglichkeit von regelmäßiger und den Anforderungen der wissenschaftlichen Integrität genügender Anwendung von KI-Systemen wahrnehmen, sollten die Etablierung einheitlicher, einrichtungsweiter Anwendungen in Abstimmung mit den zuständigen Beauftragten prüfen. Dabei wird empfohlen, dies mit einem forschungsbezogenen Qualitätssicherungsprozess zu begleiten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 7256,
+      "char_end": 7515,
+      "text": "Gutachterinnen und Gutachter sowie Herausgeberinnen und Herausgeber sollten zudem bei Unklarheiten über die Art und Intensität der Verwendung von KI-Systemen in den ihnen vorgelegten Anträgen oder Forschungsergebnissen auf Klärung oder Nachbesserung bestehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 15,
       "match_type": "exact"
     },
     {
-      "char_start": 11816,
-      "char_end": 11830,
-      "text": "\n\n## Anlage:\n\n",
+      "char_start": 7515,
+      "char_end": 7520,
+      "text": "\n\n5. ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 11830,
-      "char_end": 12398,
-      "text": "### Empfehlungen zur Zitation bei der Nutzung generativer Sprachmodelle\n\nFür die gängigen Zitationsstile APA, Chicago und MLA existieren bereits Empfehlungen für die Zitierung von Ergebnissen sprachgenerierender KI in wissenschaftlichen Texten. Ausführliche Erläuterungen finden sich auf den entsprechenden Webseiten. Zentrale Angaben für die transparente Nutzung von KI sind in allen Zitationsstilen Angaben zum Eigentümer, zur Versionsnummer und Nutzungsdaten sowie Ausweisung der durch KI-Systeme bearbeiteten Passagen sowie der genutzten Prompts bzw. Chatverläufe.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 7520,
+      "char_end": 7763,
+      "text": "Beachtung von Rechtskontexten: Die Dynamik der Rechtsprechung sowie die Entwicklung der Vorgaben und Leitlinien von Publikationsorganen und Forschungsförderorganisationen bezüglich der Nutzung von KI-Systemen erfordert aufmerksame Beobachtung.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 16,
       "match_type": "exact"
     },
     {
-      "char_start": 12399,
-      "char_end": 13541,
-      "text": "Folgend finden sich zu allen drei Stilen Beispiele für wörtliche Zitate sowie bei MLA ein Beispiel für ein Bildzitat zur Orientierung:\n\n#### a. APA-Style: https://apastyle.apa.org/blog/how-to-cite-chatgpt\n\nEin Hinweis auf die Verwendung von KI-Systemen sollte je nach Textgenre im Methodenteil oder der Einleitung erfolgen. Prompts sollten in den Text aufgenommen werden. Bei umfangreicheren Chatverläufen wird die Dokumentation der In- und Outputs über die zitierten Passagen in einem Anhang empfohlen. Alternativ lassen sich längere Chatverläufe auch über https://sharegpt.com/ oder https://aiarchives.org/ verlinken und teilen.\n\n**Zitationsbeispiel:**\n\nWhen prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).\n\n**Referenzangabe im Literaturverzeichnis:**\n\nOpenAI. (2023). ChatGPT (Mar 14, version xy) [Large language model]. https://chat.openai.com/chat",
+      "char_start": 7764,
+      "char_end": 8069,
+      "text": "Grundsätzlich ist von einer Nutzung von KI-Systemen immer abzusehen, wenn dabei die Gefahr der unbefugten Weitergabe von persönlichen oder sensiblen Daten, von Geschäftsgeheimnissen oder von Informationen, die einer Geheimhaltungspflicht unterliegen, besteht oder eine Verletzung von Urheberrechten droht.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 17,
       "match_type": "exact"
     },
     {
-      "char_start": 13543,
-      "char_end": 14375,
-      "text": "#### b. Chicago-Style: https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html\n\nUm KI-Systeme in Literaturverzeichnisse aufnehmen zu können, wird nach Chicago-Style eine Verlinkung der vollständigen Chatverläufe bspw. über https://sharegpt.com/ oder https://aiarchives.org/ gefordert.\n\n**Zitationsbeispiel:**\n\nThe following recipe for pizza dough was generated by ChatGPT: „Ingredients: 3 cups all-purpose flour, 1 tsp salt, 1 tsp sugar, 2 1/4 tsp active dry yeast (or 1 packet), 1 cup warm water (about 110°F or 43°C), 2 tbsp olive oil [...]“\n\n**Referenzangabe im Literaturverzeichnis:**\n\nA. Fuß- bzw. Endnote: 1. ChatGPT, response to “Explain how to make pizza dough from common household ingredients,” OpenAI, March 7, 2023, version xy.\nB. Im Text-Angabe: „xxx“ (ChatGPT, March 7, 2023, version xy).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8070,
+      "char_end": 8293,
+      "text": "Die konkret möglichen Anwendungsbereiche für – insbesondere proprietäre – KI-Systeme in der wissenschaftlichen Arbeit stehen in enger Abhängigkeit von den jeweiligen Nutzungsbedingungen und dem geltenden rechtlichen Rahmen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 18,
       "match_type": "exact"
     },
     {
-      "char_start": 14377,
-      "char_end": 15512,
-      "text": "#### c. MLA-Style: https://style.mla.org/citing-generative-ai/\n\nAuch im MLA-Style wird die Nutzung individueller Verlinkungen von Chatverläufen zur Dokumentation des Beitrags von KI-Systemen gefordert.\n\n**Zitationsbeispiel:**\n\nWhen asked to describe the symbolism of the green light in The Great Gatsby, ChatGPT provided a summary about optimism, the unattainability of the American dream, greed, and covetousness. However, when further prompted to cite the source on which that summary was based, it noted that it lacked “the ability to conduct research or cite sources independently” but that it could “provide a list of scholarly sources related to the symbolism of the green light in The Great Gatsby” (“In 200 words”).\n\n**Referenzangabe im Literaturverzeichnis:**\n\n“In 200 words, describe the symbolism of the green light in The Great Gatsby” follow-up prompt to list sources. ChatGPT, version xy, OpenAI, 9 Mar. 2023, chat.openai.com/chat.\n\n**Referenzangaben zu KI-generierten Bildern:**\n\nFig. 1. \"Pointillist painting of a sheep in a sunny field of blue flowers\" prompt, DALL-E, version 2, OpenAI, 8 Mar. 2023, labs.openai.com/.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8293,
+      "char_end": 8298,
+      "text": "\n\n6. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8298,
+      "char_end": 8418,
+      "text": "Forschungsethik: Die Einhaltung forschungsethischer Standards ist auch bei der Nutzung von KI-Systemen zu gewährleisten.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 19,
       "match_type": "exact"
     },
     {
-      "char_start": 15512,
-      "char_end": 15528,
-      "text": "\n\n## FOOTNOTES\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 15528,
-      "char_end": 16333,
-      "text": "¹ Siehe u. a. Leibniz-Gemeinschaft (2021): Leibniz-Kodex gute wissenschaftliche Praxis. URL: www.leibniz-gemeinschaft.de/kodex-gute-wissenschaftliche-praxis; Deutsche Forschungsgemeinschaft (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. URL: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-al-data.pdf; European Commission, Directorate-General for Research and Innovation (2024): Living guidelines on the responsible use of generative AI in research. URL: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 8419,
+      "char_end": 8606,
+      "text": "Resultate aus KI-Systemen dürfen nicht an die Stelle von ethischen Reflexionsprozessen und verantwortungsvoller Entscheidungsfindung durch Wissenschaftlerinnen und Wissenschaftler treten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 16333,
-      "char_end": 16336,
-      "text": ".\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 16336,
-      "char_end": 16654,
-      "text": "² Siehe auch Leibniz-Gemeinschaft (2023): Empfehlung zur Sicherung der guten wissenschaftlichen Praxis bei Koautorschaften. Präsidium der Leibniz-Gemeinschaft. URL: https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/%C3%9Cber_uns/Gute_wissenschaftliche_Praxis/Empfehlung_Koautorschaften.pdf",
-      "B": "B9",
+      "char_start": 8607,
+      "char_end": 8817,
+      "text": "Diskriminierungs-, Verfälschungs- und Halluzinationseffekte und ihre Verstärkung, die sich u.a. aus den Trainingsdaten und der Funktionsweise der KI-Anwendungen ergeben, erfordern eine besondere Aufmerksamkeit.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 21,
       "match_type": "exact"
     },
     {
-      "char_start": 16654,
+      "char_start": 8818,
+      "char_end": 8965,
+      "text": "Zudem sollte der insgesamt ressourcenintensive Einsatz von KI aus Gründen der Nachhaltigkeit auch im Forschungskontext stets mit Augenmaß erfolgen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8965,
+      "char_end": 9033,
+      "text": "\n\n## Empfehlungen an die Einrichtungen der Leibniz-Gemeinschaft\n\n7. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9033,
+      "char_end": 9397,
+      "text": "Einrichtungsinterne Reflexionsprozesse und Kompetenzaufbau: Angesichts der Dynamik der Entwicklung und Verbreitung von KI-Systemen wird den Leibniz-Einrichtungen empfohlen, interne Reflexionsprozesse zur Nutzung von KI im Forschungsprozess und den Aufbau notwendiger Kompetenzen strukturiert zu fördern und institutsübergreifend Verantwortlichkeiten zu definieren.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9398,
+      "char_end": 9719,
+      "text": "Hierbei sollten vor allem die forschungsethischen Implikationen des Einsatzes von KI, die möglichen Folgen für die epistemische Situation des Wissenschaftlers und Autors und – disziplin- und fachabhängig – der Stellenwert von Text thematisiert und vor dem Hintergrund der Institutsstrategie und -kultur diskutiert werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9720,
+      "char_end": 9840,
+      "text": "Die Herstellung institutsübergreifender Transparenz über den Einsatz von KI-Systemen sollte dabei zu den Zielen gehören.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9841,
+      "char_end": 10099,
+      "text": "Der Aufbau von Kompetenzen zur informierten und umsichtigen Nutzung von KI sollte für alle Wissenschaftlerinnen und Wissenschaftler der Leibniz-Einrichtungen in geeigneten Formaten und unter Hinzuziehung von interner oder externer Expertise gefördert werden.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10100,
+      "char_end": 10277,
+      "text": "Einrichtungsinterne Verpflichtungen zum Einsatz von KI-Systemen sind abzulehnen, es sei denn, diese selbst sind Gegenstand oder lege artis Teil der Vorgehensweise von Forschung.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10277,
+      "char_end": 10282,
+      "text": "\n\n8. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10282,
+      "char_end": 10518,
+      "text": "Aufgaben der Ombudspersonen: Die Ombudspersonen der Leibniz-Einrichtungen werden gebeten, die hier formulierten Empfehlungen einrichtungsspezifisch zu reflektieren, ihre Umsetzung zu begleiten und zu ihrer Weiterentwicklung beizutragen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10519,
+      "char_end": 10699,
+      "text": "Eventuelle Verstöße gegen die Regeln der guten wissenschaftlichen Praxis im Zusammenhang mit der Verwendung von KI-Systemen sind entsprechend den geltenden Regelungen zu behandeln.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10700,
+      "char_end": 10900,
+      "text": "Den Ombudspersonen wird empfohlen, sich an der allgemeinen Debatte um die Weiterentwicklung der Standards der guten wissenschaftlichen Praxis im Hinblick auf den Einsatz von KI-Systemen zu beteiligen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10900,
+      "char_end": 10905,
+      "text": "\n\n9. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10905,
+      "char_end": 11355,
+      "text": "Beteiligung am Fachdiskurs: Den Mitgliedseinrichtungen der Leibniz-Gemeinschaft wird nachdrücklich empfohlen, sich an der jeweils fachspezifischen Diskussion über den Einsatz von KI zu beteiligen. Leibniz-Einrichtungen sollten ihre Expertise und ihre spezifischen Schwerpunkte in Forschung und Infrastruktur einbringen, um den jeweiligen fachlichen lege artis-Standard im Sinne einer bestmöglichen Sicherung wissenschaftlicher Integrität mitzuprägen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11355,
+      "char_end": 11361,
+      "text": "\n\n10. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11361,
+      "char_end": 11718,
+      "text": "Allgemeine Informationssicherheitshinweise: Leibniz-Einrichtungen, die in ihrem Forschungsfeld die Möglichkeit von regelmäßiger und den Anforderungen der wissenschaftlichen Integrität genügender Anwendung von KI-Systemen wahrnehmen, sollten die Etablierung einheitlicher, einrichtungsweiter Anwendungen in Abstimmung mit den zuständigen Beauftragten prüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11719,
+      "char_end": 11816,
+      "text": "Dabei wird empfohlen, dies mit einem forschungsbezogenen Qualitätssicherungsprozess zu begleiten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11816,
+      "char_end": 11903,
+      "text": "\n\n## Anlage:\n\n### Empfehlungen zur Zitation bei der Nutzung generativer Sprachmodelle\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11903,
+      "char_end": 12398,
+      "text": "Für die gängigen Zitationsstile APA, Chicago und MLA existieren bereits Empfehlungen für die Zitierung von Ergebnissen sprachgenerierender KI in wissenschaftlichen Texten. Ausführliche Erläuterungen finden sich auf den entsprechenden Webseiten. Zentrale Angaben für die transparente Nutzung von KI sind in allen Zitationsstilen Angaben zum Eigentümer, zur Versionsnummer und Nutzungsdaten sowie Ausweisung der durch KI-Systeme bearbeiteten Passagen sowie der genutzten Prompts bzw. Chatverläufe.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12398,
+      "char_end": 12605,
+      "text": " Folgend finden sich zu allen drei Stilen Beispiele für wörtliche Zitate sowie bei MLA ein Beispiel für ein Bildzitat zur Orientierung:\n\n#### a. APA-Style: https://apastyle.apa.org/blog/how-to-cite-chatgpt\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12605,
+      "char_end": 13029,
+      "text": "Ein Hinweis auf die Verwendung von KI-Systemen sollte je nach Textgenre im Methodenteil oder der Einleitung erfolgen. Prompts sollten in den Text aufgenommen werden. Bei umfangreicheren Chatverläufen wird die Dokumentation der In- und Outputs über die zitierten Passagen in einem Anhang empfohlen. Alternativ lassen sich längere Chatverläufe auch über https://sharegpt.com/ oder https://aiarchives.org/ verlinken und teilen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13031,
+      "char_end": 13397,
+      "text": "**Zitationsbeispiel:**\n\nWhen prompted with “Is the left brain right brain divide real or a metaphor?” the ChatGPT-generated text indicated that although the two brain hemispheres are somewhat specialized, “the notation that people can be characterized as ‘left-brained’ or ‘right-brained’ is considered to be an oversimplification and a popular myth” (OpenAI, 2023).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13399,
+      "char_end": 13541,
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\nOpenAI. (2023). ChatGPT (Mar 14, version xy) [Large language model]. https://chat.openai.com/chat",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13541,
+      "char_end": 13653,
+      "text": "\n\n#### b. Chicago-Style: https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13653,
+      "char_end": 13857,
+      "text": "Um KI-Systeme in Literaturverzeichnisse aufnehmen zu können, wird nach Chicago-Style eine Verlinkung der vollständigen Chatverläufe bspw. über https://sharegpt.com/ oder https://aiarchives.org/ gefordert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13859,
+      "char_end": 14116,
+      "text": "**Zitationsbeispiel:**\n\nThe following recipe for pizza dough was generated by ChatGPT: „Ingredients: 3 cups all-purpose flour, 1 tsp salt, 1 tsp sugar, 2 1/4 tsp active dry yeast (or 1 packet), 1 cup warm water (about 110°F or 43°C), 2 tbsp olive oil [...]“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14118,
+      "char_end": 14375,
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\nA. Fuß- bzw. Endnote: 1. ChatGPT, response to “Explain how to make pizza dough from common household ingredients,” OpenAI, March 7, 2023, version xy.\nB. Im Text-Angabe: „xxx“ (ChatGPT, March 7, 2023, version xy).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14375,
+      "char_end": 14441,
+      "text": "\n\n#### c. MLA-Style: https://style.mla.org/citing-generative-ai/\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14441,
+      "char_end": 14578,
+      "text": "Auch im MLA-Style wird die Nutzung individueller Verlinkungen von Chatverläufen zur Dokumentation des Beitrags von KI-Systemen gefordert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14580,
+      "char_end": 15100,
+      "text": "**Zitationsbeispiel:**\n\nWhen asked to describe the symbolism of the green light in The Great Gatsby, ChatGPT provided a summary about optimism, the unattainability of the American dream, greed, and covetousness. However, when further prompted to cite the source on which that summary was based, it noted that it lacked “the ability to conduct research or cite sources independently” but that it could “provide a list of scholarly sources related to the symbolism of the green light in The Great Gatsby” (“In 200 words”).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15102,
+      "char_end": 15322,
+      "text": "**Referenzangabe im Literaturverzeichnis:**\n\n“In 200 words, describe the symbolism of the green light in The Great Gatsby” follow-up prompt to list sources. ChatGPT, version xy, OpenAI, 9 Mar. 2023, chat.openai.com/chat.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15324,
+      "char_end": 15512,
+      "text": "**Referenzangaben zu KI-generierten Bildern:**\n\nFig. 1. \"Pointillist painting of a sheep in a sunny field of blue flowers\" prompt, DALL-E, version 2, OpenAI, 8 Mar. 2023, labs.openai.com/.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15512,
       "char_end": 16657,
-      "text": ".\n\n",
+      "text": "\n\n## FOOTNOTES\n\n¹ Siehe u. a. Leibniz-Gemeinschaft (2021): Leibniz-Kodex gute wissenschaftliche Praxis. URL: www.leibniz-gemeinschaft.de/kodex-gute-wissenschaftliche-praxis; Deutsche Forschungsgemeinschaft (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. URL: https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-al-data.pdf; European Commission, Directorate-General for Research and Innovation (2024): Living guidelines on the responsible use of generative AI in research. URL: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf.\n\n² Siehe auch Leibniz-Gemeinschaft (2023): Empfehlung zur Sicherung der guten wissenschaftlichen Praxis bei Koautorschaften. Präsidium der Leibniz-Gemeinschaft. URL: https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/%C3%9Cber_uns/Gute_wissenschaftliche_Praxis/Empfehlung_Koautorschaften.pdf.\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -408,19 +1010,28 @@
       "char_start": 16657,
       "char_end": 16784,
       "text": "³ Diese Aussage zielt nicht auf Forschung, die in Gegenstand oder Vorgehensweise lege artis entsprechende KI-Systeme verwendet.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
       "char_start": 16786,
-      "char_end": 16875,
-      "text": "⁴ Die Ausführungen beziehen sich auf KI-Anwendungen im Sinne von generativen KI-Systemen.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 23,
+      "char_end": 16874,
+      "text": "⁴ Die Ausführungen beziehen sich auf KI-Anwendungen im Sinne von generativen KI-Systemen",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 49,
       "match_type": "exact"
+    },
+    {
+      "char_start": 16874,
+      "char_end": 16875,
+      "text": ".",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     }
   ]
 }

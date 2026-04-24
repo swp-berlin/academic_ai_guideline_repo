@@ -3,95 +3,143 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und das wissenschaftliche Publizieren. Die Entwicklungen bergen jedoch zugleich eine Reihe von Risiken in sich."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und das wissenschaftliche Publizieren."
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Mit der vorliegenden KI-Leitlinie adressiert Berlin Universities Publishing (BerlinUP) diese Risiken in Bezug auf das wissenschaftliche Publizieren und regelt den Umgang mit künstlicher Intelligenz bzw. den Einsatz von KI-Tools bei Verlagspublikationen."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Entwicklungen bergen jedoch zugleich eine Reihe von Risiken in sich."
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Als Orientierung dienen dabei die von der Europäischen Kommission in Auftrag gegebenen Ethik-Leitlinien für eine vertrauenswürdige KI, das Positionspaper vom Committee of Publication Ethics (COPE) Authorship and AI, die Empfehlungen der World Association of Medical Editors (WAME) Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Mit der vorliegenden KI-Leitlinie adressiert Berlin Universities Publishing (BerlinUP) diese Risiken in Bezug auf das wissenschaftliche Publizieren und regelt den Umgang mit künstlicher Intelligenz bzw. den Einsatz von KI-Tools bei Verlagspublikationen."
     },
     {
       "id": 4,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Künstliche Intelligenz gilt als Überbegriff für Anwendungen, bei denen Maschinen menschenähnliche Intelligenzleistungen erbringen."
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Als Orientierung dienen dabei die von der Europäischen Kommission in Auftrag gegebenen Ethik-Leitlinien für eine vertrauenswürdige KI, das Positionspaper vom Committee of Publication Ethics (COPE) Authorship and AI, die Empfehlungen der World Association of Medical Editors (WAME) Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG."
     },
     {
       "id": 5,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Im Bereich des wissenschaftlichen Publizierens sind vor allem generative KI-Tools relevant, die durch eine natürlichsprachliche Eingabe („Prompt“) neue Inhalte generieren in Form von Texten, Bildern, Audios, Videos, Softwarecodes oder Datensätzen."
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Künstliche Intelligenz gilt als Überbegriff für Anwendungen, bei denen Maschinen menschenähnliche Intelligenzleistungen erbringen."
     },
     {
       "id": 6,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Dabei kommt insbesondere die Technologie des maschinellen Lernens zur Anwendung, bei der auf Grundlage von Trainingsdaten autonom Muster erkannt und Algorithmen trainiert werden, um der jeweiligen Eingabe zu entsprechen."
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Im Bereich des wissenschaftlichen Publizierens sind vor allem generative KI-Tools relevant, die durch eine natürlichsprachliche Eingabe („Prompt“) neue Inhalte generieren in Form von Texten, Bildern, Audios, Videos, Softwarecodes oder Datensätzen."
     },
     {
       "id": 7,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Zu den bekannten Beispielen zählen textgenerierende Chatbots wie ChatGPT, Copilot, Gemini oder LLaMA sowie bildgenerierende KI-Tools wie DALL-E, Stable Diffusion oder Midjourney."
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Dabei kommt insbesondere die Technologie des maschinellen Lernens zur Anwendung, bei der auf Grundlage von Trainingsdaten autonom Muster erkannt und Algorithmen trainiert werden, um der jeweiligen Eingabe zu entsprechen."
     },
     {
       "id": 8,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust ist. Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit."
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Zu den bekannten Beispielen zählen textgenerierende Chatbots wie ChatGPT, Copilot, Gemini oder LLaMA sowie bildgenerierende KI-Tools wie DALL-E, Stable Diffusion oder Midjourney."
     },
     {
       "id": 9,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Aus diesen Grundsätzen leiten sich für BerlinUP folgende Anwendungsfälle zum Umgang mit KI beim wissenschaftlichen Publizieren ab, die auf Grund der dynamischen Entwicklungen regelmäßig evaluiert werden."
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust ist."
     },
     {
       "id": 10,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "**KI-Tools können keine Autor*innenschaft übernehmen:** Gemäß der Auffassung von COPE, WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw. Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit übernehmen können. KI-Tools sind weder natürliche noch juristischen Personen und können daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine möglichen Interessenkonflikte feststellen. BerlinUP schließt sich dieser Auffassung an und akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen aufgeführt werden."
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit."
     },
     {
       "id": 11,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "**Der Einsatz von KI-Tools muss transparent dargelegt werden:** Die Verwendung von KI-Tools beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden. Dabei muss klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz kamen und wie die KI-Tools verwendet wurden. Dies gilt auch für nicht zur Veröffentlichung vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften."
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Aus diesen Grundsätzen leiten sich für BerlinUP folgende Anwendungsfälle zum Umgang mit KI beim wissenschaftlichen Publizieren ab, die auf Grund der dynamischen Entwicklungen regelmäßig evaluiert werden."
     },
     {
       "id": 12,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Siehe auch: *Handreichung zur Zitation von KI-Tools*. https://www.berlin-universities-publishing.de/ueber-uns/policies/ki-leitlinie/ki-handreichung/index.html"
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**KI-Tools können keine Autor*innenschaft übernehmen:** Gemäß der Auffassung von COPE, WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw. Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit übernehmen können."
     },
     {
       "id": 13,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "**Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten:** Die Autor*innen sind in vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für die Teile, die mit KI-Tools erstellt wurden. Das schließt die Richtigkeit der Darstellung, die Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein. Somit haften die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen Grundsätze des wissenschaftlichen Publizierens."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Tools sind weder natürliche noch juristischen Personen und können daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine möglichen Interessenkonflikte feststellen."
     },
     {
       "id": 14,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "BerlinUP schließt sich dieser Auffassung an und akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen aufgeführt werden."
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Der Einsatz von KI-Tools muss transparent dargelegt werden:** Die Verwendung von KI-Tools beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden."
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei muss klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz kamen und wie die KI-Tools verwendet wurden."
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies gilt auch für nicht zur Veröffentlichung vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften."
+    },
+    {
+      "id": 18,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Siehe auch: *Handreichung zur Zitation von KI-Tools*. https://www.berlin-universities-publishing.de/ueber-uns/policies/ki-leitlinie/ki-handreichung/index.html"
+    },
+    {
+      "id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "**Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten:** Die Autor*innen sind in vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für die Teile, die mit KI-Tools erstellt wurden."
+    },
+    {
+      "id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Das schließt die Richtigkeit der Darstellung, die Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein."
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Somit haften die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen Grundsätze des wissenschaftlichen Publizierens."
+    },
+    {
+      "id": 22,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "text": "Creative Commons CCO – Soweit rechtlich möglich, wird auf alle Urheberrechte und verbundenen oder verwandten Schutzrechte an dem Text verzichtet. Der Text wird veröffentlicht aus: Deutschland."
     }
   ],
   "validation": {
-    "total": 14,
-    "matched": 14,
+    "total": 22,
+    "matched": 22,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.796,
+    "source_coverage": 0.793,
     "uncovered_chars": 1117,
     "uncovered_gaps": 3,
     "uncovered": [
@@ -127,20 +175,29 @@
     },
     {
       "char_start": 317,
-      "char_end": 609,
-      "text": "Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und das wissenschaftliche Publizieren. Die Entwicklungen bergen jedoch zugleich eine Reihe von Risiken in sich.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_end": 536,
+      "text": "Die rasanten Entwicklungen im Bereich der künstlichen Intelligenz (KI) versprechen einen vielfältigen Nutzen für die Gesellschaft im Allgemeinen. Das gilt auch für die Wissenschaft und das wissenschaftliche Publizieren.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 537,
+      "char_end": 609,
+      "text": "Die Entwicklungen bergen jedoch zugleich eine Reihe von Risiken in sich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 610,
       "char_end": 863,
       "text": "Mit der vorliegenden KI-Leitlinie adressiert Berlin Universities Publishing (BerlinUP) diese Risiken in Bezug auf das wissenschaftliche Publizieren und regelt den Umgang mit künstlicher Intelligenz bzw. den Einsatz von KI-Tools bei Verlagspublikationen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
@@ -148,8 +205,8 @@
       "char_end": 1433,
       "text": "Als Orientierung dienen dabei die von der Europäischen Kommission in Auftrag gegebenen Ethik-Leitlinien für eine vertrauenswürdige KI, das Positionspaper vom Committee of Publication Ethics (COPE) Authorship and AI, die Empfehlungen der World Association of Medical Editors (WAME) Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications sowie die Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
@@ -157,8 +214,8 @@
       "char_end": 1565,
       "text": "Künstliche Intelligenz gilt als Überbegriff für Anwendungen, bei denen Maschinen menschenähnliche Intelligenzleistungen erbringen.",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 4,
+      "B_label": "definition of AI",
+      "segment_id": 5,
       "match_type": "exact"
     },
     {
@@ -166,44 +223,53 @@
       "char_end": 1813,
       "text": "Im Bereich des wissenschaftlichen Publizierens sind vor allem generative KI-Tools relevant, die durch eine natürlichsprachliche Eingabe („Prompt“) neue Inhalte generieren in Form von Texten, Bildern, Audios, Videos, Softwarecodes oder Datensätzen.",
       "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 5,
+      "B_label": "other definitions/terminology",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
       "char_start": 1815,
       "char_end": 2035,
       "text": "Dabei kommt insbesondere die Technologie des maschinellen Lernens zur Anwendung, bei der auf Grundlage von Trainingsdaten autonom Muster erkannt und Algorithmen trainiert werden, um der jeweiligen Eingabe zu entsprechen.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 6,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 2036,
       "char_end": 2214,
       "text": "Zu den bekannten Beispielen zählen textgenerierende Chatbots wie ChatGPT, Copilot, Gemini oder LLaMA sowie bildgenerierende KI-Tools wie DALL-E, Stable Diffusion oder Midjourney.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 7,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 2216,
+      "char_end": 2313,
+      "text": "Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust ist.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2314,
       "char_end": 2480,
-      "text": "Eine vertrauenswürdige KI zeichnet sich dadurch aus, dass sie rechtmäßig, ethisch und robust ist. Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 8,
+      "text": "Zu den wichtigsten ethischen Grundsätzen bei der Verwendung von KI-Tools zählen die Achtung der menschlichen Autonomie, Schadensverhütung, Fairness und Erklärbarkeit.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
       "char_start": 2481,
       "char_end": 2684,
       "text": "Aus diesen Grundsätzen leiten sich für BerlinUP folgende Anwendungsfälle zum Umgang mit KI beim wissenschaftlichen Publizieren ab, die auf Grund der dynamischen Entwicklungen regelmäßig evaluiert werden.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 9,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 11,
       "match_type": "exact"
     },
     {
@@ -217,11 +283,29 @@
     },
     {
       "char_start": 2711,
+      "char_end": 2985,
+      "text": "**KI-Tools können keine Autor*innenschaft übernehmen:** Gemäß der Auffassung von COPE, WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw. Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit übernehmen können.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2986,
+      "char_end": 3177,
+      "text": "KI-Tools sind weder natürliche noch juristischen Personen und können daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine möglichen Interessenkonflikte feststellen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3178,
       "char_end": 3331,
-      "text": "**KI-Tools können keine Autor*innenschaft übernehmen:** Gemäß der Auffassung von COPE, WAME und DFG können KI-Tools die Anforderungen an eine Autor*innenschaft bzw. Urheber*innenschaft nicht erfüllen, da sie keine Verantwortung für die eingereichte Arbeit übernehmen können. KI-Tools sind weder natürliche noch juristischen Personen und können daher keine Rechteübertragungen bzw. Lizenzvereinbarungen regeln und auch keine möglichen Interessenkonflikte feststellen. BerlinUP schließt sich dieser Auffassung an und akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen aufgeführt werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 10,
+      "text": "BerlinUP schließt sich dieser Auffassung an und akzeptiert keine Einreichungen, bei denen KI-Tools als Autor*innen bzw. Ko-Autor*innen aufgeführt werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
@@ -235,20 +319,38 @@
     },
     {
       "char_start": 3335,
+      "char_end": 3601,
+      "text": "**Der Einsatz von KI-Tools muss transparent dargelegt werden:** Die Verwendung von KI-Tools beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3602,
+      "char_end": 3747,
+      "text": "Dabei muss klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz kamen und wie die KI-Tools verwendet wurden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3748,
       "char_end": 3954,
-      "text": "**Der Einsatz von KI-Tools muss transparent dargelegt werden:** Die Verwendung von KI-Tools beim Erstellen von Inhalten einer eingereichten Arbeit (z.B. Texte, Tabellen, Diagramme, Bilder, Audios, Videos, Softwarecodes, Datensätze) muss transparent dargelegt werden. Dabei muss klar hervorgehen, welche Inhalte mit KI-Tools erzeugt wurden, welche KI-Tools zum Einsatz kamen und wie die KI-Tools verwendet wurden. Dies gilt auch für nicht zur Veröffentlichung vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 11,
+      "text": "Dies gilt auch für nicht zur Veröffentlichung vorgesehene Inhalte zur internen Kommunikation wie Abstracts oder Exposés sowie für den Einsatz von KI-Tools im Produktionsprozess für Bücher und Zeitschriften.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 3957,
       "char_end": 4115,
       "text": "Siehe auch: *Handreichung zur Zitation von KI-Tools*. https://www.berlin-universities-publishing.de/ueber-uns/policies/ki-leitlinie/ki-handreichung/index.html",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 12,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
@@ -262,20 +364,38 @@
     },
     {
       "char_start": 4119,
+      "char_end": 4354,
+      "text": "**Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten:** Die Autor*innen sind in vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für die Teile, die mit KI-Tools erstellt wurden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4355,
+      "char_end": 4480,
+      "text": "Das schließt die Richtigkeit der Darstellung, die Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4481,
       "char_end": 4634,
-      "text": "**Autor*innen tragen die Verantwortung für ihre eingereichten Arbeiten:** Die Autor*innen sind in vollem Umfang für den Inhalt ihrer eingereichten Arbeit verantwortlich, und damit ebenso für die Teile, die mit KI-Tools erstellt wurden. Das schließt die Richtigkeit der Darstellung, die Unterlassung von Plagiaten sowie die angemessene Nennung aller Quellen ein. Somit haften die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen Grundsätze des wissenschaftlichen Publizierens.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 13,
+      "text": "Somit haften die Autor*innen für Verstöße gegen die gute wissenschaftliche Praxis und gegen die ethischen Grundsätze des wissenschaftlichen Publizierens.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
       "match_type": "exact"
     },
     {
       "char_start": 4636,
       "char_end": 4828,
       "text": "Creative Commons CCO – Soweit rechtlich möglich, wird auf alle Urheberrechte und verbundenen oder verwandten Schutzrechte an dem Text verzichtet. Der Text wird veröffentlicht aus: Deutschland.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 14,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {

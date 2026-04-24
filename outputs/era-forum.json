@@ -3,648 +3,439 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B1",
+      "B_label": "definition of AI",
       "text": "Artificial intelligence (AI) has become an integral part of our daily lives, transforming how we live and work. Over the past few years, there has been a rapid and disruptive acceleration of AI capabilities, driven by significant advances in widespread data availability, computing power and machine learning techniques. Remarkable strides were made in particular in the development of foundation models - AI models trained on extensive amounts of unlabelled data. These advancements have given rise to what is known as 'General purpose AI', capable of performing a wide array of tasks. This includes \"generative AI\" which can generate various forms of new content (text, code, data, images, music, voice, videos, etc.), usually based on instructions (also known as prompts) provided by the user. The quality of the output produced by these models is such that it may be difficult to distinguish it from human-generated content.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "text": "The widespread and rapid uptake of generative AI has drawn a lot of attention and led to wide policy and institutional responses. The EU is taking the global lead with the AI Act, and other international governance efforts are taking place. These include the Hiroshima process led by the G7, the Bletchley Declaration signed after the first AI Safety Summit, the Paris Statement signed after the 2025 AI Action Summit and the Council of Europe Framework Convention on AI.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Generative AI provides many opportunities for different sectors. However, it also harbours risks, such as the large-scale generation of disinformation, intellectual property and data protection issues and other unethical uses with significant societal and environmental consequences.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI provides many opportunities for different sectors.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Research is one of the sectors that could be most significantly disrupted by generative AI. AI has great potential for accelerating scientific discovery, leading to new research breakthroughs and significant productivity gains, and improving the effectiveness and pace of research and verification processes. Positive examples of the use of these tools by researchers include supporting non-native speakers in producing texts in multiple languages, producing text summaries from different sources across extremely large corpuses quickly, automatically retrieving and contextualising a wide body of knowledge and helping to write code to analyse data.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "However, it also harbours risks, such as the large-scale generation of disinformation, intellectual property and data protection issues and other unethical uses with significant societal and environmental consequences.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "However, the technology also entails the risk of abuse. Some risks are due to the tool's technical limitations, and others have to do with the (intentional or unintentional) use of the tool in ways that erode sound research practices. Other risks for research in Europe could stem from the proprietary nature of some of the tools (for example, lack of openness, fees to access the service, use of input data), the concentration of ownership or the undesirable transfer of critical technology and intellectual property.",
+      "text": "Research is one of the sectors that could be most significantly disrupted by generative AI. AI has great potential for accelerating scientific discovery, leading to new research breakthroughs and significant productivity gains, and improving the effectiveness and pace of research and verification processes. Positive examples of the use of these tools by researchers include supporting non-native speakers in producing texts in multiple languages, producing text summaries from different sources across extremely large corpuses quickly, automatically retrieving and contextualising a wide body of knowledge and helping to write code to analyse data. However, the technology also entails the risk of abuse. Some risks are due to the tool's technical limitations, and others have to do with the (intentional or unintentional) use of the tool in ways that erode sound research practices. Other risks for research in Europe could stem from the proprietary nature of some of the tools (for example, lack of openness, fees to access the service, use of input data), the concentration of ownership or the undesirable transfer of critical technology and intellectual property.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "The impact of generative AI on research and various aspects of the scientific process calls for reflection, for example, when working with text (summarising papers, brainstorming or exploring ideas, drafting or translating). In many respects, these tools could harm research integrity and raise questions about the ability of current models to combat deceptive scientific practices and misinformation.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Different institutions, including universities, research organisations, funding bodies and publishers have issued guidance on how to use these tools appropriately to ensure that benefits of those tools are fully utilised. The proliferation of guidelines and recommendations has created a complex landscape that makes it difficult to decide which guidelines should be followed in a particular context.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "For this reason, the European Research Area Forum (composed of European countries and research and innovation stakeholders), decided to develop guidelines on the use of generative AI in research for: funding bodies, research organisations and researchers, both in the public and private research ecosystems.",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "These guidelines focus on one particular type of AI used in the research process: generative AI. This is an important step to prevent misuse and ensure that generative AI plays a positive role as part of research practices.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "One of the goals of these guidelines is that the scientific community uses this technology in a responsible manner. Yet, the development of a robust framework for generative AI in scientific research cannot be the sole responsibility of policymakers (at European and national levels). Universities, research organisations, funding bodies, research libraries, learned societies, publishers, research managers, research support staff and researchers at all stages of their careers are essential in shaping the discussion on AI and how it can serve the public interest in research. They should all actively engage in discussions about the responsible and effective deployment of AI applications, promoting awareness and cultivating a responsible use of AI as part of a research culture based on shared values. Rules and recommendations must go hand in hand with a broad engagement of those involved in public and private research, both organisations and individuals, to develop a culture of using generative AI in research appropriately and effectively.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "These guidelines intend to set out common directions on the responsible use of generative AI. While non-binding, they should be considered as a supporting tool for researchers, research organisations and research funding bodies, including the ones applying to the European Framework Programme for Research and Innovation. They take into account key principles on research integrity as well as already existing frameworks for the use of AI in general and in research specifically. Users of these guidelines are encouraged to adapt them to their specific contexts and situations, keeping proportionality in mind.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "These guidelines complement and build on the EU AI policy framework, including the AI Act. They complement other policy activities on the impact of AI in science. These include the opinion of the Scientific Advice Mechanism (SAM) on AI and a policy brief published by the European Commission’s Directorate-General for Research and Innovation, framing challenges and opportunities.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "The set of principles framing these guidelines are based on pre-existing relevant frameworks:\n\n- the European Code of Conduct for Research Integrity;\n- the work and guidelines on trustworthy AI, developed by the High-Level Expert Group on AI;",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The set of principles framing these guidelines are based on pre-existing relevant frameworks:\n- the European Code of Conduct for Research Integrity;\n- the work and guidelines on trustworthy AI, developed by the High-Level Expert Group on AI;",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Building on the commonalities of the currently emerging guidelines from various stakeholders, the key principles behind these guidelines for the responsible use of generative AI in research are:\n\n- **Reliability** in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources. This includes aspects related to verifying and reproducing the information produced by the AI for research. It also involves being aware of possible equality and non-discrimination issues in relation to bias and inaccuracies.\n- **Honesty** in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially. This principle includes disclosing that generative AI has been used.\n- **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the limitations of the technology, its environmental impact and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm). This includes the proper management of information, respect for privacy, confidentiality and intellectual property rights, and proper citation.\n- **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. This includes responsibility for all output a researcher produces, underpinned by the notion of human agency and oversight.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Building on the commonalities of the currently emerging guidelines from various stakeholders, the key principles behind these guidelines for the responsible use of generative AI in research are:\n- **Reliability** in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources. This includes aspects related to verifying and reproducing the information produced by the AI for research. It also involves being aware of possible equality and non-discrimination issues in relation to bias and inaccuracies.\n- **Honesty** in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially. This principle includes disclosing that generative AI has been used.\n- **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the limitations of the technology, its environmental impact and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm). This includes the proper management of information, respect for privacy, confidentiality and intellectual property rights, and proper citation.\n- **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. This includes responsibility for all output a researcher produces, underpinned by the notion of human agency and oversight.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "Generative AI may create possibilities and risks that can be hardly anticipated and fully comprehended today. These guidelines are based on the current state of the technology and the surrounding policy landscape. Given the dynamic nature of both, these guidelines will have to adapt and evolve continuously. They will be updated on a regular basis to ensure that they remain a useful resource for researchers and organisations. These guidelines were developed and will continue to be developed collaboratively as part of the ERA Forum activities. Users of these guidelines may provide feedback and suggestions for adaptations in the feedback form.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "For generative AI to be used in a responsible manner, researchers should:\n\n1. Remain ultimately responsible for scientific output.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "For generative AI to be used in a responsible manner, researchers should:\n1. Remain ultimately responsible for scientific output.\n- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.\n- Researchers maintain a critical approach to using the output produced by generative AI and are aware of the tools' limitations, such as bias, hallucinations and inaccuracies.\n- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative AI models can exhibit limitations that impact both their responses and usability. The most common types are:\n**Training Data Bias**: Biases in the data used to train generative AI models can lead to skewed responses, reflecting inaccuracies or systemic biases within the source material.\n\n**Prompt Bias**: Models may align their answers with the perceived beliefs or preferences of the user, a phenomenon known as sycophantic behaviour, potentially leading to misleadingly agreeable or biased outputs.\n\n**Invented Citations**: generative AI models may generate plausible sounding but incorrect citations, which can mislead users who rely on those sources for research or verification.\n\n**Interpretability**: generative AI models operate as \"black boxes,\" making it difficult to understand how specific responses are generated. This opacity underscores the importance of cross validation, especially in automated data analysis, where model responses can significantly impact conclusions.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Researchers maintain a critical approach to using the output produced by generative AI and are aware of the tools' limitations, such as bias, hallucinations and inaccuracies.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "2. Use generative AI transparently.\n- Researchers, to be transparent, detail which generative AI tools have been used substantially in their research processes. When generative AI meaningfully shapes results, researchers transparently note its use in the methods section (or equivalent) responsibly evaluating the extent of the contribution. References to the tool could include the name, version, date, etc. and how it was used and affected the research process. If relevant, researchers make the input (prompts) and output available, in line with open science principles.\n- Researchers take into account the stochastic (random) nature of generative AI tools, which is the tendency to produce different output from the same input. Researchers aim for reproducibility and robustness in their results and conclusions. They disclose or discuss the limitations of generative AI tools used, including possible biases in the generated content, as well as possible mitigation measures.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Pay particular attention to issues related to privacy, confidentiality and intellectual property rights when sharing sensitive or protected information with AI tools.\n- Researchers remain mindful that generated or uploaded input (text, data, prompts, images, etc.) could be used for other purposes, such as the training of AI models. Therefore, they protect unpublished or sensitive work (such as their own or others' unpublished work) by taking care not to upload it into an external AI system unless there are assurances that the data will not be re-used, e.g., to train future language models or to the untraceable and unverifiable reuse of data.\n- Researchers take care not to provide third parties' personal data to external generative AI systems unless the data subject (individual) has given them their consent and researchers have a clear goal for which the personal data are to be used so compliance with EU data protection rules is ensured.\n- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights. They check, for example, their institutional guidelines, the privacy options of the tools, who is managing the tool (public or private institutions, companies, etc.), where the tool is running and implications for any information uploaded. This could range from closed environments, hosting on a third-party infrastructure with guaranteed privacy, to open internet-accessible platforms.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Generative AI models can exhibit limitations that impact both their responses and usability. The most common types are:\n\n**Training Data Bias**: Biases in the data used to train generative AI models can lead to skewed responses, reflecting inaccuracies or systemic biases within the source material.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "4. Respect applicable national, EU and international legislation. In particular, the output produced by generative AI can be especially sensitive in relation to the protection of intellectual property rights and personal data.\n- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI. Researchers respect others' authorship and cite their work where appropriate. The output of a generative AI (such as a large language model) may be based on someone else's results and require proper recognition and citation.\n- The output produced by generative AI can contain personal data. If this becomes apparent, researchers are responsible for handling any personal data output responsibly and appropriately, and EU data protection rules are to be followed.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "**Prompt Bias**: Models may align their answers with the perceived beliefs or preferences of the user, a phenomenon known as sycophantic behaviour, potentially leading to misleadingly agreeable or biased outputs.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "5. Continuously learn how to use generative AI tools properly to maximise their benefits, including by undertaking training.\n- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay up to date on the best practices and share them with colleagues and other stakeholders.\n- Researchers aim at minimising the environmental impact of generative AI, by evaluating whether and which AI tool is best suited for the intended task and by using the most effective prompting techniques.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "**Invented Citations**: generative AI models may generate plausible sounding but incorrect citations, which can mislead users who rely on those sources for research or verification.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "6. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc).\n- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools' limitations (such as hallucinations and bias).\n- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (under the conditions detailed above in the recommendation for researchers #3).",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "**Interpretability**: generative AI models operate as \"black boxes,\" making it difficult to understand how specific responses are generated. This opacity underscores the importance of cross validation, especially in automated data analysis, where model responses can significantly impact conclusions.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "For generative AI to be used in a responsible manner, research organisations should:\n1. Promote, guide and support the responsible use of generative AI in research activities.\n- Research organisations provide and/or facilitate training for all career levels and disciplines, including for research managers and research support staff, on using generative AI, especially (but not exclusively) on verifying output, maintaining privacy, addressing biases and protecting intellectual property rights and sensitive knowledge.\n- Research organisations promote an atmosphere of trust where researchers are encouraged to transparently disclose the use of generative AI without concerns for adverse effects.\n- Research organisations provide support and guidelines to ensure compliance with ethical and legal requirements (EU data protection rules, protection of intellectual property rights, etc.).",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2. Use generative AI transparently.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "2. Actively keep track of the evolution and use of generative AI systems within their organisations.\n- Research organisations remain mindful of the research activities and processes for which they use generative AI to better support its future use. This knowledge can:\n - be used to provide further guidance on using generative AI, help identify training needs and understand what kind of support could be most beneficial;\n - help anticipate and guard against possible misuse and abuse of AI tools;\n - be published and shared with the scientific community.\n- Research organisations analyse the limitations of the technology and tools and provide feedback and recommendations to their researchers.\n- Research organisations keep track of the environmental impact of generative AI within their organisations and promote awareness raising initiatives to help their staff pick the most sustainable option.",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers, to be transparent, detail which generative AI tools have been used substantially in their research processes. When generative AI meaningfully shapes results, researchers transparently note its use in the methods section (or equivalent) responsibly evaluating the extent of the contribution. References to the tool could include the name, version, date, etc. and how it was used and affected the research process. If relevant, researchers make the input (prompts) and output available, in line with open science principles.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Reference or integrate these generative AI guidelines into their general research guidelines for good research practices and ethics.\n- Using these guidelines as a basis for discussion, research organisations openly consult their research staff and stakeholders on the use of generative AI and related policies.\n- Research organisations apply these guidelines whenever possible. If needed, they could be complemented with specific additional recommendations and/or exceptions that should be published for transparency.",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers take into account the stochastic (random) nature of generative AI tools, which is the tendency to produce different output from the same input. Researchers aim for reproducibility and robustness in their results and conclusions. They disclose or discuss the limitations of generative AI tools used, including possible biases in the generated content, as well as possible mitigation measures.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "4. Whenever possible and necessary, implement locally hosted or cloud-based generative AI tools that they govern themselves. This enables their employees to feed their scientific data into a tool that ensures data protection and confidentiality.\n- Organisations ensure the appropriate level of cybersecurity of these systems, especially those connected to the internet.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "3. Pay particular attention to issues related to privacy, confidentiality and intellectual property rights when sharing sensitive or protected information with AI tools.",
-      "repaired": false
-    },
-    {
-      "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers remain mindful that generated or uploaded input (text, data, prompts, images, etc.) could be used for other purposes, such as the training of AI models. Therefore, they protect unpublished or sensitive work (such as their own or others' unpublished work) by taking care not to upload it into an external AI system unless there are assurances that the data will not be re-used, e.g., to train future language models or to the untraceable and unverifiable reuse of data.",
-      "repaired": false
-    },
-    {
-      "id": 29,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers take care not to provide third parties' personal data to external generative AI systems unless the data subject (individual) has given them their consent and researchers have a clear goal for which the personal data are to be used so compliance with EU data protection rules is ensured.",
-      "repaired": false
-    },
-    {
-      "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights. They check, for example, their institutional guidelines, the privacy options of the tools, who is managing the tool (public or private institutions, companies, etc.), where the tool is running and implications for any information uploaded. This could range from closed environments, hosting on a third-party infrastructure with guaranteed privacy, to open internet-accessible platforms.",
-      "repaired": false
-    },
-    {
-      "id": 31,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "4. Respect applicable national, EU and international legislation. In particular, the output produced by generative AI can be especially sensitive in relation to the protection of intellectual property rights and personal data.",
-      "repaired": false
-    },
-    {
-      "id": 32,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI. Researchers respect others' authorship and cite their work where appropriate. The output of a generative AI (such as a large language model) may be based on someone else's results and require proper recognition and citation.",
-      "repaired": false
-    },
-    {
-      "id": 33,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- The output produced by generative AI can contain personal data. If this becomes apparent, researchers are responsible for handling any personal data output responsibly and appropriately, and EU data protection rules are to be followed.",
-      "repaired": false
-    },
-    {
-      "id": 34,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "5. Continuously learn how to use generative AI tools properly to maximise their benefits, including by undertaking training.",
-      "repaired": false
-    },
-    {
-      "id": 35,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay up to date on the best practices and share them with colleagues and other stakeholders.",
-      "repaired": false
-    },
-    {
-      "id": 36,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers aim at minimising the environmental impact of generative AI, by evaluating whether and which AI tool is best suited for the intended task and by using the most effective prompting techniques.",
-      "repaired": false
-    },
-    {
-      "id": 37,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "6. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc).",
-      "repaired": false
-    },
-    {
-      "id": 38,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools' limitations (such as hallucinations and bias).",
-      "repaired": false
-    },
-    {
-      "id": 39,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (under the conditions detailed above in the recommendation for researchers #3).",
-      "repaired": false
-    },
-    {
-      "id": 40,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "For generative AI to be used in a responsible manner, research organisations should:\n\n1. Promote, guide and support the responsible use of generative AI in research activities.",
-      "repaired": false
-    },
-    {
-      "id": 41,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- Research organisations provide and/or facilitate training for all career levels and disciplines, including for research managers and research support staff, on using generative AI, especially (but not exclusively) on verifying output, maintaining privacy, addressing biases and protecting intellectual property rights and sensitive knowledge.",
-      "repaired": false
-    },
-    {
-      "id": 42,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research organisations promote an atmosphere of trust where researchers are encouraged to transparently disclose the use of generative AI without concerns for adverse effects.",
-      "repaired": false
-    },
-    {
-      "id": 43,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research organisations provide support and guidelines to ensure compliance with ethical and legal requirements (EU data protection rules, protection of intellectual property rights, etc.).",
-      "repaired": false
-    },
-    {
-      "id": 44,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "2. Actively keep track of the evolution and use of generative AI systems within their organisations.",
-      "repaired": false
-    },
-    {
-      "id": 45,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "- Research organisations remain mindful of the research activities and processes for which they use generative AI to better support its future use. This knowledge can:\n - be used to provide further guidance on using generative AI, help identify training needs and understand what kind of support could be most beneficial;\n - help anticipate and guard against possible misuse and abuse of AI tools;\n - be published and shared with the scientific community.",
-      "repaired": false
-    },
-    {
-      "id": 46,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Research organisations analyse the limitations of the technology and tools and provide feedback and recommendations to their researchers.",
-      "repaired": false
-    },
-    {
-      "id": 47,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research organisations keep track of the environmental impact of generative AI within their organisations and promote awareness raising initiatives to help their staff pick the most sustainable option.",
-      "repaired": false
-    },
-    {
-      "id": 48,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "3. Reference or integrate these generative AI guidelines into their general research guidelines for good research practices and ethics.",
-      "repaired": false
-    },
-    {
-      "id": 49,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "- Using these guidelines as a basis for discussion, research organisations openly consult their research staff and stakeholders on the use of generative AI and related policies.",
-      "repaired": false
-    },
-    {
-      "id": 50,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research organisations apply these guidelines whenever possible. If needed, they could be complemented with specific additional recommendations and/or exceptions that should be published for transparency.",
-      "repaired": false
-    },
-    {
-      "id": 51,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "4. Whenever possible and necessary, implement locally hosted or cloud-based generative AI tools that they govern themselves. This enables their employees to feed their scientific data into a tool that ensures data protection and confidentiality.",
-      "repaired": false
-    },
-    {
-      "id": 52,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Organisations ensure the appropriate level of cybersecurity of these systems, especially those connected to the internet.",
-      "repaired": false
-    },
-    {
-      "id": 53,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Research funding organisations operate in different contexts and follow different mandates and regulations, which may not align with a single set of guidelines. The recommendations below outline a set of measures and good practices for organisations to implement in ways that best fit their specific circumstances and objectives.",
       "repaired": false
     },
     {
-      "id": 54,
+      "id": 28,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "For generative AI to be used in a responsible manner, research funding organisations should:\n1. Promote and support the responsible use of generative AI in research.\n- Research funding organisations design funding instruments that are open, receptive and supportive of the responsible and ethical use of generative AI technologies in research activities.\n- Research funding organizations require funded research and grantees to be in line with existing national, EU and international legislation (where applicable) and good practices for the use of generative AI.\n- Research funding organisations encourage researchers, research managers, research support staff and research organisations to use generative AI ethically and responsibly, including respecting legal and research standards requirements.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "2. Review the use of generative AI in their internal processes. They will lead the way by ensuring they use it transparently and responsibly.\n- Research funding organisations remain fully responsible for the use of generative AI in their activities, in line with the accountability principle that emphasises responsibility and human oversight.\n- Research funding organisations use generative AI transparently, in particular for activities related with the management of assessment and evaluation, and without compromising their fairness and the confidentiality of the content. Generative AI could be used to improve internal processes for funders, but it cannot take a role in the assessment or evaluation of the scientific content of projects.\n- When choosing generative AI tools, research funding organisations will carefully consider the tool's adherence to standards of quality, transparency, integrity, data protection, confidentiality and respect for intellectual property rights, as well as its environmental impact.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Request transparency from applicants on their use of generative AI facilitating ways to report it.\n- Applicants declare if they substantially used generative AI tool(s) to prepare their application.\n- Applicants provide information on the role of generative AI in the research activities proposed and carried out.\n- Research funding organisations promote an atmosphere where researchers can disclose the use of generative AI transparently and without concerns of being disadvantaged.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "4. Monitor and get actively involved in the fast-evolving generative AI landscape.\n- Research funding organisations promote and fund training and educational programmes for an ethical and responsible use of AI in scientific research.",
+      "repaired": false
+    },
+    {
+      "id": 32,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "For generative AI to be used in a responsible manner, research funding organisations should:\n\n1. Promote and support the responsible use of generative AI in research.",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The European Code of Conduct for Research Integrity by All European Academies (ALLEA) lays down a set of principles to produce sound research, including ethical aspects. These principles include:\n- reliability in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources;\n- honesty in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially;\n- respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment;\n- accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.",
       "repaired": false
     },
     {
-      "id": 55,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research funding organisations design funding instruments that are open, receptive and supportive of the responsible and ethical use of generative AI technologies in research activities.",
+      "id": 33,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The Ethics Guidelines for Trustworthy AI by the EU High-Level Expert Group on AI focuses on developing responsible AI systems (rather than using them). This work on trustworthy AI contains a set of ethical principles that were translated into operational requirements for developing AI systems. The requirements could be useful inspiration for drawing up guidelines on the use of generative AI.\n\nThe four ethical principles for AI systems are:\n1. respect for human autonomy;\n2. prevention of harm;\n3. fairness;\n4. explicability.\n\nThese ethical principles were used to develop these seven operational key requirements:\n1. human agency and oversight;\n2. technical robustness and safety;\n3. privacy and data governance;\n4. transparency;\n5. diversity, non-discrimination and fairness;\n6. environmental and societal well-being;\n7. accountability.",
       "repaired": false
     },
     {
-      "id": 56,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research funding organizations require funded research and grantees to be in line with existing national, EU and international legislation (where applicable) and good practices for the use of generative AI.",
+      "id": 34,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "KU Leuven principles were used in similar exercises and for the development of these guidelines:\n- transparency on the use of generative AI, depending on the type of use;\n- verification of the correctness of the generated output with attention to correctly attributing the source;\n- respect for personal data and confidential information by not entering these on platforms that are not managed on proprietary servers;\n- responsibility for the correct use of generative AI (primarily help and support) and the published output.",
       "repaired": false
     },
     {
-      "id": 57,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- Research funding organisations encourage researchers, research managers, research support staff and research organisations to use generative AI ethically and responsibly, including respecting legal and research standards requirements.",
-      "repaired": false
-    },
-    {
-      "id": 58,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "2. Review the use of generative AI in their internal processes. They will lead the way by ensuring they use it transparently and responsibly.",
-      "repaired": false
-    },
-    {
-      "id": 59,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "- Research funding organisations remain fully responsible for the use of generative AI in their activities, in line with the accountability principle that emphasises responsibility and human oversight.",
-      "repaired": false
-    },
-    {
-      "id": 60,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research funding organisations use generative AI transparently, in particular for activities related with the management of assessment and evaluation, and without compromising their fairness and the confidentiality of the content. Generative AI could be used to improve internal processes for funders, but it cannot take a role in the assessment or evaluation of the scientific content of projects.",
-      "repaired": false
-    },
-    {
-      "id": 61,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- When choosing generative AI tools, research funding organisations will carefully consider the tool's adherence to standards of quality, transparency, integrity, data protection, confidentiality and respect for intellectual property rights, as well as its environmental impact.",
-      "repaired": false
-    },
-    {
-      "id": 62,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "3. Request transparency from applicants on their use of generative AI facilitating ways to report it.",
-      "repaired": false
-    },
-    {
-      "id": 63,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Applicants declare if they substantially used generative AI tool(s) to prepare their application.",
-      "repaired": false
-    },
-    {
-      "id": 64,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Applicants provide information on the role of generative AI in the research activities proposed and carried out.",
-      "repaired": false
-    },
-    {
-      "id": 65,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Research funding organisations promote an atmosphere where researchers can disclose the use of generative AI transparently and without concerns of being disadvantaged.",
-      "repaired": false
-    },
-    {
-      "id": 66,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "4. Monitor and get actively involved in the fast-evolving generative AI landscape.",
-      "repaired": false
-    },
-    {
-      "id": 67,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- Research funding organisations promote and fund training and educational programmes for an ethical and responsible use of AI in scientific research.",
-      "repaired": false
-    },
-    {
-      "id": 68,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "The European Code of Conduct for Research Integrity by All European Academies (ALLEA) lays down a set of principles to produce sound research, including ethical aspects. These principles include:\n\n- reliability in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources;\n- honesty in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially;\n- respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment;\n- accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.",
-      "repaired": false
-    },
-    {
-      "id": 69,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "The Ethics Guidelines for Trustworthy AI by the EU High-Level Expert Group on AI focuses on developing responsible AI systems (rather than using them). This work on trustworthy AI contains a set of ethical principles that were translated into operational requirements for developing AI systems. The requirements could be useful inspiration for drawing up guidelines on the use of generative AI.\n\nThe four ethical principles for AI systems are:\n\n1. respect for human autonomy;\n2. prevention of harm;\n3. fairness;\n4. explicability.\n\nThese ethical principles were used to develop these seven operational key requirements:\n\n1. human agency and oversight;\n2. technical robustness and safety;\n3. privacy and data governance;\n4. transparency;\n5. diversity, non-discrimination and fairness;\n6. environmental and societal well-being;\n7. accountability.",
-      "repaired": false
-    },
-    {
-      "id": 70,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "KU Leuven principles were used in similar exercises and for the development of these guidelines:\n\n- transparency on the use of generative AI, depending on the type of use;\n- verification of the correctness of the generated output with attention to correctly attributing the source;\n- respect for personal data and confidential information by not entering these on platforms that are not managed on proprietary servers;\n- responsibility for the correct use of generative AI (primarily help and support) and the published output.",
-      "repaired": false
-    },
-    {
-      "id": 71,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 35,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Specialists in AI, generative AI, computer science, psychology and sociology hosted by the Institute for Advanced Study at the University of Amsterdam identified the principles of accountability, transparency and independent oversight (in relation to developers of generative AI). Based on these principles, they proposed living guidelines for the responsible use of generative AI.",
       "repaired": false
     },
     {
-      "id": 72,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 36,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "These principles could be complemented with those from other sources. These include the principles put forward by the Association for Computer Machinery on generative AI Technologies that have a broad scope for those developing, deploying and using the technology. Other sources are the Values Framework for the Organisation of Research developed by Science Europe or the STM principles for ethical and trustworthy AI.",
       "repaired": false
     },
     {
-      "id": 73,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 37,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "The ALLEA principles in the European Code of Conduct for Research Integrity serve as guidance for ethical and responsible research. The same value system applies when using generative AI in research. The ALLEA principles can therefore be used as a basis for these guidelines and be enriched with parts from the other frameworks described in the previous sections.",
       "repaired": false
     },
     {
-      "id": 74,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "guidelines on the responsible use of generative ai in research",
+      "id": 38,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "# 2. guidelines on the responsible use of generative ai in research ## 2.1. recommendations for researchers",
       "repaired": true
     },
     {
-      "id": 75,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "recommendations for researchers",
+      "id": 39,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## 2.2. recommendations for research organisations",
       "repaired": true
     },
     {
-      "id": 76,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "recommendations for research organisations",
+      "id": 40,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## 2.3. recommendations for research funding organisations",
       "repaired": true
     },
     {
-      "id": 77,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "recommendations for research funding organisations",
+      "id": 41,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## synthesis for the development of eu guidelines",
       "repaired": true
     },
     {
-      "id": 78,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "synthesis for the development of eu guidelines",
+      "id": 42,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "# references",
       "repaired": true
     },
     {
-      "id": 79,
-      "B": "B9",
+      "id": 43,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## articles and papers",
+      "repaired": true
+    },
+    {
+      "id": 44,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## guidelines analysed",
+      "repaired": true
+    },
+    {
+      "id": 45,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "# footnotes",
+      "repaired": true
+    },
+    {
+      "id": 46,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "foundation models are ai models trained on broad data that can be adapted to a wide range of tasks.",
       "repaired": true
     },
     {
-      "id": 80,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "\"hallucination\" refers to the generation of false, nonsensical, or inaccurate information by large language models (llms) or other generative ai systems.",
-      "repaired": true
-    },
-    {
-      "id": 81,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "in this case, for example, using generative ai as a basic author support tool is not a substantial use. however, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
-      "repaired": true
-    },
-    {
-      "id": 82,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "specifically, wherever possible, final output shall follow the fair principles (findable, accessible, interoperable, reusable) and be itself machine actionable.",
-      "repaired": true
-    },
-    {
-      "id": 83,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "content should not be fabricated, falsified or plagiarised. for example, researchers do not use generative ai to falsify, alter or manipulate original research data.",
       "repaired": true
     },
     {
-      "id": 84,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "ethical prompting should be applied.",
       "repaired": true
     },
     {
-      "id": 85,
+      "id": 49,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "\"hallucination\" refers to the generation of false, nonsensical, or inaccurate information by large language models (llms) or other generative ai systems.",
+      "repaired": true
+    },
+    {
+      "id": 50,
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "using generative ai as a basic author support tool is not a substantial use.",
+      "repaired": true
+    },
+    {
+      "id": 51,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
+      "repaired": true
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "final output shall follow the fair principles (findable, accessible, interoperable, reusable) and be itself machine actionable.",
+      "repaired": true
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "in activities related with the assessment and evaluation of the scientific content in itself, generative ai should be avoided as described in the recommendation for researchers number 6.",
       "repaired": true
     },
     {
-      "id": 86,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "this is in line with the principle of honesty in the european code of conduct for research integrity.",
-      "repaired": true
-    },
-    {
-      "id": 87,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "human agency and oversight includes human-in-the-loop (hitl), human-on-the-loop (hotl) and human-in-command (hic) approaches. hitl involves human intervention in every decision cycle of the system, which in many cases is neither possible nor desirable. hotl involves human intervention during the design cycle of the system and monitoring how the system operates. hic involves overseeing the overall activity of the ai system (including its broader economic, societal, legal and ethical impact) and the ability to decide when and how to use the system in any particular situation (ethics guidelines for trustworthy ai).",
-      "repaired": true
-    },
-    {
-      "id": 88,
+      "id": 54,
       "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "the final responsibility on the citation and its correctness remains with the researcher.",
+      "repaired": true
+    },
+    {
+      "id": 55,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "when assessing the environmental impact of ai, it is important to examine and monitor both its software and hardware life cycles.",
       "repaired": true
     },
     {
-      "id": 89,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "using generative ai as a basic support tool for authors is not a substantial use. however, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
+      "id": 56,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "this is in line with the principle of honesty in the european code of conduct for research integrity.",
+      "repaired": true
+    },
+    {
+      "id": 57,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "human agency and oversight includes human-in-the-loop (hitl), human-on-the-loop (hotl) and human-in-command (hic) approaches.",
+      "repaired": true
+    },
+    {
+      "id": 58,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "hitl involves human intervention in every decision cycle of the system, which in many cases is neither possible nor desirable.",
+      "repaired": true
+    },
+    {
+      "id": 59,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "hotl involves human intervention during the design cycle of the system and monitoring how the system operates.",
+      "repaired": true
+    },
+    {
+      "id": 60,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "hic involves overseeing the overall activity of the ai system (including its broader economic, societal, legal and ethical impact) and the ability to decide when and how to use the system in any particular situation.",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 89,
-    "matched": 89,
+    "total": 60,
+    "matched": 60,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.7,
-    "uncovered_chars": 10820,
-    "uncovered_gaps": 18,
+    "source_coverage": 0.697,
+    "uncovered_chars": 11014,
+    "uncovered_gaps": 20,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 205,
-        "length": 205,
-        "text": "# era forum # source: https://researchandinnovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en?filename=ec_rtd_aiguidelines.pdf # date: 2025-04-01 # category: guideline # living"
-      },
-      {
-        "char_start": 267,
         "char_end": 1789,
-        "length": 1522,
-        "text": "era forum stakeholders' document second version, april 2025 research and innovation # living guidelines on the responsible use of generative ai in research european commission directorate-general for research and innovation directorate e-prosperity unit e4 - industry 5.0 & ai in science european commission b-1049 brussels manuscript completed in april 2025 second edition. the european commission shall not be liable for any consequence stemming from the reuse. © european union, 2025 the commission's reuse policy is implemented by commission decision 2011/833/eu of december 2011 on the reuse of commission documents (oj l 330, 14.12.2011, p. 39, eli: http://data.europa.eu/eli/dec/2011/833/oj). unless otherwise noted, the reuse of this document is authorised under the creative commons attribution 4.0 international (cc by 4.0) licence (https://creativecommons.org/licenses/by/4.0/). this means that reuse is allowed, provided appropriate credit is given and any changes are indicated. for any use or reproduction of elements that are not owned by the european union, permission may need to be sought directly from the respective rightholders. image credits: cover: © microone #288703015, creativeteam #323412491, skypicsstudio #286372753, viktoria #345410470 #479686001, 2020. © tartila #279519357, © naum #481091871, 2022. © akrasov #473038224, 2024. source: stock.adobe.com # living guidelines on the responsible use of generative ai in research directorate-general for research and innovation # 1. introduction"
+        "length": 1789,
+        "text": "# era forum # source: https://researchandinnovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en?filename=ec_rtd_aiguidelines.pdf # date: 2025-04-01 # category: guideline # living guidelines on the responsible use of generative ai in research era forum stakeholders' document second version, april 2025 research and innovation # living guidelines on the responsible use of generative ai in research european commission directorate-general for research and innovation directorate e-prosperity unit e4 - industry 5.0 & ai in science european commission b-1049 brussels manuscript completed in april 2025 second edition. the european commission shall not be liable for any consequence stemming from the reuse. © european union, 2025 the commission's reuse policy is implemented by commission decision 2011/833/eu of december 2011 on the reuse of commission documents (oj l 330, 14.12.2011, p. 39, eli: http://data.europa.eu/eli/dec/2011/833/oj). unless otherwise noted, the reuse of this document is authorised under the creative commons attribution 4.0 international (cc by 4.0) licence (https://creativecommons.org/licenses/by/4.0/). this means that reuse is allowed, provided appropriate credit is given and any changes are indicated. for any use or reproduction of elements that are not owned by the european union, permission may need to be sought directly from the respective rightholders. image credits: cover: © microone #288703015, creativeteam #323412491, skypicsstudio #286372753, viktoria #345410470 #479686001, 2020. © tartila #279519357, © naum #481091871, 2022. © akrasov #473038224, 2024. source: stock.adobe.com # living guidelines on the responsible use of generative ai in research directorate-general for research and innovation # 1. introduction"
       },
       {
         "char_start": 3187,
@@ -671,24 +462,6 @@
         "text": ". # next steps"
       },
       {
-        "char_start": 10520,
-        "char_end": 10598,
-        "length": 78,
-        "text": ". # 2. guidelines on the responsible use of generative ai in research ## 2.1."
-      },
-      {
-        "char_start": 16550,
-        "char_end": 16560,
-        "length": 10,
-        "text": ". ## 2.2."
-      },
-      {
-        "char_start": 19255,
-        "char_end": 19265,
-        "length": 10,
-        "text": ". ## 2.3."
-      },
-      {
         "char_start": 22169,
         "char_end": 22206,
         "length": 37,
@@ -707,10 +480,16 @@
         "text": ". ## other frameworks of principles"
       },
       {
-        "char_start": 25580,
-        "char_end": 31551,
-        "length": 5971,
-        "text": ". # references ## articles and papers birhane, a., kasirzadeh, a., leslie, d. & wachter, s., 'science in the age of large language models', *nature reviews physics*, vol. 5, 2023, pp. 277-280. https://doi.org/10.1038/s42254-023-00581-4 conroy, g., 'scientific sleuths spot dishonest chatgpt use in papers', *nature*, 2023. https://doi.org/10.1038/d41586-023-02477-w conroy, g., 'how chatgpt and other ai tools could disrupt scientific publishing', *nature*, vol. 622, 2023, pp. 234-236. https://doi.org/10.1038/d41586-023-03144-w ganjavi, c., eppler, m., pekcan, a., biedermann, b., abreu, a., collins, g., gill, i. cacciamani, g., 'bibliometric analysis of publisher and journal instructions to authors on generative-ai in academic and scientific publishing', *arxiv*, 2023. https://doi.org/10.48550/arxiv.2307.11918 lenharo, m., 'chatgpt turns two: how the ai chatbot has changed scientists' lives', *nature*, vol. 636, pp. 281-282 (2024). https://doi.org/10.1038/d41586-024-03940-y li, z., liang, c., peng, j., yin, m., 'how does the disclosure of ai assistance affect the perceptions of writing?' *proceedings of the 2024 conference on empirical methods in natural language processing*, pages 4849-4868 (2024). 10.18653/v1/2024.emnlpmain.279 lorenz, p., perset, k. & berryhill, j., 'initial policy considerations for generative artificial intelligence', *oecd artificial intelligence papers*, no. 1, oecd publishing, paris, 2023. https://doi.org/10.1787/fae2d1e6-en lund, b.d., wang, t., mannuru, n.r., nie, b., shimray, s. & wang, z., 'chatgpt and a new academic reality: artificial intelligence-written research papers and the ethics of the large language models in scholarly publishing', *journal of the association for information science and technology*, vol. 74, no. 5, 2023, pp. 570-581. http://dx.doi.org/10.1002/asi.24750 nogueira, l. a., moltubakk, s. t., fagervik, a., & langfeldt, i. b. 'cutting through the noise: assessing tools that employ artificial intelligence.', *ifla journal*, 0(0), 2025. https://doi.org/10.1177/03400352241304121 parrilla, j.m., 'chatgpt use shows that the grant-application system is broken', *nature*, 2023. https://doi.org/10.1038/d41586-023-03238-5 international association of scientific, technical and medical publishers (stm), 'ai ethics in scholarly communication: stm best practice principles for ethical, trustworthy and humancentric ai', 2021. https://coilink.org/20.500.12592/hqbzq sharma, m., tong, m., korbak, t., duvenaud, d., askell, a., bowman, s. r.,... & perez, e. (2023). 'towards understanding sycophancy in language models.' *arxiv*. https://doi.org/10.48550/arxiv.2310.13548 van dis eam, bollen j, zuidema w, van rooij r, bockting cl., 'chatgpt: five priorities for research', *nature*, vol. 614, pp. 224-226 (2023). https://doi.org/10.1038/d41586-023-00288-7 van noorden r. & perkel j., 'ai and science: what 1,600 researchers think', *nature*, vol. 621, pp. 672-675 (2023) https://doi.org/10.1038/d41586-023-02980-0 united nations environment programme, 'artificial intelligence (ai) endtoend: the environmental impact of the full ai lifecycle needs to be comprehensively assessed - issue note' (2024) https://wedocs.unep.org/handle/20.500.11822/46288 zou, j., 'chatgpt is transforming peer review - how can we use it responsibly?', *nature* vol. 635, p.10 (2024) https://doi.org/10.1038/d41586-024-03588-8 ## guidelines analysed aalto university: https://www.aalto.fi/en/services/responsibleuseofartificialintelligenceintheresearchprocess all european academies (allea): https://allea.org/wpcontent/uploads/2023/06/european-codeof-conduct-revised-edition-2023.pdf (doi: 10.26356/ecoc) arizona state university: https://researchintegrity.asu.edu/exportcontrolsandsecurity/artificialintelligence association for computing machinery (acm): https://www.acm.org/binaries/content/assets/publicpolicy/ustpcapprovedgenerativeaiprinciples australian government tertiary education quality and standards agency (teqsa): https://www.teqsa.gov.au/guidesresources/highereducationgoodpracticehub/artificialintelligence bockting cl, van dis eam, van rooij r, zuidema w, bollen j. living guidelines for generative ai - why scientists must oversee its use. *nature*. 2023 oct;622(7984):693-696. https://doi.org/10.1038/d41586-023-03266-1 committee on publication ethics (cope): https://publicationethics.org/copepositionstatements/aiauthor deakin university: https://deakin.libguides.com/generative-ai/ethicsevaluation deutsche forschungsgemeinschaft (dfg): https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_statement_executive_committee_ki_ai.pdf elsevier: https://www.elsevier.com/about/policies/publishingethics eth zurich: https://www.researchcollection.ethz.ch/handle/20.500.11850/672207 harvard university: https://provost.harvard.edu/guidelinesusingchatgptandothergenerativeaitoolsharvard international association of scientific, technical and medical publishers (stm): global principles for ai international association of scientific, technical and medical publishers (stm): ethical and practical guidelines for the use of generative ai in the publishing process international society for computational biology (iscb): https://www.iscb.org/iscbpolicystatements/iscbpolicyforacceptableuseoflargelanguagemodels ku leuven: https://research.kuleuven.be/en/integrityethics/integrity/practices/genai/genai maastricht university: https://www.maastrichtuniversity.nl/news/guidelinesusegenerativeai science europe: https://www.scienceeurope.org/ourpriorities/researchculture/researchvaluesframework united nations educational, scientific and cultural organization (unesco): https://www.unesco.org/en/articles/guidancegenerativeaieducationandresearch university of ljubljana: https://www.unilj.si/mma/uien/2023092013475160/?m=1695210471 university of toronto: https://www.sgs.utoronto.ca/about/guidanceontheuseofgenerativeartificialintelligence/ # footnotes ¹"
+        "char_start": 25617,
+        "char_end": 28955,
+        "length": 3338,
+        "text": "birhane, a., kasirzadeh, a., leslie, d. & wachter, s., 'science in the age of large language models', *nature reviews physics*, vol. 5, 2023, pp. 277-280. https://doi.org/10.1038/s42254-023-00581-4 conroy, g., 'scientific sleuths spot dishonest chatgpt use in papers', *nature*, 2023. https://doi.org/10.1038/d41586-023-02477-w conroy, g., 'how chatgpt and other ai tools could disrupt scientific publishing', *nature*, vol. 622, 2023, pp. 234-236. https://doi.org/10.1038/d41586-023-03144-w ganjavi, c., eppler, m., pekcan, a., biedermann, b., abreu, a., collins, g., gill, i. cacciamani, g., 'bibliometric analysis of publisher and journal instructions to authors on generative-ai in academic and scientific publishing', *arxiv*, 2023. https://doi.org/10.48550/arxiv.2307.11918 lenharo, m., 'chatgpt turns two: how the ai chatbot has changed scientists' lives', *nature*, vol. 636, pp. 281-282 (2024). https://doi.org/10.1038/d41586-024-03940-y li, z., liang, c., peng, j., yin, m., 'how does the disclosure of ai assistance affect the perceptions of writing?' *proceedings of the 2024 conference on empirical methods in natural language processing*, pages 4849-4868 (2024). 10.18653/v1/2024.emnlpmain.279 lorenz, p., perset, k. & berryhill, j., 'initial policy considerations for generative artificial intelligence', *oecd artificial intelligence papers*, no. 1, oecd publishing, paris, 2023. https://doi.org/10.1787/fae2d1e6-en lund, b.d., wang, t., mannuru, n.r., nie, b., shimray, s. & wang, z., 'chatgpt and a new academic reality: artificial intelligence-written research papers and the ethics of the large language models in scholarly publishing', *journal of the association for information science and technology*, vol. 74, no. 5, 2023, pp. 570-581. http://dx.doi.org/10.1002/asi.24750 nogueira, l. a., moltubakk, s. t., fagervik, a., & langfeldt, i. b. 'cutting through the noise: assessing tools that employ artificial intelligence.', *ifla journal*, 0(0), 2025. https://doi.org/10.1177/03400352241304121 parrilla, j.m., 'chatgpt use shows that the grant-application system is broken', *nature*, 2023. https://doi.org/10.1038/d41586-023-03238-5 international association of scientific, technical and medical publishers (stm), 'ai ethics in scholarly communication: stm best practice principles for ethical, trustworthy and humancentric ai', 2021. https://coilink.org/20.500.12592/hqbzq sharma, m., tong, m., korbak, t., duvenaud, d., askell, a., bowman, s. r.,... & perez, e. (2023). 'towards understanding sycophancy in language models.' *arxiv*. https://doi.org/10.48550/arxiv.2310.13548 van dis eam, bollen j, zuidema w, van rooij r, bockting cl., 'chatgpt: five priorities for research', *nature*, vol. 614, pp. 224-226 (2023). https://doi.org/10.1038/d41586-023-00288-7 van noorden r. & perkel j., 'ai and science: what 1,600 researchers think', *nature*, vol. 621, pp. 672-675 (2023) https://doi.org/10.1038/d41586-023-02980-0 united nations environment programme, 'artificial intelligence (ai) endtoend: the environmental impact of the full ai lifecycle needs to be comprehensively assessed - issue note' (2024) https://wedocs.unep.org/handle/20.500.11822/46288 zou, j., 'chatgpt is transforming peer review - how can we use it responsibly?', *nature* vol. 635, p.10 (2024) https://doi.org/10.1038/d41586-024-03588-8"
+      },
+      {
+        "char_start": 28977,
+        "char_end": 31537,
+        "length": 2560,
+        "text": "aalto university: https://www.aalto.fi/en/services/responsibleuseofartificialintelligenceintheresearchprocess all european academies (allea): https://allea.org/wpcontent/uploads/2023/06/european-codeof-conduct-revised-edition-2023.pdf (doi: 10.26356/ecoc) arizona state university: https://researchintegrity.asu.edu/exportcontrolsandsecurity/artificialintelligence association for computing machinery (acm): https://www.acm.org/binaries/content/assets/publicpolicy/ustpcapprovedgenerativeaiprinciples australian government tertiary education quality and standards agency (teqsa): https://www.teqsa.gov.au/guidesresources/highereducationgoodpracticehub/artificialintelligence bockting cl, van dis eam, van rooij r, zuidema w, bollen j. living guidelines for generative ai - why scientists must oversee its use. *nature*. 2023 oct;622(7984):693-696. https://doi.org/10.1038/d41586-023-03266-1 committee on publication ethics (cope): https://publicationethics.org/copepositionstatements/aiauthor deakin university: https://deakin.libguides.com/generative-ai/ethicsevaluation deutsche forschungsgemeinschaft (dfg): https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_statement_executive_committee_ki_ai.pdf elsevier: https://www.elsevier.com/about/policies/publishingethics eth zurich: https://www.researchcollection.ethz.ch/handle/20.500.11850/672207 harvard university: https://provost.harvard.edu/guidelinesusingchatgptandothergenerativeaitoolsharvard international association of scientific, technical and medical publishers (stm): global principles for ai international association of scientific, technical and medical publishers (stm): ethical and practical guidelines for the use of generative ai in the publishing process international society for computational biology (iscb): https://www.iscb.org/iscbpolicystatements/iscbpolicyforacceptableuseoflargelanguagemodels ku leuven: https://research.kuleuven.be/en/integrityethics/integrity/practices/genai/genai maastricht university: https://www.maastrichtuniversity.nl/news/guidelinesusegenerativeai science europe: https://www.scienceeurope.org/ourpriorities/researchculture/researchvaluesframework united nations educational, scientific and cultural organization (unesco): https://www.unesco.org/en/articles/guidancegenerativeaieducationandresearch university of ljubljana: https://www.unilj.si/mma/uien/2023092013475160/?m=1695210471 university of toronto: https://www.sgs.utoronto.ca/about/guidanceontheuseofgenerativeartificialintelligence/"
       },
       {
         "char_start": 31649,
@@ -737,36 +516,48 @@
         "text": ". see the ethical prompting for generative ai guidelines of the eth zurich for more information. https://www.researchcollection.ethz.ch/handle/20.500.11850/672207, eth zurich 2024. on sycophantic behaviour see for example https://doi.org/10.48550/arxiv.2310.13548 ²⁰"
       },
       {
+        "char_start": 34038,
+        "char_end": 34070,
+        "length": 32,
+        "text": ". ²¹ in this case, for example,"
+      },
+      {
+        "char_start": 34145,
+        "char_end": 34156,
+        "length": 11,
+        "text": ". however,"
+      },
+      {
+        "char_start": 34331,
+        "char_end": 34369,
+        "length": 38,
+        "text": ". ²² specifically, wherever possible,"
+      },
+      {
         "char_start": 34495,
-        "char_end": 35423,
-        "length": 928,
-        "text": ". ²³ https://commission.europa.eu/law/lawtopic/dataprotection/eudataprotectionrules_en. see also the first orientations for ensuring data protection compliance when using generative ai systems by the european data protection supervisor. ²⁴ apart from personal consent there could be other lawful basis that could justify the processing of personal data. ²⁵ the technology is evolving, and generative ai tools will be more capable of providing correct citations. tools providing citations could be more practical and could be favoured, but the final responsibility on the citation and its correctness remains with the researcher. ²⁶ or governed by trustworthy third parties e.g. partner research organizations, the eu or trusted countries. ²⁷ when assessing the environmental impact of ai, it is important to examine and monitor both its software and hardware life cycles. ²⁸ as mentioned in the recommendations for researchers,"
+        "char_end": 35034,
+        "length": 539,
+        "text": ". ²³ https://commission.europa.eu/law/lawtopic/dataprotection/eudataprotectionrules_en. see also the first orientations for ensuring data protection compliance when using generative ai systems by the european data protection supervisor. ²⁴ apart from personal consent there could be other lawful basis that could justify the processing of personal data. ²⁵ the technology is evolving, and generative ai tools will be more capable of providing correct citations. tools providing citations could be more practical and could be favoured, but"
+      },
+      {
+        "char_start": 35122,
+        "char_end": 35694,
+        "length": 572,
+        "text": ". ²⁶ or governed by trustworthy third parties e.g. partner research organizations, the eu or trusted countries. ²⁷ when assessing the environmental impact of ai, it is important to examine and monitor both its software and hardware life cycles. ²⁸ as mentioned in the recommendations for researchers, using generative ai as a basic support tool for authors is not a substantial use. however, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact. ²⁹"
+      },
+      {
+        "char_start": 36560,
+        "char_end": 36599,
+        "length": 39,
+        "text": "(ethics guidelines for trustworthy ai)"
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
-      "char_end": 210,
-      "text": "# ERA Forum\n# Source: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf\n# Date: 2025-04-01\n# Category: guideline\n\n# Living ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 210,
-      "char_end": 272,
-      "text": "guidelines on the RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 74,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 272,
       "char_end": 1813,
-      "text": "\n\nERA Forum\nStakeholders’ document\n\nSecond Version, April 2025\n\nResearch and Innovation\n\n# Living guidelines on the responsible use of generative AI in research\n\nEuropean Commission\nDirectorate-General for Research and Innovation\nDirectorate E-Prosperity\nUnit E4 - Industry 5.0 & AI in Science\n\nEuropean Commission\nB-1049 Brussels\n\nManuscript completed in April 2025\nSecond edition.\n\nThe European Commission shall not be liable for any consequence stemming from the reuse.\n\n© European Union, 2025\n\nThe Commission's reuse policy is implemented by Commission Decision 2011/833/EU of 12 December 2011 on the reuse of Commission documents (OJ L 330, 14.12.2011, p. 39, ELI: http://data.europa.eu/eli/dec/2011/833/oj). Unless otherwise noted, the reuse of this document is authorised under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence (https://creativecommons.org/licenses/by/4.0/). This means that reuse is allowed, provided appropriate credit is given and any changes are indicated.\n\nFor any use or reproduction of elements that are not owned by the European Union, permission may need to be sought directly from the respective rightholders.\n\nImage credits: Cover: © MicroOne #288703015, creativeteam #323412491, skypicsstudio #286372753, Viktoria #345410470 #479686001, 2020. © Tartila #279519357, © naum #481091871, 2022. © AKrasov #473038224, 2024. Source: Stock.Adobe.com\n\n# Living guidelines on the RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH\n\nDirectorate-General for Research and Innovation\n\n# 1. INTRODUCTION\n\n",
+      "text": "# ERA Forum\n# Source: https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf\n# Date: 2025-04-01\n# Category: guideline\n\n# Living guidelines on the RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH\n\nERA Forum\nStakeholders’ document\n\nSecond Version, April 2025\n\nResearch and Innovation\n\n# Living guidelines on the responsible use of generative AI in research\n\nEuropean Commission\nDirectorate-General for Research and Innovation\nDirectorate E-Prosperity\nUnit E4 - Industry 5.0 & AI in Science\n\nEuropean Commission\nB-1049 Brussels\n\nManuscript completed in April 2025\nSecond edition.\n\nThe European Commission shall not be liable for any consequence stemming from the reuse.\n\n© European Union, 2025\n\nThe Commission's reuse policy is implemented by Commission Decision 2011/833/EU of 12 December 2011 on the reuse of Commission documents (OJ L 330, 14.12.2011, p. 39, ELI: http://data.europa.eu/eli/dec/2011/833/oj). Unless otherwise noted, the reuse of this document is authorised under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence (https://creativecommons.org/licenses/by/4.0/). This means that reuse is allowed, provided appropriate credit is given and any changes are indicated.\n\nFor any use or reproduction of elements that are not owned by the European Union, permission may need to be sought directly from the respective rightholders.\n\nImage credits: Cover: © MicroOne #288703015, creativeteam #323412491, skypicsstudio #286372753, Viktoria #345410470 #479686001, 2020. © Tartila #279519357, © naum #481091871, 2022. © AKrasov #473038224, 2024. Source: Stock.Adobe.com\n\n# Living guidelines on the RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH\n\nDirectorate-General for Research and Innovation\n\n# 1. INTRODUCTION\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -776,8 +567,8 @@
       "char_start": 1813,
       "char_end": 2741,
       "text": "Artificial intelligence (AI) has become an integral part of our daily lives, transforming how we live and work. Over the past few years, there has been a rapid and disruptive acceleration of AI capabilities, driven by significant advances in widespread data availability, computing power and machine learning techniques. Remarkable strides were made in particular in the development of foundation models - AI models trained on extensive amounts of unlabelled data. These advancements have given rise to what is known as 'General purpose AI', capable of performing a wide array of tasks. This includes \"generative AI\" which can generate various forms of new content (text, code, data, images, music, voice, videos, etc.), usually based on instructions (also known as prompts) provided by the user. The quality of the output produced by these models is such that it may be difficult to distinguish it from human-generated content.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B1",
+      "B_label": "definition of AI",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -785,8 +576,8 @@
       "char_start": 2743,
       "char_end": 3214,
       "text": "The widespread and rapid uptake of generative AI has drawn a lot of attention and led to wide policy and institutional responses. The EU is taking the global lead with the AI Act, and other international governance efforts are taking place. These include the Hiroshima process led by the G7, the Bletchley Declaration signed after the first AI Safety Summit, the Paris Statement signed after the 2025 AI Action Summit and the Council of Europe Framework Convention on AI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -801,27 +592,27 @@
     },
     {
       "char_start": 3247,
-      "char_end": 3530,
-      "text": "Generative AI provides many opportunities for different sectors. However, it also harbours risks, such as the large-scale generation of disinformation, intellectual property and data protection issues and other unethical uses with significant societal and environmental consequences.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_end": 3311,
+      "text": "Generative AI provides many opportunities for different sectors.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
-      "char_start": 3532,
-      "char_end": 4182,
-      "text": "Research is one of the sectors that could be most significantly disrupted by generative AI. AI has great potential for accelerating scientific discovery, leading to new research breakthroughs and significant productivity gains, and improving the effectiveness and pace of research and verification processes. Positive examples of the use of these tools by researchers include supporting non-native speakers in producing texts in multiple languages, producing text summaries from different sources across extremely large corpuses quickly, automatically retrieving and contextualising a wide body of knowledge and helping to write code to analyse data.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 3312,
+      "char_end": 3530,
+      "text": "However, it also harbours risks, such as the large-scale generation of disinformation, intellectual property and data protection issues and other unethical uses with significant societal and environmental consequences.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 4183,
+      "char_start": 3532,
       "char_end": 4701,
-      "text": "However, the technology also entails the risk of abuse. Some risks are due to the tool's technical limitations, and others have to do with the (intentional or unintentional) use of the tool in ways that erode sound research practices. Other risks for research in Europe could stem from the proprietary nature of some of the tools (for example, lack of openness, fees to access the service, use of input data), the concentration of ownership or the undesirable transfer of critical technology and intellectual property.",
-      "B": "B9",
+      "text": "Research is one of the sectors that could be most significantly disrupted by generative AI. AI has great potential for accelerating scientific discovery, leading to new research breakthroughs and significant productivity gains, and improving the effectiveness and pace of research and verification processes. Positive examples of the use of these tools by researchers include supporting non-native speakers in producing texts in multiple languages, producing text summaries from different sources across extremely large corpuses quickly, automatically retrieving and contextualising a wide body of knowledge and helping to write code to analyse data. However, the technology also entails the risk of abuse. Some risks are due to the tool's technical limitations, and others have to do with the (intentional or unintentional) use of the tool in ways that erode sound research practices. Other risks for research in Europe could stem from the proprietary nature of some of the tools (for example, lack of openness, fees to access the service, use of input data), the concentration of ownership or the undesirable transfer of critical technology and intellectual property.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 5,
       "match_type": "exact"
@@ -830,7 +621,7 @@
       "char_start": 4703,
       "char_end": 5104,
       "text": "The impact of generative AI on research and various aspects of the scientific process calls for reflection, for example, when working with text (summarising papers, brainstorming or exploring ideas, drafting or translating). In many respects, these tools could harm research integrity and raise questions about the ability of current models to combat deceptive scientific practices and misinformation.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 6,
       "match_type": "exact"
@@ -848,8 +639,8 @@
       "char_start": 5131,
       "char_end": 5531,
       "text": "Different institutions, including universities, research organisations, funding bodies and publishers have issued guidance on how to use these tools appropriately to ensure that benefits of those tools are fully utilised. The proliferation of guidelines and recommendations has created a complex landscape that makes it difficult to decide which guidelines should be followed in a particular context.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 7,
       "match_type": "exact"
     },
@@ -857,8 +648,8 @@
       "char_start": 5533,
       "char_end": 5840,
       "text": "For this reason, the European Research Area Forum (composed of European countries and research and innovation stakeholders), decided to develop guidelines on the use of generative AI in research for: funding bodies, research organisations and researchers, both in the public and private research ecosystems.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -866,8 +657,8 @@
       "char_start": 5842,
       "char_end": 6065,
       "text": "These guidelines focus on one particular type of AI used in the research process: generative AI. This is an important step to prevent misuse and ensure that generative AI plays a positive role as part of research practices.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -875,8 +666,8 @@
       "char_start": 6066,
       "char_end": 7116,
       "text": "One of the goals of these guidelines is that the scientific community uses this technology in a responsible manner. Yet, the development of a robust framework for generative AI in scientific research cannot be the sole responsibility of policymakers (at European and national levels). Universities, research organisations, funding bodies, research libraries, learned societies, publishers, research managers, research support staff and researchers at all stages of their careers are essential in shaping the discussion on AI and how it can serve the public interest in research. They should all actively engage in discussions about the responsible and effective deployment of AI applications, promoting awareness and cultivating a responsible use of AI as part of a research culture based on shared values. Rules and recommendations must go hand in hand with a broad engagement of those involved in public and private research, both organisations and individuals, to develop a culture of using generative AI in research appropriately and effectively.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -884,8 +675,8 @@
       "char_start": 7118,
       "char_end": 7728,
       "text": "These guidelines intend to set out common directions on the responsible use of generative AI. While non-binding, they should be considered as a supporting tool for researchers, research organisations and research funding bodies, including the ones applying to the European Framework Programme for Research and Innovation. They take into account key principles on research integrity as well as already existing frameworks for the use of AI in general and in research specifically. Users of these guidelines are encouraged to adapt them to their specific contexts and situations, keeping proportionality in mind.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 11,
       "match_type": "exact"
     },
@@ -893,8 +684,8 @@
       "char_start": 7730,
       "char_end": 8110,
       "text": "These guidelines complement and build on the EU AI policy framework, including the AI Act. They complement other policy activities on the impact of AI in science. These include the opinion of the Scientific Advice Mechanism (SAM) on AI and a policy brief published by the European Commission’s Directorate-General for Research and Innovation, framing challenges and opportunities.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 12,
       "match_type": "exact"
     },
@@ -911,8 +702,8 @@
       "char_start": 8131,
       "char_end": 8373,
       "text": "The set of principles framing these guidelines are based on pre-existing relevant frameworks:\n\n- the European Code of Conduct for Research Integrity;\n- the work and guidelines on trustworthy AI, developed by the High-Level Expert Group on AI;",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 13,
       "match_type": "exact"
     },
@@ -920,8 +711,8 @@
       "char_start": 8375,
       "char_end": 9918,
       "text": "Building on the commonalities of the currently emerging guidelines from various stakeholders, the key principles behind these guidelines for the responsible use of generative AI in research are:\n\n- **Reliability** in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources. This includes aspects related to verifying and reproducing the information produced by the AI for research. It also involves being aware of possible equality and non-discrimination issues in relation to bias and inaccuracies.\n- **Honesty** in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially. This principle includes disclosing that generative AI has been used.\n- **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the limitations of the technology, its environmental impact and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm). This includes the proper management of information, respect for privacy, confidentiality and intellectual property rights, and proper citation.\n- **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. This includes responsibility for all output a researcher produces, underpinned by the notion of human agency and oversight.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 14,
       "match_type": "exact"
     },
@@ -938,546 +729,186 @@
       "char_start": 9934,
       "char_end": 10582,
       "text": "Generative AI may create possibilities and risks that can be hardly anticipated and fully comprehended today. These guidelines are based on the current state of the technology and the surrounding policy landscape. Given the dynamic nature of both, these guidelines will have to adapt and evolve continuously. They will be updated on a regular basis to ensure that they remain a useful resource for researchers and organisations. These guidelines were developed and will continue to be developed collaboratively as part of the ERA Forum activities. Users of these guidelines may provide feedback and suggestions for adaptations in the feedback form.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "segment_id": 15,
       "match_type": "exact"
     },
     {
-      "char_start": 10582,
-      "char_end": 10694,
-      "text": "\n\n# 2. GUIDELINES ON THE RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH\n\n## 2.1. RECOMMENDATIONS FOR RESEARCHERS\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 10694,
-      "char_end": 10824,
-      "text": "For generative AI to be used in a responsible manner, researchers should:\n\n1. Remain ultimately responsible for scientific output.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 16,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 10825,
-      "char_end": 10933,
-      "text": "- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 17,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 10934,
-      "char_end": 11110,
-      "text": "- Researchers maintain a critical approach to using the output produced by generative AI and are aware of the tools' limitations, such as bias, hallucinations and inaccuracies.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 18,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11111,
-      "char_end": 11240,
-      "text": "- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 19,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11242,
-      "char_end": 11541,
-      "text": "Generative AI models can exhibit limitations that impact both their responses and usability. The most common types are:\n\n**Training Data Bias**: Biases in the data used to train generative AI models can lead to skewed responses, reflecting inaccuracies or systemic biases within the source material.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 20,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11543,
-      "char_end": 11755,
-      "text": "**Prompt Bias**: Models may align their answers with the perceived beliefs or preferences of the user, a phenomenon known as sycophantic behaviour, potentially leading to misleadingly agreeable or biased outputs.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 21,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11757,
-      "char_end": 11938,
-      "text": "**Invented Citations**: generative AI models may generate plausible sounding but incorrect citations, which can mislead users who rely on those sources for research or verification.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 22,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11940,
-      "char_end": 12240,
-      "text": "**Interpretability**: generative AI models operate as \"black boxes,\" making it difficult to understand how specific responses are generated. This opacity underscores the importance of cross validation, especially in automated data analysis, where model responses can significantly impact conclusions.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 23,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 12242,
-      "char_end": 12277,
-      "text": "2. Use generative AI transparently.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 12278,
-      "char_end": 12815,
-      "text": "- Researchers, to be transparent, detail which generative AI tools have been used substantially in their research processes. When generative AI meaningfully shapes results, researchers transparently note its use in the methods section (or equivalent) responsibly evaluating the extent of the contribution. References to the tool could include the name, version, date, etc. and how it was used and affected the research process. If relevant, researchers make the input (prompts) and output available, in line with open science principles.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 12816,
-      "char_end": 13221,
-      "text": "- Researchers take into account the stochastic (random) nature of generative AI tools, which is the tendency to produce different output from the same input. Researchers aim for reproducibility and robustness in their results and conclusions. They disclose or discuss the limitations of generative AI tools used, including possible biases in the generated content, as well as possible mitigation measures.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 26,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 13223,
-      "char_end": 13392,
-      "text": "3. Pay particular attention to issues related to privacy, confidentiality and intellectual property rights when sharing sensitive or protected information with AI tools.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 27,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 13393,
-      "char_end": 13875,
-      "text": "- Researchers remain mindful that generated or uploaded input (text, data, prompts, images, etc.) could be used for other purposes, such as the training of AI models. Therefore, they protect unpublished or sensitive work (such as their own or others' unpublished work) by taking care not to upload it into an external AI system unless there are assurances that the data will not be re-used, e.g., to train future language models or to the untraceable and unverifiable reuse of data.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 13876,
-      "char_end": 14176,
-      "text": "- Researchers take care not to provide third parties' personal data to external generative AI systems unless the data subject (individual) has given them their consent and researchers have a clear goal for which the personal data are to be used so compliance with EU data protection rules is ensured.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 29,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14177,
-      "char_end": 14706,
-      "text": "- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights. They check, for example, their institutional guidelines, the privacy options of the tools, who is managing the tool (public or private institutions, companies, etc.), where the tool is running and implications for any information uploaded. This could range from closed environments, hosting on a third-party infrastructure with guaranteed privacy, to open internet-accessible platforms.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14708,
-      "char_end": 14934,
-      "text": "4. Respect applicable national, EU and international legislation. In particular, the output produced by generative AI can be especially sensitive in relation to the protection of intellectual property rights and personal data.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 31,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14935,
-      "char_end": 15285,
-      "text": "- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI. Researchers respect others' authorship and cite their work where appropriate. The output of a generative AI (such as a large language model) may be based on someone else's results and require proper recognition and citation.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 32,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 15286,
-      "char_end": 15523,
-      "text": "- The output produced by generative AI can contain personal data. If this becomes apparent, researchers are responsible for handling any personal data output responsibly and appropriately, and EU data protection rules are to be followed.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 33,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 15525,
-      "char_end": 15649,
-      "text": "5. Continuously learn how to use generative AI tools properly to maximise their benefits, including by undertaking training.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 34,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 15650,
-      "char_end": 15849,
-      "text": "- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay up to date on the best practices and share them with colleagues and other stakeholders.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 35,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 15850,
-      "char_end": 16055,
-      "text": "- Researchers aim at minimising the environmental impact of generative AI, by evaluating whether and which AI tool is best suited for the intended task and by using the most effective prompting techniques.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 36,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16057,
-      "char_end": 16255,
-      "text": "6. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc).",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 37,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16256,
-      "char_end": 16442,
-      "text": "- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools' limitations (such as hallucinations and bias).",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 10584,
+      "char_end": 10692,
+      "text": "# 2. GUIDELINES ON THE RESPONSIBLE USE OF GENERATIVE AI IN RESEARCH\n\n## 2.1. RECOMMENDATIONS FOR RESEARCHERS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "segment_id": 38,
       "match_type": "exact"
     },
     {
-      "char_start": 16443,
-      "char_end": 16658,
-      "text": "- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (under the conditions detailed above in the recommendation for researchers #3).",
-      "B": "B9",
+      "char_start": 10694,
+      "char_end": 11240,
+      "text": "For generative AI to be used in a responsible manner, researchers should:\n\n1. Remain ultimately responsible for scientific output.\n- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.\n- Researchers maintain a critical approach to using the output produced by generative AI and are aware of the tools' limitations, such as bias, hallucinations and inaccuracies.\n- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11242,
+      "char_end": 12240,
+      "text": "Generative AI models can exhibit limitations that impact both their responses and usability. The most common types are:\n\n**Training Data Bias**: Biases in the data used to train generative AI models can lead to skewed responses, reflecting inaccuracies or systemic biases within the source material.\n\n**Prompt Bias**: Models may align their answers with the perceived beliefs or preferences of the user, a phenomenon known as sycophantic behaviour, potentially leading to misleadingly agreeable or biased outputs.\n\n**Invented Citations**: generative AI models may generate plausible sounding but incorrect citations, which can mislead users who rely on those sources for research or verification.\n\n**Interpretability**: generative AI models operate as \"black boxes,\" making it difficult to understand how specific responses are generated. This opacity underscores the importance of cross validation, especially in automated data analysis, where model responses can significantly impact conclusions.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12242,
+      "char_end": 13221,
+      "text": "2. Use generative AI transparently.\n- Researchers, to be transparent, detail which generative AI tools have been used substantially in their research processes. When generative AI meaningfully shapes results, researchers transparently note its use in the methods section (or equivalent) responsibly evaluating the extent of the contribution. References to the tool could include the name, version, date, etc. and how it was used and affected the research process. If relevant, researchers make the input (prompts) and output available, in line with open science principles.\n- Researchers take into account the stochastic (random) nature of generative AI tools, which is the tendency to produce different output from the same input. Researchers aim for reproducibility and robustness in their results and conclusions. They disclose or discuss the limitations of generative AI tools used, including possible biases in the generated content, as well as possible mitigation measures.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13223,
+      "char_end": 14706,
+      "text": "3. Pay particular attention to issues related to privacy, confidentiality and intellectual property rights when sharing sensitive or protected information with AI tools.\n- Researchers remain mindful that generated or uploaded input (text, data, prompts, images, etc.) could be used for other purposes, such as the training of AI models. Therefore, they protect unpublished or sensitive work (such as their own or others' unpublished work) by taking care not to upload it into an external AI system unless there are assurances that the data will not be re-used, e.g., to train future language models or to the untraceable and unverifiable reuse of data.\n- Researchers take care not to provide third parties' personal data to external generative AI systems unless the data subject (individual) has given them their consent and researchers have a clear goal for which the personal data are to be used so compliance with EU data protection rules is ensured.\n- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights. They check, for example, their institutional guidelines, the privacy options of the tools, who is managing the tool (public or private institutions, companies, etc.), where the tool is running and implications for any information uploaded. This could range from closed environments, hosting on a third-party infrastructure with guaranteed privacy, to open internet-accessible platforms.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14708,
+      "char_end": 15523,
+      "text": "4. Respect applicable national, EU and international legislation. In particular, the output produced by generative AI can be especially sensitive in relation to the protection of intellectual property rights and personal data.\n- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI. Researchers respect others' authorship and cite their work where appropriate. The output of a generative AI (such as a large language model) may be based on someone else's results and require proper recognition and citation.\n- The output produced by generative AI can contain personal data. If this becomes apparent, researchers are responsible for handling any personal data output responsibly and appropriately, and EU data protection rules are to be followed.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15525,
+      "char_end": 16055,
+      "text": "5. Continuously learn how to use generative AI tools properly to maximise their benefits, including by undertaking training.\n- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay up to date on the best practices and share them with colleagues and other stakeholders.\n- Researchers aim at minimising the environmental impact of generative AI, by evaluating whether and which AI tool is best suited for the intended task and by using the most effective prompting techniques.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16057,
+      "char_end": 16658,
+      "text": "6. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc).\n- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools' limitations (such as hallucinations and bias).\n- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (under the conditions detailed above in the recommendation for researchers #3).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16660,
+      "char_end": 16710,
+      "text": "## 2.2. RECOMMENDATIONS FOR RESEARCH ORGANISATIONS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "segment_id": 39,
       "match_type": "exact"
     },
     {
-      "char_start": 16658,
-      "char_end": 16668,
-      "text": "\n\n## 2.2. ",
+      "char_start": 16710,
+      "char_end": 17604,
+      "text": "\n\nFor generative AI to be used in a responsible manner, research organisations should:\n\n1. Promote, guide and support the responsible use of generative AI in research activities.\n- Research organisations provide and/or facilitate training for all career levels and disciplines, including for research managers and research support staff, on using generative AI, especially (but not exclusively) on verifying output, maintaining privacy, addressing biases and protecting intellectual property rights and sensitive knowledge.\n- Research organisations promote an atmosphere of trust where researchers are encouraged to transparently disclose the use of generative AI without concerns for adverse effects.\n- Research organisations provide support and guidelines to ensure compliance with ethical and legal requirements (EU data protection rules, protection of intellectual property rights, etc.).\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 16668,
-      "char_end": 16710,
-      "text": "RECOMMENDATIONS FOR RESEARCH ORGANISATIONS",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 76,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16712,
-      "char_end": 16888,
-      "text": "For generative AI to be used in a responsible manner, research organisations should:\n\n1. Promote, guide and support the responsible use of generative AI in research activities.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 40,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16889,
-      "char_end": 17233,
-      "text": "- Research organisations provide and/or facilitate training for all career levels and disciplines, including for research managers and research support staff, on using generative AI, especially (but not exclusively) on verifying output, maintaining privacy, addressing biases and protecting intellectual property rights and sensitive knowledge.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 41,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 17234,
-      "char_end": 17411,
-      "text": "- Research organisations promote an atmosphere of trust where researchers are encouraged to transparently disclose the use of generative AI without concerns for adverse effects.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 42,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 17412,
-      "char_end": 17602,
-      "text": "- Research organisations provide support and guidelines to ensure compliance with ethical and legal requirements (EU data protection rules, protection of intellectual property rights, etc.).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 43,
-      "match_type": "exact"
-    },
-    {
       "char_start": 17604,
-      "char_end": 17704,
-      "text": "2. Actively keep track of the evolution and use of generative AI systems within their organisations.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 44,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 17705,
-      "char_end": 18160,
-      "text": "- Research organisations remain mindful of the research activities and processes for which they use generative AI to better support its future use. This knowledge can:\n - be used to provide further guidance on using generative AI, help identify training needs and understand what kind of support could be most beneficial;\n - help anticipate and guard against possible misuse and abuse of AI tools;\n - be published and shared with the scientific community.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 45,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 18161,
-      "char_end": 18300,
-      "text": "- Research organisations analyse the limitations of the technology and tools and provide feedback and recommendations to their researchers.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 46,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 18301,
       "char_end": 18504,
-      "text": "- Research organisations keep track of the environmental impact of generative AI within their organisations and promote awareness raising initiatives to help their staff pick the most sustainable option.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 47,
+      "text": "2. Actively keep track of the evolution and use of generative AI systems within their organisations.\n- Research organisations remain mindful of the research activities and processes for which they use generative AI to better support its future use. This knowledge can:\n - be used to provide further guidance on using generative AI, help identify training needs and understand what kind of support could be most beneficial;\n - help anticipate and guard against possible misuse and abuse of AI tools;\n - be published and shared with the scientific community.\n- Research organisations analyse the limitations of the technology and tools and provide feedback and recommendations to their researchers.\n- Research organisations keep track of the environmental impact of generative AI within their organisations and promote awareness raising initiatives to help their staff pick the most sustainable option.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 18506,
-      "char_end": 18641,
-      "text": "3. Reference or integrate these generative AI guidelines into their general research guidelines for good research practices and ethics.",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 48,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 18642,
-      "char_end": 18819,
-      "text": "- Using these guidelines as a basis for discussion, research organisations openly consult their research staff and stakeholders on the use of generative AI and related policies.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 49,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 18820,
       "char_end": 19026,
-      "text": "- Research organisations apply these guidelines whenever possible. If needed, they could be complemented with specific additional recommendations and/or exceptions that should be published for transparency.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 50,
+      "text": "3. Reference or integrate these generative AI guidelines into their general research guidelines for good research practices and ethics.\n- Using these guidelines as a basis for discussion, research organisations openly consult their research staff and stakeholders on the use of generative AI and related policies.\n- Research organisations apply these guidelines whenever possible. If needed, they could be complemented with specific additional recommendations and/or exceptions that should be published for transparency.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 19028,
-      "char_end": 19273,
-      "text": "4. Whenever possible and necessary, implement locally hosted or cloud-based generative AI tools that they govern themselves. This enables their employees to feed their scientific data into a tool that ensures data protection and confidentiality.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 51,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 19274,
       "char_end": 19397,
-      "text": "- Organisations ensure the appropriate level of cybersecurity of these systems, especially those connected to the internet.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 52,
+      "text": "4. Whenever possible and necessary, implement locally hosted or cloud-based generative AI tools that they govern themselves. This enables their employees to feed their scientific data into a tool that ensures data protection and confidentiality.\n- Organisations ensure the appropriate level of cybersecurity of these systems, especially those connected to the internet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
-      "char_start": 19397,
-      "char_end": 19407,
-      "text": "\n\n## 2.3. ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 19407,
+      "char_start": 19399,
       "char_end": 19457,
-      "text": "RECOMMENDATIONS FOR RESEARCH FUNDING ORGANISATIONS",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 77,
+      "text": "## 2.3. RECOMMENDATIONS FOR RESEARCH FUNDING ORGANISATIONS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 40,
       "match_type": "exact"
     },
     {
       "char_start": 19459,
       "char_end": 19788,
       "text": "Research funding organisations operate in different contexts and follow different mandates and regulations, which may not align with a single set of guidelines. The recommendations below outline a set of measures and good practices for organisations to implement in ways that best fit their specific circumstances and objectives.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 53,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 27,
       "match_type": "exact"
     },
     {
-      "char_start": 19790,
-      "char_end": 19956,
-      "text": "For generative AI to be used in a responsible manner, research funding organisations should:\n\n1. Promote and support the responsible use of generative AI in research.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 54,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 19957,
-      "char_end": 20145,
-      "text": "- Research funding organisations design funding instruments that are open, receptive and supportive of the responsible and ethical use of generative AI technologies in research activities.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 55,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 20146,
-      "char_end": 20354,
-      "text": "- Research funding organizations require funded research and grantees to be in line with existing national, EU and international legislation (where applicable) and good practices for the use of generative AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 56,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 20355,
-      "char_end": 20591,
-      "text": "- Research funding organisations encourage researchers, research managers, research support staff and research organisations to use generative AI ethically and responsibly, including respecting legal and research standards requirements.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 57,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 20593,
-      "char_end": 20734,
-      "text": "2. Review the use of generative AI in their internal processes. They will lead the way by ensuring they use it transparently and responsibly.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 58,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 20735,
-      "char_end": 20936,
-      "text": "- Research funding organisations remain fully responsible for the use of generative AI in their activities, in line with the accountability principle that emphasises responsibility and human oversight.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 59,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 20937,
-      "char_end": 21337,
-      "text": "- Research funding organisations use generative AI transparently, in particular for activities related with the management of assessment and evaluation, and without compromising their fairness and the confidentiality of the content. Generative AI could be used to improve internal processes for funders, but it cannot take a role in the assessment or evaluation of the scientific content of projects.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 60,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 21338,
-      "char_end": 21616,
-      "text": "- When choosing generative AI tools, research funding organisations will carefully consider the tool's adherence to standards of quality, transparency, integrity, data protection, confidentiality and respect for intellectual property rights, as well as its environmental impact.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 61,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 21618,
-      "char_end": 21719,
-      "text": "3. Request transparency from applicants on their use of generative AI facilitating ways to report it.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 62,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 21720,
-      "char_end": 21819,
-      "text": "- Applicants declare if they substantially used generative AI tool(s) to prepare their application.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 63,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 21820,
-      "char_end": 21934,
-      "text": "- Applicants provide information on the role of generative AI in the research activities proposed and carried out.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 64,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 21935,
-      "char_end": 22104,
-      "text": "- Research funding organisations promote an atmosphere where researchers can disclose the use of generative AI transparently and without concerns of being disadvantaged.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 65,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 22106,
-      "char_end": 22188,
-      "text": "4. Monitor and get actively involved in the fast-evolving generative AI landscape.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 66,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 22189,
-      "char_end": 22339,
-      "text": "- Research funding organisations promote and fund training and educational programmes for an ethical and responsible use of AI in scientific research.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 67,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 22339,
-      "char_end": 22378,
-      "text": "\n\n# BACKGROUND\n\n## RESEARCH INTEGRITY\n\n",
+      "char_start": 19788,
+      "char_end": 20593,
+      "text": "\n\nFor generative AI to be used in a responsible manner, research funding organisations should:\n\n1. Promote and support the responsible use of generative AI in research.\n- Research funding organisations design funding instruments that are open, receptive and supportive of the responsible and ethical use of generative AI technologies in research activities.\n- Research funding organizations require funded research and grantees to be in line with existing national, EU and international legislation (where applicable) and good practices for the use of generative AI.\n- Research funding organisations encourage researchers, research managers, research support staff and research organisations to use generative AI ethically and responsibly, including respecting legal and research standards requirements.\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 22378,
-      "char_end": 23138,
-      "text": "The European Code of Conduct for Research Integrity by All European Academies (ALLEA) lays down a set of principles to produce sound research, including ethical aspects. These principles include:\n\n- reliability in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources;\n- honesty in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially;\n- respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment;\n- accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 68,
+      "char_start": 20593,
+      "char_end": 21616,
+      "text": "2. Review the use of generative AI in their internal processes. They will lead the way by ensuring they use it transparently and responsibly.\n- Research funding organisations remain fully responsible for the use of generative AI in their activities, in line with the accountability principle that emphasises responsibility and human oversight.\n- Research funding organisations use generative AI transparently, in particular for activities related with the management of assessment and evaluation, and without compromising their fairness and the confidentiality of the content. Generative AI could be used to improve internal processes for funders, but it cannot take a role in the assessment or evaluation of the scientific content of projects.\n- When choosing generative AI tools, research funding organisations will carefully consider the tool's adherence to standards of quality, transparency, integrity, data protection, confidentiality and respect for intellectual property rights, as well as its environmental impact.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
-      "char_start": 23138,
+      "char_start": 21618,
+      "char_end": 22104,
+      "text": "3. Request transparency from applicants on their use of generative AI facilitating ways to report it.\n- Applicants declare if they substantially used generative AI tool(s) to prepare their application.\n- Applicants provide information on the role of generative AI in the research activities proposed and carried out.\n- Research funding organisations promote an atmosphere where researchers can disclose the use of generative AI transparently and without concerns of being disadvantaged.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22106,
+      "char_end": 22339,
+      "text": "4. Monitor and get actively involved in the fast-evolving generative AI landscape.\n- Research funding organisations promote and fund training and educational programmes for an ethical and responsible use of AI in scientific research.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22339,
       "char_end": 23159,
-      "text": "\n\n## TRUSTWORTHY AI\n\n",
+      "text": "\n\n# BACKGROUND\n\n## RESEARCH INTEGRITY\n\nThe European Code of Conduct for Research Integrity by All European Academies (ALLEA) lays down a set of principles to produce sound research, including ethical aspects. These principles include:\n\n- reliability in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources;\n- honesty in developing, carrying out, reviewing, reporting and communicating on research transparently, fairly, thoroughly and impartially;\n- respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment;\n- accountability for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts.\n\n## TRUSTWORTHY AI\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -1487,9 +918,9 @@
       "char_start": 23159,
       "char_end": 24002,
       "text": "The Ethics Guidelines for Trustworthy AI by the EU High-Level Expert Group on AI focuses on developing responsible AI systems (rather than using them). This work on trustworthy AI contains a set of ethical principles that were translated into operational requirements for developing AI systems. The requirements could be useful inspiration for drawing up guidelines on the use of generative AI.\n\nThe four ethical principles for AI systems are:\n\n1. respect for human autonomy;\n2. prevention of harm;\n3. fairness;\n4. explicability.\n\nThese ethical principles were used to develop these seven operational key requirements:\n\n1. human agency and oversight;\n2. technical robustness and safety;\n3. privacy and data governance;\n4. transparency;\n5. diversity, non-discrimination and fairness;\n6. environmental and societal well-being;\n7. accountability.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 69,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
@@ -1505,60 +936,105 @@
       "char_start": 24039,
       "char_end": 24566,
       "text": "KU Leuven principles were used in similar exercises and for the development of these guidelines:\n\n- transparency on the use of generative AI, depending on the type of use;\n- verification of the correctness of the generated output with attention to correctly attributing the source;\n- respect for personal data and confidential information by not entering these on platforms that are not managed on proprietary servers;\n- responsibility for the correct use of generative AI (primarily help and support) and the published output.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 70,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
       "char_start": 24568,
       "char_end": 24949,
       "text": "Specialists in AI, generative AI, computer science, psychology and sociology hosted by the Institute for Advanced Study at the University of Amsterdam identified the principles of accountability, transparency and independent oversight (in relation to developers of generative AI). Based on these principles, they proposed living guidelines for the responsible use of generative AI.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 71,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
       "char_start": 24951,
       "char_end": 25369,
       "text": "These principles could be complemented with those from other sources. These include the principles put forward by the Association for Computer Machinery on generative AI Technologies that have a broad scope for those developing, deploying and using the technology. Other sources are the Values Framework for the Organisation of Research developed by Science Europe or the STM principles for ethical and trustworthy AI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 72,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 25369,
-      "char_end": 25374,
-      "text": "\n\n## ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 25374,
+      "char_start": 25371,
       "char_end": 25420,
-      "text": "SYNTHESIS FOR THE DEVELOPMENT OF EU GUIDELINES",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 78,
+      "text": "## SYNTHESIS FOR THE DEVELOPMENT OF EU GUIDELINES",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 41,
       "match_type": "exact"
     },
     {
       "char_start": 25422,
       "char_end": 25785,
       "text": "The ALLEA principles in the European Code of Conduct for Research Integrity serve as guidance for ethical and responsible research. The same value system applies when using generative AI in research. The ALLEA principles can therefore be used as a basis for these guidelines and be enriched with parts from the other frameworks described in the previous sections.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 73,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 25785,
+      "char_start": 25787,
+      "char_end": 25799,
+      "text": "# REFERENCES",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25801,
+      "char_end": 25823,
+      "text": "## ARTICLES AND PAPERS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25823,
+      "char_end": 29185,
+      "text": "\n\nBirhane, A., Kasirzadeh, A., Leslie, D. & Wachter, S., ‘Science in the Age of Large Language Models’, *Nature Reviews Physics*, Vol. 5, 2023, pp. 277-280. https://doi.org/10.1038/s42254-023-00581-4\n\nConroy, G., ‘Scientific Sleuths Spot Dishonest ChatGPT Use in Papers’, *Nature*, 2023. https://doi.org/10.1038/d41586-023-02477-w\n\nConroy, G., ‘How ChatGPT and Other AI Tools Could Disrupt Scientific Publishing’, *Nature*, Vol. 622, 2023, pp. 234-236. https://doi.org/10.1038/d41586-023-03144-w\n\nGanjavi, C., Eppler, M., Pekcan, A., Biedermann, B., Abreu, A., Collins, G., Gill, I. Cacciamani, G., ‘Bibliometric Analysis of Publisher and Journal Instructions to Authors on Generative-AI in Academic and Scientific Publishing’, *arXiv*, 2023. https://doi.org/10.48550/arXiv.2307.11918\n\nLenharo, M., ‘ChatGPT turns two: how the AI chatbot has changed scientists’ lives’, *Nature*, Vol. 636, pp. 281-282 (2024). https://doi.org/10.1038/d41586-024-03940-y\n\nLi, Z., Liang, C., Peng, J., Yin, M., ‘How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?’ *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, pages 4849–4868 (2024). 10.18653/v1/2024.emnlp-main.279\n\nLorenz, P., Perset, K. & Berryhill, J., ‘Initial Policy Considerations for Generative Artificial Intelligence’, *OECD Artificial Intelligence Papers*, No. 1, OECD Publishing, Paris, 2023. https://doi.org/10.1787/fae2d1e6-en\n\nLund, B.D., Wang, T., Mannuru, N.R., Nie, B., Shimray, S. & Wang, Z., ‘ChatGPT and a New Academic Reality: Artificial Intelligence-Written Research Papers and the Ethics of the Large Language Models in Scholarly Publishing’, *Journal of the Association for Information Science and Technology*, Vol. 74, No. 5, 2023, pp. 570-581. http://dx.doi.org/10.1002/asi.24750\n\nNogueira, L. A., Moltubakk, S. T., Fagervik, A., & Langfeldt, I. B. ‘Cutting through the noise: Assessing tools that employ artificial intelligence.’, *IFLA Journal*, 0(0), 2025. https://doi.org/10.1177/03400352241304121\n\nParrilla, J.M., ‘ChatGPT Use Shows that the Grant-Application System is Broken’, *Nature*, 2023. https://doi.org/10.1038/d41586-023-03238-5\n\nInternational Association of Scientific, Technical and Medical Publishers (STM), ‘AI Ethics in Scholarly Communication: STM Best Practice Principles for Ethical, Trustworthy and Human-centric AI’, 2021. https://coilink.org/20.500.12592/hqbzq79\n\nSharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., ... & Perez, E. (2023). ‘Towards understanding sycophancy in language models.’ *arXiv*. https://doi.org/10.48550/arXiv.2310.13548\n\nVan Dis EAM, Bollen J, Zuidema W, van Rooij R, Bockting CL., ‘ChatGPT: Five Priorities for Research’, *Nature*, Vol. 614, pp. 224-226 (2023). https://doi.org/10.1038/d41586-023-00288-7\n\nVan Noorden R. & Perkel J., 'AI and Science: What 1,600 Researchers Think', *Nature*, Vol. 621, pp. 672-675 (2023) https://doi.org/10.1038/d41586-023-02980-0\n\nUnited Nations Environment Programme, 'Artificial Intelligence (AI) end-to-end: The Environmental Impact of the Full AI Lifecycle Needs to be Comprehensively Assessed - Issue Note' (2024) https://wedocs.unep.org/handle/20.500.11822/46288\n\nZou, J., 'ChatGPT is transforming peer review — how can we use it responsibly?', *Nature* Vol. 635, p.10 (2024) https://doi.org/10.1038/d41586-024-03588-8\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29185,
+      "char_end": 29207,
+      "text": "## GUIDELINES ANALYSED",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29207,
+      "char_end": 31864,
+      "text": "\n\nAalto University: https://www.aalto.fi/en/services/responsible-use-of-artificial-intelligence-in-the-research-process\n\nAll European Academies (ALLEA): https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf (DOI: 10.26356/ECOC)\n\nArizona State University: https://researchintegrity.asu.edu/export-controls-and-security/artificial-intelligence\n\nAssociation for Computing Machinery (ACM): https://www.acm.org/binaries/content/assets/public-policy/ustpc-approved-generative-ai-principles\n\nAustralian Government Tertiary Education Quality and Standards Agency (TEQSA): https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/artificial-intelligence\n\nBockting CL, van Dis EAM, van Rooij R, Zuidema W, Bollen J. Living guidelines for generative AI - why scientists must oversee its use. *Nature*. 2023 Oct;622(7984):693-696. https://doi.org/10.1038/d41586-023-03266-1\n\nCommittee on Publication Ethics (COPE): https://publicationethics.org/cope-position-statements/ai-author\n\nDeakin University: https://deakin.libguides.com/generative-AI/ethics-evaluation\n\nDeutsche Forschungsgemeinschaft (DFG): https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_statement_executive_committee_ki_ai.pdf\n\nElsevier: https://www.elsevier.com/about/policies/publishing-ethics\n\nETH Zurich: https://www.research-collection.ethz.ch/handle/20.500.11850/672207\n\nHarvard University: https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard\n\nInternational Association of Scientific, Technical and Medical Publishers (STM): Global Principles for AI\n\nInternational Association of Scientific, Technical and Medical Publishers (STM): Ethical and practical guidelines for the use of generative AI in the publishing process\n\nInternational Society for Computational Biology (ISCB): https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models\n\nKU Leuven: https://research.kuleuven.be/en/integrity-ethics/integrity/practices/genai/genAI\n\nMaastricht University: https://www.maastrichtuniversity.nl/news/guidelines-use-generative-ai\n\nScience Europe: https://www.scienceeurope.org/our-priorities/research-culture/research-values-framework\n\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO): https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n\nUniversity of Ljubljana: https://www.uni-lj.si/mma/uien/2023092013475160/?m=1695210471\n\nUniversity of Toronto: https://www.sgs.utoronto.ca/about/guidance-on-the-use-of-generative-artificial-intelligence/\n\n---\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 31864,
+      "char_end": 31875,
+      "text": "# FOOTNOTES",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31875,
       "char_end": 31879,
-      "text": "\n\n# REFERENCES\n\n## ARTICLES AND PAPERS\n\nBirhane, A., Kasirzadeh, A., Leslie, D. & Wachter, S., ‘Science in the Age of Large Language Models’, *Nature Reviews Physics*, Vol. 5, 2023, pp. 277-280. https://doi.org/10.1038/s42254-023-00581-4\n\nConroy, G., ‘Scientific Sleuths Spot Dishonest ChatGPT Use in Papers’, *Nature*, 2023. https://doi.org/10.1038/d41586-023-02477-w\n\nConroy, G., ‘How ChatGPT and Other AI Tools Could Disrupt Scientific Publishing’, *Nature*, Vol. 622, 2023, pp. 234-236. https://doi.org/10.1038/d41586-023-03144-w\n\nGanjavi, C., Eppler, M., Pekcan, A., Biedermann, B., Abreu, A., Collins, G., Gill, I. Cacciamani, G., ‘Bibliometric Analysis of Publisher and Journal Instructions to Authors on Generative-AI in Academic and Scientific Publishing’, *arXiv*, 2023. https://doi.org/10.48550/arXiv.2307.11918\n\nLenharo, M., ‘ChatGPT turns two: how the AI chatbot has changed scientists’ lives’, *Nature*, Vol. 636, pp. 281-282 (2024). https://doi.org/10.1038/d41586-024-03940-y\n\nLi, Z., Liang, C., Peng, J., Yin, M., ‘How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?’ *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, pages 4849–4868 (2024). 10.18653/v1/2024.emnlp-main.279\n\nLorenz, P., Perset, K. & Berryhill, J., ‘Initial Policy Considerations for Generative Artificial Intelligence’, *OECD Artificial Intelligence Papers*, No. 1, OECD Publishing, Paris, 2023. https://doi.org/10.1787/fae2d1e6-en\n\nLund, B.D., Wang, T., Mannuru, N.R., Nie, B., Shimray, S. & Wang, Z., ‘ChatGPT and a New Academic Reality: Artificial Intelligence-Written Research Papers and the Ethics of the Large Language Models in Scholarly Publishing’, *Journal of the Association for Information Science and Technology*, Vol. 74, No. 5, 2023, pp. 570-581. http://dx.doi.org/10.1002/asi.24750\n\nNogueira, L. A., Moltubakk, S. T., Fagervik, A., & Langfeldt, I. B. ‘Cutting through the noise: Assessing tools that employ artificial intelligence.’, *IFLA Journal*, 0(0), 2025. https://doi.org/10.1177/03400352241304121\n\nParrilla, J.M., ‘ChatGPT Use Shows that the Grant-Application System is Broken’, *Nature*, 2023. https://doi.org/10.1038/d41586-023-03238-5\n\nInternational Association of Scientific, Technical and Medical Publishers (STM), ‘AI Ethics in Scholarly Communication: STM Best Practice Principles for Ethical, Trustworthy and Human-centric AI’, 2021. https://coilink.org/20.500.12592/hqbzq79\n\nSharma, M., Tong, M., Korbak, T., Duvenaud, D., Askell, A., Bowman, S. R., ... & Perez, E. (2023). ‘Towards understanding sycophancy in language models.’ *arXiv*. https://doi.org/10.48550/arXiv.2310.13548\n\nVan Dis EAM, Bollen J, Zuidema W, van Rooij R, Bockting CL., ‘ChatGPT: Five Priorities for Research’, *Nature*, Vol. 614, pp. 224-226 (2023). https://doi.org/10.1038/d41586-023-00288-7\n\nVan Noorden R. & Perkel J., 'AI and Science: What 1,600 Researchers Think', *Nature*, Vol. 621, pp. 672-675 (2023) https://doi.org/10.1038/d41586-023-02980-0\n\nUnited Nations Environment Programme, 'Artificial Intelligence (AI) end-to-end: The Environmental Impact of the Full AI Lifecycle Needs to be Comprehensively Assessed - Issue Note' (2024) https://wedocs.unep.org/handle/20.500.11822/46288\n\nZou, J., 'ChatGPT is transforming peer review — how can we use it responsibly?', *Nature* Vol. 635, p.10 (2024) https://doi.org/10.1038/d41586-024-03588-8\n\n## GUIDELINES ANALYSED\n\nAalto University: https://www.aalto.fi/en/services/responsible-use-of-artificial-intelligence-in-the-research-process\n\nAll European Academies (ALLEA): https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf (DOI: 10.26356/ECOC)\n\nArizona State University: https://researchintegrity.asu.edu/export-controls-and-security/artificial-intelligence\n\nAssociation for Computing Machinery (ACM): https://www.acm.org/binaries/content/assets/public-policy/ustpc-approved-generative-ai-principles\n\nAustralian Government Tertiary Education Quality and Standards Agency (TEQSA): https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/artificial-intelligence\n\nBockting CL, van Dis EAM, van Rooij R, Zuidema W, Bollen J. Living guidelines for generative AI - why scientists must oversee its use. *Nature*. 2023 Oct;622(7984):693-696. https://doi.org/10.1038/d41586-023-03266-1\n\nCommittee on Publication Ethics (COPE): https://publicationethics.org/cope-position-statements/ai-author\n\nDeakin University: https://deakin.libguides.com/generative-AI/ethics-evaluation\n\nDeutsche Forschungsgemeinschaft (DFG): https://www.dfg.de/download/pdf/dfg_im_profil/geschaeftsstelle/publikationen/stellungnahmen_papiere/2023/230921_statement_executive_committee_ki_ai.pdf\n\nElsevier: https://www.elsevier.com/about/policies/publishing-ethics\n\nETH Zurich: https://www.research-collection.ethz.ch/handle/20.500.11850/672207\n\nHarvard University: https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard\n\nInternational Association of Scientific, Technical and Medical Publishers (STM): Global Principles for AI\n\nInternational Association of Scientific, Technical and Medical Publishers (STM): Ethical and practical guidelines for the use of generative AI in the publishing process\n\nInternational Society for Computational Biology (ISCB): https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models\n\nKU Leuven: https://research.kuleuven.be/en/integrity-ethics/integrity/practices/genai/genAI\n\nMaastricht University: https://www.maastrichtuniversity.nl/news/guidelines-use-generative-ai\n\nScience Europe: https://www.scienceeurope.org/our-priorities/research-culture/research-values-framework\n\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO): https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n\nUniversity of Ljubljana: https://www.uni-lj.si/mma/uien/2023092013475160/?m=1695210471\n\nUniversity of Toronto: https://www.sgs.utoronto.ca/about/guidance-on-the-use-of-generative-artificial-intelligence/\n\n---\n\n# FOOTNOTES\n\n¹ ",
+      "text": "\n\n¹ ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -1568,9 +1044,9 @@
       "char_start": 31879,
       "char_end": 31978,
       "text": "Foundation models are AI models trained on broad data that can be adapted to a wide range of tasks.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 79,
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
@@ -1586,9 +1062,9 @@
       "char_start": 33328,
       "char_end": 33457,
       "text": "When assessing the environmental impact of AI, it is important to examine and monitor both its software and hardware life cycles.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 88,
+      "segment_id": 55,
       "match_type": "exact"
     },
     {
@@ -1604,9 +1080,9 @@
       "char_start": 33708,
       "char_end": 33873,
       "text": "Content should not be fabricated, falsified or plagiarised. For example, researchers do not use generative AI to falsify, alter or manipulate original research data.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
       "match_type": "exact"
     },
     {
@@ -1622,9 +1098,9 @@
       "char_start": 33976,
       "char_end": 34012,
       "text": "Ethical prompting should be applied.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 84,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
@@ -1640,87 +1116,87 @@
       "char_start": 34280,
       "char_end": 34433,
       "text": "\"hallucination\" refers to the generation of false, nonsensical, or inaccurate information by large language models (LLMs) or other generative AI systems.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 80,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 49,
       "match_type": "exact"
     },
     {
       "char_start": 34433,
-      "char_end": 34438,
-      "text": "\n\n²¹ ",
+      "char_end": 34465,
+      "text": "\n\n²¹ In this case, for example, ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 34438,
+      "char_start": 34465,
+      "char_end": 34541,
+      "text": "using generative AI as a basic author support tool is not a substantial use.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34541,
+      "char_end": 34551,
+      "text": " However, ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 34551,
       "char_end": 34727,
-      "text": "In this case, for example, using generative AI as a basic author support tool is not a substantial use. However, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 81,
+      "text": "interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 51,
       "match_type": "exact"
     },
     {
       "char_start": 34727,
-      "char_end": 34732,
-      "text": "\n\n²² ",
+      "char_end": 34765,
+      "text": "\n\n²² Specifically, wherever possible, ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 34732,
+      "char_start": 34765,
       "char_end": 34892,
-      "text": "Specifically, wherever possible, final output shall follow the FAIR principles (Findable, Accessible, Interoperable, Reusable) and be itself machine actionable.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 82,
+      "text": "final output shall follow the FAIR principles (Findable, Accessible, Interoperable, Reusable) and be itself machine actionable.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {
       "char_start": 34892,
-      "char_end": 35797,
-      "text": "\n\n²³ https://commission.europa.eu/law/law-topic/data-protection/eu-data-protection-rules_en. See also the First Orientations for ensuring data protection compliance when using Generative AI systems by the European Data Protection Supervisor.\n\n²⁴ Apart from personal consent there could be other lawful basis that could justify the processing of personal data.\n\n²⁵ The technology is evolving, and generative AI tools will be more capable of providing correct citations. Tools providing citations could be more practical and could be favoured, but the final responsibility on the citation and its correctness remains with the researcher.\n\n²⁶ Or governed by trustworthy third parties e.g. partner research organizations, the EU or trusted countries.\n\n²⁷ When assessing the environmental impact of AI, it is important to examine and monitor both its software and hardware life cycles.\n\n²⁸ As mentioned in the ",
+      "char_end": 35438,
+      "text": "\n\n²³ https://commission.europa.eu/law/law-topic/data-protection/eu-data-protection-rules_en. See also the First Orientations for ensuring data protection compliance when using Generative AI systems by the European Data Protection Supervisor.\n\n²⁴ Apart from personal consent there could be other lawful basis that could justify the processing of personal data.\n\n²⁵ The technology is evolving, and generative AI tools will be more capable of providing correct citations. Tools providing citations could be more practical and could be favoured, but ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 35797,
-      "char_end": 35828,
-      "text": "recommendations for researchers",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 75,
+      "char_start": 35438,
+      "char_end": 35527,
+      "text": "the final responsibility on the citation and its correctness remains with the researcher.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 54,
       "match_type": "exact"
     },
     {
-      "char_start": 35828,
-      "char_end": 35830,
-      "text": ", ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 35830,
-      "char_end": 36097,
-      "text": "using generative AI as a basic support tool for authors is not a substantial use. However, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 89,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 36097,
+      "char_start": 35527,
       "char_end": 36102,
-      "text": "\n\n²⁹ ",
+      "text": "\n\n²⁶ Or governed by trustworthy third parties e.g. partner research organizations, the EU or trusted countries.\n\n²⁷ When assessing the environmental impact of AI, it is important to examine and monitor both its software and hardware life cycles.\n\n²⁸ As mentioned in the recommendations for researchers, using generative AI as a basic support tool for authors is not a substantial use. However, interpreting data analysis, carrying out a literature review, identifying research gaps, formulating research aims, developing hypotheses, etc. could have a substantial impact.\n\n²⁹ ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -1730,9 +1206,9 @@
       "char_start": 36102,
       "char_end": 36288,
       "text": "In activities related with the assessment and evaluation of the scientific content in itself, generative AI should be avoided as described in the recommendation for researchers number 6.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 85,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
       "match_type": "exact"
     },
     {
@@ -1748,9 +1224,9 @@
       "char_start": 36293,
       "char_end": 36394,
       "text": "This is in line with the principle of honesty in the European Code of Conduct for Research Integrity.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 86,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 56,
       "match_type": "exact"
     },
     {
@@ -1764,12 +1240,39 @@
     },
     {
       "char_start": 36399,
-      "char_end": 37018,
-      "text": "Human agency and oversight includes human-in-the-loop (HITL), human-on-the-loop (HOTL) and human-in-command (HIC) approaches. HITL involves human intervention in every decision cycle of the system, which in many cases is neither possible nor desirable. HOTL involves human intervention during the design cycle of the system and monitoring how the system operates. HIC involves overseeing the overall activity of the AI system (including its broader economic, societal, legal and ethical impact) and the ability to decide when and how to use the system in any particular situation (Ethics Guidelines for Trustworthy AI).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 87,
+      "char_end": 36524,
+      "text": "Human agency and oversight includes human-in-the-loop (HITL), human-on-the-loop (HOTL) and human-in-command (HIC) approaches.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 57,
       "match_type": "exact"
+    },
+    {
+      "char_start": 36525,
+      "char_end": 36651,
+      "text": "HITL involves human intervention in every decision cycle of the system, which in many cases is neither possible nor desirable.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36652,
+      "char_end": 36762,
+      "text": "HOTL involves human intervention during the design cycle of the system and monitoring how the system operates.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36762,
+      "char_end": 37018,
+      "text": " HIC involves overseeing the overall activity of the AI system (including its broader economic, societal, legal and ethical impact) and the ability to decide when and how to use the system in any particular situation (Ethics Guidelines for Trustworthy AI).",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     }
   ]
 }

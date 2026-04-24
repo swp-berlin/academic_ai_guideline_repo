@@ -3,275 +3,422 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Artificial intelligence (AI) is a powerful tool, but it should not replicate or replace human experience, original thought, and personal perspective. What’s more, training large AI models is an energy- and resource-intensive process, with significant impacts on the environment. Given these considerations, authors are encouraged to be thoughtful and judicious in determining the net benefit of AI application and usage in their publications.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "AI Policy for Stimson Publications – January 2026",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "As a research organization committed to the development of innovative solutions, AI presents significant opportunities. But as an organization that looks beyond homogeneous thinking, the Stimson Center will always prioritize original ideas, critical thinking, and the human creative experience above all else.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Artificial intelligence (AI) is a powerful tool, but it should not replicate or replace human experience, original thought, and personal perspective.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "The policy outlined below presents our guidelines for responsible AI usage in Stimson publications – AI Usage in Stimson Publications: Guidelines",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "What’s more, training large AI models is an energy- and resource-intensive process, with significant impacts on the environment.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "AI is a tool, not an author",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Given these considerations, authors are encouraged to be thoughtful and judicious in determining the net benefit of AI application and usage in their publications.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "AI is a tool that can be used to support our work and maximize our impact, but its outputs must always be validated and reviewed by the publication author or authors.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "As a research organization committed to the development of innovative solutions, AI presents significant opportunities.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Publication author(s) remain responsible and accountable for the accuracy, originality, and integrity of their work, regardless of the use of AI applications.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "But as an organization that looks beyond homogeneous thinking, the Stimson Center will always prioritize original ideas, critical thinking, and the human creative experience above all else.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Before pen touches paper, map your planned usage of AI tools.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The policy outlined below presents our guidelines for responsible AI usage in Stimson publications – AI Usage in Stimson Publications: Guidelines",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "For external (non-Stimson) authors, please share your planned application of AI tools with your Stimson point of contact for note in Stimson’s pipeline submission.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "AI is a tool, not an author",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Upon submission of a piece for Stimson publication, authors must disclose to reviewers and editors how generative AI tools were used in the development of a piece (internal disclosure), and the human review it has undergone to ensure accuracy.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "AI is a tool that can be used to support our work and maximize our impact, but its outputs must always be validated and reviewed by the publication author or authors.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "For externally facing research products, an external disclosure is required for the publication of any AI-generated images or video.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Publication author(s) remain responsible and accountable for the accuracy, originality, and integrity of their work, regardless of the use of AI applications.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "External disclosure (in the acknowledgements, methodology, or other appropriate section) may be requested for substantial use of AI in a research publication.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Plan deliberate usage",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Any published texts for which an AI tool’s output is included verbatim at length must include citations of AI usage in line with Stimson’s research integrity and plagiarism policies.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Before pen touches paper, map your planned usage of AI tools.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "For planning purposes, some examples of AI usage for internal disclosure upon submission are listed in the table below. These examples are intended to be illustrative, not exhaustive:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "For external (non-Stimson) authors, please share your planned application of AI tools with your Stimson point of contact for note in Stimson’s pipeline submission.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "| Phase | AI usage |\n|----------------------|--------------------------------------------------------------------------|\n| Brainstorming | Topic exploration, idea generation, horizon scanning, research design |\n| Document review | Literature review, evidence extraction, article summarization, synthesis |\n| Data collection/analysis | Data extraction, dataset cleaning, simulation/modeling, statistical assistance |\n| Writing | Drafting text, citation support, figures and visualizations |\n| Integrity checks | Plagiarism detection, AI-use transparency tools, data integrity validation |\n| Editing | Editing draft for coherence/cogency |\n| Translation | Translation of sources, translation of drafts for non-native English speakers |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Transparency and disclosure",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "The use of AI in Stimson publications must comply with any existing policies and guidelines in place, including Stimson’s policies on research integrity, plagiarism, and research review and approval.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Upon submission of a piece for Stimson publication, authors must disclose to reviewers and editors how generative AI tools were used in the development of a piece (internal disclosure), and the human review it has undergone to ensure accuracy.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Individuals should not submit personal, proprietary, or sensitive data into large language models (LLMs) without first confirming that inputs will be appropriately protected and data privacy will not be compromised.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "For externally facing research products, an external disclosure is required for the publication of any AI-generated images or video.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Large language models remain imperfect tools - accuracy should not be assumed, and author verification is essential.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "External disclosure (in the acknowledgements, methodology, or other appropriate section) may be requested for substantial use of AI in a research publication.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Authors must ensure references are real, accurate, and correctly cited; “hallucinated” or altered citations are grounds for rejection.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Any published texts for which an AI tool’s output is included verbatim at length must include citations of AI usage in line with Stimson’s research integrity and plagiarism policies.",
       "repaired": false
     },
     {
       "id": 19,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "The Stimson Center may use screening tools, stylistic review, citation checks, and editorial judgment to evaluate undisclosed AI use (recognizing detectors are probabilistic).",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "For planning purposes, some examples of AI usage for internal disclosure upon submission are listed in the table below. These examples are intended to be illustrative, not exhaustive:",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "If concerns arise around the originality and integrity of a piece, Stimson may request drafts, notes, or other original documentation from author(s).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Topic exploration, idea generation, horizon scanning, research design",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "As with any publication, Stimson will assess a piece across three parameters:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Literature review, evidence extraction, article summarization, synthesis",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "1. **Argument integrity**: Is the author presenting an original and compelling argument, backed and cited by trusted sources?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Data extraction, dataset cleaning, simulation/modeling, statistical assistance",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "2. **Author authenticity**: Does the proposed piece reflect the author’s authentic voice and individual expert perspectives?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Drafting text, citation support, figures and visualizations",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "3. **Source integrity**: Is the piece well-cited, with author’s data accounted for through authoritative, accurate sources?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Plagiarism detection, AI-use transparency tools, data integrity validation",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Stimson retains final approval for publication of all pieces",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Editing draft for coherence/cogency",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Undisclosed and deceptive use of AI undermines trust and threatens the reputational integrity of scholars and host institutions, alike.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Translation of sources, translation of drafts for non-native English speakers",
       "repaired": false
     },
     {
       "id": 27,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Stimson reserves the right to reject any pieces that we believe contain unacknowledged or undisclosed use of AI tools.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Compliance with existing policy",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Please disclose any and all AI usage for proper attribution and acknowledgement.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The use of AI in Stimson publications must comply with any existing policies and guidelines in place, including Stimson’s policies on research integrity, plagiarism, and research review and approval.",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "In addition, Stimson will employ a ‘two strikes’ policy with any author – repeated concerns around undisclosed AI usage will result in the loss of eligibility to contribute as a Stimson author.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Proprietary and sensitive information in LLMs",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B11",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Individuals should not submit personal, proprietary, or sensitive data into large language models (LLMs) without first confirming that inputs will be appropriately protected and data privacy will not be compromised.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Verification and source integrity",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Large language models remain imperfect tools - accuracy should not be assumed, and author verification is essential.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Authors must ensure references are real, accurate, and correctly cited; “hallucinated” or altered citations are grounds for rejection.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "The Stimson Center may use screening tools, stylistic review, citation checks, and editorial judgment to evaluate undisclosed AI use (recognizing detectors are probabilistic).",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "If concerns arise around the originality and integrity of a piece, Stimson may request drafts, notes, or other original documentation from author(s).",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "As with any publication, Stimson will assess a piece across three parameters:",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Argument integrity**: Is the author presenting an original and compelling argument, backed and cited by trusted sources?",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Author authenticity**: Does the proposed piece reflect the author’s authentic voice and individual expert perspectives?",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Source integrity**: Is the piece well-cited, with author’s data accounted for through authoritative, accurate sources?",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Stimson retains final approval for publication of all pieces",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Undisclosed and deceptive use of AI undermines trust and threatens the reputational integrity of scholars and host institutions, alike.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Stimson reserves the right to reject any pieces that we believe contain unacknowledged or undisclosed use of AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Please disclose any and all AI usage for proper attribution and acknowledgement.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "In addition, Stimson will employ a ‘two strikes’ policy with any author – repeated concerns around undisclosed AI usage will result in the loss of eligibility to contribute as a Stimson author.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "This policy is a living document to support research integrity in the application of quickly evolving AI technologies.",
       "repaired": false
     },
     {
-      "id": 31,
-      "B": "B11",
+      "id": 46,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "The Stimson Center will review and update this policy at least annually to track best practices across leading journals and universities.",
       "repaired": false
     },
     {
-      "id": 32,
+      "id": 47,
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "proprietary and sensitive information in llms",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "brainstorming",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 32,
-    "matched": 32,
+    "total": 47,
+    "matched": 47,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.927,
-    "uncovered_chars": 361,
-    "uncovered_gaps": 5,
+    "source_coverage": 0.924,
+    "uncovered_chars": 339,
+    "uncovered_gaps": 9,
     "uncovered": [
       {
         "char_start": 0,
+        "char_end": 164,
+        "length": 164,
+        "text": "# stimson center # source: https://www.stimson.org/wpcontent/uploads/2026/02/final-ai-policyfor-publications-january-2026.pdf # date: 2026-01 # category: guideline"
+      },
+      {
+        "char_start": 213,
         "char_end": 226,
-        "length": 226,
-        "text": "# stimson center # source: https://www.stimson.org/wpcontent/uploads/2026/02/final-ai-policyfor-publications-january-2026.pdf # date: 2026-01 # category: guideline ai policy for stimson publications - january 2026 ## overview"
+        "length": 13,
+        "text": "## overview"
       },
       {
-        "char_start": 1477,
-        "char_end": 1504,
-        "length": 27,
-        "text": ". ## plan deliberate usage"
+        "char_start": 2662,
+        "char_end": 2696,
+        "length": 34,
+        "text": ": | phase | ai usage | | -| --| |"
       },
       {
-        "char_start": 1728,
-        "char_end": 1761,
-        "length": 33,
-        "text": ". ## transparency and disclosure"
+        "char_start": 2781,
+        "char_end": 2804,
+        "length": 23,
+        "text": "| | document review |"
       },
       {
-        "char_start": 3305,
-        "char_end": 3341,
-        "length": 36,
-        "text": "## compliance with existing policy"
+        "char_start": 2876,
+        "char_end": 2908,
+        "length": 32,
+        "text": "| | data collection/analysis |"
       },
       {
-        "char_start": 3804,
-        "char_end": 3843,
-        "length": 39,
-        "text": ". ## verification and source integrity"
+        "char_start": 2986,
+        "char_end": 3001,
+        "length": 15,
+        "text": "| | writing |"
+      },
+      {
+        "char_start": 3060,
+        "char_end": 3084,
+        "length": 24,
+        "text": "| | integrity checks |"
+      },
+      {
+        "char_start": 3158,
+        "char_end": 3173,
+        "length": 15,
+        "text": "| | editing |"
+      },
+      {
+        "char_start": 3208,
+        "char_end": 3227,
+        "length": 19,
+        "text": "| | translation |"
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
+      "char_end": 167,
+      "text": "# Stimson Center\n# Source: https://www.stimson.org/wp-content/uploads/2026/02/Final-AI-Policy-for-Publications-January-2026.pdf\n# Date: 2026-01\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 167,
+      "char_end": 216,
+      "text": "AI Policy for Stimson Publications – January 2026",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 216,
       "char_end": 231,
-      "text": "# Stimson Center\n# Source: https://www.stimson.org/wp-content/uploads/2026/02/Final-AI-Policy-for-Publications-January-2026.pdf\n# Date: 2026-01\n# Category: guideline\n\nAI Policy for Stimson Publications – January 2026\n\n## Overview\n\n",
+      "text": "\n\n## Overview\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -279,29 +426,56 @@
     },
     {
       "char_start": 231,
+      "char_end": 380,
+      "text": "Artificial intelligence (AI) is a powerful tool, but it should not replicate or replace human experience, original thought, and personal perspective.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 381,
+      "char_end": 509,
+      "text": "What’s more, training large AI models is an energy- and resource-intensive process, with significant impacts on the environment.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 510,
       "char_end": 673,
-      "text": "Artificial intelligence (AI) is a powerful tool, but it should not replicate or replace human experience, original thought, and personal perspective. What’s more, training large AI models is an energy- and resource-intensive process, with significant impacts on the environment. Given these considerations, authors are encouraged to be thoughtful and judicious in determining the net benefit of AI application and usage in their publications.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 1,
+      "text": "Given these considerations, authors are encouraged to be thoughtful and judicious in determining the net benefit of AI application and usage in their publications.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
       "char_start": 675,
+      "char_end": 794,
+      "text": "As a research organization committed to the development of innovative solutions, AI presents significant opportunities.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 795,
       "char_end": 984,
-      "text": "As a research organization committed to the development of innovative solutions, AI presents significant opportunities. But as an organization that looks beyond homogeneous thinking, the Stimson Center will always prioritize original ideas, critical thinking, and the human creative experience above all else.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
+      "text": "But as an organization that looks beyond homogeneous thinking, the Stimson Center will always prioritize original ideas, critical thinking, and the human creative experience above all else.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
       "char_start": 986,
       "char_end": 1131,
       "text": "The policy outlined below presents our guidelines for responsible AI usage in Stimson publications – AI Usage in Stimson Publications: Guidelines",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
@@ -317,135 +491,297 @@
       "char_start": 1136,
       "char_end": 1163,
       "text": "AI is a tool, not an author",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 4,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 1164,
       "char_end": 1330,
       "text": "AI is a tool that can be used to support our work and maximize our impact, but its outputs must always be validated and reviewed by the publication author or authors.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 5,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
       "match_type": "exact"
     },
     {
       "char_start": 1331,
       "char_end": 1489,
       "text": "Publication author(s) remain responsible and accountable for the accuracy, originality, and integrity of their work, regardless of the use of AI applications.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 6,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
       "char_start": 1489,
-      "char_end": 1516,
-      "text": "\n\n## Plan deliberate usage\n",
+      "char_end": 1494,
+      "text": "\n\n## ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
+      "char_start": 1494,
+      "char_end": 1515,
+      "text": "Plan deliberate usage",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
       "char_start": 1516,
       "char_end": 1577,
       "text": "Before pen touches paper, map your planned usage of AI tools.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 7,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 1578,
       "char_end": 1741,
       "text": "For external (non-Stimson) authors, please share your planned application of AI tools with your Stimson point of contact for note in Stimson’s pipeline submission.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
       "char_start": 1741,
-      "char_end": 1774,
-      "text": "\n\n## Transparency and disclosure\n",
+      "char_end": 1746,
+      "text": "\n\n## ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
+      "char_start": 1746,
+      "char_end": 1773,
+      "text": "Transparency and disclosure",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
       "char_start": 1774,
       "char_end": 2017,
       "text": "Upon submission of a piece for Stimson publication, authors must disclose to reviewers and editors how generative AI tools were used in the development of a piece (internal disclosure), and the human review it has undergone to ensure accuracy.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 9,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 2018,
       "char_end": 2150,
       "text": "For externally facing research products, an external disclosure is required for the publication of any AI-generated images or video.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 10,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 2151,
       "char_end": 2309,
       "text": "External disclosure (in the acknowledgements, methodology, or other appropriate section) may be requested for substantial use of AI in a research publication.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 11,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 2310,
       "char_end": 2492,
       "text": "Any published texts for which an AI tool’s output is included verbatim at length must include citations of AI usage in line with Stimson’s research integrity and plagiarism policies.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
       "char_start": 2494,
       "char_end": 2677,
       "text": "For planning purposes, some examples of AI usage for internal disclosure upon submission are listed in the table below. These examples are intended to be illustrative, not exhaustive:",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 13,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
-      "char_start": 2679,
-      "char_end": 3412,
-      "text": "| Phase | AI usage |\n|----------------------|--------------------------------------------------------------------------|\n| Brainstorming | Topic exploration, idea generation, horizon scanning, research design |\n| Document review | Literature review, evidence extraction, article summarization, synthesis |\n| Data collection/analysis | Data extraction, dataset cleaning, simulation/modeling, statistical assistance |\n| Writing | Drafting text, citation support, figures and visualizations |\n| Integrity checks | Plagiarism detection, AI-use transparency tools, data integrity validation |\n| Editing | Editing draft for coherence/cogency |\n| Translation | Translation of sources, translation of drafts for non-native English speakers |",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 14,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3412,
-      "char_end": 3449,
-      "text": "\n\n## Compliance with existing policy\n",
+      "char_start": 2677,
+      "char_end": 2802,
+      "text": "\n\n| Phase | AI usage |\n|----------------------|--------------------------------------------------------------------------|\n| ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
+      "char_start": 2802,
+      "char_end": 2815,
+      "text": "Brainstorming",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2815,
+      "char_end": 2818,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2818,
+      "char_end": 2887,
+      "text": "Topic exploration, idea generation, horizon scanning, research design",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2887,
+      "char_end": 2910,
+      "text": " |\n| Document review | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2910,
+      "char_end": 2982,
+      "text": "Literature review, evidence extraction, article summarization, synthesis",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2982,
+      "char_end": 3014,
+      "text": " |\n| Data collection/analysis | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3014,
+      "char_end": 3092,
+      "text": "Data extraction, dataset cleaning, simulation/modeling, statistical assistance",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3092,
+      "char_end": 3107,
+      "text": " |\n| Writing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3107,
+      "char_end": 3166,
+      "text": "Drafting text, citation support, figures and visualizations",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3166,
+      "char_end": 3190,
+      "text": " |\n| Integrity checks | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3190,
+      "char_end": 3264,
+      "text": "Plagiarism detection, AI-use transparency tools, data integrity validation",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3264,
+      "char_end": 3279,
+      "text": " |\n| Editing | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3279,
+      "char_end": 3314,
+      "text": "Editing draft for coherence/cogency",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3314,
+      "char_end": 3333,
+      "text": " |\n| Translation | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3333,
+      "char_end": 3410,
+      "text": "Translation of sources, translation of drafts for non-native English speakers",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3410,
+      "char_end": 3417,
+      "text": " |\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3417,
+      "char_end": 3448,
+      "text": "Compliance with existing policy",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
       "char_start": 3449,
       "char_end": 3648,
       "text": "The use of AI in Stimson publications must comply with any existing policies and guidelines in place, including Stimson’s policies on research integrity, plagiarism, and research review and approval.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
@@ -461,99 +797,135 @@
       "char_start": 3653,
       "char_end": 3698,
       "text": "Proprietary and sensitive information in LLMs",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
       "char_start": 3699,
       "char_end": 3914,
       "text": "Individuals should not submit personal, proprietary, or sensitive data into large language models (LLMs) without first confirming that inputs will be appropriately protected and data privacy will not be compromised.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 16,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
       "char_start": 3914,
-      "char_end": 3953,
-      "text": "\n\n## Verification and source integrity\n",
+      "char_end": 3919,
+      "text": "\n\n## ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
+      "char_start": 3919,
+      "char_end": 3952,
+      "text": "Verification and source integrity",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
       "char_start": 3953,
       "char_end": 4069,
       "text": "Large language models remain imperfect tools - accuracy should not be assumed, and author verification is essential.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 17,
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 4070,
       "char_end": 4204,
       "text": "Authors must ensure references are real, accurate, and correctly cited; “hallucinated” or altered citations are grounds for rejection.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
       "char_start": 4205,
       "char_end": 4380,
       "text": "The Stimson Center may use screening tools, stylistic review, citation checks, and editorial judgment to evaluate undisclosed AI use (recognizing detectors are probabilistic).",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
       "char_start": 4381,
       "char_end": 4530,
       "text": "If concerns arise around the originality and integrity of a piece, Stimson may request drafts, notes, or other original documentation from author(s).",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
       "char_start": 4532,
       "char_end": 4609,
       "text": "As with any publication, Stimson will assess a piece across three parameters:",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 21,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 4611,
+      "char_start": 4609,
+      "char_end": 4614,
+      "text": "\n\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4614,
       "char_end": 4736,
-      "text": "1. **Argument integrity**: Is the author presenting an original and compelling argument, backed and cited by trusted sources?",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 22,
+      "text": "**Argument integrity**: Is the author presenting an original and compelling argument, backed and cited by trusted sources?",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 4737,
+      "char_start": 4736,
+      "char_end": 4740,
+      "text": "\n2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4740,
       "char_end": 4861,
-      "text": "2. **Author authenticity**: Does the proposed piece reflect the author’s authentic voice and individual expert perspectives?",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 23,
+      "text": "**Author authenticity**: Does the proposed piece reflect the author’s authentic voice and individual expert perspectives?",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 38,
       "match_type": "exact"
     },
     {
-      "char_start": 4862,
+      "char_start": 4861,
+      "char_end": 4865,
+      "text": "\n3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4865,
       "char_end": 4985,
-      "text": "3. **Source integrity**: Is the piece well-cited, with author’s data accounted for through authoritative, accurate sources?",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 24,
+      "text": "**Source integrity**: Is the piece well-cited, with author’s data accounted for through authoritative, accurate sources?",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 39,
       "match_type": "exact"
     },
     {
@@ -569,63 +941,63 @@
       "char_start": 4990,
       "char_end": 5050,
       "text": "Stimson retains final approval for publication of all pieces",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 25,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 40,
       "match_type": "exact"
     },
     {
       "char_start": 5051,
       "char_end": 5186,
       "text": "Undisclosed and deceptive use of AI undermines trust and threatens the reputational integrity of scholars and host institutions, alike.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 26,
+      "segment_id": 41,
       "match_type": "exact"
     },
     {
       "char_start": 5187,
       "char_end": 5305,
       "text": "Stimson reserves the right to reject any pieces that we believe contain unacknowledged or undisclosed use of AI tools.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 42,
       "match_type": "exact"
     },
     {
       "char_start": 5306,
       "char_end": 5386,
       "text": "Please disclose any and all AI usage for proper attribution and acknowledgement.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
       "match_type": "exact"
     },
     {
       "char_start": 5387,
       "char_end": 5580,
       "text": "In addition, Stimson will employ a ‘two strikes’ policy with any author – repeated concerns around undisclosed AI usage will result in the loss of eligibility to contribute as a Stimson author.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 29,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 44,
       "match_type": "exact"
     },
     {
       "char_start": 5582,
       "char_end": 5700,
       "text": "This policy is a living document to support research integrity in the application of quickly evolving AI technologies.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 30,
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
       "char_start": 5701,
       "char_end": 5838,
       "text": "The Stimson Center will review and update this policy at least annually to track best practices across leading journals and universities.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 31,
+      "segment_id": 46,
       "match_type": "exact"
     }
   ]

@@ -3,333 +3,646 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Präambel\nDer Einsatz von generativer künstlicher Intelligenz (GenKI) hat sich in der Gesellschaft und der Wissenschaft weitestgehend verselbständigt. Es besteht ein Konsens, dass diese disruptive Technologie ein großes positives Potenzial für Lehre und Forschung besitzt, welches am WIAS ausgeschöpft, gesteuert und begleitet werden soll. Das Ziel der wissenschaftlichen GenKI-Nutzung muss ein Erkenntnisgewinn sein, der das Vertrauen der Gesellschaft in wissenschaftliche Methoden und deren Ergebnisse stärkt und zugleich die Freiheit von Forschung und Lehre wahrt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der Einsatz von generativer künstlicher Intelligenz (GenKI) hat sich in der Gesellschaft und der Wissenschaft weitestgehend verselbständigt. Es besteht ein Konsens, dass diese disruptive Technologie ein großes positives Potenzial für Lehre und Forschung besitzt, welches am WIAS ausgeschöpft, gesteuert und begleitet werden soll.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Für die Nutzung generativer KI am WIAS sind maßgeblich:\n- Europäische KI-Verordnung EU 2024/1689 [EU AI Act],\n- Europäische Datenschutz-Grundverordnung [DSGVO],\n- Leitlinien Guter Wissenschaftlicher Praxis von DFG und Forschungsverbund Berlin e.V. (FVB) [GWP],\n- Living guidelines on the responsible use of generative AI in research der Europäischen Kommission [EU Guideline],\n- Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstlicher Intelligenz der Leibniz Gemeinschaft [Leibniz Guideline],\n- und ggf. die Richtlinien von Journalen, Kooperationspartnern und Universitäten.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Das Ziel der wissenschaftlichen GenKI-Nutzung muss ein Erkenntnisgewinn sein, der das Vertrauen der Gesellschaft in wissenschaftliche Methoden und deren Ergebnisse stärkt und zugleich die Freiheit von Forschung und Lehre wahrt.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Diese Richtlinie richtet sich an Beschäftigte des WIAS in Forschung, Verwaltung und IT und ebenso an WIAS-Gäste, die GenKI-Systeme des WIAS nutzen. Sie regelt primär die dienstliche Nutzung sogenannter Large Language Modelle (LLM).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Für die Nutzung generativer KI am WIAS sind maßgeblich:\n- Europäische KI-Verordnung EU 2024/1689 [EU AI Act],\n- Europäische Datenschutz-Grundverordnung [DSGVO],\n- Leitlinien Guter Wissenschaftlicher Praxis von DFG und Forschungsverbund Berlin e.V. (FVB) [GWP],\n- Living guidelines on the responsible use of generative AI in research der Europäischen Kommission [EU Guideline],\n- Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstlicher Intelligenz der Leibniz Gemeinschaft [Leibniz Guideline],\n- und ggf. die Richtlinien von Journalen, Kooperationspartnern und Universitäten.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Die Kernprinzipien der Forschung mit und an KI sind [EU Guideline]:\n- Verlässlichkeit: Forschungsqualität durch Überprüfbarkeit und Reproduzierbarkeit sichern und auf Verzerrung (Bias) achten.\n- Redlichkeit: Forschung transparent, fair und unparteiisch; Einsatz generativer KI offenlegen.\n- Respekt: Achtung von Mensch, Gesellschaft, Umwelt, sensiblen Daten (z.B. personenbezogene Daten, Geschäftsgeheimnisse, Gutachten, Anträge, geistig geschützte Inhalte), Privatsphäre, geistigen Eigentum und Fairness.\n- Verantwortlichkeit: Forschende bleiben für alle durch KI generierten Ergebnisse und deren Folgen verantwortlich; Nutzung generativer KI erfolgt unter menschlicher Aufsicht und Steuerung.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Richtlinie richtet sich an Beschäftigte des WIAS in Forschung, Verwaltung und IT und ebenso an WIAS-Gäste, die GenKI-Systeme des WIAS nutzen.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Verbotene KI-Praktiken im Sinne des [EU AI Act] sind am WIAS auch in der Forschung ausgeschlossen; Forschung und Entwicklung am WIAS richten sich nicht auf solche Zwecke.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Sie regelt primär die dienstliche Nutzung sogenannter Large Language Modelle (LLM).",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Das WIAS kommt mit dieser Richtlinie und ihren begleitenden Prozessen zugleich den Pflichten aus Art. 4 und Art. 11 KI-VO nach, ein angemessenes Maß an KI-Kompetenz sicherzustellen und eine technische Dokumentation für die Nutzung der angebotenen KI-Systeme zur Verfügung zu stellen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Kernprinzipien der Forschung mit und an KI sind [EU Guideline]:\n- Verlässlichkeit: Forschungsqualität durch Überprüfbarkeit und Reproduzierbarkeit sichern und auf Verzerrung (Bias) achten.\n- Redlichkeit: Forschung transparent, fair und unparteiisch; Einsatz generativer KI offenlegen.\n- Respekt: Achtung von Mensch, Gesellschaft, Umwelt, sensiblen Daten (z.B. personenbezogene Daten, Geschäftsgeheimnisse, Gutachten, Anträge, geistig geschützte Inhalte), Privatsphäre, geistigen Eigentum und Fairness.\n- Verantwortlichkeit: Forschende bleiben für alle durch KI generierten Ergebnisse und deren Folgen verantwortlich; Nutzung generativer KI erfolgt unter menschlicher Aufsicht und Steuerung.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Gesamtverantwortung liegt bei der Institutsleitung und die Umsetzung erfolgt durch die in dieser Richtlinie genannten Rollen (u.a. Datenschutzkoordination, Ombudsperson, RSE, IT).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Verbotene KI-Praktiken im Sinne des [EU AI Act] sind am WIAS auch in der Forschung ausgeschlossen; Forschung und Entwicklung am WIAS richten sich nicht auf solche Zwecke.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B10",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das WIAS kommt mit dieser Richtlinie und ihren begleitenden Prozessen zugleich den Pflichten aus Art. 4 und Art. 11 KI-VO nach, ein angemessenes Maß an KI-Kompetenz sicherzustellen und eine technische Dokumentation für die Nutzung der angebotenen KI-Systeme zur Verfügung zu stellen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Gesamtverantwortung liegt bei der Institutsleitung und die Umsetzung erfolgt durch die in dieser Richtlinie genannten Rollen (u.a. Datenschutzkoordination, Ombudsperson, RSE, IT).",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Weiterbildungen zu KI-Themen sollen in der Zukunft angeboten werden; z.B. im Rahmen des RSE-Seminars am WIAS gibt es Veranstaltungen, um die KI-Kompetenz zu gewährleisten.",
       "repaired": false
     },
     {
-      "id": 9,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Stufensystem (TIER 0,1,2)\nIm Sinne des [EU AI Act] ist wissenschaftliche Forschung in der Regel mit einem niedrigen Risiko verbunden. Zur weiteren praktischen Abschätzung und Eingrenzung von Risiken bei der Nutzung eines LLM setzt das WIAS ein TIER-Stufensystem ein. Es unterscheidet Art und Zweck des LLM, ersetzt aber nicht die offizielle Hochrisiko-/Niedrigrisiko-Einstufung (und verbotene Praktiken) des [EU AI Act].",
-      "repaired": false
-    },
-    {
-      "id": 10,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Die wesentlichen Merkmale der TIER-Stufen sind in Tabelle 1 abgebildet. Forschende können je nach Komplexität der Forschungsfragen TIER 0, TIER 1 oder TIER 2 LLM nutzen. Die Entwicklung, Anpassung und Evaluation eigener KI-Modelle ist im Rahmen der TIER-Stufen ausdrücklich möglich. Dabei werden die maßgeblichen Rechtsvorschriften [DSGVO, EU AI Act] sowie die einschlägigen Leitlinien [GWP, EU Guideline, Leibniz Guideline] eingehalten. [DSGVO] und [EU AI Act] definieren bestimmte Ausnahmen und Privilegien für die Forschung (z.B. Art. 89 [DSGVO] oder Erwägungsgrund 25 [EU AI Act]).",
-      "repaired": false
-    },
-    {
       "id": 11,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "| TIER | Risiko | Typische Modelle / Nutzung | Anforderungen |\n|------|--------|----------------------------|---------------|\n| 0 | kaum | lokale LLM ohne externe Datenübertragung; Basistools zur Text- und Codeunterstützung | automatischer Zugang; Beachtung von Guideline und [GWP, DSGVO] |\n| 1 | niedrig | kuratierte, externe LLM mit Standardfunktionen (Chat, Text, Code) für Forschung und Administration ohne sensible Daten | Kenntnisnahme und Einhaltung der Richtlinie (schwarz) und [GWP, DSGVO]; Beschränkung auf nicht-sensible Daten |\n| 2 | mittel | leistungsfähige externe LLM, spezialisierte APIs, komplexe agentische Workflows; Forschung mit und an Modellen | formeller Antrag + Prüfung, unterschriebene Richtlinie TIER 2 (blau), erweiterte Anforderungen und technische Expertise |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Im Sinne des [EU AI Act] ist wissenschaftliche Forschung in der Regel mit einem niedrigen Risiko verbunden. Zur weiteren praktischen Abschätzung und Eingrenzung von Risiken bei der Nutzung eines LLM setzt das WIAS ein TIER-Stufensystem ein.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Nutzung von LLM in der Verwaltung unterliegt den rechtlichen Vorgaben von [DSGVO, EU AI Act]. Insbesondere Vorgänge in der Personal- und Finanzverwaltung, der Drittmittel- und Vertragsverwaltung sowie der internen Organisation unterliegen einer besonderen Sorgfaltspflicht. Für die Verwaltung sollen daher in der Regel nur TIER 0 und nur bei klar unbedenklichen Daten TIER 1 LLM genutzt werden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Es unterscheidet Art und Zweck des LLM, ersetzt aber nicht die offizielle Hochrisiko-/Niedrigrisiko-Einstufung (und verbotene Praktiken) des [EU AI Act].",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "KI-Systeme dürfen nicht zur automatisierten Bewertung von Bewerbenden oder Beschäftigten benutzt werden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die wesentlichen Merkmale der TIER-Stufen sind in Tabelle 1 abgebildet. Forschende können je nach Komplexität der Forschungsfragen TIER 0, TIER 1 oder TIER 2 LLM nutzen.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Für TIER 1 und TIER 2 sind jeweils auch Token- und Kostenlimits der externen LLM-Anbieter zu beachten: die Modelle sind entsprechend differenziert nach Anwendungszweck energie- und kostensparend einzusetzen. In den Stufen TIER 0 und TIER 1 erfolgt die Nutzung ausschließlich aus dem WIAS-Intranet/VPN über https://webui.wias-berlin.de. In der Stufe TIER 2 erfolgt der Zugriff auf externe LLM ggf. direkt und somit nicht notwendig aus dem WIAS-Intranet/VPN. Der Freigabeprozess von TIER 2 erfolgt durch einen Antrag (siehe Tabelle 1).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Entwicklung, Anpassung und Evaluation eigener KI-Modelle ist im Rahmen der TIER-Stufen ausdrücklich möglich.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Richtlinie\nForschende am WIAS dürfen generative künstliche Intelligenz wie andere Werkzeuge zur Unterstützung in Forschung, Lehre, Softwareentwicklung und Verwaltung einsetzen, sofern sie die Regeln der [GWP], [DSGVO], der Universitäten und der Journale beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei werden die maßgeblichen Rechtsvorschriften [DSGVO, EU AI Act] sowie die einschlägigen Leitlinien [GWP, EU Guideline, Leibniz Guideline] eingehalten.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Verantwortung für die Richtigkeit und Verwendbarkeit der Inhalte (Input und Output) verbleibt immer beim KI-Nutzenden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "[DSGVO] und [EU AI Act] definieren bestimmte Ausnahmen und Privilegien für die Forschung (z.B. Art. 89 [DSGVO] oder Erwägungsgrund 25 [EU AI Act]).",
       "repaired": false
     },
     {
       "id": 17,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Für alle WIAS-Beschäftigten sind bei KI-Nutzung geltende Rechtsbestimmung zu beachten, z.B. hinsichtlich des Datenschutzes, Urheberrechts, Patentrechts.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Nutzung von LLM in der Verwaltung unterliegt den rechtlichen Vorgaben von [DSGVO, EU AI Act]. Insbesondere Vorgänge in der Personal- und Finanzverwaltung, der Drittmittel- und Vertragsverwaltung sowie der internen Organisation unterliegen einer besonderen Sorgfaltspflicht.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Im Folgenden werden zentrale Aspekte bei der Nutzung von GenKI hervorgehoben.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Für die Verwaltung sollen daher in der Regel nur TIER 0 und nur bei klar unbedenklichen Daten TIER 1 LLM genutzt werden.",
       "repaired": false
     },
     {
       "id": 19,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Verhaltensregeln und Dokumentation in der Forschung\n1. Die Leitlinien guter wissenschaftlicher Praxis des Forschungsverbunds Berlin e.V. und der DFG [GWP] sind Grundlage allen wissenschaftlichen Arbeitens am WIAS. GenKI darf die eigenständige wissenschaftliche Leistung nicht ersetzen, sondern nur unterstützen. Ausgaben sind auf inhaltliche Richtigkeit (Halluzinationen) und Bias zu prüfen.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Systeme dürfen nicht zur automatisierten Bewertung von Bewerbenden oder Beschäftigten benutzt werden.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2. Die Nutzung von GenKI ist für wissenschaftliche Arbeiten (Publikationen, Gutachten, Berichte, Lehrmaterialien etc.) so zu dokumentieren, dass Art, Umfang und Zweck der Unterstützung bzw. die eigene wissenschaftliche Leistung nachvollziehbar sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für TIER 1 und TIER 2 sind jeweils auch Token- und Kostenlimits der externen LLM-Anbieter zu beachten: die Modelle sind entsprechend differenziert nach Anwendungszweck energie- und kostensparend einzusetzen.",
       "repaired": false
     },
     {
       "id": 21,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "3. Autorenschaft, Verantwortlichkeit und Haftung verbleiben bei den jeweiligen Nutzenden und ggf. Co-Autor*innen. GenKI kann nicht als Autor*in ausgewiesen werden.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In den Stufen TIER 0 und TIER 1 erfolgt die Nutzung ausschließlich aus dem WIAS-Intranet/VPN über https://webui.wias-berlin.de.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "TIER 2: Um das Risiko der Nutzung nachvollziehbar zu gestalten, ist ein der Komplexität der Daten angemessener Forschungsdatenmanagementplan (RDMP) anzufertigen. Bei einer Änderung des Datenprofils wird der RDMP angepasst. In einfachen Fällen dient der Antrag als RDMP.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In der Stufe TIER 2 erfolgt der Zugriff auf externe LLM ggf. direkt und somit nicht notwendig aus dem WIAS-Intranet/VPN.",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "TIER 2: Besonders im TIER 2 ist eine hohe eigene KI-Kompetenz erforderlich und die Nutzenden verpflichten sich, ihre Kenntnisse zum Stand von Technik und Wissenschaft aktuell zu halten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Freigabeprozess von TIER 2 erfolgt durch einen Antrag (siehe Tabelle 1).",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Datenschutz\nBeim Einsatz von KI-Systemen gelten uneingeschränkt dieselben datenschutzrechtlichen Grundsätze und Anforderungen wie bei allen anderen Anwendungen und Prozessen. Für den datenschutzkonformen Einsatz von KI-Systemen sind insbesondere die folgenden Punkte zu beachten:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Forschende am WIAS dürfen generative künstliche Intelligenz wie andere Werkzeuge zur Unterstützung in Forschung, Lehre, Softwareentwicklung und Verwaltung einsetzen, sofern sie die Regeln der [GWP], [DSGVO], der Universitäten und der Journale beachten.",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "4. Der Nutzende ist verantwortlich für die Rechtmäßigkeit der Eingaben in und der Verwertung von Ausgaben von LLM. Externe LLM (ab TIER 1) können Ein- und Ausgaben für einige Zeit speichern und automatisiert überwachen, um Rechtsverstöße zu prüfen. Nach derzeitigem Kenntnisstand werden Eingaben über die API an externe LLM aktuell nicht zum Training verwendet. Feedbacks (z.B. Daumen hoch/runter) können jedoch gesondert geregelt sein und unter Umständen dennoch zum Training benutzt werden.\nDetails für die kuratierten TIER 1 LLM finden sich in den Nutzungsbedingungen der jeweiligen Anbieter (z.B. Mistral oder OpenAI).",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für die Richtigkeit und Verwendbarkeit der Inhalte (Input und Output) verbleibt immer beim KI-Nutzenden.",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "5. Die Verarbeitung personenbezogener Daten im Sinne der [DSGVO] sowie sonstiger sensibler Daten bedarf einer Rechtmäßigkeitsprüfung im Hinblick auf geltende Gesetze und interne Datenschutzregelungen. Diese muss in Abstimmung mit der Datenschutzkoordination und dem Datenschutzbeauftragten des FVB erfolgen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für alle WIAS-Beschäftigten sind bei KI-Nutzung geltende Rechtsbestimmung zu beachten, z.B. hinsichtlich des Datenschutzes, Urheberrechts, Patentrechts.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "6. Wenn personenbezogene Daten in Forschungsprojekten verarbeitet werden dürfen, sind diese je nach Art und Beschaffenheit der Daten in geeigneter Weise zu anonymisieren oder pseudonymisieren. Darüber hinaus sind die im Ergebnis des Genehmigungsprozesses auferlegten Pflichten, etwa hinsichtlich Datensparsamkeit, Datensicherheit, Dokumentation, Löschfristen und Betroffenenrechte, umzusetzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Leitlinien guter wissenschaftlicher Praxis des Forschungsverbunds Berlin e.V. und der DFG [GWP] sind Grundlage allen wissenschaftlichen Arbeitens am WIAS.",
       "repaired": false
     },
     {
       "id": 28,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "7. Datenschutzvorfälle: Sofern es zu einer Verletzung des Schutzes personenbezogener Daten gekommen ist, ist diese unverzüglich der Datenschutzkoordination zu melden und sicherzustellen, dass der Schutz wieder hergestellt wird.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "GenKI darf die eigenständige wissenschaftliche Leistung nicht ersetzen, sondern nur unterstützen.",
       "repaired": false
     },
     {
       "id": 29,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "8. Bei Unklarheiten oder konkreten Fragestellungen stehen die Datenschutzkoordination sowie der Datenschutzbeauftragte unterstützend zur Verfügung.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ausgaben sind auf inhaltliche Richtigkeit (Halluzinationen) und Bias zu prüfen.",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "TIER 2: Abhängig vom Nutzungsfall, haben die Nutzer von TIER 2 Projekten eine besondere Sorgfaltspflicht (z.B. Kuratierung genutzter LLM-Modelle, Übersicht geteilter/generierter Daten, Konfiguration der LLM-Services (opt-out Training, Datenspeicherung)). Bei Nutzung externer Anbieter in Drittländern (außerhalb von EU) werden die Vorgaben der [DSGVO] zu Drittlandübermittlungen durch Datenschutzkoordination geprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzung von GenKI ist für wissenschaftliche Arbeiten (Publikationen, Gutachten, Berichte, Lehrmaterialien etc.) so zu dokumentieren, dass Art, Umfang und Zweck der Unterstützung bzw. die eigene wissenschaftliche Leistung nachvollziehbar sind.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Softwareentwicklung und Urheberrecht\n9. GenKI kann zur Unterstützung bei der Entwicklung von Software (z. B. Code, Shell-Skripte, Webseiten) eingesetzt werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Autorenschaft, Verantwortlichkeit und Haftung verbleiben bei den jeweiligen Nutzenden und ggf. Co-Autor*innen.",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Verantwortung für Funktionalität, Korrektheit, Sicherheit, Urheberrecht und Lizenzkonformität der resultierenden Software liegt bei den Entwickelnden/KI-Nutzenden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "GenKI kann nicht als Autor*in ausgewiesen werden.",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "10. Es ist darauf zu achten, dass in TIER 1/2 keine vertraulichen Quelltexte oder proprietären Algorithmen offengelegt werden, sofern dies nicht ausdrücklich freigegeben ist. Bei Open-Source-Projekten sind die jeweiligen Lizenzbestimmungen zu beachten. Hinweis: GenKI kann urheberrechtlich geschützte Inhalte beinhalten/reproduzieren. Viele kommerzielle und offene LLM besitzen keine transparente Dokumentation der verwendeten Trainingsdaten, was die Prüfung von Urheberschutzfragen deutlich erschwert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "TIER 2: Um das Risiko der Nutzung nachvollziehbar zu gestalten, ist ein der Komplexität der Daten angemessener Forschungsdatenmanagementplan (RDMP) anzufertigen.",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "TIER 2: Der Einsatz von KI bei der Softwareentwicklung soll nachvollziehbar dokumentiert werden, etwa durch aussagekräftige Commit-Texte. Nutzende prüfen dabei die Vereinbarkeit der verwendeten Komponenten mit Lizenz- und Urheberrechtsvorgaben. Urheberrecht entsteht ausschließlich durch menschliche schöpferische Leistung; rein KI-generierte Codes sind nicht urheberrechtlich geschützt. Für agentische Systeme, die automatisch Code generieren, ausführen oder externe Tools ansteuern, sind zusätzliche technische Schutzmaßnahmen empfohlen (z. B. Sandbox-Umgebungen, Einschränkung kritischer Aktionen, Logging).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei einer Änderung des Datenprofils wird der RDMP angepasst.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Lehre und Publikationen\n11. In der Lehre kann GenKI sowohl von Lehrenden als auch von Lernenden unterstützend eingesetzt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In einfachen Fällen dient der Antrag als RDMP.",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Prüfungs- und Studienordnungen sowie die jeweiligen Bestimmungen der Universitäten sind zu beachten. Täuschungshandlungen (z. B. Einreichen von KI-generierten Texten als eigene Leistung ohne Kennzeichnung) sind unzulässig.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Besonders im TIER 2 ist eine hohe eigene KI-Kompetenz erforderlich und die Nutzenden verpflichten sich, ihre Kenntnisse zum Stand von Technik und Wissenschaft aktuell zu halten.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "12. Für wissenschaftliche Publikationen ist die Nutzung von GenKI transparent zu machen, sofern dies von Zeitschriften, Verlagen oder Förderorganisationen gefordert wird. Die jeweils gültigen Richtlinien (z. B. zum Einsatz von KI in Manuskripten) sind zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beim Einsatz von KI-Systemen gelten uneingeschränkt dieselben datenschutzrechtlichen Grundsätze und Anforderungen wie bei allen anderen Anwendungen und Prozessen.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "TIER 2: Die Nutzung in Publikationen (z. B. umfangreiche KI-gestützte Datenanalysen oder komplexe agentische Workflows) ist sicherzustellen, dass die Ergebnisse nachvollziehbar, reproduzierbar und unabhängig prüfbar bleiben. Dies umfasst insbesondere die Dokumentation der genutzten Modelle, Konfigurationen und Datenverarbeitungsschritte.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Für den datenschutzkonformen Einsatz von KI-Systemen sind insbesondere die folgenden Punkte zu beachten:\n4. Der Nutzende ist verantwortlich für die Rechtmäßigkeit der Eingaben in und der Verwertung von Ausgaben von LLM.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Schlussbemerkungen\nDie vorliegende Richtlinie soll regelmäßig überprüft und bei Bedarf angepasst werden. Insbesondere die europäische und nationale Regulierung von KI, neue Angebote externer Anbieter sowie technische Entwicklungen (z. B. neue Modellklassen, agentische Systeme) erfordern eine fortlaufende Weiterentwicklung.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Externe LLM (ab TIER 1) können Ein- und Ausgaben für einige Zeit speichern und automatisiert überwachen, um Rechtsverstöße zu prüfen.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Im Rahmen der Entwicklung eigener KI-Modelle und KI-Systeme sind, soweit diese nicht ausschließlich zu Forschungszwecken im Sinne von Art. 2 Abs. 6 KI-VO eingesetzt werden, ergänzend die Anbieter-Pflichten der KI-VO zu prüfen und zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nach derzeitigem Kenntnisstand werden Eingaben über die API an externe LLM aktuell nicht zum Training verwendet.",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Änderungen am TIER-System, an den zugelassenen Modellen oder an den Rollen und Zuständigkeiten (z. B. Ombudsperson, Datenschutzkoordination, Beirat IT) werden in den entsprechenden Richtlinie TIER 1/TIER 2 sowie in begleitenden Prozessdokumenten festgehalten. Diese Richtlinie verweist in Zweifelsfällen auf diese ergänzenden Dokumente.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Feedbacks (z.B. Daumen hoch/runter) können jedoch gesondert geregelt sein und unter Umständen dennoch zum Training benutzt werden.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Für Fragen zur Auslegung dieser Richtlinie, zu konkreten Anwendungsfällen oder zu geplanten TIER 2-Projekten stehen insbesondere Ombudsperson, Datenschutzkoordination, Forschungssoftwareingenieur (RSE) und IT-Abteilung als Ansprechpersonen zur Verfügung.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Details für die kuratierten TIER 1 LLM finden sich in den Nutzungsbedingungen der jeweiligen Anbieter (z.B. Mistral oder OpenAI).",
       "repaired": false
     },
     {
       "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "5. Die Verarbeitung personenbezogener Daten im Sinne der [DSGVO] sowie sonstiger sensibler Daten bedarf einer Rechtmäßigkeitsprüfung im Hinblick auf geltende Gesetze und interne Datenschutzregelungen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Diese muss in Abstimmung mit der Datenschutzkoordination und dem Datenschutzbeauftragten des FVB erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "6. Wenn personenbezogene Daten in Forschungsprojekten verarbeitet werden dürfen, sind diese je nach Art und Beschaffenheit der Daten in geeigneter Weise zu anonymisieren oder pseudonymisieren.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Darüber hinaus sind die im Ergebnis des Genehmigungsprozesses auferlegten Pflichten, etwa hinsichtlich Datensparsamkeit, Datensicherheit, Dokumentation, Löschfristen und Betroffenenrechte, umzusetzen.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "7. Datenschutzvorfälle: Sofern es zu einer Verletzung des Schutzes personenbezogener Daten gekommen ist, ist diese unverzüglich der Datenschutzkoordination zu melden und sicherzustellen, dass der Schutz wieder hergestellt wird.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "8. Bei Unklarheiten oder konkreten Fragestellungen stehen die Datenschutzkoordination sowie der Datenschutzbeauftragte unterstützend zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "TIER 2: Abhängig vom Nutzungsfall, haben die Nutzer von TIER 2 Projekten eine besondere Sorgfaltspflicht (z.B. Kuratierung genutzter LLM-Modelle, Übersicht geteilter/generierter Daten, Konfiguration der LLM-Services (opt-out Training, Datenspeicherung)).",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Nutzung externer Anbieter in Drittländern (außerhalb von EU) werden die Vorgaben der [DSGVO] zu Drittlandübermittlungen durch Datenschutzkoordination geprüft.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "9. GenKI kann zur Unterstützung bei der Entwicklung von Software (z. B. Code, Shell-Skripte, Webseiten) eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für Funktionalität, Korrektheit, Sicherheit, Urheberrecht und Lizenzkonformität der resultierenden Software liegt bei den Entwickelnden/KI-Nutzenden.",
+      "repaired": false
+    },
+    {
+      "id": 53,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "besonders im tier 2 ist eine hohe eigene ki-kompetenz erforderlich und die nutzenden verpflichten sich, ihre kenntnisse zum stand von technik und wissenschaft aktuell zu halten.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "10. Es ist darauf zu achten, dass in TIER 1/2 keine vertraulichen Quelltexte oder proprietären Algorithmen offengelegt werden, sofern dies nicht ausdrücklich freigegeben ist.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Open-Source-Projekten sind die jeweiligen Lizenzbestimmungen zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Hinweis: GenKI kann urheberrechtlich geschützte Inhalte beinhalten/reproduzieren.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Viele kommerzielle und offene LLM besitzen keine transparente Dokumentation der verwendeten Trainingsdaten, was die Prüfung von Urheberschutzfragen deutlich erschwert.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "TIER 2: Der Einsatz von KI bei der Softwareentwicklung soll nachvollziehbar dokumentiert werden, etwa durch aussagekräftige Commit-Texte.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nutzende prüfen dabei die Vereinbarkeit der verwendeten Komponenten mit Lizenz- und Urheberrechtsvorgaben.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Urheberrecht entsteht ausschließlich durch menschliche schöpferische Leistung; rein KI-generierte Codes sind nicht urheberrechtlich geschützt.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für agentische Systeme, die automatisch Code generieren, ausführen oder externe Tools ansteuern, sind zusätzliche technische Schutzmaßnahmen empfohlen (z. B. Sandbox-Umgebungen, Einschränkung kritischer Aktionen, Logging).",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "11. In der Lehre kann GenKI sowohl von Lehrenden als auch von Lernenden unterstützend eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungs- und Studienordnungen sowie die jeweiligen Bestimmungen der Universitäten sind zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Täuschungshandlungen (z. B. Einreichen von KI-generierten Texten als eigene Leistung ohne Kennzeichnung) sind unzulässig.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "12. Für wissenschaftliche Publikationen ist die Nutzung von GenKI transparent zu machen, sofern dies von Zeitschriften, Verlagen oder Förderorganisationen gefordert wird.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die jeweils gültigen Richtlinien (z. B. zum Einsatz von KI in Manuskripten) sind zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "TIER 2: Die Nutzung in Publikationen (z. B. umfangreiche KI-gestützte Datenanalysen oder komplexe agentische Workflows) ist sicherzustellen, dass die Ergebnisse nachvollziehbar, reproduzierbar und unabhängig prüfbar bleiben.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies umfasst insbesondere die Dokumentation der genutzten Modelle, Konfigurationen und Datenverarbeitungsschritte.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die vorliegende Richtlinie soll regelmäßig überprüft und bei Bedarf angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Insbesondere die europäische und nationale Regulierung von KI, neue Angebote externer Anbieter sowie technische Entwicklungen (z. B. neue Modellklassen, agentische Systeme) erfordern eine fortlaufende Weiterentwicklung.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Im Rahmen der Entwicklung eigener KI-Modelle und KI-Systeme sind, soweit diese nicht ausschließlich zu Forschungszwecken im Sinne von Art. 2 Abs. 6 KI-VO eingesetzt werden, ergänzend die Anbieter-Pflichten der KI-VO zu prüfen und zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Änderungen am TIER-System, an den zugelassenen Modellen oder an den Rollen und Zuständigkeiten (z. B. Ombudsperson, Datenschutzkoordination, Beirat IT) werden in den entsprechenden Richtlinie TIER 1/TIER 2 sowie in begleitenden Prozessdokumenten festgehalten.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Richtlinie verweist in Zweifelsfällen auf diese ergänzenden Dokumente.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Für Fragen zur Auslegung dieser Richtlinie, zu konkreten Anwendungsfällen oder zu geplanten TIER 2-Projekten stehen insbesondere Ombudsperson, Datenschutzkoordination, Forschungssoftwareingenieur (RSE) und IT-Abteilung als Ansprechpersonen zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "| TIER | Risiko | Typische Modelle / Nutzung | Anforderungen |\n|------|--------|----------------------------|---------------|\n| 0 | kaum | lokale LLM ohne externe Datenübertragung; Basistools zur Text- und Codeunterstützung | automatischer Zugang; Beachtung von Guideline und [GWP, DSGVO] |\n| 1 | niedrig | kuratierte, externe LLM mit Standardfunktionen (Chat, Text, Code) für Forschung und Administration ohne sensible Daten | Kenntnisnahme und Einhaltung der Richtlinie (schwarz) und [GWP, DSGVO]; Beschränkung auf nicht-sensible Daten |\n| 2 | mittel | leistungsfähige externe LLM, spezialisierte APIs, komplexe agentische Workflows; Forschung mit und an Modellen | formeller Antrag + Prüfung, unterschriebene Richtlinie TIER 2 (blau), erweiterte Anforderungen und technische Expertise |",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "im folgenden werden zentrale aspekte bei der nutzung von genki hervorgehoben.",
+      "repaired": true
+    },
+    {
+      "id": 76,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "autoren: christian merdon, dirk peschka, laura prieto saavedra",
+      "repaired": true
+    },
+    {
+      "id": 77,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "[eu ai act] eu ki-gesetz / artificial intelligence act (verordnung (eu) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eurlex.europa.eu/eli/reg/2024/1689/oj",
+      "repaired": true
+    },
+    {
+      "id": 78,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "[dsgvo] verordnung (eu) 2016/679 des europäischen parlaments und des rates vom 27. april 2016 zum schutz natürlicher personen bei der verarbeitung personenbezogener daten, zum freien datenverkehr (datenschutz-grundverordnung). https://eurlex.europa.eu/eli/reg/2016/679/oj.",
+      "repaired": true
+    },
+    {
+      "id": 79,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "[gwp] deutsche forschungsgemeinschaft (dfg): kodex „leitlinien zur sicherung guter wissenschaftlicher praxis\". https://www.dfg.de/gwp.",
+      "repaired": true
+    },
+    {
+      "id": 80,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "forschungsverbund berlin e.v. (fvb): „verfahrensordnung bei verdacht auf wissenschaftliches fehlverhalten\" https://www.fvberlin.de/ueberuns/hinweisekritik/gutewissenschaftlichepraxis",
+      "repaired": true
+    },
+    {
+      "id": 81,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "[eu guideline] european commission: living guidelines on the responsible use of generative ai in research. https://researchandinnovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en.",
+      "repaired": true
+    },
+    {
+      "id": 82,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "[leibniz guideline] leibniz-gemeinschaft: „empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz\". doi: https://dx.doi.org/10.5281/zenodo.14420893.",
+      "repaired": true
+    },
+    {
+      "id": 83,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "klar unbedenkliche daten erhalten keine persönliche, urheberrechtlich geschützte oder vertrauliche informationen.",
+      "repaired": true
+    },
+    {
+      "id": 84,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "datenschutzkoordinator des wias",
+      "repaired": true
+    },
+    {
+      "id": 85,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "ombudsperson des wias",
+      "repaired": true
+    },
+    {
+      "id": 86,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "research software engineer (rse) des wias",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 43,
-    "matched": 41,
-    "unmatched_count": 2,
+    "total": 86,
+    "matched": 83,
+    "unmatched_count": 3,
     "unmatched": [
       {
-        "id": 23,
-        "B": "B10",
-        "matched_words": "2/28",
-        "text": "TIER 2: Besonders im TIER 2 ist eine hohe eigene KI-Kompetenz erforderlich und die Nutzenden verpflichten sich, ihre Kenntnisse zum Stand von Technik und Wissenschaft aktuell zu halten."
+        "id": 77,
+        "B": "B13",
+        "matched_words": "4/15",
+        "text": "[eu ai act] eu ki-gesetz / artificial intelligence act (verordnung (eu) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eurlex.europa.eu/eli/reg/2024/1689/oj"
       },
       {
-        "id": 43,
-        "B": "B7",
-        "matched_words": "3/25",
-        "text": "besonders im tier 2 ist eine hohe eigene ki-kompetenz erforderlich und die nutzenden verpflichten sich, ihre kenntnisse zum stand von technik und wissenschaft aktuell zu halten."
+        "id": 78,
+        "B": "B13",
+        "matched_words": "26/28",
+        "text": "[dsgvo] verordnung (eu) 2016/679 des europäischen parlaments und des rates vom 27. april 2016 zum schutz natürlicher personen bei der verarbeitung personenbezogener daten, zum freien datenverkehr (datenschutz-grundverordnung). https://eurlex.europa.eu/eli/reg/2016/679/oj."
+      },
+      {
+        "id": 82,
+        "B": "B13",
+        "matched_words": "2/17",
+        "text": "[leibniz guideline] leibniz-gemeinschaft: „empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz\". doi: https://dx.doi.org/10.5281/zenodo.14420893."
       }
     ],
-    "source_coverage": 0.871,
-    "uncovered_chars": 1880,
-    "uncovered_gaps": 4,
+    "source_coverage": 0.917,
+    "uncovered_chars": 1110,
+    "uncovered_gaps": 11,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 180,
-        "length": 180,
-        "text": "# weierstraß-institut # source: https://www.wiasberlin.de/research/resp/gwp/files/ai_guideline_de.pdf # date: none # category: guideline wias-richtlinie zur nutzung generativer ki"
+        "char_end": 189,
+        "length": 189,
+        "text": "# weierstraß-institut # source: https://www.wiasberlin.de/research/resp/gwp/files/ai_guideline_de.pdf # date: none # category: guideline wias-richtlinie zur nutzung generativer ki präambel"
+      },
+      {
+        "char_start": 3066,
+        "char_end": 3094,
+        "length": 28,
+        "text": ". stufensystem (tier 0,1,2)"
       },
       {
         "char_start": 4809,
@@ -338,126 +651,225 @@
         "text": "tabelle 1: stufensystem für ki-nutzungsfälle am wias"
       },
       {
-        "char_start": 7584,
-        "char_end": 7764,
-        "length": 180,
-        "text": ". besonders im tier 2 ist eine hohe eigene ki-kompetenz erforderlich und die nutzenden verpflichten sich, ihre kenntnisse zum stand von technik und wissenschaft aktuell zu halten."
+        "char_start": 5890,
+        "char_end": 5903,
+        "length": 13,
+        "text": ". richtlinie"
       },
       {
-        "char_start": 13709,
-        "char_end": 15175,
-        "length": 1466,
-        "text": ". autoren: christian merdon, dirk peschka, laura prieto saavedra literatur [eu ai act] eu ki-gesetz / artificial intelligence act (verordnung (eu) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eurlex.europa.eu/eli/reg/2024/1689/oj [dsgvo] verordnung (eu) 2016/679 des europäischen parlaments und des rates vom 27. april 2016 zum schutz natürlicher personen bei der verarbeitung personenbezogener daten, zum freien datenverkehr (datenschutz-grundverordnung). https://eurlex.europa.eu/eli/reg/2016/679/oj. [gwp] deutsche forschungsgemeinschaft (dfg): kodex „leitlinien zur sicherung guter wissenschaftlicher praxis\". https://www.dfg.de/gwp. forschungsverbund berlin e.v. (fvb): „verfahrensordnung bei verdacht auf wissenschaftliches fehlverhalten\" https://www.fvberlin.de/ueberuns/hinweisekritik/gutewissenschaftlichepraxis [eu guideline] european commission: living guidelines on the responsible use of generative ai in research. https://researchandinnovation.ec.europa.eu/document/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en. [leibniz guideline] leibniz-gemeinschaft: „empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz\". doi: https://dx.doi.org/10.5281/zenodo.14420893. footnotes 1. klar unbedenkliche daten erhalten keine persönliche, urheberrechtlich geschützte oder vertrauliche informationen. 2. datenschutzkoordinator des wias 3. ombudsperson des wias 4. research software engineer (rse) des wias"
+        "char_start": 6508,
+        "char_end": 6565,
+        "length": 57,
+        "text": ". verhaltensregeln und dokumentation in der forschung 1."
+      },
+      {
+        "char_start": 7762,
+        "char_end": 7776,
+        "length": 14,
+        "text": ". datenschutz"
+      },
+      {
+        "char_start": 10158,
+        "char_end": 10197,
+        "length": 39,
+        "text": ". softwareentwicklung und urheberrecht"
+      },
+      {
+        "char_start": 11598,
+        "char_end": 11624,
+        "length": 26,
+        "text": ". lehre und publikationen"
+      },
+      {
+        "char_start": 12553,
+        "char_end": 12574,
+        "length": 21,
+        "text": ". schlussbemerkungen"
+      },
+      {
+        "char_start": 13773,
+        "char_end": 14232,
+        "length": 459,
+        "text": "literatur [eu ai act] eu ki-gesetz / artificial intelligence act (verordnung (eu) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eurlex.europa.eu/eli/reg/2024/1689/oj [dsgvo] verordnung (eu) 2016/679 des europäischen parlaments und des rates vom 27. april 2016 zum schutz natürlicher personen bei der verarbeitung personenbezogener daten, zum freien datenverkehr (datenschutz-grundverordnung). https://eurlex.europa.eu/eli/reg/2016/679/oj."
+      },
+      {
+        "char_start": 14747,
+        "char_end": 14957,
+        "length": 210,
+        "text": ". [leibniz guideline] leibniz-gemeinschaft: „empfehlung zur sicherung der guten wissenschaftlichen praxis beim umgang mit künstlicher intelligenz\". doi: https://dx.doi.org/10.5281/zenodo.14420893. footnotes 1."
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
-      "char_end": 183,
-      "text": "# Weierstraß-Institut\n# Source: https://www.wias-berlin.de/research/resp/gwp/files/AI_Guideline_DE.pdf\n# Date: None\n# Category: guideline\n\nWIAS-Richtlinie zur Nutzung generativer KI\n\n",
+      "char_end": 192,
+      "text": "# Weierstraß-Institut\n# Source: https://www.wias-berlin.de/research/resp/gwp/files/AI_Guideline_DE.pdf\n# Date: None\n# Category: guideline\n\nWIAS-Richtlinie zur Nutzung generativer KI\n\nPräambel\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 183,
-      "char_end": 749,
-      "text": "Präambel\nDer Einsatz von generativer künstlicher Intelligenz (GenKI) hat sich in der Gesellschaft und der Wissenschaft weitestgehend verselbständigt. Es besteht ein Konsens, dass diese disruptive Technologie ein großes positives Potenzial für Lehre und Forschung besitzt, welches am WIAS ausgeschöpft, gesteuert und begleitet werden soll. Das Ziel der wissenschaftlichen GenKI-Nutzung muss ein Erkenntnisgewinn sein, der das Vertrauen der Gesellschaft in wissenschaftliche Methoden und deren Ergebnisse stärkt und zugleich die Freiheit von Forschung und Lehre wahrt.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 192,
+      "char_end": 521,
+      "text": "Der Einsatz von generativer künstlicher Intelligenz (GenKI) hat sich in der Gesellschaft und der Wissenschaft weitestgehend verselbständigt. Es besteht ein Konsens, dass diese disruptive Technologie ein großes positives Potenzial für Lehre und Forschung besitzt, welches am WIAS ausgeschöpft, gesteuert und begleitet werden soll.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 522,
+      "char_end": 749,
+      "text": "Das Ziel der wissenschaftlichen GenKI-Nutzung muss ein Erkenntnisgewinn sein, der das Vertrauen der Gesellschaft in wissenschaftliche Methoden und deren Ergebnisse stärkt und zugleich die Freiheit von Forschung und Lehre wahrt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 750,
       "char_end": 1357,
       "text": "Für die Nutzung generativer KI am WIAS sind maßgeblich:\n- Europäische KI-Verordnung EU 2024/1689 [EU AI Act],\n- Europäische Datenschutz-Grundverordnung [DSGVO],\n- Leitlinien Guter Wissenschaftlicher Praxis von DFG und Forschungsverbund Berlin e.V. (FVB) [GWP],\n- Living guidelines on the responsible use of generative AI in research der Europäischen Kommission [EU Guideline],\n- Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstlicher Intelligenz der Leibniz Gemeinschaft [Leibniz Guideline],\n- und ggf. die Richtlinien von Journalen, Kooperationspartnern und Universitäten.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 2,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1359,
+      "char_end": 1506,
+      "text": "Diese Richtlinie richtet sich an Beschäftigte des WIAS in Forschung, Verwaltung und IT und ebenso an WIAS-Gäste, die GenKI-Systeme des WIAS nutzen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1507,
       "char_end": 1590,
-      "text": "Diese Richtlinie richtet sich an Beschäftigte des WIAS in Forschung, Verwaltung und IT und ebenso an WIAS-Gäste, die GenKI-Systeme des WIAS nutzen. Sie regelt primär die dienstliche Nutzung sogenannter Large Language Modelle (LLM).",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 3,
+      "text": "Sie regelt primär die dienstliche Nutzung sogenannter Large Language Modelle (LLM).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
       "match_type": "exact"
     },
     {
       "char_start": 1591,
       "char_end": 2285,
       "text": "Die Kernprinzipien der Forschung mit und an KI sind [EU Guideline]:\n- Verlässlichkeit: Forschungsqualität durch Überprüfbarkeit und Reproduzierbarkeit sichern und auf Verzerrung (Bias) achten.\n- Redlichkeit: Forschung transparent, fair und unparteiisch; Einsatz generativer KI offenlegen.\n- Respekt: Achtung von Mensch, Gesellschaft, Umwelt, sensiblen Daten (z.B. personenbezogene Daten, Geschäftsgeheimnisse, Gutachten, Anträge, geistig geschützte Inhalte), Privatsphäre, geistigen Eigentum und Fairness.\n- Verantwortlichkeit: Forschende bleiben für alle durch KI generierten Ergebnisse und deren Folgen verantwortlich; Nutzung generativer KI erfolgt unter menschlicher Aufsicht und Steuerung.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 4,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
       "char_start": 2287,
       "char_end": 2457,
       "text": "Verbotene KI-Praktiken im Sinne des [EU AI Act] sind am WIAS auch in der Forschung ausgeschlossen; Forschung und Entwicklung am WIAS richten sich nicht auf solche Zwecke.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 5,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 2459,
       "char_end": 2742,
       "text": "Das WIAS kommt mit dieser Richtlinie und ihren begleitenden Prozessen zugleich den Pflichten aus Art. 4 und Art. 11 KI-VO nach, ein angemessenes Maß an KI-Kompetenz sicherzustellen und eine technische Dokumentation für die Nutzung der angebotenen KI-Systeme zur Verfügung zu stellen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 6,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 2743,
       "char_end": 2926,
       "text": "Die Gesamtverantwortung liegt bei der Institutsleitung und die Umsetzung erfolgt durch die in dieser Richtlinie genannten Rollen (u.a. Datenschutzkoordination, Ombudsperson, RSE, IT).",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 7,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 9,
       "match_type": "exact"
     },
     {
       "char_start": 2927,
       "char_end": 3098,
       "text": "Weiterbildungen zu KI-Themen sollen in der Zukunft angeboten werden; z.B. im Rahmen des RSE-Seminars am WIAS gibt es Veranstaltungen, um die KI-Kompetenz zu gewährleisten.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 8,
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 3100,
+      "char_start": 3098,
+      "char_end": 3126,
+      "text": "\n\nStufensystem (TIER 0,1,2)\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3126,
+      "char_end": 3366,
+      "text": "Im Sinne des [EU AI Act] ist wissenschaftliche Forschung in der Regel mit einem niedrigen Risiko verbunden. Zur weiteren praktischen Abschätzung und Eingrenzung von Risiken bei der Nutzung eines LLM setzt das WIAS ein TIER-Stufensystem ein.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3367,
       "char_end": 3520,
-      "text": "Stufensystem (TIER 0,1,2)\nIm Sinne des [EU AI Act] ist wissenschaftliche Forschung in der Regel mit einem niedrigen Risiko verbunden. Zur weiteren praktischen Abschätzung und Eingrenzung von Risiken bei der Nutzung eines LLM setzt das WIAS ein TIER-Stufensystem ein. Es unterscheidet Art und Zweck des LLM, ersetzt aber nicht die offizielle Hochrisiko-/Niedrigrisiko-Einstufung (und verbotene Praktiken) des [EU AI Act].",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 9,
+      "text": "Es unterscheidet Art und Zweck des LLM, ersetzt aber nicht die offizielle Hochrisiko-/Niedrigrisiko-Einstufung (und verbotene Praktiken) des [EU AI Act].",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 3521,
+      "char_end": 3690,
+      "text": "Die wesentlichen Merkmale der TIER-Stufen sind in Tabelle 1 abgebildet. Forschende können je nach Komplexität der Forschungsfragen TIER 0, TIER 1 oder TIER 2 LLM nutzen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3691,
+      "char_end": 3803,
+      "text": "Die Entwicklung, Anpassung und Evaluation eigener KI-Modelle ist im Rahmen der TIER-Stufen ausdrücklich möglich.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3804,
+      "char_end": 3958,
+      "text": "Dabei werden die maßgeblichen Rechtsvorschriften [DSGVO, EU AI Act] sowie die einschlägigen Leitlinien [GWP, EU Guideline, Leibniz Guideline] eingehalten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3959,
       "char_end": 4106,
-      "text": "Die wesentlichen Merkmale der TIER-Stufen sind in Tabelle 1 abgebildet. Forschende können je nach Komplexität der Forschungsfragen TIER 0, TIER 1 oder TIER 2 LLM nutzen. Die Entwicklung, Anpassung und Evaluation eigener KI-Modelle ist im Rahmen der TIER-Stufen ausdrücklich möglich. Dabei werden die maßgeblichen Rechtsvorschriften [DSGVO, EU AI Act] sowie die einschlägigen Leitlinien [GWP, EU Guideline, Leibniz Guideline] eingehalten. [DSGVO] und [EU AI Act] definieren bestimmte Ausnahmen und Privilegien für die Forschung (z.B. Art. 89 [DSGVO] oder Erwägungsgrund 25 [EU AI Act]).",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 10,
+      "text": "[DSGVO] und [EU AI Act] definieren bestimmte Ausnahmen und Privilegien für die Forschung (z.B. Art. 89 [DSGVO] oder Erwägungsgrund 25 [EU AI Act]).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 4108,
       "char_end": 4897,
       "text": "| TIER | Risiko | Typische Modelle / Nutzung | Anforderungen |\n|------|--------|----------------------------|---------------|\n| 0 | kaum | lokale LLM ohne externe Datenübertragung; Basistools zur Text- und Codeunterstützung | automatischer Zugang; Beachtung von Guideline und [GWP, DSGVO] |\n| 1 | niedrig | kuratierte, externe LLM mit Standardfunktionen (Chat, Text, Code) für Forschung und Administration ohne sensible Daten | Kenntnisnahme und Einhaltung der Richtlinie (schwarz) und [GWP, DSGVO]; Beschränkung auf nicht-sensible Daten |\n| 2 | mittel | leistungsfähige externe LLM, spezialisierte APIs, komplexe agentische Workflows; Forschung mit und an Modellen | formeller Antrag + Prüfung, unterschriebene Richtlinie TIER 2 (blau), erweiterte Anforderungen und technische Expertise |",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 11,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 74,
       "match_type": "exact"
     },
     {
@@ -471,291 +883,732 @@
     },
     {
       "char_start": 4953,
-      "char_end": 5351,
-      "text": "Die Nutzung von LLM in der Verwaltung unterliegt den rechtlichen Vorgaben von [DSGVO, EU AI Act]. Insbesondere Vorgänge in der Personal- und Finanzverwaltung, der Drittmittel- und Vertragsverwaltung sowie der internen Organisation unterliegen einer besonderen Sorgfaltspflicht. Für die Verwaltung sollen daher in der Regel nur TIER 0 und nur bei klar unbedenklichen Daten TIER 1 LLM genutzt werden.",
+      "char_end": 5230,
+      "text": "Die Nutzung von LLM in der Verwaltung unterliegt den rechtlichen Vorgaben von [DSGVO, EU AI Act]. Insbesondere Vorgänge in der Personal- und Finanzverwaltung, der Drittmittel- und Vertragsverwaltung sowie der internen Organisation unterliegen einer besonderen Sorgfaltspflicht.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5231,
+      "char_end": 5351,
+      "text": "Für die Verwaltung sollen daher in der Regel nur TIER 0 und nur bei klar unbedenklichen Daten TIER 1 LLM genutzt werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
       "char_start": 5352,
       "char_end": 5456,
       "text": "KI-Systeme dürfen nicht zur automatisierten Bewertung von Bewerbenden oder Beschäftigten benutzt werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 13,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
       "char_start": 5458,
-      "char_end": 5991,
-      "text": "Für TIER 1 und TIER 2 sind jeweils auch Token- und Kostenlimits der externen LLM-Anbieter zu beachten: die Modelle sind entsprechend differenziert nach Anwendungszweck energie- und kostensparend einzusetzen. In den Stufen TIER 0 und TIER 1 erfolgt die Nutzung ausschließlich aus dem WIAS-Intranet/VPN über https://webui.wias-berlin.de. In der Stufe TIER 2 erfolgt der Zugriff auf externe LLM ggf. direkt und somit nicht notwendig aus dem WIAS-Intranet/VPN. Der Freigabeprozess von TIER 2 erfolgt durch einen Antrag (siehe Tabelle 1).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 14,
+      "char_end": 5665,
+      "text": "Für TIER 1 und TIER 2 sind jeweils auch Token- und Kostenlimits der externen LLM-Anbieter zu beachten: die Modelle sind entsprechend differenziert nach Anwendungszweck energie- und kostensparend einzusetzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 5993,
+      "char_start": 5666,
+      "char_end": 5793,
+      "text": "In den Stufen TIER 0 und TIER 1 erfolgt die Nutzung ausschließlich aus dem WIAS-Intranet/VPN über https://webui.wias-berlin.de.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5794,
+      "char_end": 5914,
+      "text": "In der Stufe TIER 2 erfolgt der Zugriff auf externe LLM ggf. direkt und somit nicht notwendig aus dem WIAS-Intranet/VPN.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5915,
+      "char_end": 5991,
+      "text": "Der Freigabeprozess von TIER 2 erfolgt durch einen Antrag (siehe Tabelle 1).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5991,
+      "char_end": 6004,
+      "text": "\n\nRichtlinie\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6004,
       "char_end": 6256,
-      "text": "Richtlinie\nForschende am WIAS dürfen generative künstliche Intelligenz wie andere Werkzeuge zur Unterstützung in Forschung, Lehre, Softwareentwicklung und Verwaltung einsetzen, sofern sie die Regeln der [GWP], [DSGVO], der Universitäten und der Journale beachten.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 15,
+      "text": "Forschende am WIAS dürfen generative künstliche Intelligenz wie andere Werkzeuge zur Unterstützung in Forschung, Lehre, Softwareentwicklung und Verwaltung einsetzen, sofern sie die Regeln der [GWP], [DSGVO], der Universitäten und der Journale beachten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 6257,
       "char_end": 6379,
       "text": "Die Verantwortung für die Richtigkeit und Verwendbarkeit der Inhalte (Input und Output) verbleibt immer beim KI-Nutzenden.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 16,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 6380,
       "char_end": 6532,
       "text": "Für alle WIAS-Beschäftigten sind bei KI-Nutzung geltende Rechtsbestimmung zu beachten, z.B. hinsichtlich des Datenschutzes, Urheberrechts, Patentrechts.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
       "char_start": 6534,
       "char_end": 6611,
       "text": "Im Folgenden werden zentrale Aspekte bei der Nutzung von GenKI hervorgehoben.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 18,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 75,
       "match_type": "exact"
     },
     {
-      "char_start": 6613,
-      "char_end": 7004,
-      "text": "Verhaltensregeln und Dokumentation in der Forschung\n1. Die Leitlinien guter wissenschaftlicher Praxis des Forschungsverbunds Berlin e.V. und der DFG [GWP] sind Grundlage allen wissenschaftlichen Arbeitens am WIAS. GenKI darf die eigenständige wissenschaftliche Leistung nicht ersetzen, sondern nur unterstützen. Ausgaben sind auf inhaltliche Richtigkeit (Halluzinationen) und Bias zu prüfen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
-      "match_type": "exact"
+      "char_start": 6611,
+      "char_end": 6668,
+      "text": "\n\nVerhaltensregeln und Dokumentation in der Forschung\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
-      "char_start": 7005,
-      "char_end": 7254,
-      "text": "2. Die Nutzung von GenKI ist für wissenschaftliche Arbeiten (Publikationen, Gutachten, Berichte, Lehrmaterialien etc.) so zu dokumentieren, dass Art, Umfang und Zweck der Unterstützung bzw. die eigene wissenschaftliche Leistung nachvollziehbar sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 20,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7255,
-      "char_end": 7418,
-      "text": "3. Autorenschaft, Verantwortlichkeit und Haftung verbleiben bei den jeweiligen Nutzenden und ggf. Co-Autor*innen. GenKI kann nicht als Autor*in ausgewiesen werden.",
+      "char_start": 6668,
+      "char_end": 6826,
+      "text": "Die Leitlinien guter wissenschaftlicher Praxis des Forschungsverbunds Berlin e.V. und der DFG [GWP] sind Grundlage allen wissenschaftlichen Arbeitens am WIAS.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 21,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6827,
+      "char_end": 6924,
+      "text": "GenKI darf die eigenständige wissenschaftliche Leistung nicht ersetzen, sondern nur unterstützen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6925,
+      "char_end": 7004,
+      "text": "Ausgaben sind auf inhaltliche Richtigkeit (Halluzinationen) und Bias zu prüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7004,
+      "char_end": 7008,
+      "text": "\n2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7008,
+      "char_end": 7254,
+      "text": "Die Nutzung von GenKI ist für wissenschaftliche Arbeiten (Publikationen, Gutachten, Berichte, Lehrmaterialien etc.) so zu dokumentieren, dass Art, Umfang und Zweck der Unterstützung bzw. die eigene wissenschaftliche Leistung nachvollziehbar sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7254,
+      "char_end": 7258,
+      "text": "\n3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7258,
+      "char_end": 7368,
+      "text": "Autorenschaft, Verantwortlichkeit und Haftung verbleiben bei den jeweiligen Nutzenden und ggf. Co-Autor*innen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7369,
+      "char_end": 7418,
+      "text": "GenKI kann nicht als Autor*in ausgewiesen werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 7420,
+      "char_end": 7581,
+      "text": "TIER 2: Um das Risiko der Nutzung nachvollziehbar zu gestalten, ist ein der Komplexität der Daten angemessener Forschungsdatenmanagementplan (RDMP) anzufertigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7582,
+      "char_end": 7642,
+      "text": "Bei einer Änderung des Datenprofils wird der RDMP angepasst.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7643,
       "char_end": 7689,
-      "text": "TIER 2: Um das Risiko der Nutzung nachvollziehbar zu gestalten, ist ein der Komplexität der Daten angemessener Forschungsdatenmanagementplan (RDMP) anzufertigen. Bei einer Änderung des Datenprofils wird der RDMP angepasst. In einfachen Fällen dient der Antrag als RDMP.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 22,
+      "text": "In einfachen Fällen dient der Antrag als RDMP.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
       "char_start": 7690,
       "char_end": 7867,
       "text": "Besonders im TIER 2 ist eine hohe eigene KI-Kompetenz erforderlich und die Nutzenden verpflichten sich, ihre Kenntnisse zum Stand von Technik und Wissenschaft aktuell zu halten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 43,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 7869,
-      "char_end": 8148,
-      "text": "Datenschutz\nBeim Einsatz von KI-Systemen gelten uneingeschränkt dieselben datenschutzrechtlichen Grundsätze und Anforderungen wie bei allen anderen Anwendungen und Prozessen. Für den datenschutzkonformen Einsatz von KI-Systemen sind insbesondere die folgenden Punkte zu beachten:",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 24,
-      "match_type": "exact"
+      "char_start": 7867,
+      "char_end": 7881,
+      "text": "\n\nDatenschutz\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
-      "char_start": 8149,
-      "char_end": 8771,
-      "text": "4. Der Nutzende ist verantwortlich für die Rechtmäßigkeit der Eingaben in und der Verwertung von Ausgaben von LLM. Externe LLM (ab TIER 1) können Ein- und Ausgaben für einige Zeit speichern und automatisiert überwachen, um Rechtsverstöße zu prüfen. Nach derzeitigem Kenntnisstand werden Eingaben über die API an externe LLM aktuell nicht zum Training verwendet. Feedbacks (z.B. Daumen hoch/runter) können jedoch gesondert geregelt sein und unter Umständen dennoch zum Training benutzt werden.\nDetails für die kuratierten TIER 1 LLM finden sich in den Nutzungsbedingungen der jeweiligen Anbieter (z.B. Mistral oder OpenAI).",
+      "char_start": 7881,
+      "char_end": 8043,
+      "text": "Beim Einsatz von KI-Systemen gelten uneingeschränkt dieselben datenschutzrechtlichen Grundsätze und Anforderungen wie bei allen anderen Anwendungen und Prozessen.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 25,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8044,
+      "char_end": 8263,
+      "text": "Für den datenschutzkonformen Einsatz von KI-Systemen sind insbesondere die folgenden Punkte zu beachten:\n4. Der Nutzende ist verantwortlich für die Rechtmäßigkeit der Eingaben in und der Verwertung von Ausgaben von LLM.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8264,
+      "char_end": 8397,
+      "text": "Externe LLM (ab TIER 1) können Ein- und Ausgaben für einige Zeit speichern und automatisiert überwachen, um Rechtsverstöße zu prüfen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8398,
+      "char_end": 8510,
+      "text": "Nach derzeitigem Kenntnisstand werden Eingaben über die API an externe LLM aktuell nicht zum Training verwendet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8511,
+      "char_end": 8641,
+      "text": "Feedbacks (z.B. Daumen hoch/runter) können jedoch gesondert geregelt sein und unter Umständen dennoch zum Training benutzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8642,
+      "char_end": 8771,
+      "text": "Details für die kuratierten TIER 1 LLM finden sich in den Nutzungsbedingungen der jeweiligen Anbieter (z.B. Mistral oder OpenAI).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 42,
       "match_type": "exact"
     },
     {
       "char_start": 8772,
+      "char_end": 8972,
+      "text": "5. Die Verarbeitung personenbezogener Daten im Sinne der [DSGVO] sowie sonstiger sensibler Daten bedarf einer Rechtmäßigkeitsprüfung im Hinblick auf geltende Gesetze und interne Datenschutzregelungen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8973,
       "char_end": 9079,
-      "text": "5. Die Verarbeitung personenbezogener Daten im Sinne der [DSGVO] sowie sonstiger sensibler Daten bedarf einer Rechtmäßigkeitsprüfung im Hinblick auf geltende Gesetze und interne Datenschutzregelungen. Diese muss in Abstimmung mit der Datenschutzkoordination und dem Datenschutzbeauftragten des FVB erfolgen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 26,
+      "text": "Diese muss in Abstimmung mit der Datenschutzkoordination und dem Datenschutzbeauftragten des FVB erfolgen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 44,
       "match_type": "exact"
     },
     {
       "char_start": 9080,
+      "char_end": 9272,
+      "text": "6. Wenn personenbezogene Daten in Forschungsprojekten verarbeitet werden dürfen, sind diese je nach Art und Beschaffenheit der Daten in geeigneter Weise zu anonymisieren oder pseudonymisieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9273,
       "char_end": 9473,
-      "text": "6. Wenn personenbezogene Daten in Forschungsprojekten verarbeitet werden dürfen, sind diese je nach Art und Beschaffenheit der Daten in geeigneter Weise zu anonymisieren oder pseudonymisieren. Darüber hinaus sind die im Ergebnis des Genehmigungsprozesses auferlegten Pflichten, etwa hinsichtlich Datensparsamkeit, Datensicherheit, Dokumentation, Löschfristen und Betroffenenrechte, umzusetzen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 27,
+      "text": "Darüber hinaus sind die im Ergebnis des Genehmigungsprozesses auferlegten Pflichten, etwa hinsichtlich Datensparsamkeit, Datensicherheit, Dokumentation, Löschfristen und Betroffenenrechte, umzusetzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
       "char_start": 9474,
       "char_end": 9701,
       "text": "7. Datenschutzvorfälle: Sofern es zu einer Verletzung des Schutzes personenbezogener Daten gekommen ist, ist diese unverzüglich der Datenschutzkoordination zu melden und sicherzustellen, dass der Schutz wieder hergestellt wird.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
       "match_type": "exact"
     },
     {
       "char_start": 9702,
       "char_end": 9849,
       "text": "8. Bei Unklarheiten oder konkreten Fragestellungen stehen die Datenschutzkoordination sowie der Datenschutzbeauftragte unterstützend zur Verfügung.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 29,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
       "char_start": 9851,
-      "char_end": 10268,
-      "text": "TIER 2: Abhängig vom Nutzungsfall, haben die Nutzer von TIER 2 Projekten eine besondere Sorgfaltspflicht (z.B. Kuratierung genutzter LLM-Modelle, Übersicht geteilter/generierter Daten, Konfiguration der LLM-Services (opt-out Training, Datenspeicherung)). Bei Nutzung externer Anbieter in Drittländern (außerhalb von EU) werden die Vorgaben der [DSGVO] zu Drittlandübermittlungen durch Datenschutzkoordination geprüft.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "char_end": 10105,
+      "text": "TIER 2: Abhängig vom Nutzungsfall, haben die Nutzer von TIER 2 Projekten eine besondere Sorgfaltspflicht (z.B. Kuratierung genutzter LLM-Modelle, Übersicht geteilter/generierter Daten, Konfiguration der LLM-Services (opt-out Training, Datenspeicherung)).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
       "match_type": "exact"
     },
     {
-      "char_start": 10270,
+      "char_start": 10106,
+      "char_end": 10268,
+      "text": "Bei Nutzung externer Anbieter in Drittländern (außerhalb von EU) werden die Vorgaben der [DSGVO] zu Drittlandübermittlungen durch Datenschutzkoordination geprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10268,
+      "char_end": 10307,
+      "text": "\n\nSoftwareentwicklung und Urheberrecht\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10307,
       "char_end": 10429,
-      "text": "Softwareentwicklung und Urheberrecht\n9. GenKI kann zur Unterstützung bei der Entwicklung von Software (z. B. Code, Shell-Skripte, Webseiten) eingesetzt werden.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 31,
+      "text": "9. GenKI kann zur Unterstützung bei der Entwicklung von Software (z. B. Code, Shell-Skripte, Webseiten) eingesetzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 51,
       "match_type": "exact"
     },
     {
       "char_start": 10430,
       "char_end": 10597,
       "text": "Die Verantwortung für Funktionalität, Korrektheit, Sicherheit, Urheberrecht und Lizenzkonformität der resultierenden Software liegt bei den Entwickelnden/KI-Nutzenden.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 32,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {
       "char_start": 10598,
-      "char_end": 11100,
-      "text": "10. Es ist darauf zu achten, dass in TIER 1/2 keine vertraulichen Quelltexte oder proprietären Algorithmen offengelegt werden, sofern dies nicht ausdrücklich freigegeben ist. Bei Open-Source-Projekten sind die jeweiligen Lizenzbestimmungen zu beachten. Hinweis: GenKI kann urheberrechtlich geschützte Inhalte beinhalten/reproduzieren. Viele kommerzielle und offene LLM besitzen keine transparente Dokumentation der verwendeten Trainingsdaten, was die Prüfung von Urheberschutzfragen deutlich erschwert.",
+      "char_end": 10772,
+      "text": "10. Es ist darauf zu achten, dass in TIER 1/2 keine vertraulichen Quelltexte oder proprietären Algorithmen offengelegt werden, sofern dies nicht ausdrücklich freigegeben ist.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 33,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10773,
+      "char_end": 10850,
+      "text": "Bei Open-Source-Projekten sind die jeweiligen Lizenzbestimmungen zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10851,
+      "char_end": 10932,
+      "text": "Hinweis: GenKI kann urheberrechtlich geschützte Inhalte beinhalten/reproduzieren.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10933,
+      "char_end": 11100,
+      "text": "Viele kommerzielle und offene LLM besitzen keine transparente Dokumentation der verwendeten Trainingsdaten, was die Prüfung von Urheberschutzfragen deutlich erschwert.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 56,
       "match_type": "exact"
     },
     {
       "char_start": 11102,
-      "char_end": 11712,
-      "text": "TIER 2: Der Einsatz von KI bei der Softwareentwicklung soll nachvollziehbar dokumentiert werden, etwa durch aussagekräftige Commit-Texte. Nutzende prüfen dabei die Vereinbarkeit der verwendeten Komponenten mit Lizenz- und Urheberrechtsvorgaben. Urheberrecht entsteht ausschließlich durch menschliche schöpferische Leistung; rein KI-generierte Codes sind nicht urheberrechtlich geschützt. Für agentische Systeme, die automatisch Code generieren, ausführen oder externe Tools ansteuern, sind zusätzliche technische Schutzmaßnahmen empfohlen (z. B. Sandbox-Umgebungen, Einschränkung kritischer Aktionen, Logging).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 34,
+      "char_end": 11239,
+      "text": "TIER 2: Der Einsatz von KI bei der Softwareentwicklung soll nachvollziehbar dokumentiert werden, etwa durch aussagekräftige Commit-Texte.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
       "match_type": "exact"
     },
     {
-      "char_start": 11714,
+      "char_start": 11240,
+      "char_end": 11346,
+      "text": "Nutzende prüfen dabei die Vereinbarkeit der verwendeten Komponenten mit Lizenz- und Urheberrechtsvorgaben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11347,
+      "char_end": 11489,
+      "text": "Urheberrecht entsteht ausschließlich durch menschliche schöpferische Leistung; rein KI-generierte Codes sind nicht urheberrechtlich geschützt.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11490,
+      "char_end": 11712,
+      "text": "Für agentische Systeme, die automatisch Code generieren, ausführen oder externe Tools ansteuern, sind zusätzliche technische Schutzmaßnahmen empfohlen (z. B. Sandbox-Umgebungen, Einschränkung kritischer Aktionen, Logging).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11712,
+      "char_end": 11738,
+      "text": "\n\nLehre und Publikationen\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11738,
       "char_end": 11842,
-      "text": "Lehre und Publikationen\n11. In der Lehre kann GenKI sowohl von Lehrenden als auch von Lernenden unterstützend eingesetzt werden.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 35,
+      "text": "11. In der Lehre kann GenKI sowohl von Lehrenden als auch von Lernenden unterstützend eingesetzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 61,
       "match_type": "exact"
     },
     {
       "char_start": 11843,
+      "char_end": 11943,
+      "text": "Prüfungs- und Studienordnungen sowie die jeweiligen Bestimmungen der Universitäten sind zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11944,
       "char_end": 12065,
-      "text": "Prüfungs- und Studienordnungen sowie die jeweiligen Bestimmungen der Universitäten sind zu beachten. Täuschungshandlungen (z. B. Einreichen von KI-generierten Texten als eigene Leistung ohne Kennzeichnung) sind unzulässig.",
+      "text": "Täuschungshandlungen (z. B. Einreichen von KI-generierten Texten als eigene Leistung ohne Kennzeichnung) sind unzulässig.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 36,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 63,
       "match_type": "exact"
     },
     {
       "char_start": 12066,
+      "char_end": 12236,
+      "text": "12. Für wissenschaftliche Publikationen ist die Nutzung von GenKI transparent zu machen, sofern dies von Zeitschriften, Verlagen oder Förderorganisationen gefordert wird.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12237,
       "char_end": 12330,
-      "text": "12. Für wissenschaftliche Publikationen ist die Nutzung von GenKI transparent zu machen, sofern dies von Zeitschriften, Verlagen oder Förderorganisationen gefordert wird. Die jeweils gültigen Richtlinien (z. B. zum Einsatz von KI in Manuskripten) sind zu beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 37,
+      "text": "Die jeweils gültigen Richtlinien (z. B. zum Einsatz von KI in Manuskripten) sind zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 65,
       "match_type": "exact"
     },
     {
       "char_start": 12332,
-      "char_end": 12671,
-      "text": "TIER 2: Die Nutzung in Publikationen (z. B. umfangreiche KI-gestützte Datenanalysen oder komplexe agentische Workflows) ist sicherzustellen, dass die Ergebnisse nachvollziehbar, reproduzierbar und unabhängig prüfbar bleiben. Dies umfasst insbesondere die Dokumentation der genutzten Modelle, Konfigurationen und Datenverarbeitungsschritte.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 38,
+      "char_end": 12556,
+      "text": "TIER 2: Die Nutzung in Publikationen (z. B. umfangreiche KI-gestützte Datenanalysen oder komplexe agentische Workflows) ist sicherzustellen, dass die Ergebnisse nachvollziehbar, reproduzierbar und unabhängig prüfbar bleiben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 66,
       "match_type": "exact"
     },
     {
-      "char_start": 12673,
-      "char_end": 12997,
-      "text": "Schlussbemerkungen\nDie vorliegende Richtlinie soll regelmäßig überprüft und bei Bedarf angepasst werden. Insbesondere die europäische und nationale Regulierung von KI, neue Angebote externer Anbieter sowie technische Entwicklungen (z. B. neue Modellklassen, agentische Systeme) erfordern eine fortlaufende Weiterentwicklung.",
-      "B": "B11",
+      "char_start": 12557,
+      "char_end": 12671,
+      "text": "Dies umfasst insbesondere die Dokumentation der genutzten Modelle, Konfigurationen und Datenverarbeitungsschritte.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12671,
+      "char_end": 12692,
+      "text": "\n\nSchlussbemerkungen\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12692,
+      "char_end": 12777,
+      "text": "Die vorliegende Richtlinie soll regelmäßig überprüft und bei Bedarf angepasst werden.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 39,
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12778,
+      "char_end": 12997,
+      "text": "Insbesondere die europäische und nationale Regulierung von KI, neue Angebote externer Anbieter sowie technische Entwicklungen (z. B. neue Modellklassen, agentische Systeme) erfordern eine fortlaufende Weiterentwicklung.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 69,
       "match_type": "exact"
     },
     {
       "char_start": 12999,
       "char_end": 13241,
       "text": "Im Rahmen der Entwicklung eigener KI-Modelle und KI-Systeme sind, soweit diese nicht ausschließlich zu Forschungszwecken im Sinne von Art. 2 Abs. 6 KI-VO eingesetzt werden, ergänzend die Anbieter-Pflichten der KI-VO zu prüfen und zu beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
       "match_type": "exact"
     },
     {
       "char_start": 13243,
-      "char_end": 13579,
-      "text": "Änderungen am TIER-System, an den zugelassenen Modellen oder an den Rollen und Zuständigkeiten (z. B. Ombudsperson, Datenschutzkoordination, Beirat IT) werden in den entsprechenden Richtlinie TIER 1/TIER 2 sowie in begleitenden Prozessdokumenten festgehalten. Diese Richtlinie verweist in Zweifelsfällen auf diese ergänzenden Dokumente.",
-      "B": "B11",
+      "char_end": 13502,
+      "text": "Änderungen am TIER-System, an den zugelassenen Modellen oder an den Rollen und Zuständigkeiten (z. B. Ombudsperson, Datenschutzkoordination, Beirat IT) werden in den entsprechenden Richtlinie TIER 1/TIER 2 sowie in begleitenden Prozessdokumenten festgehalten.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 41,
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13503,
+      "char_end": 13579,
+      "text": "Diese Richtlinie verweist in Zweifelsfällen auf diese ergänzenden Dokumente.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 72,
       "match_type": "exact"
     },
     {
       "char_start": 13581,
       "char_end": 13835,
       "text": "Für Fragen zur Auslegung dieser Richtlinie, zu konkreten Anwendungsfällen oder zu geplanten TIER 2-Projekten stehen insbesondere Ombudsperson, Datenschutzkoordination, Forschungssoftwareingenieur (RSE) und IT-Abteilung als Ansprechpersonen zur Verfügung.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 42,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 73,
       "match_type": "exact"
     },
     {
-      "char_start": 13835,
-      "char_end": 15313,
-      "text": "\n\nAutoren: Christian Merdon, Dirk Peschka, Laura Prieto Saavedra\n\nLiteratur\n[EU AI Act] EU KI-Gesetz / Artificial Intelligence Act (Verordnung (EU) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eur-lex.europa.eu/eli/reg/2024/1689/oj\n[DSGVO] Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr (Datenschutz-Grundverordnung). https://eur-lex.europa.eu/eli/reg/2016/679/oj.\n[GWP] Deutsche Forschungsgemeinschaft (DFG): Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“. https://www.dfg.de/gwp. Forschungsverbund Berlin e.V. (FVB): „Verfahrensordnung bei Verdacht auf wissenschaftliches Fehlverhalten“ https://www.fv-berlin.de/ueber-uns/hinweise-kritik/gute-wissenschaftliche-praxis\n[EU Guideline] European Commission: Living Guidelines on the Responsible Use of Generative AI in Research. https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en.\n[Leibniz Guideline] Leibniz-Gemeinschaft: „Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstlicher Intelligenz“. DOI: https://dx.doi.org/10.5281/zenodo.14420893.\n\nFOOTNOTES\n1. Klar unbedenkliche Daten erhalten keine persönliche, urheberrechtlich geschützte oder vertrauliche Informationen.\n2. Datenschutzkoordinator des WIAS\n3. Ombudsperson des WIAS\n4. Research Software Engineer (RSE) des WIAS",
+      "char_start": 13837,
+      "char_end": 13899,
+      "text": "Autoren: Christian Merdon, Dirk Peschka, Laura Prieto Saavedra",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13899,
+      "char_end": 13911,
+      "text": "\n\nLiteratur\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
+    },
+    {
+      "char_start": 13911,
+      "char_end": 14086,
+      "text": "[EU AI Act] EU KI-Gesetz / Artificial Intelligence Act (Verordnung (EU) 2024/1689). https://artificialintelligenceact.eu/de/ und https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14087,
+      "char_end": 14360,
+      "text": "[DSGVO] Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr (Datenschutz-Grundverordnung). https://eur-lex.europa.eu/eli/reg/2016/679/oj.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14360,
+      "char_end": 14684,
+      "text": "\n[GWP] Deutsche Forschungsgemeinschaft (DFG): Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“. https://www.dfg.de/gwp. Forschungsverbund Berlin e.V. (FVB): „Verfahrensordnung bei Verdacht auf wissenschaftliches Fehlverhalten“ https://www.fv-berlin.de/ueber-uns/hinweise-kritik/gute-wissenschaftliche-praxis\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14684,
+      "char_end": 14885,
+      "text": "[EU Guideline] European Commission: Living Guidelines on the Responsible Use of Generative AI in Research. https://research-and-innovation.ec.europa.eu/document/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14886,
+      "char_end": 15080,
+      "text": "[Leibniz Guideline] Leibniz-Gemeinschaft: „Empfehlung zur Sicherung der guten wissenschaftlichen Praxis beim Umgang mit Künstlicher Intelligenz“. DOI: https://dx.doi.org/10.5281/zenodo.14420893.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15080,
+      "char_end": 15095,
+      "text": "\n\nFOOTNOTES\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15095,
+      "char_end": 15208,
+      "text": "Klar unbedenkliche Daten erhalten keine persönliche, urheberrechtlich geschützte oder vertrauliche Informationen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15208,
+      "char_end": 15212,
+      "text": "\n2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15212,
+      "char_end": 15243,
+      "text": "Datenschutzkoordinator des WIAS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15243,
+      "char_end": 15247,
+      "text": "\n3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15247,
+      "char_end": 15268,
+      "text": "Ombudsperson des WIAS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15268,
+      "char_end": 15272,
+      "text": "\n4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15272,
+      "char_end": 15313,
+      "text": "Research Software Engineer (RSE) des WIAS",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 86,
+      "match_type": "exact"
     }
   ]
 }

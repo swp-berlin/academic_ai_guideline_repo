@@ -3,235 +3,463 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Background and purpose of the Guidelines\nThe University of Basel is fully committed to the principle of responsible research. The rapid and widespread development of generative AI-based tools has pervaded all domains, from our daily life to the research field. Its great potentials as well as significant risks highlighted in many recent (inter-)national policies and institutional recommendations have prompted the Research Ethics Committee of the University of Basel to provide researchers with guidelines and contact points.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Background and purpose of the Guidelines",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "As declared in the Guidelines «Citing AI Tools» How to use tools based on artificial intelligence published by the Vice Presidency for Education in the Spring 2024, “The University of Basel does not have a general prohibition on the use of AI-supported tools. Students should learn how to handle these tools sensibly and responsibly.” By the same token, researchers should not be prevented from benefiting from the many opportunities and great potentials provided by generative AI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The University of Basel is fully committed to the principle of responsible research. The rapid and widespread development of generative AI-based tools has pervaded all domains, from our daily life to the research field. Its great potentials as well as significant risks highlighted in many recent (inter-)national policies and institutional recommendations have prompted the Research Ethics Committee of the University of Basel to provide researchers with guidelines and contact points.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Instead, they should be informed of the risks AI entails, such as biases, the “black box” problem, unreliable information, intellectual property and data protection issues. In sum, researchers should be aware that an insufficiently informed and reflected use of AI could have a devastating impact on human research participants, on the quality of their research, on the integrity of scientific practices of their institution, and ultimately on the societal trust in science.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "As declared in the Guidelines «Citing AI Tools» How to use tools based on artificial intelligence published by the Vice Presidency for Education in the Spring 2024, “The University of Basel does not have a general prohibition on the use of AI-supported tools. Students should learn how to handle these tools sensibly and responsibly.” By the same token, researchers should not be prevented from benefiting from the many opportunities and great potentials provided by generative AI.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "The purpose of these Guidelines is to outline the research ethics principles for a responsible use of AI tools in research, and to formulate practical recommendations to assist researchers in employing trustworthy AI tools. The Guidelines are being reviewed regularly by the Vice Rectorate for Research.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Instead, they should be informed of the risks AI entails, such as biases, the “black box” problem, unreliable information, intellectual property and data protection issues.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "These recommendations adhere by and large to the Living guidelines on the responsible use of generative AI in research (EU, version April 2025).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In sum, researchers should be aware that an insufficiently informed and reflected use of AI could have a devastating impact on human research participants, on the quality of their research, on the integrity of scientific practices of their institution, and ultimately on the societal trust in science.",
       "repaired": false
     },
     {
       "id": 6,
       "B": "B4",
-      "B_label": "principles/values",
-      "text": "Recommendations for Researchers\nThe following recommendations for researchers are anchored in the four basic principles of Scientific Integrity published by the Swiss Academies for Arts and Sciences, the Code of conduct for scientific integrity (2021): Reliability, honesty, respect and accountability.",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The purpose of these Guidelines is to outline the research ethics principles for a responsible use of AI tools in research, and to formulate practical recommendations to assist researchers in employing trustworthy AI tools.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "1. Remain accountable\n- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "The Guidelines are being reviewed regularly by the Vice Rectorate for Research.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers maintain a critical approach to using the output produced by generative AI and are in a position to identify and eliminate the tools’ limitations, such as bias, hallucinations and inaccuracies.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "These recommendations adhere by and large to the Living guidelines on the responsible use of generative AI in research (EU, version April 2025).",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers only.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Recommendations for Researchers",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2. Use generative AI transparently\n- In order to be transparent, researchers detail in the information sheet for participants when, where and for what purpose the generative AI tools have been used in their research processes.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The following recommendations for researchers are anchored in the four basic principles of Scientific Integrity published by the Swiss Academies for Arts and Sciences, the Code of conduct for scientific integrity (2021): Reliability, honesty, respect and accountability.",
       "repaired": false
     },
     {
       "id": 11,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Researchers are aware that AI tools tend to produce different outputs from the same input, which is contrary to the scientific aim of reproducibility. They disclose clearly the limitations of generative AI tools used.",
+      "B_label": "roles/accountability/oversight",
+      "text": "1. Remain accountable",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "3. Pay particular attention to privacy, confidentiality and intellectual property rights, as well as data protection laws and regulations. Comply with the applicable legislation when sharing sensitive or classified information with AI tools.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Researchers remain mindful that generated or uploaded input data of various formats such as text, raw data, prompts, images, etc. could be used for other purposes, such as the training of AI models.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Researchers maintain a critical approach to using the output produced by generative AI and are in a position to identify and eliminate the tools’ limitations, such as bias, hallucinations and inaccuracies.",
       "repaired": false
     },
     {
       "id": 14,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Therefore, it is essential that researchers protect unpublished or sensitive data and work (such as their own or others’ unpublished work) by taking care not to upload it into an external AI system. Researchers furthermore comply with the institutional regulations on data classification (see the Data and information classification system of the University of Basel) and work with approved IT tools.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers only.",
       "repaired": false
     },
     {
       "id": 15,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI.",
+      "B_label": "roles/accountability/oversight",
+      "text": "2. Use generative AI transparently",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers respect others’ authorship and cite their work where appropriate (see the Code of Conduct and the Integrity Regulations of the University of Basel, as well as the Code of conduct for scientific integrity).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In order to be transparent, researchers detail in the information sheet for participants when, where and for what purpose the generative AI tools have been used in their research processes.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers privilege local AI clouds deployed on trusted servers of their home institution for third parties’ personal data, instead of external AI generative systems.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers are aware that AI tools tend to produce different outputs from the same input, which is contrary to the scientific aim of reproducibility.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Exceptions may apply if the participants have given their informed consent and data protection regulations are followed.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "They disclose clearly the limitations of generative AI tools used.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Pay particular attention to privacy, confidentiality and intellectual property rights, as well as data protection laws and regulations. Comply with the applicable legislation when sharing sensitive or classified information with AI tools.",
       "repaired": false
     },
     {
       "id": 20,
       "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "4. Remain up-to-date on evolution of generative AI tools in research and their environmental impact\n- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on best practices (see training offers at the University of Basel).",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers remain mindful that generated or uploaded input data of various formats such as text, raw data, prompts, images, etc. could be used for other purposes, such as the training of AI models.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Researchers are informed about the environmental impact of generative AI tools. They evaluate and choose the most environmentally sound tools and techniques (consult the Research & Infrastructure Support RISE).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Therefore, it is essential that researchers protect unpublished or sensitive data and work (such as their own or others’ unpublished work) by taking care not to upload it into an external AI system.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "5. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc.)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Researchers furthermore comply with the institutional regulations on data classification (see the Data and information classification system of the University of Basel) and work with approved IT tools.",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools’ limitations (such as hallucinations and bias).",
+      "text": "Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI.",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (see SNSF Recommendations Towards a responsible use of AI in research).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Researchers respect others’ authorship and cite their work where appropriate (see the Code of Conduct and the Integrity Regulations of the University of Basel, as well as the Code of conduct for scientific integrity).",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "6. Be aware of scientific integrity issues\nResearchers using generative AI tools are aware of the potential scientific integrity issues (e.g. plagiarism). It is recommended to contact the Research Compliance Office for further information or advice.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Researchers privilege local AI clouds deployed on trusted servers of their home institution for third parties’ personal data, instead of external AI generative systems.",
       "repaired": false
     },
     {
       "id": 26,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Points of contact and Information\n- AI Initiative Contact\n- Research Compliance Office\n- Data Protection Office DPO\n- IT-Services\n- Research Ethics Committee Office KFE\n- Research and Infrastructure Support RISE",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Exceptions may apply if the participants have given their informed consent and data protection regulations are followed.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Research Networks\n- Research Data Management Network RDM\n- Responsible Digital Society Research Network RDS\n- Research Network Sustainable Future",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights.",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "References\n- Code of Conduct for Scientific Integrity (Swiss academies a+, 2021)\n- Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024)\n- Guidelines «Citing AI Tools» How to use tools based on artificial intelligence (UNIBAS, 2025)\n- Living guidelines on the responsible use of generative AI in research (EU, 2025)\n- Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "4. Remain up-to-date on evolution of generative AI tools in research and their environmental impact",
       "repaired": false
     },
     {
       "id": 29,
       "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "remain uptodate on evolution of generative ai tools in research and their environmental impact generative ai tools are evolving quickly, and new ways to use them are regularly discovered. researchers stay informed and uptodate on the best practices (see training offers at the university of basel).",
+      "B_label": "training/support/learning resources",
+      "text": "Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on best practices (see training offers at the University of Basel).",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers are informed about the environmental impact of generative AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "They evaluate and choose the most environmentally sound tools and techniques (consult the Research & Infrastructure Support RISE).",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "5. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc.)",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools’ limitations (such as hallucinations and bias).",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (see SNSF Recommendations Towards a responsible use of AI in research).",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "6. Be aware of scientific integrity issues",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Researchers using generative AI tools are aware of the potential scientific integrity issues (e.g. plagiarism).",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "It is recommended to contact the Research Compliance Office for further information or advice.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Points of contact and Information",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "AI Initiative Contact",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research Compliance Office",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Data Protection Office DPO",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "IT-Services",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research Ethics Committee Office KFE",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research and Infrastructure Support RISE",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research Networks",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research Data Management Network RDM",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Responsible Digital Society Research Network RDS",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Research Network Sustainable Future",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "References",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Code of Conduct for Scientific Integrity (Swiss academies a+, 2021)",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024)",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Guidelines «Citing AI Tools» How to use tools based on artificial intelligence (UNIBAS, 2025)",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Living guidelines on the responsible use of generative AI in research (EU, 2025)",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021)",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "FOOTNOTES",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "1 See in particular The Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024) and Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021).",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "2 See the Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals published by the International Committee of Medical Journal Editors (ICMJE, 2025, II 4, p.3).",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "generative ai tools are evolving quickly, and new ways to use them are regularly discovered. researchers stay informed and uptodate on the best practices (see training offers at the university of basel).",
+      "repaired": true
+    },
+    {
+      "id": 59,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "see the recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals published by the international committee of medical journal editors (icmje, 2025, ii 4, p.3)",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 29,
-    "matched": 28,
-    "unmatched_count": 1,
+    "total": 59,
+    "matched": 57,
+    "unmatched_count": 2,
     "unmatched": [
       {
-        "id": 20,
-        "B": "B10",
-        "matched_words": "36/46",
-        "text": "4. Remain up-to-date on evolution of generative AI tools in research and their environmental impact\n- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on best practices (see training offers at the University of Basel)."
+        "id": 29,
+        "B": "B11",
+        "matched_words": "21/31",
+        "text": "Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on best practices (see training offers at the University of Basel)."
+      },
+      {
+        "id": 57,
+        "B": "B13",
+        "matched_words": "1/31",
+        "text": "2 See the Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals published by the International Committee of Medical Journal Editors (ICMJE, 2025, II 4, p.3)."
       }
     ],
-    "source_coverage": 0.892,
-    "uncovered_chars": 778,
-    "uncovered_gaps": 2,
+    "source_coverage": 0.943,
+    "uncovered_chars": 379,
+    "uncovered_gaps": 4,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 348,
-        "length": 348,
-        "text": "# universität basel # source: https://www.unibas.ch/dam/jcr:a2b6971b-7524-47e3-9c11-df38260157ee/kfe_%20guidelines%20use%20ai%20in%20research_%2020260120_final_.pdf # date: 2024-12 # category: guideline guidelines on the responsible use of generative artificial intelligence in research - recommendations for researchers version 1.5, december 2025"
+        "char_end": 289,
+        "length": 289,
+        "text": "# universität basel # source: https://www.unibas.ch/dam/jcr:a2b6971b-7524-47e3-9c11-df38260157ee/kfe_%20guidelines%20use%20ai%20in%20research_%2020260120_final_.pdf # date: 2024-12 # category: guideline guidelines on the responsible use of generative artificial intelligence in research -"
       },
       {
-        "char_start": 7239,
-        "char_end": 7669,
-        "length": 430,
-        "text": "footnotes 1 see in particular the convention on artificial intelligence and human rights, democracy and the rule of law (council of europe, 2024) and recommendation on the ethics of artificial intelligence (unesco, 2021). see the recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals published by the international committee of medical journal editors (icmje, 2025, ii 4, p.3)"
+        "char_start": 320,
+        "char_end": 348,
+        "length": 28,
+        "text": "version 1.5, december 2025"
+      },
+      {
+        "char_start": 2280,
+        "char_end": 2314,
+        "length": 34,
+        "text": ". recommendations for researchers"
+      },
+      {
+        "char_start": 6518,
+        "char_end": 6546,
+        "length": 28,
+        "text": "research compliance office"
       }
     ]
   },
@@ -247,264 +475,750 @@
     },
     {
       "char_start": 350,
-      "char_end": 877,
-      "text": "Background and purpose of the Guidelines\nThe University of Basel is fully committed to the principle of responsible research. The rapid and widespread development of generative AI-based tools has pervaded all domains, from our daily life to the research field. Its great potentials as well as significant risks highlighted in many recent (inter-)national policies and institutional recommendations have prompted the Research Ethics Committee of the University of Basel to provide researchers with guidelines and contact points.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_end": 390,
+      "text": "Background and purpose of the Guidelines",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 391,
+      "char_end": 877,
+      "text": "The University of Basel is fully committed to the principle of responsible research. The rapid and widespread development of generative AI-based tools has pervaded all domains, from our daily life to the research field. Its great potentials as well as significant risks highlighted in many recent (inter-)national policies and institutional recommendations have prompted the Research Ethics Committee of the University of Basel to provide researchers with guidelines and contact points.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 879,
       "char_end": 1360,
       "text": "As declared in the Guidelines «Citing AI Tools» How to use tools based on artificial intelligence published by the Vice Presidency for Education in the Spring 2024, “The University of Basel does not have a general prohibition on the use of AI-supported tools. Students should learn how to handle these tools sensibly and responsibly.” By the same token, researchers should not be prevented from benefiting from the many opportunities and great potentials provided by generative AI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 1361,
-      "char_end": 1835,
-      "text": "Instead, they should be informed of the risks AI entails, such as biases, the “black box” problem, unreliable information, intellectual property and data protection issues. In sum, researchers should be aware that an insufficiently informed and reflected use of AI could have a devastating impact on human research participants, on the quality of their research, on the integrity of scientific practices of their institution, and ultimately on the societal trust in science.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
-      "char_start": 1837,
-      "char_end": 2140,
-      "text": "The purpose of these Guidelines is to outline the research ethics principles for a responsible use of AI tools in research, and to formulate practical recommendations to assist researchers in employing trustworthy AI tools. The Guidelines are being reviewed regularly by the Vice Rectorate for Research.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 1361,
+      "char_end": 1533,
+      "text": "Instead, they should be informed of the risks AI entails, such as biases, the “black box” problem, unreliable information, intellectual property and data protection issues.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1534,
+      "char_end": 1835,
+      "text": "In sum, researchers should be aware that an insufficiently informed and reflected use of AI could have a devastating impact on human research participants, on the quality of their research, on the integrity of scientific practices of their institution, and ultimately on the societal trust in science.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1837,
+      "char_end": 2060,
+      "text": "The purpose of these Guidelines is to outline the research ethics principles for a responsible use of AI tools in research, and to formulate practical recommendations to assist researchers in employing trustworthy AI tools.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2061,
+      "char_end": 2140,
+      "text": "The Guidelines are being reviewed regularly by the Vice Rectorate for Research.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 2142,
       "char_end": 2286,
       "text": "These recommendations adhere by and large to the Living guidelines on the responsible use of generative AI in research (EU, version April 2025).",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 5,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2288,
-      "char_end": 2590,
-      "text": "Recommendations for Researchers\nThe following recommendations for researchers are anchored in the four basic principles of Scientific Integrity published by the Swiss Academies for Arts and Sciences, the Code of conduct for scientific integrity (2021): Reliability, honesty, respect and accountability.",
       "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 6,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2592,
-      "char_end": 2722,
-      "text": "1. Remain accountable\n- Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 7,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2723,
-      "char_end": 2930,
-      "text": "- Researchers maintain a critical approach to using the output produced by generative AI and are in a position to identify and eliminate the tools’ limitations, such as bias, hallucinations and inaccuracies.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 2931,
-      "char_end": 3065,
-      "text": "- AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers only.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 2288,
+      "char_end": 2319,
+      "text": "Recommendations for Researchers",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 9,
       "match_type": "exact"
     },
     {
-      "char_start": 3067,
-      "char_end": 3293,
-      "text": "2. Use generative AI transparently\n- In order to be transparent, researchers detail in the information sheet for participants when, where and for what purpose the generative AI tools have been used in their research processes.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 2320,
+      "char_end": 2590,
+      "text": "The following recommendations for researchers are anchored in the four basic principles of Scientific Integrity published by the Swiss Academies for Arts and Sciences, the Code of conduct for scientific integrity (2021): Reliability, honesty, respect and accountability.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 3294,
-      "char_end": 3513,
-      "text": "- Researchers are aware that AI tools tend to produce different outputs from the same input, which is contrary to the scientific aim of reproducibility. They disclose clearly the limitations of generative AI tools used.",
+      "char_start": 2592,
+      "char_end": 2613,
+      "text": "1. Remain accountable",
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2613,
+      "char_end": 2616,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2616,
+      "char_end": 2722,
+      "text": "Researchers are accountable for the integrity of the content generated by or with the support of AI tools.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2722,
+      "char_end": 2725,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2725,
+      "char_end": 2930,
+      "text": "Researchers maintain a critical approach to using the output produced by generative AI and are in a position to identify and eliminate the tools’ limitations, such as bias, hallucinations and inaccuracies.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2930,
+      "char_end": 2933,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2933,
+      "char_end": 3065,
+      "text": "AI systems are neither authors nor co-authors. Authorship implies agency and responsibility, so it lies with human researchers only.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3067,
+      "char_end": 3101,
+      "text": "2. Use generative AI transparently",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3101,
+      "char_end": 3104,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3104,
+      "char_end": 3293,
+      "text": "In order to be transparent, researchers detail in the information sheet for participants when, where and for what purpose the generative AI tools have been used in their research processes.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3293,
+      "char_end": 3296,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3296,
+      "char_end": 3446,
+      "text": "Researchers are aware that AI tools tend to produce different outputs from the same input, which is contrary to the scientific aim of reproducibility.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3447,
+      "char_end": 3513,
+      "text": "They disclose clearly the limitations of generative AI tools used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
       "char_start": 3515,
       "char_end": 3756,
       "text": "3. Pay particular attention to privacy, confidentiality and intellectual property rights, as well as data protection laws and regulations. Comply with the applicable legislation when sharing sensitive or classified information with AI tools.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3757,
-      "char_end": 3957,
-      "text": "- Researchers remain mindful that generated or uploaded input data of various formats such as text, raw data, prompts, images, etc. could be used for other purposes, such as the training of AI models.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 13,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3957,
-      "char_end": 4359,
-      "text": " Therefore, it is essential that researchers protect unpublished or sensitive data and work (such as their own or others’ unpublished work) by taking care not to upload it into an external AI system. Researchers furthermore comply with the institutional regulations on data classification (see the Data and information classification system of the University of Basel) and work with approved IT tools.\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 4359,
-      "char_end": 4484,
-      "text": "- Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 15,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4484,
-      "char_end": 4703,
-      "text": " Researchers respect others’ authorship and cite their work where appropriate (see the Code of Conduct and the Integrity Regulations of the University of Basel, as well as the Code of conduct for scientific integrity).\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 4703,
-      "char_end": 4873,
-      "text": "- Researchers privilege local AI clouds deployed on trusted servers of their home institution for third parties’ personal data, instead of external AI generative systems.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4874,
-      "char_end": 4996,
-      "text": "- Exceptions may apply if the participants have given their informed consent and data protection regulations are followed.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 18,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4997,
-      "char_end": 5139,
-      "text": "- Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 19,
       "match_type": "exact"
     },
     {
-      "char_start": 5141,
-      "char_end": 5448,
-      "text": "4. Remain up-to-date on evolution of generative AI tools in research and their environmental impact\n- Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on the best practices (see training offers at the University of Basel).",
+      "char_start": 3756,
+      "char_end": 3759,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3759,
+      "char_end": 3957,
+      "text": "Researchers remain mindful that generated or uploaded input data of various formats such as text, raw data, prompts, images, etc. could be used for other purposes, such as the training of AI models.",
       "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 5449,
-      "char_end": 5661,
-      "text": "- Researchers are informed about the environmental impact of generative AI tools. They evaluate and choose the most environmentally sound tools and techniques (consult the Research & Infrastructure Support RISE).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3958,
+      "char_end": 4156,
+      "text": "Therefore, it is essential that researchers protect unpublished or sensitive data and work (such as their own or others’ unpublished work) by taking care not to upload it into an external AI system.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4157,
+      "char_end": 4358,
+      "text": "Researchers furthermore comply with the institutional regulations on data classification (see the Data and information classification system of the University of Basel) and work with approved IT tools.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4358,
+      "char_end": 4361,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4361,
+      "char_end": 4484,
+      "text": "Researchers pay attention to the potential for plagiarism (text, code, images, etc.) when using outputs from generative AI.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4485,
+      "char_end": 4702,
+      "text": "Researchers respect others’ authorship and cite their work where appropriate (see the Code of Conduct and the Integrity Regulations of the University of Basel, as well as the Code of conduct for scientific integrity).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4702,
+      "char_end": 4705,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4705,
+      "char_end": 4873,
+      "text": "Researchers privilege local AI clouds deployed on trusted servers of their home institution for third parties’ personal data, instead of external AI generative systems.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4873,
+      "char_end": 4876,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4876,
+      "char_end": 4996,
+      "text": "Exceptions may apply if the participants have given their informed consent and data protection regulations are followed.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4996,
+      "char_end": 4999,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4999,
+      "char_end": 5139,
+      "text": "Researchers understand the technical, ethical and security implications regarding privacy, confidentiality and intellectual property rights.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5141,
+      "char_end": 5240,
+      "text": "4. Remain up-to-date on evolution of generative AI tools in research and their environmental impact",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5240,
+      "char_end": 5243,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5243,
+      "char_end": 5448,
+      "text": "Generative AI tools are evolving quickly, and new ways to use them are regularly discovered. Researchers stay informed and up-to-date on the best practices (see training offers at the University of Basel).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5448,
+      "char_end": 5451,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5451,
+      "char_end": 5530,
+      "text": "Researchers are informed about the environmental impact of generative AI tools.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5531,
+      "char_end": 5661,
+      "text": "They evaluate and choose the most environmentally sound tools and techniques (consult the Research & Infrastructure Support RISE).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
       "char_start": 5663,
       "char_end": 5861,
       "text": "5. Refrain from using generative AI tools substantially in sensitive activities that could impact other researchers or organisations (for example peer review, evaluation of research proposals, etc.)",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 22,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
-      "char_start": 5862,
-      "char_end": 6048,
-      "text": "- Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools’ limitations (such as hallucinations and bias).",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 23,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6049,
-      "char_end": 6256,
-      "text": "- Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (see SNSF Recommendations Towards a responsible use of AI in research).",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6258,
-      "char_end": 6507,
-      "text": "6. Be aware of scientific integrity issues\nResearchers using generative AI tools are aware of the potential scientific integrity issues (e.g. plagiarism). It is recommended to contact the Research Compliance Office for further information or advice.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6509,
-      "char_end": 6720,
-      "text": "Points of contact and Information\n- AI Initiative Contact\n- Research Compliance Office\n- Data Protection Office DPO\n- IT-Services\n- Research Ethics Committee Office KFE\n- Research and Infrastructure Support RISE",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 26,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6722,
-      "char_end": 6867,
-      "text": "Research Networks\n- Research Data Management Network RDM\n- Responsible Digital Society Research Network RDS\n- Research Network Sustainable Future",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 27,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6869,
-      "char_end": 7315,
-      "text": "References\n- Code of Conduct for Scientific Integrity (Swiss academies a+, 2021)\n- Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024)\n- Guidelines «Citing AI Tools» How to use tools based on artificial intelligence (UNIBAS, 2025)\n- Living guidelines on the responsible use of generative AI in research (EU, 2025)\n- Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021)",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 28,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7315,
-      "char_end": 7750,
-      "text": "\n\nFOOTNOTES\n1 See in particular The Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024) and Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021).\n\n2 See the Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals published by the International Committee of Medical Journal Editors (ICMJE, 2025, II 4, p.3).",
+      "char_start": 5861,
+      "char_end": 5864,
+      "text": "\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
+    },
+    {
+      "char_start": 5864,
+      "char_end": 6048,
+      "text": "Avoiding the use of generative AI tools eliminates the potential risks of unfair treatment or assessment that may arise from these tools’ limitations (such as hallucinations and bias).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6048,
+      "char_end": 6051,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6051,
+      "char_end": 6256,
+      "text": "Moreover, this will safeguard the original unpublished work of fellow researchers from potential exposure or inclusion in an AI model (see SNSF Recommendations Towards a responsible use of AI in research).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6258,
+      "char_end": 6300,
+      "text": "6. Be aware of scientific integrity issues",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6301,
+      "char_end": 6412,
+      "text": "Researchers using generative AI tools are aware of the potential scientific integrity issues (e.g. plagiarism).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6413,
+      "char_end": 6507,
+      "text": "It is recommended to contact the Research Compliance Office for further information or advice.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6509,
+      "char_end": 6542,
+      "text": "Points of contact and Information",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6542,
+      "char_end": 6545,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6545,
+      "char_end": 6566,
+      "text": "AI Initiative Contact",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6566,
+      "char_end": 6598,
+      "text": "\n- Research Compliance Office\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6598,
+      "char_end": 6624,
+      "text": "Data Protection Office DPO",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6624,
+      "char_end": 6627,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6627,
+      "char_end": 6638,
+      "text": "IT-Services",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6638,
+      "char_end": 6641,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6641,
+      "char_end": 6677,
+      "text": "Research Ethics Committee Office KFE",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6677,
+      "char_end": 6680,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6680,
+      "char_end": 6720,
+      "text": "Research and Infrastructure Support RISE",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6722,
+      "char_end": 6739,
+      "text": "Research Networks",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6739,
+      "char_end": 6742,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6742,
+      "char_end": 6778,
+      "text": "Research Data Management Network RDM",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6778,
+      "char_end": 6781,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6781,
+      "char_end": 6829,
+      "text": "Responsible Digital Society Research Network RDS",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6829,
+      "char_end": 6832,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6832,
+      "char_end": 6867,
+      "text": "Research Network Sustainable Future",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6869,
+      "char_end": 6879,
+      "text": "References",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6879,
+      "char_end": 6882,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6882,
+      "char_end": 6949,
+      "text": "Code of Conduct for Scientific Integrity (Swiss academies a+, 2021)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6949,
+      "char_end": 6952,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6952,
+      "char_end": 7063,
+      "text": "Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7063,
+      "char_end": 7066,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7066,
+      "char_end": 7159,
+      "text": "Guidelines «Citing AI Tools» How to use tools based on artificial intelligence (UNIBAS, 2025)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7159,
+      "char_end": 7162,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7162,
+      "char_end": 7242,
+      "text": "Living guidelines on the responsible use of generative AI in research (EU, 2025)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7242,
+      "char_end": 7245,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7245,
+      "char_end": 7315,
+      "text": "Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7317,
+      "char_end": 7326,
+      "text": "FOOTNOTES",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7327,
+      "char_end": 7538,
+      "text": "1 See in particular The Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (Council of Europe, 2024) and Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2021).",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7540,
+      "char_end": 7750,
+      "text": "2 See the Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals published by the International Committee of Medical Journal Editors (ICMJE, 2025, II 4, p.3).",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 57,
+      "match_type": "exact"
     }
   ]
 }

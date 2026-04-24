@@ -3,221 +3,201 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The adoption of artificial intelligence (AI), especially generative models, is deeply transforming the world of research, including policy and think tank research, and more generally the work in organisations.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "AI technologies offer significant opportunities to accelerate data collection, analysis and content production processes, but they also raise ethical, legal and deontological issues that require careful consideration and of which researchers and staff need to become aware.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "In this context, the Istituto Affari Internazionali adopts a set of guidelines to ensure a responsible use of AI, in accordance with principles outlined at the national and international levels, such as the European AI ACT and the European Commission's Living Guidelines on the Responsible Use of Generative AI in Research.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The use of generative AI technologies by researchers and staff must be guided by a set of fundamental principles. These principles establish whether and under what conditions the use of AI technologies is permitted for specific processes or activities that fall within the scope of IAI.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "The principle of human agency and supervision emphasises that AI must always be used as a support tool, and never as a substitute, in the work activities of researchers and staff.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Researchers and staff must maintain control and supervision over all stages of the process - in the case of research, at every stage from the formulation of hypotheses to the publication of results.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "It is essential that researchers and staff understand how the AI tools they use work and that they are able to critically interpret and validate the outputs generated through AI support.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "The principle of integrity requires that the results produced by AI technologies are accurate, reliable and obtained through ethical methods.",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "The use of AI must in no way compromise these standards.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Researchers and staff must ensure that AI technologies do not introduce bias or errors into the data and that the results obtained through their use are replicable and verifiable; they must also ensure that the use of AI technologies is carried out in a manner that respects the privacy of all stakeholders and complies with applicable copyright laws.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "The principle of transparency and traceability",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "It is essential that researchers and staff explicitly declare their use of AI technologies in their research processes and work activities. This includes a detailed documentation of the tools used, the data and prompts provided as input, and the elaboration processes through which the final outputs were produced. This information can be conveyed through statements to be attached at the bottom of the outputs themselves, a possible example of which is provided at the end of this document.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "The principle of liability",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Liability",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Researchers and staff are fully and personally responsible for the outputs generated with the help of AI technologies.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Researchers and staff are fully and personally responsible for the outputs generated with the help of AI technologies. They must therefore be prepared to justify methodological and operational choices and to correct any errors and biases arising from the use of AI technologies.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "They must therefore be prepared to justify methodological and operational choices and to correct any errors and biases arising from the use of AI technologies.",
-      "repaired": false
-    },
-    {
-      "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "This responsibility also implies the need for every researcher and staff member to keep abreast of technological and regulatory developments related to AI.",
       "repaired": false
     },
     {
-      "id": 17,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "All IAI researchers and staff are required to respect the fundamental principles identified in section 2 in their research and operational activities.",
       "repaired": false
     },
     {
-      "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "They must also make sure that any use of AI technologies fully complies with the regulations, policies and indications of the funding bodies and partners of the various projects in which they are to be used, as well as with the relevant regulations in force at national and EU level.",
       "repaired": false
     },
     {
-      "id": 19,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "id": 18,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "In the event of any doubts as to whether certain AI tools or the way in which they are used meet the above criteria, researchers and staff must preliminarily discuss and assess the issue with IAI's DPO.",
       "repaired": false
     },
     {
-      "id": 20,
-      "B": "B10",
+      "id": 19,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "IAI is committed to promoting training programmes to ensure that researchers and staff can be kept up-to-date on the opportunities and limitations of AI, following a line of activity that has already begun in 2023.",
       "repaired": false
     },
     {
-      "id": 21,
+      "id": 20,
       "B": "B2",
-      "B_label": "scope/application",
+      "B_label": "other definitions/terminology",
       "text": "Regulation (EU) 2024/1689, known as the AI Act, is the first comprehensive regulatory framework on AI at the European level.",
       "repaired": false
     },
     {
-      "id": 22,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "id": 21,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The AI Act establishes specific requirements for the use of AI, with a focus on high-risk systems.",
       "repaired": false
     },
     {
-      "id": 23,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Researchers and staff members are encouraged to familiarise themselves with the provisions of the AI Act and ensure that their practices comply with the regulations.",
       "repaired": false
     },
     {
-      "id": 24,
-      "B": "B10",
+      "id": 23,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "For a more in-depth look at the legal aspects of the AI Act, please refer to the annex 'Breve guida all'uso dell'IA conforme al Regolamento UE 2024/1689' (in Italian only), which includes an overview of the requirements for high-risk systems, the implications for data management and possible sanctions in the event of violation.",
       "repaired": false
     },
     {
-      "id": 25,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Note: The drafting of this document was supported by the use of a generative Artificial Intelligence tool (ChatGPT, developed by OpenAI), employed under the full responsibility and supervision of the author.",
+      "id": 24,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Note: The drafting of this document was supported by the use of a generative Artificial Intelligence tool (ChatGPT, developed by OpenAI), employed under the full responsibility and supervision of the author. All content has been checked, validated and adapted in accordance with the ethical and methodological principles of Istituto Affari Internazionali. The English translation was supported by the use of DeepL.",
       "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "basic principles for the use of ai",
+      "repaired": true
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "All content has been checked, validated and adapted in accordance with the ethical and methodological principles of Istituto Affari Internazionali.",
-      "repaired": false
-    },
-    {
-      "id": 27,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "The English translation was supported by the use of DeepL.",
-      "repaired": false
-    },
-    {
-      "id": 28,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "basic principles for the use of ai",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "policies and procedures",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 28,
-    "matched": 26,
-    "unmatched_count": 2,
+    "total": 26,
+    "matched": 25,
+    "unmatched_count": 1,
     "unmatched": [
       {
         "id": 11,
-        "B": "B4",
+        "B": "B5",
         "matched_words": "3/6",
         "text": "The principle of transparency and traceability"
-      },
-      {
-        "id": 13,
-        "B": "B4",
-        "matched_words": "3/4",
-        "text": "The principle of liability"
       }
     ],
-    "source_coverage": 0.909,
-    "uncovered_chars": 477,
+    "source_coverage": 0.916,
+    "uncovered_chars": 443,
     "uncovered_gaps": 9,
     "uncovered": [
       {
@@ -252,15 +232,15 @@
       },
       {
         "char_start": 3044,
-        "char_end": 3063,
-        "length": 19,
-        "text": ". ## 2.4 liability"
+        "char_end": 3053,
+        "length": 9,
+        "text": ". ## 2.4"
       },
       {
         "char_start": 3496,
-        "char_end": 3563,
-        "length": 67,
-        "text": ". # 3. policies and recommendations ## 3.1 policies and procedures"
+        "char_end": 3539,
+        "length": 43,
+        "text": ". # 3. policies and recommendations ## 3.1"
       },
       {
         "char_start": 4197,
@@ -290,8 +270,8 @@
       "char_start": 215,
       "char_end": 424,
       "text": "The adoption of artificial intelligence (AI), especially generative models, is deeply transforming the world of research, including policy and think tank research, and more generally the work in organisations.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -299,8 +279,8 @@
       "char_start": 426,
       "char_end": 699,
       "text": "AI technologies offer significant opportunities to accelerate data collection, analysis and content production processes, but they also raise ethical, legal and deontological issues that require careful consideration and of which researchers and staff need to become aware.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -308,8 +288,8 @@
       "char_start": 701,
       "char_end": 1024,
       "text": "In this context, the Istituto Affari Internazionali adopts a set of guidelines to ensure a responsible use of AI, in accordance with principles outlined at the national and international levels, such as the European AI ACT and the European Commission's Living Guidelines on the Responsible Use of Generative AI in Research.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -326,17 +306,17 @@
       "char_start": 1031,
       "char_end": 1065,
       "text": "Basic principles for the use of AI",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 28,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 1067,
       "char_end": 1353,
       "text": "The use of generative AI technologies by researchers and staff must be guided by a set of fundamental principles. These principles establish whether and under what conditions the use of AI technologies is permitted for specific processes or activities that fall within the scope of IAI.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 4,
       "match_type": "exact"
     },
@@ -353,8 +333,8 @@
       "char_start": 1392,
       "char_end": 1571,
       "text": "The principle of human agency and supervision emphasises that AI must always be used as a support tool, and never as a substitute, in the work activities of researchers and staff.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 5,
       "match_type": "exact"
     },
@@ -362,8 +342,8 @@
       "char_start": 1572,
       "char_end": 1770,
       "text": "Researchers and staff must maintain control and supervision over all stages of the process - in the case of research, at every stage from the formulation of hypotheses to the publication of results.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 6,
       "match_type": "exact"
     },
@@ -371,8 +351,8 @@
       "char_start": 1771,
       "char_end": 1957,
       "text": "It is essential that researchers and staff understand how the AI tools they use work and that they are able to critically interpret and validate the outputs generated through AI support.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 7,
       "match_type": "exact"
     },
@@ -389,8 +369,8 @@
       "char_start": 1977,
       "char_end": 2118,
       "text": "The principle of integrity requires that the results produced by AI technologies are accurate, reliable and obtained through ethical methods.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -398,8 +378,8 @@
       "char_start": 2119,
       "char_end": 2175,
       "text": "The use of AI must in no way compromise these standards.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -407,8 +387,8 @@
       "char_start": 2176,
       "char_end": 2527,
       "text": "Researchers and staff must ensure that AI technologies do not introduce bias or errors into the data and that the results obtained through their use are replicable and verifiable; they must also ensure that the use of AI technologies is carried out in a manner that respects the privacy of all stakeholders and complies with applicable copyright laws.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -425,81 +405,90 @@
       "char_start": 2567,
       "char_end": 3058,
       "text": "It is essential that researchers and staff explicitly declare their use of AI technologies in their research processes and work activities. This includes a detailed documentation of the tools used, the data and prompts provided as input, and the elaboration processes through which the final outputs were produced. This information can be conveyed through statements to be attached at the bottom of the outputs themselves, a possible example of which is provided at the end of this document.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 3058,
-      "char_end": 3078,
-      "text": "\n\n## 2.4 Liability\n\n",
+      "char_end": 3067,
+      "text": "\n\n## 2.4 ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 3078,
-      "char_end": 3196,
-      "text": "Researchers and staff are fully and personally responsible for the outputs generated with the help of AI technologies.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 14,
+      "char_start": 3067,
+      "char_end": 3076,
+      "text": "Liability",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 3197,
+      "char_start": 3078,
       "char_end": 3356,
-      "text": "They must therefore be prepared to justify methodological and operational choices and to correct any errors and biases arising from the use of AI technologies.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
+      "text": "Researchers and staff are fully and personally responsible for the outputs generated with the help of AI technologies. They must therefore be prepared to justify methodological and operational choices and to correct any errors and biases arising from the use of AI technologies.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
       "char_start": 3357,
       "char_end": 3512,
       "text": "This responsibility also implies the need for every researcher and staff member to keep abreast of technological and regulatory developments related to AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 3512,
-      "char_end": 3581,
-      "text": "\n\n# 3. Policies and recommendations\n\n## 3.1 Policies and procedures\n\n",
+      "char_end": 3556,
+      "text": "\n\n# 3. Policies and recommendations\n\n## 3.1 ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
+      "char_start": 3556,
+      "char_end": 3579,
+      "text": "Policies and procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
       "char_start": 3581,
       "char_end": 3731,
       "text": "All IAI researchers and staff are required to respect the fundamental principles identified in section 2 in their research and operational activities.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 3732,
       "char_end": 4015,
       "text": "They must also make sure that any use of AI technologies fully complies with the regulations, policies and indications of the funding bodies and partners of the various projects in which they are to be used, as well as with the relevant regulations in force at national and EU level.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 4017,
       "char_end": 4219,
       "text": "In the event of any doubts as to whether certain AI tools or the way in which they are used meet the above criteria, researchers and staff must preliminarily discuss and assess the issue with IAI's DPO.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
@@ -515,9 +504,9 @@
       "char_start": 4260,
       "char_end": 4474,
       "text": "IAI is committed to promoting training programmes to ensure that researchers and staff can be kept up-to-date on the opportunities and limitations of AI, following a line of activity that has already begun in 2023.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 20,
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
@@ -534,62 +523,44 @@
       "char_end": 4636,
       "text": "Regulation (EU) 2024/1689, known as the AI Act, is the first comprehensive regulatory framework on AI at the European level.",
       "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 21,
+      "B_label": "other definitions/terminology",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
       "char_start": 4637,
       "char_end": 4735,
       "text": "The AI Act establishes specific requirements for the use of AI, with a focus on high-risk systems.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 22,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 21,
       "match_type": "exact"
     },
     {
       "char_start": 4736,
       "char_end": 4901,
       "text": "Researchers and staff members are encouraged to familiarise themselves with the provisions of the AI Act and ensure that their practices comply with the regulations.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
       "char_start": 4903,
       "char_end": 5232,
       "text": "For a more in-depth look at the legal aspects of the AI Act, please refer to the annex 'Breve guida all'uso dell'IA conforme al Regolamento UE 2024/1689' (in Italian only), which includes an overview of the requirements for high-risk systems, the implications for data management and possible sanctions in the event of violation.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 24,
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
       "char_start": 5234,
-      "char_end": 5441,
-      "text": "Note: The drafting of this document was supported by the use of a generative Artificial Intelligence tool (ChatGPT, developed by OpenAI), employed under the full responsibility and supervision of the author.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5442,
-      "char_end": 5589,
-      "text": "All content has been checked, validated and adapted in accordance with the ethical and methodological principles of Istituto Affari Internazionali.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 26,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5590,
       "char_end": 5648,
-      "text": "The English translation was supported by the use of DeepL.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 27,
+      "text": "Note: The drafting of this document was supported by the use of a generative Artificial Intelligence tool (ChatGPT, developed by OpenAI), employed under the full responsibility and supervision of the author. All content has been checked, validated and adapted in accordance with the ethical and methodological principles of Istituto Affari Internazionali. The English translation was supported by the use of DeepL.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 24,
       "match_type": "exact"
     }
   ]

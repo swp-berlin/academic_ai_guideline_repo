@@ -3,421 +3,418 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Das Rektorat der Universität Mannheim hat in seiner Sitzung vom 15. Oktober 2025 die nachstehende KI-Richtlinie beschlossen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Künstliche Intelligenz (KI) gewinnt zunehmend an Bedeutung in allen Tätigkeitsfeldern der Universität Mannheim.",
       "repaired": false
     },
     {
       "id": 2,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Künstliche Intelligenz (KI) gewinnt zunehmend an Bedeutung in allen Tätigkeitsfeldern der Universität Mannheim.",
-      "repaired": false
-    },
-    {
-      "id": 3,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B_label": "scope/application of the document",
       "text": "Auf die Universität ist dabei die Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 („KI-Verordnung“) anwendbar.",
       "repaired": false
     },
     {
-      "id": 4,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Entwicklung, Beschaffung und Verwendung von KI eröffnen vielfältige Chancen für Forschung, Lehre sowie dezentrale und zentrale Serviceeinrichtungen, bringen jedoch zugleich anspruchsvolle rechtliche Fragestellungen, insbesondere im Hinblick auf Datenschutz, Urheberrecht, IT-Sicherheit, Transparenz und Fairness, mit sich.",
       "repaired": false
     },
     {
-      "id": 5,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Ziel dieser Richtlinie ist es zum einen, Mitgliedern und Angehörigen einen rechtssicheren und verantwortungsvollen Umgang mit KI-Systemen zu ermöglichen.",
       "repaired": false
     },
     {
-      "id": 6,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Zum anderen soll insbesondere die Beschaffung, Entwicklung und Verwendung von Hochrisiko-KI-Systemen einer universitätsinternen Kontrolle unterworfen werden, da hiermit nicht nur besondere Risiken der Beeinträchtigung in Bezug auf die Grundrechte, Sicherheit oder Gesundheit natürlicher Personen verbunden sein können, sondern diese von der Universität auch weitreichende Vorkehrungen erfordern.",
       "repaired": false
     },
     {
-      "id": 7,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 6,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Soweit wissenschaftliche Forschungs- und Entwicklungstätigkeiten vom Anwendungsbereich der KI-Verordnung und vom Anwendungsbereich dieser Richtlinie ausgenommen werden, entbindet dies nicht davon, dass ethische und wissenschaftliche Integritätsstandards gewahrt werden und sichergestellt wird, dass Wissenschaftlerinnen und Wissenschaftler KI verantwortungsbewusst einsetzen.",
       "repaired": false
     },
     {
-      "id": 8,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 7,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Diese Richtlinie legt für Mitglieder und Angehörige an der Universität Mannheim, unbeschadet sonstiger geltender Rechtsvorschriften, ethischer und wissenschaftlicher Standards sowie verbindlich festgelegter Rahmenbedingungen Dritter, verbindliche Regeln für die Entwicklung, Beschaffung, Verwendung, die Kontrolle sowie das in Verkehr bringen und in Betrieb nehmen von KI-Systemen fest.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziel ist ein rechtssicherer, ethisch verantwortungsvoller und transparenter Umgang mit KI an der Universität Mannheim – ohne jedoch die Wissenschafts- und Lehrfreiheit sowie insbesondere auch innovative Forschung unangemessen zu beschränken.",
       "repaired": false
     },
     {
       "id": 9,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Ziel ist ein rechtssicherer, ethisch verantwortungsvoller und transparenter Umgang mit KI an der Universität Mannheim – ohne jedoch die Wissenschafts- und Lehrfreiheit sowie insbesondere auch innovative Forschung unangemessen zu beschränken.",
-      "repaired": false
-    },
-    {
-      "id": 10,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B_label": "scope/application of the document",
       "text": "Diese Richtlinie gilt, ebenso wie die KI-Verordnung gemäß Artikel 2 Absatz 6, nicht für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden.",
       "repaired": false
     },
     {
-      "id": 11,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Sie gilt, ebenso wie die KI-Verordnung gemäß Artikel 2 Absatz 8, auch nicht für Forschungs-, Test- und Entwicklungstätigkeiten zu KI-Systemen oder KI-Modellen, bevor diese in Verkehr gebracht oder in Betrieb genommen werden.",
       "repaired": false
     },
     {
-      "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Solche Tätigkeiten werden im Einklang mit dem geltenden Unionsrecht durchgeführt.",
       "repaired": false
     },
     {
-      "id": 13,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Für Tests unter Realbedingungen müssen die entsprechenden Vorgaben der KI-Verordnung eingehalten werden.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Wissenschafts-, Forschungs- und Lehrfreiheit bleibt unberührt.",
       "repaired": false
     },
     {
       "id": 14,
       "B": "B2",
-      "B_label": "scope/application",
-      "text": "Die Wissenschafts-, Forschungs- und Lehrfreiheit bleibt unberührt.",
+      "B_label": "other definitions/terminology",
+      "text": "Für die Zwecke dieser Richtlinie gelten die Begriffsbestimmungen der KI-Verordnung in ihrer jeweils geltenden Fassung.",
       "repaired": false
     },
     {
       "id": 15,
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Für die Zwecke dieser Richtlinie gelten die Begriffsbestimmungen der KI-Verordnung in ihrer jeweils geltenden Fassung.",
-      "repaired": false
-    },
-    {
-      "id": 16,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "„Hochrisiko-KI-Systeme“ sind KI-Systeme, die gemäß Artikel 6 KI-Verordnung als hochriskant gelten.",
       "repaired": false
     },
     {
-      "id": 17,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "id": 16,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Hierzu zählen unter anderem in folgenden Bereichen aufgeführte KI-Systeme, wenn sie ein erhebliches Risiko der Beeinträchtigung in Bezug auf Grundrechte, Sicherheit oder Gesundheit natürlicher Personen bergen, indem sie unter anderem das Ergebnis der Entscheidungsfindung wesentlich beeinflussen: Allgemeine und berufliche Bildung; Beschäftigung, Personalmanagement und Zugang zur Selbständigkeit; Zugänglichkeit und Inanspruchnahme grundlegender privater und grundlegender öffentlicher Dienste und Leistungen.",
       "repaired": false
     },
     {
-      "id": 18,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "id": 17,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Hochrisiko-KI-Systeme dürfen im dienstlichen Kontext durch Mitglieder und Angehörige der Universität Mannheim nur entwickelt, beschafft, verwendet, in Betrieb genommen oder in Verkehr gebracht werden, soweit das Rektorat vorab hierüber informiert worden ist und dem ausdrücklich zugestimmt hat.",
       "repaired": false
     },
     {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Ohne die vorherige ausdrückliche Zustimmung des Rektorats ist es an der Universität Mannheim unzulässig,\n- ein bereits in Verkehr gebrachtes oder in Betrieb genommenes Hochrisiko-KI-System mit dem Namen oder der Marke der Universität Mannheim zu versehen;",
+      "repaired": false
+    },
+    {
       "id": 19,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Ohne die vorherige ausdrückliche Zustimmung des Rektorats ist es an der Universität Mannheim unzulässig,\n- ein bereits in Verkehr gebrachtes oder in Betrieb genommenes Hochrisiko-KI-System mit dem Namen oder der Marke der Universität Mannheim zu versehen;\n- eine wesentliche Veränderung eines Hochrisiko-KI-Systems, das bereits in Verkehr gebracht oder in Betrieb genommen wurde, so vorzunehmen, dass es weiterhin ein Hochrisiko-KI-System gemäß Artikel 6 KI-Verordnung bleibt;\n- die Zweckbestimmung eines KI-Systems, einschließlich eines KI-Systems mit allgemeinem Verwendungszweck, das nicht als hochriskant eingestuft wurde und bereits in Verkehr gebracht oder in Betrieb genommen wurde, so zu verändern, dass das betreffende KI-System zu einem Hochrisiko-KI-System im Sinne von Artikel 6 KI-Verordnung wird.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- eine wesentliche Veränderung eines Hochrisiko-KI-Systems, das bereits in Verkehr gebracht oder in Betrieb genommen wurde, so vorzunehmen, dass es weiterhin ein Hochrisiko-KI-System gemäß Artikel 6 KI-Verordnung bleibt;",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Sofern eine Veränderung im Sinne von Satz 4 ohne die Zustimmung des Rektorats erfolgt, übernehmen die verantwortlichen Akteure alle mit der Veränderung verbundenen rechtlichen Verpflichtungen, insbesondere die Pflichten als Anbieter eines Hochrisiko-KI-Systems gemäß der KI-Verordnung.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- die Zweckbestimmung eines KI-Systems, einschließlich eines KI-Systems mit allgemeinem Verwendungszweck, das nicht als hochriskant eingestuft wurde und bereits in Verkehr gebracht oder in Betrieb genommen wurde, so zu verändern, dass das betreffende KI-System zu einem Hochrisiko-KI-System im Sinne von Artikel 6 KI-Verordnung wird.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Universität Mannheim richtet ein zentrales KI-Register ein.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Sofern eine Veränderung im Sinne von Satz 4 ohne die Zustimmung des Rektorats erfolgt, übernehmen die verantwortlichen Akteure alle mit der Veränderung verbundenen rechtlichen Verpflichtungen, insbesondere die Pflichten als Anbieter eines Hochrisiko-KI-Systems gemäß der KI-Verordnung.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Ziel ist, durch eine systematische Erfassung die transparente, verantwortungsbewusste und nachvollziehbare Entwicklung, Beschaffung, Inbetriebnahme und Verwendung von KI-Systemen an der Universität Mannheim sicherzustellen sowie rechtlichen, ethischen und sicherheitsbezogenen Anforderungen zu entsprechen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Universität Mannheim richtet ein zentrales KI-Register ein.",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Im dienstlichen Kontext sind KI-Systeme vor ihrer Entwicklung, Beschaffung, Inbetriebnahme sowie vor ihrem Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim in das zentrale KI-Register einzutragen; dies gilt auch für Pilotprojekte, Testsysteme sowie cloudbasierte oder API-gestützte KI-Dienste.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziel ist, durch eine systematische Erfassung die transparente, verantwortungsbewusste und nachvollziehbare Entwicklung, Beschaffung, Inbetriebnahme und Verwendung von KI-Systemen an der Universität Mannheim sicherzustellen sowie rechtlichen, ethischen und sicherheitsbezogenen Anforderungen zu entsprechen.",
       "repaired": false
     },
     {
       "id": 24,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Eintragung in das zentrale KI-Register erfolgt auf Antrag bei dem für das KI-Register zuständigen KI-Kernteam.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Im dienstlichen Kontext sind KI-Systeme vor ihrer Entwicklung, Beschaffung, Inbetriebnahme sowie vor ihrem Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim in das zentrale KI-Register einzutragen; dies gilt auch für Pilotprojekte, Testsysteme sowie cloudbasierte oder API-gestützte KI-Dienste.",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Der Antrag umfasst mindestens folgende Angaben:\n- Anbieter und Bezeichnung des KI-Systems;\n- Identifikation des Anwendungsbedarfs, Formulierung konkreter Ziele, gewünschter Funktionen und Einsatzmöglichkeiten des KI-Systems;\n- Benennung der für den Einsatz des KI-Systems verantwortlichen Stelle;\n- verarbeitete Datenarten;\n- betroffene Personengruppen und\n- eine Einschätzung zu der Risikokategorie gemäß KI-Verordnung (minimales, begrenztes, hohes oder unannehmbares Risiko).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Eintragung in das zentrale KI-Register erfolgt auf Antrag bei dem für das KI-Register zuständigen KI-Kernteam.",
       "repaired": false
     },
     {
       "id": 26,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Nach Eingang des Antrags prüft das KI-Kernteam die Angaben.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Antrag umfasst mindestens folgende Angaben:\n- Anbieter und Bezeichnung des KI-Systems;",
       "repaired": false
     },
     {
       "id": 27,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Handelt es sich um ein Hochrisiko-KI-System, leitet das KI-Kernteam nach abschließender Prüfung alle Angaben an das Rektorat weiter und das Rektorat entscheidet auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds durch Beschluss über die Zustimmung zu der Entwicklung, Beschaffung, Inbetriebnahme, Verwendung oder dem Inverkehrbringen.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Identifikation des Anwendungsbedarfs, Formulierung konkreter Ziele, gewünschter Funktionen und Einsatzmöglichkeiten des KI-Systems;",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Das Ergebnis der Entscheidung ist in das zentrale KI-Register aufzunehmen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Benennung der für den Einsatz des KI-Systems verantwortlichen Stelle;",
       "repaired": false
     },
     {
       "id": 29,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Handelt es sich nicht um ein Hochrisiko-KI-System, darf das KI-Kernteam die Entscheidung über eine Eintragung in das zentrale KI-Register nur dann zurückstellen, wenn eine abschließende Prüfung innerhalb von zwei Wochen nicht möglich ist; die antragstellenden Personen sind über die Zurückstellung und das weitere Verfahren zu informieren.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- verarbeitete Datenarten;",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wird die Eintragung nicht zurückgestellt, bestätigt das KI-Kernteam die Eintragung oder widerspricht es einer Eintragung nicht innerhalb von zwei Wochen nach Eingang des Antrags, wird die angemeldete Entwicklung, Beschaffung, Inbetriebnahme oder das Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim mit den im Antrag genannten Funktionen und Einsatzmöglichkeiten in das zentrale KI-Register eingetragen; das Recht des Rektorats, mit Wirkung für die Zukunft eine andere Entscheidung durch Beschluss zu treffen, bleibt unberührt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- betroffene Personengruppen und",
       "repaired": false
     },
     {
       "id": 31,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Im Falle eines Widerspruchs, sind alle Angaben vom KI-Kernteam unverzüglich mit Begründung an das Rektorat weiterzuleiten; das Rektorat entscheidet in diesen Fällen durch Beschluss auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds darüber, ob das KI-System eingetragen wird.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- eine Einschätzung zu der Risikokategorie gemäß KI-Verordnung (minimales, begrenztes, hohes oder unannehmbares Risiko).",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Das Ergebnis der Entscheidung ist in das zentrale KI-Register aufzunehmen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nach Eingang des Antrags prüft das KI-Kernteam die Angaben.",
       "repaired": false
     },
     {
       "id": 33,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Das für das zentrale KI-Register zuständige KI-Kernteam gibt weitere Einzelheiten des einzuhaltenden Verfahrens bekannt.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Handelt es sich um ein Hochrisiko-KI-System, leitet das KI-Kernteam nach abschließender Prüfung alle Angaben an das Rektorat weiter und das Rektorat entscheidet auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds durch Beschluss über die Zustimmung zu der Entwicklung, Beschaffung, Inbetriebnahme, Verwendung oder dem Inverkehrbringen.",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Um Chancengleichheit, Innovation und Wettbewerbsfähigkeit zu fördern, ermöglicht die Universität Mannheim ihren Mitgliedern und Angehörigen einen technisch zuverlässigen und datenschutzkonformen Zugang zu ausgewählten KI-Systemen und schafft Informations- sowie Beratungsangebote für deren kompetente und rechtskonforme Verwendung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das Ergebnis der Entscheidung ist in das zentrale KI-Register aufzunehmen.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Mitglieder und Angehörige der Universität Mannheim sollen im dienstlichen Kontext bevorzugt diese Systeme verwenden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Handelt es sich nicht um ein Hochrisiko-KI-System, darf das KI-Kernteam die Entscheidung über eine Eintragung in das zentrale KI-Register nur dann zurückstellen, wenn eine abschließende Prüfung innerhalb von zwei Wochen nicht möglich ist; die antragstellenden Personen sind über die Zurückstellung und das weitere Verfahren zu informieren.",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Um die von der Universität Mannheim getroffenen Maßnahmen zum Datenschutz sowie zum Schutz von Sicherheit und Integrität von Betriebs- und Geschäftsgeheimnissen und sonstigen sensiblen und vertraulichen Daten zu gewährleisten, verarbeiten Mitglieder und Angehörige entsprechende Daten ausschließlich in KI-Systemen, welche im KI-Register ausdrücklich als hierfür freigegeben markiert sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird die Eintragung nicht zurückgestellt, bestätigt das KI-Kernteam die Eintragung oder widerspricht es einer Eintragung nicht innerhalb von zwei Wochen nach Eingang des Antrags, wird die angemeldete Entwicklung, Beschaffung, Inbetriebnahme oder das Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim mit den im Antrag genannten Funktionen und Einsatzmöglichkeiten in das zentrale KI-Register eingetragen; das Recht des Rektorats, mit Wirkung für die Zukunft eine andere Entscheidung durch Beschluss zu treffen, bleibt unberührt.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "KI-Systeme, die im KI-Register mit „nicht zugelassen“ gekennzeichnet sind, dürfen nicht verwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Im Falle eines Widerspruchs, sind alle Angaben vom KI-Kernteam unverzüglich mit Begründung an das Rektorat weiterzuleiten; das Rektorat entscheidet in diesen Fällen durch Beschluss auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds darüber, ob das KI-System eingetragen wird.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die Universität Mannheim ergreift für die im zentralen KI-Register eingetragenen KI-Systeme Maßnahmen, um sicherzustellen, dass alle Verwendergruppen (einschließlich Personen, die im Rahmen ihrer Tätigkeit an der Universität Mannheim oder im Auftrag der Universität Mannheim KI-Systeme verwenden) über ein angemessenes Maß an KI-Kompetenz verfügen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das Ergebnis der Entscheidung ist in das zentrale KI-Register aufzunehmen.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Dabei sind die jeweiligen technischen Kenntnisse, die Erfahrung, die Ausbildung und Schulung der betroffenen Personen, der spezifische Einsatzkontext des KI-Systems sowie die Personen oder Personengruppen, bei denen das KI-System eingesetzt werden soll, zu berücksichtigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das für das zentrale KI-Register zuständige KI-Kernteam gibt weitere Einzelheiten des einzuhaltenden Verfahrens bekannt.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Zu diesem Zweck bietet die Universität Mannheim geeignete Informations-, Qualifizierungs- und Weiterbildungsmaßnahmen an.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Um Chancengleichheit, Innovation und Wettbewerbsfähigkeit zu fördern, ermöglicht die Universität Mannheim ihren Mitgliedern und Angehörigen einen technisch zuverlässigen und datenschutzkonformen Zugang zu ausgewählten KI-Systemen und schafft Informations- sowie Beratungsangebote für deren kompetente und rechtskonforme Verwendung.",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Verantwortung für die Richtigkeit, die rechtliche Zulässigkeit der Nutzung sowie die Verbreitung von Inhalten, welche mit Hilfe von KI-Systemen erstellt wurden, tragen die Nutzerinnen und Nutzer der Inhalte.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Mitglieder und Angehörige der Universität Mannheim sollen im dienstlichen Kontext bevorzugt diese Systeme verwenden.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Von KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden, fehlerhaft und diskriminierend sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um die von der Universität Mannheim getroffenen Maßnahmen zum Datenschutz sowie zum Schutz von Sicherheit und Integrität von Betriebs- und Geschäftsgeheimnissen und sonstigen sensiblen und vertraulichen Daten zu gewährleisten, verarbeiten Mitglieder und Angehörige entsprechende Daten ausschließlich in KI-Systemen, welche im KI-Register ausdrücklich als hierfür freigegeben markiert sind.",
       "repaired": false
     },
     {
       "id": 43,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "KI-generierte Aussagen, Literatur, Quellen und Ergebnisse sind daher immer zu überprüfen, kritisch zu bewerten und bei Bedarf anzupassen, bevor sie verantwortungsvoll weiter genutzt werden.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Systeme, die im KI-Register mit „nicht zugelassen“ gekennzeichnet sind, dürfen nicht verwendet werden.",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Die Letztverantwortung liegt immer beim Menschen, insbesondere bei Entscheidungen mit erheblicher Auswirkung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Universität Mannheim ergreift für die im zentralen KI-Register eingetragenen KI-Systeme Maßnahmen, um sicherzustellen, dass alle Verwendergruppen (einschließlich Personen, die im Rahmen ihrer Tätigkeit an der Universität Mannheim oder im Auftrag der Universität Mannheim KI-Systeme verwenden) über ein angemessenes Maß an KI-Kompetenz verfügen.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Die Universität Mannheim, ihre Mitglieder und Angehörigen verwenden KI verantwortungsvoll und transparent.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei sind die jeweiligen technischen Kenntnisse, die Erfahrung, die Ausbildung und Schulung der betroffenen Personen, der spezifische Einsatzkontext des KI-Systems sowie die Personen oder Personengruppen, bei denen das KI-System eingesetzt werden soll, zu berücksichtigen.",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Verwendung von KI ist insbesondere gegenüber Personen offenzulegen, welche direkt mit einem KI-System (z. B. Chatbot, Sprachassistent) interagieren, sowie gegenüber Personen, welche von Entscheidungen mit personenbezogenen Auswirkungen, die durch oder mit Unterstützung von KI getroffen werden, betroffen sind.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Zu diesem Zweck bietet die Universität Mannheim geeignete Informations-, Qualifizierungs- und Weiterbildungsmaßnahmen an.",
       "repaired": false
     },
     {
       "id": 47,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Nutzung von Inhalten, die vollständig oder teilweise KI-generiert sind, machen Nutzerinnen und Nutzer transparent, soweit eine entsprechende Hinweispflicht (z. B. bei Täuschungsgefahr) besteht.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für die Richtigkeit, die rechtliche Zulässigkeit der Nutzung sowie die Verbreitung von Inhalten, welche mit Hilfe von KI-Systemen erstellt wurden, tragen die Nutzerinnen und Nutzer der Inhalte.",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B11",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Von KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden, fehlerhaft und diskriminierend sein.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Aussagen, Literatur, Quellen und Ergebnisse sind daher immer zu überprüfen, kritisch zu bewerten und bei Bedarf anzupassen, bevor sie verantwortungsvoll weiter genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Letztverantwortung liegt immer beim Menschen, insbesondere bei Entscheidungen mit erheblicher Auswirkung.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Universität Mannheim, ihre Mitglieder und Angehörigen verwenden KI verantwortungsvoll und transparent.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Verwendung von KI ist insbesondere gegenüber Personen offenzulegen, welche direkt mit einem KI-System (z. B. Chatbot, Sprachassistent) interagieren, sowie gegenüber Personen, welche von Entscheidungen mit personenbezogenen Auswirkungen, die durch oder mit Unterstützung von KI getroffen werden, betroffen sind.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzung von Inhalten, die vollständig oder teilweise KI-generiert sind, machen Nutzerinnen und Nutzer transparent, soweit eine entsprechende Hinweispflicht (z. B. bei Täuschungsgefahr) besteht.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "Diese Richtlinie tritt am Tage nach ihrer Bekanntmachung in den Bekanntmachungen des Rektorats in Kraft.",
       "repaired": false
     },
     {
-      "id": 49,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 55,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Vor Inkrafttreten dieser Richtlinie bereits beschaffte, entwickelte, in Betrieb genommene oder in Verkehr gebrachte KI-Systeme im Sinne von § 5 Absatz 1 sind abweichend von dieser Regelung unverzüglich nach Inkrafttreten dieser Richtlinie für eine Eintragung in das zentrale KI-Register anzumelden.",
       "repaired": false
     },
     {
-      "id": 50,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "verbot des zweckändernden einsatzes von ki-systemen",
-      "repaired": true
-    },
-    {
-      "id": 51,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "verfahren zur eintragung in das zentrale ki-register und zur einholung der zustimmung des rektorats bei hochrisiko-ki-systemen",
-      "repaired": true
-    },
-    {
-      "id": 52,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "das ergebnis der entscheidung ist in das zentrale ki-register aufzunehmen.",
-      "repaired": true
-    },
-    {
-      "id": 53,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "grundprinzipien für die verwendung von ki-systemen",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 53,
-    "matched": 49,
-    "unmatched_count": 4,
+    "total": 56,
+    "matched": 55,
+    "unmatched_count": 1,
     "unmatched": [
       {
-        "id": 50,
-        "B": "B6",
-        "matched_words": "5/6",
-        "text": "verbot des zweckändernden einsatzes von ki-systemen"
-      },
-      {
-        "id": 51,
-        "B": "B7",
-        "matched_words": "6/16",
-        "text": "verfahren zur eintragung in das zentrale ki-register und zur einholung der zustimmung des rektorats bei hochrisiko-ki-systemen"
-      },
-      {
-        "id": 52,
-        "B": "B7",
+        "id": 56,
+        "B": "B8",
         "matched_words": "8/10",
         "text": "das ergebnis der entscheidung ist in das zentrale ki-register aufzunehmen."
-      },
-      {
-        "id": 53,
-        "B": "B4",
-        "matched_words": "5/6",
-        "text": "grundprinzipien für die verwendung von ki-systemen"
       }
     ],
-    "source_coverage": 0.934,
-    "uncovered_chars": 816,
-    "uncovered_gaps": 11,
+    "source_coverage": 0.923,
+    "uncovered_chars": 939,
+    "uncovered_gaps": 10,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 263,
-        "length": 263,
-        "text": "# universität mannheim # source: https://www.unimannheim.de/universitaet/profil/digitalisierung/kuenstlicheintelligenz/kirichtlinie/ # date: 2025-10-22 # category: guideline ki-kernteam das team bei einer besprechung zu ki-richtlinien, ki-register und strategie."
-      },
-      {
-        "char_start": 386,
         "char_end": 424,
-        "length": 38,
-        "text": ". präambel § 7 inkrafttreten präambel"
+        "length": 424,
+        "text": "# universität mannheim # source: https://www.unimannheim.de/universitaet/profil/digitalisierung/kuenstlicheintelligenz/kirichtlinie/ # date: 2025-10-22 # category: guideline ki-kernteam das team bei einer besprechung zu ki-richtlinien, ki-register und strategie. das rektorat der universität mannheim hat in seiner sitzung vom 15. oktober 2025 die nachstehende ki-richtlinie beschlossen. präambel § 7 inkrafttreten präambel"
       },
       {
         "char_start": 1930,
@@ -478,80 +475,8 @@
   "projection": [
     {
       "char_start": 0,
-      "char_end": 268,
-      "text": "# Universität Mannheim\n# Source: https://www.uni-mannheim.de/universitaet/profil/digitalisierung/kuenstliche-intelligenz/ki-richtlinie/\n# Date: 2025-10-22\n# Category: guideline\n\nKI-Kernteam\nDas Team bei einer Besprechung zu KI-Richtlinien, KI-Register und Strategie.\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 268,
-      "char_end": 392,
-      "text": "Das Rektorat der Universität Mannheim hat in seiner Sitzung vom 15. Oktober 2025 die nachstehende KI-Richtlinie beschlossen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 1,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 392,
-      "char_end": 485,
-      "text": "\n\nPräambel\n\n§ 1 Zweck und Anwendungsbereich\n\n§ 2 Definitionen\n\n§ 3 Hochrisiko-KI-Systeme und ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 485,
-      "char_end": 536,
-      "text": "Verbot des zweckändernden Einsatzes von KI-Systemen",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 50,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 536,
-      "char_end": 569,
-      "text": "\n\n§ 4 Zentrales KI-Register\n\n§ 5 ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 569,
-      "char_end": 695,
-      "text": "Verfahren zur Eintragung in das zentrale KI-Register und zur Einholung der Zustimmung des Rektorats bei Hochrisiko-KI-Systemen",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 51,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 695,
-      "char_end": 701,
-      "text": "\n\n§ 6 ",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 701,
-      "char_end": 751,
-      "text": "Grundprinzipien für die Verwendung von KI-Systemen",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 53,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 751,
       "char_end": 782,
-      "text": "\n\n§ 7 Inkrafttreten\n\nPräambel\n\n",
+      "text": "# Universität Mannheim\n# Source: https://www.uni-mannheim.de/universitaet/profil/digitalisierung/kuenstliche-intelligenz/ki-richtlinie/\n# Date: 2025-10-22\n# Category: guideline\n\nKI-Kernteam\nDas Team bei einer Besprechung zu KI-Richtlinien, KI-Register und Strategie.\n\nDas Rektorat der Universität Mannheim hat in seiner Sitzung vom 15. Oktober 2025 die nachstehende KI-Richtlinie beschlossen.\n\nPräambel\n\n§ 1 Zweck und Anwendungsbereich\n\n§ 2 Definitionen\n\n§ 3 Hochrisiko-KI-Systeme und Verbot des zweckändernden Einsatzes von KI-Systemen\n\n§ 4 Zentrales KI-Register\n\n§ 5 Verfahren zur Eintragung in das zentrale KI-Register und zur Einholung der Zustimmung des Rektorats bei Hochrisiko-KI-Systemen\n\n§ 6 Grundprinzipien für die Verwendung von KI-Systemen\n\n§ 7 Inkrafttreten\n\nPräambel\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -561,54 +486,54 @@
       "char_start": 782,
       "char_end": 893,
       "text": "Künstliche Intelligenz (KI) gewinnt zunehmend an Bedeutung in allen Tätigkeitsfeldern der Universität Mannheim.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
       "match_type": "exact"
     },
     {
       "char_start": 895,
       "char_end": 1043,
       "text": "Auf die Universität ist dabei die Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 („KI-Verordnung“) anwendbar.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 1045,
       "char_end": 1367,
       "text": "Entwicklung, Beschaffung und Verwendung von KI eröffnen vielfältige Chancen für Forschung, Lehre sowie dezentrale und zentrale Serviceeinrichtungen, bringen jedoch zugleich anspruchsvolle rechtliche Fragestellungen, insbesondere im Hinblick auf Datenschutz, Urheberrecht, IT-Sicherheit, Transparenz und Fairness, mit sich.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1369,
       "char_end": 1522,
       "text": "Ziel dieser Richtlinie ist es zum einen, Mitgliedern und Angehörigen einen rechtssicheren und verantwortungsvollen Umgang mit KI-Systemen zu ermöglichen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
       "char_start": 1524,
       "char_end": 1919,
       "text": "Zum anderen soll insbesondere die Beschaffung, Entwicklung und Verwendung von Hochrisiko-KI-Systemen einer universitätsinternen Kontrolle unterworfen werden, da hiermit nicht nur besondere Risiken der Beeinträchtigung in Bezug auf die Grundrechte, Sicherheit oder Gesundheit natürlicher Personen verbunden sein können, sondern diese von der Universität auch weitreichende Vorkehrungen erfordern.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
       "match_type": "exact"
     },
     {
       "char_start": 1921,
       "char_end": 2296,
       "text": "Soweit wissenschaftliche Forschungs- und Entwicklungstätigkeiten vom Anwendungsbereich der KI-Verordnung und vom Anwendungsbereich dieser Richtlinie ausgenommen werden, entbindet dies nicht davon, dass ethische und wissenschaftliche Integritätsstandards gewahrt werden und sichergestellt wird, dass Wissenschaftlerinnen und Wissenschaftler KI verantwortungsbewusst einsetzen.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 7,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
@@ -624,63 +549,63 @@
       "char_start": 2331,
       "char_end": 2717,
       "text": "Diese Richtlinie legt für Mitglieder und Angehörige an der Universität Mannheim, unbeschadet sonstiger geltender Rechtsvorschriften, ethischer und wissenschaftlicher Standards sowie verbindlich festgelegter Rahmenbedingungen Dritter, verbindliche Regeln für die Entwicklung, Beschaffung, Verwendung, die Kontrolle sowie das in Verkehr bringen und in Betrieb nehmen von KI-Systemen fest.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 8,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 2719,
       "char_end": 2960,
       "text": "Ziel ist ein rechtssicherer, ethisch verantwortungsvoller und transparenter Umgang mit KI an der Universität Mannheim – ohne jedoch die Wissenschafts- und Lehrfreiheit sowie insbesondere auch innovative Forschung unangemessen zu beschränken.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 9,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 2962,
       "char_end": 3235,
       "text": "Diese Richtlinie gilt, ebenso wie die KI-Verordnung gemäß Artikel 2 Absatz 6, nicht für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 9,
       "match_type": "exact"
     },
     {
       "char_start": 3237,
       "char_end": 3461,
       "text": "Sie gilt, ebenso wie die KI-Verordnung gemäß Artikel 2 Absatz 8, auch nicht für Forschungs-, Test- und Entwicklungstätigkeiten zu KI-Systemen oder KI-Modellen, bevor diese in Verkehr gebracht oder in Betrieb genommen werden.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
       "char_start": 3463,
       "char_end": 3544,
       "text": "Solche Tätigkeiten werden im Einklang mit dem geltenden Unionsrecht durchgeführt.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
       "match_type": "exact"
     },
     {
       "char_start": 3546,
       "char_end": 3650,
       "text": "Für Tests unter Realbedingungen müssen die entsprechenden Vorgaben der KI-Verordnung eingehalten werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 13,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 3652,
       "char_end": 3718,
       "text": "Die Wissenschafts-, Forschungs- und Lehrfreiheit bleibt unberührt.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 14,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
@@ -696,9 +621,9 @@
       "char_start": 3738,
       "char_end": 3856,
       "text": "Für die Zwecke dieser Richtlinie gelten die Begriffsbestimmungen der KI-Verordnung in ihrer jeweils geltenden Fassung.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 15,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
@@ -715,44 +640,62 @@
       "char_end": 4039,
       "text": "„Hochrisiko-KI-Systeme“ sind KI-Systeme, die gemäß Artikel 6 KI-Verordnung als hochriskant gelten.",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 16,
+      "B_label": "definition of AI",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 4041,
       "char_end": 4551,
       "text": "Hierzu zählen unter anderem in folgenden Bereichen aufgeführte KI-Systeme, wenn sie ein erhebliches Risiko der Beeinträchtigung in Bezug auf Grundrechte, Sicherheit oder Gesundheit natürlicher Personen bergen, indem sie unter anderem das Ergebnis der Entscheidungsfindung wesentlich beeinflussen: Allgemeine und berufliche Bildung; Beschäftigung, Personalmanagement und Zugang zur Selbständigkeit; Zugänglichkeit und Inanspruchnahme grundlegender privater und grundlegender öffentlicher Dienste und Leistungen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 17,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 4553,
       "char_end": 4847,
       "text": "Hochrisiko-KI-Systeme dürfen im dienstlichen Kontext durch Mitglieder und Angehörige der Universität Mannheim nur entwickelt, beschafft, verwendet, in Betrieb genommen oder in Verkehr gebracht werden, soweit das Rektorat vorab hierüber informiert worden ist und dem ausdrücklich zugestimmt hat.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 4849,
-      "char_end": 5659,
-      "text": "Ohne die vorherige ausdrückliche Zustimmung des Rektorats ist es an der Universität Mannheim unzulässig,\n- ein bereits in Verkehr gebrachtes oder in Betrieb genommenes Hochrisiko-KI-System mit dem Namen oder der Marke der Universität Mannheim zu versehen;\n- eine wesentliche Veränderung eines Hochrisiko-KI-Systems, das bereits in Verkehr gebracht oder in Betrieb genommen wurde, so vorzunehmen, dass es weiterhin ein Hochrisiko-KI-System gemäß Artikel 6 KI-Verordnung bleibt;\n- die Zweckbestimmung eines KI-Systems, einschließlich eines KI-Systems mit allgemeinem Verwendungszweck, das nicht als hochriskant eingestuft wurde und bereits in Verkehr gebracht oder in Betrieb genommen wurde, so zu verändern, dass das betreffende KI-System zu einem Hochrisiko-KI-System im Sinne von Artikel 6 KI-Verordnung wird.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_end": 5104,
+      "text": "Ohne die vorherige ausdrückliche Zustimmung des Rektorats ist es an der Universität Mannheim unzulässig,\n- ein bereits in Verkehr gebrachtes oder in Betrieb genommenes Hochrisiko-KI-System mit dem Namen oder der Marke der Universität Mannheim zu versehen;",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5105,
+      "char_end": 5325,
+      "text": "- eine wesentliche Veränderung eines Hochrisiko-KI-Systems, das bereits in Verkehr gebracht oder in Betrieb genommen wurde, so vorzunehmen, dass es weiterhin ein Hochrisiko-KI-System gemäß Artikel 6 KI-Verordnung bleibt;",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5326,
+      "char_end": 5659,
+      "text": "- die Zweckbestimmung eines KI-Systems, einschließlich eines KI-Systems mit allgemeinem Verwendungszweck, das nicht als hochriskant eingestuft wurde und bereits in Verkehr gebracht oder in Betrieb genommen wurde, so zu verändern, dass das betreffende KI-System zu einem Hochrisiko-KI-System im Sinne von Artikel 6 KI-Verordnung wird.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
       "char_start": 5661,
       "char_end": 5946,
       "text": "Sofern eine Veränderung im Sinne von Satz 4 ohne die Zustimmung des Rektorats erfolgt, übernehmen die verantwortlichen Akteure alle mit der Veränderung verbundenen rechtlichen Verpflichtungen, insbesondere die Pflichten als Anbieter eines Hochrisiko-KI-Systems gemäß der KI-Verordnung.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
       "match_type": "exact"
     },
     {
@@ -768,18 +711,18 @@
       "char_start": 5975,
       "char_end": 6038,
       "text": "Die Universität Mannheim richtet ein zentrales KI-Register ein.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
       "char_start": 6040,
       "char_end": 6346,
       "text": "Ziel ist, durch eine systematische Erfassung die transparente, verantwortungsbewusste und nachvollziehbare Entwicklung, Beschaffung, Inbetriebnahme und Verwendung von KI-Systemen an der Universität Mannheim sicherzustellen sowie rechtlichen, ethischen und sicherheitsbezogenen Anforderungen zu entsprechen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 22,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
@@ -795,9 +738,9 @@
       "char_start": 6480,
       "char_end": 6798,
       "text": "Im dienstlichen Kontext sind KI-Systeme vor ihrer Entwicklung, Beschaffung, Inbetriebnahme sowie vor ihrem Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim in das zentrale KI-Register einzutragen; dies gilt auch für Pilotprojekte, Testsysteme sowie cloudbasierte oder API-gestützte KI-Dienste.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
@@ -805,17 +748,62 @@
       "char_end": 6914,
       "text": "Die Eintragung in das zentrale KI-Register erfolgt auf Antrag bei dem für das KI-Register zuständigen KI-Kernteam.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 24,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 6916,
+      "char_end": 7006,
+      "text": "Der Antrag umfasst mindestens folgende Angaben:\n- Anbieter und Bezeichnung des KI-Systems;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7007,
+      "char_end": 7140,
+      "text": "- Identifikation des Anwendungsbedarfs, Formulierung konkreter Ziele, gewünschter Funktionen und Einsatzmöglichkeiten des KI-Systems;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7141,
+      "char_end": 7212,
+      "text": "- Benennung der für den Einsatz des KI-Systems verantwortlichen Stelle;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7213,
+      "char_end": 7239,
+      "text": "- verarbeitete Datenarten;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7240,
+      "char_end": 7272,
+      "text": "- betroffene Personengruppen und",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7273,
       "char_end": 7393,
-      "text": "Der Antrag umfasst mindestens folgende Angaben:\n- Anbieter und Bezeichnung des KI-Systems;\n- Identifikation des Anwendungsbedarfs, Formulierung konkreter Ziele, gewünschter Funktionen und Einsatzmöglichkeiten des KI-Systems;\n- Benennung der für den Einsatz des KI-Systems verantwortlichen Stelle;\n- verarbeitete Datenarten;\n- betroffene Personengruppen und\n- eine Einschätzung zu der Risikokategorie gemäß KI-Verordnung (minimales, begrenztes, hohes oder unannehmbares Risiko).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 25,
+      "text": "- eine Einschätzung zu der Risikokategorie gemäß KI-Verordnung (minimales, begrenztes, hohes oder unannehmbares Risiko).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
@@ -823,8 +811,8 @@
       "char_end": 7454,
       "text": "Nach Eingang des Antrags prüft das KI-Kernteam die Angaben.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 26,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
@@ -832,17 +820,17 @@
       "char_end": 7830,
       "text": "Handelt es sich um ein Hochrisiko-KI-System, leitet das KI-Kernteam nach abschließender Prüfung alle Angaben an das Rektorat weiter und das Rektorat entscheidet auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds durch Beschluss über die Zustimmung zu der Entwicklung, Beschaffung, Inbetriebnahme, Verwendung oder dem Inverkehrbringen.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 27,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
       "char_start": 7832,
       "char_end": 7906,
       "text": "Das Ergebnis der Entscheidung ist in das zentrale KI-Register aufzunehmen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
@@ -850,17 +838,17 @@
       "char_end": 8247,
       "text": "Handelt es sich nicht um ein Hochrisiko-KI-System, darf das KI-Kernteam die Entscheidung über eine Eintragung in das zentrale KI-Register nur dann zurückstellen, wenn eine abschließende Prüfung innerhalb von zwei Wochen nicht möglich ist; die antragstellenden Personen sind über die Zurückstellung und das weitere Verfahren zu informieren.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 29,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
       "char_start": 8249,
       "char_end": 8801,
       "text": "Wird die Eintragung nicht zurückgestellt, bestätigt das KI-Kernteam die Eintragung oder widerspricht es einer Eintragung nicht innerhalb von zwei Wochen nach Eingang des Antrags, wird die angemeldete Entwicklung, Beschaffung, Inbetriebnahme oder das Inverkehrbringen durch Mitglieder und Angehörige der Universität Mannheim mit den im Antrag genannten Funktionen und Einsatzmöglichkeiten in das zentrale KI-Register eingetragen; das Recht des Rektorats, mit Wirkung für die Zukunft eine andere Entscheidung durch Beschluss zu treffen, bleibt unberührt.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
@@ -868,8 +856,8 @@
       "char_end": 9118,
       "text": "Im Falle eines Widerspruchs, sind alle Angaben vom KI-Kernteam unverzüglich mit Begründung an das Rektorat weiterzuleiten; das Rektorat entscheidet in diesen Fällen durch Beschluss auf Grundlage einer Risikobewertung des für Digitalisierung zuständigen Rektoratsmitglieds darüber, ob das KI-System eingetragen wird.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 31,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
       "match_type": "exact"
     },
     {
@@ -886,8 +874,8 @@
       "char_end": 9316,
       "text": "Das für das zentrale KI-Register zuständige KI-Kernteam gibt weitere Einzelheiten des einzuhaltenden Verfahrens bekannt.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 33,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
       "match_type": "exact"
     },
     {
@@ -903,126 +891,126 @@
       "char_start": 9374,
       "char_end": 9705,
       "text": "Um Chancengleichheit, Innovation und Wettbewerbsfähigkeit zu fördern, ermöglicht die Universität Mannheim ihren Mitgliedern und Angehörigen einen technisch zuverlässigen und datenschutzkonformen Zugang zu ausgewählten KI-Systemen und schafft Informations- sowie Beratungsangebote für deren kompetente und rechtskonforme Verwendung.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 34,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 40,
       "match_type": "exact"
     },
     {
       "char_start": 9707,
       "char_end": 9823,
       "text": "Mitglieder und Angehörige der Universität Mannheim sollen im dienstlichen Kontext bevorzugt diese Systeme verwenden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 35,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 41,
       "match_type": "exact"
     },
     {
       "char_start": 9825,
       "char_end": 10214,
       "text": "Um die von der Universität Mannheim getroffenen Maßnahmen zum Datenschutz sowie zum Schutz von Sicherheit und Integrität von Betriebs- und Geschäftsgeheimnissen und sonstigen sensiblen und vertraulichen Daten zu gewährleisten, verarbeiten Mitglieder und Angehörige entsprechende Daten ausschließlich in KI-Systemen, welche im KI-Register ausdrücklich als hierfür freigegeben markiert sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
       "match_type": "exact"
     },
     {
       "char_start": 10216,
       "char_end": 10321,
       "text": "KI-Systeme, die im KI-Register mit „nicht zugelassen“ gekennzeichnet sind, dürfen nicht verwendet werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 37,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 43,
       "match_type": "exact"
     },
     {
       "char_start": 10323,
       "char_end": 10671,
       "text": "Die Universität Mannheim ergreift für die im zentralen KI-Register eingetragenen KI-Systeme Maßnahmen, um sicherzustellen, dass alle Verwendergruppen (einschließlich Personen, die im Rahmen ihrer Tätigkeit an der Universität Mannheim oder im Auftrag der Universität Mannheim KI-Systeme verwenden) über ein angemessenes Maß an KI-Kompetenz verfügen.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
       "match_type": "exact"
     },
     {
       "char_start": 10673,
       "char_end": 10946,
       "text": "Dabei sind die jeweiligen technischen Kenntnisse, die Erfahrung, die Ausbildung und Schulung der betroffenen Personen, der spezifische Einsatzkontext des KI-Systems sowie die Personen oder Personengruppen, bei denen das KI-System eingesetzt werden soll, zu berücksichtigen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
       "char_start": 10948,
       "char_end": 11069,
       "text": "Zu diesem Zweck bietet die Universität Mannheim geeignete Informations-, Qualifizierungs- und Weiterbildungsmaßnahmen an.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 40,
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
       "char_start": 11071,
       "char_end": 11282,
       "text": "Die Verantwortung für die Richtigkeit, die rechtliche Zulässigkeit der Nutzung sowie die Verbreitung von Inhalten, welche mit Hilfe von KI-Systemen erstellt wurden, tragen die Nutzerinnen und Nutzer der Inhalte.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 41,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 47,
       "match_type": "exact"
     },
     {
       "char_start": 11284,
       "char_end": 11410,
       "text": "Von KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden, fehlerhaft und diskriminierend sein.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 42,
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
       "char_start": 11412,
       "char_end": 11601,
       "text": "KI-generierte Aussagen, Literatur, Quellen und Ergebnisse sind daher immer zu überprüfen, kritisch zu bewerten und bei Bedarf anzupassen, bevor sie verantwortungsvoll weiter genutzt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
       "match_type": "exact"
     },
     {
       "char_start": 11603,
       "char_end": 11712,
       "text": "Die Letztverantwortung liegt immer beim Menschen, insbesondere bei Entscheidungen mit erheblicher Auswirkung.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 44,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 50,
       "match_type": "exact"
     },
     {
       "char_start": 11714,
       "char_end": 11820,
       "text": "Die Universität Mannheim, ihre Mitglieder und Angehörigen verwenden KI verantwortungsvoll und transparent.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 45,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 51,
       "match_type": "exact"
     },
     {
       "char_start": 11822,
       "char_end": 12136,
       "text": "Die Verwendung von KI ist insbesondere gegenüber Personen offenzulegen, welche direkt mit einem KI-System (z. B. Chatbot, Sprachassistent) interagieren, sowie gegenüber Personen, welche von Entscheidungen mit personenbezogenen Auswirkungen, die durch oder mit Unterstützung von KI getroffen werden, betroffen sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {
       "char_start": 12138,
       "char_end": 12335,
       "text": "Die Nutzung von Inhalten, die vollständig oder teilweise KI-generiert sind, machen Nutzerinnen und Nutzer transparent, soweit eine entsprechende Hinweispflicht (z. B. bei Täuschungsgefahr) besteht.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
       "match_type": "exact"
     },
     {
@@ -1038,18 +1026,18 @@
       "char_start": 12356,
       "char_end": 12460,
       "text": "Diese Richtlinie tritt am Tage nach ihrer Bekanntmachung in den Bekanntmachungen des Rektorats in Kraft.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 48,
+      "segment_id": 54,
       "match_type": "exact"
     },
     {
       "char_start": 12462,
       "char_end": 12760,
       "text": "Vor Inkrafttreten dieser Richtlinie bereits beschaffte, entwickelte, in Betrieb genommene oder in Verkehr gebrachte KI-Systeme im Sinne von § 5 Absatz 1 sind abweichend von dieser Regelung unverzüglich nach Inkrafttreten dieser Richtlinie für eine Eintragung in das zentrale KI-Register anzumelden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 55,
       "match_type": "exact"
     },
     {

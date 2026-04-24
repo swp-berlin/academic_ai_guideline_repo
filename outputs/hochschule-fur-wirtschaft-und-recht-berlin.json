@@ -3,413 +3,421 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Gemäß § 61 Abs. 2 Nr. 17 i. V. m. § 67 Abs. 3 des Berliner Hochschulgesetzes i. d. F. vom 26.07.2011 (GVBl. S. 378), zuletzt geändert durch Artikel 2 des Gesetzes vom 24.02.2025 (GVBl. S. 149), hat das Präsidium der Hochschule für Wirtschaft und Recht Berlin die folgende Richtlinie erlassen:",
-      "repaired": false
-    },
-    {
-      "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die rapide Entwicklung künstlicher Intelligenz (KI) führt zu signifikanten Veränderungen in Arbeits- und Bildungsprozessen. Auch an der Hochschule für Wirtschaft und Recht Berlin (HWR Berlin) hat der Einsatz von KI-gestützten Anwendungen zunehmend an Bedeutung gewonnen. Trotz zahlreicher offener Fragen zu den Chancen, Risiken und langfristigen Auswirkungen nimmt diese Technologie nachhaltig Einfluss auf die akademische und administrative Arbeit.",
       "repaired": false
     },
     {
-      "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die HWR Berlin widmet sich dieser Thematik mit großer Aufmerksamkeit und fördert den reflektierten Einsatz von KI in Forschung, Lehre und Verwaltung. Das Ziel der HWR Berlin besteht darin, den technologischen Wandel kritisch zu begleiten und zugleich sinnvolle Anwendungsmöglichkeiten für den Hochschulalltag zu erschließen. Dabei ist es von essenzieller Bedeutung, dass der Einsatz von KI verantwortungsvoll und datenschutzkonform erfolgt.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Richtlinie steht im Einklang mit der Digitalisierungsstrategie der Hochschule sowie dem Leitbild Studium und Lehre. Sie gibt einen Überblick über zentrale rechtliche und sicherheitsrelevante Aspekte im Umgang mit KI für alle Angehörigen der HWR Berlin und formuliert die Vorgaben zur Nutzung von KI für alle Angehörigen der HWR Berlin.",
       "repaired": false
     },
     {
       "id": 4,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Diese Richtlinie steht im Einklang mit der Digitalisierungsstrategie der Hochschule sowie dem Leitbild Studium und Lehre. Sie gibt einen Überblick über zentrale rechtliche und sicherheitsrelevante Aspekte im Umgang mit KI für alle Angehörigen der HWR Berlin und formuliert die Vorgaben zur Nutzung von KI für alle Angehörigen der HWR Berlin.",
+      "B_label": "scope/application of the document",
+      "text": "Diese Richtlinie erstreckt sich auf die Nutzung von Künstlicher Intelligenz im Rahmen von Hochschulaktivitäten in allen Bereichen von Forschung, Lehre und Verwaltung.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "(1) Diese Richtlinie erstreckt sich auf die Nutzung von Künstlicher Intelligenz im Rahmen von Hochschulaktivitäten in allen Bereichen von Forschung, Lehre und Verwaltung.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Sie gilt für sämtliche Angehörigen der HWR Berlin im Sinne des § 43 BerlHG. Für Beschäftigte in der Hochschulverwaltung gilt diese Richtlinie zugleich als Dienstanweisung. Für Studierende der internen Studiengänge sind neben den Regelungen dieser Richtlinie die Regelungen des Dienstherrn einzuhalten.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "(2) Sie gilt für sämtliche Angehörigen der HWR Berlin im Sinne des § 43 BerlHG. Für Beschäftigte in der Hochschulverwaltung gilt diese Richtlinie zugleich als Dienstanweisung. Für Studierende der internen Studiengänge sind neben den Regelungen dieser Richtlinie die Regelungen des Dienstherrn einzuhalten.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Künstliche Intelligenz (KI) bezeichnet digitale Systeme, die in der Lage sind, Aufgaben auszuführen, die typischerweise menschliche Intelligenz erfordern. Dazu gehören unter anderem das Erkennen von Mustern, das Verarbeiten von Sprache, das Analysieren von Daten sowie das Vorschlagen oder Unterstützen von Entscheidungen.",
       "repaired": false
     },
     {
       "id": 7,
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "(3) Künstliche Intelligenz (KI) bezeichnet digitale Systeme, die in der Lage sind, Aufgaben auszuführen, die typischerweise menschliche Intelligenz erfordern. Dazu gehören unter anderem das Erkennen von Mustern, das Verarbeiten von Sprache, das Analysieren von Daten sowie das Vorschlagen oder Unterstützen von Entscheidungen.",
+      "B_label": "definition of AI",
+      "text": "Generative Künstliche Intelligenz ist eine spezielle Form der KI, die eigenständig neue Inhalte erzeugen kann – wie z. B. Texte, Bilder, Audiodateien oder Programmcode. Sie basiert häufig auf großen Sprach- oder Bildmodellen, die aus umfangreichen Datenbeständen maschinell gelernt haben.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "(4) Generative Künstliche Intelligenz ist eine spezielle Form der KI, die eigenständig neue Inhalte erzeugen kann – wie z. B. Texte, Bilder, Audiodateien oder Programmcode. Sie basiert häufig auf großen Sprach- oder Bildmodellen, die aus umfangreichen Datenbeständen maschinell gelernt haben.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "KI ist nicht nur in spezialisierten Systemen im Einsatz, sondern auch zunehmend in Standardsoftware und Fachanwendungen. Auch für die Nutzung dieser gelten die Bestimmungen dieser Richtlinie.",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "(5) KI ist nicht nur in spezialisierten Systemen im Einsatz, sondern auch zunehmend in Standardsoftware und Fachanwendungen. Auch für die Nutzung dieser gelten die Bestimmungen dieser Richtlinie.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Nicht jeder Einsatz von digitalen Werkzeugen bzw. Softwareanwendungen fällt unter den Begriff der künstlichen Intelligenz im Sinne dieser Richtlinie. Der Einsatz von Tools, die keine Inhalte generieren bzw. selbst erstellen, erfordert grundsätzlich keine explizite Nennung. Hierzu zählen insbesondere:\n- Softwareanwendungen zur Kontrolle von Rechtschreibung, Grammatik und Stil,\n- Tools zur Übersetzung sowie\n- KI-Recherche-Tools und Literaturverwaltungsprogramme.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "(6) Nicht jeder Einsatz von digitalen Werkzeugen bzw. Softwareanwendungen fällt unter den Begriff der künstlichen Intelligenz im Sinne dieser Richtlinie. Der Einsatz von Tools, die keine Inhalte generieren bzw. selbst erstellen, erfordert grundsätzlich keine explizite Nennung. Hierzu zählen insbesondere:\n\n- Softwareanwendungen zur Kontrolle von Rechtschreibung, Grammatik und Stil,\n- Tools zur Übersetzung sowie\n- KI-Recherche-Tools und Literaturverwaltungsprogramme.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Alle durch die HWR Berlin in Betrieb genommenen und eingesetzten KI-Systeme werden gemäß der EU-Verordnung 2024/1689 (KI-Verordnung) in Risikoklassen eingestuft und regelmäßig überprüft.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(7) Alle durch die HWR Berlin in Betrieb genommenen und eingesetzten KI-Systeme werden gemäß der EU-Verordnung 2024/1689 (KI-Verordnung) in Risikoklassen eingestuft und regelmäßig überprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um den Schutz personenbezogener Daten sowie die Einhaltung der Datenschutzbestimmungen und gesetzlichen Vorgaben zu gewährleisten, sind bei der Nutzung von KI-Tools folgende Grundsätze zu beachten:",
       "repaired": false
     },
     {
       "id": 12,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(1) Um den Schutz personenbezogener Daten sowie die Einhaltung der Datenschutzbestimmungen und gesetzlichen Vorgaben zu gewährleisten, sind bei der Nutzung von KI-Tools folgende Grundsätze zu beachten:\n\n- Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte oder vertrauliche Inhalte in KI-Systeme eingegeben werden.\n- Es dürfen keine Dienst- und Geschäftsgeheimnisse der HWR Berlin eingegeben werden. Auch dürfen keine Inhalte eingegeben werden, zu deren Geheimhaltung die HWR Berlin sich durch Verträge oder Geheimhaltungsvereinbarungen verpflichtet hat.\n- Die Registrierung mit personenbezogenen Daten bei anderen, nicht von der HWR Berlin angebotenen KI-Diensten soll vermieden werden. Eine Verpflichtung zur Nutzung ist nicht zulässig.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte oder vertrauliche Inhalte in KI-Systeme eingegeben werden.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(2) Nicht gestattet ist:\n\n- Die Nutzung der Dienste für illegale oder missbräuchliche Aktivitäten.\n- Die Nutzung der Dienste für die Auswahl von Personal oder die anderweitige Auswahl von Personen.\n- Verletzung, Missbrauch oder Verstoß gegen Rechte anderer.\n- Die unwahre Behauptung, dass der Output von Menschen erstellt wurde.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es dürfen keine Dienst- und Geschäftsgeheimnisse der HWR Berlin eingegeben werden. Auch dürfen keine Inhalte eingegeben werden, zu deren Geheimhaltung die HWR Berlin sich durch Verträge oder Geheimhaltungsvereinbarungen verpflichtet hat.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "(3) Die Nutzerinnen und Nutzer sind für den Input und die Verwendung des daraus resultierenden Output verantwortlich. Sie müssen sicherstellen, dass der Input als auch der verwendete Output selbst keine Rechte verletzt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Registrierung mit personenbezogenen Daten bei anderen, nicht von der HWR Berlin angebotenen KI-Diensten soll vermieden werden. Eine Verpflichtung zur Nutzung ist nicht zulässig.",
       "repaired": false
     },
     {
       "id": 15,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(1) Der Datenschutz ist bei der Nutzung von KI zu beachten.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Nicht gestattet ist:\n- Die Nutzung der Dienste für illegale oder missbräuchliche Aktivitäten.\n- Die Nutzung der Dienste für die Auswahl von Personal oder die anderweitige Auswahl von Personen.\n- Verletzung, Missbrauch oder Verstoß gegen Rechte anderer.\n- Die unwahre Behauptung, dass der Output von Menschen erstellt wurde.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(2) Personenbezogene Daten oder vertrauliche Informationen müssen vor der Verarbeitung entfernt bzw. anonymisiert werden. Sie können bei Bedarf nachträglich wieder eingefügt werden. Das betrifft sowohl personenbezogene Daten der Nutzerinnen und Nutzer selbst, als auch personenbezogene Daten über andere Personen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Nutzerinnen und Nutzer sind für den Input und die Verwendung des daraus resultierenden Output verantwortlich. Sie müssen sicherstellen, dass der Input als auch der verwendete Output selbst keine Rechte verletzt.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "(3) Personenbezogene Daten sind alle Informationen, die einer identifizierten oder identifizierbaren Person zugeordnet werden können, unabhängig davon, ob die Zuordnung direkt möglich ist (z.B. über Namen, E-Mail-Adressen oder Identifikationsnummern, wie Matrikelnummern und Probandencodes vor Vernichtung der jeweiligen Klarnamenliste) oder indirekt aufgrund der in das KI-Tool eingegebenen Merkmale, die Ausdruck der Identität der jeweiligen Person sind. Zu diesen Merkmalen können alle Merkmale gehören, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität einer natürlichen Person sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Datenschutz ist bei der Nutzung von KI zu beachten.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Urheberrechte und sonstige bestehende Schutzrechte sind zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Personenbezogene Daten oder vertrauliche Informationen müssen vor der Verarbeitung entfernt bzw. anonymisiert werden. Sie können bei Bedarf nachträglich wieder eingefügt werden. Das betrifft sowohl personenbezogene Daten der Nutzerinnen und Nutzer selbst, als auch personenbezogene Daten über andere Personen.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(1) Um einen datenschutzkonformen und sicheren Zugang zu KI-Tools für alle Angehörigen der Hochschule zu ermöglichen, stellt die HWR Berlin ein Portal zur Verfügung. Die HWR Berlin stellt sicher, dass ein sicherer und effektiver Zugang zu verschiedenen Sprachmodellen, vorzugsweise Open Source Modellen, möglich ist.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Personenbezogene Daten sind alle Informationen, die einer identifizierten oder identifizierbaren Person zugeordnet werden können, unabhängig davon, ob die Zuordnung direkt möglich ist (z.B. über Namen, E-Mail-Adressen oder Identifikationsnummern, wie Matrikelnummern und Probandencodes vor Vernichtung der jeweiligen Klarnamenliste) oder indirekt aufgrund der in das KI-Tool eingegebenen Merkmale, die Ausdruck der Identität der jeweiligen Person sind. Zu diesen Merkmalen können alle Merkmale gehören, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität einer natürlichen Person sind.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(2) Wenn die Eingaben und Antworten in eine datengetriebene Informationstechnologie eines externen Anbieters durch den externen Anbieter oder dessen beauftragte Subunternehmen zu Trainingszwecken des externen Anbieters weiterverwendet werden („Trainingsdaten“ im Sinne des Art. 3 KI-Verordnung), ist die Nutzung nicht gestattet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Urheberrechte und sonstige bestehende Schutzrechte sind zu beachten.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(1) KI-Tools dürfen zur Unterstützung bei der Erledigung von Aufgaben verwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um einen datenschutzkonformen und sicheren Zugang zu KI-Tools für alle Angehörigen der Hochschule zu ermöglichen, stellt die HWR Berlin ein Portal zur Verfügung. Die HWR Berlin stellt sicher, dass ein sicherer und effektiver Zugang zu verschiedenen Sprachmodellen, vorzugsweise Open Source Modellen, möglich ist.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(2) Die Verwendung von KI-Tools im Beschäftigungsverhältnis ist in folgenden Fällen unzulässig:\n- Bei der Beurteilung von Bewerberinnen und Bewerbern sowie der Auswahl von Personen für bestimmte Positionen, einschließlich Entscheidungen zu Beförderungen, Kündigungen und Aufgabenverteilungen.\n- Bei der Verarbeitung personenbezogener Daten zum Zweck der Beurteilungen der Persönlichkeit, der Arbeitsleistung, der physischen und psychischen Belastbarkeit, der kognitiven oder emotionalen Fähigkeiten von Menschen, der Erstellung von Prognosen über die Straffälligkeit einzelner Personen oder Personengruppen.\n- Bei der Festlegung von Arbeitsbedingungen und Vertragsmodalitäten.\n- Bei der Leistungsbewertung oder der Analyse des Arbeitsverhaltens von Beschäftigten.\n- Beim Erlass eines Verwaltungsakts, bei dem ein Ermessen oder ein Auslegungs- bzw. Beurteilungsspielraum (z. B. im Hinblick auf unbestimmte Rechtsbegriffe) besteht.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wenn die Eingaben und Antworten in eine datengetriebene Informationstechnologie eines externen Anbieters durch den externen Anbieter oder dessen beauftragte Subunternehmen zu Trainingszwecken des externen Anbieters weiterverwendet werden („Trainingsdaten“ im Sinne des Art. 3 KI-Verordnung), ist die Nutzung nicht gestattet.",
       "repaired": false
     },
     {
       "id": 23,
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(3) Die Nutzung dieser Dienste ist unzulässig, wenn es um Entscheidungen über den Zugang zur HWR Berlin oder die Zulassung zum Studium geht.",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools dürfen zur Unterstützung bei der Erledigung von Aufgaben verwendet werden.",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B10",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Verwendung von KI-Tools im Beschäftigungsverhältnis ist in folgenden Fällen unzulässig:\n- Bei der Beurteilung von Bewerberinnen und Bewerbern sowie der Auswahl von Personen für bestimmte Positionen, einschließlich Entscheidungen zu Beförderungen, Kündigungen und Aufgabenverteilungen.\n- Bei der Verarbeitung personenbezogener Daten zum Zweck der Beurteilungen der Persönlichkeit, der Arbeitsleistung, der physischen und psychischen Belastbarkeit, der kognitiven oder emotionalen Fähigkeiten von Menschen, der Erstellung von Prognosen über die Straffälligkeit einzelner Personen oder Personengruppen.\n- Bei der Festlegung von Arbeitsbedingungen und Vertragsmodalitäten.\n- Bei der Leistungsbewertung oder der Analyse des Arbeitsverhaltens von Beschäftigten.\n- Beim Erlass eines Verwaltungsakts, bei dem ein Ermessen oder ein Auslegungs- bzw. Beurteilungsspielraum (z. B. im Hinblick auf unbestimmte Rechtsbegriffe) besteht.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Nutzung dieser Dienste ist unzulässig, wenn es um Entscheidungen über den Zugang zur HWR Berlin oder die Zulassung zum Studium geht.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Gemäß Art. 4 der KI-Verordnung ist für die Nutzung von KI-Tools ein sicherer und verantwortungsvoller Umgang mit KI erforderlich. Dies erfordert ein grundlegendes Verständnis der Technologie und ihrer Auswirkungen. Die HWR Berlin verpflichtet daher alle Hochschulangehörigen, die notwendigen Kompetenzen für ihren jeweiligen Arbeitsbereich zu erwerben. Zu diesem Zweck werden verschiedene Weiterbildungs- und Beratungsangebote von den Serviceeinrichtungen der HWR Berlin oder in Zusammenarbeit mit Partnerinstitutionen entwickelt und bereitgestellt.",
       "repaired": false
     },
     {
-      "id": 25,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(1) Der Einsatz von KI ist im Kontext von Studium und Lehre zulässig, sofern die jeweils verantwortlichen Lehrenden oder die jeweiligen Fachbereiche keine anderen Vorgaben machen. Für den regelmäßigen oder gezielten Einsatz von KI-Anwendungen sollte zu Beginn der jeweiligen Lehrveranstaltung bzw. Prüfungsleistung rechtzeitig geklärt werden, in welcher Form KI als Hilfsmittel eingesetzt werden darf.",
-      "repaired": false
-    },
-    {
-      "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(2) Werden die Studierenden von Lehrenden verpflichtet, KI-Tools zu verwenden, dürfen ausschließlich die durch die HWR Berlin angebotenen Tools eingesetzt werden. Sollen andere Tools eingesetzt werden, müssen diese datenschutzkonform sein und die sonstigen Grundsätze beachten.",
-      "repaired": false
-    },
-    {
       "id": 27,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "(3) Die Verantwortung für die Richtigkeit, Qualität und Güte einer wissenschaftlichen Arbeit, unabhängig davon, ob diese unter Einsatz von KI-Systemen als unterstützende Ressource erstellt wurde, liegt bei der sie erstellenden Person.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Einsatz von KI ist im Kontext von Studium und Lehre zulässig, sofern die jeweils verantwortlichen Lehrenden oder die jeweiligen Fachbereiche keine anderen Vorgaben machen. Für den regelmäßigen oder gezielten Einsatz von KI-Anwendungen sollte zu Beginn der jeweiligen Lehrveranstaltung bzw. Prüfungsleistung rechtzeitig geklärt werden, in welcher Form KI als Hilfsmittel eingesetzt werden darf.",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "(1) Die HWR Berlin fördert den verantwortungsvollen Einsatz von KI zur Unterstützung wissenschaftlicher Arbeit. KI-Systeme dürfen den kreativen und eigenständigen Anteil der wissenschaftlichen Leistung nicht ersetzen. Auch wissenschaftliche Arbeiten, die unter Zuhilfenahme von KI erstellt wurden, müssen den wissenschaftlichen Standards entsprechen, insbesondere in Bezug auf Transparenz und Eigenständigkeit.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Werden die Studierenden von Lehrenden verpflichtet, KI-Tools zu verwenden, dürfen ausschließlich die durch die HWR Berlin angebotenen Tools eingesetzt werden. Sollen andere Tools eingesetzt werden, müssen diese datenschutzkonform sein und die sonstigen Grundsätze beachten.",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "(2) Die Anwendung wissenschaftlicher Methoden ist ein wesentlicher Gegenstand des Studiums. Die HWR Berlin wirkt aktiv darauf hin, dass die Studierenden die Funktionsweisen von KI-Anwendungen verstehen, sie kritisch hinterfragen und ihre Besonderheiten kennen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für die Richtigkeit, Qualität und Güte einer wissenschaftlichen Arbeit, unabhängig davon, ob diese unter Einsatz von KI-Systemen als unterstützende Ressource erstellt wurde, liegt bei der sie erstellenden Person.",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Ausgestaltung der Dokumentationserfordernisse und deren Detaillierungsgrad sind fach- und prüfungsspezifisch. Die Art und Weise der Kennzeichnung und Dokumentation wird durch die jeweils prüfenden Personen festgelegt und rechtzeitig kommuniziert. Fachbereiche können als primär zuständige Stelle die Ausgestaltung der Kennzeichnungs- und Dokumentationspflicht übergeordnet regeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die HWR Berlin fördert den verantwortungsvollen Einsatz von KI zur Unterstützung wissenschaftlicher Arbeit. KI-Systeme dürfen den kreativen und eigenständigen Anteil der wissenschaftlichen Leistung nicht ersetzen. Auch wissenschaftliche Arbeiten, die unter Zuhilfenahme von KI erstellt wurden, müssen den wissenschaftlichen Standards entsprechen, insbesondere in Bezug auf Transparenz und Eigenständigkeit.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "(1) Die Bewertung von Prüfungsleistungen ist originäre Aufgabe der Prüferinnen und Prüfer.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Anwendung wissenschaftlicher Methoden ist ein wesentlicher Gegenstand des Studiums. Die HWR Berlin wirkt aktiv darauf hin, dass die Studierenden die Funktionsweisen von KI-Anwendungen verstehen, sie kritisch hinterfragen und ihre Besonderheiten kennen.",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(2) Die ausschließliche Nutzung von KI-Tools für die Korrektur oder Bewertung von Prüfungsleistungen sowie zur Beurteilung der Fähigkeiten und des Wissenstands von Studierenden ist untersagt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Ausgestaltung der Dokumentationserfordernisse und deren Detaillierungsgrad sind fach- und prüfungsspezifisch. Die Art und Weise der Kennzeichnung und Dokumentation wird durch die jeweils prüfenden Personen festgelegt und rechtzeitig kommuniziert. Fachbereiche können als primär zuständige Stelle die Ausgestaltung der Kennzeichnungs- und Dokumentationspflicht übergeordnet regeln.",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Forschende, die KI-Tools in ihrer wissenschaftlichen Arbeit einsetzen, sind verpflichtet, dies in ihren Forschungspublikationen und -berichten transparent offenzulegen. Die Nutzung von KI-Systemen ist als methodisches Werkzeug zu betrachten und muss als solches dokumentiert werden. Hierbei sind die eingesetzten KI-Modelle, deren Versionen sowie die Art und der Umfang ihrer Verwendung präzise anzugeben, um die Nachvollziehbarkeit und Reproduzierbarkeit der Forschungsergebnisse zu gewährleisten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Bewertung von Prüfungsleistungen ist originäre Aufgabe der Prüferinnen und Prüfer.",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(1) KI ist als unterstützendes Werkzeug in der Forschung zu betrachten, das menschliche Expertise ergänzen, jedoch nicht ersetzen kann. Forschende sind angehalten, einen Hybridansatz zu verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die ausschließliche Nutzung von KI-Tools für die Korrektur oder Bewertung von Prüfungsleistungen sowie zur Beurteilung der Fähigkeiten und des Wissenstands von Studierenden ist untersagt.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(2) Bei der Erzeugung von Forschungsdaten mittels KI ist Folgendes zu beachten:\n- Der Einsatz ist primär für Simulationen und Testdatensätze zulässig.\n- Der Anteil maschinell generierter Daten muss unmissverständlich kenntlich gemacht werden.\n- Synthetische Daten sind als solche zu kennzeichnen und von empirisch erhobenen Daten klar abzugrenzen.\n- Die Validität KI-generierter Daten muss durch reale Daten bestätigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Forschende, die KI-Tools in ihrer wissenschaftlichen Arbeit einsetzen, sind verpflichtet, dies in ihren Forschungspublikationen und -berichten transparent offenzulegen. Die Nutzung von KI-Systemen ist als methodisches Werkzeug zu betrachten und muss als solches dokumentiert werden. Hierbei sind die eingesetzten KI-Modelle, deren Versionen sowie die Art und der Umfang ihrer Verwendung präzise anzugeben, um die Nachvollziehbarkeit und Reproduzierbarkeit der Forschungsergebnisse zu gewährleisten.",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(3) In allen Anwendungsfällen sind die transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards sicherzustellen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI ist als unterstützendes Werkzeug in der Forschung zu betrachten, das menschliche Expertise ergänzen, jedoch nicht ersetzen kann. Forschende sind angehalten, einen Hybridansatz zu verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "(1) Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit. Forschende müssen sich der Ambivalenz zwischen proprietären KI-Systemen und dem Open Science-Prinzip der Offenheit bewusst sein, da die zugrundeliegenden Modelle und Trainingsdaten kommerzieller KI-Systeme zumeist nicht öffentlich zugänglich sind. Im Sinne der Open-Science-Prinzipien sind quelloffene und frei zugängliche KI-Modelle zu verwenden oder zumindest solche, deren Trainingsmethoden und -daten dokumentiert und nachvollziehbar sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Erzeugung von Forschungsdaten mittels KI ist Folgendes zu beachten:\n- Der Einsatz ist primär für Simulationen und Testdatensätze zulässig.\n- Der Anteil maschinell generierter Daten muss unmissverständlich kenntlich gemacht werden.\n- Synthetische Daten sind als solche zu kennzeichnen und von empirisch erhobenen Daten klar abzugrenzen.\n- Die Validität KI-generierter Daten muss durch reale Daten bestätigt werden.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(2) Zur Förderung der Reproduzierbarkeit sind die für die KI-Nutzung relevanten Prompts, Parameter und Konfigurationen zu dokumentieren und im Rahmen der Forschungsdatenpublikation zugänglich zu machen. Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In allen Anwendungsfällen sind die transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards sicherzustellen.",
       "repaired": false
     },
     {
       "id": 39,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(3) KI-Tools können gezielt zur Unterstützung der Ziele von Open Science eingesetzt werden, insbesondere zur Aufbereitung von und zum Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit. In diesem Kontext ist auf Barrierefreiheit und Verständlichkeit der KI-unterstützten Wissenschaftskommunikation zu achten.",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit. Forschende müssen sich der Ambivalenz zwischen proprietären KI-Systemen und dem Open Science-Prinzip der Offenheit bewusst sein, da die zugrundeliegenden Modelle und Trainingsdaten kommerzieller KI-Systeme zumeist nicht öffentlich zugänglich sind. Im Sinne der Open-Science-Prinzipien sind quelloffene und frei zugängliche KI-Modelle zu verwenden oder zumindest solche, deren Trainingsmethoden und -daten dokumentiert und nachvollziehbar sind.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(4) Die Hochschule fördert aktiv die Entwicklung und Nutzung institutionseigener oder gemeinschaftlich betriebener KI-Infrastrukturen, die den Open-Science-Grundsätzen entsprechen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zur Förderung der Reproduzierbarkeit sind die für die KI-Nutzung relevanten Prompts, Parameter und Konfigurationen zu dokumentieren und im Rahmen der Forschungsdatenpublikation zugänglich zu machen. Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI.",
       "repaired": false
     },
     {
       "id": 41,
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "(1) KI-Tools können nicht als Autoren oder Co-Autoren wissenschaftlicher Publikationen genannt werden, da sie keine rechtsfähigen Entitäten darstellen und keine eigenständige wissenschaftliche Verantwortung übernehmen können.",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools können gezielt zur Unterstützung der Ziele von Open Science eingesetzt werden, insbesondere zur Aufbereitung von und zum Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit. In diesem Kontext ist auf Barrierefreiheit und Verständlichkeit der KI-unterstützten Wissenschaftskommunikation zu achten.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(2) Bei substanziellen Beiträgen generativer KI zur Textproduktion, Datenanalyse oder Hypothesenbildung ist dies in einer gesonderten Erklärung im Methodenteil oder in den Danksagungen explizit zu benennen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Hochschule fördert aktiv die Entwicklung und Nutzung institutionseigener oder gemeinschaftlich betriebener KI-Infrastrukturen, die den Open-Science-Grundsätzen entsprechen.",
       "repaired": false
     },
     {
       "id": 43,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "(3) Werden Inhalte aus KI-Tools verwendet, die auf urheberrechtlich geschützten Werken trainiert wurden, obliegt es den Forschenden, potenzielle urheberrechtliche Implikationen zu berücksichtigen und eine angemessene Attributionspraxis sicherzustellen.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Tools können nicht als Autoren oder Co-Autoren wissenschaftlicher Publikationen genannt werden, da sie keine rechtsfähigen Entitäten darstellen und keine eigenständige wissenschaftliche Verantwortung übernehmen können.",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Für alle weiteren Aspekte der Forschung mit KI-Systemen gelten die Grundsätze guter wissenschaftlicher Praxis, wie sie in der \"Satzung der Hochschule für Wirtschaft und Recht Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens\" vom 16.05.2023 festgelegt sind. Dies betrifft insbesondere:\n- die Wahl des Forschungsdesigns,\n- rechtliche und ethische Rahmenbedingungen,\n- Nutzungsrechte an Forschungsdaten,\n- Methoden und Standards der Forschung,\n- Dokumentation von Forschungsergebnissen,\n- Herstellung öffentlichen Zugangs zu Forschungsergebnissen sowie\n- Regelungen zur Autorschaft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei substanziellen Beiträgen generativer KI zur Textproduktion, Datenanalyse oder Hypothesenbildung ist dies in einer gesonderten Erklärung im Methodenteil oder in den Danksagungen explizit zu benennen.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "(1) Die jeweilige Nutzung von KI-Tools muss mit den Prinzipien der Gleichberechtigung und Chancengleichheit vereinbar sein. Jegliche Formen von Diskriminierung durch KI-Systeme sind auszuschließen. Alle Nutzerinnen und Nutzer reflektieren die Auswirkungen von KI kritisch.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Werden Inhalte aus KI-Tools verwendet, die auf urheberrechtlich geschützten Werken trainiert wurden, obliegt es den Forschenden, potenzielle urheberrechtliche Implikationen zu berücksichtigen und eine angemessene Attributionspraxis sicherzustellen.",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "(2) Künstliche Intelligenz kann im Hochschulkontext zur Barrierefreiheit für Hochschulangehörige mit Seh-, Hör-, motorischen oder kognitiven Einschränkungen beitragen. Die HWR Berlin fördert den rechtssicheren Einsatz dieser Systeme.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Für alle weiteren Aspekte der Forschung mit KI-Systemen gelten die Grundsätze guter wissenschaftlicher Praxis, wie sie in der \"Satzung der Hochschule für Wirtschaft und Recht Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens\" vom 16.05.2023 festgelegt sind. Dies betrifft insbesondere:\n- die Wahl des Forschungsdesigns,\n- rechtliche und ethische Rahmenbedingungen,\n- Nutzungsrechte an Forschungsdaten,\n- Methoden und Standards der Forschung,\n- Dokumentation von Forschungsergebnissen,\n- Herstellung öffentlichen Zugangs zu Forschungsergebnissen sowie\n- Regelungen zur Autorschaft.",
       "repaired": false
     },
     {
       "id": 47,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "(3) KI-Tools lernen aus riesigen Datenmengen. Diese Daten spiegeln unsere Welt wider, inklusive gesellschaftlicher Vorurteile, u.a. bezogen auf Geschlechterrollen, ethnische Stereotype, Altersdiskriminierung. Es liegt in der Verantwortung aller Nutzerinnen und Nutzer über Biases informiert zu sein und hierzu ein kritisches Bewusstsein zu entwickeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die jeweilige Nutzung von KI-Tools muss mit den Prinzipien der Gleichberechtigung und Chancengleichheit vereinbar sein. Jegliche Formen von Diskriminierung durch KI-Systeme sind auszuschließen. Alle Nutzerinnen und Nutzer reflektieren die Auswirkungen von KI kritisch.",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "(4) Der Einsatz von KI in Lehre, Forschung und Verwaltung eröffnet große Chancen, ist jedoch mit erheblichem Ressourcenverbrauch verbunden. Der Betrieb und das Training großer KI-Modelle erfordern hohe Rechenleistungen, die mit entsprechendem Energie- und Wasserverbrauch sowie einem signifikanten CO₂-Fußabdruck einhergehen. Im Sinne einer nachhaltigen Hochschulpraxis soll der Einsatz KI bewusst, zielgerichtet und ressourcenschonend erfolgen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Künstliche Intelligenz kann im Hochschulkontext zur Barrierefreiheit für Hochschulangehörige mit Seh-, Hör-, motorischen oder kognitiven Einschränkungen beitragen. Die HWR Berlin fördert den rechtssicheren Einsatz dieser Systeme.",
       "repaired": false
     },
     {
       "id": 49,
-      "B": "B11",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Tools lernen aus riesigen Datenmengen. Diese Daten spiegeln unsere Welt wider, inklusive gesellschaftlicher Vorurteile, u.a. bezogen auf Geschlechterrollen, ethnische Stereotype, Altersdiskriminierung. Es liegt in der Verantwortung aller Nutzerinnen und Nutzer über Biases informiert zu sein und hierzu ein kritisches Bewusstsein zu entwickeln.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Der Einsatz von KI in Lehre, Forschung und Verwaltung eröffnet große Chancen, ist jedoch mit erheblichem Ressourcenverbrauch verbunden. Der Betrieb und das Training großer KI-Modelle erfordern hohe Rechenleistungen, die mit entsprechendem Energie- und Wasserverbrauch sowie einem signifikanten CO₂-Fußabdruck einhergehen. Im Sinne einer nachhaltigen Hochschulpraxis soll der Einsatz KI bewusst, zielgerichtet und ressourcenschonend erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "Diese Richtlinie tritt am Tage nach der Veröffentlichung im Mitteilungsblatt/Bulletin der HWR Berlin in Kraft.",
       "repaired": false
     },
     {
-      "id": 50,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 52,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "bias in ki bezeichnet systematische verzerrungen in den entscheidungen oder ergebnissen eines ki-systems, die durch unausgewogene daten, fehlerhafte modellierung oder bestehende gesellschaftliche vorurteile entstehen können",
       "repaired": true
     },
     {
-      "id": 51,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "die anbieter und betreiber von ki-systemen ergreifen maßnahmen, um nach besten kräften sicherzustellen, dass ihr personal und andere personen, die in ihrem auftrag mit dem betrieb und der nutzung von ki-systemen befasst sind, über ein ausreichendes maß an ki-kompetenz verfügen, wobei ihre technischen kenntnisse, ihre erfahrung, ihre ausbildung und schulung und der kontext, in dem die ki-systeme eingesetzt werden sollen, sowie die personen oder personengruppen, bei denen die ki-systeme eingesetzt werden sollen, zu berücksichtigen sind",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 51,
-    "matched": 49,
+    "total": 53,
+    "matched": 51,
     "unmatched_count": 2,
     "unmatched": [
       {
-        "id": 50,
-        "B": "B1",
+        "id": 52,
+        "B": "B2",
         "matched_words": "12/25",
         "text": "bias in ki bezeichnet systematische verzerrungen in den entscheidungen oder ergebnissen eines ki-systems, die durch unausgewogene daten, fehlerhafte modellierung oder bestehende gesellschaftliche vorurteile entstehen können"
       },
       {
-        "id": 51,
-        "B": "B7",
+        "id": 53,
+        "B": "B8",
         "matched_words": "5/75",
         "text": "die anbieter und betreiber von ki-systemen ergreifen maßnahmen, um nach besten kräften sicherzustellen, dass ihr personal und andere personen, die in ihrem auftrag mit dem betrieb und der nutzung von ki-systemen befasst sind, über ein ausreichendes maß an ki-kompetenz verfügen, wobei ihre technischen kenntnisse, ihre erfahrung, ihre ausbildung und schulung und der kontext, in dem die ki-systeme eingesetzt werden sollen, sowie die personen oder personengruppen, bei denen die ki-systeme eingesetzt werden sollen, zu berücksichtigen sind"
       }
     ],
-    "source_coverage": 0.873,
-    "uncovered_chars": 2254,
-    "uncovered_gaps": 21,
+    "source_coverage": 0.849,
+    "uncovered_chars": 2584,
+    "uncovered_gaps": 20,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 362,
-        "length": 362,
-        "text": "# hochschule für wirtschaft und recht berlin # source: https://www.hwrberlin.de/fileadmin/portal/dokumente/hwr-berlin/mitteilungsbl%c3%a4tter/2025/mitteilungsblatt_61-2025_zhv_richtlinie_ki_nutzung.pdf # date: 2025-08-29 # category: guideline # richtlinie der hochschule für wirtschaft und recht berlin für die nutzung von künstlicher intelligenz vom 04.08.2025"
-      },
-      {
-        "char_start": 644,
         "char_end": 658,
-        "length": 14,
-        "text": ": ## präambel"
+        "length": 658,
+        "text": "# hochschule für wirtschaft und recht berlin # source: https://www.hwrberlin.de/fileadmin/portal/dokumente/hwr-berlin/mitteilungsbl%c3%a4tter/2025/mitteilungsblatt_61-2025_zhv_richtlinie_ki_nutzung.pdf # date: 2025-08-29 # category: guideline # richtlinie der hochschule für wirtschaft und recht berlin für die nutzung von künstlicher intelligenz vom 04.08.2025 gemäß § 61 abs. nr. i. v. m. § 67 abs. des berliner hochschulgesetzes i. d. f. vom 26.07.2011 (gvbl. s. 378), zuletzt geändert durch artikel des gesetzes vom 24.02.2025 (gvbl. s. 149), hat das präsidium der hochschule für wirtschaft und recht berlin die folgende richtlinie erlassen: ## präambel"
       },
       {
         "char_start": 1887,
-        "char_end": 1985,
-        "length": 98,
-        "text": ". ## teil 1: rahmenbedingungen ### § 1 geltungsbereich und definition von künstlicher intelligenz"
+        "char_end": 1989,
+        "length": 102,
+        "text": ". ## teil 1: rahmenbedingungen ### § 1 geltungsbereich und definition von künstlicher intelligenz (1)"
       },
       {
         "char_start": 3928,
-        "char_end": 3960,
-        "length": 32,
-        "text": ". ### § 2 allgemeine grundsätze"
+        "char_end": 3964,
+        "length": 36,
+        "text": ". ### § 2 allgemeine grundsätze (1)"
       },
       {
         "char_start": 5246,
-        "char_end": 5268,
-        "length": 22,
-        "text": ". ### § 3 datenschutz"
+        "char_end": 5272,
+        "length": 26,
+        "text": ". ### § 3 datenschutz (1)"
       },
       {
         "char_start": 6304,
@@ -419,15 +427,15 @@
       },
       {
         "char_start": 6421,
-        "char_end": 6458,
-        "length": 37,
-        "text": ". ### § 5 ki-tools an der hwr berlin"
+        "char_end": 6462,
+        "length": 41,
+        "text": ". ### § 5 ki-tools an der hwr berlin (1)"
       },
       {
         "char_start": 7100,
-        "char_end": 7163,
-        "length": 63,
-        "text": ". ### § 6 spezifische bestimmungen für die hochschulverwaltung"
+        "char_end": 7167,
+        "length": 67,
+        "text": ". ### § 6 spezifische bestimmungen für die hochschulverwaltung (1)"
       },
       {
         "char_start": 8308,
@@ -437,15 +445,15 @@
       },
       {
         "char_start": 8877,
-        "char_end": 8940,
-        "length": 63,
-        "text": ". ## teil 2: einsatz ki in studium und lehre ### § 8 allgemein"
+        "char_end": 8944,
+        "length": 67,
+        "text": ". ## teil 2: einsatz ki in studium und lehre ### § 8 allgemein (1)"
       },
       {
         "char_start": 9853,
-        "char_end": 9886,
-        "length": 33,
-        "text": ". ### § 9 akademische integrität"
+        "char_end": 9890,
+        "length": 37,
+        "text": ". ### § 9 akademische integrität (1)"
       },
       {
         "char_start": 10556,
@@ -455,9 +463,9 @@
       },
       {
         "char_start": 10992,
-        "char_end": 11055,
-        "length": 63,
-        "text": ". ### § 11 spezifische bestimmungen für prüferinnen und prüfer"
+        "char_end": 11059,
+        "length": 67,
+        "text": ". ### § 11 spezifische bestimmungen für prüferinnen und prüfer (1)"
       },
       {
         "char_start": 11336,
@@ -467,21 +475,21 @@
       },
       {
         "char_start": 11917,
-        "char_end": 11984,
-        "length": 67,
-        "text": ". ### § 13 einsatz zur erzeugung und bewertung von forschungsdaten"
+        "char_end": 11988,
+        "length": 71,
+        "text": ". ### § 13 einsatz zur erzeugung und bewertung von forschungsdaten (1)"
       },
       {
         "char_start": 12850,
-        "char_end": 12900,
-        "length": 50,
-        "text": ". ### § 14 ki-einsatz im kontext von open science"
+        "char_end": 12904,
+        "length": 54,
+        "text": ". ### § 14 ki-einsatz im kontext von open science (1)"
       },
       {
         "char_start": 14400,
-        "char_end": 14443,
-        "length": 43,
-        "text": ". ### § 15 urheberschaft und kennzeichnung"
+        "char_end": 14447,
+        "length": 47,
+        "text": ". ### § 15 urheberschaft und kennzeichnung (1)"
       },
       {
         "char_start": 15127,
@@ -491,9 +499,9 @@
       },
       {
         "char_start": 15841,
-        "char_end": 15960,
-        "length": 119,
-        "text": ". ## teil 4: leitprinzipien im umgang mit künstlicher intelligenz und schlussvorschriften ### § 17 ethische grundsätze"
+        "char_end": 15964,
+        "length": 123,
+        "text": ". ## teil 4: leitprinzipien im umgang mit künstlicher intelligenz und schlussvorschriften ### § 17 ethische grundsätze (1)"
       },
       {
         "char_start": 17261,
@@ -512,26 +520,8 @@
   "projection": [
     {
       "char_start": 0,
-      "char_end": 365,
-      "text": "# Hochschule für Wirtschaft und Recht Berlin\n# Source: https://www.hwr-berlin.de/fileadmin/portal/Dokumente/HWR-Berlin/Mitteilungsbl%C3%A4tter/2025/Mitteilungsblatt_61-2025_ZHV_Richtlinie_KI_Nutzung.pdf\n# Date: 2025-08-29\n# Category: guideline\n\n# Richtlinie\nder Hochschule für Wirtschaft und Recht Berlin\nfür die Nutzung von Künstlicher Intelligenz\nvom 04.08.2025\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 365,
-      "char_end": 657,
-      "text": "Gemäß § 61 Abs. 2 Nr. 17 i. V. m. § 67 Abs. 3 des Berliner Hochschulgesetzes i. d. F. vom 26.07.2011 (GVBl. S. 378), zuletzt geändert durch Artikel 2 des Gesetzes vom 24.02.2025 (GVBl. S. 149), hat das Präsidium der Hochschule für Wirtschaft und Recht Berlin die folgende Richtlinie erlassen:",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 1,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 657,
       "char_end": 672,
-      "text": "\n\n## Präambel\n\n",
+      "text": "# Hochschule für Wirtschaft und Recht Berlin\n# Source: https://www.hwr-berlin.de/fileadmin/portal/Dokumente/HWR-Berlin/Mitteilungsbl%C3%A4tter/2025/Mitteilungsblatt_61-2025_ZHV_Richtlinie_KI_Nutzung.pdf\n# Date: 2025-08-29\n# Category: guideline\n\n# Richtlinie\nder Hochschule für Wirtschaft und Recht Berlin\nfür die Nutzung von Künstlicher Intelligenz\nvom 04.08.2025\n\nGemäß § 61 Abs. 2 Nr. 17 i. V. m. § 67 Abs. 3 des Berliner Hochschulgesetzes i. d. F. vom 26.07.2011 (GVBl. S. 378), zuletzt geändert durch Artikel 2 des Gesetzes vom 24.02.2025 (GVBl. S. 149), hat das Präsidium der Hochschule für Wirtschaft und Recht Berlin die folgende Richtlinie erlassen:\n\n## Präambel\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -541,171 +531,297 @@
       "char_start": 672,
       "char_end": 1121,
       "text": "Die rapide Entwicklung künstlicher Intelligenz (KI) führt zu signifikanten Veränderungen in Arbeits- und Bildungsprozessen. Auch an der Hochschule für Wirtschaft und Recht Berlin (HWR Berlin) hat der Einsatz von KI-gestützten Anwendungen zunehmend an Bedeutung gewonnen. Trotz zahlreicher offener Fragen zu den Chancen, Risiken und langfristigen Auswirkungen nimmt diese Technologie nachhaltig Einfluss auf die akademische und administrative Arbeit.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
       "match_type": "exact"
     },
     {
       "char_start": 1123,
       "char_end": 1563,
       "text": "Die HWR Berlin widmet sich dieser Thematik mit großer Aufmerksamkeit und fördert den reflektierten Einsatz von KI in Forschung, Lehre und Verwaltung. Das Ziel der HWR Berlin besteht darin, den technologischen Wandel kritisch zu begleiten und zugleich sinnvolle Anwendungsmöglichkeiten für den Hochschulalltag zu erschließen. Dabei ist es von essenzieller Bedeutung, dass der Einsatz von KI verantwortungsvoll und datenschutzkonform erfolgt.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 1565,
       "char_end": 1906,
       "text": "Diese Richtlinie steht im Einklang mit der Digitalisierungsstrategie der Hochschule sowie dem Leitbild Studium und Lehre. Sie gibt einen Überblick über zentrale rechtliche und sicherheitsrelevante Aspekte im Umgang mit KI für alle Angehörigen der HWR Berlin und formuliert die Vorgaben zur Nutzung von KI für alle Angehörigen der HWR Berlin.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1906,
-      "char_end": 2006,
-      "text": "\n\n## Teil 1: Rahmenbedingungen\n\n### § 1 Geltungsbereich und Definition von Künstlicher Intelligenz\n\n",
+      "char_end": 2010,
+      "text": "\n\n## Teil 1: Rahmenbedingungen\n\n### § 1 Geltungsbereich und Definition von Künstlicher Intelligenz\n\n(1) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 2006,
+      "char_start": 2010,
       "char_end": 2176,
-      "text": "(1) Diese Richtlinie erstreckt sich auf die Nutzung von Künstlicher Intelligenz im Rahmen von Hochschulaktivitäten in allen Bereichen von Forschung, Lehre und Verwaltung.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "text": "Diese Richtlinie erstreckt sich auf die Nutzung von Künstlicher Intelligenz im Rahmen von Hochschulaktivitäten in allen Bereichen von Forschung, Lehre und Verwaltung.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2176,
+      "char_end": 2182,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2182,
+      "char_end": 2483,
+      "text": "Sie gilt für sämtliche Angehörigen der HWR Berlin im Sinne des § 43 BerlHG. Für Beschäftigte in der Hochschulverwaltung gilt diese Richtlinie zugleich als Dienstanweisung. Für Studierende der internen Studiengänge sind neben den Regelungen dieser Richtlinie die Regelungen des Dienstherrn einzuhalten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 2178,
-      "char_end": 2483,
-      "text": "(2) Sie gilt für sämtliche Angehörigen der HWR Berlin im Sinne des § 43 BerlHG. Für Beschäftigte in der Hochschulverwaltung gilt diese Richtlinie zugleich als Dienstanweisung. Für Studierende der internen Studiengänge sind neben den Regelungen dieser Richtlinie die Regelungen des Dienstherrn einzuhalten.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "char_start": 2483,
+      "char_end": 2489,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2489,
+      "char_end": 2811,
+      "text": "Künstliche Intelligenz (KI) bezeichnet digitale Systeme, die in der Lage sind, Aufgaben auszuführen, die typischerweise menschliche Intelligenz erfordern. Dazu gehören unter anderem das Erkennen von Mustern, das Verarbeiten von Sprache, das Analysieren von Daten sowie das Vorschlagen oder Unterstützen von Entscheidungen.",
+      "B": "B1",
+      "B_label": "definition of AI",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 2485,
-      "char_end": 2811,
-      "text": "(3) Künstliche Intelligenz (KI) bezeichnet digitale Systeme, die in der Lage sind, Aufgaben auszuführen, die typischerweise menschliche Intelligenz erfordern. Dazu gehören unter anderem das Erkennen von Mustern, das Verarbeiten von Sprache, das Analysieren von Daten sowie das Vorschlagen oder Unterstützen von Entscheidungen.",
+      "char_start": 2811,
+      "char_end": 2817,
+      "text": "\n\n(4) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2817,
+      "char_end": 3105,
+      "text": "Generative Künstliche Intelligenz ist eine spezielle Form der KI, die eigenständig neue Inhalte erzeugen kann – wie z. B. Texte, Bilder, Audiodateien oder Programmcode. Sie basiert häufig auf großen Sprach- oder Bildmodellen, die aus umfangreichen Datenbeständen maschinell gelernt haben.",
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 2813,
-      "char_end": 3105,
-      "text": "(4) Generative Künstliche Intelligenz ist eine spezielle Form der KI, die eigenständig neue Inhalte erzeugen kann – wie z. B. Texte, Bilder, Audiodateien oder Programmcode. Sie basiert häufig auf großen Sprach- oder Bildmodellen, die aus umfangreichen Datenbeständen maschinell gelernt haben.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 3105,
+      "char_end": 3111,
+      "text": "\n\n(5) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3111,
+      "char_end": 3302,
+      "text": "KI ist nicht nur in spezialisierten Systemen im Einsatz, sondern auch zunehmend in Standardsoftware und Fachanwendungen. Auch für die Nutzung dieser gelten die Bestimmungen dieser Richtlinie.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 3107,
-      "char_end": 3302,
-      "text": "(5) KI ist nicht nur in spezialisierten Systemen im Einsatz, sondern auch zunehmend in Standardsoftware und Fachanwendungen. Auch für die Nutzung dieser gelten die Bestimmungen dieser Richtlinie.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "char_start": 3302,
+      "char_end": 3308,
+      "text": "\n\n(6) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3308,
+      "char_end": 3773,
+      "text": "Nicht jeder Einsatz von digitalen Werkzeugen bzw. Softwareanwendungen fällt unter den Begriff der künstlichen Intelligenz im Sinne dieser Richtlinie. Der Einsatz von Tools, die keine Inhalte generieren bzw. selbst erstellen, erfordert grundsätzlich keine explizite Nennung. Hierzu zählen insbesondere:\n\n- Softwareanwendungen zur Kontrolle von Rechtschreibung, Grammatik und Stil,\n- Tools zur Übersetzung sowie\n- KI-Recherche-Tools und Literaturverwaltungsprogramme.",
+      "B": "B1",
+      "B_label": "definition of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
     {
-      "char_start": 3304,
-      "char_end": 3773,
-      "text": "(6) Nicht jeder Einsatz von digitalen Werkzeugen bzw. Softwareanwendungen fällt unter den Begriff der künstlichen Intelligenz im Sinne dieser Richtlinie. Der Einsatz von Tools, die keine Inhalte generieren bzw. selbst erstellen, erfordert grundsätzlich keine explizite Nennung. Hierzu zählen insbesondere:\n\n- Softwareanwendungen zur Kontrolle von Rechtschreibung, Grammatik und Stil,\n- Tools zur Übersetzung sowie\n- KI-Recherche-Tools und Literaturverwaltungsprogramme.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 3773,
+      "char_end": 3779,
+      "text": "\n\n(7) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3779,
+      "char_end": 3965,
+      "text": "Alle durch die HWR Berlin in Betrieb genommenen und eingesetzten KI-Systeme werden gemäß der EU-Verordnung 2024/1689 (KI-Verordnung) in Risikoklassen eingestuft und regelmäßig überprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 3775,
-      "char_end": 3965,
-      "text": "(7) Alle durch die HWR Berlin in Betrieb genommenen und eingesetzten KI-Systeme werden gemäß der EU-Verordnung 2024/1689 (KI-Verordnung) in Risikoklassen eingestuft und regelmäßig überprüft.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3965,
+      "char_end": 4002,
+      "text": "\n\n### § 2 Allgemeine Grundsätze\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4002,
+      "char_end": 4199,
+      "text": "Um den Schutz personenbezogener Daten sowie die Einhaltung der Datenschutzbestimmungen und gesetzlichen Vorgaben zu gewährleisten, sind bei der Nutzung von KI-Tools folgende Grundsätze zu beachten:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 11,
       "match_type": "exact"
     },
     {
-      "char_start": 3965,
-      "char_end": 3998,
-      "text": "\n\n### § 2 Allgemeine Grundsätze\n\n",
+      "char_start": 4199,
+      "char_end": 4203,
+      "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 3998,
-      "char_end": 4754,
-      "text": "(1) Um den Schutz personenbezogener Daten sowie die Einhaltung der Datenschutzbestimmungen und gesetzlichen Vorgaben zu gewährleisten, sind bei der Nutzung von KI-Tools folgende Grundsätze zu beachten:\n\n- Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte oder vertrauliche Inhalte in KI-Systeme eingegeben werden.\n- Es dürfen keine Dienst- und Geschäftsgeheimnisse der HWR Berlin eingegeben werden. Auch dürfen keine Inhalte eingegeben werden, zu deren Geheimhaltung die HWR Berlin sich durch Verträge oder Geheimhaltungsvereinbarungen verpflichtet hat.\n- Die Registrierung mit personenbezogenen Daten bei anderen, nicht von der HWR Berlin angebotenen KI-Diensten soll vermieden werden. Eine Verpflichtung zur Nutzung ist nicht zulässig.",
+      "char_start": 4203,
+      "char_end": 4330,
+      "text": "Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte oder vertrauliche Inhalte in KI-Systeme eingegeben werden.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 4756,
-      "char_end": 5084,
-      "text": "(2) Nicht gestattet ist:\n\n- Die Nutzung der Dienste für illegale oder missbräuchliche Aktivitäten.\n- Die Nutzung der Dienste für die Auswahl von Personal oder die anderweitige Auswahl von Personen.\n- Verletzung, Missbrauch oder Verstoß gegen Rechte anderer.\n- Die unwahre Behauptung, dass der Output von Menschen erstellt wurde.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 13,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5086,
-      "char_end": 5305,
-      "text": "(3) Die Nutzerinnen und Nutzer sind für den Input und die Verwendung des daraus resultierenden Output verantwortlich. Sie müssen sicherstellen, dass der Input als auch der verwendete Output selbst keine Rechte verletzt.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 14,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5305,
-      "char_end": 5328,
-      "text": "\n\n### § 3 Datenschutz\n\n",
+      "char_start": 4330,
+      "char_end": 4333,
+      "text": "\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 5328,
-      "char_end": 5387,
-      "text": "(1) Der Datenschutz ist bei der Nutzung von KI zu beachten.",
+      "char_start": 4333,
+      "char_end": 4570,
+      "text": "Es dürfen keine Dienst- und Geschäftsgeheimnisse der HWR Berlin eingegeben werden. Auch dürfen keine Inhalte eingegeben werden, zu deren Geheimhaltung die HWR Berlin sich durch Verträge oder Geheimhaltungsvereinbarungen verpflichtet hat.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 5389,
-      "char_end": 5702,
-      "text": "(2) Personenbezogene Daten oder vertrauliche Informationen müssen vor der Verarbeitung entfernt bzw. anonymisiert werden. Sie können bei Bedarf nachträglich wieder eingefügt werden. Das betrifft sowohl personenbezogene Daten der Nutzerinnen und Nutzer selbst, als auch personenbezogene Daten über andere Personen.",
+      "char_start": 4570,
+      "char_end": 4573,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4573,
+      "char_end": 4754,
+      "text": "Die Registrierung mit personenbezogenen Daten bei anderen, nicht von der HWR Berlin angebotenen KI-Diensten soll vermieden werden. Eine Verpflichtung zur Nutzung ist nicht zulässig.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4754,
+      "char_end": 5090,
+      "text": "\n\n(2) Nicht gestattet ist:\n\n- Die Nutzung der Dienste für illegale oder missbräuchliche Aktivitäten.\n- Die Nutzung der Dienste für die Auswahl von Personal oder die anderweitige Auswahl von Personen.\n- Verletzung, Missbrauch oder Verstoß gegen Rechte anderer.\n- Die unwahre Behauptung, dass der Output von Menschen erstellt wurde.\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5090,
+      "char_end": 5305,
+      "text": "Die Nutzerinnen und Nutzer sind für den Input und die Verwendung des daraus resultierenden Output verantwortlich. Sie müssen sicherstellen, dass der Input als auch der verwendete Output selbst keine Rechte verletzt.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 16,
       "match_type": "exact"
     },
     {
-      "char_start": 5704,
-      "char_end": 6367,
-      "text": "(3) Personenbezogene Daten sind alle Informationen, die einer identifizierten oder identifizierbaren Person zugeordnet werden können, unabhängig davon, ob die Zuordnung direkt möglich ist (z.B. über Namen, E-Mail-Adressen oder Identifikationsnummern, wie Matrikelnummern und Probandencodes vor Vernichtung der jeweiligen Klarnamenliste) oder indirekt aufgrund der in das KI-Tool eingegebenen Merkmale, die Ausdruck der Identität der jeweiligen Person sind. Zu diesen Merkmalen können alle Merkmale gehören, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität einer natürlichen Person sind.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_start": 5305,
+      "char_end": 5332,
+      "text": "\n\n### § 3 Datenschutz\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5332,
+      "char_end": 5387,
+      "text": "Der Datenschutz ist bei der Nutzung von KI zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5387,
+      "char_end": 5393,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5393,
+      "char_end": 5702,
+      "text": "Personenbezogene Daten oder vertrauliche Informationen müssen vor der Verarbeitung entfernt bzw. anonymisiert werden. Sie können bei Bedarf nachträglich wieder eingefügt werden. Das betrifft sowohl personenbezogene Daten der Nutzerinnen und Nutzer selbst, als auch personenbezogene Daten über andere Personen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5702,
+      "char_end": 5708,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5708,
+      "char_end": 6367,
+      "text": "Personenbezogene Daten sind alle Informationen, die einer identifizierten oder identifizierbaren Person zugeordnet werden können, unabhängig davon, ob die Zuordnung direkt möglich ist (z.B. über Namen, E-Mail-Adressen oder Identifikationsnummern, wie Matrikelnummern und Probandencodes vor Vernichtung der jeweiligen Klarnamenliste) oder indirekt aufgrund der in das KI-Tool eingegebenen Merkmale, die Ausdruck der Identität der jeweiligen Person sind. Zu diesen Merkmalen können alle Merkmale gehören, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität einer natürlichen Person sind.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
@@ -721,72 +837,99 @@
       "char_start": 6418,
       "char_end": 6486,
       "text": "Urheberrechte und sonstige bestehende Schutzrechte sind zu beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 18,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6486,
-      "char_end": 6524,
-      "text": "\n\n### § 5 KI-Tools an der HWR Berlin\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 6524,
-      "char_end": 6840,
-      "text": "(1) Um einen datenschutzkonformen und sicheren Zugang zu KI-Tools für alle Angehörigen der Hochschule zu ermöglichen, stellt die HWR Berlin ein Portal zur Verfügung. Die HWR Berlin stellt sicher, dass ein sicherer und effektiver Zugang zu verschiedenen Sprachmodellen, vorzugsweise Open Source Modellen, möglich ist.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 19,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6842,
-      "char_end": 7170,
-      "text": "(2) Wenn die Eingaben und Antworten in eine datengetriebene Informationstechnologie eines externen Anbieters durch den externen Anbieter oder dessen beauftragte Subunternehmen zu Trainingszwecken des externen Anbieters weiterverwendet werden („Trainingsdaten“ im Sinne des Art. 3 KI-Verordnung), ist die Nutzung nicht gestattet.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 7170,
-      "char_end": 7234,
-      "text": "\n\n### § 6 Spezifische Bestimmungen für die Hochschulverwaltung\n\n",
+      "char_start": 6486,
+      "char_end": 6528,
+      "text": "\n\n### § 5 KI-Tools an der HWR Berlin\n\n(1) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 7234,
-      "char_end": 7321,
-      "text": "(1) KI-Tools dürfen zur Unterstützung bei der Erledigung von Aufgaben verwendet werden.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 6528,
+      "char_end": 6840,
+      "text": "Um einen datenschutzkonformen und sicheren Zugang zu KI-Tools für alle Angehörigen der Hochschule zu ermöglichen, stellt die HWR Berlin ein Portal zur Verfügung. Die HWR Berlin stellt sicher, dass ein sicherer und effektiver Zugang zu verschiedenen Sprachmodellen, vorzugsweise Open Source Modellen, möglich ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 21,
       "match_type": "exact"
     },
     {
-      "char_start": 7323,
-      "char_end": 8252,
-      "text": "(2) Die Verwendung von KI-Tools im Beschäftigungsverhältnis ist in folgenden Fällen unzulässig:\n- Bei der Beurteilung von Bewerberinnen und Bewerbern sowie der Auswahl von Personen für bestimmte Positionen, einschließlich Entscheidungen zu Beförderungen, Kündigungen und Aufgabenverteilungen.\n- Bei der Verarbeitung personenbezogener Daten zum Zweck der Beurteilungen der Persönlichkeit, der Arbeitsleistung, der physischen und psychischen Belastbarkeit, der kognitiven oder emotionalen Fähigkeiten von Menschen, der Erstellung von Prognosen über die Straffälligkeit einzelner Personen oder Personengruppen.\n- Bei der Festlegung von Arbeitsbedingungen und Vertragsmodalitäten.\n- Bei der Leistungsbewertung oder der Analyse des Arbeitsverhaltens von Beschäftigten.\n- Beim Erlass eines Verwaltungsakts, bei dem ein Ermessen oder ein Auslegungs- bzw. Beurteilungsspielraum (z. B. im Hinblick auf unbestimmte Rechtsbegriffe) besteht.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 6840,
+      "char_end": 6846,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6846,
+      "char_end": 7170,
+      "text": "Wenn die Eingaben und Antworten in eine datengetriebene Informationstechnologie eines externen Anbieters durch den externen Anbieter oder dessen beauftragte Subunternehmen zu Trainingszwecken des externen Anbieters weiterverwendet werden („Trainingsdaten“ im Sinne des Art. 3 KI-Verordnung), ist die Nutzung nicht gestattet.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 22,
       "match_type": "exact"
     },
     {
-      "char_start": 8254,
-      "char_end": 8394,
-      "text": "(3) Die Nutzung dieser Dienste ist unzulässig, wenn es um Entscheidungen über den Zugang zur HWR Berlin oder die Zulassung zum Studium geht.",
+      "char_start": 7170,
+      "char_end": 7238,
+      "text": "\n\n### § 6 Spezifische Bestimmungen für die Hochschulverwaltung\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7238,
+      "char_end": 7321,
+      "text": "KI-Tools dürfen zur Unterstützung bei der Erledigung von Aufgaben verwendet werden.",
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7321,
+      "char_end": 7327,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7327,
+      "char_end": 8252,
+      "text": "Die Verwendung von KI-Tools im Beschäftigungsverhältnis ist in folgenden Fällen unzulässig:\n- Bei der Beurteilung von Bewerberinnen und Bewerbern sowie der Auswahl von Personen für bestimmte Positionen, einschließlich Entscheidungen zu Beförderungen, Kündigungen und Aufgabenverteilungen.\n- Bei der Verarbeitung personenbezogener Daten zum Zweck der Beurteilungen der Persönlichkeit, der Arbeitsleistung, der physischen und psychischen Belastbarkeit, der kognitiven oder emotionalen Fähigkeiten von Menschen, der Erstellung von Prognosen über die Straffälligkeit einzelner Personen oder Personengruppen.\n- Bei der Festlegung von Arbeitsbedingungen und Vertragsmodalitäten.\n- Bei der Leistungsbewertung oder der Analyse des Arbeitsverhaltens von Beschäftigten.\n- Beim Erlass eines Verwaltungsakts, bei dem ein Ermessen oder ein Auslegungs- bzw. Beurteilungsspielraum (z. B. im Hinblick auf unbestimmte Rechtsbegriffe) besteht.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8252,
+      "char_end": 8258,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8258,
+      "char_end": 8394,
+      "text": "Die Nutzung dieser Dienste ist unzulässig, wenn es um Entscheidungen über den Zugang zur HWR Berlin oder die Zulassung zum Studium geht.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
@@ -802,72 +945,99 @@
       "char_start": 8420,
       "char_end": 8969,
       "text": "Gemäß Art. 4 der KI-Verordnung ist für die Nutzung von KI-Tools ein sicherer und verantwortungsvoller Umgang mit KI erforderlich. Dies erfordert ein grundlegendes Verständnis der Technologie und ihrer Auswirkungen. Die HWR Berlin verpflichtet daher alle Hochschulangehörigen, die notwendigen Kompetenzen für ihren jeweiligen Arbeitsbereich zu erwerben. Zu diesem Zweck werden verschiedene Weiterbildungs- und Beratungsangebote von den Serviceeinrichtungen der HWR Berlin oder in Zusammenarbeit mit Partnerinstitutionen entwickelt und bereitgestellt.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8969,
-      "char_end": 9034,
-      "text": "\n\n## Teil 2: Einsatz KI in Studium und Lehre\n\n### § 8 Allgemein\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 9034,
-      "char_end": 9435,
-      "text": "(1) Der Einsatz von KI ist im Kontext von Studium und Lehre zulässig, sofern die jeweils verantwortlichen Lehrenden oder die jeweiligen Fachbereiche keine anderen Vorgaben machen. Für den regelmäßigen oder gezielten Einsatz von KI-Anwendungen sollte zu Beginn der jeweiligen Lehrveranstaltung bzw. Prüfungsleistung rechtzeitig geklärt werden, in welcher Form KI als Hilfsmittel eingesetzt werden darf.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9437,
-      "char_end": 9714,
-      "text": "(2) Werden die Studierenden von Lehrenden verpflichtet, KI-Tools zu verwenden, dürfen ausschließlich die durch die HWR Berlin angebotenen Tools eingesetzt werden. Sollen andere Tools eingesetzt werden, müssen diese datenschutzkonform sein und die sonstigen Grundsätze beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
       "segment_id": 26,
       "match_type": "exact"
     },
     {
-      "char_start": 9716,
-      "char_end": 9950,
-      "text": "(3) Die Verantwortung für die Richtigkeit, Qualität und Güte einer wissenschaftlichen Arbeit, unabhängig davon, ob diese unter Einsatz von KI-Systemen als unterstützende Ressource erstellt wurde, liegt bei der sie erstellenden Person.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 27,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9950,
-      "char_end": 9984,
-      "text": "\n\n### § 9 Akademische Integrität\n\n",
+      "char_start": 8969,
+      "char_end": 9038,
+      "text": "\n\n## Teil 2: Einsatz KI in Studium und Lehre\n\n### § 8 Allgemein\n\n(1) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 9984,
-      "char_end": 10394,
-      "text": "(1) Die HWR Berlin fördert den verantwortungsvollen Einsatz von KI zur Unterstützung wissenschaftlicher Arbeit. KI-Systeme dürfen den kreativen und eigenständigen Anteil der wissenschaftlichen Leistung nicht ersetzen. Auch wissenschaftliche Arbeiten, die unter Zuhilfenahme von KI erstellt wurden, müssen den wissenschaftlichen Standards entsprechen, insbesondere in Bezug auf Transparenz und Eigenständigkeit.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 9038,
+      "char_end": 9435,
+      "text": "Der Einsatz von KI ist im Kontext von Studium und Lehre zulässig, sofern die jeweils verantwortlichen Lehrenden oder die jeweiligen Fachbereiche keine anderen Vorgaben machen. Für den regelmäßigen oder gezielten Einsatz von KI-Anwendungen sollte zu Beginn der jeweiligen Lehrveranstaltung bzw. Prüfungsleistung rechtzeitig geklärt werden, in welcher Form KI als Hilfsmittel eingesetzt werden darf.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9435,
+      "char_end": 9441,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9441,
+      "char_end": 9714,
+      "text": "Werden die Studierenden von Lehrenden verpflichtet, KI-Tools zu verwenden, dürfen ausschließlich die durch die HWR Berlin angebotenen Tools eingesetzt werden. Sollen andere Tools eingesetzt werden, müssen diese datenschutzkonform sein und die sonstigen Grundsätze beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 28,
       "match_type": "exact"
     },
     {
-      "char_start": 10396,
-      "char_end": 10656,
-      "text": "(2) Die Anwendung wissenschaftlicher Methoden ist ein wesentlicher Gegenstand des Studiums. Die HWR Berlin wirkt aktiv darauf hin, dass die Studierenden die Funktionsweisen von KI-Anwendungen verstehen, sie kritisch hinterfragen und ihre Besonderheiten kennen.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 9714,
+      "char_end": 9720,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9720,
+      "char_end": 9950,
+      "text": "Die Verantwortung für die Richtigkeit, Qualität und Güte einer wissenschaftlichen Arbeit, unabhängig davon, ob diese unter Einsatz von KI-Systemen als unterstützende Ressource erstellt wurde, liegt bei der sie erstellenden Person.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9950,
+      "char_end": 9988,
+      "text": "\n\n### § 9 Akademische Integrität\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9988,
+      "char_end": 10394,
+      "text": "Die HWR Berlin fördert den verantwortungsvollen Einsatz von KI zur Unterstützung wissenschaftlicher Arbeit. KI-Systeme dürfen den kreativen und eigenständigen Anteil der wissenschaftlichen Leistung nicht ersetzen. Auch wissenschaftliche Arbeiten, die unter Zuhilfenahme von KI erstellt wurden, müssen den wissenschaftlichen Standards entsprechen, insbesondere in Bezug auf Transparenz und Eigenständigkeit.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10394,
+      "char_end": 10400,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10400,
+      "char_end": 10656,
+      "text": "Die Anwendung wissenschaftlicher Methoden ist ein wesentlicher Gegenstand des Studiums. Die HWR Berlin wirkt aktiv darauf hin, dass die Studierenden die Funktionsweisen von KI-Anwendungen verstehen, sie kritisch hinterfragen und ihre Besonderheiten kennen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
@@ -883,36 +1053,45 @@
       "char_start": 10716,
       "char_end": 11100,
       "text": "Die Ausgestaltung der Dokumentationserfordernisse und deren Detaillierungsgrad sind fach- und prüfungsspezifisch. Die Art und Weise der Kennzeichnung und Dokumentation wird durch die jeweils prüfenden Personen festgelegt und rechtzeitig kommuniziert. Fachbereiche können als primär zuständige Stelle die Ausgestaltung der Kennzeichnungs- und Dokumentationspflicht übergeordnet regeln.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 11100,
-      "char_end": 11164,
-      "text": "\n\n### § 11 Spezifische Bestimmungen für Prüferinnen und Prüfer\n\n",
+      "char_end": 11168,
+      "text": "\n\n### § 11 Spezifische Bestimmungen für Prüferinnen und Prüfer\n\n(1) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 11164,
+      "char_start": 11168,
       "char_end": 11254,
-      "text": "(1) Die Bewertung von Prüfungsleistungen ist originäre Aufgabe der Prüferinnen und Prüfer.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 31,
+      "text": "Die Bewertung von Prüfungsleistungen ist originäre Aufgabe der Prüferinnen und Prüfer.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
-      "char_start": 11256,
+      "char_start": 11254,
+      "char_end": 11260,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11260,
       "char_end": 11447,
-      "text": "(2) Die ausschließliche Nutzung von KI-Tools für die Korrektur oder Bewertung von Prüfungsleistungen sowie zur Beurteilung der Fähigkeiten und des Wissenstands von Studierenden ist untersagt.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 32,
+      "text": "Die ausschließliche Nutzung von KI-Tools für die Korrektur oder Bewertung von Prüfungsleistungen sowie zur Beurteilung der Fähigkeiten und des Wissenstands von Studierenden ist untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
@@ -928,126 +1107,189 @@
       "char_start": 11533,
       "char_end": 12031,
       "text": "Forschende, die KI-Tools in ihrer wissenschaftlichen Arbeit einsetzen, sind verpflichtet, dies in ihren Forschungspublikationen und -berichten transparent offenzulegen. Die Nutzung von KI-Systemen ist als methodisches Werkzeug zu betrachten und muss als solches dokumentiert werden. Hierbei sind die eingesetzten KI-Modelle, deren Versionen sowie die Art und der Umfang ihrer Verwendung präzise anzugeben, um die Nachvollziehbarkeit und Reproduzierbarkeit der Forschungsergebnisse zu gewährleisten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 33,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 12031,
-      "char_end": 12099,
-      "text": "\n\n### § 13 Einsatz zur Erzeugung und Bewertung von Forschungsdaten\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 12099,
-      "char_end": 12371,
-      "text": "(1) KI ist als unterstützendes Werkzeug in der Forschung zu betrachten, das menschliche Expertise ergänzen, jedoch nicht ersetzen kann. Forschende sind angehalten, einen Hybridansatz zu verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 34,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 12373,
-      "char_end": 12798,
-      "text": "(2) Bei der Erzeugung von Forschungsdaten mittels KI ist Folgendes zu beachten:\n- Der Einsatz ist primär für Simulationen und Testdatensätze zulässig.\n- Der Anteil maschinell generierter Daten muss unmissverständlich kenntlich gemacht werden.\n- Synthetische Daten sind als solche zu kennzeichnen und von empirisch erhobenen Daten klar abzugrenzen.\n- Die Validität KI-generierter Daten muss durch reale Daten bestätigt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 12800,
-      "char_end": 12976,
-      "text": "(3) In allen Anwendungsfällen sind die transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards sicherzustellen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 12031,
+      "char_end": 12103,
+      "text": "\n\n### § 13 Einsatz zur Erzeugung und Bewertung von Forschungsdaten\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12103,
+      "char_end": 12371,
+      "text": "KI ist als unterstützendes Werkzeug in der Forschung zu betrachten, das menschliche Expertise ergänzen, jedoch nicht ersetzen kann. Forschende sind angehalten, einen Hybridansatz zu verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 12976,
-      "char_end": 13027,
-      "text": "\n\n### § 14 KI-Einsatz im Kontext von Open Science\n\n",
+      "char_start": 12371,
+      "char_end": 12377,
+      "text": "\n\n(2) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 13027,
-      "char_end": 13636,
-      "text": "(1) Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit. Forschende müssen sich der Ambivalenz zwischen proprietären KI-Systemen und dem Open Science-Prinzip der Offenheit bewusst sein, da die zugrundeliegenden Modelle und Trainingsdaten kommerzieller KI-Systeme zumeist nicht öffentlich zugänglich sind. Im Sinne der Open-Science-Prinzipien sind quelloffene und frei zugängliche KI-Modelle zu verwenden oder zumindest solche, deren Trainingsmethoden und -daten dokumentiert und nachvollziehbar sind.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 12377,
+      "char_end": 12798,
+      "text": "Bei der Erzeugung von Forschungsdaten mittels KI ist Folgendes zu beachten:\n- Der Einsatz ist primär für Simulationen und Testdatensätze zulässig.\n- Der Anteil maschinell generierter Daten muss unmissverständlich kenntlich gemacht werden.\n- Synthetische Daten sind als solche zu kennzeichnen und von empirisch erhobenen Daten klar abzugrenzen.\n- Die Validität KI-generierter Daten muss durch reale Daten bestätigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 13638,
-      "char_end": 14028,
-      "text": "(2) Zur Förderung der Reproduzierbarkeit sind die für die KI-Nutzung relevanten Prompts, Parameter und Konfigurationen zu dokumentieren und im Rahmen der Forschungsdatenpublikation zugänglich zu machen. Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 38,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14030,
-      "char_end": 14350,
-      "text": "(3) KI-Tools können gezielt zur Unterstützung der Ziele von Open Science eingesetzt werden, insbesondere zur Aufbereitung von und zum Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit. In diesem Kontext ist auf Barrierefreiheit und Verständlichkeit der KI-unterstützten Wissenschaftskommunikation zu achten.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 39,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14352,
-      "char_end": 14532,
-      "text": "(4) Die Hochschule fördert aktiv die Entwicklung und Nutzung institutionseigener oder gemeinschaftlich betriebener KI-Infrastrukturen, die den Open-Science-Grundsätzen entsprechen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 40,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 14532,
-      "char_end": 14576,
-      "text": "\n\n### § 15 Urheberschaft und Kennzeichnung\n\n",
+      "char_start": 12798,
+      "char_end": 12804,
+      "text": "\n\n(3) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 14576,
-      "char_end": 14801,
-      "text": "(1) KI-Tools können nicht als Autoren oder Co-Autoren wissenschaftlicher Publikationen genannt werden, da sie keine rechtsfähigen Entitäten darstellen und keine eigenständige wissenschaftliche Verantwortung übernehmen können.",
+      "char_start": 12804,
+      "char_end": 12976,
+      "text": "In allen Anwendungsfällen sind die transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards sicherzustellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12976,
+      "char_end": 13031,
+      "text": "\n\n### § 14 KI-Einsatz im Kontext von Open Science\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13031,
+      "char_end": 13636,
+      "text": "Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit. Forschende müssen sich der Ambivalenz zwischen proprietären KI-Systemen und dem Open Science-Prinzip der Offenheit bewusst sein, da die zugrundeliegenden Modelle und Trainingsdaten kommerzieller KI-Systeme zumeist nicht öffentlich zugänglich sind. Im Sinne der Open-Science-Prinzipien sind quelloffene und frei zugängliche KI-Modelle zu verwenden oder zumindest solche, deren Trainingsmethoden und -daten dokumentiert und nachvollziehbar sind.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13636,
+      "char_end": 13642,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13642,
+      "char_end": 14028,
+      "text": "Zur Förderung der Reproduzierbarkeit sind die für die KI-Nutzung relevanten Prompts, Parameter und Konfigurationen zu dokumentieren und im Rahmen der Forschungsdatenpublikation zugänglich zu machen. Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14028,
+      "char_end": 14034,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14034,
+      "char_end": 14350,
+      "text": "KI-Tools können gezielt zur Unterstützung der Ziele von Open Science eingesetzt werden, insbesondere zur Aufbereitung von und zum Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit. In diesem Kontext ist auf Barrierefreiheit und Verständlichkeit der KI-unterstützten Wissenschaftskommunikation zu achten.",
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 41,
       "match_type": "exact"
     },
     {
-      "char_start": 14803,
-      "char_end": 15009,
-      "text": "(2) Bei substanziellen Beiträgen generativer KI zur Textproduktion, Datenanalyse oder Hypothesenbildung ist dies in einer gesonderten Erklärung im Methodenteil oder in den Danksagungen explizit zu benennen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 14350,
+      "char_end": 14356,
+      "text": "\n\n(4) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14356,
+      "char_end": 14532,
+      "text": "Die Hochschule fördert aktiv die Entwicklung und Nutzung institutionseigener oder gemeinschaftlich betriebener KI-Infrastrukturen, die den Open-Science-Grundsätzen entsprechen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 42,
       "match_type": "exact"
     },
     {
-      "char_start": 15011,
-      "char_end": 15263,
-      "text": "(3) Werden Inhalte aus KI-Tools verwendet, die auf urheberrechtlich geschützten Werken trainiert wurden, obliegt es den Forschenden, potenzielle urheberrechtliche Implikationen zu berücksichtigen und eine angemessene Attributionspraxis sicherzustellen.",
+      "char_start": 14532,
+      "char_end": 14580,
+      "text": "\n\n### § 15 Urheberschaft und Kennzeichnung\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14580,
+      "char_end": 14801,
+      "text": "KI-Tools können nicht als Autoren oder Co-Autoren wissenschaftlicher Publikationen genannt werden, da sie keine rechtsfähigen Entitäten darstellen und keine eigenständige wissenschaftliche Verantwortung übernehmen können.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14801,
+      "char_end": 14807,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14807,
+      "char_end": 15009,
+      "text": "Bei substanziellen Beiträgen generativer KI zur Textproduktion, Datenanalyse oder Hypothesenbildung ist dies in einer gesonderten Erklärung im Methodenteil oder in den Danksagungen explizit zu benennen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15009,
+      "char_end": 15015,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15015,
+      "char_end": 15263,
+      "text": "Werden Inhalte aus KI-Tools verwendet, die auf urheberrechtlich geschützten Werken trainiert wurden, obliegt es den Forschenden, potenzielle urheberrechtliche Implikationen zu berücksichtigen und eine angemessene Attributionspraxis sicherzustellen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
@@ -1063,54 +1305,81 @@
       "char_start": 15341,
       "char_end": 15994,
       "text": "Für alle weiteren Aspekte der Forschung mit KI-Systemen gelten die Grundsätze guter wissenschaftlicher Praxis, wie sie in der \"Satzung der Hochschule für Wirtschaft und Recht Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens\" vom 16.05.2023 festgelegt sind. Dies betrifft insbesondere:\n\n- die Wahl des Forschungsdesigns,\n- rechtliche und ethische Rahmenbedingungen,\n- Nutzungsrechte an Forschungsdaten,\n- Methoden und Standards der Forschung,\n- Dokumentation von Forschungsergebnissen,\n- Herstellung öffentlichen Zugangs zu Forschungsergebnissen sowie\n- Regelungen zur Autorschaft.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 44,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
       "char_start": 15994,
-      "char_end": 16115,
-      "text": "\n\n## Teil 4: Leitprinzipien im Umgang mit Künstlicher Intelligenz und Schlussvorschriften\n\n### § 17 Ethische Grundsätze\n\n",
+      "char_end": 16119,
+      "text": "\n\n## Teil 4: Leitprinzipien im Umgang mit Künstlicher Intelligenz und Schlussvorschriften\n\n### § 17 Ethische Grundsätze\n\n(1) ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 16115,
+      "char_start": 16119,
       "char_end": 16387,
-      "text": "(1) Die jeweilige Nutzung von KI-Tools muss mit den Prinzipien der Gleichberechtigung und Chancengleichheit vereinbar sein. Jegliche Formen von Diskriminierung durch KI-Systeme sind auszuschließen. Alle Nutzerinnen und Nutzer reflektieren die Auswirkungen von KI kritisch.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 45,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16389,
-      "char_end": 16622,
-      "text": "(2) Künstliche Intelligenz kann im Hochschulkontext zur Barrierefreiheit für Hochschulangehörige mit Seh-, Hör-, motorischen oder kognitiven Einschränkungen beitragen. Die HWR Berlin fördert den rechtssicheren Einsatz dieser Systeme.",
+      "text": "Die jeweilige Nutzung von KI-Tools muss mit den Prinzipien der Gleichberechtigung und Chancengleichheit vereinbar sein. Jegliche Formen von Diskriminierung durch KI-Systeme sind auszuschließen. Alle Nutzerinnen und Nutzer reflektieren die Auswirkungen von KI kritisch.",
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 46,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 16624,
-      "char_end": 16975,
-      "text": "(3) KI-Tools lernen aus riesigen Datenmengen. Diese Daten spiegeln unsere Welt wider, inklusive gesellschaftlicher Vorurteile, u.a. bezogen auf Geschlechterrollen, ethnische Stereotype, Altersdiskriminierung. Es liegt in der Verantwortung aller Nutzerinnen und Nutzer über Biases informiert zu sein und hierzu ein kritisches Bewusstsein zu entwickeln.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 47,
       "match_type": "exact"
     },
     {
-      "char_start": 16977,
-      "char_end": 17422,
-      "text": "(4) Der Einsatz von KI in Lehre, Forschung und Verwaltung eröffnet große Chancen, ist jedoch mit erheblichem Ressourcenverbrauch verbunden. Der Betrieb und das Training großer KI-Modelle erfordern hohe Rechenleistungen, die mit entsprechendem Energie- und Wasserverbrauch sowie einem signifikanten CO₂-Fußabdruck einhergehen. Im Sinne einer nachhaltigen Hochschulpraxis soll der Einsatz KI bewusst, zielgerichtet und ressourcenschonend erfolgen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 16387,
+      "char_end": 16393,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16393,
+      "char_end": 16622,
+      "text": "Künstliche Intelligenz kann im Hochschulkontext zur Barrierefreiheit für Hochschulangehörige mit Seh-, Hör-, motorischen oder kognitiven Einschränkungen beitragen. Die HWR Berlin fördert den rechtssicheren Einsatz dieser Systeme.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16622,
+      "char_end": 16628,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16628,
+      "char_end": 16975,
+      "text": "KI-Tools lernen aus riesigen Datenmengen. Diese Daten spiegeln unsere Welt wider, inklusive gesellschaftlicher Vorurteile, u.a. bezogen auf Geschlechterrollen, ethnische Stereotype, Altersdiskriminierung. Es liegt in der Verantwortung aller Nutzerinnen und Nutzer über Biases informiert zu sein und hierzu ein kritisches Bewusstsein zu entwickeln.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16975,
+      "char_end": 16981,
+      "text": "\n\n(4) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16981,
+      "char_end": 17422,
+      "text": "Der Einsatz von KI in Lehre, Forschung und Verwaltung eröffnet große Chancen, ist jedoch mit erheblichem Ressourcenverbrauch verbunden. Der Betrieb und das Training großer KI-Modelle erfordern hohe Rechenleistungen, die mit entsprechendem Energie- und Wasserverbrauch sowie einem signifikanten CO₂-Fußabdruck einhergehen. Im Sinne einer nachhaltigen Hochschulpraxis soll der Einsatz KI bewusst, zielgerichtet und ressourcenschonend erfolgen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 50,
       "match_type": "exact"
     },
     {
@@ -1126,9 +1395,9 @@
       "char_start": 17448,
       "char_end": 17558,
       "text": "Diese Richtlinie tritt am Tage nach der Veröffentlichung im Mitteilungsblatt/Bulletin der HWR Berlin in Kraft.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 49,
+      "segment_id": 51,
       "match_type": "exact"
     },
     {
@@ -1144,9 +1413,9 @@
       "char_start": 17663,
       "char_end": 18202,
       "text": "Die Anbieter und Betreiber von KI-Systemen ergreifen Maßnahmen, um nach besten Kräften sicherzustellen, dass ihr Personal und andere Personen, die in ihrem Auftrag mit dem Betrieb und der Nutzung von KI-Systemen befasst sind, über ein ausreichendes Maß an KI-Kompetenz verfügen, wobei ihre technischen Kenntnisse, ihre Erfahrung, ihre Ausbildung und Schulung und der Kontext, in dem die KI-Systeme eingesetzt werden sollen, sowie die Personen oder Personengruppen, bei denen die KI-Systeme eingesetzt werden sollen, zu berücksichtigen sind",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
       "match_type": "exact"
     },
     {
@@ -1162,9 +1431,9 @@
       "char_start": 18208,
       "char_end": 18431,
       "text": "Bias in KI bezeichnet systematische Verzerrungen in den Entscheidungen oder Ergebnissen eines KI-Systems, die durch unausgewogene Daten, fehlerhafte Modellierung oder bestehende gesellschaftliche Vorurteile entstehen können",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 50,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {

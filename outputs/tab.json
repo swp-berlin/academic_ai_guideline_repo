@@ -3,537 +3,1623 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die TAB-Leitlinien für den Einsatz generativer KI stellen Vereinbarungen für den Einsatz von KI-Tools im gesamten Lebenszyklus wissenschaftlicher Produkte des Büros für Technikfolgen-Abschätzung beim Deutschen Bundestag dar."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Generative KI-Tools auf Basis von Large Language Models (z.B. GPT-5) oder Diffusionsmodellen (z.B. Stable Diffusion) werden seit den letzten Jahren verstärkt als Hilfsmittel in der Recherche, für das Erstellen von Texten und Bildern sowie von Audio- und Videomaterial eingesetzt.",
+      "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Mit dem Ziel, künstliche Intelligenz verantwortungsvoll, sicher und reflektiert einzusetzen, werden Anwendungsfälle skizziert und Regeln für die Verwendung von Ergebnissen, den Daten- und Urheberrechtsschutz und Nachhaltigkeit formuliert."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Im TAB verfolgen wir das Ziel, künstliche Intelligenz verantwortungsvoll, sicher und reflektiert einzusetzen.",
+      "repaired": false
     },
     {
       "id": 3,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die Leitlinien sollen der Qualitätssicherung der Arbeit des TAB bei Nutzung von generativer KI dienen und umfassen auch die vom TAB in Auftrag gegebenen Arbeiten."
+      "B_label": "scope/application of the document",
+      "text": "Daher sind in den folgenden Leitlinien genauere Vereinbarungen für die Nutzung von generativer KI im gesamten Lebenszyklus der wissenschaftlichen Produkte des TAB, von der Konzeption bis zur Ergebnisvermittlung einschließlich der institutionellen Kommunikation, formuliert.",
+      "repaired": false
     },
     {
       "id": 4,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Sie werden regelmäßig überprüft und bei Bedarf aktualisiert."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Leitlinien sollen der Qualitätssicherung der Arbeit des TAB bei Nutzung von generativer KI dienen und umfassen auch die vom TAB in Auftrag gegebenen Arbeiten (z.B. Gutachten, Übersetzungen, Grafiken).",
+      "repaired": false
     },
     {
       "id": 5,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Generative KI-Systeme bieten vielfältige Möglichkeiten zur Unterstützung wissenschaftlicher Arbeit."
+      "B_label": "scope/application of the document",
+      "text": "Diese Leitlinien sind im Rahmen weiterer, teilweise verbindlicher bzw. übergeordneter Leitlinien und rechtlicher Rahmenbedingungen, z.B. der Verordnung (EU) 2024/1689 (KI-Verordnung) zu verstehen.",
+      "repaired": false
     },
     {
       "id": 6,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Gleichzeitig werfen sie Fragen nach der Qualität, Transparenz und Verantwortung auf."
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Für die Wissenschaft gibt es bereits Handlungsempfehlungen für die Verwendung generativer KI, beispielsweise von der Europäischen Kommission (EK 2024), von der Deutschen Forschungsgemeinschaft (DFG 2023), von der Leopoldina (2023), der Helmholtz-Gemeinschaft (2024), dem KIT (2025) sowie von Verlagen und Zeitschriften (Ganjavi et al. 2024).",
+      "repaired": false
     },
     {
       "id": 7,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die vorliegenden Leitlinien definieren Rahmenbedingungen für den Einsatz generativer KI im TAB, um die Integrität und Glaubwürdigkeit der wissenschaftlichen Arbeit zu gewährleisten."
+      "B_label": "scope/application of the document",
+      "text": "Da sich diese grundsätzlich auf die Einhaltung wissenschaftlicher Standards bei Verwendung von generativer KI beziehen, sind sie auch für die Arbeit des TAB von Bedeutung.",
+      "repaired": false
     },
     {
       "id": 8,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Generative KI kann im TAB in folgenden Bereichen verwendet werden:"
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Grundprinzipien wissenschaftlicher Integrität, wie sie im Kodex der DFG (2019) formuliert sind, gelten selbstverständlich auch für das wissenschaftliche Arbeiten mit generativer KI.",
+      "repaired": false
     },
     {
       "id": 9,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Unterstützung bei der Literaturrecherche und -auswertung"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Darüber hinaus nutzen wir bevorzugt Tools, die den Ethikleitlinien für vertrauenswürdige KI der Europäischen Kommission (EK 2019) entsprechen.",
+      "repaired": false
     },
     {
       "id": 10,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Erstellung von Textentwürfen und Zusammenfassungen"
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Nutzung von KI-Tools setzt ausreichende Kompetenzen voraus (Art. 4 KI-Verordnung), daher sollten die Nutzer/innen regelmäßig Weiterbildungen absolvieren, die mindestens das Bewusstsein für Dokumentationspflichten, Datenhygiene, Datenschutz gemäß Datenschutz-Grundverordnung (DSGVO) und die Risikoabwägung bei der Anwendung generativer KI vermitteln.",
+      "repaired": false
     },
     {
       "id": 11,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Datenanalyse und Mustererkennung"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Anwendungsfälle generativer KI in der TA sind vielfältig und reichen von KI als Hilfsmittel in der Recherche bis zum Verfassen von Texten.",
+      "repaired": false
     },
     {
       "id": 12,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Übersetzung und sprachliche Überarbeitung von Texten"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Für die Arbeit des TAB sind insbesondere folgende Anwendungsfälle relevant:",
+      "repaired": false
     },
     {
       "id": 13,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "a) Transparenz"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die explorative Wissensrecherche umfasst Anwendungsfälle, bei denen generativer KI als Hilfsmittel eingesetzt wird, um Wissensfragen zu stellen, insbesondere:",
+      "repaired": false
     },
     {
       "id": 14,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Der Einsatz generativer KI muss stets offengelegt werden. Ergebnisse, die mit Hilfe von KI-Tools erstellt wurden, sind als solche zu kennzeichnen."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Recherche in wissenschaftlichen Datenbanken mittels generativer KI,",
+      "repaired": false
     },
     {
       "id": 15,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "b) Verantwortung"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Recherche mit Tools, die auf allgemein verfügbare Onlineinhalte zurückgreifen bzw. mit diesen trainiert wurden.",
+      "repaired": false
     },
     {
       "id": 16,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Verantwortung für die inhaltliche Richtigkeit und Qualität der Ergebnisse liegt bei den Autor:innen. KI-generierte Inhalte sind kritisch zu prüfen und gegebenenfalls zu korrigieren."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Qualitative Inhaltsanalysen umfassen alle Anwendungen, bei denen mittels generativer KI bestimmte Textkorpora (bzw. Datensets) analysiert werden, insbesondere:",
+      "repaired": false
     },
     {
       "id": 17,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "c) Datenschutz und Urheberrecht"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Beantwortung von Fragen zu einem Datensatz auf der Basis von Prompts,",
+      "repaired": false
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Bei der Nutzung generativer KI sind datenschutzrechtliche Bestimmungen und urheberrechtliche Vorgaben einzuhalten. Personenbezogene Daten dürfen nicht ohne Einwilligung verarbeitet werden. KI-generierte Inhalte müssen auf mögliche Urheberrechtsverletzungen geprüft werden."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "automatische Annotation und Kodierung von Texten,",
+      "repaired": false
     },
     {
       "id": 19,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "d) Nachhaltigkeit"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Identifikation von Themen im Datenset (beispielsweise durch Topic Modeling),",
+      "repaired": false
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Der Einsatz generativer KI soll ressourcenschonend erfolgen. Die ökologischen Auswirkungen der Nutzung von KI-Systemen sind zu berücksichtigen."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "automatisierte Bewertung von einzelnen Texten/Textkorpora nach vorgegebenen Kriterien.",
+      "repaired": false
     },
     {
       "id": 21,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- KI-generierte Inhalte sind stets durch menschliche Expertise zu validieren."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ideengenerierung umfasst den Einsatz von generativer KI für kreative Aufgaben wie z.B.:",
+      "repaired": false
     },
     {
       "id": 22,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Die verwendeten KI-Tools und Methoden sind zu dokumentieren."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung von Personas zur Repräsentation bestimmter Personengruppen und",
+      "repaired": false
     },
     {
       "id": 23,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- Regelmäßige Schulungen und Weiterbildungen zum Thema generative KI sind für die Mitarbeiter:innen des TAB anzubieten."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung von Zukunftsszenarien.",
+      "repaired": false
     },
     {
       "id": 24,
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- KI-generierte Inhalte dürfen nicht ohne Überprüfung und Anpassung übernommen werden."
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bei der Datenauswertung kann generative KI insbesondere bei unstrukturierten Daten Unterstützung leisten, indem z.B.",
+      "repaired": false
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Die Herkunft von KI-generierten Inhalten ist nachvollziehbar zu dokumentieren."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Themen oder Haltungen in Textkorpora analysiert werden oder",
+      "repaired": false
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Bei der Veröffentlichung von KI-generierten Inhalten ist deren Entstehung offenzulegen."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Programme für die automatisierte Auswertung von Daten erstellt oder angepasst werden.",
+      "repaired": false
     },
     {
       "id": 27,
-      "B": "B11",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Weitere Anwendungsfälle, bei denen generative KI als Hilfsmittel für das Programmieren herangezogen wird, sind insbesondere:",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Verfassen von Code inklusive Formeln/Skripte für MS Excel und andere Anwendungen sowie",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Korrigieren von erstelltem Code.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Ergebniskommunikation (Text-, Bild- und Audioproduktion) umfasst alle Anwendungen, bei denen mittels KI-Tools Inhalte auf der Basis von Prompts erstellt werden, insbesondere:",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Formulierung von neuen Texten (auch auf der Basis eigener Notizen),",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Korrektur bzw. Umformulierung von bestehenden Texten,",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung von Zusammenfassungen längerer Texte,",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Übersetzungen und Transkriptionen,",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generierung und Bearbeitung von Bild- und/oder Audiomaterial.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "text": "Die vorliegenden Leitlinien werden regelmäßig überprüft und bei Bedarf an neue Entwicklungen und Erkenntnisse angepasst."
+      "text": "Da die Entwicklung der Tools und Anwendungsfälle sehr dynamisch ist, werden diese Leitlinien regelmäßig überprüft und bei Bedarf überarbeitet.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die volle Verantwortung für die Verwendung von KI-generierten Ergebnissen liegt bei den Personen, die diese Inhalte verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Nur Menschen können Autor/innen sein.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Ergebnisse bzw. Outputs der Tools sind stets zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Insbesondere bei Inhalten, die zur Veröffentlichung bestimmt sind, und bei der Nutzung für andere wichtige Entscheidungen darf KI nicht die einzige Quelle von Informationen sein.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Dies betrifft insbesondere die Verantwortung für die Richtigkeit und Ausgewogenheit der Inhalte, die Verantwortung für Plagiate und die Einhaltung von Rechten bezüglich geistigen Eigentums.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In internen wie zu publizierenden TAB-Ergebnissen soll die Nutzung von KI-Tools in einer dem Format angemessenen Weise offengelegt werden.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies kann in der Einleitung, im Methodenkapitel, in einer Fußnote oder in einem Verzeichnis am Ende der Publikation erfolgen, die genaue Form und die Position der Offenlegung liegen in der Verantwortung der Verfasser/innen, sofern keine formellen Vorgaben für ein Format bestehen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Formulierungsbeispiel (hier sind in kursiver Schrift Beispielanwendungen genannt; weitere, hier nicht genannte sollten spezifisch für die jeweilige Arbeit hinzugefügt werden):\n\nZur Erstellung dieses Berichts wurden generative KI-Tools verwendet, und zwar [Name des Tools] für [das Formulieren, die Korrektur bzw. Umformulierung von Texten], [Name des Tools] für [die Erstellung von Zusammenfassungen], [Name des Tools] für [die Übersetzung von Texten] und [Name des Tools] für [die Generierung von Bild- und Audiomaterial]. Alle KI-generierten Inhalte wurden sorgfältig überprüft und bearbeitet, um Richtigkeit und Ausgewogenheit sicherzustellen. Die Nutzung erfolgte im Rahmen der TAB-Leitlinien für generative KI. Die endgültige Verantwortung für die inhaltliche Richtigkeit, die kritische Reflexion und die Interpretation der Ergebnisse liegt bei den Autor/innen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Diese Offenlegung betrifft nicht die Nutzung von Tools zur Überprüfung von Grammatik, Rechtschreibung oder Ähnlichem.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Bildern, Videos und Audiomaterial ist in der Quellenangabe anzugeben, dass es sich um von KI generierte bzw. manipulierte Inhalte handelt.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Übersetzungen und Transkriptionen ist ein Hinweis hinzuzufügen, dass diese maschinell oder mithilfe von KI-basierter Software erstellt wurde.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Ergebnisse bzw. Outputs der Tools sind systematisch insbesondere mit Blick auf Richtigkeit, Aktualität, Kohärenz, Ausgewogenheit, Präzision und etwaige Verzerrungen beispielsweise durch Prompting zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Outputs sind stets durch Triangulation zu prüfen.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Übersetzungen ist der übersetzte Text durch Personen zu überprüfen, die mit dem Thema und der Sprache vertraut sind.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Nutzer/innen tragen Verantwortung für die Inhalte, die dem KI-Tool zur Verfügung gestellt werden, und für potenzielle Datenschutzverletzungen.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Personenbezogene Inhalte dürfen nur in DSGVO-konforme Tools eingegeben oder hochgeladen werden.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vertrauliche Arbeitsinhalte (z.B. Zwischenergebnisse für Publikationen, unveröffentlichte Gutachten, selbst erstellte Datensets oder nicht öffentlich zugängliche Daten) speisen wir nur in Lösungen ein, die DSGVO-konform sind, Daten nicht langfristig speichern und Daten nicht für Trainingszwecke nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Urheberrechtlich geschütztes Material (Text, Bild etc.) wird nur eingegeben, wenn zuvor die Erlaubnis der/s Urheberin/s eingeholt wurde.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Tools für explorative Recherchen können unabhängig davon genutzt werden, wo und wie lange die Daten gespeichert werden, da lediglich einzelne Wissensfragen an das Tool gestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für die Veröffentlichung generierter Bildinhalte sollte nur auf Anwendungen zugegriffen werden, die mit lizenzierten Inhalten, frei lizenzierten Inhalten und Public-Domain-Inhalten trainiert sind, deren Urheberrechte abgelaufen sind.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Toolauswahl sollen Informationen zu ökologischen und sozialen Auswirkungen geprüft werden und Tools mit möglichst geringen Auswirkungen bevorzugt werden.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vor dem Einsatz generativer KI soll sorgfältig abgewogen werden, inwiefern der Einsatz generativer KI für die Aufgabe einen eindeutigen Mehrwert mitbringt und welches Tool sich zur Durchführung der Aufgabe am besten eignet.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prompts sollen sorgfältig verfasst und möglichst präzise formuliert werden, um unnötige zusätzliche Anfragen zu vermeiden.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die kontinuierliche Weiterbildung zu generativer KI soll auch deren soziale und ökologische Auswirkungen sowie Strategien für einen möglichst ressourcenschonenden Einsatz umfassen.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die ungeprüfte Übernahme von KI-generierten Texten ist ausgeschlossen.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Unveränderte Abschnitte sind im Text zu kennzeichnen und die Verwendung von KI-Tools ist wie unter „Offenlegung der Verwendung“ beschrieben anzugeben.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Tools, denen Zugriff auf persönliche, durch Passwort geschützte Dienste zur stellvertretenden Durchführung von Tätigkeiten gestattet wird, sind selbst bei Nutzung mit nicht personalisierten Daten vorerst ausgeschlossen.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Eine erneute Prüfung erfolgt, sobald die Ausgestaltung der menschlichen Aufsicht in solchen Systemen (Art. 14 KI-Verordnung) weiter fortgeschritten ist.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative KI darf nicht zur automatisierten Entscheidungsfindung etwa in der Bewertung von Gutachten, Angeboten oder Berichten herangezogen werden.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Entsprechende Bewertungsprozesse erfordern menschliches Urteilsvermögen und die Übernahme von Verantwortung.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Daher sollte generative KI nur für nicht substanzielle Aspekte solcher Bewertungs- und Beurteilungsprozesse verwendet werden, z.B. im Rahmen von ergänzenden Recherchen.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "die explorative wissensrecherche umfasst anwendungsfälle, bei denen generative ki als hilfsmittel eingesetzt wird, um wissensfragen zu stellen",
+      "repaired": true
+    },
+    {
+      "id": 69,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "# vereinbarungen zur regelmäßigen überarbeitung der leitlinien",
+      "repaired": true
+    },
+    {
+      "id": 70,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "verantwortung für die verwendung von ergebnissen",
+      "repaired": true
+    },
+    {
+      "id": 71,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "nutzungsausschluss von anwendungsfällen bzw. tools",
+      "repaired": true
     }
   ],
   "validation": {
-    "total": 27,
-    "matched": 27,
-    "unmatched_count": 0,
-    "unmatched": [],
-    "source_coverage": 0.836,
-    "uncovered_chars": 504,
-    "uncovered_gaps": 8,
+    "total": 71,
+    "matched": 70,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 13,
+        "B": "B6",
+        "matched_words": "7/18",
+        "text": "Die explorative Wissensrecherche umfasst Anwendungsfälle, bei denen generativer KI als Hilfsmittel eingesetzt wird, um Wissensfragen zu stellen, insbesondere:"
+      }
+    ],
+    "source_coverage": 0.721,
+    "uncovered_chars": 3775,
+    "uncovered_gaps": 9,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 341,
-        "length": 341,
-        "text": "# tab # source: https://publikationen.bibliothek.kit.edu/1000188419 # date: 2025-12 # category: guideline leitlinien für den einsatz generativer ki im tab büro für technikfolgen-abschätzung beim deutschen bundestag (tab) institut für technikfolgenabschätzung und systemanalyse (itas), karlsruher institut für technologie (kit) **abstract:**"
+        "char_end": 266,
+        "length": 266,
+        "text": "# tab # source: https://publikationen.bibliothek.kit.edu/1000188419/170733177 # date: 2025-12 # category: guideline büro für technikfolgen-abschätzung beim deutschen bundestag # leitlinien für den einsatz generativer ki im tab november 2025 version 1 # 1 einleitung"
       },
       {
-        "char_start": 1025,
-        "char_end": 1041,
+        "char_start": 2523,
+        "char_end": 2574,
+        "length": 51,
+        "text": ". # anwendungsfälle für die nutzung generativer ki"
+      },
+      {
+        "char_start": 2935,
+        "char_end": 2951,
         "length": 16,
-        "text": ". 1. einleitung"
+        "text": ", insbesondere:"
       },
       {
-        "char_start": 1406,
-        "char_end": 1430,
+        "char_start": 4926,
+        "char_end": 4946,
+        "length": 20,
+        "text": ". # 2 leitlinien ##"
+      },
+      {
+        "char_start": 5591,
+        "char_end": 5623,
+        "length": 32,
+        "text": ". ## offenlegung der verwendung"
+      },
+      {
+        "char_start": 7312,
+        "char_end": 7336,
         "length": 24,
-        "text": ". 2. anwendungsbereiche"
+        "text": ". ## qualitätssicherung"
       },
       {
-        "char_start": 1690,
-        "char_end": 1705,
-        "length": 15,
-        "text": "3. grundsätze"
+        "char_start": 7720,
+        "char_end": 7754,
+        "length": 34,
+        "text": ". ## datenund urheberrechtsschutz"
       },
       {
-        "char_start": 2535,
-        "char_end": 2559,
-        "length": 24,
-        "text": ". 4. qualitätssicherung"
+        "char_start": 8851,
+        "char_end": 8871,
+        "length": 20,
+        "text": ". ## nachhaltigkeit"
       },
       {
-        "char_start": 2812,
-        "char_end": 2852,
-        "length": 40,
-        "text": ". 5. umgang mit ki-generierten inhalten"
-      },
-      {
-        "char_start": 3102,
-        "char_end": 3131,
-        "length": 29,
-        "text": ". 6. regelmäßige überprüfung"
-      },
-      {
-        "char_start": 3250,
-        "char_end": 3265,
-        "length": 15,
-        "text": ". **footnotes**"
+        "char_start": 10633,
+        "char_end": 13945,
+        "length": 3312,
+        "text": ". # 3 literatur dfg (2023): stellungnahme des präsidiums der deutschen forschungsgemeinschaft (dfg) zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg. deutsche forschungsgemeinschaft https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahmepraesidiumkiaidata.pdf (6.2.2025) dfg (2019): leitlinien zur sicherung guter wissenschaftlicher praxis. stand 2024, deutsche forschungsgemeinschaft, doi: 10.5281/zenodo.14281892 ek (2019): ethikleitlinien für vertrauenswürdige ki. europäische kommission https://digitalstrategy.ec.europa.eu/de/library/ethicsguidelinestrustworthyai (4.4.2025) ek (2024): living guidelines on the responsible use of generative ai in research. europäische kommission https://researchandinnovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cbaab5-0d32050143dc_en?filename=ec_rtd_aiguidelines.pdf (6.2.2025) ganjavi, c. et al. (2024): publishers' and journals' instructions to authors on use of generative artificial intelligence in academic and scientific publishing: bibliometric analysis. in: bmj 384, art: e077192 https://doi.org/10.1136/bmj-2023-077192 helmholtz-gemeinschaft (2024): handlungsempfehlungen zum einsatz von künstlicher intelligenz. helmholtz-gemeinschaft deutscher forschungszentren https://www.helmholtz.de/assets/helmholtz_gemeinschaft/downloads/helmholtz_handlungsempfehlungen_zum_einsatz_von_ki_version_1.0.pdf (6.2.2025) kit (2025): leitlinien zum einsatz generativer ki am kit. karlsruher institut für technologie https://www.kit.edu/downloads/ki-leitliniende.pdf (14.8.2025) leopoldina (2023): leitlinien zur nutzung von großen sprachmodellen bei veröffentlichungen der leopoldina. deutsche akademie der naturforscher leopoldina - nationale akademie der wissenschaften https://www.leopoldina.org/fileadmin/redaktion/ueber_uns/2023_leitlinien_zur_nutzung_von_gro%c3%9fen_sprachmodellen.pdf (6.2.2025) footnotes 1. verordnung (eu) 2024/1689 zur festlegung harmonisierter vorschriften für künstliche intelligenz und zur änderung der verordnungen (eg) nr. 300/2008, (eu) nr. 167/2013, (eu) nr. 168/2013, (eu) 2018/858, (eu) 2018/1139 und (eu) 2019/2144 sowie der richtlinien 2014/90/eu, (eu) 2016/797 und (eu) 2020/1828 (verordnung über künstliche intelligenz) 2. verordnung (eu) 2016/679 zum schutz natürlicher personen bei der verarbeitung personenbezogener daten, zum freien datenverkehr und zur aufhebung der richtlinie 95/46/eg (datenschutz-grundverordnung) herausgeber büro für technikfolgen-abschätzung beim deutschen bundestag neue schönhauser straße 10 10178 berlin telefon: +49 30 28491-0 e-mail: buero@tabbeimbundestag.de www.tabbeimbundestag.de 2025 doi: 10.5445/ir/1000188419 das büro für technikfolgen-abschätzung beim deutschen bundestag (tab) berät das parlament und seine ausschüsse in fragen des wissenschaftlichtechnischen wandels. das tab wird seit 1990 vom institut für technikfolgenabschätzung und systemanalyse (itas) des karlsruher instituts für technologie (kit) betrieben. grundlage ist ein vertrag mit dem deutschen bundestag. hierbei kooperiert es seit september 2013 mit dem izt - institut für zukunftsstudien und technologiebewertung ggmbh sowie dem institut für innovation und technik (iit) in der vdi/vde innovation + technik gmbh"
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
-      "char_end": 345,
-      "text": "# TAB\n# Source: https://publikationen.bibliothek.kit.edu/1000188419\n# Date: 2025-12\n# Category: guideline\n\nLeitlinien für den Einsatz generativer KI im TAB\n\nBüro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB)\n\nInstitut für Technikfolgenabschätzung und Systemanalyse (ITAS), Karlsruher Institut für Technologie (KIT)\n\n**Abstract:**\n",
+      "char_end": 272,
+      "text": "# TAB\n# Source: https://publikationen.bibliothek.kit.edu/1000188419/170733177\n# Date: 2025-12\n# Category: guideline\n\nBüro für Technikfolgen-Abschätzung beim Deutschen Bundestag\n\n# Leitlinien für den Einsatz generativer KI im TAB\n\nNovember 2025\n\nVersion 1\n\n# 1 Einleitung\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 345,
-      "char_end": 569,
-      "text": "Die TAB-Leitlinien für den Einsatz generativer KI stellen Vereinbarungen für den Einsatz von KI-Tools im gesamten Lebenszyklus wissenschaftlicher Produkte des Büros für Technikfolgen-Abschätzung beim Deutschen Bundestag dar.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 272,
+      "char_end": 551,
+      "text": "Generative KI-Tools auf Basis von Large Language Models (z.B. GPT-5) oder Diffusionsmodellen (z.B. Stable Diffusion) werden seit den letzten Jahren verstärkt als Hilfsmittel in der Recherche, für das Erstellen von Texten und Bildern sowie von Audio- und Videomaterial eingesetzt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
     {
-      "char_start": 570,
-      "char_end": 808,
-      "text": "Mit dem Ziel, künstliche Intelligenz verantwortungsvoll, sicher und reflektiert einzusetzen, werden Anwendungsfälle skizziert und Regeln für die Verwendung von Ergebnissen, den Daten- und Urheberrechtsschutz und Nachhaltigkeit formuliert.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 553,
+      "char_end": 662,
+      "text": "Im TAB verfolgen wir das Ziel, künstliche Intelligenz verantwortungsvoll, sicher und reflektiert einzusetzen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 2,
       "match_type": "exact"
     },
     {
-      "char_start": 809,
-      "char_end": 971,
-      "text": "Die Leitlinien sollen der Qualitätssicherung der Arbeit des TAB bei Nutzung von generativer KI dienen und umfassen auch die vom TAB in Auftrag gegebenen Arbeiten.",
+      "char_start": 663,
+      "char_end": 936,
+      "text": "Daher sind in den folgenden Leitlinien genauere Vereinbarungen für die Nutzung von generativer KI im gesamten Lebenszyklus der wissenschaftlichen Produkte des TAB, von der Konzeption bis zur Ergebnisvermittlung einschließlich der institutionellen Kommunikation, formuliert.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
-      "char_start": 972,
-      "char_end": 1032,
-      "text": "Sie werden regelmäßig überprüft und bei Bedarf aktualisiert.",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
+      "char_start": 937,
+      "char_end": 1141,
+      "text": "Die Leitlinien sollen der Qualitätssicherung der Arbeit des TAB bei Nutzung von generativer KI dienen und umfassen auch die vom TAB in Auftrag gegebenen Arbeiten (z.B. Gutachten, Übersetzungen, Grafiken).",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 1032,
-      "char_end": 1054,
-      "text": "\n\n---\n\n1. Einleitung\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 1054,
-      "char_end": 1153,
-      "text": "Generative KI-Systeme bieten vielfältige Möglichkeiten zur Unterstützung wissenschaftlicher Arbeit.",
+      "char_start": 1143,
+      "char_end": 1339,
+      "text": "Diese Leitlinien sind im Rahmen weiterer, teilweise verbindlicher bzw. übergeordneter Leitlinien und rechtlicher Rahmenbedingungen, z.B. der Verordnung (EU) 2024/1689 (KI-Verordnung) zu verstehen.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 1154,
-      "char_end": 1238,
-      "text": "Gleichzeitig werfen sie Fragen nach der Qualität, Transparenz und Verantwortung auf.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 1340,
+      "char_end": 1681,
+      "text": "Für die Wissenschaft gibt es bereits Handlungsempfehlungen für die Verwendung generativer KI, beispielsweise von der Europäischen Kommission (EK 2024), von der Deutschen Forschungsgemeinschaft (DFG 2023), von der Leopoldina (2023), der Helmholtz-Gemeinschaft (2024), dem KIT (2025) sowie von Verlagen und Zeitschriften (Ganjavi et al. 2024).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 1239,
-      "char_end": 1420,
-      "text": "Die vorliegenden Leitlinien definieren Rahmenbedingungen für den Einsatz generativer KI im TAB, um die Integrität und Glaubwürdigkeit der wissenschaftlichen Arbeit zu gewährleisten.",
+      "char_start": 1682,
+      "char_end": 1853,
+      "text": "Da sich diese grundsätzlich auf die Einhaltung wissenschaftlicher Standards bei Verwendung von generativer KI beziehen, sind sie auch für die Arbeit des TAB von Bedeutung.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 1420,
-      "char_end": 1445,
-      "text": "\n\n2. Anwendungsbereiche\n\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 1445,
-      "char_end": 1511,
-      "text": "Generative KI kann im TAB in folgenden Bereichen verwendet werden:",
-      "B": "B2",
-      "B_label": "scope/application",
+      "char_start": 1854,
+      "char_end": 2039,
+      "text": "Die Grundprinzipien wissenschaftlicher Integrität, wie sie im Kodex der DFG (2019) formuliert sind, gelten selbstverständlich auch für das wissenschaftliche Arbeiten mit generativer KI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 1513,
-      "char_end": 1571,
-      "text": "- Unterstützung bei der Literaturrecherche und -auswertung",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2041,
+      "char_end": 2183,
+      "text": "Darüber hinaus nutzen wir bevorzugt Tools, die den Ethikleitlinien für vertrauenswürdige KI der Europäischen Kommission (EK 2019) entsprechen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
     {
-      "char_start": 1572,
-      "char_end": 1624,
-      "text": "- Erstellung von Textentwürfen und Zusammenfassungen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2184,
+      "char_end": 2537,
+      "text": "Die Nutzung von KI-Tools setzt ausreichende Kompetenzen voraus (Art. 4 KI-Verordnung), daher sollten die Nutzer/innen regelmäßig Weiterbildungen absolvieren, die mindestens das Bewusstsein für Dokumentationspflichten, Datenhygiene, Datenschutz gemäß Datenschutz-Grundverordnung (DSGVO) und die Risikoabwägung bei der Anwendung generativer KI vermitteln.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
       "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 1625,
-      "char_end": 1659,
-      "text": "- Datenanalyse und Mustererkennung",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2537,
+      "char_end": 2589,
+      "text": "\n\n# Anwendungsfälle für die Nutzung generativer KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2589,
+      "char_end": 2731,
+      "text": "Die Anwendungsfälle generativer KI in der TA sind vielfältig und reichen von KI als Hilfsmittel in der Recherche bis zum Verfassen von Texten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 11,
       "match_type": "exact"
     },
     {
-      "char_start": 1660,
-      "char_end": 1714,
-      "text": "- Übersetzung und sprachliche Überarbeitung von Texten",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2732,
+      "char_end": 2807,
+      "text": "Für die Arbeit des TAB sind insbesondere folgende Anwendungsfälle relevant:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 1714,
-      "char_end": 1731,
-      "text": "\n\n3. Grundsätze\n\n",
+      "char_start": 2807,
+      "char_end": 2811,
+      "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 1731,
-      "char_end": 1745,
-      "text": "a) Transparenz",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 2811,
+      "char_end": 2968,
+      "text": "Die explorative Wissensrecherche umfasst Anwendungsfälle, bei denen generative KI als Hilfsmittel eingesetzt wird, um Wissensfragen zu stellen, insbesondere:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 1746,
-      "char_end": 1892,
-      "text": "Der Einsatz generativer KI muss stets offengelegt werden. Ergebnisse, die mit Hilfe von KI-Tools erstellt wurden, sind als solche zu kennzeichnen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 2968,
+      "char_end": 2972,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2972,
+      "char_end": 3039,
+      "text": "Recherche in wissenschaftlichen Datenbanken mittels generativer KI,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 14,
       "match_type": "exact"
     },
     {
-      "char_start": 1894,
-      "char_end": 1910,
-      "text": "b) Verantwortung",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 3039,
+      "char_end": 3043,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3043,
+      "char_end": 3154,
+      "text": "Recherche mit Tools, die auf allgemein verfügbare Onlineinhalte zurückgreifen bzw. mit diesen trainiert wurden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 15,
       "match_type": "exact"
     },
     {
-      "char_start": 1911,
-      "char_end": 2096,
-      "text": "Die Verantwortung für die inhaltliche Richtigkeit und Qualität der Ergebnisse liegt bei den Autor:innen. KI-generierte Inhalte sind kritisch zu prüfen und gegebenenfalls zu korrigieren.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "char_start": 3154,
+      "char_end": 3158,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3158,
+      "char_end": 3317,
+      "text": "Qualitative Inhaltsanalysen umfassen alle Anwendungen, bei denen mittels generativer KI bestimmte Textkorpora (bzw. Datensets) analysiert werden, insbesondere:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 16,
       "match_type": "exact"
     },
     {
-      "char_start": 2098,
-      "char_end": 2129,
-      "text": "c) Datenschutz und Urheberrecht",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 3317,
+      "char_end": 3321,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3321,
+      "char_end": 3390,
+      "text": "Beantwortung von Fragen zu einem Datensatz auf der Basis von Prompts,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 17,
       "match_type": "exact"
     },
     {
-      "char_start": 2130,
-      "char_end": 2402,
-      "text": "Bei der Nutzung generativer KI sind datenschutzrechtliche Bestimmungen und urheberrechtliche Vorgaben einzuhalten. Personenbezogene Daten dürfen nicht ohne Einwilligung verarbeitet werden. KI-generierte Inhalte müssen auf mögliche Urheberrechtsverletzungen geprüft werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3390,
+      "char_end": 3394,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3394,
+      "char_end": 3443,
+      "text": "automatische Annotation und Kodierung von Texten,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 18,
       "match_type": "exact"
     },
     {
-      "char_start": 2404,
-      "char_end": 2421,
-      "text": "d) Nachhaltigkeit",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 3443,
+      "char_end": 3447,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3447,
+      "char_end": 3523,
+      "text": "Identifikation von Themen im Datenset (beispielsweise durch Topic Modeling),",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 19,
       "match_type": "exact"
     },
     {
-      "char_start": 2422,
-      "char_end": 2565,
-      "text": "Der Einsatz generativer KI soll ressourcenschonend erfolgen. Die ökologischen Auswirkungen der Nutzung von KI-Systemen sind zu berücksichtigen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3523,
+      "char_end": 3527,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3527,
+      "char_end": 3613,
+      "text": "automatisierte Bewertung von einzelnen Texten/Textkorpora nach vorgegebenen Kriterien.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 20,
       "match_type": "exact"
     },
     {
-      "char_start": 2565,
-      "char_end": 2590,
-      "text": "\n\n4. Qualitätssicherung\n\n",
+      "char_start": 3613,
+      "char_end": 3617,
+      "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 2590,
-      "char_end": 2667,
-      "text": "- KI-generierte Inhalte sind stets durch menschliche Expertise zu validieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3617,
+      "char_end": 3704,
+      "text": "Ideengenerierung umfasst den Einsatz von generativer KI für kreative Aufgaben wie z.B.:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 21,
       "match_type": "exact"
     },
     {
-      "char_start": 2668,
-      "char_end": 2730,
-      "text": "- Die verwendeten KI-Tools und Methoden sind zu dokumentieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 3704,
+      "char_end": 3708,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3708,
+      "char_end": 3781,
+      "text": "Erstellung von Personas zur Repräsentation bestimmter Personengruppen und",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 22,
       "match_type": "exact"
     },
     {
-      "char_start": 2731,
-      "char_end": 2850,
-      "text": "- Regelmäßige Schulungen und Weiterbildungen zum Thema generative KI sind für die Mitarbeiter:innen des TAB anzubieten.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 3781,
+      "char_end": 3785,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3785,
+      "char_end": 3818,
+      "text": "Erstellung von Zukunftsszenarien.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 23,
       "match_type": "exact"
     },
     {
-      "char_start": 2850,
-      "char_end": 2891,
-      "text": "\n\n5. Umgang mit KI-generierten Inhalten\n\n",
+      "char_start": 3818,
+      "char_end": 3822,
+      "text": "\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 2891,
-      "char_end": 2977,
-      "text": "- KI-generierte Inhalte dürfen nicht ohne Überprüfung und Anpassung übernommen werden.",
+      "char_start": 3822,
+      "char_end": 3938,
+      "text": "Bei der Datenauswertung kann generative KI insbesondere bei unstrukturierten Daten Unterstützung leisten, indem z.B.",
       "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 24,
       "match_type": "exact"
     },
     {
-      "char_start": 2978,
-      "char_end": 3058,
-      "text": "- Die Herkunft von KI-generierten Inhalten ist nachvollziehbar zu dokumentieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3059,
-      "char_end": 3148,
-      "text": "- Bei der Veröffentlichung von KI-generierten Inhalten ist deren Entstehung offenzulegen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 26,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3148,
-      "char_end": 3178,
-      "text": "\n\n6. Regelmäßige Überprüfung\n\n",
+      "char_start": 3938,
+      "char_end": 3942,
+      "text": "\n - ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 3178,
-      "char_end": 3298,
-      "text": "Die vorliegenden Leitlinien werden regelmäßig überprüft und bei Bedarf an neue Entwicklungen und Erkenntnisse angepasst.",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
+      "char_start": 3942,
+      "char_end": 4001,
+      "text": "Themen oder Haltungen in Textkorpora analysiert werden oder",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4001,
+      "char_end": 4005,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4005,
+      "char_end": 4090,
+      "text": "Programme für die automatisierte Auswertung von Daten erstellt oder angepasst werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4090,
+      "char_end": 4094,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4094,
+      "char_end": 4218,
+      "text": "Weitere Anwendungsfälle, bei denen generative KI als Hilfsmittel für das Programmieren herangezogen wird, sind insbesondere:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 27,
       "match_type": "exact"
     },
     {
-      "char_start": 3298,
-      "char_end": 3318,
-      "text": "\n\n---\n\n**FOOTNOTES**",
+      "char_start": 4218,
+      "char_end": 4222,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4222,
+      "char_end": 4308,
+      "text": "Verfassen von Code inklusive Formeln/Skripte für MS Excel und andere Anwendungen sowie",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4308,
+      "char_end": 4312,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4312,
+      "char_end": 4344,
+      "text": "Korrigieren von erstelltem Code.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4344,
+      "char_end": 4348,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4348,
+      "char_end": 4526,
+      "text": "Die Ergebniskommunikation (Text-, Bild- und Audioproduktion) umfasst alle Anwendungen, bei denen mittels KI-Tools Inhalte auf der Basis von Prompts erstellt werden, insbesondere:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4526,
+      "char_end": 4530,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4530,
+      "char_end": 4597,
+      "text": "Formulierung von neuen Texten (auch auf der Basis eigener Notizen),",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4597,
+      "char_end": 4601,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4601,
+      "char_end": 4654,
+      "text": "Korrektur bzw. Umformulierung von bestehenden Texten,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4654,
+      "char_end": 4658,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4658,
+      "char_end": 4706,
+      "text": "Erstellung von Zusammenfassungen längerer Texte,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4706,
+      "char_end": 4710,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4710,
+      "char_end": 4744,
+      "text": "Übersetzungen und Transkriptionen,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4744,
+      "char_end": 4748,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4748,
+      "char_end": 4809,
+      "text": "Generierung und Bearbeitung von Bild- und/oder Audiomaterial.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4811,
+      "char_end": 4873,
+      "text": "# Vereinbarungen zur regelmäßigen Überarbeitung der Leitlinien",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4875,
+      "char_end": 5017,
+      "text": "Da die Entwicklung der Tools und Anwendungsfälle sehr dynamisch ist, werden diese Leitlinien regelmäßig überprüft und bei Bedarf überarbeitet.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5017,
+      "char_end": 5038,
+      "text": "\n\n# 2 Leitlinien\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5038,
+      "char_end": 5086,
+      "text": "Verantwortung für die Verwendung von Ergebnissen",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5086,
+      "char_end": 5090,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5090,
+      "char_end": 5216,
+      "text": "Die volle Verantwortung für die Verwendung von KI-generierten Ergebnissen liegt bei den Personen, die diese Inhalte verwenden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5217,
+      "char_end": 5254,
+      "text": "Nur Menschen können Autor/innen sein.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5255,
+      "char_end": 5318,
+      "text": "Die Ergebnisse bzw. Outputs der Tools sind stets zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5319,
+      "char_end": 5497,
+      "text": "Insbesondere bei Inhalten, die zur Veröffentlichung bestimmt sind, und bei der Nutzung für andere wichtige Entscheidungen darf KI nicht die einzige Quelle von Informationen sein.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5497,
+      "char_end": 5500,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5500,
+      "char_end": 5689,
+      "text": "Dies betrifft insbesondere die Verantwortung für die Richtigkeit und Ausgewogenheit der Inhalte, die Verantwortung für Plagiate und die Einhaltung von Rechten bezüglich geistigen Eigentums.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5689,
+      "char_end": 5724,
+      "text": "\n\n## Offenlegung der Verwendung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5724,
+      "char_end": 5862,
+      "text": "In internen wie zu publizierenden TAB-Ergebnissen soll die Nutzung von KI-Tools in einer dem Format angemessenen Weise offengelegt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5863,
+      "char_end": 6143,
+      "text": "Dies kann in der Einleitung, im Methodenkapitel, in einer Fußnote oder in einem Verzeichnis am Ende der Publikation erfolgen, die genaue Form und die Position der Offenlegung liegen in der Verantwortung der Verfasser/innen, sofern keine formellen Vorgaben für ein Format bestehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6144,
+      "char_end": 7010,
+      "text": "Formulierungsbeispiel (hier sind in kursiver Schrift Beispielanwendungen genannt; weitere, hier nicht genannte sollten spezifisch für die jeweilige Arbeit hinzugefügt werden):\n\nZur Erstellung dieses Berichts wurden generative KI-Tools verwendet, und zwar [Name des Tools] für [das Formulieren, die Korrektur bzw. Umformulierung von Texten], [Name des Tools] für [die Erstellung von Zusammenfassungen], [Name des Tools] für [die Übersetzung von Texten] und [Name des Tools] für [die Generierung von Bild- und Audiomaterial]. Alle KI-generierten Inhalte wurden sorgfältig überprüft und bearbeitet, um Richtigkeit und Ausgewogenheit sicherzustellen. Die Nutzung erfolgte im Rahmen der TAB-Leitlinien für generative KI. Die endgültige Verantwortung für die inhaltliche Richtigkeit, die kritische Reflexion und die Interpretation der Ergebnisse liegt bei den Autor/innen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7012,
+      "char_end": 7129,
+      "text": "Diese Offenlegung betrifft nicht die Nutzung von Tools zur Überprüfung von Grammatik, Rechtschreibung oder Ähnlichem.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7129,
+      "char_end": 7133,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7133,
+      "char_end": 7275,
+      "text": "Bei Bildern, Videos und Audiomaterial ist in der Quellenangabe anzugeben, dass es sich um von KI generierte bzw. manipulierte Inhalte handelt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7275,
+      "char_end": 7278,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7278,
+      "char_end": 7423,
+      "text": "Bei Übersetzungen und Transkriptionen ist ein Hinweis hinzuzufügen, dass diese maschinell oder mithilfe von KI-basierter Software erstellt wurde.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7423,
+      "char_end": 7450,
+      "text": "\n\n## Qualitätssicherung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7450,
+      "char_end": 7664,
+      "text": "Die Ergebnisse bzw. Outputs der Tools sind systematisch insbesondere mit Blick auf Richtigkeit, Aktualität, Kohärenz, Ausgewogenheit, Präzision und etwaige Verzerrungen beispielsweise durch Prompting zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7665,
+      "char_end": 7714,
+      "text": "Outputs sind stets durch Triangulation zu prüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7714,
+      "char_end": 7717,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7717,
+      "char_end": 7837,
+      "text": "Bei Übersetzungen ist der übersetzte Text durch Personen zu überprüfen, die mit dem Thema und der Sprache vertraut sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7837,
+      "char_end": 7876,
+      "text": "\n\n## Daten- und Urheberrechtsschutz\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7876,
+      "char_end": 8018,
+      "text": "Nutzer/innen tragen Verantwortung für die Inhalte, die dem KI-Tool zur Verfügung gestellt werden, und für potenzielle Datenschutzverletzungen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8018,
+      "char_end": 8021,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8021,
+      "char_end": 8116,
+      "text": "Personenbezogene Inhalte dürfen nur in DSGVO-konforme Tools eingegeben oder hochgeladen werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8116,
+      "char_end": 8119,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8119,
+      "char_end": 8422,
+      "text": "Vertrauliche Arbeitsinhalte (z.B. Zwischenergebnisse für Publikationen, unveröffentlichte Gutachten, selbst erstellte Datensets oder nicht öffentlich zugängliche Daten) speisen wir nur in Lösungen ein, die DSGVO-konform sind, Daten nicht langfristig speichern und Daten nicht für Trainingszwecke nutzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8422,
+      "char_end": 8425,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8425,
+      "char_end": 8561,
+      "text": "Urheberrechtlich geschütztes Material (Text, Bild etc.) wird nur eingegeben, wenn zuvor die Erlaubnis der/s Urheberin/s eingeholt wurde.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8561,
+      "char_end": 8564,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8564,
+      "char_end": 8748,
+      "text": "Tools für explorative Recherchen können unabhängig davon genutzt werden, wo und wie lange die Daten gespeichert werden, da lediglich einzelne Wissensfragen an das Tool gestellt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8748,
+      "char_end": 8751,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8751,
+      "char_end": 8984,
+      "text": "Für die Veröffentlichung generierter Bildinhalte sollte nur auf Anwendungen zugegriffen werden, die mit lizenzierten Inhalten, frei lizenzierten Inhalten und Public-Domain-Inhalten trainiert sind, deren Urheberrechte abgelaufen sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8984,
+      "char_end": 9007,
+      "text": "\n\n## Nachhaltigkeit\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9007,
+      "char_end": 9168,
+      "text": "Bei der Toolauswahl sollen Informationen zu ökologischen und sozialen Auswirkungen geprüft werden und Tools mit möglichst geringen Auswirkungen bevorzugt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9168,
+      "char_end": 9171,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9171,
+      "char_end": 9394,
+      "text": "Vor dem Einsatz generativer KI soll sorgfältig abgewogen werden, inwiefern der Einsatz generativer KI für die Aufgabe einen eindeutigen Mehrwert mitbringt und welches Tool sich zur Durchführung der Aufgabe am besten eignet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9395,
+      "char_end": 9517,
+      "text": "Prompts sollen sorgfältig verfasst und möglichst präzise formuliert werden, um unnötige zusätzliche Anfragen zu vermeiden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9517,
+      "char_end": 9520,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9520,
+      "char_end": 9700,
+      "text": "Die kontinuierliche Weiterbildung zu generativer KI soll auch deren soziale und ökologische Auswirkungen sowie Strategien für einen möglichst ressourcenschonenden Einsatz umfassen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9700,
+      "char_end": 9705,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9705,
+      "char_end": 9755,
+      "text": "Nutzungsausschluss von Anwendungsfällen bzw. Tools",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9755,
+      "char_end": 9759,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9759,
+      "char_end": 9829,
+      "text": "Die ungeprüfte Übernahme von KI-generierten Texten ist ausgeschlossen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9830,
+      "char_end": 9980,
+      "text": "Unveränderte Abschnitte sind im Text zu kennzeichnen und die Verwendung von KI-Tools ist wie unter „Offenlegung der Verwendung“ beschrieben anzugeben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9980,
+      "char_end": 9983,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9983,
+      "char_end": 10205,
+      "text": "KI-Tools, denen Zugriff auf persönliche, durch Passwort geschützte Dienste zur stellvertretenden Durchführung von Tätigkeiten gestattet wird, sind selbst bei Nutzung mit nicht personalisierten Daten vorerst ausgeschlossen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10206,
+      "char_end": 10358,
+      "text": "Eine erneute Prüfung erfolgt, sobald die Ausgestaltung der menschlichen Aufsicht in solchen Systemen (Art. 14 KI-Verordnung) weiter fortgeschritten ist.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10358,
+      "char_end": 10361,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10361,
+      "char_end": 10509,
+      "text": "Generative KI darf nicht zur automatisierten Entscheidungsfindung etwa in der Bewertung von Gutachten, Angeboten oder Berichten herangezogen werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10510,
+      "char_end": 10618,
+      "text": "Entsprechende Bewertungsprozesse erfordern menschliches Urteilsvermögen und die Übernahme von Verantwortung.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10619,
+      "char_end": 10787,
+      "text": "Daher sollte generative KI nur für nicht substanzielle Aspekte solcher Bewertungs- und Beurteilungsprozesse verwendet werden, z.B. im Rahmen von ergänzenden Recherchen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10787,
+      "char_end": 14153,
+      "text": "\n\n# 3 Literatur\n\nDFG (2023): Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. Deutsche Forschungsgemeinschaft, https://www.dfg.de/resource/blob/289674/ff57cf46c5ca109cb18533b21fba49bd/230921-stellungnahme-praesidium-ki-ai-data.pdf (6.2.2025)\n\nDFG (2019): Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Stand 2024, Deutsche Forschungsgemeinschaft, DOI: 10.5281/zenodo.14281892\n\nEK (2019): Ethikleitlinien für vertrauenswürdige KI. Europäische Kommission, https://digital-strategy.ec.europa.eu/de/library/ethics-guidelines-trustworthy-ai (4.4.2025)\n\nEK (2024): Living guidelines on the Responsible Use of Generative AI in Research. Europäische Kommission, https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf (6.2.2025)\n\nGanjavi, C. et al. (2024): Publishers' and journals' instructions to authors on use of generative artificial intelligence in academic and scientific publishing: bibliometric analysis. In: BMJ 384, Art: e077192, https://doi.org/10.1136/bmj-2023-077192\n\nHelmholtz-Gemeinschaft (2024): Handlungsempfehlungen zum Einsatz von Künstlicher Intelligenz. Helmholtz-Gemeinschaft Deutscher Forschungszentren, https://www.helmholtz.de/assets/helmholtz_gemeinschaft/Downloads/Helmholtz_Handlungsempfehlungen_zum_Einsatz_von_KI_Version_1.0.pdf (6.2.2025)\n\nKIT (2025): Leitlinien zum Einsatz generativer KI am KIT. Karlsruher Institut für Technologie, https://www.kit.edu/downloads/KI-Leitlinien-de.pdf (14.8.2025)\n\nLeopoldina (2023): Leitlinien zur Nutzung von großen Sprachmodellen bei Veröffentlichungen der Leopoldina. Deutsche Akademie der Naturforscher Leopoldina – Nationale Akademie der Wissenschaften, https://www.leopoldina.org/fileadmin/redaktion/Ueber_uns/2023_Leitlinien_zur_Nutzung_von_gro%C3%9Fen_Sprachmodellen.pdf (6.2.2025)\n\n---\n\nFOOTNOTES\n\n1. Verordnung (EU) 2024/1689 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung über künstliche Intelligenz)\n2. Verordnung (EU) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)\n\n---\n\nHerausgeber\n\nBüro für Technikfolgen-Abschätzung\nbeim Deutschen Bundestag\nNeue Schönhauser Straße 10\n10178 Berlin\n\nTelefon: +49 30 28491-0\nE-Mail: buero@tab-beim-bundestag.de\nwww.tab-beim-bundestag.de\n\n2025\n\nDOI: 10.5445/IR/1000188419\n\nDas Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB) berät das Parlament und seine Ausschüsse in Fragen des wissenschaftlich-technischen Wandels. Das TAB wird seit 1990 vom Institut für Technikfolgenabschätzung und Systemanalyse (ITAS) des Karlsruher Instituts für Technologie (KIT) betrieben. Grundlage ist ein Vertrag mit dem Deutschen Bundestag. Hierbei kooperiert es seit September 2013 mit dem IZT – Institut für Zukunftsstudien und Technologiebewertung gGmbH sowie dem Institut für Innovation und Technik (iit) in der VDI/VDE Innovation + Technik GmbH.",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,

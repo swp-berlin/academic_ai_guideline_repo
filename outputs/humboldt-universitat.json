@@ -3,222 +3,337 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Generative künstliche Intelligenz wie OpenAI, ChatGPT oder Google Gemini erleben eine rasante Entwicklung und finden zunehmend für immer mehr Aufgabenbereiche Anwendung – auch im beruflichen Kontext der Beschäftigten der Humboldt-Universität zu Berlin. Obwohl Nutzen, Folgen und Risiken dieser KI-Tools erst in Teilen absehbar sind, können wir davon ausgehen, dass die Entwicklungsgeschwindigkeit im Bereich der KI in Zukunft weiter zunehmen wird.",
-      "repaired": false
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Generative künstliche Intelligenz wie OpenAI, ChatGPT oder Google Gemini erleben eine rasante Entwicklung und finden zunehmend für immer mehr Aufgabenbereiche Anwendung – auch im beruflichen Kontext der Beschäftigten der Humboldt-Universität zu Berlin."
     },
     {
       "id": 2,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Die HU fördert den Einsatz von KI in Forschung, Lehre und Verwaltung.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Obwohl Nutzen, Folgen und Risiken dieser KI-Tools erst in Teilen absehbar sind, können wir davon ausgehen, dass die Entwicklungsgeschwindigkeit im Bereich der KI in Zukunft weiter zunehmen wird."
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Wie bei jeder neuen Technologie, verfolgen wir als Universität den Anspruch, uns mit diesen Entwicklungen konstruktiv auseinanderzusetzen und sie sicher in unseren Arbeitsalltag zu integrieren.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die HU fördert den Einsatz von KI in Forschung, Lehre und Verwaltung."
     },
     {
       "id": 4,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Um dabei als Universität selbstbestimmt agieren zu können, entwickelt und hostet der Computer- und Medienservice (CMS) eigene KI-Infrastruktur auf der Basis von Open-Source-Produkten. Diese bietet den Vorteil eines niedrigschwelligen und datenschutzkonformen Einsatzes. Zur freien Nutzung für alle HU-Angehörigen steht derzeit ein Angebot von Sprachmodellen, den sogenannten Large Language Models, für unterschiedliche Zwecke zur Verfügung.",
-      "repaired": false
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Wie bei jeder neuen Technologie, verfolgen wir als Universität den Anspruch, uns mit diesen Entwicklungen konstruktiv auseinanderzusetzen und sie sicher in unseren Arbeitsalltag zu integrieren."
     },
     {
       "id": 5,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Dabei werden, anders als bei kommerziellen Produkten, weder die Eingaben der Nutzenden („Prompts“) noch die Ausgaben des Systems gespeichert oder nachgehalten.",
-      "repaired": false
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Um dabei als Universität selbstbestimmt agieren zu können, entwickelt und hostet der Computer- und Medienservice (CMS) eigene KI-Infrastruktur auf der Basis von Open-Source-Produkten."
     },
     {
       "id": 6,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Der vorliegende Leitfaden weist auf rechtliche Randbedingungen und Sicherheitsaspekte im Zusammenhang mit dem Einsatz künstlicher Intelligenz in den verschiedenen Bereichen der Universität hin.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Diese bietet den Vorteil eines niedrigschwelligen und datenschutzkonformen Einsatzes."
     },
     {
       "id": 7,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Weitere aktuelle Informationen zu den Einsatzmöglichkeiten und Nutzungsszenarien der HU-eigenen KI-Anwendungen werden auf der begleitenden Website zu diesem Leitfaden angeboten.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zur freien Nutzung für alle HU-Angehörigen steht derzeit ein Angebot von Sprachmodellen, den sogenannten Large Language Models, für unterschiedliche Zwecke zur Verfügung."
     },
     {
       "id": 8,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Er wird regelmäßig fortgeschrieben und aktualisiert, um den neuesten Erkenntnissen zum Einsatz von KI-Werkzeugen gerecht zu werden. Weiterhin soll der Leitfaden zukünftig zu einer KI-Policy ausgebaut werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei werden, anders als bei kommerziellen Produkten, weder die Eingaben der Nutzenden („Prompts“) noch die Ausgaben des Systems gespeichert oder nachgehalten."
     },
     {
       "id": 9,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Für den Bereich Studium und Lehre beachten Sie bitte auch die „Empfehlungen zur Nutzung von Künstlicher Intelligenz in Studienleistungen und Prüfungen an der HU“. Hinweise zur Zitierung von KI-generierten Inhalten, finden sich in den Empfehlungen von Berlin University Publishing.",
-      "repaired": false
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der vorliegende Leitfaden weist auf rechtliche Randbedingungen und Sicherheitsaspekte im Zusammenhang mit dem Einsatz künstlicher Intelligenz in den verschiedenen Bereichen der Universität hin."
     },
     {
       "id": 10,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Durch generative KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden und fehlerhaft sein.",
-      "repaired": false
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Weitere aktuelle Informationen zu den Einsatzmöglichkeiten und Nutzungsszenarien der HU-eigenen KI-Anwendungen werden auf der begleitenden Website zu diesem Leitfaden angeboten."
     },
     {
       "id": 11,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Es ist daher wichtig, den vom KI-Werkzeug produzierten Output jeweils kritisch auf Korrektheit zu prüfen und sich nicht ausschließlich darauf zu verlassen. Die Verantwortung für die weitere Nutzung liegt bei Ihnen. Bitte verwenden Sie die Ergebnisse generativer KI daher nur dann, wenn Sie sicher sind, deren Qualität auch selbst beurteilen zu können.",
-      "repaired": false
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Er wird regelmäßig fortgeschrieben und aktualisiert, um den neuesten Erkenntnissen zum Einsatz von KI-Werkzeugen gerecht zu werden."
     },
     {
       "id": 12,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Informationen, die mit generativen KI-Tools geteilt werden, sind ab diesem Zeitpunkt meist nicht mehr geschützt und können von den Anbietern für eigene Zwecke verwendet werden. Unter diesen Bedingungen können grundsätzliche Datenschutzanforderungen zur Verarbeitung (Zweckbindung, Art. 5 der DSGVO, Vertraulichkeit) und zur Transparenz (Umsetzung Betroffenenrechte, Art. 15, 16, 17, 18 und 21 der DSGVO, Informationspflichten nach Art. 13 und 14 DSGVO) nicht mehr ausreichend gewährleistet werden.",
-      "repaired": false
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Weiterhin soll der Leitfaden zukünftig zu einer KI-Policy ausgebaut werden."
     },
     {
       "id": 13,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Zudem nutzen viele KI-Systeme fremde IT-Systeme („Cloud“), die sich oft in Ländern außerhalb der EU befinden. Da in diesen sogenannten Drittländern teilweise deutlich niedrigere Schutzstandards gelten, kann die Verarbeitung von personenbezogenen Daten in solchen Systemen unzulässig sein. Es ist daher wichtig, darauf zu achten, dass geschützte oder sensible Informationen auf diese Weise nicht in die Hände von Unbefugten gelangen.",
-      "repaired": false
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Für den Bereich Studium und Lehre beachten Sie bitte auch die „Empfehlungen zur Nutzung von Künstlicher Intelligenz in Studienleistungen und Prüfungen an der HU“."
     },
     {
       "id": 14,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Daraus leiten sich für die Beschäftigten der HU folgende Handlungsanleitungen ab:\n\n- Schützen Sie vertrauliche Daten: Geben Sie keinesfalls vertraulich eingestufte Daten oder nicht-öffentliche Forschungsdaten in öffentlich zugängliche, generative KI-Werkzeuge ein.",
-      "repaired": false
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Hinweise zur Zitierung von KI-generierten Inhalten, finden sich in den Empfehlungen von Berlin University Publishing."
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Wenn es sich nicht um vertraulich eingestufte Daten handelt, müssen personenbezogene Daten vor der Weitergabe entfernt bzw. anonymisiert werden. Sie können diese bei Bedarf nachträglich wieder einfügen.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Durch generative KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden und fehlerhaft sein."
     },
     {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. des Datenschutz, da das System so konfiguriert ist, dass alle Datenschutzanforderungen erfüllt sind.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es ist daher wichtig, den vom KI-Werkzeug produzierten Output jeweils kritisch auf Korrektheit zu prüfen und sich nicht ausschließlich darauf zu verlassen."
     },
     {
       "id": 17,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Bei der Nutzung von KI können neben personenbezogenen Daten auch geistig geschützte Inhalte Dritten zugänglich gemacht werden. Bestehende Schutzrechte können infolgedessen unterlaufen oder noch nicht errichtete Schutzrechte (z. B. zur Patentierung vorgesehene Inhalte) ggf. durch Dritte ausgenutzt werden.",
-      "repaired": false
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für die weitere Nutzung liegt bei Ihnen."
     },
     {
       "id": 18,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Daraus leitet sich für die Beschäftigten der HU folgende Handlungsanleitung ab:\n\n- Bitte achten Sie darauf, kein geistig geschütztes Eigentum an öffentlich zugängliche KI-Werkzeuge zu übermitteln. Insbesondere bei der Verwendung generativer KI-Werkzeuge sollten Sie sicherstellen, keine bestehenden bzw. noch nicht etablierten Schutzrechte zu gefährden.",
-      "repaired": false
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Bitte verwenden Sie die Ergebnisse generativer KI daher nur dann, wenn Sie sicher sind, deren Qualität auch selbst beurteilen zu können."
     },
     {
       "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. Urheberrecht und Patentrecht, da das System so konfiguriert ist, dass keine Ihrer Eingaben an Zweite innerhalb der HU oder Dritte außerhalb der Institution abfließen können.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Informationen, die mit generativen KI-Tools geteilt werden, sind ab diesem Zeitpunkt meist nicht mehr geschützt und können von den Anbietern für eigene Zwecke verwendet werden."
     },
     {
       "id": 20,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln. Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten.",
-      "repaired": false
+      "text": "Unter diesen Bedingungen können grundsätzliche Datenschutzanforderungen zur Verarbeitung (Zweckbindung, Art. 5 der DSGVO, Vertraulichkeit) und zur Transparenz (Umsetzung Betroffenenrechte, Art. 15, 16, 17, 18 und 21 der DSGVO, Informationspflichten nach Art. 13 und 14 DSGVO) nicht mehr ausreichend gewährleistet werden."
     },
     {
       "id": 21,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Daraus ergibt sich für die Beschäftigten der HU folgende Handlungsanleitung:\n\n- Seien Sie bitte vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter. Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden. Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing. Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem nutzen viele KI-Systeme fremde IT-Systeme („Cloud“), die sich oft in Ländern außerhalb der EU befinden. Da in diesen sogenannten Drittländern teilweise deutlich niedrigere Schutzstandards gelten, kann die Verarbeitung von personenbezogenen Daten in solchen Systemen unzulässig sein."
     },
     {
       "id": 22,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Befolgen Sie weiterhin bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI. Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an die Benutzerberatung des CMS:\n cms-benutzerberatung@hu-berlin.de",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es ist daher wichtig, darauf zu achten, dass geschützte oder sensible Informationen auf diese Weise nicht in die Hände von Unbefugten gelangen."
     },
     {
       "id": 23,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Unter Beschaffungen sollen an dieser Stelle auch Cloud-Lösungen, Abonnements, Subskriptionen und Verträge für den Bezug von IT-Leistungen gefasst werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daraus leiten sich für die Beschäftigten der HU folgende Handlungsanleitungen ab:"
     },
     {
       "id": 24,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Der Markt für generative KI-Tools ist sehr unübersichtlich und bei vielen Anbietern ist die weitere Verwendung der eingegebenen Daten nicht klar ersichtlich.",
-      "repaired": false
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Schützen Sie vertrauliche Daten: Geben Sie keinesfalls vertraulich eingestufte Daten oder nicht-öffentliche Forschungsdaten in öffentlich zugängliche, generative KI-Werkzeuge ein."
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Bevor Sie generative KI-Tools verwenden, sollten Sie diese auf Risiken in Bezug auf Datenschutz und IT-Sicherheit prüfen. Wenn Sie unsicher sind, empfehlen wir Ihnen, auf eine Nutzung zu verzichten oder sich an etablierten Tools zu orientieren.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Wenn es sich nicht um vertraulich eingestufte Daten handelt, müssen personenbezogene Daten vor der Weitergabe entfernt bzw. anonymisiert werden. Sie können diese bei Bedarf nachträglich wieder einfügen."
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Erwägen Sie, vor der Beschaffung von KI-Tools eine Vorabprüfung vorzunehmen bzw. vornehmen zu lassen. So können Sie sicherstellen, dass die Software für die beabsichtigten Anwendungsbereiche eingesetzt werden kann sowie unter welchen fachlichen und rechtlichen Bedingungen dies möglich ist. Die Vorabprüfung kann gemeinsam mit dem CMS, den IT-Sicherheitsbeauftragten und Datenschutzbeauftragten durchgeführt werden.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. des Datenschutz, da das System so konfiguriert ist, dass alle Datenschutzanforderungen erfüllt sind."
     },
     {
       "id": 27,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wenn mit der vorgesehenen KI-Software personenbezogene Daten verarbeitet werden sollen, können mit einer Vorprüfung grundlegende Risiken schon vor der Entscheidung zur Beschaffung identifiziert und bearbeitet werden. Dennoch müssen unter Umständen zusätzlich zur Vorprüfung die datenschutzrechtliche Zulässigkeit des zu beschaffenden Tools für den konkreten Einsatz geprüft und durch den oder die Datenschutzbeauftragte:n genehmigt werden.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Nutzung von KI können neben personenbezogenen Daten auch geistig geschützte Inhalte Dritten zugänglich gemacht werden."
     },
     {
       "id": 28,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "[1] Unter Künstlicher Intelligenz (KI) werden Algorithmen und Tools verstanden, mit denen menschliche Fähigkeiten und menschliches Verhalten nachgeahmt werden können. Generative KI bezieht sich in diesem Sinne auf den Einsatz von KI für die Analyse von Mustern und Strukturen in vorhandenen Daten, um neue Inhalte verschiedener Formate wie z. B. Text, Musik, Computercode, Bilder oder Videos zu erzeugen.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bestehende Schutzrechte können infolgedessen unterlaufen oder noch nicht errichtete Schutzrechte (z. B. zur Patentierung vorgesehene Inhalte) ggf. durch Dritte ausgenutzt werden."
     },
     {
       "id": 29,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "nutzung der durch ki erzeugten ergebnisse",
-      "repaired": true
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daraus leitet sich für die Beschäftigten der HU folgende Handlungsanleitung ab:"
+    },
+    {
+      "id": 30,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Bitte achten Sie darauf, kein geistig geschütztes Eigentum an öffentlich zugängliche KI-Werkzeuge zu übermitteln."
+    },
+    {
+      "id": 31,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Insbesondere bei der Verwendung generativer KI-Werkzeuge sollten Sie sicherstellen, keine bestehenden bzw. noch nicht etablierten Schutzrechte zu gefährden."
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. Urheberrecht und Patentrecht, da das System so konfiguriert ist, dass keine Ihrer Eingaben an Zweite innerhalb der HU oder Dritte außerhalb der Institution abfließen können."
+    },
+    {
+      "id": 33,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln."
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten."
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daraus ergibt sich für die Beschäftigten der HU folgende Handlungsanleitung:"
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Seien Sie bitte vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter."
+    },
+    {
+      "id": 37,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden."
+    },
+    {
+      "id": 38,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing."
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen."
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Befolgen Sie weiterhin bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI."
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an die Benutzerberatung des CMS:\ncms-benutzerberatung@hu-berlin.de"
+    },
+    {
+      "id": 42,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Unter Beschaffungen sollen an dieser Stelle auch Cloud-Lösungen, Abonnements, Subskriptionen und Verträge für den Bezug von IT-Leistungen gefasst werden."
+    },
+    {
+      "id": 43,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Der Markt für generative KI-Tools ist sehr unübersichtlich und bei vielen Anbietern ist die weitere Verwendung der eingegebenen Daten nicht klar ersichtlich."
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bevor Sie generative KI-Tools verwenden, sollten Sie diese auf Risiken in Bezug auf Datenschutz und IT-Sicherheit prüfen."
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wenn Sie unsicher sind, empfehlen wir Ihnen, auf eine Nutzung zu verzichten oder sich an etablierten Tools zu orientieren."
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Erwägen Sie, vor der Beschaffung von KI-Tools eine Vorabprüfung vorzunehmen bzw. vornehmen zu lassen."
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "So können Sie sicherstellen, dass die Software für die beabsichtigten Anwendungsbereiche eingesetzt werden kann sowie unter welchen fachlichen und rechtlichen Bedingungen dies möglich ist."
+    },
+    {
+      "id": 48,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Vorabprüfung kann gemeinsam mit dem CMS, den IT-Sicherheitsbeauftragten und Datenschutzbeauftragten durchgeführt werden."
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn mit der vorgesehenen KI-Software personenbezogene Daten verarbeitet werden sollen, können mit einer Vorprüfung grundlegende Risiken schon vor der Entscheidung zur Beschaffung identifiziert und bearbeitet werden."
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dennoch müssen unter Umständen zusätzlich zur Vorprüfung die datenschutzrechtliche Zulässigkeit des zu beschaffenden Tools für den konkreten Einsatz geprüft und durch den oder die Datenschutzbeauftragte:n genehmigt werden."
+    },
+    {
+      "id": 51,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "[1] Unter Künstlicher Intelligenz (KI) werden Algorithmen und Tools verstanden, mit denen menschliche Fähigkeiten und menschliches Verhalten nachgeahmt werden können."
+    },
+    {
+      "id": 52,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative KI bezieht sich in diesem Sinne auf den Einsatz von KI für die Analyse von Mustern und Strukturen in vorhandenen Daten, um neue Inhalte verschiedener Formate wie z. B. Text, Musik, Computercode, Bilder oder Videos zu erzeugen."
     }
   ],
   "validation": {
-    "total": 29,
-    "matched": 29,
+    "total": 52,
+    "matched": 52,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.96,
-    "uncovered_chars": 290,
-    "uncovered_gaps": 6,
+    "source_coverage": 0.95,
+    "uncovered_chars": 337,
+    "uncovered_gaps": 7,
     "uncovered": [
       {
         "char_start": 0,
         "char_end": 167,
         "length": 167,
         "text": "# humboldt universität # source: https://ki.cms.huberlin.de/de/kipolicyanderhu # date: none # category: guideline ki@hu künstliche intelligenz an der hu ## einführung"
+      },
+      {
+        "char_start": 2337,
+        "char_end": 2384,
+        "length": 47,
+        "text": ". ## nutzung der durch ki erzeugten ergebnisse"
       },
       {
         "char_start": 2857,
@@ -264,119 +379,173 @@
     },
     {
       "char_start": 176,
-      "char_end": 623,
-      "text": "Generative künstliche Intelligenz wie OpenAI, ChatGPT oder Google Gemini erleben eine rasante Entwicklung und finden zunehmend für immer mehr Aufgabenbereiche Anwendung – auch im beruflichen Kontext der Beschäftigten der Humboldt-Universität zu Berlin. Obwohl Nutzen, Folgen und Risiken dieser KI-Tools erst in Teilen absehbar sind, können wir davon ausgehen, dass die Entwicklungsgeschwindigkeit im Bereich der KI in Zukunft weiter zunehmen wird.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_end": 428,
+      "text": "Generative künstliche Intelligenz wie OpenAI, ChatGPT oder Google Gemini erleben eine rasante Entwicklung und finden zunehmend für immer mehr Aufgabenbereiche Anwendung – auch im beruflichen Kontext der Beschäftigten der Humboldt-Universität zu Berlin.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 429,
+      "char_end": 623,
+      "text": "Obwohl Nutzen, Folgen und Risiken dieser KI-Tools erst in Teilen absehbar sind, können wir davon ausgehen, dass die Entwicklungsgeschwindigkeit im Bereich der KI in Zukunft weiter zunehmen wird.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 625,
       "char_end": 694,
       "text": "Die HU fördert den Einsatz von KI in Forschung, Lehre und Verwaltung.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 2,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 695,
       "char_end": 888,
       "text": "Wie bei jeder neuen Technologie, verfolgen wir als Universität den Anspruch, uns mit diesen Entwicklungen konstruktiv auseinanderzusetzen und sie sicher in unseren Arbeitsalltag zu integrieren.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
       "char_start": 889,
+      "char_end": 1072,
+      "text": "Um dabei als Universität selbstbestimmt agieren zu können, entwickelt und hostet der Computer- und Medienservice (CMS) eigene KI-Infrastruktur auf der Basis von Open-Source-Produkten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1073,
+      "char_end": 1158,
+      "text": "Diese bietet den Vorteil eines niedrigschwelligen und datenschutzkonformen Einsatzes.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1159,
       "char_end": 1329,
-      "text": "Um dabei als Universität selbstbestimmt agieren zu können, entwickelt und hostet der Computer- und Medienservice (CMS) eigene KI-Infrastruktur auf der Basis von Open-Source-Produkten. Diese bietet den Vorteil eines niedrigschwelligen und datenschutzkonformen Einsatzes. Zur freien Nutzung für alle HU-Angehörigen steht derzeit ein Angebot von Sprachmodellen, den sogenannten Large Language Models, für unterschiedliche Zwecke zur Verfügung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 4,
+      "text": "Zur freien Nutzung für alle HU-Angehörigen steht derzeit ein Angebot von Sprachmodellen, den sogenannten Large Language Models, für unterschiedliche Zwecke zur Verfügung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 1331,
       "char_end": 1490,
       "text": "Dabei werden, anders als bei kommerziellen Produkten, weder die Eingaben der Nutzenden („Prompts“) noch die Ausgaben des Systems gespeichert oder nachgehalten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 5,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 1492,
       "char_end": 1685,
       "text": "Der vorliegende Leitfaden weist auf rechtliche Randbedingungen und Sicherheitsaspekte im Zusammenhang mit dem Einsatz künstlicher Intelligenz in den verschiedenen Bereichen der Universität hin.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 9,
       "match_type": "exact"
     },
     {
       "char_start": 1686,
       "char_end": 1863,
       "text": "Weitere aktuelle Informationen zu den Einsatzmöglichkeiten und Nutzungsszenarien der HU-eigenen KI-Anwendungen werden auf der begleitenden Website zu diesem Leitfaden angeboten.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 7,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
       "char_start": 1864,
-      "char_end": 2071,
-      "text": "Er wird regelmäßig fortgeschrieben und aktualisiert, um den neuesten Erkenntnissen zum Einsatz von KI-Werkzeugen gerecht zu werden. Weiterhin soll der Leitfaden zukünftig zu einer KI-Policy ausgebaut werden.",
-      "B": "B11",
+      "char_end": 1995,
+      "text": "Er wird regelmäßig fortgeschrieben und aktualisiert, um den neuesten Erkenntnissen zum Einsatz von KI-Werkzeugen gerecht zu werden.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 8,
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1996,
+      "char_end": 2071,
+      "text": "Weiterhin soll der Leitfaden zukünftig zu einer KI-Policy ausgebaut werden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 2073,
+      "char_end": 2235,
+      "text": "Für den Bereich Studium und Lehre beachten Sie bitte auch die „Empfehlungen zur Nutzung von Künstlicher Intelligenz in Studienleistungen und Prüfungen an der HU“.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2236,
       "char_end": 2353,
-      "text": "Für den Bereich Studium und Lehre beachten Sie bitte auch die „Empfehlungen zur Nutzung von Künstlicher Intelligenz in Studienleistungen und Prüfungen an der HU“. Hinweise zur Zitierung von KI-generierten Inhalten, finden sich in den Empfehlungen von Berlin University Publishing.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 9,
+      "text": "Hinweise zur Zitierung von KI-generierten Inhalten, finden sich in den Empfehlungen von Berlin University Publishing.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
       "char_start": 2353,
-      "char_end": 2358,
-      "text": "\n\n## ",
+      "char_end": 2401,
+      "text": "\n\n## Nutzung der durch KI erzeugten Ergebnisse\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 2358,
-      "char_end": 2399,
-      "text": "Nutzung der durch KI erzeugten Ergebnisse",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 29,
-      "match_type": "exact"
-    },
-    {
       "char_start": 2401,
       "char_end": 2523,
       "text": "Durch generative KI erzeugte Ergebnisse können sehr genau und präzise, aber auch völlig frei erfunden und fehlerhaft sein.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 10,
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 2524,
+      "char_end": 2679,
+      "text": "Es ist daher wichtig, den vom KI-Werkzeug produzierten Output jeweils kritisch auf Korrektheit zu prüfen und sich nicht ausschließlich darauf zu verlassen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2680,
+      "char_end": 2738,
+      "text": "Die Verantwortung für die weitere Nutzung liegt bei Ihnen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2739,
       "char_end": 2875,
-      "text": "Es ist daher wichtig, den vom KI-Werkzeug produzierten Output jeweils kritisch auf Korrektheit zu prüfen und sich nicht ausschließlich darauf zu verlassen. Die Verantwortung für die weitere Nutzung liegt bei Ihnen. Bitte verwenden Sie die Ergebnisse generativer KI daher nur dann, wenn Sie sicher sind, deren Qualität auch selbst beurteilen zu können.",
+      "text": "Bitte verwenden Sie die Ergebnisse generativer KI daher nur dann, wenn Sie sicher sind, deren Qualität auch selbst beurteilen zu können.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 11,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
@@ -390,47 +559,74 @@
     },
     {
       "char_start": 2913,
-      "char_end": 3410,
-      "text": "Informationen, die mit generativen KI-Tools geteilt werden, sind ab diesem Zeitpunkt meist nicht mehr geschützt und können von den Anbietern für eigene Zwecke verwendet werden. Unter diesen Bedingungen können grundsätzliche Datenschutzanforderungen zur Verarbeitung (Zweckbindung, Art. 5 der DSGVO, Vertraulichkeit) und zur Transparenz (Umsetzung Betroffenenrechte, Art. 15, 16, 17, 18 und 21 der DSGVO, Informationspflichten nach Art. 13 und 14 DSGVO) nicht mehr ausreichend gewährleistet werden.",
-      "B": "B9",
+      "char_end": 3089,
+      "text": "Informationen, die mit generativen KI-Tools geteilt werden, sind ab diesem Zeitpunkt meist nicht mehr geschützt und können von den Anbietern für eigene Zwecke verwendet werden.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 12,
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3090,
+      "char_end": 3410,
+      "text": "Unter diesen Bedingungen können grundsätzliche Datenschutzanforderungen zur Verarbeitung (Zweckbindung, Art. 5 der DSGVO, Vertraulichkeit) und zur Transparenz (Umsetzung Betroffenenrechte, Art. 15, 16, 17, 18 und 21 der DSGVO, Informationspflichten nach Art. 13 und 14 DSGVO) nicht mehr ausreichend gewährleistet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
       "char_start": 3412,
-      "char_end": 3844,
-      "text": "Zudem nutzen viele KI-Systeme fremde IT-Systeme („Cloud“), die sich oft in Ländern außerhalb der EU befinden. Da in diesen sogenannten Drittländern teilweise deutlich niedrigere Schutzstandards gelten, kann die Verarbeitung von personenbezogenen Daten in solchen Systemen unzulässig sein. Es ist daher wichtig, darauf zu achten, dass geschützte oder sensible Informationen auf diese Weise nicht in die Hände von Unbefugten gelangen.",
-      "B": "B9",
+      "char_end": 3700,
+      "text": "Zudem nutzen viele KI-Systeme fremde IT-Systeme („Cloud“), die sich oft in Ländern außerhalb der EU befinden. Da in diesen sogenannten Drittländern teilweise deutlich niedrigere Schutzstandards gelten, kann die Verarbeitung von personenbezogenen Daten in solchen Systemen unzulässig sein.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 13,
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3701,
+      "char_end": 3844,
+      "text": "Es ist daher wichtig, darauf zu achten, dass geschützte oder sensible Informationen auf diese Weise nicht in die Hände von Unbefugten gelangen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
       "char_start": 3846,
+      "char_end": 3927,
+      "text": "Daraus leiten sich für die Beschäftigten der HU folgende Handlungsanleitungen ab:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3929,
       "char_end": 4110,
-      "text": "Daraus leiten sich für die Beschäftigten der HU folgende Handlungsanleitungen ab:\n\n- Schützen Sie vertrauliche Daten: Geben Sie keinesfalls vertraulich eingestufte Daten oder nicht-öffentliche Forschungsdaten in öffentlich zugängliche, generative KI-Werkzeuge ein.",
+      "text": "- Schützen Sie vertrauliche Daten: Geben Sie keinesfalls vertraulich eingestufte Daten oder nicht-öffentliche Forschungsdaten in öffentlich zugängliche, generative KI-Werkzeuge ein.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 14,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 4112,
       "char_end": 4316,
       "text": "- Wenn es sich nicht um vertraulich eingestufte Daten handelt, müssen personenbezogene Daten vor der Weitergabe entfernt bzw. anonymisiert werden. Sie können diese bei Bedarf nachträglich wieder einfügen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 4318,
       "char_end": 4523,
       "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. des Datenschutz, da das System so konfiguriert ist, dass alle Datenschutzanforderungen erfüllt sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
@@ -444,29 +640,56 @@
     },
     {
       "char_start": 4558,
-      "char_end": 4863,
-      "text": "Bei der Nutzung von KI können neben personenbezogenen Daten auch geistig geschützte Inhalte Dritten zugänglich gemacht werden. Bestehende Schutzrechte können infolgedessen unterlaufen oder noch nicht errichtete Schutzrechte (z. B. zur Patentierung vorgesehene Inhalte) ggf. durch Dritte ausgenutzt werden.",
-      "B": "B9",
+      "char_end": 4684,
+      "text": "Bei der Nutzung von KI können neben personenbezogenen Daten auch geistig geschützte Inhalte Dritten zugänglich gemacht werden.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 17,
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4685,
+      "char_end": 4863,
+      "text": "Bestehende Schutzrechte können infolgedessen unterlaufen oder noch nicht errichtete Schutzrechte (z. B. zur Patentierung vorgesehene Inhalte) ggf. durch Dritte ausgenutzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 4865,
-      "char_end": 5218,
-      "text": "Daraus leitet sich für die Beschäftigten der HU folgende Handlungsanleitung ab:\n\n- Bitte achten Sie darauf, kein geistig geschütztes Eigentum an öffentlich zugängliche KI-Werkzeuge zu übermitteln. Insbesondere bei der Verwendung generativer KI-Werkzeuge sollten Sie sicherstellen, keine bestehenden bzw. noch nicht etablierten Schutzrechte zu gefährden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 18,
+      "char_end": 4944,
+      "text": "Daraus leitet sich für die Beschäftigten der HU folgende Handlungsanleitung ab:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
       "match_type": "exact"
+    },
+    {
+      "char_start": 4946,
+      "char_end": 5061,
+      "text": "- Bitte achten Sie darauf, kein geistig geschütztes Eigentum an öffentlich zugängliche KI-Werkzeuge zu übermitteln.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5061,
+      "char_end": 5220,
+      "text": " Insbesondere bei der Verwendung generativer KI-Werkzeuge sollten Sie sicherstellen, keine bestehenden bzw. noch nicht etablierten Schutzrechte zu gefährden.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 5220,
       "char_end": 5498,
       "text": "- Bei der Nutzung der HU-internen KI-Angebote des CMS entfallen die oben genannten Einschränkungen bzgl. Urheberrecht und Patentrecht, da das System so konfiguriert ist, dass keine Ihrer Eingaben an Zweite innerhalb der HU oder Dritte außerhalb der Institution abfließen können.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
@@ -480,35 +703,80 @@
     },
     {
       "char_start": 5518,
-      "char_end": 5721,
-      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln. Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten.",
-      "B": "B9",
+      "char_end": 5636,
+      "text": "Generative KI erleichtert es böswilligen Akteuren, ausgeklügelte Täuschungen in weitaus größerem Umfang zu entwickeln.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 20,
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5637,
+      "char_end": 5721,
+      "text": "Zukünftig sind daher neuartige und kreative Cyberkriminalitätskampagnen zu erwarten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
       "char_start": 5723,
-      "char_end": 6399,
-      "text": "Daraus ergibt sich für die Beschäftigten der HU folgende Handlungsanleitung:\n\n- Seien Sie bitte vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter. Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden. Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing. Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 21,
+      "char_end": 5799,
+      "text": "Daraus ergibt sich für die Beschäftigten der HU folgende Handlungsanleitung:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
       "match_type": "exact"
+    },
+    {
+      "char_start": 5801,
+      "char_end": 5940,
+      "text": "- Seien Sie bitte vorsichtig bei KI-gestütztem Phishing. Leider wird E-Mail-Phishing mit den verwendeten Formulierungen immer raffinierter.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5941,
+      "char_end": 6082,
+      "text": "Auch menschliche Stimmen können täuschend echt imitiert werden und sind am Telefon kaum mehr von der Sprache eines Menschen zu unterscheiden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6083,
+      "char_end": 6185,
+      "text": "Zudem eröffnen KI-basierte Bild- und Videomanipulationen weitere Möglichkeiten für kreatives Phishing.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6185,
+      "char_end": 6401,
+      "text": " Bitte prüfen Sie eingehende Mails oder sonstige Nachrichten sorgfältig, ehe Sie darauf antworten. Dies gilt insbesondere dann, wenn vertrauliche oder potentiell gefährdende Informationen übermittelt werden sollen.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 6401,
-      "char_end": 6700,
-      "text": "- Befolgen Sie weiterhin bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI. Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an die Benutzerberatung des CMS:\n cms-benutzerberatung@hu-berlin.de",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 22,
+      "char_end": 6542,
+      "text": "- Befolgen Sie weiterhin bewährte Sicherheitspraktiken und befassen Sie sich mit den Möglichkeiten der Cyberkriminalität durch generative KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
       "match_type": "exact"
     },
     {
-      "char_start": 6700,
+      "char_start": 6542,
       "char_end": 6720,
-      "text": "\n\n## Beschaffungen\n\n",
+      "text": " Wenn Sie unsicher sind oder verdächtige Nachrichten melden möchten, wenden Sie sich bitte an die Benutzerberatung des CMS:\n cms-benutzerberatung@hu-berlin.de\n\n## Beschaffungen\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -519,44 +787,80 @@
       "char_end": 6873,
       "text": "Unter Beschaffungen sollen an dieser Stelle auch Cloud-Lösungen, Abonnements, Subskriptionen und Verträge für den Bezug von IT-Leistungen gefasst werden.",
       "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 23,
+      "B_label": "other definitions/terminology",
+      "segment_id": 42,
       "match_type": "exact"
     },
     {
       "char_start": 6874,
       "char_end": 7031,
       "text": "Der Markt für generative KI-Tools ist sehr unübersichtlich und bei vielen Anbietern ist die weitere Verwendung der eingegebenen Daten nicht klar ersichtlich.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 24,
+      "segment_id": 43,
       "match_type": "exact"
     },
     {
       "char_start": 7033,
+      "char_end": 7154,
+      "text": "Bevor Sie generative KI-Tools verwenden, sollten Sie diese auf Risiken in Bezug auf Datenschutz und IT-Sicherheit prüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7155,
       "char_end": 7277,
-      "text": "Bevor Sie generative KI-Tools verwenden, sollten Sie diese auf Risiken in Bezug auf Datenschutz und IT-Sicherheit prüfen. Wenn Sie unsicher sind, empfehlen wir Ihnen, auf eine Nutzung zu verzichten oder sich an etablierten Tools zu orientieren.",
+      "text": "Wenn Sie unsicher sind, empfehlen wir Ihnen, auf eine Nutzung zu verzichten oder sich an etablierten Tools zu orientieren.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 25,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
       "char_start": 7279,
+      "char_end": 7380,
+      "text": "Erwägen Sie, vor der Beschaffung von KI-Tools eine Vorabprüfung vorzunehmen bzw. vornehmen zu lassen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7381,
+      "char_end": 7569,
+      "text": "So können Sie sicherstellen, dass die Software für die beabsichtigten Anwendungsbereiche eingesetzt werden kann sowie unter welchen fachlichen und rechtlichen Bedingungen dies möglich ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7570,
       "char_end": 7694,
-      "text": "Erwägen Sie, vor der Beschaffung von KI-Tools eine Vorabprüfung vorzunehmen bzw. vornehmen zu lassen. So können Sie sicherstellen, dass die Software für die beabsichtigten Anwendungsbereiche eingesetzt werden kann sowie unter welchen fachlichen und rechtlichen Bedingungen dies möglich ist. Die Vorabprüfung kann gemeinsam mit dem CMS, den IT-Sicherheitsbeauftragten und Datenschutzbeauftragten durchgeführt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 26,
+      "text": "Die Vorabprüfung kann gemeinsam mit dem CMS, den IT-Sicherheitsbeauftragten und Datenschutzbeauftragten durchgeführt werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
       "char_start": 7696,
+      "char_end": 7912,
+      "text": "Wenn mit der vorgesehenen KI-Software personenbezogene Daten verarbeitet werden sollen, können mit einer Vorprüfung grundlegende Risiken schon vor der Entscheidung zur Beschaffung identifiziert und bearbeitet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7913,
       "char_end": 8135,
-      "text": "Wenn mit der vorgesehenen KI-Software personenbezogene Daten verarbeitet werden sollen, können mit einer Vorprüfung grundlegende Risiken schon vor der Entscheidung zur Beschaffung identifiziert und bearbeitet werden. Dennoch müssen unter Umständen zusätzlich zur Vorprüfung die datenschutzrechtliche Zulässigkeit des zu beschaffenden Tools für den konkreten Einsatz geprüft und durch den oder die Datenschutzbeauftragte:n genehmigt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 27,
+      "text": "Dennoch müssen unter Umständen zusätzlich zur Vorprüfung die datenschutzrechtliche Zulässigkeit des zu beschaffenden Tools für den konkreten Einsatz geprüft und durch den oder die Datenschutzbeauftragte:n genehmigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
       "match_type": "exact"
     },
     {
@@ -570,11 +874,20 @@
     },
     {
       "char_start": 8151,
-      "char_end": 8555,
-      "text": "[1] Unter Künstlicher Intelligenz (KI) werden Algorithmen und Tools verstanden, mit denen menschliche Fähigkeiten und menschliches Verhalten nachgeahmt werden können. Generative KI bezieht sich in diesem Sinne auf den Einsatz von KI für die Analyse von Mustern und Strukturen in vorhandenen Daten, um neue Inhalte verschiedener Formate wie z. B. Text, Musik, Computercode, Bilder oder Videos zu erzeugen.",
+      "char_end": 8317,
+      "text": "[1] Unter Künstlicher Intelligenz (KI) werden Algorithmen und Tools verstanden, mit denen menschliche Fähigkeiten und menschliches Verhalten nachgeahmt werden können.",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 28,
+      "B_label": "definition of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8318,
+      "char_end": 8555,
+      "text": "Generative KI bezieht sich in diesem Sinne auf den Einsatz von KI für die Analyse von Mustern und Strukturen in vorhandenen Daten, um neue Inhalte verschiedener Formate wie z. B. Text, Musik, Computercode, Bilder oder Videos zu erzeugen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 52,
       "match_type": "exact"
     }
   ]

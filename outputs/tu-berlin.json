@@ -3,300 +3,618 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "\"Lebende\" KI-Leitlinien\n\nGenerative KI bietet vielfältige Chancen für die Hochschullehre, gleichzeitig entstehen einige Herausforderungen, vor allem rechtlicher und ethischer Art.\nWie wollen wir an der TU Berlin mit generativer KI umgehen?\nDie bisherigen Überlegungen sind im Folgenden dargestellt.\nWir freuen uns über Rückmeldungen und Diskussionen im Forum zu KI an der TU Berlin oder per Mail an teamdigit@zewk.tu-berlin.de."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Generative KI bietet vielfältige Chancen für die Hochschullehre, gleichzeitig entstehen einige Herausforderungen, vor allem rechtlicher und ethischer Art.",
+      "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "## Prüfungsrecht & erforderliche Maßnahmen\n\n„Was sollte aus prüfungsrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“"
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie wollen wir an der TU Berlin mit generativer KI umgehen?",
+      "repaired": false
     },
     {
       "id": 3,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Chancengleichheit sicherstellen.**\n Trotz neuer technischer Möglichkeiten gelten weiterhin die Prinzipien der Fairness und Chancengleichheit. Beispielsweise darf die Nutzung eines (besseren) KI-Tools keinen wesentlichen Einfluss auf die Prüfungsleistung haben. Die Prüfung muss deshalb so konzipiert werden, dass für alle Studierenden vergleichbare Prüfungsbedingungen bestehen."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die bisherigen Überlegungen sind im Folgenden dargestellt.",
+      "repaired": false
     },
     {
       "id": 4,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Eigenständigkeit gewährleisten.**\n Hochschulprüfungen sollen die Leistungen der Studierenden bewerten und nicht (versehentlich) die von der KI ausgegebenen Ergebnisse. In Hinblick auf die Lernziele müssen die Studierenden also eine signifikante Eigenleistung zeigen können. Wenn KI genutzt wird, liegt die Verantwortung für das Produkt nicht bei der KI, sondern bei den Nutzenden, z.B. den Studierenden oder Forschenden.\n Aktualisieren Sie Ihre Einverständniserklärung bzw. nutzen Sie die neue Vorlage des Referat Prüfungen."
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wir freuen uns über Rückmeldungen und Diskussionen im Forum zu KI an der TU Berlin oder per Mail an teamdigit@zewk.tu-berlin.de.",
+      "repaired": false
     },
     {
       "id": 5,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Transparenz herstellen.**\n Informieren Sie in der Lehrveranstaltung rechtzeitig, ob und zu welchen Zwecken, die Nutzung von KI als Hilfsmittel erlaubt ist. Machen Sie die Studierenden im Vorfeld mit den Tools vertraut. Erklären Sie den Sinn von Regeln und Verboten und weisen Sie auf mögliche Folgen bei Verstößen hin. Diese können von Punktabzug oder Nichtbestehen der Prüfung bis zur Exmatrikulation bei wiederholter Täuschung reichen."
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Was sollte aus prüfungsrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
+      "repaired": false
     },
     {
       "id": 6,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- **Täuschungsversuche unterbinden.**\n Wenn Studierende KI-Ergebnisse unverändert übernehmen und diese weder kennzeichnen noch wesentlich weiter bearbeiten, kann dies analog zu Ghostwriting bzw. Unterstützung durch Dritte einen Täuschungsversuch über die Eigenständigkeit darstellen. Die Konzeption der Prüfung und der Rahmenbedingungen sollte u.a. darauf ausgerichtet sein, Täuschungsversuche unwahrscheinlich zu machen."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Chancengleichheit sicherstellen.** Trotz neuer technischer Möglichkeiten gelten weiterhin die Prinzipien der Fairness und Chancengleichheit. Beispielsweise darf die Nutzung eines (besseren) KI-Tools keinen wesentlichen Einfluss auf die Prüfungsleistung haben. Die Prüfung muss deshalb so konzipiert werden, dass für alle Studierenden vergleichbare Prüfungsbedingungen bestehen.",
+      "repaired": false
     },
     {
       "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Prüfungen anpassen.**\n Aus dem Vorherigen ergibt sich, dass einige Prüfungen verändert werden müssen, um weiterhin sinnvoll und valide zu sein.\n Mögliche Maßnahmen:\n - Rahmenbedingungen: engere Betreuung, Kioskbrowser, Aufsicht\n - Prüfung: Aufgabenstellung ändern, Bewertungskriterien aktualisieren\n - Prüfungsform: größerer Anteil mündlicher Studien- und Prüfungsleistungen, beaufsichtigte Essays statt Hausarbeiten, Verteidigung bei Abschlussarbeiten\n Manches davon erfordert eine Änderung der fachspezifischen StuPO. Regen Sie diese bei Bedarf frühzeitig in Ihrem Referat Studium und Lehre bzw. im Fakultätsrat an."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Eigenständigkeit gewährleisten.** Hochschulprüfungen sollen die Leistungen der Studierenden bewerten und nicht (versehentlich) die von der KI ausgegebenen Ergebnisse. In Hinblick auf die Lernziele müssen die Studierenden also eine signifikante Eigenleistung zeigen können. Wenn KI genutzt wird, liegt die Verantwortung für das Produkt nicht bei der KI, sondern bei den Nutzenden, z.B. den Studierenden oder Forschenden.",
+      "repaired": false
     },
     {
       "id": 8,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "## Datenschutz & Urheberrecht\n\n„Was sollte aus datenschutzrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“"
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Aktualisieren Sie Ihre Einverständniserklärung bzw. nutzen Sie die neue Vorlage des Referat Prüfungen.",
+      "repaired": false
     },
     {
       "id": 9,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Regeln beachten.**\n Zeitgemäße Lehre, Forschung und Verwaltung sollte das Thema KI nicht aussparen. Jedoch dürfen personenbezogene Daten nur in generative KI-Tools eingegeben werden, wenn die Softwarebetreiber diese Daten weder Dritten zugänglich machen noch als Trainingsdaten nutzen.\n Über den Datenschutz hinaus ist auch die Eingabe vertraulicher Informationen, sensibler Forschungsdaten oder interner Dokumente nicht zulässig."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Transparenz herstellen.** Informieren Sie in der Lehrveranstaltung rechtzeitig, ob und zu welchen Zwecken, die Nutzung von KI als Hilfsmittel erlaubt ist. Machen Sie die Studierenden im Vorfeld mit den Tools vertraut. Erklären Sie den Sinn von Regeln und Verboten und weisen Sie auf mögliche Folgen bei Verstößen hin. Diese können von Punktabzug oder Nichtbestehen der Prüfung bis zur Exmatrikulation bei wiederholter Täuschung reichen.",
+      "repaired": false
     },
     {
       "id": 10,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Tools auswählen und konfigurieren.**\n Datensparsame KI-Tools sollten bevorzugt werden. Manche Tools können so eingestellt werden, dass die Chatverläufe nicht als Trainingsdaten weiterverwendet werden. Dies ist oft mit nur einem Klick möglich, vgl. die Empfehlungen zu ChatGPT vom Datenschutz-Team. Vor der verpflichtenden Einführung in der Lehre müssen die Tools datenschutzrechtlich geprüft werden."
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Täuschungsversuche unterbinden.** Wenn Studierende KI-Ergebnisse unverändert übernehmen und diese weder kennzeichnen noch wesentlich weiter bearbeiten, kann dies analog zu Ghostwriting bzw. Unterstützung durch Dritte einen Täuschungsversuch über die Eigenständigkeit darstellen. Die Konzeption der Prüfung und der Rahmenbedingungen sollte u.a. darauf ausgerichtet sein, Täuschungsversuche unwahrscheinlich zu machen.",
+      "repaired": false
     },
     {
       "id": 11,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "„Was sollte aus urheberrechtlicher Sicht beim Einsatz von KI beachtet werden?“"
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Prüfungen anpassen.** Aus dem Vorherigen ergibt sich, dass einige Prüfungen verändert werden müssen, um weiterhin sinnvoll und valide zu sein.",
+      "repaired": false
     },
     {
       "id": 12,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "- **KI ist kein Urheber.**\n Nach aktueller Rechtslage können generative KI-Tools nicht Urheber sein, denn „Urheber ist der Schöpfer des Werkes“ und muss somit eine natürliche Person sein (§ 7 UrhG). Demnach wäre also der KI-Output urheberrechtlich nicht geschützt."
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Mögliche Maßnahmen:\n- Rahmenbedingungen: engere Betreuung, Kioskbrowser, Aufsicht\n- Prüfung: Aufgabenstellung ändern, Bewertungskriterien aktualisieren\n- Prüfungsform: größerer Anteil mündlicher Studien- und Prüfungsleistungen, beaufsichtigte Essays statt Hausarbeiten, Verteidigung bei Abschlussarbeiten",
+      "repaired": false
     },
     {
       "id": 13,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- **Abstand zum Werk.**\n Jedoch könnten die ursprünglichen Trainingsdaten geschützt sein. Eine Eins-zu-Eins-Ausgabe ist aufgrund der Funktionsweise von generativer KI meist unwahrscheinlich. Es gibt jedoch Tools, bei denen bspw. durch den Zugriff auf das Internet Ergebnisse ausgegeben werden, die „einen hinreichenden Abstand zum benutzten Werk“ (§ 32 Abs. 1 UrhG) vermissen lassen. Die Nutzung dieses Outputs könnte eine Urheberrechtsverletzung darstellen und wäre zu vermeiden."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Manches davon erfordert eine Änderung der fachspezifischen StuPO. Regen Sie diese bei Bedarf frühzeitig in Ihrem Referat Studium und Lehre bzw. im Fakultätsrat an.",
+      "repaired": false
     },
     {
       "id": 14,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- **Urheberrechte beachten.**\n Für die Nutzer*innen ist es meist nicht möglich, die von der KI ggf. unrechtmäßig übernommenen Inhalte und deren Urheber*innen zu identifizieren. Dennoch können die Urheber*innen die Löschung verlangen, wenn KI-Ergebnisse mit ihren Inhalten öffentlich zugänglich gemacht werden. Sie hätten bei Vorsatz oder Fahrlässigkeit ggf. sogar Anspruch auf Schadenersatz. Bei der Eingabe von Inhalten sollten Sie daher keine urheberrechtlich geschützten Inhalte verwenden (z.B. Texte, Bilder, Videos etc.), um die Rechte der Urheber*innen nicht zu verletzen."
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Was sollte aus datenschutzrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
+      "repaired": false
     },
     {
       "id": 15,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "## Wissenschaftliche Arbeiten\n\n„Können die Ergebnisse von KI-Tools in wissenschaftlichen Arbeiten zitiert werden?“"
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Regeln beachten.** Zeitgemäße Lehre, Forschung und Verwaltung sollte das Thema KI nicht aussparen. Jedoch dürfen personenbezogene Daten nur in generative KI-Tools eingegeben werden, wenn die Softwarebetreiber diese Daten weder Dritten zugänglich machen noch als Trainingsdaten nutzen.",
+      "repaired": false
     },
     {
       "id": 16,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- **Zitation.**\n KI-Tools generieren ihre Ergebnisse auf Basis einer sehr großen Anzahl von Trainingsdaten nach einer bestimmten statistischen Logik. Dieser Output kann inhaltlich falsch „zusammengewürfelt“ sein und bspw. fiktive („halluzinierte“) Literaturverweise oder fehlerhafte Grafiken enthalten. Die Informationsquellen sind für die Rezipienten oft nicht nachvollziehbar und nicht verifizierbar, da der gleiche Prompt in der Regel nicht wieder zum gleichen Ergebnis führt. KI-Systeme sind analog zu Wikipedia & Co. zudem keine geeigneten wissenschaftlichen Quellen. Daher ist das Zitieren von KI-Ergebnissen in wissenschaftlichen Arbeiten in den meisten Fällen nicht sinnvoll und zudem forschungsethisch problematisch."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Über den Datenschutz hinaus ist auch die Eingabe vertraulicher Informationen, sensibler Forschungsdaten oder interner Dokumente nicht zulässig.",
+      "repaired": false
     },
     {
       "id": 17,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Kennzeichnung.**\n Wenn jedoch KI-Ergebnisse übernommen werden sollen, müssen diese inhaltlich geprüft, überarbeitet und gekennzeichnet werden. Nur so kann im Sinne guter wissenschaftlicher Praxis und auch prüfungsrechtlich unterschieden werden, welche Teile eigenständig und welche durch eine generative KI erstellt worden sind. Bei unveränderten Übernahmen könnte per permanent link auf den spezifischen KI-Output verwiesen werden (wenn vorhanden). Im Methodenteil sollten die genutzten KI-Tools und deren Einsatzzwecke aufgeführt werden, z.B. Nutzung von Llama für das Ausformulieren von Stichpunkten in der Einleitung."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Tools auswählen und konfigurieren.** Datensparsame KI-Tools sollten bevorzugt werden. Manche Tools können so eingestellt werden, dass die Chatverläufe nicht als Trainingsdaten weiterverwendet werden. Dies ist oft mit nur einem Klick möglich, vgl. die Empfehlungen zu ChatGPT vom Datenschutz-Team. Vor der verpflichtenden Einführung in der Lehre müssen die Tools datenschutzrechtlich geprüft werden.",
+      "repaired": false
     },
     {
       "id": 18,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- **Zitierempfehlung.**\n Hier zwei Varianten zum Zitieren von KI-Systemen, erstellt im APA Style (generelle Zitation vs. Verweis auf Chat-URL):\n OpenAI. (2029). ChatGPT [Large language model]. https://chatgpt.com\n Google. (2025, 22. Mai). Chat-Titel [Generative AI chat]. Gemini 3 Flash. https://g.co/gemini/share/1234567891011\n Weitere Empfehlungen siehe Informationen und Leitfaden der DBWM zum „Einsatz von künstlichen Intelligenzen in Abschlussarbeiten“"
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Was sollte aus urheberrechtlicher Sicht beim Einsatz von KI beachtet werden?“",
+      "repaired": false
     },
     {
       "id": 19,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "## Konzeption & Didaktik\n\n„Was sollte aus didaktischer Sicht beachtet werden?“"
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "**KI ist kein Urheber.** Nach aktueller Rechtslage können generative KI-Tools nicht Urheber sein, denn „Urheber ist der Schöpfer des Werkes“ und muss somit eine natürliche Person sein (§ 7 UrhG). Demnach wäre also der KI-Output urheberrechtlich nicht geschützt.",
+      "repaired": false
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Lernziele neu definieren.**\n Der Einsatz von KI in Lehre und Prüfungen ist nur sinnvoll, wenn die angestrebten Lernziele trotz KI-Nutzung erreicht und eigenständige Leistungen der Studierenden geprüft werden können bzw. wenn der Einsatz von KI Inhalt der Prüfung ist. Welche Kompetenzen sowohl wegen aber auch trotz der Verfügbarkeit von KI-Tools vermittelt werden sollen, sollte für das jeweilige Fach diskutiert und definiert werden. Passen Sie basierend darauf Prüfungen bzw. Curricula entsprechend an, um „Deskilling“ zu vermeiden."
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Abstand zum Werk.** Jedoch könnten die ursprünglichen Trainingsdaten geschützt sein. Eine Eins-zu-Eins-Ausgabe ist aufgrund der Funktionsweise von generativer KI meist unwahrscheinlich. Es gibt jedoch Tools, bei denen bspw. durch den Zugriff auf das Internet Ergebnisse ausgegeben werden, die „einen hinreichenden Abstand zum benutzten Werk“ (§ 32 Abs. 1 UrhG) vermissen lassen. Die Nutzung dieses Outputs könnte eine Urheberrechtsverletzung darstellen und wäre zu vermeiden.",
+      "repaired": false
     },
     {
       "id": 21,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- **Kompetenzorientierte Prüfungsfragen.**\n Vor allem für unbeaufsichtigte schriftliche Prüfungs- und Studienleistungen stellt sich die Frage, wie diese Formate noch sinnvoll genutzt werden können - wahrscheinlich nur mit KI.\n Allenfalls funktionieren noch kompetenzorientierte Aufgaben, die kritisches Denken, Meinungen oder Reflexionen in Bezug zur Lehrveranstaltung erfordern. Auch ein Wechsel von einer großen summativen Distanzprüfung am Semesterende (z.B. Hausarbeit) zu mehreren semesterbegleitenden Leistungsnachweisen könnte hilfreich sein, allerdings nehmen die Fähigkeiten der KI-Tools stetig zu. Probieren Sie daher vorher aus, ob die KI Ihre Prüfungsfragen lösen kann."
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Urheberrechte beachten.** Für die Nutzer*innen ist es meist nicht möglich, die von der KI ggf. unrechtmäßig übernommenen Inhalte und deren Urheber*innen zu identifizieren. Dennoch können die Urheber*innen die Löschung verlangen, wenn KI-Ergebnisse mit ihren Inhalten öffentlich zugänglich gemacht werden. Sie hätten bei Vorsatz oder Fahrlässigkeit ggf. sogar Anspruch auf Schadenersatz. Bei der Eingabe von Inhalten sollten Sie daher keine urheberrechtlich geschützten Inhalte verwenden (z.B. Texte, Bilder, Videos etc.), um die Rechte der Urheber*innen nicht zu verletzen.",
+      "repaired": false
     },
     {
       "id": 22,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "- **Aufklärung leisten.**\n Soweit möglich, sensibilisieren Sie die Studierenden für die Risiken von KI-Tools. Fördern Sie einen kritischen und reflektierten Umgang mit generativen KI-Tools, vor allem hinsichtlich „halluzinierter“ Quellenangaben, inhaltlichen Fehlern, Bias/Vorurteilen etc.\n Schauen Sie sich dazu gern auch unsere Tipps \"In 8 Schritten Lehren mit KI\" an."
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Können die Ergebnisse von KI-Tools in wissenschaftlichen Arbeiten zitiert werden?“",
+      "repaired": false
     },
     {
       "id": 23,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "„Eignet sich generative KI zur Formulierung von Prüfungsaufgaben?“\n\n- Bei der Erstellung von Prüfungs- oder Übungsaufgaben können KI-Tools hilfreich sein. Der Output muss jedoch hinsichtlich der inhaltlichen Richtigkeit und der Passung zu den Lernzielen kritisch überprüft und angepasst werden."
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Zitation.** KI-Tools generieren ihre Ergebnisse auf Basis einer sehr großen Anzahl von Trainingsdaten nach einer bestimmten statistischen Logik. Dieser Output kann inhaltlich falsch „zusammengewürfelt“ sein und bspw. fiktive („halluzinierte“) Literaturverweise oder fehlerhafte Grafiken enthalten. Die Informationsquellen sind für die Rezipienten oft nicht nachvollziehbar und nicht verifizierbar, da der gleiche Prompt in der Regel nicht wieder zum gleichen Ergebnis führt. KI-Systeme sind analog zu Wikipedia & Co. zudem keine geeigneten wissenschaftlichen Quellen. Daher ist das Zitieren von KI-Ergebnissen in wissenschaftlichen Arbeiten in den meisten Fällen nicht sinnvoll und zudem forschungsethisch problematisch.",
+      "repaired": false
     },
     {
       "id": 24,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "„Eignet sich generative KI zur Bewertung von studentischen Leistungen?“\n\n- **Keine automatisierte Bewertung.**\n Eine vollständig automatisierte Bewertung von Studien- oder Prüfungsleistungen ist nicht zulässig (basierend auf Art. 22 DSGVO). Das heißt, der Output darf nicht eins zu eins übernommen werden, sondern digitale Tools wie KI dürfen nur als Hilfsmittel dienen. Zum Beispiel könnte KI zum Ausformulieren von Stichpunkten für ein Feedback genutzt werden."
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Kennzeichnung.** Wenn jedoch KI-Ergebnisse übernommen werden sollen, müssen diese inhaltlich geprüft, überarbeitet und gekennzeichnet werden. Nur so kann im Sinne guter wissenschaftlicher Praxis und auch prüfungsrechtlich unterschieden werden, welche Teile eigenständig und welche durch eine generative KI erstellt worden sind. Bei unveränderten Übernahmen könnte per permanent link auf den spezifischen KI-Output verwiesen werden (wenn vorhanden). Im Methodenteil sollten die genutzten KI-Tools und deren Einsatzzwecke aufgeführt werden, z.B. Nutzung von Llama für das Ausformulieren von Stichpunkten in der Einleitung.",
+      "repaired": false
     },
     {
       "id": 25,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "## Welche KI-Tools gibt es?\n\nEine KI-Nutzung ohne Anmeldung bei kommerziellen Angeboten wie ChatGPT, Gemini oder Copilot bietet die Chat AI der Academic Cloud, auf die kostenlos und datensparsam mit TU-Account per föderierter Anmeldung zugegriffen werden kann.\nWir haben darüber hinaus eine Übersicht über weitere Tools und Einsatzmöglichkeiten zusammengestellt."
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "**Zitierempfehlung.** Hier zwei Varianten zum Zitieren von KI-Systemen, erstellt im APA Style (generelle Zitation vs. Verweis auf Chat-URL):\nOpenAI. (2029). ChatGPT [Large language model]. https://chatgpt.com\nGoogle. (2025, 22. Mai). Chat-Titel [Generative AI chat]. Gemini 3 Flash. https://g.co/gemini/share/1234567891011\nWeitere Empfehlungen siehe Informationen und Leitfaden der DBWM zum „Einsatz von künstlichen Intelligenzen in Abschlussarbeiten“",
+      "repaired": false
     },
     {
       "id": 26,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "### 🏫 Statements aus der TU Berlin\n- Christian Schröder (Vizepräsident für Studium und Lehre) im Interview über den Umgang mit KI-gestützten Werkzeugen im akademischen Schreiben\n- Perspektive des Personalrats auf ChatGPT - Chancen und Risiken\n Bewertung von ChatGPT aus der Sicht des Personalrats mit Fokus auf potentielle Herausforderungen"
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Was sollte aus didaktischer Sicht beachtet werden?“",
+      "repaired": false
     },
     {
       "id": 27,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "### 📚 Kurse & Materialien\n- Unsere Kursreihe KI@TUB - Kurse an der ZEWK zu Künstlicher Intelligenz in Lehre und Forschung an der TU Berlin\n- KI-Kurse & Materialien des BZHL\n Umfassende Sammlung von Materialien und Gedanken vom Berliner Zentrum für Hochschullehre (BZHL) zum Einsatz von KI in Lehre und Wissenschaft\n- Videoreihe des KI-Campus: „ChatGPT – kurz erklärt“\n Sammlung von kurzen und knackigen Videos, die grundlegende Konzepte und Anwendungen von ChatGPT vermitteln\n- Einsatz von künstlichen Intelligenzen in Abschlussarbeiten\n Handreichung der DBWM (Die Bibliothek Wirtschaft & Management) der Fak VII der TU Berlin\n- Zitation von KI-Tools\n Leitlinien und Handreichung der Berlin Universities Publishing"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "**Lernziele neu definieren.** Der Einsatz von KI in Lehre und Prüfungen ist nur sinnvoll, wenn die angestrebten Lernziele trotz KI-Nutzung erreicht und eigenständige Leistungen der Studierenden geprüft werden können bzw. wenn der Einsatz von KI Inhalt der Prüfung ist. Welche Kompetenzen sowohl wegen aber auch trotz der Verfügbarkeit von KI-Tools vermittelt werden sollen, sollte für das jeweilige Fach diskutiert und definiert werden. Passen Sie basierend darauf Prüfungen bzw. Curricula entsprechend an, um „Deskilling“ zu vermeiden.",
+      "repaired": false
     },
     {
       "id": 28,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "### 📘 Weitere Ressourcen\n- Spannagel, C. (2023). Rules for Tools\n Kurze Zusammenfassung (1 Seite jeweils Deutsch/Englisch) zu Regeln und Richtlinien für den Einsatz von KI-Werkzeugen für Lehrende und Studierende\n- Reinmann, G. (2023). Diskussionspapier: Deskilling durch Künstliche Intelligenz?\n Eine kritische Auseinandersetzung mit den Auswirkungen von KI auf die Kompetenzentwicklung (insbes. Abschnitte 4, 5 und 6).\n- Leitlinien der DFG (Deutschen Forschungsgemeinschaft) für den Umgang mit generativen Modellen für die Text- und Bilderstellung bei der Antragserstellung\n- Standardwerk zum Prüfungsrecht: Fischer, E., Jeremias, C. & Dieterich, P. (2022): Prüfungsrecht (8. Aufl.): NJW Praxis, Band 27/2. Beck"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "**Kompetenzorientierte Prüfungsfragen.** Vor allem für unbeaufsichtigte schriftliche Prüfungs- und Studienleistungen stellt sich die Frage, wie diese Formate noch sinnvoll genutzt werden können - wahrscheinlich nur mit KI.\nAllenfalls funktionieren noch kompetenzorientierte Aufgaben, die kritisches Denken, Meinungen oder Reflexionen in Bezug zur Lehrveranstaltung erfordern. Auch ein Wechsel von einer großen summativen Distanzprüfung am Semesterende (z.B. Hausarbeit) zu mehreren semesterbegleitenden Leistungsnachweisen könnte hilfreich sein, allerdings nehmen die Fähigkeiten der KI-Tools stetig zu. Probieren Sie daher vorher aus, ob die KI Ihre Prüfungsfragen lösen kann.",
+      "repaired": false
     },
     {
       "id": 29,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "text": "### 🦸‍♀️ Beratung\n- Buchen Sie einen Beratungstermin für einen Impulsworkshop zu \"KI in der Lehre\" für Ihr Fachgebiet/Institut!\n- Individuelle Beratung durch das Team digit der ZEWK\n Sprechen Sie uns gern an!\n Falls Sie Fragen oder Kommentare zu den KI-Richtlinien haben, kontaktieren Sie gerne das Team digit unter teamdigit@zewk.tu-berlin.de."
+      "text": "**Aufklärung leisten.** Soweit möglich, sensibilisieren Sie die Studierenden für die Risiken von KI-Tools. Fördern Sie einen kritischen und reflektierten Umgang mit generativen KI-Tools, vor allem hinsichtlich „halluzinierter“ Quellenangaben, inhaltlichen Fehlern, Bias/Vorurteilen etc.\nSchauen Sie sich dazu gern auch unsere Tipps \"In 8 Schritten Lehren mit KI\" an.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Eignet sich generative KI zur Formulierung von Prüfungsaufgaben?“",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bei der Erstellung von Prüfungs- oder Übungsaufgaben können KI-Tools hilfreich sein. Der Output muss jedoch hinsichtlich der inhaltlichen Richtigkeit und der Passung zu den Lernzielen kritisch überprüft und angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "„Eignet sich generative KI zur Bewertung von studentischen Leistungen?“",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Keine automatisierte Bewertung.** Eine vollständig automatisierte Bewertung von Studien- oder Prüfungsleistungen ist nicht zulässig (basierend auf Art. 22 DSGVO). Das heißt, der Output darf nicht eins zu eins übernommen werden, sondern digitale Tools wie KI dürfen nur als Hilfsmittel dienen. Zum Beispiel könnte KI zum Ausformulieren von Stichpunkten für ein Feedback genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Eine KI-Nutzung ohne Anmeldung bei kommerziellen Angeboten wie ChatGPT, Gemini oder Copilot bietet die Chat AI der Academic Cloud, auf die kostenlos und datensparsam mit TU-Account per föderierter Anmeldung zugegriffen werden kann.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Wir haben darüber hinaus eine Übersicht über weitere Tools und Einsatzmöglichkeiten zusammengestellt.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Christian Schröder (Vizepräsident für Studium und Lehre) im Interview über den Umgang mit KI-gestützten Werkzeugen im akademischen Schreiben",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Perspektive des Personalrats auf ChatGPT - Chancen und Risiken\nBewertung von ChatGPT aus der Sicht des Personalrats mit Fokus auf potentielle Herausforderungen",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Unsere Kursreihe KI@TUB - Kurse an der ZEWK zu Künstlicher Intelligenz in Lehre und Forschung an der TU Berlin",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- KI-Kurse & Materialien des BZHL\nUmfassende Sammlung von Materialien und Gedanken vom Berliner Zentrum für Hochschullehre (BZHL) zum Einsatz von KI in Lehre und Wissenschaft",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Videoreihe des KI-Campus: „ChatGPT – kurz erklärt“\nSammlung von kurzen und knackigen Videos, die grundlegende Konzepte und Anwendungen von ChatGPT vermitteln",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Einsatz von künstlichen Intelligenzen in Abschlussarbeiten\nHandreichung der DBWM (Die Bibliothek Wirtschaft & Management) der Fak VII der TU Berlin",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Zitation von KI-Tools\nLeitlinien und Handreichung der Berlin Universities Publishing",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Spannagel, C. (2023). Rules for Tools\nKurze Zusammenfassung (1 Seite jeweils Deutsch/Englisch) zu Regeln und Richtlinien für den Einsatz von KI-Werkzeugen für Lehrende und Studierende",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Reinmann, G. (2023). Diskussionspapier: Deskilling durch Künstliche Intelligenz?\nEine kritische Auseinandersetzung mit den Auswirkungen von KI auf die Kompetenzentwicklung (insbes. Abschnitte 4, 5 und 6).",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Leitlinien der DFG (Deutschen Forschungsgemeinschaft) für den Umgang mit generativen Modellen für die Text- und Bilderstellung bei der Antragserstellung",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Standardwerk zum Prüfungsrecht: Fischer, E., Jeremias, C. & Dieterich, P. (2022): Prüfungsrecht (8. Aufl.): NJW Praxis, Band 27/2. Beck",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Buchen Sie einen Beratungstermin für einen Impulsworkshop zu \"KI in der Lehre\" für Ihr Fachgebiet/Institut!",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Individuelle Beratung durch das Team digit der ZEWK\nSprechen Sie uns gern an!\nFalls Sie Fragen oder Kommentare zu den KI-Richtlinien haben, kontaktieren Sie gerne das Team digit unter teamdigit@zewk.tu-berlin.de.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## prüfungsrecht & erforderliche maßnahmen",
+      "repaired": true
+    },
+    {
+      "id": 50,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## links & weiterführende ressourcen",
+      "repaired": true
+    },
+    {
+      "id": 51,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "### 🏫 statements aus der tu berlin",
+      "repaired": true
     }
   ],
   "validation": {
-    "total": 29,
-    "matched": 29,
+    "total": 51,
+    "matched": 51,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.983,
-    "uncovered_chars": 159,
-    "uncovered_gaps": 2,
+    "source_coverage": 0.967,
+    "uncovered_chars": 336,
+    "uncovered_gaps": 8,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 120,
-        "length": 120,
-        "text": "# tu berlin # source: https://digit.zewk.tuberlin.de/wiki/doku.php?id=ki:richtlinien # date: none # category: guideline"
+        "char_end": 144,
+        "length": 144,
+        "text": "# tu berlin # source: https://digit.zewk.tuberlin.de/wiki/doku.php?id=ki:richtlinien # date: none # category: guideline \"lebende\" ki-leitlinien"
       },
       {
-        "char_start": 10069,
-        "char_end": 10108,
-        "length": 39,
-        "text": ". ## links & weiterführende ressourcen"
+        "char_start": 3048,
+        "char_end": 3080,
+        "length": 32,
+        "text": ". ## datenschutz & urheberrecht"
+      },
+      {
+        "char_start": 5397,
+        "char_end": 5429,
+        "length": 32,
+        "text": ". ## wissenschaftliche arbeiten"
+      },
+      {
+        "char_start": 7308,
+        "char_end": 7334,
+        "length": 26,
+        "text": "## konzeption & didaktik"
+      },
+      {
+        "char_start": 9707,
+        "char_end": 9737,
+        "length": 30,
+        "text": ". ## welche ki-tools gibt es?"
+      },
+      {
+        "char_start": 10443,
+        "char_end": 10470,
+        "length": 27,
+        "text": "### 📚 kurse & materialien"
+      },
+      {
+        "char_start": 11144,
+        "char_end": 11170,
+        "length": 26,
+        "text": "### 📘 weitere ressourcen"
+      },
+      {
+        "char_start": 11845,
+        "char_end": 11864,
+        "length": 19,
+        "text": "### 🦸‍♀️ beratung"
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
-      "char_end": 122,
-      "text": "# TU Berlin\n# Source: https://digit.zewk.tu-berlin.de/wiki/doku.php?id=ki:richtlinien\n# Date: None\n# Category: guideline\n\n",
+      "char_end": 147,
+      "text": "# TU Berlin\n# Source: https://digit.zewk.tu-berlin.de/wiki/doku.php?id=ki:richtlinien\n# Date: None\n# Category: guideline\n\n\"Lebende\" KI-Leitlinien\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 122,
-      "char_end": 549,
-      "text": "\"Lebende\" KI-Leitlinien\n\nGenerative KI bietet vielfältige Chancen für die Hochschullehre, gleichzeitig entstehen einige Herausforderungen, vor allem rechtlicher und ethischer Art.\nWie wollen wir an der TU Berlin mit generativer KI umgehen?\nDie bisherigen Überlegungen sind im Folgenden dargestellt.\nWir freuen uns über Rückmeldungen und Diskussionen im Forum zu KI an der TU Berlin oder per Mail an teamdigit@zewk.tu-berlin.de.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 147,
+      "char_end": 301,
+      "text": "Generative KI bietet vielfältige Chancen für die Hochschullehre, gleichzeitig entstehen einige Herausforderungen, vor allem rechtlicher und ethischer Art.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
     {
-      "char_start": 551,
-      "char_end": 686,
-      "text": "## Prüfungsrecht & erforderliche Maßnahmen\n\n„Was sollte aus prüfungsrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 302,
+      "char_end": 361,
+      "text": "Wie wollen wir an der TU Berlin mit generativer KI umgehen?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 2,
       "match_type": "exact"
     },
     {
-      "char_start": 688,
-      "char_end": 1070,
-      "text": "- **Chancengleichheit sicherstellen.**\n Trotz neuer technischer Möglichkeiten gelten weiterhin die Prinzipien der Fairness und Chancengleichheit. Beispielsweise darf die Nutzung eines (besseren) KI-Tools keinen wesentlichen Einfluss auf die Prüfungsleistung haben. Die Prüfung muss deshalb so konzipiert werden, dass für alle Studierenden vergleichbare Prüfungsbedingungen bestehen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 362,
+      "char_end": 420,
+      "text": "Die bisherigen Überlegungen sind im Folgenden dargestellt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
-      "char_start": 1072,
-      "char_end": 1600,
-      "text": "- **Eigenständigkeit gewährleisten.**\n Hochschulprüfungen sollen die Leistungen der Studierenden bewerten und nicht (versehentlich) die von der KI ausgegebenen Ergebnisse. In Hinblick auf die Lernziele müssen die Studierenden also eine signifikante Eigenleistung zeigen können. Wenn KI genutzt wird, liegt die Verantwortung für das Produkt nicht bei der KI, sondern bei den Nutzenden, z.B. den Studierenden oder Forschenden.\n Aktualisieren Sie Ihre Einverständniserklärung bzw. nutzen Sie die neue Vorlage des Referat Prüfungen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 421,
+      "char_end": 549,
+      "text": "Wir freuen uns über Rückmeldungen und Diskussionen im Forum zu KI an der TU Berlin oder per Mail an teamdigit@zewk.tu-berlin.de.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 1602,
-      "char_end": 2043,
-      "text": "- **Transparenz herstellen.**\n Informieren Sie in der Lehrveranstaltung rechtzeitig, ob und zu welchen Zwecken, die Nutzung von KI als Hilfsmittel erlaubt ist. Machen Sie die Studierenden im Vorfeld mit den Tools vertraut. Erklären Sie den Sinn von Regeln und Verboten und weisen Sie auf mögliche Folgen bei Verstößen hin. Diese können von Punktabzug oder Nichtbestehen der Prüfung bis zur Exmatrikulation bei wiederholter Täuschung reichen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 551,
+      "char_end": 593,
+      "text": "## Prüfungsrecht & erforderliche Maßnahmen",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 595,
+      "char_end": 686,
+      "text": "„Was sollte aus prüfungsrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 2045,
-      "char_end": 2466,
-      "text": "- **Täuschungsversuche unterbinden.**\n Wenn Studierende KI-Ergebnisse unverändert übernehmen und diese weder kennzeichnen noch wesentlich weiter bearbeiten, kann dies analog zu Ghostwriting bzw. Unterstützung durch Dritte einen Täuschungsversuch über die Eigenständigkeit darstellen. Die Konzeption der Prüfung und der Rahmenbedingungen sollte u.a. darauf ausgerichtet sein, Täuschungsversuche unwahrscheinlich zu machen.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "char_start": 686,
+      "char_end": 690,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 690,
+      "char_end": 1070,
+      "text": "**Chancengleichheit sicherstellen.**\n Trotz neuer technischer Möglichkeiten gelten weiterhin die Prinzipien der Fairness und Chancengleichheit. Beispielsweise darf die Nutzung eines (besseren) KI-Tools keinen wesentlichen Einfluss auf die Prüfungsleistung haben. Die Prüfung muss deshalb so konzipiert werden, dass für alle Studierenden vergleichbare Prüfungsbedingungen bestehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 2468,
-      "char_end": 3089,
-      "text": "- **Prüfungen anpassen.**\n Aus dem Vorherigen ergibt sich, dass einige Prüfungen verändert werden müssen, um weiterhin sinnvoll und valide zu sein.\n Mögliche Maßnahmen:\n - Rahmenbedingungen: engere Betreuung, Kioskbrowser, Aufsicht\n - Prüfung: Aufgabenstellung ändern, Bewertungskriterien aktualisieren\n - Prüfungsform: größerer Anteil mündlicher Studien- und Prüfungsleistungen, beaufsichtigte Essays statt Hausarbeiten, Verteidigung bei Abschlussarbeiten\n Manches davon erfordert eine Änderung der fachspezifischen StuPO. Regen Sie diese bei Bedarf frühzeitig in Ihrem Referat Studium und Lehre bzw. im Fakultätsrat an.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 1070,
+      "char_end": 1074,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1074,
+      "char_end": 1496,
+      "text": "**Eigenständigkeit gewährleisten.**\n Hochschulprüfungen sollen die Leistungen der Studierenden bewerten und nicht (versehentlich) die von der KI ausgegebenen Ergebnisse. In Hinblick auf die Lernziele müssen die Studierenden also eine signifikante Eigenleistung zeigen können. Wenn KI genutzt wird, liegt die Verantwortung für das Produkt nicht bei der KI, sondern bei den Nutzenden, z.B. den Studierenden oder Forschenden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 3091,
-      "char_end": 3216,
-      "text": "## Datenschutz & Urheberrecht\n\n„Was sollte aus datenschutzrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "char_start": 1498,
+      "char_end": 1600,
+      "text": "Aktualisieren Sie Ihre Einverständniserklärung bzw. nutzen Sie die neue Vorlage des Referat Prüfungen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 3218,
-      "char_end": 3652,
-      "text": "- **Regeln beachten.**\n Zeitgemäße Lehre, Forschung und Verwaltung sollte das Thema KI nicht aussparen. Jedoch dürfen personenbezogene Daten nur in generative KI-Tools eingegeben werden, wenn die Softwarebetreiber diese Daten weder Dritten zugänglich machen noch als Trainingsdaten nutzen.\n Über den Datenschutz hinaus ist auch die Eingabe vertraulicher Informationen, sensibler Forschungsdaten oder interner Dokumente nicht zulässig.",
+      "char_start": 1600,
+      "char_end": 2047,
+      "text": "\n\n- **Transparenz herstellen.**\n Informieren Sie in der Lehrveranstaltung rechtzeitig, ob und zu welchen Zwecken, die Nutzung von KI als Hilfsmittel erlaubt ist. Machen Sie die Studierenden im Vorfeld mit den Tools vertraut. Erklären Sie den Sinn von Regeln und Verboten und weisen Sie auf mögliche Folgen bei Verstößen hin. Diese können von Punktabzug oder Nichtbestehen der Prüfung bis zur Exmatrikulation bei wiederholter Täuschung reichen.\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2047,
+      "char_end": 2466,
+      "text": "**Täuschungsversuche unterbinden.**\n Wenn Studierende KI-Ergebnisse unverändert übernehmen und diese weder kennzeichnen noch wesentlich weiter bearbeiten, kann dies analog zu Ghostwriting bzw. Unterstützung durch Dritte einen Täuschungsversuch über die Eigenständigkeit darstellen. Die Konzeption der Prüfung und der Rahmenbedingungen sollte u.a. darauf ausgerichtet sein, Täuschungsversuche unwahrscheinlich zu machen.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 9,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 3654,
-      "char_end": 4057,
-      "text": "- **Tools auswählen und konfigurieren.**\n Datensparsame KI-Tools sollten bevorzugt werden. Manche Tools können so eingestellt werden, dass die Chatverläufe nicht als Trainingsdaten weiterverwendet werden. Dies ist oft mit nur einem Klick möglich, vgl. die Empfehlungen zu ChatGPT vom Datenschutz-Team. Vor der verpflichtenden Einführung in der Lehre müssen die Tools datenschutzrechtlich geprüft werden.",
+      "char_start": 2466,
+      "char_end": 2926,
+      "text": "\n\n- **Prüfungen anpassen.**\n Aus dem Vorherigen ergibt sich, dass einige Prüfungen verändert werden müssen, um weiterhin sinnvoll und valide zu sein.\n Mögliche Maßnahmen:\n - Rahmenbedingungen: engere Betreuung, Kioskbrowser, Aufsicht\n - Prüfung: Aufgabenstellung ändern, Bewertungskriterien aktualisieren\n - Prüfungsform: größerer Anteil mündlicher Studien- und Prüfungsleistungen, beaufsichtigte Essays statt Hausarbeiten, Verteidigung bei Abschlussarbeiten\n ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2926,
+      "char_end": 3089,
+      "text": "Manches davon erfordert eine Änderung der fachspezifischen StuPO. Regen Sie diese bei Bedarf frühzeitig in Ihrem Referat Studium und Lehre bzw. im Fakultätsrat an.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3089,
+      "char_end": 3122,
+      "text": "\n\n## Datenschutz & Urheberrecht\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3122,
+      "char_end": 3216,
+      "text": "„Was sollte aus datenschutzrechtlicher Sicht beim Einsatz von generativer KI beachtet werden?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3216,
+      "char_end": 3509,
+      "text": "\n\n- **Regeln beachten.**\n Zeitgemäße Lehre, Forschung und Verwaltung sollte das Thema KI nicht aussparen. Jedoch dürfen personenbezogene Daten nur in generative KI-Tools eingegeben werden, wenn die Softwarebetreiber diese Daten weder Dritten zugänglich machen noch als Trainingsdaten nutzen.\n ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3509,
+      "char_end": 3652,
+      "text": "Über den Datenschutz hinaus ist auch die Eingabe vertraulicher Informationen, sensibler Forschungsdaten oder interner Dokumente nicht zulässig.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 10,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3652,
+      "char_end": 3656,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3656,
+      "char_end": 4057,
+      "text": "**Tools auswählen und konfigurieren.**\n Datensparsame KI-Tools sollten bevorzugt werden. Manche Tools können so eingestellt werden, dass die Chatverläufe nicht als Trainingsdaten weiterverwendet werden. Dies ist oft mit nur einem Klick möglich, vgl. die Empfehlungen zu ChatGPT vom Datenschutz-Team. Vor der verpflichtenden Einführung in der Lehre müssen die Tools datenschutzrechtlich geprüft werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
@@ -304,179 +622,305 @@
       "char_end": 4137,
       "text": "„Was sollte aus urheberrechtlicher Sicht beim Einsatz von KI beachtet werden?“",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 11,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4139,
-      "char_end": 4403,
-      "text": "- **KI ist kein Urheber.**\n Nach aktueller Rechtslage können generative KI-Tools nicht Urheber sein, denn „Urheber ist der Schöpfer des Werkes“ und muss somit eine natürliche Person sein (§ 7 UrhG). Demnach wäre also der KI-Output urheberrechtlich nicht geschützt.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 12,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4405,
-      "char_end": 4885,
-      "text": "- **Abstand zum Werk.**\n Jedoch könnten die ursprünglichen Trainingsdaten geschützt sein. Eine Eins-zu-Eins-Ausgabe ist aufgrund der Funktionsweise von generativer KI meist unwahrscheinlich. Es gibt jedoch Tools, bei denen bspw. durch den Zugriff auf das Internet Ergebnisse ausgegeben werden, die „einen hinreichenden Abstand zum benutzten Werk“ (§ 32 Abs. 1 UrhG) vermissen lassen. Die Nutzung dieses Outputs könnte eine Urheberrechtsverletzung darstellen und wäre zu vermeiden.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 13,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4887,
-      "char_end": 5465,
-      "text": "- **Urheberrechte beachten.**\n Für die Nutzer*innen ist es meist nicht möglich, die von der KI ggf. unrechtmäßig übernommenen Inhalte und deren Urheber*innen zu identifizieren. Dennoch können die Urheber*innen die Löschung verlangen, wenn KI-Ergebnisse mit ihren Inhalten öffentlich zugänglich gemacht werden. Sie hätten bei Vorsatz oder Fahrlässigkeit ggf. sogar Anspruch auf Schadenersatz. Bei der Eingabe von Inhalten sollten Sie daher keine urheberrechtlich geschützten Inhalte verwenden (z.B. Texte, Bilder, Videos etc.), um die Rechte der Urheber*innen nicht zu verletzen.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 14,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5467,
-      "char_end": 5581,
-      "text": "## Wissenschaftliche Arbeiten\n\n„Können die Ergebnisse von KI-Tools in wissenschaftlichen Arbeiten zitiert werden?“",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 15,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5583,
-      "char_end": 6308,
-      "text": "- **Zitation.**\n KI-Tools generieren ihre Ergebnisse auf Basis einer sehr großen Anzahl von Trainingsdaten nach einer bestimmten statistischen Logik. Dieser Output kann inhaltlich falsch „zusammengewürfelt“ sein und bspw. fiktive („halluzinierte“) Literaturverweise oder fehlerhafte Grafiken enthalten. Die Informationsquellen sind für die Rezipienten oft nicht nachvollziehbar und nicht verifizierbar, da der gleiche Prompt in der Regel nicht wieder zum gleichen Ergebnis führt. KI-Systeme sind analog zu Wikipedia & Co. zudem keine geeigneten wissenschaftlichen Quellen. Daher ist das Zitieren von KI-Ergebnissen in wissenschaftlichen Arbeiten in den meisten Fällen nicht sinnvoll und zudem forschungsethisch problematisch.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 16,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6310,
-      "char_end": 6935,
-      "text": "- **Kennzeichnung.**\n Wenn jedoch KI-Ergebnisse übernommen werden sollen, müssen diese inhaltlich geprüft, überarbeitet und gekennzeichnet werden. Nur so kann im Sinne guter wissenschaftlicher Praxis und auch prüfungsrechtlich unterschieden werden, welche Teile eigenständig und welche durch eine generative KI erstellt worden sind. Bei unveränderten Übernahmen könnte per permanent link auf den spezifischen KI-Output verwiesen werden (wenn vorhanden). Im Methodenteil sollten die genutzten KI-Tools und deren Einsatzzwecke aufgeführt werden, z.B. Nutzung von Llama für das Ausformulieren von Stichpunkten in der Einleitung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6937,
-      "char_end": 7394,
-      "text": "- **Zitierempfehlung.**\n Hier zwei Varianten zum Zitieren von KI-Systemen, erstellt im APA Style (generelle Zitation vs. Verweis auf Chat-URL):\n OpenAI. (2029). ChatGPT [Large language model]. https://chatgpt.com\n Google. (2025, 22. Mai). Chat-Titel [Generative AI chat]. Gemini 3 Flash. https://g.co/gemini/share/1234567891011\n Weitere Empfehlungen siehe Informationen und Leitfaden der DBWM zum „Einsatz von künstlichen Intelligenzen in Abschlussarbeiten“",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B_label": "scope/application of the document",
       "segment_id": 18,
       "match_type": "exact"
     },
     {
-      "char_start": 7396,
-      "char_end": 7474,
-      "text": "## Konzeption & Didaktik\n\n„Was sollte aus didaktischer Sicht beachtet werden?“",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 19,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7476,
-      "char_end": 8015,
-      "text": "- **Lernziele neu definieren.**\n Der Einsatz von KI in Lehre und Prüfungen ist nur sinnvoll, wenn die angestrebten Lernziele trotz KI-Nutzung erreicht und eigenständige Leistungen der Studierenden geprüft werden können bzw. wenn der Einsatz von KI Inhalt der Prüfung ist. Welche Kompetenzen sowohl wegen aber auch trotz der Verfügbarkeit von KI-Tools vermittelt werden sollen, sollte für das jeweilige Fach diskutiert und definiert werden. Passen Sie basierend darauf Prüfungen bzw. Curricula entsprechend an, um „Deskilling“ zu vermeiden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 20,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8017,
-      "char_end": 8698,
-      "text": "- **Kompetenzorientierte Prüfungsfragen.**\n Vor allem für unbeaufsichtigte schriftliche Prüfungs- und Studienleistungen stellt sich die Frage, wie diese Formate noch sinnvoll genutzt werden können - wahrscheinlich nur mit KI.\n Allenfalls funktionieren noch kompetenzorientierte Aufgaben, die kritisches Denken, Meinungen oder Reflexionen in Bezug zur Lehrveranstaltung erfordern. Auch ein Wechsel von einer großen summativen Distanzprüfung am Semesterende (z.B. Hausarbeit) zu mehreren semesterbegleitenden Leistungsnachweisen könnte hilfreich sein, allerdings nehmen die Fähigkeiten der KI-Tools stetig zu. Probieren Sie daher vorher aus, ob die KI Ihre Prüfungsfragen lösen kann.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 21,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8700,
-      "char_end": 9070,
-      "text": "- **Aufklärung leisten.**\n Soweit möglich, sensibilisieren Sie die Studierenden für die Risiken von KI-Tools. Fördern Sie einen kritischen und reflektierten Umgang mit generativen KI-Tools, vor allem hinsichtlich „halluzinierter“ Quellenangaben, inhaltlichen Fehlern, Bias/Vorurteilen etc.\n Schauen Sie sich dazu gern auch unsere Tipps \"In 8 Schritten Lehren mit KI\" an.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 22,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9072,
-      "char_end": 9366,
-      "text": "„Eignet sich generative KI zur Formulierung von Prüfungsaufgaben?“\n\n- Bei der Erstellung von Prüfungs- oder Übungsaufgaben können KI-Tools hilfreich sein. Der Output muss jedoch hinsichtlich der inhaltlichen Richtigkeit und der Passung zu den Lernzielen kritisch überprüft und angepasst werden.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 23,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9368,
-      "char_end": 9830,
-      "text": "„Eignet sich generative KI zur Bewertung von studentischen Leistungen?“\n\n- **Keine automatisierte Bewertung.**\n Eine vollständig automatisierte Bewertung von Studien- oder Prüfungsleistungen ist nicht zulässig (basierend auf Art. 22 DSGVO). Das heißt, der Output darf nicht eins zu eins übernommen werden, sondern digitale Tools wie KI dürfen nur als Hilfsmittel dienen. Zum Beispiel könnte KI zum Ausformulieren von Stichpunkten für ein Feedback genutzt werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9832,
-      "char_end": 10194,
-      "text": "## Welche KI-Tools gibt es?\n\nEine KI-Nutzung ohne Anmeldung bei kommerziellen Angeboten wie ChatGPT, Gemini oder Copilot bietet die Chat AI der Academic Cloud, auf die kostenlos und datensparsam mit TU-Account per föderierter Anmeldung zugegriffen werden kann.\nWir haben darüber hinaus eine Übersicht über weitere Tools und Einsatzmöglichkeiten zusammengestellt.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 10194,
-      "char_end": 10234,
-      "text": "\n\n## Links & weiterführende Ressourcen\n\n",
+      "char_start": 4137,
+      "char_end": 5498,
+      "text": "\n\n- **KI ist kein Urheber.**\n Nach aktueller Rechtslage können generative KI-Tools nicht Urheber sein, denn „Urheber ist der Schöpfer des Werkes“ und muss somit eine natürliche Person sein (§ 7 UrhG). Demnach wäre also der KI-Output urheberrechtlich nicht geschützt.\n\n- **Abstand zum Werk.**\n Jedoch könnten die ursprünglichen Trainingsdaten geschützt sein. Eine Eins-zu-Eins-Ausgabe ist aufgrund der Funktionsweise von generativer KI meist unwahrscheinlich. Es gibt jedoch Tools, bei denen bspw. durch den Zugriff auf das Internet Ergebnisse ausgegeben werden, die „einen hinreichenden Abstand zum benutzten Werk“ (§ 32 Abs. 1 UrhG) vermissen lassen. Die Nutzung dieses Outputs könnte eine Urheberrechtsverletzung darstellen und wäre zu vermeiden.\n\n- **Urheberrechte beachten.**\n Für die Nutzer*innen ist es meist nicht möglich, die von der KI ggf. unrechtmäßig übernommenen Inhalte und deren Urheber*innen zu identifizieren. Dennoch können die Urheber*innen die Löschung verlangen, wenn KI-Ergebnisse mit ihren Inhalten öffentlich zugänglich gemacht werden. Sie hätten bei Vorsatz oder Fahrlässigkeit ggf. sogar Anspruch auf Schadenersatz. Bei der Eingabe von Inhalten sollten Sie daher keine urheberrechtlich geschützten Inhalte verwenden (z.B. Texte, Bilder, Videos etc.), um die Rechte der Urheber*innen nicht zu verletzen.\n\n## Wissenschaftliche Arbeiten\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 10234,
-      "char_end": 10574,
-      "text": "### 🏫 Statements aus der TU Berlin\n- Christian Schröder (Vizepräsident für Studium und Lehre) im Interview über den Umgang mit KI-gestützten Werkzeugen im akademischen Schreiben\n- Perspektive des Personalrats auf ChatGPT - Chancen und Risiken\n Bewertung von ChatGPT aus der Sicht des Personalrats mit Fokus auf potentielle Herausforderungen",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 5498,
+      "char_end": 5581,
+      "text": "„Können die Ergebnisse von KI-Tools in wissenschaftlichen Arbeiten zitiert werden?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5581,
+      "char_end": 7422,
+      "text": "\n\n- **Zitation.**\n KI-Tools generieren ihre Ergebnisse auf Basis einer sehr großen Anzahl von Trainingsdaten nach einer bestimmten statistischen Logik. Dieser Output kann inhaltlich falsch „zusammengewürfelt“ sein und bspw. fiktive („halluzinierte“) Literaturverweise oder fehlerhafte Grafiken enthalten. Die Informationsquellen sind für die Rezipienten oft nicht nachvollziehbar und nicht verifizierbar, da der gleiche Prompt in der Regel nicht wieder zum gleichen Ergebnis führt. KI-Systeme sind analog zu Wikipedia & Co. zudem keine geeigneten wissenschaftlichen Quellen. Daher ist das Zitieren von KI-Ergebnissen in wissenschaftlichen Arbeiten in den meisten Fällen nicht sinnvoll und zudem forschungsethisch problematisch.\n\n- **Kennzeichnung.**\n Wenn jedoch KI-Ergebnisse übernommen werden sollen, müssen diese inhaltlich geprüft, überarbeitet und gekennzeichnet werden. Nur so kann im Sinne guter wissenschaftlicher Praxis und auch prüfungsrechtlich unterschieden werden, welche Teile eigenständig und welche durch eine generative KI erstellt worden sind. Bei unveränderten Übernahmen könnte per permanent link auf den spezifischen KI-Output verwiesen werden (wenn vorhanden). Im Methodenteil sollten die genutzten KI-Tools und deren Einsatzzwecke aufgeführt werden, z.B. Nutzung von Llama für das Ausformulieren von Stichpunkten in der Einleitung.\n\n- **Zitierempfehlung.**\n Hier zwei Varianten zum Zitieren von KI-Systemen, erstellt im APA Style (generelle Zitation vs. Verweis auf Chat-URL):\n OpenAI. (2029). ChatGPT [Large language model]. https://chatgpt.com\n Google. (2025, 22. Mai). Chat-Titel [Generative AI chat]. Gemini 3 Flash. https://g.co/gemini/share/1234567891011\n Weitere Empfehlungen siehe Informationen und Leitfaden der DBWM zum „Einsatz von künstlichen Intelligenzen in Abschlussarbeiten“\n\n## Konzeption & Didaktik\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7422,
+      "char_end": 7474,
+      "text": "„Was sollte aus didaktischer Sicht beachtet werden?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 26,
       "match_type": "exact"
     },
     {
-      "char_start": 10576,
-      "char_end": 11290,
-      "text": "### 📚 Kurse & Materialien\n- Unsere Kursreihe KI@TUB - Kurse an der ZEWK zu Künstlicher Intelligenz in Lehre und Forschung an der TU Berlin\n- KI-Kurse & Materialien des BZHL\n Umfassende Sammlung von Materialien und Gedanken vom Berliner Zentrum für Hochschullehre (BZHL) zum Einsatz von KI in Lehre und Wissenschaft\n- Videoreihe des KI-Campus: „ChatGPT – kurz erklärt“\n Sammlung von kurzen und knackigen Videos, die grundlegende Konzepte und Anwendungen von ChatGPT vermitteln\n- Einsatz von künstlichen Intelligenzen in Abschlussarbeiten\n Handreichung der DBWM (Die Bibliothek Wirtschaft & Management) der Fak VII der TU Berlin\n- Zitation von KI-Tools\n Leitlinien und Handreichung der Berlin Universities Publishing",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 27,
-      "match_type": "exact"
+      "char_start": 7474,
+      "char_end": 8019,
+      "text": "\n\n- **Lernziele neu definieren.**\n Der Einsatz von KI in Lehre und Prüfungen ist nur sinnvoll, wenn die angestrebten Lernziele trotz KI-Nutzung erreicht und eigenständige Leistungen der Studierenden geprüft werden können bzw. wenn der Einsatz von KI Inhalt der Prüfung ist. Welche Kompetenzen sowohl wegen aber auch trotz der Verfügbarkeit von KI-Tools vermittelt werden sollen, sollte für das jeweilige Fach diskutiert und definiert werden. Passen Sie basierend darauf Prüfungen bzw. Curricula entsprechend an, um „Deskilling“ zu vermeiden.\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
-      "char_start": 11292,
-      "char_end": 12004,
-      "text": "### 📘 Weitere Ressourcen\n- Spannagel, C. (2023). Rules for Tools\n Kurze Zusammenfassung (1 Seite jeweils Deutsch/Englisch) zu Regeln und Richtlinien für den Einsatz von KI-Werkzeugen für Lehrende und Studierende\n- Reinmann, G. (2023). Diskussionspapier: Deskilling durch Künstliche Intelligenz?\n Eine kritische Auseinandersetzung mit den Auswirkungen von KI auf die Kompetenzentwicklung (insbes. Abschnitte 4, 5 und 6).\n- Leitlinien der DFG (Deutschen Forschungsgemeinschaft) für den Umgang mit generativen Modellen für die Text- und Bilderstellung bei der Antragserstellung\n- Standardwerk zum Prüfungsrecht: Fischer, E., Jeremias, C. & Dieterich, P. (2022): Prüfungsrecht (8. Aufl.): NJW Praxis, Band 27/2. Beck",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 8019,
+      "char_end": 8698,
+      "text": "**Kompetenzorientierte Prüfungsfragen.**\n Vor allem für unbeaufsichtigte schriftliche Prüfungs- und Studienleistungen stellt sich die Frage, wie diese Formate noch sinnvoll genutzt werden können - wahrscheinlich nur mit KI.\n Allenfalls funktionieren noch kompetenzorientierte Aufgaben, die kritisches Denken, Meinungen oder Reflexionen in Bezug zur Lehrveranstaltung erfordern. Auch ein Wechsel von einer großen summativen Distanzprüfung am Semesterende (z.B. Hausarbeit) zu mehreren semesterbegleitenden Leistungsnachweisen könnte hilfreich sein, allerdings nehmen die Fähigkeiten der KI-Tools stetig zu. Probieren Sie daher vorher aus, ob die KI Ihre Prüfungsfragen lösen kann.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 28,
       "match_type": "exact"
     },
     {
-      "char_start": 12006,
-      "char_end": 12350,
-      "text": "### 🦸‍♀️ Beratung\n- Buchen Sie einen Beratungstermin für einen Impulsworkshop zu \"KI in der Lehre\" für Ihr Fachgebiet/Institut!\n- Individuelle Beratung durch das Team digit der ZEWK\n Sprechen Sie uns gern an!\n Falls Sie Fragen oder Kommentare zu den KI-Richtlinien haben, kontaktieren Sie gerne das Team digit unter teamdigit@zewk.tu-berlin.de.",
-      "B": "B10",
+      "char_start": 8698,
+      "char_end": 9072,
+      "text": "\n\n- **Aufklärung leisten.**\n Soweit möglich, sensibilisieren Sie die Studierenden für die Risiken von KI-Tools. Fördern Sie einen kritischen und reflektierten Umgang mit generativen KI-Tools, vor allem hinsichtlich „halluzinierter“ Quellenangaben, inhaltlichen Fehlern, Bias/Vorurteilen etc.\n Schauen Sie sich dazu gern auch unsere Tipps \"In 8 Schritten Lehren mit KI\" an.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9072,
+      "char_end": 9138,
+      "text": "„Eignet sich generative KI zur Formulierung von Prüfungsaufgaben?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9138,
+      "char_end": 9142,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9142,
+      "char_end": 9366,
+      "text": "Bei der Erstellung von Prüfungs- oder Übungsaufgaben können KI-Tools hilfreich sein. Der Output muss jedoch hinsichtlich der inhaltlichen Richtigkeit und der Passung zu den Lernzielen kritisch überprüft und angepasst werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9368,
+      "char_end": 9439,
+      "text": "„Eignet sich generative KI zur Bewertung von studentischen Leistungen?“",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9439,
+      "char_end": 9443,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9443,
+      "char_end": 9830,
+      "text": "**Keine automatisierte Bewertung.**\n Eine vollständig automatisierte Bewertung von Studien- oder Prüfungsleistungen ist nicht zulässig (basierend auf Art. 22 DSGVO). Das heißt, der Output darf nicht eins zu eins übernommen werden, sondern digitale Tools wie KI dürfen nur als Hilfsmittel dienen. Zum Beispiel könnte KI zum Ausformulieren von Stichpunkten für ein Feedback genutzt werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9830,
+      "char_end": 9861,
+      "text": "\n\n## Welche KI-Tools gibt es?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9861,
+      "char_end": 10092,
+      "text": "Eine KI-Nutzung ohne Anmeldung bei kommerziellen Angeboten wie ChatGPT, Gemini oder Copilot bietet die Chat AI der Academic Cloud, auf die kostenlos und datensparsam mit TU-Account per föderierter Anmeldung zugegriffen werden kann.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10093,
+      "char_end": 10194,
+      "text": "Wir haben darüber hinaus eine Übersicht über weitere Tools und Einsatzmöglichkeiten zusammengestellt.",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 29,
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10196,
+      "char_end": 10232,
+      "text": "## Links & weiterführende Ressourcen",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10234,
+      "char_end": 10268,
+      "text": "### 🏫 Statements aus der TU Berlin",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10269,
+      "char_end": 10411,
+      "text": "- Christian Schröder (Vizepräsident für Studium und Lehre) im Interview über den Umgang mit KI-gestützten Werkzeugen im akademischen Schreiben",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10412,
+      "char_end": 10574,
+      "text": "- Perspektive des Personalrats auf ChatGPT - Chancen und Risiken\n Bewertung von ChatGPT aus der Sicht des Personalrats mit Fokus auf potentielle Herausforderungen",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10574,
+      "char_end": 10602,
+      "text": "\n\n### 📚 Kurse & Materialien\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10602,
+      "char_end": 10714,
+      "text": "- Unsere Kursreihe KI@TUB - Kurse an der ZEWK zu Künstlicher Intelligenz in Lehre und Forschung an der TU Berlin",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10715,
+      "char_end": 10890,
+      "text": "- KI-Kurse & Materialien des BZHL\n Umfassende Sammlung von Materialien und Gedanken vom Berliner Zentrum für Hochschullehre (BZHL) zum Einsatz von KI in Lehre und Wissenschaft",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10891,
+      "char_end": 11051,
+      "text": "- Videoreihe des KI-Campus: „ChatGPT – kurz erklärt“\n Sammlung von kurzen und knackigen Videos, die grundlegende Konzepte und Anwendungen von ChatGPT vermitteln",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11052,
+      "char_end": 11202,
+      "text": "- Einsatz von künstlichen Intelligenzen in Abschlussarbeiten\n Handreichung der DBWM (Die Bibliothek Wirtschaft & Management) der Fak VII der TU Berlin",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11202,
+      "char_end": 11317,
+      "text": "\n- Zitation von KI-Tools\n Leitlinien und Handreichung der Berlin Universities Publishing\n\n### 📘 Weitere Ressourcen\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11317,
+      "char_end": 11503,
+      "text": "- Spannagel, C. (2023). Rules for Tools\n Kurze Zusammenfassung (1 Seite jeweils Deutsch/Englisch) zu Regeln und Richtlinien für den Einsatz von KI-Werkzeugen für Lehrende und Studierende",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11504,
+      "char_end": 11711,
+      "text": "- Reinmann, G. (2023). Diskussionspapier: Deskilling durch Künstliche Intelligenz?\n Eine kritische Auseinandersetzung mit den Auswirkungen von KI auf die Kompetenzentwicklung (insbes. Abschnitte 4, 5 und 6).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11712,
+      "char_end": 11866,
+      "text": "- Leitlinien der DFG (Deutschen Forschungsgemeinschaft) für den Umgang mit generativen Modellen für die Text- und Bilderstellung bei der Antragserstellung",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11867,
+      "char_end": 12004,
+      "text": "- Standardwerk zum Prüfungsrecht: Fischer, E., Jeremias, C. & Dieterich, P. (2022): Prüfungsrecht (8. Aufl.): NJW Praxis, Band 27/2. Beck",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12004,
+      "char_end": 12024,
+      "text": "\n\n### 🦸‍♀️ Beratung\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12024,
+      "char_end": 12133,
+      "text": "- Buchen Sie einen Beratungstermin für einen Impulsworkshop zu \"KI in der Lehre\" für Ihr Fachgebiet/Institut!",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12134,
+      "char_end": 12350,
+      "text": "- Individuelle Beratung durch das Team digit der ZEWK\n Sprechen Sie uns gern an!\n Falls Sie Fragen oder Kommentare zu den KI-Richtlinien haben, kontaktieren Sie gerne das Team digit unter teamdigit@zewk.tu-berlin.de.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 48,
       "match_type": "exact"
     }
   ]
