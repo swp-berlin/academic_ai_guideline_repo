@@ -38,11 +38,11 @@ Thanks for helping grow this collection! Adding a new AI guideline is straightfo
 
 ## What happens after merge
 
-A GitHub Actions workflow will automatically:
+CI validates metadata quality and regeneration consistency:
 
-1. Download the PDF/HTML from the URL
-2. Extract the full text
-3. Update the README table and `index.json`
+1. Validate `guidelines.yaml` schema and URL policy
+2. Rebuild `index.json`
+3. Ensure generated files are committed
 
 ## Categories
 
