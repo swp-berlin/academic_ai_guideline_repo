@@ -141,7 +141,7 @@ def call_llm(
 
 # ── chunking for large documents ──────────────────────────────────────
 
-MAX_CHUNK_CHARS = 64_000  # ~3k tokens, well within context window
+MAX_CHUNK_CHARS = 64_000 
 
 
 def chunk_text(text: str, max_chars: int = MAX_CHUNK_CHARS) -> list[str]:

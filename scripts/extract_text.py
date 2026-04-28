@@ -85,7 +85,6 @@ def find_downloaded_file(slug: str) -> Path | None:
 def get_api_key() -> str:
     return (
         os.getenv("MISTRAL_API_KEY")
-        or os.getenv("mistral_api_key")
         or ""
     ).strip()
 
@@ -119,8 +118,7 @@ def should_retry_exception(exc: Exception) -> bool:
 
 def backoff_seconds(attempt: int) -> float:
     base = min(5 * (2 ** attempt), 60)
-    jitter = random.uniform(0, 1.0)
-    return base + jitter
+    return base
 
 
 
@@ -203,8 +201,6 @@ def pages_to_markdown(payload: dict[str, Any]) -> str:
 
 def extract_pdf_ocr(path: Path, api_key: str, max_retries: int = 4) -> str:
     """Extract text from PDF using Mistral OCR API via direct HTTP.
-
-    This uses the current upload -> file_id -> OCR flow instead of signed URLs.
     Retries transient HTTP/network failures with exponential backoff.
     """
     last_err: Exception | None = None
