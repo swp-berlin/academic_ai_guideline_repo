@@ -2,7 +2,7 @@
 
 This repository collects institutional AI-guideline documents, mostly from the think tank and academic sector, extracts their text, codes them with a shared qualitative codebook (B1-B13), and publishes machine-readable artifacts for analysis and a local browser explorer.
 
-The goal is to create a toolkit for the different elements that are contained in a typical guideline. 
+The goal is to create a toolkit for the typical elements of AI guidelines, such as definitions, permitted uses, prohibited uses, scopes, revisions, etc. 
 
 ## Status And Validation Caveat
 
@@ -52,7 +52,7 @@ Current coding guidance in the prompt:
 
 - Source metadata in `guidelines.yaml`.
 - Downloaded original files in `downloads/` (PDF/HTML/HTM).
-- Raw extracted text in `texts/`.
+- Raw extracted text in `texts/`. (using mistral-ocr where possible)
 - LLM-cleaned text in `texts_clean/`.
 - Coding outputs (segments, validation, projection) in `outputs/`.
 - A repository-wide status catalog in `index.json`.
@@ -111,13 +111,13 @@ Generates one JSON per document in `outputs/` with:
 Single file:
 
 ```powershell
-uv run scripts/run_coding.py --file texts/universitat-mannheim.txt
+uv run scripts/run_coding.py --file texts_clean/universitat-mannheim.txt
 ```
 
 Batch folder:
 
 ```powershell
-uv run scripts/run_coding.py --dir texts
+uv run scripts/run_coding.py --dir texts_clean
 ```
 
 ### 6) Build Repository Index
