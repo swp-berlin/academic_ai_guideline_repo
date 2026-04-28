@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Build README.md table and index.json from guidelines.yaml.
+"""Build index.json from guidelines.yaml.
 
 Checks which files have been downloaded and which texts extracted,
-then generates a browsable README and a machine-readable index.
+then generates a machine-readable index.
 Fails fast if one slug has multiple download candidates, because that
 makes the repository state ambiguous.
 """
@@ -10,7 +10,6 @@ makes the repository state ambiguous.
 from __future__ import annotations
 
 import json
-from datetime import datetime
 from pathlib import Path
 
 import yaml
@@ -34,71 +33,6 @@ def find_downloaded_file(slug: str) -> Path | None:
             "clean up downloads/ before rebuilding"
         )
     return candidates[0]
-
-
-def build_readme(guidelines: list[dict]) -> str:
-    lines: list[str] = []
-    lines.append("# AI Guidelines Collection")
-    lines.append("")
-    lines.append(
-        "A curated collection of AI usage guidelines from research institutions, "
-        "universities, and public organizations."
-    )
-    lines.append("")
-    lines.append(
-        "**Want to add a guideline?** See [CONTRIBUTING.md](CONTRIBUTING.md)."
-    )
-    lines.append("")
-
-    lines.append("## Guidelines")
-    lines.append("")
-    lines.append("| Institution | Date | Language | Source | Text |")
-    lines.append("| --- | --- | --- | --- | --- |")
-
-    guideline_entries = [entry for entry in guidelines if entry["category"] == "guideline"]
-    for entry in sorted(guideline_entries, key=lambda item: item["institution"].lower()):
-        institution = entry["institution"]
-        date = entry.get("date") or ""
-        url = entry["url"]
-        slug = entry["slug"]
-        language = entry.get("language", "") or ""
-
-        source_link = f"[Source]({url})" if str(url).startswith("http") else str(url)
-        txt_path = TEXTS_DIR / f"{slug}.txt"
-        text_link = f"[Text](texts/{slug}.txt)" if txt_path.exists() else ""
-
-        notes = entry.get("notes") or ""
-        if notes:
-            institution = f"{institution} ({notes})"
-
-        lines.append(
-            f"| {institution} | {date} | {language} | {source_link} | {text_link} |"
-        )
-
-    template_entries = [entry for entry in guidelines if entry["category"] == "template"]
-    if template_entries:
-        lines.append("")
-        lines.append("## Templates & Meta-Resources")
-        lines.append("")
-        lines.append("| Institution | Date | Notes | Source |")
-        lines.append("| --- | --- | --- | --- |")
-        for entry in sorted(template_entries, key=lambda item: item["institution"].lower()):
-            institution = entry["institution"]
-            date = entry.get("date") or ""
-            notes = entry.get("notes") or ""
-            url = entry["url"]
-            source_link = f"[Source]({url})" if str(url).startswith("http") else str(url)
-            lines.append(f"| {institution} | {date} | {notes} | {source_link} |")
-
-    lines.append("")
-    lines.append("---")
-    lines.append("")
-    lines.append(
-        f"*Last updated: {datetime.now().strftime('%Y-%m-%d')} "
-        f"({len(guidelines)} entries)*"
-    )
-    lines.append("")
-    return "\n".join(lines)
 
 
 def build_index(guidelines: list[dict]) -> list[dict]:
@@ -131,10 +65,6 @@ def main() -> int:
 
     if not isinstance(guidelines, list):
         raise ValueError("guidelines.yaml must contain a YAML list")
-
-    readme = build_readme(guidelines)
-    (ROOT / "README.md").write_text(readme, encoding="utf-8")
-    print(f"README.md written ({len(guidelines)} entries)")
 
     index = build_index(guidelines)
     (ROOT / "index.json").write_text(

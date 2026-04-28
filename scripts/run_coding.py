@@ -47,17 +47,19 @@ from dotenv import load_dotenv
 # ── codebook ────────────────────────────────────────────────────────────
 
 B_CODEBOOK = {
-    "B1": "definitions/terminology",
-    "B2": "scope/application",
-    "B3": "purpose/rationale/document status",
-    "B4": "principles/values",
-    "B5": "permitted or encouraged uses",
-    "B6": "restricted or prohibited uses",
-    "B7": "required safeguards/procedures",
-    "B8": "roles/accountability/oversight/escalation",
-    "B9": "risks/limitations/concerns",
-    "B10": "training/support/learning resources",
-    "B11": "monitoring/revision/updating",
+    "B1": "definition of AI",
+    "B2": "other definitions/terminology",
+    "B3": "scope/application of the document",
+    "B4": "purpose/rationale (why a guideline)/document status",
+    "B5": "principles/values underlying document or AI use",
+    "B6": "permitted or encouraged uses of AI",
+    "B7": "restricted or prohibited uses of AI",
+    "B8": "required safeguards/procedures for AI",
+    "B9": "roles/accountability/oversight",
+    "B10": "risks/limitations/concerns",
+    "B11": "training/support/learning resources",
+    "B12": "monitoring/revision/updating",
+    "B13": "other/not coded/metadata",
 }
 
 B_CODES = list(B_CODEBOOK.keys())
@@ -80,10 +82,10 @@ B CODES (primary function — what is the segment doing?):
 {b_codebook}
 
 CODING GUIDANCE:
-- If a segment is about what the document IS, why it exists, who it is for, prefer B1/B2/B3 over operational codes.
-- Prefer B9 when describing a risk or concern; prefer B7 when prescribing a concrete safeguard in response.
-- Use B4 for high-level values or principles that don't prescribe a concrete action.
-- Use B8 when the segment assigns responsibility, accountability, or oversight roles.
+- If a segment is about what the document IS, why it exists, who it is for, prefer B1/B2/B3/B4 over operational codes.
+- Prefer B10 when describing a risk or concern; prefer B8 when prescribing a concrete safeguard in response.
+- Use B5 for high-level values or principles that don't prescribe a concrete action.
+- Use B9 when the segment assigns responsibility, accountability, or oversight roles.
 
 Return a JSON array where each element has:
 - "id": integer starting at 1
@@ -233,7 +235,7 @@ def call_mistral(
             {"role": "user", "content": prompt},
         ],
         "temperature": temperature,
-        "max_tokens": 16_384,
+        "max_tokens": 128_768,
         "response_format": {"type": "json_object"},
     }
 
@@ -770,7 +772,7 @@ def main() -> int:
     print(f"Model: {model}")
     print(f"Files: {len(files)}")
 
-    with httpx.Client(timeout=1200.0) as client:
+    with httpx.Client(timeout=6400.0) as client:
         for i, text_path in enumerate(files):
             try:
                 process_file(

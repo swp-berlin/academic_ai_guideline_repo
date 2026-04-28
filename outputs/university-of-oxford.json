@@ -3,541 +3,610 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Generative Artificial Intelligence (GenAI) is a fast-evolving technology that offers tremendous opportunities and, as with all new technologies, comes with risks. The University of Oxford wishes to enable and support the safe and productive use of GenAI by the Oxford research community.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The aims of this policy are to ensure the responsible use of GenAI in research and to provide clear guidelines for its integration into the research process. The policy is supported by, and should be read alongside, a list of FAQs for GenAI in research that provides good practice advice covering different parts of the research process.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The University promotes adherence to relevant funder and publisher policies and supports the Concordat to Support Research Integrity. In preparing this policy, we have drawn on existing funder policies, and guidelines from funders, publishers, and scholars (a list of sources can be found at the end of this document), and where funder policies exist, we have referenced these.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The policy and FAQs were shaped, through roundtable meetings, by researchers who use GenAI in research and domain experts, working with the academic divisions and the Artificial Intelligence and Machine Learning (AI and ML) Competency Centre; the Research Practice Sub Committee (RPSC) reviewed the policy and FAQs.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Users are advised to interpret the use of GenAI in the context of research practice standards on transparency, rigour and respect; data protection, intellectual property and export control legislation; and information security and compliance guidance.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Use of GenAI is also dependent on the fitness for purpose of the relevant tool in terms of functionality and performance.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Users are advised to choose the tool that is most relevant for their discipline and application, and to be aware that both technology and practice will evolve over time.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Use of GenAI in research is within the scope of research conduct, and actions that are found to be in potential breach will be reviewed in line with the University's Code of practice and procedure on academic integrity in research.",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The University has guidelines in place on using GenAI in communication, and a policy on the use of AI in summative assessment, setting out the expectations for those setting summative assessment and for students undertaking summative assessment.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The policy encompasses the substantive use of GenAI in the research lifecycle, particularly, in applying for funding, conducting research, disseminating and sharing research outputs, and review and assessment, but also its use in research management to enhance service provision and support strategic insight.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Researching GenAI, and training (configuring) and fine-tuning GenAI models, are out of scope of this policy.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Substantive use is defined as using GenAI in research to:\n- interpret and analyse data (including audio and image files) and texts,\n- undertake a literature review or translation,\n- identify research gaps,\n- formulate research aims,\n- develop hypotheses,\n- assist with generating ideas or to develop one’s own thinking,\n- generate code and synthetic data,\n- undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers\n- produce documents using other people’s work or from transcripts or recordings.",
       "repaired": false
     },
     {
       "id": 13,
       "B": "B2",
-      "B_label": "scope/application",
+      "B_label": "other definitions/terminology",
       "text": "Substantive use excludes using GenAI for tasks such as assisting non-native speakers with translation, transforming transcribed spoken language to written language by users who face barriers to writing, formatting documents, or improving one’s own standard of English or a foreign language.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "See section 5 for a glossary of other terms used in this policy.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "This policy applies to all researchers, i.e. members of the University, including staff and students, who are conducting research, and those who are not members of the University but who are conducting research on University premises (including in overseas research units), or using University facilities or funding for their research, such as visiting staff, fellows, students and contractors.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "It also applies to Professional staff, University staff who in some capacity support research, e.g. research facilitators, technicians, IT support staff, library staff, and administrative support staff.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The policy also applies to all internal research funding schemes managed by Research Services, Divisional Offices, and departments.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Professional staff supporting researchers might be interested to use GenAI in order to simplify and improve the operational efficiency of processes, and the speed and quality of analysis; to accelerate the production of documents for different audiences, including summaries; to provide more accurate and targeted guidance to funding applicants.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "All researchers and professional staff supporting researchers are expected to meet the expectations below, and to comply with relevant funder and publisher policies, and professional guidelines.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Professional staff should consult the GenAI FAQs document and when supporting researchers, ensure they are aware of any restrictions to the use of GenAI in research.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In addition, researchers are expected to follow the guidance in the GenAI FAQs document that sets out good practice in the research process.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "All users should:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Professional staff supporting researchers might be interested to use GenAI in order to simplify and improve the operational efficiency of processes, and the speed and quality of analysis; to accelerate the production of documents for different audiences, including summaries; to provide more accurate and targeted guidance to funding applicants.",
       "repaired": false
     },
     {
       "id": 21,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "2.1 Remain ultimately responsible for GenAI content used in research",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Professional staff should consult the GenAI FAQs document and when supporting researchers, ensure they are aware of any restrictions to the use of GenAI in research.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Users of GenAI tools are accountable for the integrity of the content generated by, or with the support, of these tools, maintaining a critical approach to using the output produced by GenAI and an awareness of the tools’ limitations, such as hallucinations, or social biases that may be embedded in training data, which could perpetuate misrepresentation of social categories, protected groups, or historical inaccuracies.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "All users should:",
       "repaired": false
     },
     {
       "id": 23,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "2.2 Understand the implications of uploading material subject to Intellectual Property Rights",
+      "B_label": "roles/accountability/oversight",
+      "text": "Remain ultimately responsible for GenAI content used in research",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Users might be considering whether to upload published or unpublished work, i.e. work protected by copyright and related rights, to a GenAI tool for analysis, or a submitted manuscript or grant application, when acting as a reviewer. Uploading published or unpublished work may constitute a breach of copyright, if it cannot be covered by a copyright exception, e.g. non-commercial research and private study, or criticism and review.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Users of GenAI tools are accountable for the integrity of the content generated by, or with the support, of these tools, maintaining a critical approach to using the output produced by GenAI and an awareness of the tools’ limitations, such as hallucinations, or social biases that may be embedded in training data, which could perpetuate misrepresentation of social categories, protected groups, or historical inaccuracies.",
       "repaired": false
     },
     {
       "id": 25,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Users are advised to ensure the tool being used will not use the uploaded content for training purposes or finetuning the model, and are recommended to use a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier; experienced users may prefer a locally deployed model. Further guidance is available in the University’s guide to copyright or through emailing copyright@bodleian.ox.ac.uk.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Understand the implications of uploading material subject to Intellectual Property Rights",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2.3 Follow information security advice on using generative AI safely",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Users might be considering whether to upload published or unpublished work, i.e. work protected by copyright and related rights, to a GenAI tool for analysis, or a submitted manuscript or grant application, when acting as a reviewer.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B9",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Uploading published or unpublished work may constitute a breach of copyright, if it cannot be covered by a copyright exception, e.g. non-commercial research and private study, or criticism and review.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Users are advised to ensure the tool being used will not use the uploaded content for training purposes or finetuning the model, and are recommended to use a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier; experienced users may prefer a locally deployed model.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Further guidance is available in the University’s guide to copyright or through emailing copyright@bodleian.ox.ac.uk.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Follow information security advice on using generative AI safely",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "While many popular generative AI tools are cloud-hosted services, locally deployed models may also be available for use. Cloud-hosted services present specific confidentiality and disclosure risks since data is accessible to the service provider and potentially other third parties.",
       "repaired": false
     },
     {
-      "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Information that is commercially sensitive and where the Intellectual Property is unprotected, or is subject to a confidentiality agreement or export control, or personal data, should only be uploaded to a generative AI tool when confidentiality can be guaranteed. Users should consult Information Security and Information Compliance advice, use a locally deployed model or a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier, or contact the AI and ML Competency Centre for guidance.",
-      "repaired": false
-    },
-    {
-      "id": 29,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Uploading personal data is considered processing, needs to comply with data protection legislation and, when done as part of undertaking research, requires ethics approval.",
-      "repaired": false
-    },
-    {
-      "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2.4 Declare use of GenAI in research and communicate openly",
-      "repaired": false
-    },
-    {
-      "id": 31,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "When employing a discrete GenAI tool, rather than where GenAI is a functionality in existing software, users should declare the substantive use of GenAI tools in their work. Declarations could include the name, version, date, and how it was used and affected the research process. If relevant, users must make the input (prompts) and output available, in line with open research principles.",
-      "repaired": false
-    },
-    {
       "id": 32,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "2.5 Aim for reproducibility/transparency and robustness in results and conclusions",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Information that is commercially sensitive and where the Intellectual Property is unprotected, or is subject to a confidentiality agreement or export control, or personal data, should only be uploaded to a generative AI tool when confidentiality can be guaranteed.",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Users should consider the probabilistic nature of GenAI tools, which includes the tendency to produce a different output from the same input. Cloud-hosted third-party models inherently present a reproducibility and transparency issue, as they are continuously updated with new versions, cannot be archived and do not make their training data available.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Users should consult Information Security and Information Compliance advice, use a locally deployed model or a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier, or contact the AI and ML Competency Centre for guidance.",
       "repaired": false
     },
     {
       "id": 34,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Locally run models and fully open models offer a better alternative, where feasible and appropriate, to improve reproducibility and transparency. Users should disclose or discuss in methods or acknowledgements, or an additional section determined by the guidelines or policies of the funder or publisher, the limitations of, and interactions with, the GenAI tools used and mitigation measures, e.g. validating outputs, iterative prompting by systematically refining and adjusting the prompts to improve the quality of outputs.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Uploading personal data is considered processing, needs to comply with data protection legislation and, when done as part of undertaking research, requires ethics approval.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "2.6 Learn how to use GenAI tools responsibly to maximise their benefits, including by undertaking training",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Declare use of GenAI in research and communicate openly",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "GenAI tools are evolving quickly, and new ways to use them are regularly discovered. Users should make use of the training, guidance and advice offered by the University (see section 3) and other reputable sources to stay up to date on good practice.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When employing a discrete GenAI tool, rather than where GenAI is a functionality in existing software, users should declare the substantive use of GenAI tools in their work. Declarations could include the name, version, date, and how it was used and affected the research process.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Users might be interested in the University’s Generative AI Special Interest Group (SIG) on Teams run by the AI and Machine Learning (ML) Competency Centre as a source for finding out about emerging practice and new releases, and to ask specific questions.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "If relevant, users must make the input (prompts) and output available, in line with open research principles.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "2.7 Be mindful of the environmental impact of using GenAI tools",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Aim for reproducibility/transparency and robustness in results and conclusions",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Building GenAI models is extremely energy-intensive, while the energy consumed through the use of the resultant tools depends on the task’s complexity and whether it involves image generation or reasoning.",
+      "text": "Users should consider the probabilistic nature of GenAI tools, which includes the tendency to produce a different output from the same input.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Where feasible and appropriate, users are encouraged to favour smaller, locally run GenAI models for routine or low-complexity tasks; this can reduce the environmental and data privacy impacts of remote, cloud-based AI use. Users should consider whether a local AI model, a non-GenAI tool or intelligent automation, is fit for purpose before opting for large, cloud-hosted models.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Cloud-hosted third-party models inherently present a reproducibility and transparency issue, as they are continuously updated with new versions, cannot be archived and do not make their training data available.",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "3. Support provided by the University",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Locally run models and fully open models offer a better alternative, where feasible and appropriate, to improve reproducibility and transparency.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "The University will support users in meeting the expectations set out in section 2, by providing:\n- Through the AI and ML Competency Centre, up-to-date and informed support, advice and information to users on all aspects of using GenAI in research, with more in-depth support for tools selected for their suitability in research, education and administration\n- Through Research Data Oxford, advice and guidance on use of research data with GenAI\n- Through the Advanced Research Computing service and the Biomedical Research Computing facility, advice on running locally deployed models\n- Through the Compliance team in the Assurance Directorate, guidance and support to ensure compliance with data protection legislation\n- Through the Information Security (InfoSec) team in the Assurance Directorate, guidance and support to ensure the use of GenAI does not pose a cyber-security threat\n- Two major generative AI tools for purchase by departments and colleges: ChatGPT Edu, and Microsoft 365 Copilot, offering the ability to use GenAI for research and to collaborate with other users across the University, while protecting data used and generated\n- Training to enable all staff and students to use the capability of GenAI tools in research and to promote best practice; training provided by the AI and ML Competency Centre and the Bodleian Libraries",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Users should disclose or discuss in methods or acknowledgements, or an additional section determined by the guidelines or policies of the funder or publisher, the limitations of, and interactions with, the GenAI tools used and mitigation measures, e.g. validating outputs, iterative prompting by systematically refining and adjusting the prompts to improve the quality of outputs.",
       "repaired": false
     },
     {
       "id": 43,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Sources of related guidance and policy are listed at the end of this policy.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Learn how to use GenAI tools responsibly to maximise their benefits, including by undertaking training",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "4. Policy implementation and reviewing mechanisms",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "GenAI tools are evolving quickly, and new ways to use them are regularly discovered.",
       "repaired": false
     },
     {
       "id": 45,
       "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "This policy and supporting FAQs are published on the Research Practice pages, with links to the policy and FAQs on the Research Support webpages and the AI at Oxford website.",
+      "B_label": "training/support/learning resources",
+      "text": "Users should make use of the training, guidance and advice offered by the University (see section 3) and other reputable sources to stay up to date on good practice.",
       "repaired": false
     },
     {
       "id": 46,
       "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Users might be interested in the University’s Generative AI Special Interest Group (SIG) on Teams run by the AI and Machine Learning (ML) Competency Centre as a source for finding out about emerging practice and new releases, and to ask specific questions.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Be mindful of the environmental impact of using GenAI tools",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Building GenAI models is extremely energy-intensive, while the energy consumed through the use of the resultant tools depends on the task’s complexity and whether it involves image generation or reasoning.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Where feasible and appropriate, users are encouraged to favour smaller, locally run GenAI models for routine or low-complexity tasks; this can reduce the environmental and data privacy impacts of remote, cloud-based AI use.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Users should consider whether a local AI model, a non-GenAI tool or intelligent automation, is fit for purpose before opting for large, cloud-hosted models.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "The University will support users in meeting the expectations set out in section 2, by providing:\n- Through the AI and ML Competency Centre, up-to-date and informed support, advice and information to users on all aspects of using GenAI in research, with more in-depth support for tools selected for their suitability in research, education and administration\n- Through Research Data Oxford, advice and guidance on use of research data with GenAI\n- Through the Advanced Research Computing service and the Biomedical Research Computing facility, advice on running locally deployed models\n- Through the Compliance team in the Assurance Directorate, guidance and support to ensure compliance with data protection legislation\n- Through the Information Security (InfoSec) team in the Assurance Directorate, guidance and support to ensure the use of GenAI does not pose a cyber-security threat\n- Two major generative AI tools for purchase by departments and colleges: ChatGPT Edu, and Microsoft 365 Copilot, offering the ability to use GenAI for research and to collaborate with other users across the University, while protecting data used and generated\n- Training to enable all staff and students to use the capability of GenAI tools in research and to promote best practice; training provided by the AI and ML Competency Centre and the Bodleian Libraries",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Sources of related guidance and policy are listed at the end of this policy.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "This policy and supporting FAQs are published on the Research Practice pages, with links to the policy and FAQs on the Research Support webpages and the AI at Oxford website.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "A policy advisory group will, on a termly basis, undertake a review of the policy, as the use of GenAI will change over time with certain uses becoming universal and new uses emerging; it will also review the FAQs, including commissioning the development of new FAQs and the removal of redundant FAQs.",
       "repaired": false
     },
     {
-      "id": 47,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Recommendations by the policy advisory group that do not materially alter the policy, e.g. additional clarification to sections 1–3, new levels of support and minor changes to existing levels of support (section 4), updates to glossary (section 6), list of existing University policies and guidance, and sources may be approved by the Co-Chairs for RPSC and submitted for noting to RPSC. Substantial changes will be reviewed by RPSC, which may refer the matter to Research and Innovation Committee for approval, or approve the change itself, in accordance with RPSC’s Terms of Reference.",
-      "repaired": false
-    },
-    {
-      "id": 48,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Policy advisory group membership: Dominik Lukes, Lead Business Technologist for AI and ML Competency Centre, Oxford e-Research Centre; Chris Morrison, Head of Copyright and Licensing, Bodleian Libraries; Rowan Wilson, Head of Research Computing and Support Services, IT Services; Dr Sara Ratner, PI of the AI in Education at Oxford University (AIEOU) Interdisciplinary Hub and post-doctoral researcher on the Learning in Families through Technology (LiFT) project, Education; Professor Eleanor Stride, Professor of Biomaterials, Engineering Science and the Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences; Dr Hazem Zohny, Senior Research Fellow in Practical Ethics, Neuroscience, and Society, the Oxford Uehiro Centre for Practical Ethics.",
-      "repaired": false
-    },
-    {
-      "id": 49,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "5. Glossary of terms",
-      "repaired": false
-    },
-    {
-      "id": 50,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Fully open models\nClass 1 models within the three-tier Model Openness Framework (MOF) are the gold standard in reproducible research practice; MOF has 17 components to fulfil completeness of model artefacts, covering code, data, and documentation that are part of the model development lifecycle as well as sharing that enables reproducibility, auditing, and downstream use.",
-      "repaired": false
-    },
-    {
-      "id": 51,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Generative AI (GenAI)\nNovel and rapidly developing AI models and tools that identify patterns and structures in data and generate novel content such as text, images and other media in response to instructions (‘prompts’).",
-      "repaired": false
-    },
-    {
-      "id": 52,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "GenAI model\nA computational system trained on existing data that can generate new content or novel variations of existing content when provided with additional input. A model is created through training on existing data and documents. The learned patterns and relationships in a model are stored as model 'weights'. If these weights are available publicly then it is an open-weight model, such as Meta’s LLaMa or OpenAI’s CLIP models. If the weights are not available publicly then it is a closed-weight model, such as OpenAI’s GPT-4 or Google’s Gemini-2.5.",
-      "repaired": false
-    },
-    {
-      "id": 53,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "GenAI tool\nThe interface through which a user can interact with a GenAI model, sending instructions to the model and receiving generated outputs. Common examples include ChatGPT (powered by GPT models), which began as a text-to-text interface but now supports image-to-text and text-to-image capabilities. Similar tools include Claude and Meta AI's chatbots.\n- Tools can be hosted by a third party or by the maintainers of a model; ChatGPT is an example of a model hosted by the maintainers\n- HuggingFace is a popular website that hosts research, open-weight, and industry models; many models can then either be run locally or run in interfaces on HuggingFace or other third-party websites\n- It is possible in many cases to download and run models on one’s computer or on University servers, i.e. a locally run model, and thereby creating a GenAI tool, but this depends on the size of the model, the specifications of the computer/server, and context-specific resources like technical know-how and internet hosting capacity.",
-      "repaired": false
-    },
-    {
-      "id": 54,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Hallucinations\nGenAI outputs that might initially appear to be believable but are in fact highly inaccurate or untrue, e.g. references that sound plausible but do not exist; a common characteristic of AI language models when producing responses based on limited or incomplete knowledge. Sometimes also termed confabulation.",
-      "repaired": false
-    },
-    {
       "id": 55,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Information Compliance\nMeans compliance with data protection legislation, i.e. any personal data needs to be processed in an open, accurate way and in accordance with the UK’s data protection legislation.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Recommendations by the policy advisory group that do not materially alter the policy, e.g. additional clarification to sections 1–3, new levels of support and minor changes to existing levels of support (section 4), updates to glossary (section 6), list of existing University policies and guidance, and sources may be approved by the Co-Chairs for RPSC and submitted for noting to RPSC.",
       "repaired": false
     },
     {
       "id": 56,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "When using GenAI involves processing of personal data, you will be required to consult the data protection by design framework; if this processing is part of undertaking research, you should obtain research ethics approval.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Substantial changes will be reviewed by RPSC, which may refer the matter to Research and Innovation Committee for approval, or approve the change itself, in accordance with RPSC’s Terms of Reference.",
       "repaired": false
     },
     {
       "id": 57,
       "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Policy advisory group membership: Dominik Lukes, Lead Business Technologist for AI and ML Competency Centre, Oxford e-Research Centre; Chris Morrison, Head of Copyright and Licensing, Bodleian Libraries; Rowan Wilson, Head of Research Computing and Support Services, IT Services; Dr Sara Ratner, PI of the AI in Education at Oxford University (AIEOU) Interdisciplinary Hub and post-doctoral researcher on the Learning in Families through Technology (LiFT) project, Education; Professor Eleanor Stride, Professor of Biomaterials, Engineering Science and the Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences; Dr Hazem Zohny, Senior Research Fellow in Practical Ethics, Neuroscience, and Society, the Oxford Uehiro Centre for Practical Ethics.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Fully open models\nClass 1 models within the three-tier Model Openness Framework (MOF) are the gold standard in reproducible research practice; MOF has 17 components to fulfil completeness of model artefacts, covering code, data, and documentation that are part of the model development lifecycle as well as sharing that enables reproducibility, auditing, and downstream use.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative AI (GenAI)\nNovel and rapidly developing AI models and tools that identify patterns and structures in data and generate novel content such as text, images and other media in response to instructions (‘prompts’).",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "GenAI model\nA computational system trained on existing data that can generate new content or novel variations of existing content when provided with additional input. A model is created through training on existing data and documents. The learned patterns and relationships in a model are stored as model 'weights'. If these weights are available publicly then it is an open-weight model, such as Meta’s LLaMa or OpenAI’s CLIP models. If the weights are not available publicly then it is a closed-weight model, such as OpenAI’s GPT-4 or Google’s Gemini-2.5.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "GenAI tool\nThe interface through which a user can interact with a GenAI model, sending instructions to the model and receiving generated outputs. Common examples include ChatGPT (powered by GPT models), which began as a text-to-text interface but now supports image-to-text and text-to-image capabilities. Similar tools include Claude and Meta AI's chatbots.\n- Tools can be hosted by a third party or by the maintainers of a model; ChatGPT is an example of a model hosted by the maintainers\n- HuggingFace is a popular website that hosts research, open-weight, and industry models; many models can then either be run locally or run in interfaces on HuggingFace or other third-party websites\n- It is possible in many cases to download and run models on one’s computer or on University servers, i.e. a locally run model, and thereby creating a GenAI tool, but this depends on the size of the model, the specifications of the computer/server, and context-specific resources like technical know-how and internet hosting capacity.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Hallucinations\nGenAI outputs that might initially appear to be believable but are in fact highly inaccurate or untrue, e.g. references that sound plausible but do not exist; a common characteristic of AI language models when producing responses based on limited or incomplete knowledge. Sometimes also termed confabulation.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Information Compliance\nMeans compliance with data protection legislation, i.e. any personal data needs to be processed in an open, accurate way and in accordance with the UK’s data protection legislation.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "When using GenAI involves processing of personal data, you will be required to consult the data protection by design framework; if this processing is part of undertaking research, you should obtain research ethics approval.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "The data protection by design framework often includes the completion of a Data Protection Impact Assessment (DPIA): the processing of personal data is of a type identified by the Information Commissioner’s Office (the ICO) as likely to result in a high risk to individuals.",
       "repaired": false
     },
     {
-      "id": 58,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 66,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Information Security\nMeans safeguarding the integrity, availability, and confidentiality of information assets within the University.",
       "repaired": false
     },
     {
-      "id": 59,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "In the context of information security, information is classified as either: public, internal or confidential. Where a GenAI tool is an application connected to a third-party system or a website, information security considerations come into play when data that is internal or confidential is transmitted.\n- The supplier of the GenAI tool should be on the University’s third-party security register, which assesses the regulatory and data compliance of external services. New suppliers may require the completion of a TPSA (Third Party Security Assessment)\n- The University periodically engages in licensing agreements with third parties that will facilitate the secure sharing of documents and has agreements with OpenAI for ChatGPT Edu and with Microsoft for CoPilot for Microsoft 365\n- Users who have a personal account on ChatGPT should not transmit any internal or confidential information to ChatGPT (such as research data), but obtain a ChatGPT-Edu account via the University and read the InfoSec guidance on using GenAI services safely",
+      "id": 67,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In the context of information security, information is classified as either: public, internal or confidential. Where a GenAI tool is an application connected to a third-party system or a website, information security considerations come into play when data that is internal or confidential is transmitted.",
       "repaired": false
     },
     {
-      "id": 60,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 68,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- The supplier of the GenAI tool should be on the University’s third-party security register, which assesses the regulatory and data compliance of external services. New suppliers may require the completion of a TPSA (Third Party Security Assessment)\n- The University periodically engages in licensing agreements with third parties that will facilitate the secure sharing of documents and has agreements with OpenAI for ChatGPT Edu and with Microsoft for CoPilot for Microsoft 365\n- Users who have a personal account on ChatGPT should not transmit any internal or confidential information to ChatGPT (such as research data), but obtain a ChatGPT-Edu account via the University and read the InfoSec guidance on using GenAI services safely",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Large Language Models (LLM)\nA type of machine-learning model designed for natural language processing tasks such as language generation; LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text, from a variety of sources, including public sources; feeding data or text into an LLM is likely to become part of its training data and may show up for other users of the model; LLMs are also used in symbolic systems studies that might not seem to be languages, e.g. LLMs trained on genomic datasets for genome analysis",
       "repaired": false
     },
     {
-      "id": 61,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 70,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Substantive use\nUsing GenAI in research to:\n- interpret and analyse data (including audio and image files) and texts,\n- undertake a literature review or translation,\n- identify research gaps,\n- formulate research aims,\n- develop hypotheses,\n- assist with generating ideas or to develop one’s own thinking,\n- generate code and synthetic data,\n- undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers etc.\n- produce documents using other people’s work or from transcripts or recordings.\n\nSubstantive use excludes using GenAI for tasks such as assisting non-native speakers with translation, transforming transcribed spoken language to written language by users who face barriers to writing, formatting documents, or improving one’s own standard of English or a foreign language.",
       "repaired": false
     },
     {
-      "id": 62,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 71,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Users\nCollective term for researchers and professional staff.",
       "repaired": false
     },
     {
-      "id": 63,
+      "id": 72,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "text": "Relationship with existing University policies and guidance\n- Academic Integrity in Research\n- Research Ethics Policy\n- Open Access Publications Policy\n- Research Data Management Policy\n- Intellectual Property Policy and Regulations\n- Environmental Sustainability Strategy\n- Data Protection Policy\n- Information Security Policy\n- Publication and Authorship Guidance\n- Export Control Guidance\n- Open Research Statement",
       "repaired": false
     },
     {
-      "id": 64,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "all researchers and professional staff supporting researchers are expected to meet the expectations below, and to comply with relevant funder and publisher policies, and professional guidelines.",
-      "repaired": true
-    },
-    {
-      "id": 65,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "in addition, researchers are expected to follow the guidance in the genai faqs document that sets out good practice in the research process.",
-      "repaired": true
-    },
-    {
-      "id": 66,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 73,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "**information security** means safeguarding the integrity, availability, and confidentiality of information assets within the university.",
       "repaired": true
     },
     {
-      "id": 67,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 74,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "**large language models (llm)** a type of machinelearning model designed for natural language processing tasks such as language generation; llms are language models with many parameters, and are trained with selfsupervised learning on a vast amount of text, from a variety of sources, including public sources; feeding data or text into an llm is likely to become part of its training data and may show up for other users of the model; llms are also used in symbolic systems studies that might not seem to be languages, e.g. llms trained on genomic datasets for genome analysis",
       "repaired": true
     },
     {
-      "id": 68,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "**substantive use** using genai in research to: interpret and analyse data (including audio and image files) and texts, undertake a literature review or translation, identify research gaps, formulate research aims, develop hypotheses, assist with generating ideas or to develop one's own thinking, generate code and synthetic data, undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers etc.",
+      "id": 75,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "using genai in research to: interpret and analyse data (including audio and image files) and texts, undertake a literature review or translation, identify research gaps, formulate research aims, develop hypotheses, assist with generating ideas or to develop one's own thinking, generate code and synthetic data, undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers etc.",
       "repaired": true
     },
     {
-      "id": 69,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "id": 76,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "produce documents using other people's work or from transcripts or recordings.",
+      "repaired": true
+    },
+    {
+      "id": 77,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "substantive use excludes using genai for tasks such as assisting nonnative speakers with translation, transforming transcribed spoken language to written language by users who face barriers to writing, formatting documents, or improving one's own standard of english or a foreign language.",
       "repaired": true
     },
     {
-      "id": 70,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "id": 78,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "**users** collective term for researchers and professional staff.",
       "repaired": true
     },
     {
-      "id": 71,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 79,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "**relationship with existing university policies and guidance** academic integrity in research research ethics policy open access publications policy research data management policy intellectual property policy and regulations environmental sustainability strategy data protection policy information security policy publication and authorship guidance export control guidance open research statement",
+      "repaired": true
+    },
+    {
+      "id": 80,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "this policy was written by lotte boon, tanita casci and the ai in research policy coordination group, consisting of authors: johannes abeler, kanza basit, helen carstairs, ferdousi chowdhury, andrew cusworth, megan gooch, marina jirotka, dominic lukeš, chris morrison, mary muers, michael parker, sara ratner, matthew reynolds, martin robinson, irene scullion, eleanor stride, kelly webb-davies, rowan wilson, elizabeth wonnacott, and hazem zohny",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 71,
-    "matched": 66,
-    "unmatched_count": 5,
+    "total": 80,
+    "matched": 74,
+    "unmatched_count": 6,
     "unmatched": [
       {
-        "id": 58,
-        "B": "B1",
+        "id": 66,
+        "B": "B2",
         "matched_words": "2/15",
         "text": "Information Security\nMeans safeguarding the integrity, availability, and confidentiality of information assets within the University."
       },
       {
-        "id": 60,
-        "B": "B1",
+        "id": 69,
+        "B": "B2",
         "matched_words": "4/96",
         "text": "Large Language Models (LLM)\nA type of machine-learning model designed for natural language processing tasks such as language generation; LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text, from a variety of sources, including public sources; feeding data or text into an LLM is likely to become part of its training data and may show up for other users of the model; LLMs are also used in symbolic systems studies that might not seem to be languages, e.g. LLMs trained on genomic datasets for genome analysis"
       },
       {
-        "id": 61,
-        "B": "B1",
+        "id": 70,
+        "B": "B2",
         "matched_words": "2/115",
         "text": "Substantive use\nUsing GenAI in research to:\n- interpret and analyse data (including audio and image files) and texts,\n- undertake a literature review or translation,\n- identify research gaps,\n- formulate research aims,\n- develop hypotheses,\n- assist with generating ideas or to develop one’s own thinking,\n- generate code and synthetic data,\n- undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers etc.\n- produce documents using other people’s work or from transcripts or recordings.\n\nSubstantive use excludes using GenAI for tasks such as assisting non-native speakers with translation, transforming transcribed spoken language to written language by users who face barriers to writing, formatting documents, or improving one’s own standard of English or a foreign language."
       },
       {
-        "id": 62,
-        "B": "B1",
+        "id": 71,
+        "B": "B2",
         "matched_words": "1/8",
         "text": "Users\nCollective term for researchers and professional staff."
       },
       {
-        "id": 63,
+        "id": 72,
         "B": "B3",
         "matched_words": "7/46",
         "text": "Relationship with existing University policies and guidance\n- Academic Integrity in Research\n- Research Ethics Policy\n- Open Access Publications Policy\n- Research Data Management Policy\n- Intellectual Property Policy and Regulations\n- Environmental Sustainability Strategy\n- Data Protection Policy\n- Information Security Policy\n- Publication and Authorship Guidance\n- Export Control Guidance\n- Open Research Statement"
+      },
+      {
+        "id": 80,
+        "B": "B13",
+        "matched_words": "53/61",
+        "text": "this policy was written by lotte boon, tanita casci and the ai in research policy coordination group, consisting of authors: johannes abeler, kanza basit, helen carstairs, ferdousi chowdhury, andrew cusworth, megan gooch, marina jirotka, dominic lukeš, chris morrison, mary muers, michael parker, sara ratner, matthew reynolds, martin robinson, irene scullion, eleanor stride, kelly webb-davies, rowan wilson, elizabeth wonnacott, and hazem zohny"
       }
     ],
-    "source_coverage": 0.889,
-    "uncovered_chars": 2652,
-    "uncovered_gaps": 6,
+    "source_coverage": 0.885,
+    "uncovered_chars": 2788,
+    "uncovered_gaps": 10,
     "uncovered": [
       {
         "char_start": 0,
@@ -558,10 +627,34 @@
         "text": ". 2. expectations from users of generative ai in research"
       },
       {
+        "char_start": 11165,
+        "char_end": 11205,
+        "length": 40,
+        "text": ". 3. support provided by the university"
+      },
+      {
+        "char_start": 12613,
+        "char_end": 12665,
+        "length": 52,
+        "text": ". 4. policy implementation and reviewing mechanisms"
+      },
+      {
+        "char_start": 14498,
+        "char_end": 14521,
+        "length": 23,
+        "text": ". 5. glossary of terms"
+      },
+      {
         "char_start": 17204,
         "char_end": 17267,
         "length": 63,
         "text": ". # policy for using genai in research, version 1.0 - aug 2025"
+      },
+      {
+        "char_start": 19517,
+        "char_end": 19538,
+        "length": 21,
+        "text": "**substantive use**"
       },
       {
         "char_start": 19962,
@@ -591,8 +684,8 @@
       "char_start": 681,
       "char_end": 968,
       "text": "Generative Artificial Intelligence (GenAI) is a fast-evolving technology that offers tremendous opportunities and, as with all new technologies, comes with risks. The University of Oxford wishes to enable and support the safe and productive use of GenAI by the Oxford research community.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -600,8 +693,8 @@
       "char_start": 970,
       "char_end": 1307,
       "text": "The aims of this policy are to ensure the responsible use of GenAI in research and to provide clear guidelines for its integration into the research process. The policy is supported by, and should be read alongside, a list of FAQs for GenAI in research that provides good practice advice covering different parts of the research process.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -609,8 +702,8 @@
       "char_start": 1309,
       "char_end": 1686,
       "text": "The University promotes adherence to relevant funder and publisher policies and supports the Concordat to Support Research Integrity. In preparing this policy, we have drawn on existing funder policies, and guidelines from funders, publishers, and scholars (a list of sources can be found at the end of this document), and where funder policies exist, we have referenced these.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -618,8 +711,8 @@
       "char_start": 1688,
       "char_end": 2003,
       "text": "The policy and FAQs were shaped, through roundtable meetings, by researchers who use GenAI in research and domain experts, working with the academic divisions and the Artificial Intelligence and Machine Learning (AI and ML) Competency Centre; the Research Practice Sub Committee (RPSC) reviewed the policy and FAQs.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
@@ -627,8 +720,8 @@
       "char_start": 2005,
       "char_end": 2256,
       "text": "Users are advised to interpret the use of GenAI in the context of research practice standards on transparency, rigour and respect; data protection, intellectual property and export control legislation; and information security and compliance guidance.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 5,
       "match_type": "exact"
     },
@@ -636,7 +729,7 @@
       "char_start": 2257,
       "char_end": 2378,
       "text": "Use of GenAI is also dependent on the fitness for purpose of the relevant tool in terms of functionality and performance.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 6,
       "match_type": "exact"
@@ -645,8 +738,8 @@
       "char_start": 2379,
       "char_end": 2548,
       "text": "Users are advised to choose the tool that is most relevant for their discipline and application, and to be aware that both technology and practice will evolve over time.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 7,
       "match_type": "exact"
     },
@@ -654,8 +747,8 @@
       "char_start": 2550,
       "char_end": 2781,
       "text": "Use of GenAI in research is within the scope of research conduct, and actions that are found to be in potential breach will be reviewed in line with the University's Code of practice and procedure on academic integrity in research.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -663,8 +756,8 @@
       "char_start": 2783,
       "char_end": 3028,
       "text": "The University has guidelines in place on using GenAI in communication, and a policy on the use of AI in summative assessment, setting out the expectations for those setting summative assessment and for students undertaking summative assessment.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -681,8 +774,8 @@
       "char_start": 3040,
       "char_end": 3349,
       "text": "The policy encompasses the substantive use of GenAI in the research lifecycle, particularly, in applying for funding, conducting research, disseminating and sharing research outputs, and review and assessment, but also its use in research management to enhance service provision and support strategic insight.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -690,8 +783,8 @@
       "char_start": 3350,
       "char_end": 3458,
       "text": "Researching GenAI, and training (configuring) and fine-tuning GenAI models, are out of scope of this policy.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 11,
       "match_type": "exact"
     },
@@ -699,8 +792,8 @@
       "char_start": 3460,
       "char_end": 4007,
       "text": "Substantive use is defined as using GenAI in research to:\n- interpret and analyse data (including audio and image files) and texts,\n- undertake a literature review or translation,\n- identify research gaps,\n- formulate research aims,\n- develop hypotheses,\n- assist with generating ideas or to develop one’s own thinking,\n- generate code and synthetic data,\n- undertake transcription of interviews, meetings etc. to save time and effort rather than overcoming barriers\n- produce documents using other people’s work or from transcripts or recordings.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 12,
       "match_type": "exact"
     },
@@ -709,7 +802,7 @@
       "char_end": 4299,
       "text": "Substantive use excludes using GenAI for tasks such as assisting non-native speakers with translation, transforming transcribed spoken language to written language by users who face barriers to writing, formatting documents, or improving one’s own standard of English or a foreign language.",
       "B": "B2",
-      "B_label": "scope/application",
+      "B_label": "other definitions/terminology",
       "segment_id": 13,
       "match_type": "exact"
     },
@@ -717,8 +810,8 @@
       "char_start": 4301,
       "char_end": 4365,
       "text": "See section 5 for a glossary of other terms used in this policy.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 14,
       "match_type": "exact"
     },
@@ -726,8 +819,8 @@
       "char_start": 4367,
       "char_end": 4761,
       "text": "This policy applies to all researchers, i.e. members of the University, including staff and students, who are conducting research, and those who are not members of the University but who are conducting research on University premises (including in overseas research units), or using University facilities or funding for their research, such as visiting staff, fellows, students and contractors.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 15,
       "match_type": "exact"
     },
@@ -735,8 +828,8 @@
       "char_start": 4762,
       "char_end": 4964,
       "text": "It also applies to Professional staff, University staff who in some capacity support research, e.g. research facilitators, technicians, IT support staff, library staff, and administrative support staff.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 16,
       "match_type": "exact"
     },
@@ -744,8 +837,8 @@
       "char_start": 4966,
       "char_end": 5097,
       "text": "The policy also applies to all internal research funding schemes managed by Research Services, Divisional Offices, and departments.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 17,
       "match_type": "exact"
     },
@@ -763,8 +856,8 @@
       "char_end": 5349,
       "text": "All researchers and professional staff supporting researchers are expected to meet the expectations below, and to comply with relevant funder and publisher policies, and professional guidelines.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 64,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
@@ -772,44 +865,53 @@
       "char_end": 5490,
       "text": "In addition, researchers are expected to follow the guidance in the GenAI FAQs document that sets out good practice in the research process.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 65,
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
       "char_start": 5492,
       "char_end": 5837,
       "text": "Professional staff supporting researchers might be interested to use GenAI in order to simplify and improve the operational efficiency of processes, and the speed and quality of analysis; to accelerate the production of documents for different audiences, including summaries; to provide more accurate and targeted guidance to funding applicants.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
       "char_start": 5839,
       "char_end": 6004,
       "text": "Professional staff should consult the GenAI FAQs document and when supporting researchers, ensure they are aware of any restrictions to the use of GenAI in research.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
       "match_type": "exact"
     },
     {
       "char_start": 6006,
       "char_end": 6023,
       "text": "All users should:",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
-      "char_start": 6025,
+      "char_start": 6023,
+      "char_end": 6029,
+      "text": "\n\n2.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6029,
       "char_end": 6093,
-      "text": "2.1 Remain ultimately responsible for GenAI content used in research",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 21,
+      "text": "Remain ultimately responsible for GenAI content used in research",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
@@ -817,62 +919,107 @@
       "char_end": 6517,
       "text": "Users of GenAI tools are accountable for the integrity of the content generated by, or with the support, of these tools, maintaining a critical approach to using the output produced by GenAI and an awareness of the tools’ limitations, such as hallucinations, or social biases that may be embedded in training data, which could perpetuate misrepresentation of social categories, protected groups, or historical inaccuracies.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 22,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6519,
-      "char_end": 6612,
-      "text": "2.2 Understand the implications of uploading material subject to Intellectual Property Rights",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 23,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6613,
-      "char_end": 7047,
-      "text": "Users might be considering whether to upload published or unpublished work, i.e. work protected by copyright and related rights, to a GenAI tool for analysis, or a submitted manuscript or grant application, when acting as a reviewer. Uploading published or unpublished work may constitute a breach of copyright, if it cannot be covered by a copyright exception, e.g. non-commercial research and private study, or criticism and review.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 24,
       "match_type": "exact"
     },
     {
-      "char_start": 7048,
-      "char_end": 7480,
-      "text": "Users are advised to ensure the tool being used will not use the uploaded content for training purposes or finetuning the model, and are recommended to use a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier; experienced users may prefer a locally deployed model. Further guidance is available in the University’s guide to copyright or through emailing copyright@bodleian.ox.ac.uk.",
+      "char_start": 6517,
+      "char_end": 6523,
+      "text": "\n\n2.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6523,
+      "char_end": 6612,
+      "text": "Understand the implications of uploading material subject to Intellectual Property Rights",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 25,
       "match_type": "exact"
     },
     {
-      "char_start": 7482,
-      "char_end": 7550,
-      "text": "2.3 Follow information security advice on using generative AI safely",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 6613,
+      "char_end": 6846,
+      "text": "Users might be considering whether to upload published or unpublished work, i.e. work protected by copyright and related rights, to a GenAI tool for analysis, or a submitted manuscript or grant application, when acting as a reviewer.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6847,
+      "char_end": 7047,
+      "text": "Uploading published or unpublished work may constitute a breach of copyright, if it cannot be covered by a copyright exception, e.g. non-commercial research and private study, or criticism and review.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7048,
+      "char_end": 7362,
+      "text": "Users are advised to ensure the tool being used will not use the uploaded content for training purposes or finetuning the model, and are recommended to use a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier; experienced users may prefer a locally deployed model.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7363,
+      "char_end": 7480,
+      "text": "Further guidance is available in the University’s guide to copyright or through emailing copyright@bodleian.ox.ac.uk.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7480,
+      "char_end": 7486,
+      "text": "\n\n2.3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7486,
+      "char_end": 7550,
+      "text": "Follow information security advice on using generative AI safely",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
       "char_start": 7551,
       "char_end": 7833,
       "text": "While many popular generative AI tools are cloud-hosted services, locally deployed models may also be available for use. Cloud-hosted services present specific confidentiality and disclosure risks since data is accessible to the service provider and potentially other third parties.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 27,
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
       "char_start": 7834,
-      "char_end": 8368,
-      "text": "Information that is commercially sensitive and where the Intellectual Property is unprotected, or is subject to a confidentiality agreement or export control, or personal data, should only be uploaded to a generative AI tool when confidentiality can be guaranteed. Users should consult Information Security and Information Compliance advice, use a locally deployed model or a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier, or contact the AI and ML Competency Centre for guidance.",
+      "char_end": 8098,
+      "text": "Information that is commercially sensitive and where the Intellectual Property is unprotected, or is subject to a confidentiality agreement or export control, or personal data, should only be uploaded to a generative AI tool when confidentiality can be guaranteed.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8099,
+      "char_end": 8368,
+      "text": "Users should consult Information Security and Information Compliance advice, use a locally deployed model or a licence of an enterprise GenAI tool governed by an agreement between the University and the supplier, or contact the AI and ML Competency Centre for guidance.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
@@ -880,197 +1027,287 @@
       "char_end": 8541,
       "text": "Uploading personal data is considered processing, needs to comply with data protection legislation and, when done as part of undertaking research, requires ethics approval.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 29,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8543,
-      "char_end": 8602,
-      "text": "2.4 Declare use of GenAI in research and communicate openly",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8603,
-      "char_end": 8993,
-      "text": "When employing a discrete GenAI tool, rather than where GenAI is a functionality in existing software, users should declare the substantive use of GenAI tools in their work. Declarations could include the name, version, date, and how it was used and affected the research process. If relevant, users must make the input (prompts) and output available, in line with open research principles.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 31,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8995,
-      "char_end": 9077,
-      "text": "2.5 Aim for reproducibility/transparency and robustness in results and conclusions",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 32,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9078,
-      "char_end": 9430,
-      "text": "Users should consider the probabilistic nature of GenAI tools, which includes the tendency to produce a different output from the same input. Cloud-hosted third-party models inherently present a reproducibility and transparency issue, as they are continuously updated with new versions, cannot be archived and do not make their training data available.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 33,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 9431,
-      "char_end": 9957,
-      "text": "Locally run models and fully open models offer a better alternative, where feasible and appropriate, to improve reproducibility and transparency. Users should disclose or discuss in methods or acknowledgements, or an additional section determined by the guidelines or policies of the funder or publisher, the limitations of, and interactions with, the GenAI tools used and mitigation measures, e.g. validating outputs, iterative prompting by systematically refining and adjusting the prompts to improve the quality of outputs.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 34,
       "match_type": "exact"
     },
     {
-      "char_start": 9959,
-      "char_end": 10065,
-      "text": "2.6 Learn how to use GenAI tools responsibly to maximise their benefits, including by undertaking training",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 8541,
+      "char_end": 8547,
+      "text": "\n\n2.4 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8547,
+      "char_end": 8602,
+      "text": "Declare use of GenAI in research and communicate openly",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 10066,
-      "char_end": 10316,
-      "text": "GenAI tools are evolving quickly, and new ways to use them are regularly discovered. Users should make use of the training, guidance and advice offered by the University (see section 3) and other reputable sources to stay up to date on good practice.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 8603,
+      "char_end": 8883,
+      "text": "When employing a discrete GenAI tool, rather than where GenAI is a functionality in existing software, users should declare the substantive use of GenAI tools in their work. Declarations could include the name, version, date, and how it was used and affected the research process.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8884,
+      "char_end": 8993,
+      "text": "If relevant, users must make the input (prompts) and output available, in line with open research principles.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8993,
+      "char_end": 8999,
+      "text": "\n\n2.5 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8999,
+      "char_end": 9077,
+      "text": "Aim for reproducibility/transparency and robustness in results and conclusions",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9078,
+      "char_end": 9219,
+      "text": "Users should consider the probabilistic nature of GenAI tools, which includes the tendency to produce a different output from the same input.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9220,
+      "char_end": 9430,
+      "text": "Cloud-hosted third-party models inherently present a reproducibility and transparency issue, as they are continuously updated with new versions, cannot be archived and do not make their training data available.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9431,
+      "char_end": 9576,
+      "text": "Locally run models and fully open models offer a better alternative, where feasible and appropriate, to improve reproducibility and transparency.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9577,
+      "char_end": 9957,
+      "text": "Users should disclose or discuss in methods or acknowledgements, or an additional section determined by the guidelines or policies of the funder or publisher, the limitations of, and interactions with, the GenAI tools used and mitigation measures, e.g. validating outputs, iterative prompting by systematically refining and adjusting the prompts to improve the quality of outputs.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9957,
+      "char_end": 9963,
+      "text": "\n\n2.6 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9963,
+      "char_end": 10065,
+      "text": "Learn how to use GenAI tools responsibly to maximise their benefits, including by undertaking training",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10066,
+      "char_end": 10150,
+      "text": "GenAI tools are evolving quickly, and new ways to use them are regularly discovered.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10151,
+      "char_end": 10316,
+      "text": "Users should make use of the training, guidance and advice offered by the University (see section 3) and other reputable sources to stay up to date on good practice.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
       "char_start": 10317,
       "char_end": 10573,
       "text": "Users might be interested in the University’s Generative AI Special Interest Group (SIG) on Teams run by the AI and Machine Learning (ML) Competency Centre as a source for finding out about emerging practice and new releases, and to ask specific questions.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 37,
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
-      "char_start": 10575,
+      "char_start": 10573,
+      "char_end": 10579,
+      "text": "\n\n2.7 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10579,
       "char_end": 10638,
-      "text": "2.7 Be mindful of the environmental impact of using GenAI tools",
-      "B": "B9",
+      "text": "Be mindful of the environmental impact of using GenAI tools",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 38,
+      "segment_id": 47,
       "match_type": "exact"
     },
     {
       "char_start": 10639,
       "char_end": 10844,
       "text": "Building GenAI models is extremely energy-intensive, while the energy consumed through the use of the resultant tools depends on the task’s complexity and whether it involves image generation or reasoning.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 39,
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
       "char_start": 10845,
-      "char_end": 11225,
-      "text": "Where feasible and appropriate, users are encouraged to favour smaller, locally run GenAI models for routine or low-complexity tasks; this can reduce the environmental and data privacy impacts of remote, cloud-based AI use. Users should consider whether a local AI model, a non-GenAI tool or intelligent automation, is fit for purpose before opting for large, cloud-hosted models.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 40,
+      "char_end": 11068,
+      "text": "Where feasible and appropriate, users are encouraged to favour smaller, locally run GenAI models for routine or low-complexity tasks; this can reduce the environmental and data privacy impacts of remote, cloud-based AI use.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
       "match_type": "exact"
     },
     {
-      "char_start": 11227,
-      "char_end": 11264,
-      "text": "3. Support provided by the University",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 41,
+      "char_start": 11069,
+      "char_end": 11225,
+      "text": "Users should consider whether a local AI model, a non-GenAI tool or intelligent automation, is fit for purpose before opting for large, cloud-hosted models.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
       "match_type": "exact"
+    },
+    {
+      "char_start": 11225,
+      "char_end": 11265,
+      "text": "\n\n3. Support provided by the University\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 11265,
       "char_end": 12615,
       "text": "The University will support users in meeting the expectations set out in section 2, by providing:\n- Through the AI and ML Competency Centre, up-to-date and informed support, advice and information to users on all aspects of using GenAI in research, with more in-depth support for tools selected for their suitability in research, education and administration\n- Through Research Data Oxford, advice and guidance on use of research data with GenAI\n- Through the Advanced Research Computing service and the Biomedical Research Computing facility, advice on running locally deployed models\n- Through the Compliance team in the Assurance Directorate, guidance and support to ensure compliance with data protection legislation\n- Through the Information Security (InfoSec) team in the Assurance Directorate, guidance and support to ensure the use of GenAI does not pose a cyber-security threat\n- Two major generative AI tools for purchase by departments and colleges: ChatGPT Edu, and Microsoft 365 Copilot, offering the ability to use GenAI for research and to collaborate with other users across the University, while protecting data used and generated\n- Training to enable all staff and students to use the capability of GenAI tools in research and to promote best practice; training provided by the AI and ML Competency Centre and the Bodleian Libraries",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 42,
+      "segment_id": 51,
       "match_type": "exact"
     },
     {
       "char_start": 12617,
       "char_end": 12693,
       "text": "Sources of related guidance and policy are listed at the end of this policy.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 43,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {
-      "char_start": 12695,
-      "char_end": 12744,
-      "text": "4. Policy implementation and reviewing mechanisms",
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "segment_id": 44,
-      "match_type": "exact"
+      "char_start": 12693,
+      "char_end": 12745,
+      "text": "\n\n4. Policy implementation and reviewing mechanisms\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 12745,
       "char_end": 12919,
       "text": "This policy and supporting FAQs are published on the Research Practice pages, with links to the policy and FAQs on the Research Support webpages and the AI at Oxford website.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 45,
+      "segment_id": 53,
       "match_type": "exact"
     },
     {
       "char_start": 12921,
       "char_end": 13222,
       "text": "A policy advisory group will, on a termly basis, undertake a review of the policy, as the use of GenAI will change over time with certain uses becoming universal and new uses emerging; it will also review the FAQs, including commissioning the development of new FAQs and the removal of redundant FAQs.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 46,
+      "segment_id": 54,
       "match_type": "exact"
     },
     {
       "char_start": 13224,
-      "char_end": 13811,
-      "text": "Recommendations by the policy advisory group that do not materially alter the policy, e.g. additional clarification to sections 1–3, new levels of support and minor changes to existing levels of support (section 4), updates to glossary (section 6), list of existing University policies and guidance, and sources may be approved by the Co-Chairs for RPSC and submitted for noting to RPSC. Substantial changes will be reviewed by RPSC, which may refer the matter to Research and Innovation Committee for approval, or approve the change itself, in accordance with RPSC’s Terms of Reference.",
-      "B": "B11",
+      "char_end": 13611,
+      "text": "Recommendations by the policy advisory group that do not materially alter the policy, e.g. additional clarification to sections 1–3, new levels of support and minor changes to existing levels of support (section 4), updates to glossary (section 6), list of existing University policies and guidance, and sources may be approved by the Co-Chairs for RPSC and submitted for noting to RPSC.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 47,
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13612,
+      "char_end": 13811,
+      "text": "Substantial changes will be reviewed by RPSC, which may refer the matter to Research and Innovation Committee for approval, or approve the change itself, in accordance with RPSC’s Terms of Reference.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 56,
       "match_type": "exact"
     },
     {
       "char_start": 13813,
       "char_end": 14583,
       "text": "Policy advisory group membership: Dominik Lukes, Lead Business Technologist for AI and ML Competency Centre, Oxford e-Research Centre; Chris Morrison, Head of Copyright and Licensing, Bodleian Libraries; Rowan Wilson, Head of Research Computing and Support Services, IT Services; Dr Sara Ratner, PI of the AI in Education at Oxford University (AIEOU) Interdisciplinary Hub and post-doctoral researcher on the Learning in Families through Technology (LiFT) project, Education; Professor Eleanor Stride, Professor of Biomaterials, Engineering Science and the Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences; Dr Hazem Zohny, Senior Research Fellow in Practical Ethics, Neuroscience, and Society, the Oxford Uehiro Centre for Practical Ethics.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 48,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 57,
       "match_type": "exact"
     },
     {
-      "char_start": 14585,
-      "char_end": 14605,
-      "text": "5. Glossary of terms",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 49,
-      "match_type": "exact"
+      "char_start": 14583,
+      "char_end": 14607,
+      "text": "\n\n5. Glossary of terms\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 14607,
       "char_end": 14981,
       "text": "Fully open models\nClass 1 models within the three-tier Model Openness Framework (MOF) are the gold standard in reproducible research practice; MOF has 17 components to fulfil completeness of model artefacts, covering code, data, and documentation that are part of the model development lifecycle as well as sharing that enables reproducibility, auditing, and downstream use.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 50,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 58,
       "match_type": "exact"
     },
     {
@@ -1078,44 +1315,44 @@
       "char_end": 15204,
       "text": "Generative AI (GenAI)\nNovel and rapidly developing AI models and tools that identify patterns and structures in data and generate novel content such as text, images and other media in response to instructions (‘prompts’).",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 51,
+      "B_label": "definition of AI",
+      "segment_id": 59,
       "match_type": "exact"
     },
     {
       "char_start": 15206,
       "char_end": 15763,
       "text": "GenAI model\nA computational system trained on existing data that can generate new content or novel variations of existing content when provided with additional input. A model is created through training on existing data and documents. The learned patterns and relationships in a model are stored as model 'weights'. If these weights are available publicly then it is an open-weight model, such as Meta’s LLaMa or OpenAI’s CLIP models. If the weights are not available publicly then it is a closed-weight model, such as OpenAI’s GPT-4 or Google’s Gemini-2.5.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 52,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 60,
       "match_type": "exact"
     },
     {
       "char_start": 15765,
       "char_end": 16789,
       "text": "GenAI tool\nThe interface through which a user can interact with a GenAI model, sending instructions to the model and receiving generated outputs. Common examples include ChatGPT (powered by GPT models), which began as a text-to-text interface but now supports image-to-text and text-to-image capabilities. Similar tools include Claude and Meta AI's chatbots.\n- Tools can be hosted by a third party or by the maintainers of a model; ChatGPT is an example of a model hosted by the maintainers\n- HuggingFace is a popular website that hosts research, open-weight, and industry models; many models can then either be run locally or run in interfaces on HuggingFace or other third-party websites\n- It is possible in many cases to download and run models on one’s computer or on University servers, i.e. a locally run model, and thereby creating a GenAI tool, but this depends on the size of the model, the specifications of the computer/server, and context-specific resources like technical know-how and internet hosting capacity.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 53,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 61,
       "match_type": "exact"
     },
     {
       "char_start": 16791,
       "char_end": 17114,
       "text": "Hallucinations\nGenAI outputs that might initially appear to be believable but are in fact highly inaccurate or untrue, e.g. references that sound plausible but do not exist; a common characteristic of AI language models when producing responses based on limited or incomplete knowledge. Sometimes also termed confabulation.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 54,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 62,
       "match_type": "exact"
     },
     {
       "char_start": 17116,
       "char_end": 17320,
       "text": "Information Compliance\nMeans compliance with data protection legislation, i.e. any personal data needs to be processed in an open, accurate way and in accordance with the UK’s data protection legislation.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 55,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 63,
       "match_type": "exact"
     },
     {
@@ -1132,17 +1369,17 @@
       "char_end": 17607,
       "text": "When using GenAI involves processing of personal data, you will be required to consult the data protection by design framework; if this processing is part of undertaking research, you should obtain research ethics approval.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 56,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 64,
       "match_type": "exact"
     },
     {
       "char_start": 17609,
       "char_end": 17883,
       "text": "The data protection by design framework often includes the completion of a Data Protection Impact Assessment (DPIA): the processing of personal data is of a type identified by the Information Commissioner’s Office (the ICO) as likely to result in a high risk to individuals.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 57,
+      "segment_id": 65,
       "match_type": "exact"
     },
     {
@@ -1156,20 +1393,29 @@
     },
     {
       "char_start": 18025,
+      "char_end": 18330,
+      "text": "In the context of information security, information is classified as either: public, internal or confidential. Where a GenAI tool is an application connected to a third-party system or a website, information security considerations come into play when data that is internal or confidential is transmitted.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18332,
       "char_end": 19069,
-      "text": "In the context of information security, information is classified as either: public, internal or confidential. Where a GenAI tool is an application connected to a third-party system or a website, information security considerations come into play when data that is internal or confidential is transmitted.\n\n- The supplier of the GenAI tool should be on the University’s third-party security register, which assesses the regulatory and data compliance of external services. New suppliers may require the completion of a TPSA (Third Party Security Assessment)\n- The University periodically engages in licensing agreements with third parties that will facilitate the secure sharing of documents and has agreements with OpenAI for ChatGPT Edu and with Microsoft for CoPilot for Microsoft 365\n- Users who have a personal account on ChatGPT should not transmit any internal or confidential information to ChatGPT (such as research data), but obtain a ChatGPT-Edu account via the University and read the InfoSec guidance on using GenAI services safely",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 59,
+      "text": "- The supplier of the GenAI tool should be on the University’s third-party security register, which assesses the regulatory and data compliance of external services. New suppliers may require the completion of a TPSA (Third Party Security Assessment)\n- The University periodically engages in licensing agreements with third parties that will facilitate the secure sharing of documents and has agreements with OpenAI for ChatGPT Edu and with Microsoft for CoPilot for Microsoft 365\n- Users who have a personal account on ChatGPT should not transmit any internal or confidential information to ChatGPT (such as research data), but obtain a ChatGPT-Edu account via the University and read the InfoSec guidance on using GenAI services safely",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 68,
       "match_type": "exact"
     },
     {
       "char_start": 19071,
       "char_end": 19651,
       "text": "**Large Language Models (LLM)**\n\nA type of machine-learning model designed for natural language processing tasks such as language generation; LLMs are language models with many parameters, and are trained with self-supervised learning on a vast amount of text, from a variety of sources, including public sources; feeding data or text into an LLM is likely to become part of its training data and may show up for other users of the model; LLMs are also used in symbolic systems studies that might not seem to be languages, e.g. LLMs trained on genomic datasets for genome analysis",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 67,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 74,
       "match_type": "exact"
     },
     {
@@ -1186,14 +1432,23 @@
       "char_end": 20980,
       "text": "Relationship with existing University policies and guidance**\n\n- Academic Integrity in Research\n- Research Ethics Policy\n- Open Access Publications Policy\n- Research Data Management Policy\n- Intellectual Property Policy and Regulations\n- Environmental Sustainability Strategy\n- Data Protection Policy\n- Information Security Policy\n- Publication and Authorship Guidance\n- Export Control Guidance\n- Open Research Statement",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 63,
+      "B_label": "scope/application of the document",
+      "segment_id": 72,
       "match_type": "exact"
     },
     {
-      "char_start": 20980,
+      "char_start": 20982,
+      "char_end": 21428,
+      "text": "This policy was written by Lotte Boon, Tanita Casci and the AI in Research Policy Coordination Group, consisting of authors: Johannes Abeler, Kanza Basit, Helen Carstairs, Ferdousi Chowdhury, Andrew Cusworth, Megan Gooch, Marina Jirotka, Dominic Lukeš, Chris Morrison, Mary Muers, Michael Parker, Sara Ratner, Matthew Reynolds, Martin Robinson, Irene Scullion, Eleanor Stride, Kelly Webb-Davies, Rowan Wilson, Elizabeth Wonnacott, and Hazem Zohny",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21428,
       "char_end": 22473,
-      "text": "\n\nThis policy was written by Lotte Boon, Tanita Casci and the AI in Research Policy Coordination Group, consisting of authors: Johannes Abeler, Kanza Basit, Helen Carstairs, Ferdousi Chowdhury, Andrew Cusworth, Megan Gooch, Marina Jirotka, Dominic Lukeš, Chris Morrison, Mary Muers, Michael Parker, Sara Ratner, Matthew Reynolds, Martin Robinson, Irene Scullion, Eleanor Stride, Kelly Webb-Davies, Rowan Wilson, Elizabeth Wonnacott, and Hazem Zohny\n\n**List of sources**\n\n**Funder statement and policies**\n\n- Funders joint statement: use of generative AI tools in funding applications and assessment (September 2023)\n- UK Research and Innovation (UKRI) policy on use of generative artificial intelligence in application preparation and assessment (September 2024)\n- Wellcome policy on use of generative artificial intelligence when applying for Wellcome grant funding (2024)\n- Cancer Research UK (CRUK) policy on the use of generative artificial intelligence tools in Cancer Research UK funding applications (December 2024)\n\n**Guidelines and guidance**\n\n- International Association of Scientific, Technical & Medical Publishers (STM) Ethical and practical guidelines for the use of generative AI in scholarly communications (December 2023)\n- Guidelines for ethical use and acknowledgement of large language models in writing\n- CRUK guidance for researchers on the use of generative AI (December 2023)\n- European Commission’s Living guidelines on the responsible use of generative AI in research",
+      "text": "\n\n**List of sources**\n\n**Funder statement and policies**\n\n- Funders joint statement: use of generative AI tools in funding applications and assessment (September 2023)\n- UK Research and Innovation (UKRI) policy on use of generative artificial intelligence in application preparation and assessment (September 2024)\n- Wellcome policy on use of generative artificial intelligence when applying for Wellcome grant funding (2024)\n- Cancer Research UK (CRUK) policy on the use of generative artificial intelligence tools in Cancer Research UK funding applications (December 2024)\n\n**Guidelines and guidance**\n\n- International Association of Scientific, Technical & Medical Publishers (STM) Ethical and practical guidelines for the use of generative AI in scholarly communications (December 2023)\n- Guidelines for ethical use and acknowledgement of large language models in writing\n- CRUK guidance for researchers on the use of generative AI (December 2023)\n- European Commission’s Living guidelines on the responsible use of generative AI in research",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,

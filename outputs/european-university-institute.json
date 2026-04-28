@@ -3,594 +3,678 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The Ethics Committee will revise this document every two years.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "text": "Parts of this document were formulated with the assistance of ChatGPT, a Generative AI by OpenAI.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Approved by the Academic Council on May 15, 2024",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The rise of Generative Artificial Intelligence (henceforth, GenAI), especially Large Language Models, and their widespread adoption have brought new possibilities and challenges for academic institutions worldwide.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "On the one hand, GenAI and AI, in general, offer novel opportunities for academic creation and development: opening exciting pathways for academic creativity, transforming scholars’ and staff productivity, improving inclusion, and potentially enhancing the quality and quantity of the work produced.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "On the other hand, its use might impair academic integrity and even allow mass plagiarism and breaches of data and intellectual property rights.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Some institutions have already acknowledged the need to strike a balance between innovation and rigor by setting institutional common principles (e.g., Russell Group principles on the use of generative AI tools in education), have called for a ‘human-centered approach’ (see Guidance for Generative AI in Education and Research, UNESCO), and identified the necessity of an evolving approach (European Commission’s Living guidelines on the responsible use of generative AI in research).",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "The EUI recognizes that EUI members already regularly seek input from AI technologies or human assistance, for example, to brainstorm or generate ideas, for literature search, and to revise, translate, or summarize text, as similarly recognized by the ERC Scientific Council for the research community (Current position of the ERC Scientific Council on Artificial Intelligence).",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Considering these developments, there is a recognized need within the EUI to establish general principles to enhance AI literacy among scholars, adapt academic ethical standards, and implement stringent measures to uphold integrity and prevent plagiarism.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The present ‘EUI Guidelines for the Responsible Use of Artificial Intelligence for Research’ (from now on, the Guidelines) are the outcome of a thorough internal discussion in the academic community of the EUI.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "These Guidelines set principles for ethical (non-discriminatory, unbiased, safe, and responsible) use of GenAI applications for research in the context of the EUI.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "They are founded on three main principles: (i) Literacy and self-awareness, (ii) individual responsibility, and (iii) disciplinary diversity.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Literacy and self-awareness mean that scholars at the EUI should have the ability to understand the implications, including both opportunities and risks, associated with AI use in research.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Individual responsibility means that users, aware of these opportunities and risks, may decide to employ AI tools for research purposes, provided they assume individual responsibility for ensuring the ethical use of these tools.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Different scientific disciplines may advance at varying rates in developing precise standards for using AI in research. These guidelines recognize this diversity and refrain from prescribing a one-size-fits-all approach.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "The subsequent sections of these Guidelines elaborate on these general principles, detailing them further into specific components that contribute to developing a coherent perspective on the emergence of AI tools for research at the EUI. Collectively, these sections illustrate how these tools can be effectively and safely integrated into the EUI’s academic environment.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "This document is primarily concerned with the academic research dimension of the EUI, encompassing Early-Stage Researchers (ESRs), Master Students, Research Assistants and Fellows, and faculty members.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This document is primarily concerned with the academic research dimension of the EUI, encompassing Early-Stage Researchers (ESRs), Master Students, Research Assistants and Fellows, and faculty members. Nonetheless, it may also serve as a valuable resource for administrative staff, subject to certain modifications that administrative representatives may determine necessary.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Nonetheless, it may also serve as a valuable resource for administrative staff, subject to certain modifications that administrative representatives may determine necessary.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "AI and, specifically, the rise of GenAI create exciting research opportunities.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "AI and, specifically, the rise of GenAI create exciting research opportunities. Tools such as text, image, and chart generation and coding capabilities are among some of the primary capabilities that most AI applications effectively offer today.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Tools such as text, image, and chart generation and coding capabilities are among some of the primary capabilities that most AI applications effectively offer today.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "The EUI regards these tools as useful instruments with the potential to increase EUI members’ productivity, augment the quality of their work, and possibly facilitate inclusion.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "However, scholars must be trained to understand and correctly use AI tools to achieve such potential. The EUI must thus provide its community of scholars with knowledge about the opportunities and risks of AI for research.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Specifically, the EUI should offer frequent training, with workshops that involve practical exercises on using technology, such as AI applications, in an academic context.",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "These sessions should show the possibilities of existing AI tools in an academic setting, the drawbacks of their outputs as well as the dangers, and the data protection issues, such as covert data gathering and direct and indirect plagiarism.",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "This training should ensure equal opportunities for all EUI members, while also considering the implications for improved inclusion (discussed later).",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "A dedicated resources page should be developed to centralize relevant information on the ethical uses of this technology, with references to safe applications, best practices, existing codes of conduct, and a collection of acceptable use cases.",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "An open channel should be established for EUI members to provide suggestions and potential new uses of AI, relevant internal and external sources of tools, and some Frequently Asked Questions (FAQs) with a summary of the EUI key policies.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "The EUI recognizes that GenAI tools can foster the inclusion of scholars by, for example, helping with non-native language skills, improving communication, and tackling specific difficulties such as dyslexia.",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "AI technology should offer the same potential benefits to all members of the EUI. This means everyone should have access to the training and the tools and be able to afford paid applications, as they can with other tools and software for research, within the EUI’s budgetary constraints.",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Also, the EUI will ensure, where possible, that these tools use diverse sources, including different languages and cultures, and are accessible to the EUI members.",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "It is also essential to recognize the dangers of AI discrimination given the unknown sources of the data used for training and the possibility of producing biased outcomes.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "To prevent these biases from being reinforced and perpetuated in research, following the EUI Ethnic and Racial Equality Plan 2023-2026, the EUI will regularly inform its community about these dangers, evaluate, and suggest a list of specific applications deemed more secure from this point of view.",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "The use of AI in research and academic activities must follow existing ethical standards for academic research at the EUI, and every member of the EUI is individually responsible for their use of GenAI.",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "The EU recognizes the shortcomings of existing anti-plagiarism software in detecting AI-generated content, including the risk of false positives produced by these systems.",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Consequently, the EUI does not use such detection tools at this time and relies on individual responsibility.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Within this framework, each member of the EUI is expected to understand the consequences of using AI. Users are individually responsible for ensuring the integrity of the content they submit for academic evaluation and their overall academic output.",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Violations of the present guidelines will lead to standard remedies, such as in the case of plagiarism.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "In what follows, the individual responsibility for the ethical use of AI is further specified in terms of specific professional and research activities, including participation in research presentation events. Considering that some applications of AI are yet to be explored, the principles of individual responsibility, self-awareness, and disciplinary diversity should always guide EUI members in these unchartered territories.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "AI may help generate inspiration and ideas for potential research topics. This can involve prompting AI applications with research ideas and topics or asking for research suggestions.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "EUI members are responsible for reviewing and fact-checking every single output to ensure that the sources provided by the application are accurate and that no existing work is being improperly replicated.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Where AI only inspires a researcher’s autonomous writing, its use need not be mentioned. However, since standards for using AI are still unsettled and will vary across disciplines, EUI members should always recognize and acknowledge the contributions of AI in generating academic work if asked to declare them.",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Keeping track of specific contributions and documenting the research development process are essential for accountability and potential future reference.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "EUI members should refrain from having GenAI autonomously write substantial or integral parts of a dissertation, book, paper, or other academic work.",
       "repaired": false
     },
     {
       "id": 43,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "When using AI to produce novel content, including text, audio-video-images, data, and coding, users must acknowledge and reference the parts of the content that have been AI-generated.",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Users are always responsible for copyright or personal data breaches that the application might have incurred.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "In line with the principle of responsibility, authors should always be able to distinguish between their contributions and those made by AI.",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "The same standards and sanctions for cases of plagiarism as contemplated in the EUI Code of Ethics apply to AI-generated content.",
       "repaired": false
     },
     {
       "id": 47,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "AI can assist in conducting literature reviews or identifying relevant sources for research.",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "However, EUI members must verify the output’s accuracy and reliability and should not directly incorporate these results into their academic work.",
       "repaired": false
     },
     {
       "id": 49,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "A notable limitation of AI at present is the phenomenon known as ‘hallucination,’ where the AI generates inaccuracies and references to non-existent sources.",
       "repaired": false
     },
     {
       "id": 50,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Additionally, biases favoring gender and racial majorities are other recognized issues.",
       "repaired": false
     },
     {
       "id": 51,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Users must meticulously review each source and independently research the topic to identify sources other than those suggested by AI.",
       "repaired": false
     },
     {
       "id": 52,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Ultimately, each EUI member bears full responsibility for their content, encompassing explicit and implicit forms of plagiarism.",
       "repaired": false
     },
     {
       "id": 53,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "GenAI could be used to analyze data and organize and visualize information from novel, existing, and AI-generated databases.",
       "repaired": false
     },
     {
       "id": 54,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Where users solely use AI to arrange existing human-generated academic outputs, they should take care in referring to all the sources and give credit to the original authors.",
       "repaired": false
     },
     {
       "id": 55,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "For the purposes discussed here, users should always verify the replicability of AI’s outputs. If this is impossible, detailed references to the tool should be accounted for, including the software and prompts passed to the AI.",
       "repaired": false
     },
     {
       "id": 56,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "EUI members must not enter or upload research or non-research confidential data into AI unless the data comply with applicable privacy and confidentiality standards regulations, as enshrined in the General Data Protection Regulation, EUI Data Protection Policy, and the EUI’s privacy policy.",
       "repaired": false
     },
     {
       "id": 57,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "In this context, it is crucial to exercise particular care when processing AI transcriptions of interviews, as this could be incompatible with the stated requirements.",
       "repaired": false
     },
     {
       "id": 58,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Members of the EUI may use GenAI tools to execute grammar or language corrections on their existing texts to enhance readability, including extensive re-writing and paraphrasing, provided the original text is their own.",
       "repaired": false
     },
     {
       "id": 59,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "AI tools can also help overcome linguistic challenges in writing academic texts, thus representing a tool that is supportive of inclusivity.",
       "repaired": false
     },
     {
       "id": 60,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "In these cases, AI is used similarly to other grammar software and does not constitute plagiarism.",
       "repaired": false
     },
     {
       "id": 61,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "GenAI must not facilitate the copying or plagiarism of others’ work, nor should it enable the use or dissemination of personal, sensitive, or confidential information or the infringement of copyrighted content.",
       "repaired": false
     },
     {
       "id": 62,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "The legal landscape concerning intellectual property and copyright in AI is complex and constantly evolving, with its full implications yet to be fully comprehended.",
       "repaired": false
     },
     {
       "id": 63,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "EUI members are advised to exercise caution when using AI, as specific uses could be deemed illegal, including future violations of intellectual property rights.",
       "repaired": false
     },
     {
       "id": 64,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Users must remain vigilant when employing AI, given its capacity to generate content that could be seen as plagiaristic or that fails to cite sources and correctly attribute work.",
       "repaired": false
     },
     {
       "id": 65,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "EUI members are responsible for being informed of and complying with the various policies established by academic publishers regarding the application of AI in scholarly publications.",
       "repaired": false
     },
     {
       "id": 66,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "All EUI members adhere to the EUI Data Protection Policy (President’s Decision 10/2019) and the rules and principles set out in the EU General Data Protection Regulation (GDPR). Hence, the same policies and rules apply to the use of GenAI.",
       "repaired": false
     },
     {
       "id": 67,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "This means ensuring that AI complies with data minimization regulations, purpose limitation, and user consent.",
       "repaired": false
     },
     {
       "id": 68,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "All EUI members must exercise caution, especially when sharing material with AI, to ensure that this contains no personal data. Personal data may include personal identifiers in text, photos, audio, video recordings, or any documents or files with personal data.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "All EUI members must exercise caution, especially when sharing material with AI, to ensure that this contains no personal data.",
       "repaired": false
     },
     {
       "id": 69,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Balancing AI’s capabilities with data protection requirements is crucial in fostering trust, transparency, and accountability in handling personal data.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Personal data may include personal identifiers in text, photos, audio, video recordings, or any documents or files with personal data.",
       "repaired": false
     },
     {
       "id": 70,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "The EUI will inform candidates for its academic programs and for academic and administrative posts that their applications (for example, research proposals or motivation letters) should meet the requirements established in the present Guidelines on AI, such as no usage for substantial or integral parts.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Balancing AI’s capabilities with data protection requirements is crucial in fostering trust, transparency, and accountability in handling personal data.",
       "repaired": false
     },
     {
       "id": 71,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "The consequences of any transgressions of proper use should be made clear to candidates.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "The EUI will inform candidates for its academic programs and for academic and administrative posts that their applications (for example, research proposals or motivation letters) should meet the requirements established in the present Guidelines on AI, such as no usage for substantial or integral parts.",
       "repaired": false
     },
     {
       "id": 72,
-      "B": "B10",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "The consequences of any transgressions of proper use should be made clear to candidates.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "EUI members, in particular supervisors, instructors, and those working in relevant EUI services, are encouraged to take up training opportunities so that they can be aware of the potential benefits and risks of using GenAI.",
       "repaired": false
     },
     {
-      "id": 73,
-      "B": "B9",
+      "id": 74,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Given the potentially significant impact of AI technologies on research outputs, a substantial shift in assessment methods may also be necessary.",
       "repaired": false
     },
     {
-      "id": 74,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "In particular, realizing that the enforcement of a no-AI policy may be difficult if not impossible, instructors and supervisors may rethink their approaches, integrating innovative teaching and evaluation tools that prioritize critical analysis over memorization and explanation.",
-      "repaired": false
-    },
-    {
       "id": 75,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Supervisors and instructors should avoid using AI for evaluating the performance of researchers and students, also due to concerns about privacy and confidentiality with many existing AI applications.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In particular, realizing that the enforcement of a no-AI policy may be difficult if not impossible, instructors and supervisors may rethink their approaches, integrating innovative teaching and evaluation tools that prioritize critical analysis over memorization and explanation.",
       "repaired": false
     },
     {
       "id": 76,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Students and ESRs must recognize that the appropriateness of AI use in learning and assignments can vary by discipline and specific task. They should be aware of the regulations in particular contexts and seek guidance from peers or those responsible for training in cases of uncertainty.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Supervisors and instructors should avoid using AI for evaluating the performance of researchers and students, also due to concerns about privacy and confidentiality with many existing AI applications.",
       "repaired": false
     },
     {
       "id": 77,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "It is important to note that AI-generated content may not fulfill the requirements of study programs unless explicitly allowed.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Students and ESRs must recognize that the appropriateness of AI use in learning and assignments can vary by discipline and specific task. They should be aware of the regulations in particular contexts and seek guidance from peers or those responsible for training in cases of uncertainty.",
       "repaired": false
     },
     {
       "id": 78,
-      "B": "B9",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "It is important to note that AI-generated content may not fulfill the requirements of study programs unless explicitly allowed.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Developing expertise in scholarly reading academic texts and relevant sources, as well as in writing, is essential in graduate studies, and bypassing this learning phase through AI could diminish skills acquisition and affect future competences.",
       "repaired": false
     },
     {
-      "id": 79,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 80,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "If an ESR or student plans to incorporate AI into their research, they should first consult their supervisor.",
       "repaired": false
     },
     {
-      "id": 80,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 81,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Ultimately, the student’s or ESR’s contribution must be distinguishable from the content generated by the AI.",
       "repaired": false
     },
     {
-      "id": 81,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "The expectation that teachers, students, researchers and all members of the academic community act with honesty, trust, fairness, respect, and responsibility.",
-      "repaired": true
-    },
-    {
       "id": 82,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "for more definitions, such as personal identifiers, see the eu gdpr",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "the expectation that teachers, students, researchers and all members of the academic community act with honesty, trust, fairness, respect, and responsibility.",
       "repaired": true
     },
     {
       "id": 83,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "european commission, living guidelines on the responsible use of generative ai in research",
+      "repaired": true
+    },
+    {
+      "id": 84,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "erc scientific council, current position on artificial intelligence",
+      "repaired": true
+    },
+    {
+      "id": 85,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "harvard university",
+      "repaired": true
+    },
+    {
+      "id": 86,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "hong kong polytechnic university",
+      "repaired": true
+    },
+    {
+      "id": 87,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "kent university",
+      "repaired": true
+    },
+    {
+      "id": 88,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "ku leuven",
+      "repaired": true
+    },
+    {
+      "id": 89,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "kyung Bok university",
+      "repaired": true
+    },
+    {
+      "id": 90,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "oxford university",
+      "repaired": true
+    },
+    {
+      "id": 91,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "toronto university",
+      "repaired": true
+    },
+    {
+      "id": 92,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "westminster university",
+      "repaired": true
+    },
+    {
+      "id": 93,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "yale university",
+      "repaired": true
+    },
+    {
+      "id": 94,
       "B": "B2",
-      "B_label": "scope/application",
-      "text": "useful references ai act of the european union european commission, living guidelines on the responsible use of generative ai in research cambridge university erc scientific council, current position on artificial intelligence harvard university hong kong polytechnic university kent university ku leuven kyung bok university oxford university toronto university westminster university yale university",
+      "B_label": "other definitions/terminology",
+      "text": "personal identifiers",
+      "repaired": true
+    },
+    {
+      "id": 95,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "more information is available in the eui data protection policy",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 83,
-    "matched": 83,
+    "total": 95,
+    "matched": 95,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.937,
-    "uncovered_chars": 957,
-    "uncovered_gaps": 19,
+    "source_coverage": 0.933,
+    "uncovered_chars": 1030,
+    "uncovered_gaps": 21,
     "uncovered": [
       {
         "char_start": 0,
@@ -690,9 +774,15 @@
       },
       {
         "char_start": 16327,
-        "char_end": 16335,
-        "length": 8,
-        "text": ". ## 3."
+        "char_end": 16382,
+        "length": 55,
+        "text": ". ## 3. useful references ai act of the european union"
+      },
+      {
+        "char_start": 16472,
+        "char_end": 16494,
+        "length": 22,
+        "text": "cambridge university"
       },
       {
         "char_start": 16736,
@@ -702,9 +792,15 @@
       },
       {
         "char_start": 16909,
-        "char_end": 17029,
-        "length": 120,
-        "text": ". an example of this webpage is that of ku leuven. more information is available in the eui data protection policy, and"
+        "char_end": 16960,
+        "length": 51,
+        "text": ". an example of this webpage is that of ku leuven."
+      },
+      {
+        "char_start": 17023,
+        "char_end": 17096,
+        "length": 73,
+        "text": ", and for more definitions, such as personal identifiers, see the eu gdpr"
       }
     ]
   },
@@ -722,8 +818,8 @@
       "char_start": 282,
       "char_end": 345,
       "text": "The Ethics Committee will revise this document every two years.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -731,8 +827,8 @@
       "char_start": 346,
       "char_end": 443,
       "text": "Parts of this document were formulated with the assistance of ChatGPT, a Generative AI by OpenAI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -740,8 +836,8 @@
       "char_start": 444,
       "char_end": 492,
       "text": "Approved by the Academic Council on May 15, 2024",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -758,8 +854,8 @@
       "char_start": 536,
       "char_end": 750,
       "text": "The rise of Generative Artificial Intelligence (henceforth, GenAI), especially Large Language Models, and their widespread adoption have brought new possibilities and challenges for academic institutions worldwide.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
@@ -767,8 +863,8 @@
       "char_start": 751,
       "char_end": 1050,
       "text": "On the one hand, GenAI and AI, in general, offer novel opportunities for academic creation and development: opening exciting pathways for academic creativity, transforming scholars’ and staff productivity, improving inclusion, and potentially enhancing the quality and quantity of the work produced.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 5,
       "match_type": "exact"
     },
@@ -776,7 +872,7 @@
       "char_start": 1051,
       "char_end": 1195,
       "text": "On the other hand, its use might impair academic integrity and even allow mass plagiarism and breaches of data and intellectual property rights.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 6,
       "match_type": "exact"
@@ -785,8 +881,8 @@
       "char_start": 1196,
       "char_end": 1681,
       "text": "Some institutions have already acknowledged the need to strike a balance between innovation and rigor by setting institutional common principles (e.g., Russell Group principles on the use of generative AI tools in education), have called for a ‘human-centered approach’ (see Guidance for Generative AI in Education and Research, UNESCO), and identified the necessity of an evolving approach (European Commission’s Living guidelines on the responsible use of generative AI in research).",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 7,
       "match_type": "exact"
     },
@@ -794,8 +890,8 @@
       "char_start": 1683,
       "char_end": 2061,
       "text": "The EUI recognizes that EUI members already regularly seek input from AI technologies or human assistance, for example, to brainstorm or generate ideas, for literature search, and to revise, translate, or summarize text, as similarly recognized by the ERC Scientific Council for the research community (Current position of the ERC Scientific Council on Artificial Intelligence).",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -803,8 +899,8 @@
       "char_start": 2063,
       "char_end": 2318,
       "text": "Considering these developments, there is a recognized need within the EUI to establish general principles to enhance AI literacy among scholars, adapt academic ethical standards, and implement stringent measures to uphold integrity and prevent plagiarism.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -812,8 +908,8 @@
       "char_start": 2320,
       "char_end": 2530,
       "text": "The present ‘EUI Guidelines for the Responsible Use of Artificial Intelligence for Research’ (from now on, the Guidelines) are the outcome of a thorough internal discussion in the academic community of the EUI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -830,8 +926,8 @@
       "char_start": 2550,
       "char_end": 2713,
       "text": "These Guidelines set principles for ethical (non-discriminatory, unbiased, safe, and responsible) use of GenAI applications for research in the context of the EUI.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 11,
       "match_type": "exact"
     },
@@ -839,8 +935,8 @@
       "char_start": 2714,
       "char_end": 2855,
       "text": "They are founded on three main principles: (i) Literacy and self-awareness, (ii) individual responsibility, and (iii) disciplinary diversity.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 12,
       "match_type": "exact"
     },
@@ -848,8 +944,8 @@
       "char_start": 2856,
       "char_end": 3045,
       "text": "Literacy and self-awareness mean that scholars at the EUI should have the ability to understand the implications, including both opportunities and risks, associated with AI use in research.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 13,
       "match_type": "exact"
     },
@@ -857,8 +953,8 @@
       "char_start": 3046,
       "char_end": 3274,
       "text": "Individual responsibility means that users, aware of these opportunities and risks, may decide to employ AI tools for research purposes, provided they assume individual responsibility for ensuring the ethical use of these tools.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 14,
       "match_type": "exact"
     },
@@ -866,8 +962,8 @@
       "char_start": 3275,
       "char_end": 3495,
       "text": "Different scientific disciplines may advance at varying rates in developing precise standards for using AI in research. These guidelines recognize this diversity and refrain from prescribing a one-size-fits-all approach.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 15,
       "match_type": "exact"
     },
@@ -875,8 +971,8 @@
       "char_start": 3497,
       "char_end": 3868,
       "text": "The subsequent sections of these Guidelines elaborate on these general principles, detailing them further into specific components that contribute to developing a coherent perspective on the emergence of AI tools for research at the EUI. Collectively, these sections illustrate how these tools can be effectively and safely integrated into the EUI’s academic environment.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 16,
       "match_type": "exact"
     },
@@ -891,20 +987,11 @@
     },
     {
       "char_start": 3884,
-      "char_end": 4085,
-      "text": "This document is primarily concerned with the academic research dimension of the EUI, encompassing Early-Stage Researchers (ESRs), Master Students, Research Assistants and Fellows, and faculty members.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 17,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4086,
       "char_end": 4259,
-      "text": "Nonetheless, it may also serve as a valuable resource for administrative staff, subject to certain modifications that administrative representatives may determine necessary.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 18,
+      "text": "This document is primarily concerned with the academic research dimension of the EUI, encompassing Early-Stage Researchers (ESRs), Master Students, Research Assistants and Fellows, and faculty members. Nonetheless, it may also serve as a valuable resource for administrative staff, subject to certain modifications that administrative representatives may determine necessary.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
@@ -918,10 +1005,19 @@
     },
     {
       "char_start": 4298,
-      "char_end": 4543,
-      "text": "AI and, specifically, the rise of GenAI create exciting research opportunities. Tools such as text, image, and chart generation and coding capabilities are among some of the primary capabilities that most AI applications effectively offer today.",
+      "char_end": 4377,
+      "text": "AI and, specifically, the rise of GenAI create exciting research opportunities.",
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4378,
+      "char_end": 4543,
+      "text": "Tools such as text, image, and chart generation and coding capabilities are among some of the primary capabilities that most AI applications effectively offer today.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 19,
       "match_type": "exact"
     },
@@ -929,8 +1025,8 @@
       "char_start": 4544,
       "char_end": 4721,
       "text": "The EUI regards these tools as useful instruments with the potential to increase EUI members’ productivity, augment the quality of their work, and possibly facilitate inclusion.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 20,
       "match_type": "exact"
     },
@@ -938,7 +1034,7 @@
       "char_start": 4722,
       "char_end": 4944,
       "text": "However, scholars must be trained to understand and correctly use AI tools to achieve such potential. The EUI must thus provide its community of scholars with knowledge about the opportunities and risks of AI for research.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 21,
       "match_type": "exact"
@@ -947,7 +1043,7 @@
       "char_start": 4946,
       "char_end": 5117,
       "text": "Specifically, the EUI should offer frequent training, with workshops that involve practical exercises on using technology, such as AI applications, in an academic context.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 22,
       "match_type": "exact"
@@ -956,7 +1052,7 @@
       "char_start": 5118,
       "char_end": 5360,
       "text": "These sessions should show the possibilities of existing AI tools in an academic setting, the drawbacks of their outputs as well as the dangers, and the data protection issues, such as covert data gathering and direct and indirect plagiarism.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 23,
       "match_type": "exact"
@@ -965,7 +1061,7 @@
       "char_start": 5361,
       "char_end": 5511,
       "text": "This training should ensure equal opportunities for all EUI members, while also considering the implications for improved inclusion (discussed later).",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 24,
       "match_type": "exact"
@@ -974,7 +1070,7 @@
       "char_start": 5513,
       "char_end": 5757,
       "text": "A dedicated resources page should be developed to centralize relevant information on the ethical uses of this technology, with references to safe applications, best practices, existing codes of conduct, and a collection of acceptable use cases.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 25,
       "match_type": "exact"
@@ -983,7 +1079,7 @@
       "char_start": 5758,
       "char_end": 5996,
       "text": "An open channel should be established for EUI members to provide suggestions and potential new uses of AI, relevant internal and external sources of tools, and some Frequently Asked Questions (FAQs) with a summary of the EUI key policies.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 26,
       "match_type": "exact"
@@ -1001,8 +1097,8 @@
       "char_start": 6041,
       "char_end": 6249,
       "text": "The EUI recognizes that GenAI tools can foster the inclusion of scholars by, for example, helping with non-native language skills, improving communication, and tackling specific difficulties such as dyslexia.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 27,
       "match_type": "exact"
     },
@@ -1010,8 +1106,8 @@
       "char_start": 6251,
       "char_end": 6538,
       "text": "AI technology should offer the same potential benefits to all members of the EUI. This means everyone should have access to the training and the tools and be able to afford paid applications, as they can with other tools and software for research, within the EUI’s budgetary constraints.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 28,
       "match_type": "exact"
     },
@@ -1019,8 +1115,8 @@
       "char_start": 6539,
       "char_end": 6702,
       "text": "Also, the EUI will ensure, where possible, that these tools use diverse sources, including different languages and cultures, and are accessible to the EUI members.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 29,
       "match_type": "exact"
     },
@@ -1028,7 +1124,7 @@
       "char_start": 6704,
       "char_end": 6876,
       "text": "It is also essential to recognize the dangers of AI discrimination given the unknown sources of the data used for training and the possibility of producing biased outcomes.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 30,
       "match_type": "exact"
@@ -1037,8 +1133,8 @@
       "char_start": 6877,
       "char_end": 7175,
       "text": "To prevent these biases from being reinforced and perpetuated in research, following the EUI Ethnic and Racial Equality Plan 2023-2026, the EUI will regularly inform its community about these dangers, evaluate, and suggest a list of specific applications deemed more secure from this point of view.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 31,
       "match_type": "exact"
     },
@@ -1055,8 +1151,8 @@
       "char_start": 7210,
       "char_end": 7412,
       "text": "The use of AI in research and academic activities must follow existing ethical standards for academic research at the EUI, and every member of the EUI is individually responsible for their use of GenAI.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 32,
       "match_type": "exact"
     },
@@ -1064,7 +1160,7 @@
       "char_start": 7414,
       "char_end": 7585,
       "text": "The EU recognizes the shortcomings of existing anti-plagiarism software in detecting AI-generated content, including the risk of false positives produced by these systems.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 33,
       "match_type": "exact"
@@ -1073,8 +1169,8 @@
       "char_start": 7586,
       "char_end": 7695,
       "text": "Consequently, the EUI does not use such detection tools at this time and relies on individual responsibility.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 34,
       "match_type": "exact"
     },
@@ -1082,8 +1178,8 @@
       "char_start": 7696,
       "char_end": 7945,
       "text": "Within this framework, each member of the EUI is expected to understand the consequences of using AI. Users are individually responsible for ensuring the integrity of the content they submit for academic evaluation and their overall academic output.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 35,
       "match_type": "exact"
     },
@@ -1091,8 +1187,8 @@
       "char_start": 7946,
       "char_end": 8049,
       "text": "Violations of the present guidelines will lead to standard remedies, such as in the case of plagiarism.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 36,
       "match_type": "exact"
     },
@@ -1100,8 +1196,8 @@
       "char_start": 8051,
       "char_end": 8479,
       "text": "In what follows, the individual responsibility for the ethical use of AI is further specified in terms of specific professional and research activities, including participation in research presentation events. Considering that some applications of AI are yet to be explored, the principles of individual responsibility, self-awareness, and disciplinary diversity should always guide EUI members in these unchartered territories.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 37,
       "match_type": "exact"
     },
@@ -1118,8 +1214,8 @@
       "char_start": 8519,
       "char_end": 8702,
       "text": "AI may help generate inspiration and ideas for potential research topics. This can involve prompting AI applications with research ideas and topics or asking for research suggestions.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 38,
       "match_type": "exact"
     },
@@ -1127,8 +1223,8 @@
       "char_start": 8703,
       "char_end": 8908,
       "text": "EUI members are responsible for reviewing and fact-checking every single output to ensure that the sources provided by the application are accurate and that no existing work is being improperly replicated.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 39,
       "match_type": "exact"
     },
@@ -1136,8 +1232,8 @@
       "char_start": 8910,
       "char_end": 9220,
       "text": "Where AI only inspires a researcher’s autonomous writing, its use need not be mentioned. However, since standards for using AI are still unsettled and will vary across disciplines, EUI members should always recognize and acknowledge the contributions of AI in generating academic work if asked to declare them.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 40,
       "match_type": "exact"
     },
@@ -1145,8 +1241,8 @@
       "char_start": 9221,
       "char_end": 9374,
       "text": "Keeping track of specific contributions and documenting the research development process are essential for accountability and potential future reference.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 41,
       "match_type": "exact"
     },
@@ -1163,8 +1259,8 @@
       "char_start": 9413,
       "char_end": 9562,
       "text": "EUI members should refrain from having GenAI autonomously write substantial or integral parts of a dissertation, book, paper, or other academic work.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 42,
       "match_type": "exact"
     },
@@ -1172,8 +1268,8 @@
       "char_start": 9563,
       "char_end": 9747,
       "text": "When using AI to produce novel content, including text, audio-video-images, data, and coding, users must acknowledge and reference the parts of the content that have been AI-generated.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 43,
       "match_type": "exact"
     },
@@ -1181,8 +1277,8 @@
       "char_start": 9748,
       "char_end": 9858,
       "text": "Users are always responsible for copyright or personal data breaches that the application might have incurred.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 44,
       "match_type": "exact"
     },
@@ -1190,8 +1286,8 @@
       "char_start": 9859,
       "char_end": 9999,
       "text": "In line with the principle of responsibility, authors should always be able to distinguish between their contributions and those made by AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 45,
       "match_type": "exact"
     },
@@ -1199,8 +1295,8 @@
       "char_start": 10000,
       "char_end": 10129,
       "text": "The same standards and sanctions for cases of plagiarism as contemplated in the EUI Code of Ethics apply to AI-generated content.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 46,
       "match_type": "exact"
     },
@@ -1217,8 +1313,8 @@
       "char_start": 10171,
       "char_end": 10263,
       "text": "AI can assist in conducting literature reviews or identifying relevant sources for research.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 47,
       "match_type": "exact"
     },
@@ -1226,8 +1322,8 @@
       "char_start": 10264,
       "char_end": 10410,
       "text": "However, EUI members must verify the output’s accuracy and reliability and should not directly incorporate these results into their academic work.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 48,
       "match_type": "exact"
     },
@@ -1235,7 +1331,7 @@
       "char_start": 10411,
       "char_end": 10568,
       "text": "A notable limitation of AI at present is the phenomenon known as ‘hallucination,’ where the AI generates inaccuracies and references to non-existent sources.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 49,
       "match_type": "exact"
@@ -1244,7 +1340,7 @@
       "char_start": 10569,
       "char_end": 10656,
       "text": "Additionally, biases favoring gender and racial majorities are other recognized issues.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 50,
       "match_type": "exact"
@@ -1253,8 +1349,8 @@
       "char_start": 10657,
       "char_end": 10790,
       "text": "Users must meticulously review each source and independently research the topic to identify sources other than those suggested by AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 51,
       "match_type": "exact"
     },
@@ -1262,8 +1358,8 @@
       "char_start": 10791,
       "char_end": 10919,
       "text": "Ultimately, each EUI member bears full responsibility for their content, encompassing explicit and implicit forms of plagiarism.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 52,
       "match_type": "exact"
     },
@@ -1280,8 +1376,8 @@
       "char_start": 10977,
       "char_end": 11101,
       "text": "GenAI could be used to analyze data and organize and visualize information from novel, existing, and AI-generated databases.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 53,
       "match_type": "exact"
     },
@@ -1289,8 +1385,8 @@
       "char_start": 11102,
       "char_end": 11276,
       "text": "Where users solely use AI to arrange existing human-generated academic outputs, they should take care in referring to all the sources and give credit to the original authors.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 54,
       "match_type": "exact"
     },
@@ -1298,8 +1394,8 @@
       "char_start": 11277,
       "char_end": 11504,
       "text": "For the purposes discussed here, users should always verify the replicability of AI’s outputs. If this is impossible, detailed references to the tool should be accounted for, including the software and prompts passed to the AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 55,
       "match_type": "exact"
     },
@@ -1307,8 +1403,8 @@
       "char_start": 11505,
       "char_end": 11796,
       "text": "EUI members must not enter or upload research or non-research confidential data into AI unless the data comply with applicable privacy and confidentiality standards regulations, as enshrined in the General Data Protection Regulation, EUI Data Protection Policy, and the EUI’s privacy policy.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 56,
       "match_type": "exact"
     },
@@ -1316,7 +1412,7 @@
       "char_start": 11797,
       "char_end": 11964,
       "text": "In this context, it is crucial to exercise particular care when processing AI transcriptions of interviews, as this could be incompatible with the stated requirements.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 57,
       "match_type": "exact"
@@ -1334,8 +1430,8 @@
       "char_start": 11996,
       "char_end": 12215,
       "text": "Members of the EUI may use GenAI tools to execute grammar or language corrections on their existing texts to enhance readability, including extensive re-writing and paraphrasing, provided the original text is their own.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 58,
       "match_type": "exact"
     },
@@ -1343,8 +1439,8 @@
       "char_start": 12216,
       "char_end": 12356,
       "text": "AI tools can also help overcome linguistic challenges in writing academic texts, thus representing a tool that is supportive of inclusivity.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 59,
       "match_type": "exact"
     },
@@ -1352,8 +1448,8 @@
       "char_start": 12357,
       "char_end": 12455,
       "text": "In these cases, AI is used similarly to other grammar software and does not constitute plagiarism.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 60,
       "match_type": "exact"
     },
@@ -1370,8 +1466,8 @@
       "char_start": 12488,
       "char_end": 12698,
       "text": "GenAI must not facilitate the copying or plagiarism of others’ work, nor should it enable the use or dissemination of personal, sensitive, or confidential information or the infringement of copyrighted content.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 61,
       "match_type": "exact"
     },
@@ -1379,7 +1475,7 @@
       "char_start": 12699,
       "char_end": 12864,
       "text": "The legal landscape concerning intellectual property and copyright in AI is complex and constantly evolving, with its full implications yet to be fully comprehended.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 62,
       "match_type": "exact"
@@ -1388,8 +1484,8 @@
       "char_start": 12865,
       "char_end": 13026,
       "text": "EUI members are advised to exercise caution when using AI, as specific uses could be deemed illegal, including future violations of intellectual property rights.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 63,
       "match_type": "exact"
     },
@@ -1397,8 +1493,8 @@
       "char_start": 13027,
       "char_end": 13206,
       "text": "Users must remain vigilant when employing AI, given its capacity to generate content that could be seen as plagiaristic or that fails to cite sources and correctly attribute work.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 64,
       "match_type": "exact"
     },
@@ -1406,8 +1502,8 @@
       "char_start": 13208,
       "char_end": 13391,
       "text": "EUI members are responsible for being informed of and complying with the various policies established by academic publishers regarding the application of AI in scholarly publications.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 65,
       "match_type": "exact"
     },
@@ -1424,8 +1520,8 @@
       "char_start": 13418,
       "char_end": 13657,
       "text": "All EUI members adhere to the EUI Data Protection Policy (President’s Decision 10/2019) and the rules and principles set out in the EU General Data Protection Regulation (GDPR). Hence, the same policies and rules apply to the use of GenAI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 66,
       "match_type": "exact"
     },
@@ -1433,27 +1529,36 @@
       "char_start": 13658,
       "char_end": 13768,
       "text": "This means ensuring that AI complies with data minimization regulations, purpose limitation, and user consent.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 67,
       "match_type": "exact"
     },
     {
       "char_start": 13769,
-      "char_end": 14031,
-      "text": "All EUI members must exercise caution, especially when sharing material with AI, to ensure that this contains no personal data. Personal data may include personal identifiers in text, photos, audio, video recordings, or any documents or files with personal data.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_end": 13896,
+      "text": "All EUI members must exercise caution, especially when sharing material with AI, to ensure that this contains no personal data.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13897,
+      "char_end": 14031,
+      "text": "Personal data may include personal identifiers in text, photos, audio, video recordings, or any documents or files with personal data.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 69,
       "match_type": "exact"
     },
     {
       "char_start": 14032,
       "char_end": 14184,
       "text": "Balancing AI’s capabilities with data protection requirements is crucial in fostering trust, transparency, and accountability in handling personal data.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 69,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
       "match_type": "exact"
     },
     {
@@ -1470,17 +1575,17 @@
       "char_end": 14536,
       "text": "The EUI will inform candidates for its academic programs and for academic and administrative posts that their applications (for example, research proposals or motivation letters) should meet the requirements established in the present Guidelines on AI, such as no usage for substantial or integral parts.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 70,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 71,
       "match_type": "exact"
     },
     {
       "char_start": 14537,
       "char_end": 14625,
       "text": "The consequences of any transgressions of proper use should be made clear to candidates.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 71,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 72,
       "match_type": "exact"
     },
     {
@@ -1496,87 +1601,204 @@
       "char_start": 14657,
       "char_end": 14880,
       "text": "EUI members, in particular supervisors, instructors, and those working in relevant EUI services, are encouraged to take up training opportunities so that they can be aware of the potential benefits and risks of using GenAI.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 72,
+      "segment_id": 73,
       "match_type": "exact"
     },
     {
       "char_start": 14882,
       "char_end": 15027,
       "text": "Given the potentially significant impact of AI technologies on research outputs, a substantial shift in assessment methods may also be necessary.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 73,
+      "segment_id": 74,
       "match_type": "exact"
     },
     {
       "char_start": 15028,
       "char_end": 15307,
       "text": "In particular, realizing that the enforcement of a no-AI policy may be difficult if not impossible, instructors and supervisors may rethink their approaches, integrating innovative teaching and evaluation tools that prioritize critical analysis over memorization and explanation.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 74,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 75,
       "match_type": "exact"
     },
     {
       "char_start": 15308,
       "char_end": 15508,
       "text": "Supervisors and instructors should avoid using AI for evaluating the performance of researchers and students, also due to concerns about privacy and confidentiality with many existing AI applications.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 75,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 76,
       "match_type": "exact"
     },
     {
       "char_start": 15510,
       "char_end": 15798,
       "text": "Students and ESRs must recognize that the appropriateness of AI use in learning and assignments can vary by discipline and specific task. They should be aware of the regulations in particular contexts and seek guidance from peers or those responsible for training in cases of uncertainty.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 76,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 77,
       "match_type": "exact"
     },
     {
       "char_start": 15799,
       "char_end": 15926,
       "text": "It is important to note that AI-generated content may not fulfill the requirements of study programs unless explicitly allowed.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 77,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 78,
       "match_type": "exact"
     },
     {
       "char_start": 15928,
       "char_end": 16173,
       "text": "Developing expertise in scholarly reading academic texts and relevant sources, as well as in writing, is essential in graduate studies, and bypassing this learning phase through AI could diminish skills acquisition and affect future competences.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 78,
+      "segment_id": 79,
       "match_type": "exact"
     },
     {
       "char_start": 16175,
       "char_end": 16284,
       "text": "If an ESR or student plans to incorporate AI into their research, they should first consult their supervisor.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 79,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 80,
       "match_type": "exact"
     },
     {
       "char_start": 16285,
       "char_end": 16394,
       "text": "Ultimately, the student’s or ESR’s contribution must be distinguishable from the content generated by the AI.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 80,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 81,
       "match_type": "exact"
     },
     {
       "char_start": 16394,
+      "char_end": 16450,
+      "text": "\n\n## 3. USEFUL REFERENCES\n\nAI Act of the European Union\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16450,
+      "char_end": 16540,
+      "text": "European Commission, Living guidelines on the responsible use of generative AI in research",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16540,
+      "char_end": 16562,
+      "text": "\nCambridge University\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16562,
+      "char_end": 16629,
+      "text": "ERC Scientific Council, Current Position on Artificial Intelligence",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16630,
+      "char_end": 16648,
+      "text": "Harvard University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16649,
+      "char_end": 16681,
+      "text": "Hong Kong Polytechnic University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16682,
+      "char_end": 16697,
+      "text": "Kent University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16698,
+      "char_end": 16707,
+      "text": "KU Leuven",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16708,
+      "char_end": 16728,
+      "text": "Kyung Bok University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16729,
+      "char_end": 16746,
+      "text": "Oxford University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16747,
+      "char_end": 16765,
+      "text": "Toronto University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16766,
+      "char_end": 16788,
+      "text": "Westminster University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16789,
+      "char_end": 16804,
+      "text": "Yale University",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16804,
       "char_end": 16822,
-      "text": "\n\n## 3. USEFUL REFERENCES\n\nAI Act of the European Union\nEuropean Commission, Living guidelines on the responsible use of generative AI in research\nCambridge University\nERC Scientific Council, Current Position on Artificial Intelligence\nHarvard University\nHong Kong Polytechnic University\nKent University\nKU Leuven\nKyung Bok University\nOxford University\nToronto University\nWestminster University\nYale University\n\n## FOOTNOTES\n\n1 ",
+      "text": "\n\n## FOOTNOTES\n\n1 ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -1586,33 +1808,33 @@
       "char_start": 16822,
       "char_end": 16980,
       "text": "The expectation that teachers, students, researchers and all members of the academic community act with honesty, trust, fairness, respect, and responsibility.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 81,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 82,
       "match_type": "exact"
     },
     {
       "char_start": 16980,
-      "char_end": 17105,
-      "text": "\n\n3 An example of this webpage is that of KU Leuven.\n\n4 More information is available in the EUI Data protection policy, and ",
+      "char_end": 17036,
+      "text": "\n\n3 An example of this webpage is that of KU Leuven.\n\n4 ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 17105,
-      "char_end": 17172,
-      "text": "for more definitions, such as personal identifiers, see the EU GDPR",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 82,
+      "char_start": 17036,
+      "char_end": 17099,
+      "text": "More information is available in the EUI Data protection policy",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 95,
       "match_type": "exact"
     },
     {
-      "char_start": 17172,
+      "char_start": 17099,
       "char_end": 17173,
-      "text": ".",
+      "text": ", and for more definitions, such as personal identifiers, see the EU GDPR.",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,

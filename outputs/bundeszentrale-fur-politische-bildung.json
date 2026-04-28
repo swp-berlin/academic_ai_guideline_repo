@@ -3,1140 +3,1368 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Leitlinie zum redaktionellen Einsatz von KI-Systemen in der bpb"
-    },
-    {
-      "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Auf dieser Seite finden Sie die Leitlinie zum redaktionellen Umgang mit generativer künstlicher Intelligenz auf bpb.de, auf weiteren Webseiten der bpb und in unseren Social-Media-Angeboten."
-    },
-    {
-      "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Einleitung – Warum eine KI-Leitlinie?"
-    },
-    {
-      "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Künstliche Intelligenz (KI) verändert die Art und Weise, wie Wissen generiert, vermittelt und verarbeitet wird. Auch bei der Bundeszentrale für politische Bildung (bpb) beeinflussen KI-Technologien zunehmend unsere redaktionellen Arbeitsprozesse und Bildungsangebote. Diese Systeme eröffnen Möglichkeiten für eine inklusivere, zugänglichere und vielfältigere politische Bildung – bergen aber auch ethische, gesellschaftliche und ökologische Risiken."
     },
     {
-      "id": 5,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Diese Leitlinie schafft Transparenz über den redaktionellen Einsatz von KI-Systemen in der bpb. Sie richtet sich an unsere Nutzerinnen und Nutzer, Trägerinstitutionen der politischen Bildung, Kooperationspartner und alle Interessierten. Sie benennt klare Prinzipien für den verantwortungsvollen Einsatz dieser Technologien und reflektiert mögliche Folgen."
     },
     {
-      "id": 6,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 3,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Dabei orientieren wir uns an den Grundfragen der demokratischen Entwicklung und des gesellschaftlichen Zusammenlebens, am Beutelsbacher Konsens, an den Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung, an journalistischer Sorgfaltspflicht und an den UNESCO-Empfehlungen zur Ethik der KI."
     },
     {
-      "id": 7,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 4,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Die bpb setzt Software, Apps oder technische Dienste nur nach sorgfältiger Abwägung ein: Datensicherheit und Datenschutz stehen an erster Stelle. Programme werden nach Möglichkeit selbst gehostet oder es werden Dienste genutzt, deren Server und Grundlagen der Datenschutz-Grundverordnung entsprechen. Nicht zuletzt prüfen wir immer den Einsatz von vergleichbaren Open-Source-Lösungen."
     },
     {
-      "id": 8,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Grundsätze im Umgang mit KI-Systemen"
-    },
-    {
-      "id": 9,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 5,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Menschliche Verantwortung bleibt zentral"
     },
     {
-      "id": 10,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 6,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Der Einsatz von KI-Systemen ersetzt nicht das menschliche Lektorat, die Redaktionsprozesse und die Verantwortung für veröffentlichte Inhalte. Alle von uns veröffentlichten Inhalte werden durch Menschen verantwortet, geprüft und freigegeben."
     },
     {
-      "id": 11,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "KI-Systeme als Werkzeuge – kein Selbstzweck"
     },
     {
-      "id": 12,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Wir setzen KI-Technologien gezielt und reflektiert ein, um Prozesse zu unterstützen und unsere Arbeit effizienter zu gestalten. Diese Systeme kommen nur dann zum Einsatz, wenn sich dadurch nachweislich etwas verbessert – beispielsweise durch:"
     },
     {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unterstützung bei der Recherche"
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung barriereärmerer Materialien"
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Vereinfachung komplexer Inhalte"
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung zielgruppengerechter Varianten von Inhalten"
+    },
+    {
       "id": 13,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Unterstützung bei der Recherche"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Optimierung von Arbeitsprozessen"
     },
     {
       "id": 14,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Erstellung barriereärmerer Materialien"
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Transparenz und Kennzeichnung"
     },
     {
       "id": 15,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Vereinfachung komplexer Inhalte"
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei von uns veröffentlichten Inhalten soll erkennbar sein, ob KI-Systeme zur Erstellung beigetragen haben. Inhalte, die überwiegend durch diese Technologien erstellt wurden (z.B. Alt-Texte), kennzeichnen wir sichtbar – und zwar dort, wo sie publiziert werden. Wo KI-Systeme lediglich als Hilfsmittel verwendet wurden (z.B. sprachliche Optimierung, Ideenfindung), erfolgt keine Kennzeichnung – die redaktionelle Verantwortung durch die Mitarbeiterinnen und Mitarbeiter der bpb bleibt hier maßgeblich."
     },
     {
       "id": 16,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Erstellung zielgruppengerechter Varianten von Inhalten"
-    },
-    {
-      "id": 17,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Optimierung von Arbeitsprozessen"
-    },
-    {
-      "id": 18,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Transparenz und Kennzeichnung"
-    },
-    {
-      "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Bei von uns veröffentlichten Inhalten soll erkennbar sein, ob KI-Systeme zur Erstellung beigetragen haben. Inhalte, die überwiegend durch diese Technologien erstellt wurden (z.B. Alt-Texte), kennzeichnen wir sichtbar – und zwar dort, wo sie publiziert werden. Wo KI-Systeme lediglich als Hilfsmittel verwendet wurden (z.B. sprachliche Optimierung, Ideenfindung), erfolgt keine Kennzeichnung – die redaktionelle Verantwortung durch die Mitarbeiterinnen und Mitarbeiter der bpb bleibt hier maßgeblich."
-    },
-    {
-      "id": 20,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Folgenabschätzung und ethische Reflexion"
     },
     {
-      "id": 21,
-      "B": "B9",
+      "id": 17,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Wir bedenken vor dem Einsatz von KI-Systemen, welche Risiken damit verbunden sind und welche Folgen (z. B. sozial, kulturell, politisch, ökonomisch und ökologisch) sich ergeben könnten. Dazu gehören:"
     },
     {
-      "id": 22,
-      "B": "B9",
+      "id": 18,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "- Gefahren durch Desinformation oder Täuschung"
+      "text": "Gefahren durch Desinformation oder Täuschung"
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Prüfung auf Sinnhaftigkeit des Einsatzszenarios und möglicher alternativer Lösungen"
+    },
+    {
+      "id": 20,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "mögliche Reproduktionen von Vorurteilen"
+    },
+    {
+      "id": 21,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Reflexion über potenzielle Verzerrungen in den Trainingsdaten, gerade weil diese in der Regel nicht zugänglich sind"
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Einschränkungen von Teilhabe (z.B. Sprachbarrieren, digitale Kluft)"
     },
     {
       "id": 23,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "- Prüfung auf Sinnhaftigkeit des Einsatzszenarios und möglicher alternativer Lösungen"
+      "text": "Fragen des geistigen Eigentums und urheberrechtlicher Aspekte"
     },
     {
       "id": 24,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "- mögliche Reproduktionen von Vorurteilen"
+      "text": "Auswirkungen auf Berufsgruppen und spezialisierte Fachkräfte, die von der bpb beauftragt werden (z.B. Lektoren/-innen, Grafiker/-innen oder Übersetzer/-innen)"
     },
     {
       "id": 25,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Reflexion über potenzielle Verzerrungen in den Trainingsdaten, gerade weil diese in der Regel nicht zugänglich sind"
-    },
-    {
-      "id": 26,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Einschränkungen von Teilhabe (z.B. Sprachbarrieren, digitale Kluft)"
-    },
-    {
-      "id": 27,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Fragen des geistigen Eigentums und urheberrechtlicher Aspekte"
-    },
-    {
-      "id": 28,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "- Auswirkungen auf Berufsgruppen und spezialisierte Fachkräfte, die von der bpb beauftragt werden (z.B. Lektoren/-innen, Grafiker/-innen oder Übersetzer/-innen)"
-    },
-    {
-      "id": 29,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Datenqualität, Verlässlichkeit und Rechtssicherheit"
     },
     {
-      "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "KI-Systeme sind nur so zuverlässig wie ihre Datenbasis. Wir verwenden beim Einsatz dieser Systeme keine personenbezogenen, sensiblen behördlichen oder geheimschutzrelevanten Daten und bevorzugen nachvollziehbare, transparente Systeme. Wir prüfen alle eingesetzten Modelle und Software auf Datensicherheit und Verlässlichkeit und entwickeln Workflows sowie technische Kontrollen, die an die verwendete Technologie angepasst sind."
     },
     {
-      "id": 31,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 27,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Verantwortungsvoller Ressourcenverbrauch"
     },
     {
-      "id": 32,
-      "B": "B9",
+      "id": 28,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Das Training und der Betrieb von KI-Systemen benötigen erhebliche Mengen an Energie und natürlicher Ressourcen."
+      "text": "Das Training und der Betrieb von KI-Systemen benötigen erhebliche Mengen an Energie und natürlicher Ressourcen. Im Sinne von Nachhaltigkeit und Klimaneutralität fließt auch dieser Aspekt in unsere Entscheidungen über den Einsatz dieser Technologien – vor allem im Bereich Video- und Bildgenerierung – ein."
     },
     {
-      "id": 33,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Im Sinne von Nachhaltigkeit und Klimaneutralität fließt auch dieser Aspekt in unsere Entscheidungen über den Einsatz dieser Technologien – vor allem im Bereich Video- und Bildgenerierung – ein."
-    },
-    {
-      "id": 34,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Open Source und Drittanbieter-Prüfung"
     },
     {
-      "id": 35,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Wo möglich machen wir unsere Arbeit zugänglich und nutzen Open-Source-Software. Setzen wir KI-Systeme von Drittanbietern ein, prüfen wir sorgfältig, was sie leisten können und wo ihre Grenzen liegen. Ethische Abwägungen und eine Folgenabschätzung sind zentrale Kriterien für die Entscheidung, ob wir externe Systeme verwenden."
     },
     {
-      "id": 36,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "KI-Technologien in der politischen Bildungsarbeit"
-    },
-    {
-      "id": 37,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "KI als Gegenstand politischer Bildung"
     },
     {
-      "id": 38,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Der Bildungsbereich befindet sich durch den Einsatz generativer KI-Systeme in einem dynamischen Wandel. Erfahrungen aus Schulen, Universitäten und der außerschulischen Bildung zeigen bereits heute, wie diese Technologien Lehr- und Lernprozesse verändern – mit entsprechenden Auswirkungen auf die politische Bildung. KI-Technologien sind daher zukünftig ein strategisch wichtiger Gegenstand unserer Bildungsarbeit."
     },
     {
-      "id": 39,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "id": 33,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "In diesem Kontext sollen unsere Angebote Menschen dabei helfen, KI-Technologien zu verstehen, einzuordnen und kritisch zu hinterfragen. Dabei beschreiben wir diese Systeme als technische Werkzeuge und versuchen vermenschlichende Formulierungen zu vermeiden. Zu den zentralen Themenbereichen gehören:"
     },
     {
-      "id": 40,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Grundwissen über KI-Technologien (z. B. maschinelles Lernen, Einsatz von Sprachmodellen in Bildungskontexten)"
+      "id": 34,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Grundwissen über KI-Technologien (z. B. maschinelles Lernen, Einsatz von Sprachmodellen in Bildungskontexten)"
     },
     {
-      "id": 41,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Auswirkungen auf Bildung und Gesellschaft (z. B. Veränderungen von Lehr- und Lernprozessen)"
+      "id": 35,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Auswirkungen auf Bildung und Gesellschaft (z. B. Veränderungen von Lehr- und Lernprozessen)"
     },
     {
-      "id": 42,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- ethische Fragestellungen (z. B. algorithmische Entscheidungssysteme und Gerechtigkeit)"
+      "id": 36,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ethische Fragestellungen (z. B. algorithmische Entscheidungssysteme und Gerechtigkeit)"
     },
     {
-      "id": 43,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Risiken wie Deepfakes und Desinformation"
+      "id": 37,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Risiken wie Deepfakes und Desinformation"
     },
     {
-      "id": 44,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- politische Fragen zur Regulierung, Machtverteilung und Teilhabe"
+      "id": 38,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "politische Fragen zur Regulierung, Machtverteilung und Teilhabe"
     },
     {
-      "id": 45,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 39,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "KI-Systeme als Lernwerkzeuge"
     },
     {
-      "id": 46,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "id": 40,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Wir prüfen und entwickeln den Einsatz dieser Technologien als Lernwerkzeug – etwa für:"
     },
     {
-      "id": 47,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- personalisierte Lernszenarien"
+      "id": 41,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "personalisierte Lernszenarien"
     },
     {
-      "id": 48,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- chatbasierte Systeme für niedrigschwelligen Zugang zu Informationen"
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "chatbasierte Systeme für niedrigschwelligen Zugang zu Informationen"
     },
     {
-      "id": 49,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- adaptive Kursangebote"
+      "id": 43,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "adaptive Kursangebote"
     },
     {
-      "id": 50,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- kreative Formate wie Prompt-basierte Bilderstellungen oder interaktive Textdialoge"
+      "id": 44,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "kreative Formate wie Prompt-basierte Bilderstellungen oder interaktive Textdialoge"
     },
     {
-      "id": 51,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Solche Formate können helfen, Bildungsinhalte individualisierter, inklusiver und interaktiver zu gestalten – aber stets unter didaktischer Anleitung und redaktioneller Kontrolle."
     },
     {
-      "id": 52,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 46,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "KI-Systeme als Werkzeuge zur Erstellung von Bildungsinhalten"
     },
     {
-      "id": 53,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "id": 47,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "In geeigneten Kontexten nutzen wir oder planen die Nutzung dieser Technologien – etwa für:"
     },
     {
+      "id": 48,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "die Ideenfindung und Konzeptentwicklung"
+    },
+    {
+      "id": 49,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Übertragung von Inhalten in einfache Sprache"
+    },
+    {
+      "id": 50,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstellung von Zusammenfassungen"
+    },
+    {
+      "id": 51,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Analyse von Texten und Dokumenten"
+    },
+    {
+      "id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "mehrsprachige Übersetzungen"
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Transkription von Audio- und Videoformaten"
+    },
+    {
       "id": 54,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- die Ideenfindung und Konzeptentwicklung"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "visuelle Gestaltung von Materialien"
     },
     {
       "id": 55,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Übertragung von Inhalten in einfache Sprache"
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Audio-Ausgabe durch Text-to-Speech-Systeme"
     },
     {
       "id": 56,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Erstellung von Zusammenfassungen"
-    },
-    {
-      "id": 57,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Analyse von Texten und Dokumenten"
-    },
-    {
-      "id": 58,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- mehrsprachige Übersetzungen"
-    },
-    {
-      "id": 59,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Transkription von Audio- und Videoformaten"
-    },
-    {
-      "id": 60,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- visuelle Gestaltung von Materialien"
-    },
-    {
-      "id": 61,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Audio-Ausgabe durch Text-to-Speech-Systeme"
-    },
-    {
-      "id": 62,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Auch hier gilt: Kein Inhalt wird automatisiert und ohne menschliche Prüfung veröffentlicht."
     },
     {
-      "id": 63,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 57,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Was wir nicht tun"
     },
     {
-      "id": 64,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- Keine automatisierten Veröffentlichungen: Mit Hilfe von KI-Systemen erstellte Inhalte werden auf bpb.de oder weiteren Webseiten der bpb wie bspw. HanisauLand, kinofenster.de und fluter.de sowie in den Social-Media-Angeboten der bpb nie ungeprüft online gestellt."
+      "id": 58,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Keine automatisierten Veröffentlichungen: Mit Hilfe von KI-Systemen erstellte Inhalte werden auf bpb.de oder weiteren Webseiten der bpb wie bspw. HanisauLand, kinofenster.de und fluter.de sowie in den Social-Media-Angeboten der bpb nie ungeprüft online gestellt."
     },
     {
-      "id": 65,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- Keine automatisierte Kommunikation: Die Kommunikation mit Bürgerinnen und Bürgern wird nicht automatisiert von KI-Systemen übernommen. Es findet auch keine Vorfilterung dieser Kommunikation durch KI-Systeme statt."
+      "id": 59,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Keine automatisierte Kommunikation: Die Kommunikation mit Bürgerinnen und Bürgern wird nicht automatisiert von KI-Systemen übernommen. Es findet auch keine Vorfilterung dieser Kommunikation durch KI-Systeme statt."
     },
     {
-      "id": 66,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "- Keine Weitergabe sensibler Daten: Wir verarbeiten keine personenbezogenen oder andere schützenswerte Informationen mit KI-Systemen."
+      "id": 60,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Keine Weitergabe sensibler Daten: Wir verarbeiten keine personenbezogenen oder andere schützenswerte Informationen mit KI-Systemen."
     },
     {
-      "id": 67,
-      "B": "B10",
+      "id": 61,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Lernen und Testen in geschützten Umgebungen"
     },
     {
-      "id": 68,
-      "B": "B10",
+      "id": 62,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Um unsere Angebote und Leitlinien kontinuierlich weiterzuentwickeln, sammeln wir Lernerfahrungen aus möglichen Pilotprojekten und Prototypen. Wir testen neue Technologien in abgesicherten Testumgebungen. Dies ermöglicht es uns, Innovationen zu erproben und gleichzeitig Risiken zu minimieren."
     },
     {
-      "id": 69,
-      "B": "B10",
+      "id": 63,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Weiterbildung, Reflexion und Weiterentwicklung"
     },
     {
-      "id": 70,
-      "B": "B10",
+      "id": 64,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Mitarbeitende der bpb, die mit KI-Systemen arbeiten, erhalten im Sinne des EU-Gesetzes zur künstlichen Intelligenz (AI Act) Zugang zu Schulungsangeboten – technisch, ethisch und methodisch."
     },
     {
-      "id": 71,
-      "B": "B11",
+      "id": 65,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "Wir reflektieren den Einsatz dieser Technologien und entwickeln unsere Richtlinien intern und im Austausch mit unseren Partnerinstitutionen weiter. Interne Prozesse und Tools werden regelmäßig überprüft und an neue Standards angepasst."
     },
     {
-      "id": 72,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 66,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Dialog, Offenheit und Teilhabe"
     },
     {
-      "id": 73,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Diskutieren Sie mit uns: über Risiken und Potenziale von KI-Technologien, über ethische Fragen, gesellschaftliche Folgen und politische Gestaltungsmöglichkeiten. Auf öffentlichen Veranstaltungen, mit Projekten und Bildungsformaten fördern wir einen offenen, kritischen Dialog über den Einsatz künstlicher Intelligenz in einer demokratischen Gesellschaft."
     },
     {
-      "id": 74,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "id": 68,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
       "text": "Bitte wenden Sie sich mit Fragen und Anregungen an:\nredaktion@bpb.de\nDie Onlineredaktion und das Social-Media-Team der bpb"
     }
   ],
   "validation": {
-    "total": 74,
-    "matched": 74,
+    "total": 68,
+    "matched": 68,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.969,
-    "uncovered_chars": 197,
-    "uncovered_gaps": 1,
+    "source_coverage": 0.93,
+    "uncovered_chars": 580,
+    "uncovered_gaps": 3,
     "uncovered": [
       {
         "char_start": 0,
-        "char_end": 197,
-        "length": 197,
-        "text": "# bundeszentrale für politische bildung # source: https://www.bpb.de/diebpb/ueberuns/service/571256/leitliniezumredaktionelleneinsatzvonkisystemeninderbpb/ # date: 2025-10-15 # category: guideline"
+        "char_end": 489,
+        "length": 489,
+        "text": "# bundeszentrale für politische bildung # source: https://www.bpb.de/diebpb/ueberuns/service/571256/leitliniezumredaktionelleneinsatzvonkisystemeninderbpb/ # date: 2025-10-15 # category: guideline leitlinie zum redaktionellen einsatz von ki-systemen in der bpb auf dieser seite finden sie die leitlinie zum redaktionellen umgang mit generativer künstlicher intelligenz auf bpb.de, auf weiteren webseiten der bpb und in unseren social-media-angeboten. einleitung - warum eine ki-leitlinie?"
+      },
+      {
+        "char_start": 1992,
+        "char_end": 2031,
+        "length": 39,
+        "text": ". grundsätze im umgang mit ki-systemen"
+      },
+      {
+        "char_start": 5325,
+        "char_end": 5377,
+        "length": 52,
+        "text": ". ki-technologien in der politischen bildungsarbeit"
       }
     ]
   },
   "projection": [
     {
       "char_start": 0,
-      "char_end": 209,
-      "text": "# Bundeszentrale für politische Bildung\n# Source: https://www.bpb.de/die-bpb/ueber-uns/service/571256/leitlinie-zum-redaktionellen-einsatz-von-ki-systemen-in-der-bpb/\n# Date: 2025-10-15\n# Category: guideline\n\n",
+      "char_end": 504,
+      "text": "# Bundeszentrale für politische Bildung\n# Source: https://www.bpb.de/die-bpb/ueber-uns/service/571256/leitlinie-zum-redaktionellen-einsatz-von-ki-systemen-in-der-bpb/\n# Date: 2025-10-15\n# Category: guideline\n\nLeitlinie zum redaktionellen Einsatz von KI-Systemen in der bpb\n\nAuf dieser Seite finden Sie die Leitlinie zum redaktionellen Umgang mit generativer künstlicher Intelligenz auf bpb.de, auf weiteren Webseiten der bpb und in unseren Social-Media-Angeboten.\n\nEinleitung – Warum eine KI-Leitlinie?\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 209,
-      "char_end": 272,
-      "text": "Leitlinie zum redaktionellen Einsatz von KI-Systemen in der bpb",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 1,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 274,
-      "char_end": 463,
-      "text": "Auf dieser Seite finden Sie die Leitlinie zum redaktionellen Umgang mit generativer künstlicher Intelligenz auf bpb.de, auf weiteren Webseiten der bpb und in unseren Social-Media-Angeboten.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 2,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 465,
-      "char_end": 502,
-      "text": "Einleitung – Warum eine KI-Leitlinie?",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
-      "match_type": "exact"
-    },
-    {
       "char_start": 504,
       "char_end": 953,
       "text": "Künstliche Intelligenz (KI) verändert die Art und Weise, wie Wissen generiert, vermittelt und verarbeitet wird. Auch bei der Bundeszentrale für politische Bildung (bpb) beeinflussen KI-Technologien zunehmend unsere redaktionellen Arbeitsprozesse und Bildungsangebote. Diese Systeme eröffnen Möglichkeiten für eine inklusivere, zugänglichere und vielfältigere politische Bildung – bergen aber auch ethische, gesellschaftliche und ökologische Risiken.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
       "match_type": "exact"
     },
     {
       "char_start": 955,
       "char_end": 1310,
       "text": "Diese Leitlinie schafft Transparenz über den redaktionellen Einsatz von KI-Systemen in der bpb. Sie richtet sich an unsere Nutzerinnen und Nutzer, Trägerinstitutionen der politischen Bildung, Kooperationspartner und alle Interessierten. Sie benennt klare Prinzipien für den verantwortungsvollen Einsatz dieser Technologien und reflektiert mögliche Folgen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
       "match_type": "exact"
     },
     {
       "char_start": 1311,
       "char_end": 1624,
       "text": "Dabei orientieren wir uns an den Grundfragen der demokratischen Entwicklung und des gesellschaftlichen Zusammenlebens, am Beutelsbacher Konsens, an den Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung, an journalistischer Sorgfaltspflicht und an den UNESCO-Empfehlungen zur Ethik der KI.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 6,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1626,
       "char_end": 2010,
       "text": "Die bpb setzt Software, Apps oder technische Dienste nur nach sorgfältiger Abwägung ein: Datensicherheit und Datenschutz stehen an erster Stelle. Programme werden nach Möglichkeit selbst gehostet oder es werden Dienste genutzt, deren Server und Grundlagen der Datenschutz-Grundverordnung entsprechen. Nicht zuletzt prüfen wir immer den Einsatz von vergleichbaren Open-Source-Lösungen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 7,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 2012,
-      "char_end": 2048,
-      "text": "Grundsätze im Umgang mit KI-Systemen",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 8,
-      "match_type": "exact"
+      "char_start": 2010,
+      "char_end": 2050,
+      "text": "\n\nGrundsätze im Umgang mit KI-Systemen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 2050,
       "char_end": 2090,
       "text": "Menschliche Verantwortung bleibt zentral",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 5,
       "match_type": "exact"
     },
     {
       "char_start": 2092,
       "char_end": 2332,
       "text": "Der Einsatz von KI-Systemen ersetzt nicht das menschliche Lektorat, die Redaktionsprozesse und die Verantwortung für veröffentlichte Inhalte. Alle von uns veröffentlichten Inhalte werden durch Menschen verantwortet, geprüft und freigegeben.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 10,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
       "char_start": 2334,
       "char_end": 2377,
       "text": "KI-Systeme als Werkzeuge – kein Selbstzweck",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
       "char_start": 2379,
       "char_end": 2621,
       "text": "Wir setzen KI-Technologien gezielt und reflektiert ein, um Prozesse zu unterstützen und unsere Arbeit effizienter zu gestalten. Diese Systeme kommen nur dann zum Einsatz, wenn sich dadurch nachweislich etwas verbessert – beispielsweise durch:",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2621,
+      "char_end": 2625,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2625,
+      "char_end": 2656,
+      "text": "Unterstützung bei der Recherche",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2656,
+      "char_end": 2659,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2659,
+      "char_end": 2697,
+      "text": "Erstellung barriereärmerer Materialien",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2697,
+      "char_end": 2700,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2700,
+      "char_end": 2731,
+      "text": "Vereinfachung komplexer Inhalte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2731,
+      "char_end": 2734,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2734,
+      "char_end": 2788,
+      "text": "Erstellung zielgruppengerechter Varianten von Inhalten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 2623,
-      "char_end": 2656,
-      "text": "- Unterstützung bei der Recherche",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 13,
-      "match_type": "exact"
+      "char_start": 2788,
+      "char_end": 2791,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
-      "char_start": 2657,
-      "char_end": 2697,
-      "text": "- Erstellung barriereärmerer Materialien",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 14,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2698,
-      "char_end": 2731,
-      "text": "- Vereinfachung komplexer Inhalte",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 15,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2732,
-      "char_end": 2788,
-      "text": "- Erstellung zielgruppengerechter Varianten von Inhalten",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 16,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2789,
+      "char_start": 2791,
       "char_end": 2823,
-      "text": "- Optimierung von Arbeitsprozessen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 17,
+      "text": "Optimierung von Arbeitsprozessen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
       "char_start": 2825,
       "char_end": 2854,
       "text": "Transparenz und Kennzeichnung",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 18,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
       "char_start": 2856,
       "char_end": 3355,
       "text": "Bei von uns veröffentlichten Inhalten soll erkennbar sein, ob KI-Systeme zur Erstellung beigetragen haben. Inhalte, die überwiegend durch diese Technologien erstellt wurden (z.B. Alt-Texte), kennzeichnen wir sichtbar – und zwar dort, wo sie publiziert werden. Wo KI-Systeme lediglich als Hilfsmittel verwendet wurden (z.B. sprachliche Optimierung, Ideenfindung), erfolgt keine Kennzeichnung – die redaktionelle Verantwortung durch die Mitarbeiterinnen und Mitarbeiter der bpb bleibt hier maßgeblich.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 3357,
       "char_end": 3397,
       "text": "Folgenabschätzung und ethische Reflexion",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 20,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 3399,
       "char_end": 3598,
       "text": "Wir bedenken vor dem Einsatz von KI-Systemen, welche Risiken damit verbunden sind und welche Folgen (z. B. sozial, kulturell, politisch, ökonomisch und ökologisch) sich ergeben könnten. Dazu gehören:",
-      "B": "B9",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3598,
+      "char_end": 3602,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3602,
+      "char_end": 3646,
+      "text": "Gefahren durch Desinformation oder Täuschung",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3646,
+      "char_end": 3649,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3649,
+      "char_end": 3732,
+      "text": "Prüfung auf Sinnhaftigkeit des Einsatzszenarios und möglicher alternativer Lösungen",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3732,
+      "char_end": 3735,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3735,
+      "char_end": 3774,
+      "text": "mögliche Reproduktionen von Vorurteilen",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3774,
+      "char_end": 3777,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3777,
+      "char_end": 3892,
+      "text": "Reflexion über potenzielle Verzerrungen in den Trainingsdaten, gerade weil diese in der Regel nicht zugänglich sind",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 21,
       "match_type": "exact"
     },
     {
-      "char_start": 3600,
-      "char_end": 3646,
-      "text": "- Gefahren durch Desinformation oder Täuschung",
-      "B": "B9",
+      "char_start": 3892,
+      "char_end": 3895,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3895,
+      "char_end": 3962,
+      "text": "Einschränkungen von Teilhabe (z.B. Sprachbarrieren, digitale Kluft)",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 22,
       "match_type": "exact"
     },
     {
-      "char_start": 3647,
-      "char_end": 3732,
-      "text": "- Prüfung auf Sinnhaftigkeit des Einsatzszenarios und möglicher alternativer Lösungen",
-      "B": "B9",
+      "char_start": 3962,
+      "char_end": 3965,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3965,
+      "char_end": 4026,
+      "text": "Fragen des geistigen Eigentums und urheberrechtlicher Aspekte",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 23,
       "match_type": "exact"
     },
     {
-      "char_start": 3733,
-      "char_end": 3774,
-      "text": "- mögliche Reproduktionen von Vorurteilen",
-      "B": "B9",
+      "char_start": 4026,
+      "char_end": 4029,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4029,
+      "char_end": 4187,
+      "text": "Auswirkungen auf Berufsgruppen und spezialisierte Fachkräfte, die von der bpb beauftragt werden (z.B. Lektoren/-innen, Grafiker/-innen oder Übersetzer/-innen)",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3775,
-      "char_end": 3892,
-      "text": "- Reflexion über potenzielle Verzerrungen in den Trainingsdaten, gerade weil diese in der Regel nicht zugänglich sind",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3893,
-      "char_end": 3962,
-      "text": "- Einschränkungen von Teilhabe (z.B. Sprachbarrieren, digitale Kluft)",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 26,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3963,
-      "char_end": 4026,
-      "text": "- Fragen des geistigen Eigentums und urheberrechtlicher Aspekte",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 27,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4027,
-      "char_end": 4187,
-      "text": "- Auswirkungen auf Berufsgruppen und spezialisierte Fachkräfte, die von der bpb beauftragt werden (z.B. Lektoren/-innen, Grafiker/-innen oder Übersetzer/-innen)",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 4189,
       "char_end": 4240,
       "text": "Datenqualität, Verlässlichkeit und Rechtssicherheit",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 4242,
       "char_end": 4670,
       "text": "KI-Systeme sind nur so zuverlässig wie ihre Datenbasis. Wir verwenden beim Einsatz dieser Systeme keine personenbezogenen, sensiblen behördlichen oder geheimschutzrelevanten Daten und bevorzugen nachvollziehbare, transparente Systeme. Wir prüfen alle eingesetzten Modelle und Software auf Datensicherheit und Verlässlichkeit und entwickeln Workflows sowie technische Kontrollen, die an die verwendete Technologie angepasst sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
       "char_start": 4672,
       "char_end": 4712,
       "text": "Verantwortungsvoller Ressourcenverbrauch",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 31,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 27,
       "match_type": "exact"
     },
     {
       "char_start": 4714,
-      "char_end": 4825,
-      "text": "Das Training und der Betrieb von KI-Systemen benötigen erhebliche Mengen an Energie und natürlicher Ressourcen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 32,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4826,
       "char_end": 5019,
-      "text": "Im Sinne von Nachhaltigkeit und Klimaneutralität fließt auch dieser Aspekt in unsere Entscheidungen über den Einsatz dieser Technologien – vor allem im Bereich Video- und Bildgenerierung – ein.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 33,
+      "text": "Das Training und der Betrieb von KI-Systemen benötigen erhebliche Mengen an Energie und natürlicher Ressourcen. Im Sinne von Nachhaltigkeit und Klimaneutralität fließt auch dieser Aspekt in unsere Entscheidungen über den Einsatz dieser Technologien – vor allem im Bereich Video- und Bildgenerierung – ein.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 5021,
       "char_end": 5058,
       "text": "Open Source und Drittanbieter-Prüfung",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
       "char_start": 5060,
       "char_end": 5386,
       "text": "Wo möglich machen wir unsere Arbeit zugänglich und nutzen Open-Source-Software. Setzen wir KI-Systeme von Drittanbietern ein, prüfen wir sorgfältig, was sie leisten können und wo ihre Grenzen liegen. Ethische Abwägungen und eine Folgenabschätzung sind zentrale Kriterien für die Entscheidung, ob wir externe Systeme verwenden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
-      "char_start": 5388,
-      "char_end": 5437,
-      "text": "KI-Technologien in der politischen Bildungsarbeit",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 36,
-      "match_type": "exact"
+      "char_start": 5386,
+      "char_end": 5439,
+      "text": "\n\nKI-Technologien in der politischen Bildungsarbeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
       "char_start": 5439,
       "char_end": 5476,
       "text": "KI als Gegenstand politischer Bildung",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 37,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
       "char_start": 5478,
       "char_end": 5891,
       "text": "Der Bildungsbereich befindet sich durch den Einsatz generativer KI-Systeme in einem dynamischen Wandel. Erfahrungen aus Schulen, Universitäten und der außerschulischen Bildung zeigen bereits heute, wie diese Technologien Lehr- und Lernprozesse verändern – mit entsprechenden Auswirkungen auf die politische Bildung. KI-Technologien sind daher zukünftig ein strategisch wichtiger Gegenstand unserer Bildungsarbeit.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 38,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 5893,
       "char_end": 6192,
       "text": "In diesem Kontext sollen unsere Angebote Menschen dabei helfen, KI-Technologien zu verstehen, einzuordnen und kritisch zu hinterfragen. Dabei beschreiben wir diese Systeme als technische Werkzeuge und versuchen vermenschlichende Formulierungen zu vermeiden. Zu den zentralen Themenbereichen gehören:",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 39,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
-      "char_start": 6194,
+      "char_start": 6192,
+      "char_end": 6196,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6196,
       "char_end": 6305,
-      "text": "- Grundwissen über KI-Technologien (z. B. maschinelles Lernen, Einsatz von Sprachmodellen in Bildungskontexten)",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 40,
+      "text": "Grundwissen über KI-Technologien (z. B. maschinelles Lernen, Einsatz von Sprachmodellen in Bildungskontexten)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
-      "char_start": 6306,
+      "char_start": 6305,
+      "char_end": 6308,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6308,
       "char_end": 6399,
-      "text": "- Auswirkungen auf Bildung und Gesellschaft (z. B. Veränderungen von Lehr- und Lernprozessen)",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 41,
+      "text": "Auswirkungen auf Bildung und Gesellschaft (z. B. Veränderungen von Lehr- und Lernprozessen)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 6400,
+      "char_start": 6399,
+      "char_end": 6402,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6402,
       "char_end": 6488,
-      "text": "- ethische Fragestellungen (z. B. algorithmische Entscheidungssysteme und Gerechtigkeit)",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 42,
+      "text": "ethische Fragestellungen (z. B. algorithmische Entscheidungssysteme und Gerechtigkeit)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 6489,
+      "char_start": 6488,
+      "char_end": 6491,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6491,
       "char_end": 6531,
-      "text": "- Risiken wie Deepfakes und Desinformation",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 43,
+      "text": "Risiken wie Deepfakes und Desinformation",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 6532,
+      "char_start": 6531,
+      "char_end": 6534,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6534,
       "char_end": 6597,
-      "text": "- politische Fragen zur Regulierung, Machtverteilung und Teilhabe",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 44,
+      "text": "politische Fragen zur Regulierung, Machtverteilung und Teilhabe",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 38,
       "match_type": "exact"
     },
     {
       "char_start": 6599,
       "char_end": 6627,
       "text": "KI-Systeme als Lernwerkzeuge",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 39,
       "match_type": "exact"
     },
     {
       "char_start": 6629,
       "char_end": 6715,
       "text": "Wir prüfen und entwickeln den Einsatz dieser Technologien als Lernwerkzeug – etwa für:",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 46,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 40,
       "match_type": "exact"
     },
     {
-      "char_start": 6717,
+      "char_start": 6715,
+      "char_end": 6719,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6719,
       "char_end": 6748,
-      "text": "- personalisierte Lernszenarien",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 47,
+      "text": "personalisierte Lernszenarien",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 41,
       "match_type": "exact"
     },
     {
-      "char_start": 6749,
+      "char_start": 6748,
+      "char_end": 6751,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6751,
       "char_end": 6818,
-      "text": "- chatbasierte Systeme für niedrigschwelligen Zugang zu Informationen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 48,
+      "text": "chatbasierte Systeme für niedrigschwelligen Zugang zu Informationen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
       "match_type": "exact"
     },
     {
-      "char_start": 6819,
+      "char_start": 6818,
+      "char_end": 6821,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6821,
       "char_end": 6842,
-      "text": "- adaptive Kursangebote",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 49,
+      "text": "adaptive Kursangebote",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 43,
       "match_type": "exact"
     },
     {
-      "char_start": 6843,
+      "char_start": 6842,
+      "char_end": 6845,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6845,
       "char_end": 6927,
-      "text": "- kreative Formate wie Prompt-basierte Bilderstellungen oder interaktive Textdialoge",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 50,
+      "text": "kreative Formate wie Prompt-basierte Bilderstellungen oder interaktive Textdialoge",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 44,
       "match_type": "exact"
     },
     {
       "char_start": 6929,
       "char_end": 7107,
       "text": "Solche Formate können helfen, Bildungsinhalte individualisierter, inklusiver und interaktiver zu gestalten – aber stets unter didaktischer Anleitung und redaktioneller Kontrolle.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
       "match_type": "exact"
     },
     {
       "char_start": 7109,
       "char_end": 7169,
       "text": "KI-Systeme als Werkzeuge zur Erstellung von Bildungsinhalten",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
       "char_start": 7171,
       "char_end": 7261,
       "text": "In geeigneten Kontexten nutzen wir oder planen die Nutzung dieser Technologien – etwa für:",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7261,
+      "char_end": 7265,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7265,
+      "char_end": 7304,
+      "text": "die Ideenfindung und Konzeptentwicklung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7304,
+      "char_end": 7307,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7307,
+      "char_end": 7351,
+      "text": "Übertragung von Inhalten in einfache Sprache",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7351,
+      "char_end": 7354,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7354,
+      "char_end": 7386,
+      "text": "Erstellung von Zusammenfassungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7386,
+      "char_end": 7389,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7389,
+      "char_end": 7422,
+      "text": "Analyse von Texten und Dokumenten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7422,
+      "char_end": 7425,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7425,
+      "char_end": 7452,
+      "text": "mehrsprachige Übersetzungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7452,
+      "char_end": 7455,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7455,
+      "char_end": 7497,
+      "text": "Transkription von Audio- und Videoformaten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 53,
       "match_type": "exact"
     },
     {
-      "char_start": 7263,
-      "char_end": 7304,
-      "text": "- die Ideenfindung und Konzeptentwicklung",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 7497,
+      "char_end": 7500,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7500,
+      "char_end": 7535,
+      "text": "visuelle Gestaltung von Materialien",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 54,
       "match_type": "exact"
     },
     {
-      "char_start": 7305,
-      "char_end": 7351,
-      "text": "- Übertragung von Inhalten in einfache Sprache",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 55,
-      "match_type": "exact"
+      "char_start": 7535,
+      "char_end": 7538,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
     },
     {
-      "char_start": 7352,
-      "char_end": 7386,
-      "text": "- Erstellung von Zusammenfassungen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 56,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7387,
-      "char_end": 7422,
-      "text": "- Analyse von Texten und Dokumenten",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 57,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7423,
-      "char_end": 7452,
-      "text": "- mehrsprachige Übersetzungen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 58,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7453,
-      "char_end": 7497,
-      "text": "- Transkription von Audio- und Videoformaten",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 59,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7498,
-      "char_end": 7535,
-      "text": "- visuelle Gestaltung von Materialien",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 60,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7536,
+      "char_start": 7538,
       "char_end": 7580,
-      "text": "- Audio-Ausgabe durch Text-to-Speech-Systeme",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 61,
+      "text": "Audio-Ausgabe durch Text-to-Speech-Systeme",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
       "match_type": "exact"
     },
     {
       "char_start": 7582,
       "char_end": 7673,
       "text": "Auch hier gilt: Kein Inhalt wird automatisiert und ohne menschliche Prüfung veröffentlicht.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
       "match_type": "exact"
     },
     {
       "char_start": 7675,
       "char_end": 7692,
       "text": "Was wir nicht tun",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 63,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 57,
       "match_type": "exact"
     },
     {
-      "char_start": 7694,
+      "char_start": 7692,
+      "char_end": 7696,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7696,
       "char_end": 7958,
-      "text": "- Keine automatisierten Veröffentlichungen: Mit Hilfe von KI-Systemen erstellte Inhalte werden auf bpb.de oder weiteren Webseiten der bpb wie bspw. HanisauLand, kinofenster.de und fluter.de sowie in den Social-Media-Angeboten der bpb nie ungeprüft online gestellt.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 64,
+      "text": "Keine automatisierten Veröffentlichungen: Mit Hilfe von KI-Systemen erstellte Inhalte werden auf bpb.de oder weiteren Webseiten der bpb wie bspw. HanisauLand, kinofenster.de und fluter.de sowie in den Social-Media-Angeboten der bpb nie ungeprüft online gestellt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 58,
       "match_type": "exact"
     },
     {
-      "char_start": 7959,
+      "char_start": 7958,
+      "char_end": 7961,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7961,
       "char_end": 8174,
-      "text": "- Keine automatisierte Kommunikation: Die Kommunikation mit Bürgerinnen und Bürgern wird nicht automatisiert von KI-Systemen übernommen. Es findet auch keine Vorfilterung dieser Kommunikation durch KI-Systeme statt.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 65,
+      "text": "Keine automatisierte Kommunikation: Die Kommunikation mit Bürgerinnen und Bürgern wird nicht automatisiert von KI-Systemen übernommen. Es findet auch keine Vorfilterung dieser Kommunikation durch KI-Systeme statt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 59,
       "match_type": "exact"
     },
     {
-      "char_start": 8175,
+      "char_start": 8174,
+      "char_end": 8177,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8177,
       "char_end": 8308,
-      "text": "- Keine Weitergabe sensibler Daten: Wir verarbeiten keine personenbezogenen oder andere schützenswerte Informationen mit KI-Systemen.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 66,
+      "text": "Keine Weitergabe sensibler Daten: Wir verarbeiten keine personenbezogenen oder andere schützenswerte Informationen mit KI-Systemen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 60,
       "match_type": "exact"
     },
     {
       "char_start": 8310,
       "char_end": 8353,
       "text": "Lernen und Testen in geschützten Umgebungen",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 67,
+      "segment_id": 61,
       "match_type": "exact"
     },
     {
       "char_start": 8355,
       "char_end": 8647,
       "text": "Um unsere Angebote und Leitlinien kontinuierlich weiterzuentwickeln, sammeln wir Lernerfahrungen aus möglichen Pilotprojekten und Prototypen. Wir testen neue Technologien in abgesicherten Testumgebungen. Dies ermöglicht es uns, Innovationen zu erproben und gleichzeitig Risiken zu minimieren.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 68,
+      "segment_id": 62,
       "match_type": "exact"
     },
     {
       "char_start": 8649,
       "char_end": 8695,
       "text": "Weiterbildung, Reflexion und Weiterentwicklung",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 69,
+      "segment_id": 63,
       "match_type": "exact"
     },
     {
       "char_start": 8697,
       "char_end": 8886,
       "text": "Mitarbeitende der bpb, die mit KI-Systemen arbeiten, erhalten im Sinne des EU-Gesetzes zur künstlichen Intelligenz (AI Act) Zugang zu Schulungsangeboten – technisch, ethisch und methodisch.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 70,
+      "segment_id": 64,
       "match_type": "exact"
     },
     {
       "char_start": 8888,
       "char_end": 9123,
       "text": "Wir reflektieren den Einsatz dieser Technologien und entwickeln unsere Richtlinien intern und im Austausch mit unseren Partnerinstitutionen weiter. Interne Prozesse und Tools werden regelmäßig überprüft und an neue Standards angepasst.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 71,
+      "segment_id": 65,
       "match_type": "exact"
     },
     {
       "char_start": 9125,
       "char_end": 9155,
       "text": "Dialog, Offenheit und Teilhabe",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 72,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 66,
       "match_type": "exact"
     },
     {
       "char_start": 9157,
       "char_end": 9511,
       "text": "Diskutieren Sie mit uns: über Risiken und Potenziale von KI-Technologien, über ethische Fragen, gesellschaftliche Folgen und politische Gestaltungsmöglichkeiten. Auf öffentlichen Veranstaltungen, mit Projekten und Bildungsformaten fördern wir einen offenen, kritischen Dialog über den Einsatz künstlicher Intelligenz in einer demokratischen Gesellschaft.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 73,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
       "match_type": "exact"
     },
     {
       "char_start": 9513,
       "char_end": 9635,
       "text": "Bitte wenden Sie sich mit Fragen und Anregungen an:\nredaktion@bpb.de\nDie Onlineredaktion und das Social-Media-Team der bpb",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 74,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 68,
       "match_type": "exact"
     }
   ]

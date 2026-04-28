@@ -3,320 +3,455 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die rasante Entwicklung generativer KI-Werkzeuge, wie zum Beispiel großer Sprachmodelle (LLMs), eröffnet neue Möglichkeiten für die Forschung und Lehre weltweit. Gleichzeitig bringt die Integration solcher Technologien erhebliche Risiken mit sich, insbesondere im Hinblick auf die Genauigkeit und Verlässlichkeit von Inhalten.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Die Universität Heidelberg erkennt das transformative Potenzial generativer KI-Werkzeuge zur Förderung der Forschung und Lehre an – beispielsweise für die Datenanalyse, Programmierung und das wissenschaftliche Schreiben – und ermutigt daher zu einer umsichtigen, ethisch vertretbaren und rechtlich sicheren Integration dieser Technologien in wissenschaftliche Arbeitsprozesse, sofern deren Nutzung den höchsten Standards akademischer Integrität und Transparenz entspricht.",
       "repaired": false
     },
     {
       "id": 3,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "text": "Die folgenden Richtlinien dienen als universitätsweiter Orientierungsrahmen und legen grundlegende Erwartungen für einen verantwortungsvollen Einsatz generativer KI in allen Fakultäten fest.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Einzelne Fachbereiche können zusätzliche, fachspezifische Richtlinien für die Nutzung von KI in Studium und Lehre entwickeln, um besonderen Anforderungen und Kontexten der Studiengänge und Lehrveranstaltungen gerecht zu werden. Die festgelegten Richtlinien werden in den jeweiligen Fächern transparent kommuniziert.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Einzelne Fachbereiche können zusätzliche, fachspezifische Richtlinien für die Nutzung von KI in Studium und Lehre entwickeln, um besonderen Anforderungen und Kontexten der Studiengänge und Lehrveranstaltungen gerecht zu werden.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Studierende und Lehrende werden bei der Integration entsprechender Technologien unterstützt und zugleich wird der Aufbau von Kompetenzen im Umgang mit KI nachhaltig gestärkt. Dabei werden auch didaktische Aspekte als wesentlicher Bestandteil eines reflektierten KI-Einsatzes in Studium und Lehre berücksichtigt. Entsprechende Unterstützungsangebote für Studierende und Lehrende werden durch heiSKILLS bereitgestellt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die festgelegten Richtlinien werden in den jeweiligen Fächern transparent kommuniziert.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "I. Anwendungsmöglichkeiten für KI in Studium und Lehre\nIm Bereich Studium und Lehre eröffnen KI-Anwendungen neue Möglichkeiten, um Lernprozesse zu unterstützen, zu individualisieren und zu optimieren.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Studierende und Lehrende werden bei der Integration entsprechender Technologien unterstützt und zugleich wird der Aufbau von Kompetenzen im Umgang mit KI nachhaltig gestärkt.",
       "repaired": false
     },
     {
       "id": 7,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Textgenerierung und Unterstützung bei Schreibprozessen: Werkzeuge wie ChatGPT können bei der Ideenfindung, Gliederung oder Überarbeitung wissenschaftlicher Arbeiten sowie bei der Suche nach wissenschaftlichen Publikationen helfen.",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dabei werden auch didaktische Aspekte als wesentlicher Bestandteil eines reflektierten KI-Einsatzes in Studium und Lehre berücksichtigt.",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Sprachübersetzung und -korrektur: Tools wie DeepL ermöglichen Übersetzungen, erleichtern die Erstellung von Texten in anderen Sprachen und unterstützen bei den Korrekturen von Texten in Fremdsprachen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Entsprechende Unterstützungsangebote für Studierende und Lehrende werden durch heiSKILLS bereitgestellt.",
       "repaired": false
     },
     {
       "id": 9,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Bildgenerierung und Visualisierung: Tools zur Bildgenerierung ermöglichen es, eigene Ideen visuell umzusetzen und komplexe Inhalte anschaulich darzustellen – etwa durch die Erstellung von Illustrationen, Schaubildern oder symbolischen Darstellungen auf Basis selbstformulierter Texteingaben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Im Bereich Studium und Lehre eröffnen KI-Anwendungen neue Möglichkeiten, um Lernprozesse zu unterstützen, zu individualisieren und zu optimieren.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Unterstützung beim Programmieren: KI-basierte Entwicklungsumgebungen wie GitHub Copilot oder ChatGPT können Programmieraufgaben erleichtern, indem sie Code-Vorschläge liefern, Fehler identifizieren oder automatisierte Dokumentationen erstellen. Auch bei statistischen Analysen und Datenverarbeitung kann KI helfen, indem sie komplexe Berechnungen unterstützt und Visualisierungen generiert.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Textgenerierung und Unterstützung bei Schreibprozessen: Werkzeuge wie ChatGPT können bei der Ideenfindung, Gliederung oder Überarbeitung wissenschaftlicher Arbeiten sowie bei der Suche nach wissenschaftlichen Publikationen helfen.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Plagiatserkennung und Prüfungsanalyse: Spezialisierte KI-Software unterstützt bei der Überprüfung von Originalität und Qualität wissenschaftlicher Arbeiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Sprachübersetzung und -korrektur: Tools wie DeepL ermöglichen Übersetzungen, erleichtern die Erstellung von Texten in anderen Sprachen und unterstützen bei den Korrekturen von Texten in Fremdsprachen.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Lernbegleitung und Feedbacksysteme: KI-gestützte Tutor:innen und adaptive Lernplattformen können Lernprozesse personalisieren und fördern selbstreguliertes Lernen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bildgenerierung und Visualisierung: Tools zur Bildgenerierung ermöglichen es, eigene Ideen visuell umzusetzen und komplexe Inhalte anschaulich darzustellen – etwa durch die Erstellung von Illustrationen, Schaubildern oder symbolischen Darstellungen auf Basis selbstformulierter Texteingaben.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Unterstützung bei der Lehrplanung und Materialerstellung: KI-gestützte Tools können bei der Erstellung von Lehrveranstaltungsplanungen, Lernmaterialien, Präsentationen oder Skizzen unterstützen. Sie ermöglichen individuelle Rückmeldungen, helfen bei der Strukturierung von Inhalten, überprüfen Bewertungen auf Nachvollziehbarkeit und können so zur Zeitersparnis und Optimierung in der Lehre beitragen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unterstützung beim Programmieren: KI-basierte Entwicklungsumgebungen wie GitHub Copilot oder ChatGPT können Programmieraufgaben erleichtern, indem sie Code-Vorschläge liefern, Fehler identifizieren oder automatisierte Dokumentationen erstellen. Auch bei statistischen Analysen und Datenverarbeitung kann KI helfen, indem sie komplexe Berechnungen unterstützt und Visualisierungen generiert.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "II. Verantwortungsvoller Umgang mit KI-Anwendungen in Studium und Lehre\nEin verantwortungsvoller Umgang mit KI in Studium und Lehre ist essenziell.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Plagiatserkennung und Prüfungsanalyse: Spezialisierte KI-Software unterstützt bei der Überprüfung von Originalität und Qualität wissenschaftlicher Arbeiten.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Datenschutz und Datensicherheit spielen eine zentrale Rolle:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lernbegleitung und Feedbacksysteme: KI-gestützte Tutor:innen und adaptive Lernplattformen können Lernprozesse personalisieren und fördern selbstreguliertes Lernen.",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Lehrende und Studierende sollten bei der Nutzung von KI darauf achten, dass keine sensiblen, personenbezogenen oder vertraulichen Daten sowie urheberrechtlich geschützte Texte/Textteile in KI-Systeme eingegeben werden, die diese Daten außerhalb der Infrastruktur der Universität Heidelberg speichern oder verarbeiten könnten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unterstützung bei der Lehrplanung und Materialerstellung: KI-gestützte Tools können bei der Erstellung von Lehrveranstaltungsplanungen, Lernmaterialien, Präsentationen oder Skizzen unterstützen. Sie ermöglichen individuelle Rückmeldungen, helfen bei der Strukturierung von Inhalten, überprüfen Bewertungen auf Nachvollziehbarkeit und können so zur Zeitersparnis und Optimierung in der Lehre beitragen.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Es wird empfohlen, vor der Nutzung von KI-Werkzeugen die Datenschutzbestimmungen und Nutzungsbedingungen sorgfältig zu prüfen und ausschließlich datenschutzkonforme Anwendungen einzusetzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ein verantwortungsvoller Umgang mit KI in Studium und Lehre ist essenziell.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Alle rechtlichen Vorgaben müssen eingehalten werden, insbesondere die Datenschutzgrundverordnung, das Persönlichkeitsrecht, das Urheberrecht und der AI Act.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Datenschutz und Datensicherheit spielen eine zentrale Rolle:",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Mögliche Risiken von KI in der Lehre\nNeben den Chancen birgt der Einsatz von KI in der Lehre auch Herausforderungen und Risiken, die berücksichtigt werden sollten. Daher sollte sowohl der Einsatz als auch die Ergebnisse von KI gewissenhaft reflektiert werden:",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Lehrende und Studierende sollten bei der Nutzung von KI darauf achten, dass keine sensiblen, personenbezogenen oder vertraulichen Daten sowie urheberrechtlich geschützte Texte/Textteile in KI-Systeme eingegeben werden, die diese Daten außerhalb der Infrastruktur der Universität Heidelberg speichern oder verarbeiten könnten.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B9",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es wird empfohlen, vor der Nutzung von KI-Werkzeugen die Datenschutzbestimmungen und Nutzungsbedingungen sorgfältig zu prüfen und ausschließlich datenschutzkonforme Anwendungen einzusetzen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Alle rechtlichen Vorgaben müssen eingehalten werden, insbesondere die Datenschutzgrundverordnung, das Persönlichkeitsrecht, das Urheberrecht und der AI Act.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Neben den Chancen birgt der Einsatz von KI in der Lehre auch Herausforderungen und Risiken, die berücksichtigt werden sollten. Daher sollte sowohl der Einsatz als auch die Ergebnisse von KI gewissenhaft reflektiert werden:",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "1. Fehlerhafte oder unvollständige Informationen: KI-Modelle können ungenaue, veraltete oder irreführende Inhalte generieren, da sie auf begrenzten Daten trainiert sind. Weitere Risiken bestehen darin, dass die Ergebnisse nicht reproduziert werden können oder Nonsens-Informationen generiert/erfunden werden.",
       "repaired": false
     },
     {
-      "id": 21,
-      "B": "B9",
+      "id": 24,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "2. Bias und Diskriminierung: KI-Modelle können systematische Verzerrungen aufweisen, da sie auf bestehenden Datensätzen beruhen, die gesellschaftliche Vorurteile widerspiegeln und verstärken können.",
       "repaired": false
     },
     {
-      "id": 22,
-      "B": "B9",
+      "id": 25,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "3. Fehlender Kontext: KI kann Inhalte erstellen, die nicht den spezifischen Anforderungen oder kulturellen Kontexten entsprechen (z.B. fehlende Sensibilisierung für gesellschaftlich heikle Themen), was Missverständnisse oder falsche Anwendungen fördern könnte.",
       "repaired": false
     },
     {
-      "id": 23,
-      "B": "B9",
+      "id": 26,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "4. Verlust der Eigenständigkeit: Eine übermäßige Nutzung von KI-Tools könnte die kritische Auseinandersetzung mit Inhalten, das eigenständige Denken der Studierenden und ihren Kompetenzerwerb beeinträchtigen.",
       "repaired": false
     },
     {
-      "id": 24,
-      "B": "B9",
+      "id": 27,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "5. Plagiarismus und Unklarheit bei der Autorschaft: Der Einsatz von KI bei der Erstellung von Texten kann die Grenzen zwischen eigenständiger Leistung und maschineller Unterstützung verschwimmen lassen. Zudem besteht das Risiko, dass von der KI generierte Textpassagen unbemerkt aus bestehenden Publikationen übernommen wurden.",
       "repaired": false
     },
     {
-      "id": 25,
-      "B": "B9",
+      "id": 28,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "6. Datenschutzrisiken: Die Eingabe personenbezogener Daten in KI-Tools kann zu einem unautorisierten Zugriff auf sensible Informationen führen (siehe oben).",
       "repaired": false
     },
     {
-      "id": 26,
-      "B": "B9",
+      "id": 29,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "7. Abhängigkeit von Technologie: Eine übermäßige Integration von KI in Lehr- und Lernprozesse kann die Resilienz gegenüber technischen Ausfällen oder den Zugang zu digitalen Ressourcen gefährden.",
       "repaired": false
     },
     {
-      "id": 27,
-      "B": "B9",
+      "id": 30,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "8. Intransparenz der Entscheidungswege und Datengrundlagen: KI-Modelle basieren auf komplexen Algorithmen und großen Datenmengen, deren Herkunft und Verarbeitung oft nicht vollständig nachvollziehbar sind. Dies kann dazu führen, dass die Entscheidungsprozesse der KI für Nutzer:innen nicht transparent sind.",
       "repaired": false
     },
     {
-      "id": 28,
-      "B": "B9",
+      "id": 31,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "9. Bildungsungleichheit: Der Zugang zu KI-Technologien sowie die Fähigkeit, diese kompetent zu nutzen, sind ungleich verteilt. Unterschiede in Bildungsvoraussetzungen, technischer Infrastruktur und Unterstützungsmöglichkeiten können dazu führen, dass bestehende Bildungsungleichheiten weiter verstärkt werden.",
       "repaired": false
     },
     {
-      "id": 29,
-      "B": "B9",
+      "id": 32,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "10. Verändertes Lernen: Der zunehmende Einsatz von KI kann dazu führen, dass traditionelle Lerntechniken – etwa das Auswendiglernen von Fakten oder das wiederholende Üben routinierter Aufgaben – an Bedeutung verlieren. Ohne didaktische Reflexion besteht die Gefahr, dass zentrale kognitive Kompetenzen vernachlässigt werden. Gleichzeitig stellt sich die Herausforderung, Studierende auf veränderte Lernprozesse und neue Kompetenzanforderungen vorzubereiten.",
       "repaired": false
     },
     {
-      "id": 30,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "III. Grundsätze für die KI-Nutzung in Studium und Lehre",
-      "repaired": false
-    },
-    {
-      "id": 31,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "1. Zulässigkeit der KI-Nutzung:\n- Die Nutzung von KI und Sprachmodellen (LLMs) wie ChatGPT, DeepL oder anderen Werkzeugen ist im Studium und in der Lehre an der UHD grundsätzlich erlaubt. Die spezifische Anwendung muss mit den Prüfer:innen und Lehrenden abgestimmt werden. Zentral ist, dass ein eigenständiger Charakter der Leistung gewahrt bleibt.",
-      "repaired": false
-    },
-    {
-      "id": 32,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Die Nutzung von KI muss sich an den spezifischen Lernzielen der jeweiligen Lehrveranstaltungen und Prüfungsformate orientieren. Die genauen Regelungen in den Studiengängen/Lehrveranstaltungen/Prüfungen werden durch die jeweiligen Prüfungsausschüsse, Dozierenden oder Prüfer:innen festgelegt. Es wird transparent kommuniziert, welche Tools wie im Rahmen der Lehrveranstaltung/Prüfung verwendet werden dürfen.",
-      "repaired": false
-    },
-    {
       "id": 33,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Studierende dürfen darüber entscheiden, ob und wie sie KI im Rahmen der festgelegten Regelungen im Rahmen einer Lehrveranstaltung oder bei der Erstellung einer Prüfungsleistung nutzen möchten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "1. Zulässigkeit der KI-Nutzung:",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Lehrende sollen Prüfungen so gestalten, dass sie sowohl mit als auch ohne KI bearbeitet werden können, es sei denn KI ist Gegenstand der Aufgabenstellung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Nutzung von KI und Sprachmodellen (LLMs) wie ChatGPT, DeepL oder anderen Werkzeugen ist im Studium und in der Lehre an der UHD grundsätzlich erlaubt.",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Die Regelungen der guten wissenschaftlichen Praxis müssen eingehalten werden (siehe Leitlinien und Grundsätze: gute wissenschaftliche Praxis).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die spezifische Anwendung muss mit den Prüfer:innen und Lehrenden abgestimmt werden. Zentral ist, dass ein eigenständiger Charakter der Leistung gewahrt bleibt.",
       "repaired": false
     },
     {
       "id": 36,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "2. Verantwortung und Transparenz:\n- Lehrende sind dazu angehalten, den KI-Einsatz entsprechend den Lernzielen zu gestalten und die Studierenden über erlaubte und unerlaubte Anwendungen zu informieren.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzung von KI muss sich an den spezifischen Lernzielen der jeweiligen Lehrveranstaltungen und Prüfungsformate orientieren. Die genauen Regelungen in den Studiengängen/Lehrveranstaltungen/Prüfungen werden durch die jeweiligen Prüfungsausschüsse, Dozierenden oder Prüfer:innen festgelegt.",
       "repaired": false
     },
     {
       "id": 37,
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "- Studierende tragen die Verantwortung für die Korrektheit und Qualität von KI-generierten Inhalten und müssen deren Nutzung transparent machen.",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es wird transparent kommuniziert, welche Tools wie im Rahmen der Lehrveranstaltung/Prüfung verwendet werden dürfen.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "3. Einsatz von KI in Studien- und Prüfungsleistungen\nKennzeichnungspflicht:\n- Studierende müssen für alle Studienarbeiten eine Eigenständigkeits- und Kennzeichnungserklärung abgeben, die den Einsatz von KI-Werkzeugen offenlegt. Diese Kennzeichnungspflicht gilt für Text/Textteile, Bilder, Videos und Musikstücke sowie alle anderen Elemente, für deren Erstellung KI verwendet wurde.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende dürfen darüber entscheiden, ob und wie sie KI im Rahmen der festgelegten Regelungen im Rahmen einer Lehrveranstaltung oder bei der Erstellung einer Prüfungsleistung nutzen möchten.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Eine Übersicht der genutzten KI-Tools und deren Verwendungszweck ist verpflichtend. Diese kann beispielsweise in Form einer einfachen Tabelle erfolgen (siehe Musterformular).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lehrende sollen Prüfungen so gestalten, dass sie sowohl mit als auch ohne KI bearbeitet werden können, es sei denn KI ist Gegenstand der Aufgabenstellung.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Je nach Aufgabenstellung kann auch ein Offenlegen der verwendeten Prompts (z.B. im Rahmen eines Prompt-Verzeichnisses) sinnvoll sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Regelungen der guten wissenschaftlichen Praxis müssen eingehalten werden (siehe Leitlinien und Grundsätze: gute wissenschaftliche Praxis).",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Studierende bestätigen mit ihrer Unterschrift, dass sie:\n - die volle Verantwortung für die wissenschaftliche Qualität und den Inhalt der vorliegenden Arbeit, die gewählte Methodik und den Erstellungsprozess, sowie die zitierte Literatur übernehmen.\n - die Arbeit unter Einhaltung der guten wissenschaftlichen Praxis erstellt haben.\n - die Nutzung von KI-Tools vorab mit der Dozentin/dem Dozenten bzw. der Prüferin/dem Prüfer abgesprochen wurde und dass die besprochenen Regelungen eingehalten wurden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "2. Verantwortung und Transparenz:",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Unterstützung bei Fragen zur Plagiatserkennung\nLehrende werden bei Fragen zur Erkennung möglicher Plagiate sowie zum Umgang mit Verdachtsfällen unterstützt – sowohl durch das Team der Universitätsbibliothek (z. B. im Hinblick auf technische Tools und Dokumentation) als auch durch das Team des Rechtsservice Studium und Lehre, das bei der Einordnung von Grenzfällen und bei der Prüfung notwendiger weiterer Schritte berät.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende sind dazu angehalten, den KI-Einsatz entsprechend den Lernzielen zu gestalten und die Studierenden über erlaubte und unerlaubte Anwendungen zu informieren.",
       "repaired": false
     },
     {
       "id": 43,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Studierende tragen die Verantwortung für die Korrektheit und Qualität von KI-generierten Inhalten und müssen deren Nutzung transparent machen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Einsatz von KI in Studien- und Prüfungsleistungen",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Kennzeichnungspflicht:",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende müssen für alle Studienarbeiten eine Eigenständigkeits- und Kennzeichnungserklärung abgeben, die den Einsatz von KI-Werkzeugen offenlegt. Diese Kennzeichnungspflicht gilt für Text/Textteile, Bilder, Videos und Musikstücke sowie alle anderen Elemente, für deren Erstellung KI verwendet wurde.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine Übersicht der genutzten KI-Tools und deren Verwendungszweck ist verpflichtend. Diese kann beispielsweise in Form einer einfachen Tabelle erfolgen (siehe Musterformular).",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Je nach Aufgabenstellung kann auch ein Offenlegen der verwendeten Prompts (z.B. im Rahmen eines Prompt-Verzeichnisses) sinnvoll sein.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende bestätigen mit ihrer Unterschrift, dass sie:",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die volle Verantwortung für die wissenschaftliche Qualität und den Inhalt der vorliegenden Arbeit, die gewählte Methodik und den Erstellungsprozess, sowie die zitierte Literatur übernehmen.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die Arbeit unter Einhaltung der guten wissenschaftlichen Praxis erstellt haben.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die Nutzung von KI-Tools vorab mit der Dozentin/dem Dozenten bzw. der Prüferin/dem Prüfer abgesprochen wurde und dass die besprochenen Regelungen eingehalten wurden.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Unterstützung bei Fragen zur Plagiatserkennung",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Lehrende werden bei Fragen zur Erkennung möglicher Plagiate sowie zum Umgang mit Verdachtsfällen unterstützt – sowohl durch das Team der Universitätsbibliothek (z. B. im Hinblick auf technische Tools und Dokumentation) als auch durch das Team des Rechtsservice Studium und Lehre, das bei der Einordnung von Grenzfällen und bei der Prüfung notwendiger weiterer Schritte berät.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "anwendungsmöglichkeiten für ki in studium und lehre",
+      "repaired": true
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "verantwortungsvoller umgang mit ki-anwendungen in studium und lehre",
+      "repaired": true
+    },
+    {
+      "id": 57,
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "relevante anwendungen umfassen unter anderem:",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "grundsätze für die ki-nutzung in studium und lehre",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 43,
-    "matched": 43,
-    "unmatched_count": 0,
-    "unmatched": [],
-    "source_coverage": 0.971,
-    "uncovered_chars": 237,
-    "uncovered_gaps": 1,
+    "total": 57,
+    "matched": 55,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 56,
+        "B": "B8",
+        "matched_words": "3/8",
+        "text": "verantwortungsvoller umgang mit ki-anwendungen in studium und lehre"
+      },
+      {
+        "id": 57,
+        "B": "B5",
+        "matched_words": "3/8",
+        "text": "grundsätze für die ki-nutzung in studium und lehre"
+      }
+    ],
+    "source_coverage": 0.95,
+    "uncovered_chars": 456,
+    "uncovered_gaps": 5,
     "uncovered": [
       {
         "char_start": 0,
         "char_end": 237,
         "length": 237,
         "text": "# universität heidelberg # source: https://backend.heiskills.uniheidelberg.de/de/dokumente/kileitliniede/download # date: none # category: guideline leitlinie zum umgang mit ki in studium und lehre an der universität heidelberg präambel"
+      },
+      {
+        "char_start": 2160,
+        "char_end": 2208,
+        "length": 48,
+        "text": ". relevante anwendungen umfassen unter anderem:"
+      },
+      {
+        "char_start": 4044,
+        "char_end": 4118,
+        "length": 74,
+        "text": ". ii. verantwortungsvoller umgang mit ki-anwendungen in studium und lehre"
+      },
+      {
+        "char_start": 4926,
+        "char_end": 4965,
+        "length": 39,
+        "text": ". mögliche risiken von ki in der lehre"
+      },
+      {
+        "char_start": 7919,
+        "char_end": 7977,
+        "length": 58,
+        "text": ". iii. grundsätze für die ki-nutzung in studium und lehre"
       }
     ]
   },
@@ -334,8 +469,8 @@
       "char_start": 243,
       "char_end": 569,
       "text": "Die rasante Entwicklung generativer KI-Werkzeuge, wie zum Beispiel großer Sprachmodelle (LLMs), eröffnet neue Möglichkeiten für die Forschung und Lehre weltweit. Gleichzeitig bringt die Integration solcher Technologien erhebliche Risiken mit sich, insbesondere im Hinblick auf die Genauigkeit und Verlässlichkeit von Inhalten.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -343,8 +478,8 @@
       "char_start": 571,
       "char_end": 1043,
       "text": "Die Universität Heidelberg erkennt das transformative Potenzial generativer KI-Werkzeuge zur Förderung der Forschung und Lehre an – beispielsweise für die Datenanalyse, Programmierung und das wissenschaftliche Schreiben – und ermutigt daher zu einer umsichtigen, ethisch vertretbaren und rechtlich sicheren Integration dieser Technologien in wissenschaftliche Arbeitsprozesse, sofern deren Nutzung den höchsten Standards akademischer Integrität und Transparenz entspricht.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -353,368 +488,746 @@
       "char_end": 1235,
       "text": "Die folgenden Richtlinien dienen als universitätsweiter Orientierungsrahmen und legen grundlegende Erwartungen für einen verantwortungsvollen Einsatz generativer KI in allen Fakultäten fest.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1236,
-      "char_end": 1551,
-      "text": "Einzelne Fachbereiche können zusätzliche, fachspezifische Richtlinien für die Nutzung von KI in Studium und Lehre entwickeln, um besonderen Anforderungen und Kontexten der Studiengänge und Lehrveranstaltungen gerecht zu werden. Die festgelegten Richtlinien werden in den jeweiligen Fächern transparent kommuniziert.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "char_end": 1463,
+      "text": "Einzelne Fachbereiche können zusätzliche, fachspezifische Richtlinien für die Nutzung von KI in Studium und Lehre entwickeln, um besonderen Anforderungen und Kontexten der Studiengänge und Lehrveranstaltungen gerecht zu werden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
-      "char_start": 1553,
-      "char_end": 1969,
-      "text": "Studierende und Lehrende werden bei der Integration entsprechender Technologien unterstützt und zugleich wird der Aufbau von Kompetenzen im Umgang mit KI nachhaltig gestärkt. Dabei werden auch didaktische Aspekte als wesentlicher Bestandteil eines reflektierten KI-Einsatzes in Studium und Lehre berücksichtigt. Entsprechende Unterstützungsangebote für Studierende und Lehrende werden durch heiSKILLS bereitgestellt.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 1464,
+      "char_end": 1551,
+      "text": "Die festgelegten Richtlinien werden in den jeweiligen Fächern transparent kommuniziert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 1971,
-      "char_end": 2171,
-      "text": "I. Anwendungsmöglichkeiten für KI in Studium und Lehre\nIm Bereich Studium und Lehre eröffnen KI-Anwendungen neue Möglichkeiten, um Lernprozesse zu unterstützen, zu individualisieren und zu optimieren.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 1553,
+      "char_end": 1727,
+      "text": "Studierende und Lehrende werden bei der Integration entsprechender Technologien unterstützt und zugleich wird der Aufbau von Kompetenzen im Umgang mit KI nachhaltig gestärkt.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 2172,
-      "char_end": 2217,
-      "text": "Relevante Anwendungen umfassen unter anderem:",
+      "char_start": 1728,
+      "char_end": 1864,
+      "text": "Dabei werden auch didaktische Aspekte als wesentlicher Bestandteil eines reflektierten KI-Einsatzes in Studium und Lehre berücksichtigt.",
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 43,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2219,
-      "char_end": 2451,
-      "text": "- Textgenerierung und Unterstützung bei Schreibprozessen: Werkzeuge wie ChatGPT können bei der Ideenfindung, Gliederung oder Überarbeitung wissenschaftlicher Arbeiten sowie bei der Suche nach wissenschaftlichen Publikationen helfen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 7,
       "match_type": "exact"
     },
     {
-      "char_start": 2452,
-      "char_end": 2654,
-      "text": "- Sprachübersetzung und -korrektur: Tools wie DeepL ermöglichen Übersetzungen, erleichtern die Erstellung von Texten in anderen Sprachen und unterstützen bei den Korrekturen von Texten in Fremdsprachen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 1865,
+      "char_end": 1969,
+      "text": "Entsprechende Unterstützungsangebote für Studierende und Lehrende werden durch heiSKILLS bereitgestellt.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
       "segment_id": 8,
       "match_type": "exact"
     },
     {
-      "char_start": 2655,
-      "char_end": 2948,
-      "text": "- Bildgenerierung und Visualisierung: Tools zur Bildgenerierung ermöglichen es, eigene Ideen visuell umzusetzen und komplexe Inhalte anschaulich darzustellen – etwa durch die Erstellung von Illustrationen, Schaubildern oder symbolischen Darstellungen auf Basis selbstformulierter Texteingaben.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 1969,
+      "char_end": 1974,
+      "text": "\n\nI. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1974,
+      "char_end": 2025,
+      "text": "Anwendungsmöglichkeiten für KI in Studium und Lehre",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2026,
+      "char_end": 2171,
+      "text": "Im Bereich Studium und Lehre eröffnen KI-Anwendungen neue Möglichkeiten, um Lernprozesse zu unterstützen, zu individualisieren und zu optimieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
     {
-      "char_start": 2949,
-      "char_end": 3341,
-      "text": "- Unterstützung beim Programmieren: KI-basierte Entwicklungsumgebungen wie GitHub Copilot oder ChatGPT können Programmieraufgaben erleichtern, indem sie Code-Vorschläge liefern, Fehler identifizieren oder automatisierte Dokumentationen erstellen. Auch bei statistischen Analysen und Datenverarbeitung kann KI helfen, indem sie komplexe Berechnungen unterstützt und Visualisierungen generiert.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2171,
+      "char_end": 2221,
+      "text": " Relevante Anwendungen umfassen unter anderem:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2221,
+      "char_end": 2451,
+      "text": "Textgenerierung und Unterstützung bei Schreibprozessen: Werkzeuge wie ChatGPT können bei der Ideenfindung, Gliederung oder Überarbeitung wissenschaftlicher Arbeiten sowie bei der Suche nach wissenschaftlichen Publikationen helfen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 10,
       "match_type": "exact"
     },
     {
-      "char_start": 3342,
-      "char_end": 3500,
-      "text": "- Plagiatserkennung und Prüfungsanalyse: Spezialisierte KI-Software unterstützt bei der Überprüfung von Originalität und Qualität wissenschaftlicher Arbeiten.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2451,
+      "char_end": 2454,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2454,
+      "char_end": 2654,
+      "text": "Sprachübersetzung und -korrektur: Tools wie DeepL ermöglichen Übersetzungen, erleichtern die Erstellung von Texten in anderen Sprachen und unterstützen bei den Korrekturen von Texten in Fremdsprachen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 11,
       "match_type": "exact"
     },
     {
-      "char_start": 3501,
-      "char_end": 3666,
-      "text": "- Lernbegleitung und Feedbacksysteme: KI-gestützte Tutor:innen und adaptive Lernplattformen können Lernprozesse personalisieren und fördern selbstreguliertes Lernen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2654,
+      "char_end": 2657,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2657,
+      "char_end": 2948,
+      "text": "Bildgenerierung und Visualisierung: Tools zur Bildgenerierung ermöglichen es, eigene Ideen visuell umzusetzen und komplexe Inhalte anschaulich darzustellen – etwa durch die Erstellung von Illustrationen, Schaubildern oder symbolischen Darstellungen auf Basis selbstformulierter Texteingaben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
     {
-      "char_start": 3667,
-      "char_end": 4070,
-      "text": "- Unterstützung bei der Lehrplanung und Materialerstellung: KI-gestützte Tools können bei der Erstellung von Lehrveranstaltungsplanungen, Lernmaterialien, Präsentationen oder Skizzen unterstützen. Sie ermöglichen individuelle Rückmeldungen, helfen bei der Strukturierung von Inhalten, überprüfen Bewertungen auf Nachvollziehbarkeit und können so zur Zeitersparnis und Optimierung in der Lehre beitragen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "char_start": 2948,
+      "char_end": 2951,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2951,
+      "char_end": 3341,
+      "text": "Unterstützung beim Programmieren: KI-basierte Entwicklungsumgebungen wie GitHub Copilot oder ChatGPT können Programmieraufgaben erleichtern, indem sie Code-Vorschläge liefern, Fehler identifizieren oder automatisierte Dokumentationen erstellen. Auch bei statistischen Analysen und Datenverarbeitung kann KI helfen, indem sie komplexe Berechnungen unterstützt und Visualisierungen generiert.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 4072,
-      "char_end": 4219,
-      "text": "II. Verantwortungsvoller Umgang mit KI-Anwendungen in Studium und Lehre\nEin verantwortungsvoller Umgang mit KI in Studium und Lehre ist essenziell.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "char_start": 3341,
+      "char_end": 3344,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3344,
+      "char_end": 3500,
+      "text": "Plagiatserkennung und Prüfungsanalyse: Spezialisierte KI-Software unterstützt bei der Überprüfung von Originalität und Qualität wissenschaftlicher Arbeiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3500,
+      "char_end": 3503,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3503,
+      "char_end": 3666,
+      "text": "Lernbegleitung und Feedbacksysteme: KI-gestützte Tutor:innen und adaptive Lernplattformen können Lernprozesse personalisieren und fördern selbstreguliertes Lernen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3666,
+      "char_end": 3669,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3669,
+      "char_end": 4070,
+      "text": "Unterstützung bei der Lehrplanung und Materialerstellung: KI-gestützte Tools können bei der Erstellung von Lehrveranstaltungsplanungen, Lernmaterialien, Präsentationen oder Skizzen unterstützen. Sie ermöglichen individuelle Rückmeldungen, helfen bei der Strukturierung von Inhalten, überprüfen Bewertungen auf Nachvollziehbarkeit und können so zur Zeitersparnis und Optimierung in der Lehre beitragen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4070,
+      "char_end": 4076,
+      "text": "\n\nII. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4076,
+      "char_end": 4143,
+      "text": "Verantwortungsvoller Umgang mit KI-Anwendungen in Studium und Lehre",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4144,
+      "char_end": 4219,
+      "text": "Ein verantwortungsvoller Umgang mit KI in Studium und Lehre ist essenziell.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 4221,
       "char_end": 4281,
       "text": "Datenschutz und Datensicherheit spielen eine zentrale Rolle:",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4283,
-      "char_end": 4610,
-      "text": "- Lehrende und Studierende sollten bei der Nutzung von KI darauf achten, dass keine sensiblen, personenbezogenen oder vertraulichen Daten sowie urheberrechtlich geschützte Texte/Textteile in KI-Systeme eingegeben werden, die diese Daten außerhalb der Infrastruktur der Universität Heidelberg speichern oder verarbeiten könnten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4611,
-      "char_end": 4802,
-      "text": "- Es wird empfohlen, vor der Nutzung von KI-Werkzeugen die Datenschutzbestimmungen und Nutzungsbedingungen sorgfältig zu prüfen und ausschließlich datenschutzkonforme Anwendungen einzusetzen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4803,
-      "char_end": 4961,
-      "text": "- Alle rechtlichen Vorgaben müssen eingehalten werden, insbesondere die Datenschutzgrundverordnung, das Persönlichkeitsrecht, das Urheberrecht und der AI Act.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 18,
       "match_type": "exact"
     },
     {
-      "char_start": 4963,
-      "char_end": 5222,
-      "text": "Mögliche Risiken von KI in der Lehre\nNeben den Chancen birgt der Einsatz von KI in der Lehre auch Herausforderungen und Risiken, die berücksichtigt werden sollten. Daher sollte sowohl der Einsatz als auch die Ergebnisse von KI gewissenhaft reflektiert werden:",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "char_start": 4281,
+      "char_end": 4285,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4285,
+      "char_end": 4610,
+      "text": "Lehrende und Studierende sollten bei der Nutzung von KI darauf achten, dass keine sensiblen, personenbezogenen oder vertraulichen Daten sowie urheberrechtlich geschützte Texte/Textteile in KI-Systeme eingegeben werden, die diese Daten außerhalb der Infrastruktur der Universität Heidelberg speichern oder verarbeiten könnten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4610,
+      "char_end": 4613,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4613,
+      "char_end": 4802,
+      "text": "Es wird empfohlen, vor der Nutzung von KI-Werkzeugen die Datenschutzbestimmungen und Nutzungsbedingungen sorgfältig zu prüfen und ausschließlich datenschutzkonforme Anwendungen einzusetzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4802,
+      "char_end": 4805,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4805,
+      "char_end": 4961,
+      "text": "Alle rechtlichen Vorgaben müssen eingehalten werden, insbesondere die Datenschutzgrundverordnung, das Persönlichkeitsrecht, das Urheberrecht und der AI Act.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4961,
+      "char_end": 5000,
+      "text": "\n\nMögliche Risiken von KI in der Lehre\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5000,
+      "char_end": 5222,
+      "text": "Neben den Chancen birgt der Einsatz von KI in der Lehre auch Herausforderungen und Risiken, die berücksichtigt werden sollten. Daher sollte sowohl der Einsatz als auch die Ergebnisse von KI gewissenhaft reflektiert werden:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
       "char_start": 5224,
       "char_end": 5532,
       "text": "1. Fehlerhafte oder unvollständige Informationen: KI-Modelle können ungenaue, veraltete oder irreführende Inhalte generieren, da sie auf begrenzten Daten trainiert sind. Weitere Risiken bestehen darin, dass die Ergebnisse nicht reproduziert werden können oder Nonsens-Informationen generiert/erfunden werden.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 20,
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
       "char_start": 5534,
       "char_end": 5732,
       "text": "2. Bias und Diskriminierung: KI-Modelle können systematische Verzerrungen aufweisen, da sie auf bestehenden Datensätzen beruhen, die gesellschaftliche Vorurteile widerspiegeln und verstärken können.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 21,
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 5734,
       "char_end": 5994,
       "text": "3. Fehlender Kontext: KI kann Inhalte erstellen, die nicht den spezifischen Anforderungen oder kulturellen Kontexten entsprechen (z.B. fehlende Sensibilisierung für gesellschaftlich heikle Themen), was Missverständnisse oder falsche Anwendungen fördern könnte.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 22,
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 5996,
       "char_end": 6204,
       "text": "4. Verlust der Eigenständigkeit: Eine übermäßige Nutzung von KI-Tools könnte die kritische Auseinandersetzung mit Inhalten, das eigenständige Denken der Studierenden und ihren Kompetenzerwerb beeinträchtigen.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 23,
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
       "char_start": 6206,
       "char_end": 6533,
       "text": "5. Plagiarismus und Unklarheit bei der Autorschaft: Der Einsatz von KI bei der Erstellung von Texten kann die Grenzen zwischen eigenständiger Leistung und maschineller Unterstützung verschwimmen lassen. Zudem besteht das Risiko, dass von der KI generierte Textpassagen unbemerkt aus bestehenden Publikationen übernommen wurden.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 24,
+      "segment_id": 27,
       "match_type": "exact"
     },
     {
       "char_start": 6535,
       "char_end": 6691,
       "text": "6. Datenschutzrisiken: Die Eingabe personenbezogener Daten in KI-Tools kann zu einem unautorisierten Zugriff auf sensible Informationen führen (siehe oben).",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 25,
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 6693,
       "char_end": 6888,
       "text": "7. Abhängigkeit von Technologie: Eine übermäßige Integration von KI in Lehr- und Lernprozesse kann die Resilienz gegenüber technischen Ausfällen oder den Zugang zu digitalen Ressourcen gefährden.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 26,
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
       "char_start": 6890,
       "char_end": 7197,
       "text": "8. Intransparenz der Entscheidungswege und Datengrundlagen: KI-Modelle basieren auf komplexen Algorithmen und großen Datenmengen, deren Herkunft und Verarbeitung oft nicht vollständig nachvollziehbar sind. Dies kann dazu führen, dass die Entscheidungsprozesse der KI für Nutzer:innen nicht transparent sind.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 27,
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
       "char_start": 7199,
       "char_end": 7508,
       "text": "9. Bildungsungleichheit: Der Zugang zu KI-Technologien sowie die Fähigkeit, diese kompetent zu nutzen, sind ungleich verteilt. Unterschiede in Bildungsvoraussetzungen, technischer Infrastruktur und Unterstützungsmöglichkeiten können dazu führen, dass bestehende Bildungsungleichheiten weiter verstärkt werden.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 28,
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
       "char_start": 7510,
       "char_end": 7967,
       "text": "10. Verändertes Lernen: Der zunehmende Einsatz von KI kann dazu führen, dass traditionelle Lerntechniken – etwa das Auswendiglernen von Fakten oder das wiederholende Üben routinierter Aufgaben – an Bedeutung verlieren. Ohne didaktische Reflexion besteht die Gefahr, dass zentrale kognitive Kompetenzen vernachlässigt werden. Gleichzeitig stellt sich die Herausforderung, Studierende auf veränderte Lernprozesse und neue Kompetenzanforderungen vorzubereiten.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 29,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7969,
-      "char_end": 8024,
-      "text": "III. Grundsätze für die KI-Nutzung in Studium und Lehre",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 30,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8026,
-      "char_end": 8374,
-      "text": "1. Zulässigkeit der KI-Nutzung:\n- Die Nutzung von KI und Sprachmodellen (LLMs) wie ChatGPT, DeepL oder anderen Werkzeugen ist im Studium und in der Lehre an der UHD grundsätzlich erlaubt. Die spezifische Anwendung muss mit den Prüfer:innen und Lehrenden abgestimmt werden. Zentral ist, dass ein eigenständiger Charakter der Leistung gewahrt bleibt.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 31,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8375,
-      "char_end": 8784,
-      "text": "- Die Nutzung von KI muss sich an den spezifischen Lernzielen der jeweiligen Lehrveranstaltungen und Prüfungsformate orientieren. Die genauen Regelungen in den Studiengängen/Lehrveranstaltungen/Prüfungen werden durch die jeweiligen Prüfungsausschüsse, Dozierenden oder Prüfer:innen festgelegt. Es wird transparent kommuniziert, welche Tools wie im Rahmen der Lehrveranstaltung/Prüfung verwendet werden dürfen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
       "segment_id": 32,
       "match_type": "exact"
     },
     {
-      "char_start": 8785,
-      "char_end": 8979,
-      "text": "- Studierende dürfen darüber entscheiden, ob und wie sie KI im Rahmen der festgelegten Regelungen im Rahmen einer Lehrveranstaltung oder bei der Erstellung einer Prüfungsleistung nutzen möchten.",
+      "char_start": 7967,
+      "char_end": 7974,
+      "text": "\n\nIII. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7974,
+      "char_end": 8024,
+      "text": "Grundsätze für die KI-Nutzung in Studium und Lehre",
       "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8026,
+      "char_end": 8057,
+      "text": "1. Zulässigkeit der KI-Nutzung:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 33,
       "match_type": "exact"
     },
     {
-      "char_start": 8980,
-      "char_end": 9136,
-      "text": "- Lehrende sollen Prüfungen so gestalten, dass sie sowohl mit als auch ohne KI bearbeitet werden können, es sei denn KI ist Gegenstand der Aufgabenstellung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8057,
+      "char_end": 8060,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8060,
+      "char_end": 8213,
+      "text": "Die Nutzung von KI und Sprachmodellen (LLMs) wie ChatGPT, DeepL oder anderen Werkzeugen ist im Studium und in der Lehre an der UHD grundsätzlich erlaubt.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 34,
       "match_type": "exact"
     },
     {
-      "char_start": 9137,
-      "char_end": 9281,
-      "text": "- Die Regelungen der guten wissenschaftlichen Praxis müssen eingehalten werden (siehe Leitlinien und Grundsätze: gute wissenschaftliche Praxis).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8214,
+      "char_end": 8374,
+      "text": "Die spezifische Anwendung muss mit den Prüfer:innen und Lehrenden abgestimmt werden. Zentral ist, dass ein eigenständiger Charakter der Leistung gewahrt bleibt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 9283,
-      "char_end": 9483,
-      "text": "2. Verantwortung und Transparenz:\n- Lehrende sind dazu angehalten, den KI-Einsatz entsprechend den Lernzielen zu gestalten und die Studierenden über erlaubte und unerlaubte Anwendungen zu informieren.",
+      "char_start": 8374,
+      "char_end": 8377,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8377,
+      "char_end": 8668,
+      "text": "Die Nutzung von KI muss sich an den spezifischen Lernzielen der jeweiligen Lehrveranstaltungen und Prüfungsformate orientieren. Die genauen Regelungen in den Studiengängen/Lehrveranstaltungen/Prüfungen werden durch die jeweiligen Prüfungsausschüsse, Dozierenden oder Prüfer:innen festgelegt.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 36,
       "match_type": "exact"
     },
     {
-      "char_start": 9484,
-      "char_end": 9628,
-      "text": "- Studierende tragen die Verantwortung für die Korrektheit und Qualität von KI-generierten Inhalten und müssen deren Nutzung transparent machen.",
+      "char_start": 8669,
+      "char_end": 8784,
+      "text": "Es wird transparent kommuniziert, welche Tools wie im Rahmen der Lehrveranstaltung/Prüfung verwendet werden dürfen.",
       "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 37,
       "match_type": "exact"
     },
     {
-      "char_start": 9630,
-      "char_end": 10011,
-      "text": "3. Einsatz von KI in Studien- und Prüfungsleistungen\nKennzeichnungspflicht:\n- Studierende müssen für alle Studienarbeiten eine Eigenständigkeits- und Kennzeichnungserklärung abgeben, die den Einsatz von KI-Werkzeugen offenlegt. Diese Kennzeichnungspflicht gilt für Text/Textteile, Bilder, Videos und Musikstücke sowie alle anderen Elemente, für deren Erstellung KI verwendet wurde.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8784,
+      "char_end": 8787,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8787,
+      "char_end": 8979,
+      "text": "Studierende dürfen darüber entscheiden, ob und wie sie KI im Rahmen der festgelegten Regelungen im Rahmen einer Lehrveranstaltung oder bei der Erstellung einer Prüfungsleistung nutzen möchten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 38,
       "match_type": "exact"
     },
     {
-      "char_start": 10012,
-      "char_end": 10188,
-      "text": "- Eine Übersicht der genutzten KI-Tools und deren Verwendungszweck ist verpflichtend. Diese kann beispielsweise in Form einer einfachen Tabelle erfolgen (siehe Musterformular).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 8979,
+      "char_end": 8982,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8982,
+      "char_end": 9136,
+      "text": "Lehrende sollen Prüfungen so gestalten, dass sie sowohl mit als auch ohne KI bearbeitet werden können, es sei denn KI ist Gegenstand der Aufgabenstellung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 39,
       "match_type": "exact"
     },
     {
-      "char_start": 10189,
-      "char_end": 10324,
-      "text": "- Je nach Aufgabenstellung kann auch ein Offenlegen der verwendeten Prompts (z.B. im Rahmen eines Prompt-Verzeichnisses) sinnvoll sein.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 9136,
+      "char_end": 9139,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9139,
+      "char_end": 9281,
+      "text": "Die Regelungen der guten wissenschaftlichen Praxis müssen eingehalten werden (siehe Leitlinien und Grundsätze: gute wissenschaftliche Praxis).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 40,
       "match_type": "exact"
     },
     {
-      "char_start": 10325,
-      "char_end": 10828,
-      "text": "- Studierende bestätigen mit ihrer Unterschrift, dass sie:\n - die volle Verantwortung für die wissenschaftliche Qualität und den Inhalt der vorliegenden Arbeit, die gewählte Methodik und den Erstellungsprozess, sowie die zitierte Literatur übernehmen.\n - die Arbeit unter Einhaltung der guten wissenschaftlichen Praxis erstellt haben.\n - die Nutzung von KI-Tools vorab mit der Dozentin/dem Dozenten bzw. der Prüferin/dem Prüfer abgesprochen wurde und dass die besprochenen Regelungen eingehalten wurden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_start": 9283,
+      "char_end": 9316,
+      "text": "2. Verantwortung und Transparenz:",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 41,
       "match_type": "exact"
     },
     {
-      "char_start": 10830,
-      "char_end": 11252,
-      "text": "Unterstützung bei Fragen zur Plagiatserkennung\nLehrende werden bei Fragen zur Erkennung möglicher Plagiate sowie zum Umgang mit Verdachtsfällen unterstützt – sowohl durch das Team der Universitätsbibliothek (z. B. im Hinblick auf technische Tools und Dokumentation) als auch durch das Team des Rechtsservice Studium und Lehre, das bei der Einordnung von Grenzfällen und bei der Prüfung notwendiger weiterer Schritte berät.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_start": 9316,
+      "char_end": 9319,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9319,
+      "char_end": 9483,
+      "text": "Lehrende sind dazu angehalten, den KI-Einsatz entsprechend den Lernzielen zu gestalten und die Studierenden über erlaubte und unerlaubte Anwendungen zu informieren.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9483,
+      "char_end": 9486,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9486,
+      "char_end": 9628,
+      "text": "Studierende tragen die Verantwortung für die Korrektheit und Qualität von KI-generierten Inhalten und müssen deren Nutzung transparent machen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9630,
+      "char_end": 9682,
+      "text": "3. Einsatz von KI in Studien- und Prüfungsleistungen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9683,
+      "char_end": 9705,
+      "text": "Kennzeichnungspflicht:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9705,
+      "char_end": 9708,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9708,
+      "char_end": 10011,
+      "text": "Studierende müssen für alle Studienarbeiten eine Eigenständigkeits- und Kennzeichnungserklärung abgeben, die den Einsatz von KI-Werkzeugen offenlegt. Diese Kennzeichnungspflicht gilt für Text/Textteile, Bilder, Videos und Musikstücke sowie alle anderen Elemente, für deren Erstellung KI verwendet wurde.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10011,
+      "char_end": 10014,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10014,
+      "char_end": 10188,
+      "text": "Eine Übersicht der genutzten KI-Tools und deren Verwendungszweck ist verpflichtend. Diese kann beispielsweise in Form einer einfachen Tabelle erfolgen (siehe Musterformular).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10188,
+      "char_end": 10191,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10191,
+      "char_end": 10324,
+      "text": "Je nach Aufgabenstellung kann auch ein Offenlegen der verwendeten Prompts (z.B. im Rahmen eines Prompt-Verzeichnisses) sinnvoll sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10324,
+      "char_end": 10327,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10327,
+      "char_end": 10383,
+      "text": "Studierende bestätigen mit ihrer Unterschrift, dass sie:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10383,
+      "char_end": 10387,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10387,
+      "char_end": 10576,
+      "text": "die volle Verantwortung für die wissenschaftliche Qualität und den Inhalt der vorliegenden Arbeit, die gewählte Methodik und den Erstellungsprozess, sowie die zitierte Literatur übernehmen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10576,
+      "char_end": 10580,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10580,
+      "char_end": 10659,
+      "text": "die Arbeit unter Einhaltung der guten wissenschaftlichen Praxis erstellt haben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10659,
+      "char_end": 10663,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10663,
+      "char_end": 10828,
+      "text": "die Nutzung von KI-Tools vorab mit der Dozentin/dem Dozenten bzw. der Prüferin/dem Prüfer abgesprochen wurde und dass die besprochenen Regelungen eingehalten wurden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10830,
+      "char_end": 10876,
+      "text": "Unterstützung bei Fragen zur Plagiatserkennung",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10877,
+      "char_end": 11252,
+      "text": "Lehrende werden bei Fragen zur Erkennung möglicher Plagiate sowie zum Umgang mit Verdachtsfällen unterstützt – sowohl durch das Team der Universitätsbibliothek (z. B. im Hinblick auf technische Tools und Dokumentation) als auch durch das Team des Rechtsservice Studium und Lehre, das bei der Einordnung von Grenzfällen und bei der Prüfung notwendiger weiterer Schritte berät.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 54,
       "match_type": "exact"
     }
   ]

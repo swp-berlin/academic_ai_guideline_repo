@@ -3,389 +3,241 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die wissenschaftliche Begutachtung von Förderanträgen ist ein integraler Bestandteil zur Ermittlung wissenschaftlicher Qualität im Rahmen der Forschungsförderung durch die Deutsche Forschungsgemeinschaft (DFG).",
-      "repaired": false
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die wissenschaftliche Begutachtung von Förderanträgen ist ein integraler Bestandteil zur Ermittlung wissenschaftlicher Qualität im Rahmen der Forschungsförderung durch die Deutsche Forschungsgemeinschaft (DFG)."
     },
     {
       "id": 2,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "(Generative) Künstliche Intelligenz (im Weiteren „KI-Systeme“) ist inzwischen weithin verfügbar und kann ohne besondere technische Vorkenntnisse eingesetzt werden.",
-      "repaired": false
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "(Generative) Künstliche Intelligenz (im Weiteren „KI-Systeme“) ist inzwischen weithin verfügbar und kann ohne besondere technische Vorkenntnisse eingesetzt werden."
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Mit Blick auf schützenswerte rechtliche Interessen der antragstellenden Personen, die Vertraulichkeit des Begutachtungsverfahrens, allgemeine Transparenzanforderungen sowie die wissenschaftliche Integrität der DFG-Förderverfahren insgesamt ist der Einsatz von KI-Systemen ausschließlich entlang der im Weiteren näher ausgeführten Prinzipien zulässig.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Mit Blick auf schützenswerte rechtliche Interessen der antragstellenden Personen, die Vertraulichkeit des Begutachtungsverfahrens, allgemeine Transparenzanforderungen sowie die wissenschaftliche Integrität der DFG-Förderverfahren insgesamt ist der Einsatz von KI-Systemen ausschließlich entlang der im Weiteren näher ausgeführten Prinzipien zulässig."
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Diese Nutzungs- und Transparenzleitlinie zielt darauf ab, für Gutachter*innen beim Einsatz von KI-Systemen in der Begutachtung Rahmenbedingungen zu setzen und den verantwortungsvollen, transparenten und – u. a. mit Blick auf die KI-Verordnung (EU) 2024/1689, die Datenschutz-Grundverordnung (DSGVO) und das Urheberrechtsgesetz (UrhG) – rechtskonformen Einsatz von KI-Systemen zu gewährleisten.",
-      "repaired": false
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Nutzungs- und Transparenzleitlinie zielt darauf ab, für Gutachter*innen beim Einsatz von KI-Systemen in der Begutachtung Rahmenbedingungen zu setzen und den verantwortungsvollen, transparenten und – u. a. mit Blick auf die KI-Verordnung (EU) 2024/1689, die Datenschutz-Grundverordnung (DSGVO) und das Urheberrechtsgesetz (UrhG) – rechtskonformen Einsatz von KI-Systemen zu gewährleisten."
     },
     {
       "id": 5,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die inhaltliche Verantwortung für das Gutachten verbleibt bei den Gutachter*innen.",
-      "repaired": false
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die inhaltliche Verantwortung für das Gutachten verbleibt bei den Gutachter*innen."
     },
     {
       "id": 6,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Die menschliche Analyse und wissenschaftliche Einordnung des Antrags ist Kernbestandteil der Begutachtung.",
-      "repaired": false
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Einsatzzweck"
     },
     {
       "id": 7,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Die Nutzung von KI-Systemen bei der Erstellung von Gutachten ist daher ausschließlich im unterstützenden Sinn gestattet.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die menschliche Analyse und wissenschaftliche Einordnung des Antrags ist Kernbestandteil der Begutachtung. Die Nutzung von KI-Systemen bei der Erstellung von Gutachten ist daher ausschließlich im unterstützenden Sinn gestattet."
     },
     {
       "id": 8,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Alle inhaltlichen Positionierungen mit Blick auf die Förderempfehlung obliegen allein den Gutachter*innen.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Alle inhaltlichen Positionierungen mit Blick auf die Förderempfehlung obliegen allein den Gutachter*innen."
     },
     {
       "id": 9,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "So darf das KI-System zum Beispiel relevante Literatur mit Blick auf den zu begutachtenden Antrag heraussuchen, eigene Stichworte oder Notizen der Gutachter*innen, aus denen die intentionale Richtung des Gutachtens bereits eindeutig hervorgeht, zu einem ausformulierten Fließtext zusammenführen oder Anregungen zur strukturellen oder sprachlichen Überarbeitung eigener Inhalte liefern.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "So darf das KI-System zum Beispiel relevante Literatur mit Blick auf den zu begutachtenden Antrag heraussuchen, eigene Stichworte oder Notizen der Gutachter*innen, aus denen die intentionale Richtung des Gutachtens bereits eindeutig hervorgeht, zu einem ausformulierten Fließtext zusammenführen oder Anregungen zur strukturellen oder sprachlichen Überarbeitung eigener Inhalte liefern."
     },
     {
       "id": 10,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Unzulässig wäre es hingegen, maßgebliche Teile des Gutachtens automatisch und unreflektiert, d. h. ohne eigene fachliche Prüfung, generieren zu lassen.",
-      "repaired": false
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Unzulässig wäre es hingegen, maßgebliche Teile des Gutachtens automatisch und unreflektiert, d. h. ohne eigene fachliche Prüfung, generieren zu lassen."
     },
     {
       "id": 11,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "1. Vertraulichkeit",
-      "repaired": false
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Leitende Prinzipien bei der Verwendung von KI"
     },
     {
       "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "KI-Systeme dürfen nur zum Einsatz kommen, wenn sichergestellt ist, dass die vertraulichen Inhalte von Förderanträgen nicht unkontrolliert verarbeitet, gespeichert oder für andere Zwecke als die Durchführung der wissenschaftlichen Begutachtung verwendet werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "1. Vertraulichkeit"
     },
     {
       "id": 13,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die unterstützende Verwendung von KI im Rahmen der Gutachtenerstellung darf nicht zur Preisgabe vertraulicher Antragsinhalte führen.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-Systeme dürfen nur zum Einsatz kommen, wenn sichergestellt ist, dass die vertraulichen Inhalte von Förderanträgen nicht unkontrolliert verarbeitet, gespeichert oder für andere Zwecke als die Durchführung der wissenschaftlichen Begutachtung verwendet werden."
     },
     {
       "id": 14,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Diese Informationen werden der DFG ausschließlich zur Begutachtung, Bewertung und Entscheidung überlassen.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die unterstützende Verwendung von KI im Rahmen der Gutachtenerstellung darf nicht zur Preisgabe vertraulicher Antragsinhalte führen. Diese Informationen werden der DFG ausschließlich zur Begutachtung, Bewertung und Entscheidung überlassen."
     },
     {
       "id": 15,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Insbesondere bei cloudbasierten KI-Systemen kann es bei der Eingabe zu einer nachgelagerten Verarbeitung zu Trainingszwecken kommen. Diese ist nicht vom ursprünglichen Zweck der Überlassung durch die antragstellenden Personen gedeckt und daher unzulässig.",
-      "repaired": false
+      "text": "Insbesondere bei cloudbasierten KI-Systemen kann es bei der Eingabe zu einer nachgelagerten Verarbeitung zu Trainingszwecken kommen. Diese ist nicht vom ursprünglichen Zweck der Überlassung durch die antragstellenden Personen gedeckt und daher unzulässig."
     },
     {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Daher dürfen die betroffenen Antragsinhalte von Gutachter*innen nur in KI-Systeme eingespeist werden, wenn sichergestellt ist, dass die Antragsinhalte von den Anbietern des KI-Systems nicht dauerhaft und über den konkreten Einsatzzweck hinaus gespeichert werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daher dürfen die betroffenen Antragsinhalte von Gutachter*innen nur in KI-Systeme eingespeist werden, wenn sichergestellt ist, dass die Antragsinhalte von den Anbietern des KI-Systems nicht dauerhaft und über den konkreten Einsatzzweck hinaus gespeichert werden. Hierfür muss eine der folgenden Anforderungen erfüllt sein:"
     },
     {
       "id": 17,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Hierfür muss eine der folgenden Anforderungen erfüllt sein:",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Das KI-System ist auf dem eigenen Endgerät installiert und die Prozessierung erfolgt ausschließlich auf dem Endgerät ohne Cloud-Computing oder der Übertragung von Verarbeitungsergebnissen in die Cloud."
     },
     {
       "id": 18,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Das KI-System ist auf dem eigenen Endgerät installiert und die Prozessierung erfolgt ausschließlich auf dem Endgerät ohne Cloud-Computing oder der Übertragung von Verarbeitungsergebnissen in die Cloud.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Das KI-System wird von einer vertrauenswürdigen Einrichtung (beispielsweise einer Hochschule oder öffentlichen Forschungseinrichtung) betrieben („gehostet“)."
     },
     {
       "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Das KI-System wird von einer vertrauenswürdigen Einrichtung (beispielsweise einer Hochschule oder öffentlichen Forschungseinrichtung) betrieben („gehostet“).",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Cloudbasierte nicht kommerzielle oder kommerzielle KI-Systeme (beispielsweise ChatGPT, Claude, Gemini) dürfen nur genutzt werden, wenn eine vertragliche Lizenzvereinbarung die Datensicherheit garantiert, eine Nutzung der eingegebenen Daten durch den Anbieter (etwa zu Trainingszwecken) ausgeschlossen ist und diese Voraussetzungen durch entsprechende Sicherheitseinstellungen (zum Beispiel „kein logging“; „keine Speicherung“) aktiv gesetzt wurden."
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "- Cloudbasierte nicht kommerzielle oder kommerzielle KI-Systeme (beispielsweise ChatGPT, Claude, Gemini) dürfen nur genutzt werden, wenn eine vertragliche Lizenzvereinbarung die Datensicherheit garantiert, eine Nutzung der eingegebenen Daten durch den Anbieter (etwa zu Trainingszwecken) ausgeschlossen ist und diese Voraussetzungen durch entsprechende Sicherheitseinstellungen (zum Beispiel „kein logging“; „keine Speicherung“) aktiv gesetzt wurden.",
-      "repaired": false
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Es wird empfohlen, solche KI-Systeme zu verwenden, die auf transparent dokumentierten und öffentlich verfügbaren KI-Modellen mit öffentlich einsehbaren Trainingsdaten beruhen."
     },
     {
       "id": 21,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "- Es wird empfohlen, solche KI-Systeme zu verwenden, die auf transparent dokumentierten und öffentlich verfügbaren KI-Modellen mit öffentlich einsehbaren Trainingsdaten beruhen.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "2. Transparenz"
     },
     {
       "id": 22,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "2. Transparenz",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn bei der Erstellung des Gutachtens ein KI-System verwendet wird, muss dies unter Nennung der spezifischen Einsatzzwecke offengelegt werden."
     },
     {
       "id": 23,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wenn bei der Erstellung des Gutachtens ein KI-System verwendet wird, muss dies unter Nennung der spezifischen Einsatzzwecke offengelegt werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Einsatz des KI-Systems kann mit wenigen erläuternden Sätzen beschrieben werden. Eine konkrete Kennzeichnung der betroffenen Textpassagen im Gutachten ist nicht erforderlich. Unter „Offenlegung“ sind dabei Angaben zu verstehen, zu welchem der oben genannten zulässigen Einsatzzwecke und in welchem Umfang das KI-System eingesetzt wurde."
     },
     {
       "id": 24,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Der Einsatz des KI-Systems kann mit wenigen erläuternden Sätzen beschrieben werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eingesetzte KI, die sich nicht auf den (wissenschaftlichen) Inhalt des Gutachtens auswirkt (beispielsweise Grammatik-, Stil-, Rechtschreibprüfung, Übersetzungsprogramme), muss nicht angegeben werden."
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Eine konkrete Kennzeichnung der betroffenen Textpassagen im Gutachten ist nicht erforderlich.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Qualitätssicherung"
     },
     {
       "id": 26,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Unter „Offenlegung“ sind dabei Angaben zu verstehen, zu welchem der oben genannten zulässigen Einsatzzwecke und in welchem Umfang das KI-System eingesetzt wurde.",
-      "repaired": false
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Eine unreflektierte Übernahme KI-generierter Textteile ist unzulässig."
     },
     {
       "id": 27,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Eingesetzte KI, die sich nicht auf den (wissenschaftlichen) Inhalt des Gutachtens auswirkt (beispielsweise Grammatik-, Stil-, Rechtschreibprüfung, Übersetzungsprogramme), muss nicht angegeben werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Texte müssen stets kritisch gewürdigt, angepasst und auf inhaltliche Richtigkeit, Aktualität sowie mögliche Verzerrungen (Bias-Strukturen) hin überprüft werden."
     },
     {
       "id": 28,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "3. Qualitätssicherung",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Da generative KI-Modelle auf probabilistischen Verfahren basieren, können sie sachlich falsche, unausgewogene oder voreingenommene Inhalte produzieren. Die Modelle basieren auf öffentlich zugänglichen Trainingsdaten, die auf Grundlage von (stochastischen) Wahrscheinlichkeitsberechnungen gesellschaftliche, kulturelle oder auch wissenschaftliche Diskurse abbilden, ohne hierzu eine wissenschaftlich-inhaltlich begründete Position zu beziehen. Dadurch perpetuieren sie die in den Trainingsdaten enthaltenen Bias, etwa Geschlechter- oder Diversitätsbias. Mit Blick auf wissenschaftliche Erkenntnisprozesse können sie auf dem Etablierten aufsetzende Konzepte gegebenenfalls positiver bewerten als neuartige Forschungsansätze, die zu Paradigmenwechseln führen könnten (Status-quo-Bias). Insgesamt kann generative KI unzutreffende oder verzerrte Inhalte erzeugen."
     },
     {
       "id": 29,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Eine unreflektierte Übernahme KI-generierter Textteile ist unzulässig.",
-      "repaired": false
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ohne kritische Überprüfung durch einen Menschen („human control“) ist die wissenschaftliche Qualität des Gutachtens sowie die Integrität des DFG-Begutachtungssystems gefährdet. Bei schlüssig scheinenden KI-generierten Texten kann zudem „automation bias“ auftreten."
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "KI-generierte Texte müssen stets kritisch gewürdigt, angepasst und auf inhaltliche Richtigkeit, Aktualität sowie mögliche Verzerrungen (Bias-Strukturen) hin überprüft werden.",
-      "repaired": false
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "4. Verantwortung"
     },
     {
       "id": 31,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Da generative KI-Modelle auf probabilistischen Verfahren basieren, können sie sachlich falsche, unausgewogene oder voreingenommene Inhalte produzieren.",
-      "repaired": false
+      "B_label": "roles/accountability/oversight",
+      "text": "Die inhaltliche Verantwortung für das Gutachten liegt uneingeschränkt bei der Person, die das Gutachten erstellt hat. Dies gilt auch dann, wenn Textteile unter Zuhilfenahme von KI-Systemen generiert worden sind."
     },
     {
       "id": 32,
       "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Die Modelle basieren auf öffentlich zugänglichen Trainingsdaten, die auf Grundlage von (stochastischen) Wahrscheinlichkeitsberechnungen gesellschaftliche, kulturelle oder auch wissenschaftliche Diskurse abbilden, ohne hierzu eine wissenschaftlich-inhaltlich begründete Position zu beziehen.",
-      "repaired": false
+      "B_label": "roles/accountability/oversight",
+      "text": "Eine verantwortliche wissenschaftliche Begutachtung erfordert fachliche Kompetenz und wissenschaftsethische Urteilsfähigkeit, die KI-Systeme systembedingt nicht mitbringen. Die Verantwortung darf daher nicht auf ein KI-System übertragen werden, sie verbleibt bei den Gutachter*innen."
     },
     {
       "id": 33,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Dadurch perpetuieren sie die in den Trainingsdaten enthaltenen Bias, etwa Geschlechter- oder Diversitätsbias.",
-      "repaired": false
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Diese Prinzipien werden im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ konkret benannt. Leitlinie 16 stellt die Einhaltung der vertraulichen Behandlung fremder Inhalte, die zur Begutachtung oder Bewertung vorgelegt werden, als zentrales Element des wissenschaftlichen Urteilsbildungsprozesses heraus."
     },
     {
       "id": 34,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Mit Blick auf wissenschaftliche Erkenntnisprozesse können sie auf dem Etablierten aufsetzende Konzepte gegebenenfalls positiver bewerten als neuartige Forschungsansätze, die zu Paradigmenwechseln führen könnten (Status-quo-Bias).",
-      "repaired": false
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Wissenschaftler*innen übermitteln unveröffentlichte wissenschaftliche Ideen, Forschungsdaten, Abbildungen und methodische Details, die oft das Ergebnis jahrelanger Arbeit sind und daher einem besonderen Schutzbedürfnis unterliegen. Der Schutz dieser Inhalte ist entscheidend, um die Rechte der Autor*innen zu wahren, das Vertrauen in einen wissenschaftsgeleiteten Begutachtungsprozess zu sichern und wissenschaftliches Fehlverhalten zu verhindern."
     },
     {
       "id": 35,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Insgesamt kann generative KI unzutreffende oder verzerrte Inhalte erzeugen.",
-      "repaired": false
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Leitlinie 16 benennt überdies die Neutralität von Begutachtungen als wichtige Grundlage für Glaubwürdigkeit, Fairness und Qualität in wissenschaftlichen Entscheidungsprozessen. Sie bildet die unverzichtbare Grundlage für einen fairen und transparenten Urteilsprozess in der Wissenschaft. Nur wenn Gutachter*innen ihre Positionierungen unabhängig, sachlich und unbeeinflusst abgeben, können Wissenschaft und Gesellschaft auf die Ergebnisse solcher Prozesse vertrauen."
     },
     {
       "id": 36,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Ohne kritische Überprüfung durch einen Menschen („human control“) ist die wissenschaftliche Qualität des Gutachtens sowie die Integrität des DFG-Begutachtungssystems gefährdet.",
-      "repaired": false
+      "text": "Nach § 9 Nr. 2 der DFG-Verfahrensordnung zum Umgang mit wissenschaftlichem Fehlverhalten (VerfOwF) können Gutachter*innen die Vertraulichkeit verletzen und damit wissenschaftliches Fehlverhalten verwirklichen, wenn sie wissenschaftliche Inhalte, die ihnen zur Begutachtung übermittelt wurden, unbefugt an Dritte weitergeben."
     },
     {
       "id": 37,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Bei schlüssig scheinenden KI-generierten Texten kann zudem „automation bias“ auftreten.",
-      "repaired": false
-    },
-    {
-      "id": 38,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "4. Verantwortung",
-      "repaired": false
-    },
-    {
-      "id": 39,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die inhaltliche Verantwortung für das Gutachten liegt uneingeschränkt bei der Person, die das Gutachten erstellt hat.",
-      "repaired": false
-    },
-    {
-      "id": 40,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Dies gilt auch dann, wenn Textteile unter Zuhilfenahme von KI-Systemen generiert worden sind.",
-      "repaired": false
-    },
-    {
-      "id": 41,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Eine verantwortliche wissenschaftliche Begutachtung erfordert fachliche Kompetenz und wissenschaftsethische Urteilsfähigkeit, die KI-Systeme systembedingt nicht mitbringen.",
-      "repaired": false
-    },
-    {
-      "id": 42,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die Verantwortung darf daher nicht auf ein KI-System übertragen werden, sie verbleibt bei den Gutachter*innen.",
-      "repaired": false
-    },
-    {
-      "id": 43,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Diese Prinzipien werden im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ konkret benannt.",
-      "repaired": false
-    },
-    {
-      "id": 44,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Leitlinie 16 stellt die Einhaltung der vertraulichen Behandlung fremder Inhalte, die zur Begutachtung oder Bewertung vorgelegt werden, als zentrales Element des wissenschaftlichen Urteilsbildungsprozesses heraus.",
-      "repaired": false
-    },
-    {
-      "id": 45,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Wissenschaftler*innen übermitteln unveröffentlichte wissenschaftliche Ideen, Forschungsdaten, Abbildungen und methodische Details, die oft das Ergebnis jahrelanger Arbeit sind und daher einem besonderen Schutzbedürfnis unterliegen.",
-      "repaired": false
-    },
-    {
-      "id": 46,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Der Schutz dieser Inhalte ist entscheidend, um die Rechte der Autor*innen zu wahren, das Vertrauen in einen wissenschaftsgeleiteten Begutachtungsprozess zu sichern und wissenschaftliches Fehlverhalten zu verhindern.",
-      "repaired": false
-    },
-    {
-      "id": 47,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Leitlinie 16 benennt überdies die Neutralität von Begutachtungen als wichtige Grundlage für Glaubwürdigkeit, Fairness und Qualität in wissenschaftlichen Entscheidungsprozessen.",
-      "repaired": false
-    },
-    {
-      "id": 48,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Sie bildet die unverzichtbare Grundlage für einen fairen und transparenten Urteilsprozess in der Wissenschaft.",
-      "repaired": false
-    },
-    {
-      "id": 49,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Nur wenn Gutachter*innen ihre Positionierungen unabhängig, sachlich und unbeeinflusst abgeben, können Wissenschaft und Gesellschaft auf die Ergebnisse solcher Prozesse vertrauen.",
-      "repaired": false
-    },
-    {
-      "id": 50,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Nach § 9 Nr. 2 der DFG-Verfahrensordnung zum Umgang mit wissenschaftlichem Fehlverhalten (VerfOwF) können Gutachter*innen die Vertraulichkeit verletzen und damit wissenschaftliches Fehlverhalten verwirklichen, wenn sie wissenschaftliche Inhalte, die ihnen zur Begutachtung übermittelt wurden, unbefugt an Dritte weitergeben.",
-      "repaired": false
-    },
-    {
-      "id": 51,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Dies kann gegebenenfalls auch durch Einspeisen in Large Language Models (LLMs) erfolgen, sofern die Inhalte als Trainingsdaten genutzt werden.",
-      "repaired": false
-    },
-    {
-      "id": 52,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "leitende prinzipien bei der verwendung von ki",
-      "repaired": true
+      "text": "Dies kann gegebenenfalls auch durch Einspeisen in Large Language Models (LLMs) erfolgen, sofern die Inhalte als Trainingsdaten genutzt werden."
     }
   ],
   "validation": {
-    "total": 52,
-    "matched": 52,
+    "total": 37,
+    "matched": 37,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.97,
-    "uncovered_chars": 161,
-    "uncovered_gaps": 2,
+    "source_coverage": 0.976,
+    "uncovered_chars": 146,
+    "uncovered_gaps": 1,
     "uncovered": [
       {
         "char_start": 0,
         "char_end": 146,
         "length": 146,
         "text": "# deutsche forschungsgemeinschaft # source: https://www.dfg.de/resource/blob/387664/4-04-de.pdf # date: 2026-03-12 # category: guideline präambel"
-      },
-      {
-        "char_start": 1345,
-        "char_end": 1360,
-        "length": 15,
-        "text": ". einsatzzweck"
       }
     ]
   },
@@ -403,8 +255,8 @@
       "char_start": 147,
       "char_end": 357,
       "text": "Die wissenschaftliche Begutachtung von Förderanträgen ist ein integraler Bestandteil zur Ermittlung wissenschaftlicher Qualität im Rahmen der Forschungsförderung durch die Deutsche Forschungsgemeinschaft (DFG).",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -412,8 +264,8 @@
       "char_start": 358,
       "char_end": 521,
       "text": "(Generative) Künstliche Intelligenz (im Weiteren „KI-Systeme“) ist inzwischen weithin verfügbar und kann ohne besondere technische Vorkenntnisse eingesetzt werden.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
+      "B": "B1",
+      "B_label": "definition of AI",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -421,8 +273,8 @@
       "char_start": 522,
       "char_end": 872,
       "text": "Mit Blick auf schützenswerte rechtliche Interessen der antragstellenden Personen, die Vertraulichkeit des Begutachtungsverfahrens, allgemeine Transparenzanforderungen sowie die wissenschaftliche Integrität der DFG-Förderverfahren insgesamt ist der Einsatz von KI-Systemen ausschließlich entlang der im Weiteren näher ausgeführten Prinzipien zulässig.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -430,8 +282,8 @@
       "char_start": 873,
       "char_end": 1266,
       "text": "Diese Nutzungs- und Transparenzleitlinie zielt darauf ab, für Gutachter*innen beim Einsatz von KI-Systemen in der Begutachtung Rahmenbedingungen zu setzen und den verantwortungsvollen, transparenten und – u. a. mit Blick auf die KI-Verordnung (EU) 2024/1689, die Datenschutz-Grundverordnung (DSGVO) und das Urheberrechtsgesetz (UrhG) – rechtskonformen Einsatz von KI-Systemen zu gewährleisten.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
@@ -439,35 +291,26 @@
       "char_start": 1267,
       "char_end": 1349,
       "text": "Die inhaltliche Verantwortung für das Gutachten verbleibt bei den Gutachter*innen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 5,
       "match_type": "exact"
     },
     {
-      "char_start": 1349,
-      "char_end": 1364,
-      "text": "\n\nEinsatzzweck\n",
-      "B": "skip",
-      "B_label": "structural/metadata",
-      "segment_id": null,
-      "match_type": "gap"
-    },
-    {
-      "char_start": 1364,
-      "char_end": 1470,
-      "text": "Die menschliche Analyse und wissenschaftliche Einordnung des Antrags ist Kernbestandteil der Begutachtung.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "char_start": 1351,
+      "char_end": 1363,
+      "text": "Einsatzzweck",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 6,
       "match_type": "exact"
     },
     {
-      "char_start": 1471,
+      "char_start": 1364,
       "char_end": 1591,
-      "text": "Die Nutzung von KI-Systemen bei der Erstellung von Gutachten ist daher ausschließlich im unterstützenden Sinn gestattet.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "text": "Die menschliche Analyse und wissenschaftliche Einordnung des Antrags ist Kernbestandteil der Begutachtung. Die Nutzung von KI-Systemen bei der Erstellung von Gutachten ist daher ausschließlich im unterstützenden Sinn gestattet.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 7,
       "match_type": "exact"
     },
@@ -475,8 +318,8 @@
       "char_start": 1592,
       "char_end": 1698,
       "text": "Alle inhaltlichen Positionierungen mit Blick auf die Förderempfehlung obliegen allein den Gutachter*innen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -484,8 +327,8 @@
       "char_start": 1699,
       "char_end": 2084,
       "text": "So darf das KI-System zum Beispiel relevante Literatur mit Blick auf den zu begutachtenden Antrag heraussuchen, eigene Stichworte oder Notizen der Gutachter*innen, aus denen die intentionale Richtung des Gutachtens bereits eindeutig hervorgeht, zu einem ausformulierten Fließtext zusammenführen oder Anregungen zur strukturellen oder sprachlichen Überarbeitung eigener Inhalte liefern.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -493,8 +336,8 @@
       "char_start": 2086,
       "char_end": 2237,
       "text": "Unzulässig wäre es hingegen, maßgebliche Teile des Gutachtens automatisch und unreflektiert, d. h. ohne eigene fachliche Prüfung, generieren zu lassen.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -502,44 +345,35 @@
       "char_start": 2239,
       "char_end": 2284,
       "text": "Leitende Prinzipien bei der Verwendung von KI",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 52,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
       "match_type": "exact"
     },
     {
       "char_start": 2286,
       "char_end": 2304,
       "text": "1. Vertraulichkeit",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 11,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
       "char_start": 2305,
       "char_end": 2565,
       "text": "KI-Systeme dürfen nur zum Einsatz kommen, wenn sichergestellt ist, dass die vertraulichen Inhalte von Förderanträgen nicht unkontrolliert verarbeitet, gespeichert oder für andere Zwecke als die Durchführung der wissenschaftlichen Begutachtung verwendet werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 2566,
-      "char_end": 2698,
-      "text": "Die unterstützende Verwendung von KI im Rahmen der Gutachtenerstellung darf nicht zur Preisgabe vertraulicher Antragsinhalte führen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 13,
       "match_type": "exact"
     },
     {
-      "char_start": 2699,
+      "char_start": 2566,
       "char_end": 2805,
-      "text": "Diese Informationen werden der DFG ausschließlich zur Begutachtung, Bewertung und Entscheidung überlassen.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "text": "Die unterstützende Verwendung von KI im Rahmen der Gutachtenerstellung darf nicht zur Preisgabe vertraulicher Antragsinhalte führen. Diese Informationen werden der DFG ausschließlich zur Begutachtung, Bewertung und Entscheidung überlassen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 14,
       "match_type": "exact"
     },
@@ -547,333 +381,207 @@
       "char_start": 2807,
       "char_end": 3062,
       "text": "Insbesondere bei cloudbasierten KI-Systemen kann es bei der Eingabe zu einer nachgelagerten Verarbeitung zu Trainingszwecken kommen. Diese ist nicht vom ursprünglichen Zweck der Überlassung durch die antragstellenden Personen gedeckt und daher unzulässig.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 3064,
-      "char_end": 3326,
-      "text": "Daher dürfen die betroffenen Antragsinhalte von Gutachter*innen nur in KI-Systeme eingespeist werden, wenn sichergestellt ist, dass die Antragsinhalte von den Anbietern des KI-Systems nicht dauerhaft und über den konkreten Einsatzzweck hinaus gespeichert werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 3327,
       "char_end": 3386,
-      "text": "Hierfür muss eine der folgenden Anforderungen erfüllt sein:",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 17,
+      "text": "Daher dürfen die betroffenen Antragsinhalte von Gutachter*innen nur in KI-Systeme eingespeist werden, wenn sichergestellt ist, dass die Antragsinhalte von den Anbietern des KI-Systems nicht dauerhaft und über den konkreten Einsatzzweck hinaus gespeichert werden. Hierfür muss eine der folgenden Anforderungen erfüllt sein:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 3388,
       "char_end": 3591,
       "text": "- Das KI-System ist auf dem eigenen Endgerät installiert und die Prozessierung erfolgt ausschließlich auf dem Endgerät ohne Cloud-Computing oder der Übertragung von Verarbeitungsergebnissen in die Cloud.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
       "match_type": "exact"
     },
     {
       "char_start": 3592,
       "char_end": 3751,
       "text": "- Das KI-System wird von einer vertrauenswürdigen Einrichtung (beispielsweise einer Hochschule oder öffentlichen Forschungseinrichtung) betrieben („gehostet“).",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
       "char_start": 3752,
       "char_end": 4202,
       "text": "- Cloudbasierte nicht kommerzielle oder kommerzielle KI-Systeme (beispielsweise ChatGPT, Claude, Gemini) dürfen nur genutzt werden, wenn eine vertragliche Lizenzvereinbarung die Datensicherheit garantiert, eine Nutzung der eingegebenen Daten durch den Anbieter (etwa zu Trainingszwecken) ausgeschlossen ist und diese Voraussetzungen durch entsprechende Sicherheitseinstellungen (zum Beispiel „kein logging“; „keine Speicherung“) aktiv gesetzt wurden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
       "char_start": 4203,
       "char_end": 4380,
       "text": "- Es wird empfohlen, solche KI-Systeme zu verwenden, die auf transparent dokumentierten und öffentlich verfügbaren KI-Modellen mit öffentlich einsehbaren Trainingsdaten beruhen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 21,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 20,
       "match_type": "exact"
     },
     {
       "char_start": 4382,
       "char_end": 4396,
       "text": "2. Transparenz",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
       "match_type": "exact"
     },
     {
       "char_start": 4397,
       "char_end": 4540,
       "text": "Wenn bei der Erstellung des Gutachtens ein KI-System verwendet wird, muss dies unter Nennung der spezifischen Einsatzzwecke offengelegt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
       "match_type": "exact"
     },
     {
       "char_start": 4542,
-      "char_end": 4625,
-      "text": "Der Einsatz des KI-Systems kann mit wenigen erläuternden Sätzen beschrieben werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 24,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4626,
-      "char_end": 4719,
-      "text": "Eine konkrete Kennzeichnung der betroffenen Textpassagen im Gutachten ist nicht erforderlich.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 25,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 4720,
       "char_end": 4881,
-      "text": "Unter „Offenlegung“ sind dabei Angaben zu verstehen, zu welchem der oben genannten zulässigen Einsatzzwecke und in welchem Umfang das KI-System eingesetzt wurde.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 26,
+      "text": "Der Einsatz des KI-Systems kann mit wenigen erläuternden Sätzen beschrieben werden. Eine konkrete Kennzeichnung der betroffenen Textpassagen im Gutachten ist nicht erforderlich. Unter „Offenlegung“ sind dabei Angaben zu verstehen, zu welchem der oben genannten zulässigen Einsatzzwecke und in welchem Umfang das KI-System eingesetzt wurde.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
       "char_start": 4883,
       "char_end": 5082,
       "text": "Eingesetzte KI, die sich nicht auf den (wissenschaftlichen) Inhalt des Gutachtens auswirkt (beispielsweise Grammatik-, Stil-, Rechtschreibprüfung, Übersetzungsprogramme), muss nicht angegeben werden.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 5084,
       "char_end": 5105,
       "text": "3. Qualitätssicherung",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 5106,
       "char_end": 5176,
       "text": "Eine unreflektierte Übernahme KI-generierter Textteile ist unzulässig.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 29,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
       "char_start": 5177,
       "char_end": 5351,
       "text": "KI-generierte Texte müssen stets kritisch gewürdigt, angepasst und auf inhaltliche Richtigkeit, Aktualität sowie mögliche Verzerrungen (Bias-Strukturen) hin überprüft werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
       "match_type": "exact"
     },
     {
       "char_start": 5353,
-      "char_end": 5504,
-      "text": "Da generative KI-Modelle auf probabilistischen Verfahren basieren, können sie sachlich falsche, unausgewogene oder voreingenommene Inhalte produzieren.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 31,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5505,
-      "char_end": 5795,
-      "text": "Die Modelle basieren auf öffentlich zugänglichen Trainingsdaten, die auf Grundlage von (stochastischen) Wahrscheinlichkeitsberechnungen gesellschaftliche, kulturelle oder auch wissenschaftliche Diskurse abbilden, ohne hierzu eine wissenschaftlich-inhaltlich begründete Position zu beziehen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 32,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5796,
-      "char_end": 5905,
-      "text": "Dadurch perpetuieren sie die in den Trainingsdaten enthaltenen Bias, etwa Geschlechter- oder Diversitätsbias.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 33,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 5906,
-      "char_end": 6135,
-      "text": "Mit Blick auf wissenschaftliche Erkenntnisprozesse können sie auf dem Etablierten aufsetzende Konzepte gegebenenfalls positiver bewerten als neuartige Forschungsansätze, die zu Paradigmenwechseln führen könnten (Status-quo-Bias).",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 34,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6136,
       "char_end": 6211,
-      "text": "Insgesamt kann generative KI unzutreffende oder verzerrte Inhalte erzeugen.",
-      "B": "B9",
+      "text": "Da generative KI-Modelle auf probabilistischen Verfahren basieren, können sie sachlich falsche, unausgewogene oder voreingenommene Inhalte produzieren. Die Modelle basieren auf öffentlich zugänglichen Trainingsdaten, die auf Grundlage von (stochastischen) Wahrscheinlichkeitsberechnungen gesellschaftliche, kulturelle oder auch wissenschaftliche Diskurse abbilden, ohne hierzu eine wissenschaftlich-inhaltlich begründete Position zu beziehen. Dadurch perpetuieren sie die in den Trainingsdaten enthaltenen Bias, etwa Geschlechter- oder Diversitätsbias. Mit Blick auf wissenschaftliche Erkenntnisprozesse können sie auf dem Etablierten aufsetzende Konzepte gegebenenfalls positiver bewerten als neuartige Forschungsansätze, die zu Paradigmenwechseln führen könnten (Status-quo-Bias). Insgesamt kann generative KI unzutreffende oder verzerrte Inhalte erzeugen.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 35,
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 6212,
-      "char_end": 6388,
-      "text": "Ohne kritische Überprüfung durch einen Menschen („human control“) ist die wissenschaftliche Qualität des Gutachtens sowie die Integrität des DFG-Begutachtungssystems gefährdet.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 36,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6389,
       "char_end": 6476,
-      "text": "Bei schlüssig scheinenden KI-generierten Texten kann zudem „automation bias“ auftreten.",
-      "B": "B9",
+      "text": "Ohne kritische Überprüfung durch einen Menschen („human control“) ist die wissenschaftliche Qualität des Gutachtens sowie die Integrität des DFG-Begutachtungssystems gefährdet. Bei schlüssig scheinenden KI-generierten Texten kann zudem „automation bias“ auftreten.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 37,
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
       "char_start": 6478,
       "char_end": 6494,
       "text": "4. Verantwortung",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
       "char_start": 6495,
-      "char_end": 6612,
-      "text": "Die inhaltliche Verantwortung für das Gutachten liegt uneingeschränkt bei der Person, die das Gutachten erstellt hat.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 39,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6613,
       "char_end": 6706,
-      "text": "Dies gilt auch dann, wenn Textteile unter Zuhilfenahme von KI-Systemen generiert worden sind.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 40,
+      "text": "Die inhaltliche Verantwortung für das Gutachten liegt uneingeschränkt bei der Person, die das Gutachten erstellt hat. Dies gilt auch dann, wenn Textteile unter Zuhilfenahme von KI-Systemen generiert worden sind.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
       "char_start": 6707,
-      "char_end": 6879,
-      "text": "Eine verantwortliche wissenschaftliche Begutachtung erfordert fachliche Kompetenz und wissenschaftsethische Urteilsfähigkeit, die KI-Systeme systembedingt nicht mitbringen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 41,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 6880,
       "char_end": 6990,
-      "text": "Die Verantwortung darf daher nicht auf ein KI-System übertragen werden, sie verbleibt bei den Gutachter*innen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 42,
+      "text": "Eine verantwortliche wissenschaftliche Begutachtung erfordert fachliche Kompetenz und wissenschaftsethische Urteilsfähigkeit, die KI-Systeme systembedingt nicht mitbringen. Die Verantwortung darf daher nicht auf ein KI-System übertragen werden, sie verbleibt bei den Gutachter*innen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 6992,
-      "char_end": 7104,
-      "text": "Diese Prinzipien werden im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ konkret benannt.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 43,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7105,
       "char_end": 7317,
-      "text": "Leitlinie 16 stellt die Einhaltung der vertraulichen Behandlung fremder Inhalte, die zur Begutachtung oder Bewertung vorgelegt werden, als zentrales Element des wissenschaftlichen Urteilsbildungsprozesses heraus.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 44,
+      "text": "Diese Prinzipien werden im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ konkret benannt. Leitlinie 16 stellt die Einhaltung der vertraulichen Behandlung fremder Inhalte, die zur Begutachtung oder Bewertung vorgelegt werden, als zentrales Element des wissenschaftlichen Urteilsbildungsprozesses heraus.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
       "match_type": "exact"
     },
     {
       "char_start": 7318,
-      "char_end": 7549,
-      "text": "Wissenschaftler*innen übermitteln unveröffentlichte wissenschaftliche Ideen, Forschungsdaten, Abbildungen und methodische Details, die oft das Ergebnis jahrelanger Arbeit sind und daher einem besonderen Schutzbedürfnis unterliegen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 45,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7550,
       "char_end": 7765,
-      "text": "Der Schutz dieser Inhalte ist entscheidend, um die Rechte der Autor*innen zu wahren, das Vertrauen in einen wissenschaftsgeleiteten Begutachtungsprozess zu sichern und wissenschaftliches Fehlverhalten zu verhindern.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 46,
+      "text": "Wissenschaftler*innen übermitteln unveröffentlichte wissenschaftliche Ideen, Forschungsdaten, Abbildungen und methodische Details, die oft das Ergebnis jahrelanger Arbeit sind und daher einem besonderen Schutzbedürfnis unterliegen. Der Schutz dieser Inhalte ist entscheidend, um die Rechte der Autor*innen zu wahren, das Vertrauen in einen wissenschaftsgeleiteten Begutachtungsprozess zu sichern und wissenschaftliches Fehlverhalten zu verhindern.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
       "char_start": 7767,
-      "char_end": 7943,
-      "text": "Leitlinie 16 benennt überdies die Neutralität von Begutachtungen als wichtige Grundlage für Glaubwürdigkeit, Fairness und Qualität in wissenschaftlichen Entscheidungsprozessen.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 47,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 7944,
-      "char_end": 8054,
-      "text": "Sie bildet die unverzichtbare Grundlage für einen fairen und transparenten Urteilsprozess in der Wissenschaft.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 48,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 8055,
       "char_end": 8233,
-      "text": "Nur wenn Gutachter*innen ihre Positionierungen unabhängig, sachlich und unbeeinflusst abgeben, können Wissenschaft und Gesellschaft auf die Ergebnisse solcher Prozesse vertrauen.",
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "segment_id": 49,
+      "text": "Leitlinie 16 benennt überdies die Neutralität von Begutachtungen als wichtige Grundlage für Glaubwürdigkeit, Fairness und Qualität in wissenschaftlichen Entscheidungsprozessen. Sie bildet die unverzichtbare Grundlage für einen fairen und transparenten Urteilsprozess in der Wissenschaft. Nur wenn Gutachter*innen ihre Positionierungen unabhängig, sachlich und unbeeinflusst abgeben, können Wissenschaft und Gesellschaft auf die Ergebnisse solcher Prozesse vertrauen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
       "char_start": 8235,
       "char_end": 8559,
       "text": "Nach § 9 Nr. 2 der DFG-Verfahrensordnung zum Umgang mit wissenschaftlichem Fehlverhalten (VerfOwF) können Gutachter*innen die Vertraulichkeit verletzen und damit wissenschaftliches Fehlverhalten verwirklichen, wenn sie wissenschaftliche Inhalte, die ihnen zur Begutachtung übermittelt wurden, unbefugt an Dritte weitergeben.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 50,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
       "match_type": "exact"
     },
     {
       "char_start": 8560,
       "char_end": 8702,
       "text": "Dies kann gegebenenfalls auch durch Einspeisen in Large Language Models (LLMs) erfolgen, sofern die Inhalte als Trainingsdaten genutzt werden.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 51,
+      "segment_id": 37,
       "match_type": "exact"
     }
   ]

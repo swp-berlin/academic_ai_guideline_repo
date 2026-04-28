@@ -3,487 +3,671 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Künstliche Intelligenz (KI), insbesondere generative KI, verändert stark die Art und Weise, wie wir arbeiten und kommunizieren. Dieser Leitfaden beschreibt sicherheitsrelevante Aspekte bei der Nutzung von KI-Technologien.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "text": "Die Nutzung von KI-Systemen wie ChatGPT oder Copilot – auch jene, die von der ETH zur Verfügung gestellt werden – birgt Chancen aber auch Risiken. Einerseits kann beispielsweise die Produktivität erhöht und die Lösungsfindung bei Problemstellungen vereinfacht werden, andererseits besteht jedoch auch das Risiko von Datenlecks, Verletzungen der Privatsphäre oder manipulierter KI-Systeme.",
+      "text": "Die Nutzung von KI-Systemen wie ChatGPT oder Copilot – auch jene, die von der ETH zur Verfügung gestellt werden – birgt Chancen aber auch Risiken. Einerseits kann beispielsweise die Produktivität erhöht und die Lösungsfindung bei Problemstellungen vereinfacht werden, andererseits besteht jedoch auch das Risiko von Datenlecks, Verletzungen der Privatsphäre oder manipulierter KI-Systeme. Das Ziel im Umgang mit KI soll deshalb sein, die Chancen zu nutzen aber die Risiken zu minimieren.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Das Ziel im Umgang mit KI soll deshalb sein, die Chancen zu nutzen aber die Risiken zu minimieren.",
-      "repaired": false
-    },
-    {
-      "id": 4,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Es liegt in der Verantwortung der Nutzenden, KI-Dienste bestimmungs- und verantwortungsvoll zu nutzen.",
       "repaired": false
     },
     {
-      "id": 5,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 4,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Unter der bestimmungsgemässen Nutzung verstehen wir einen mit dem geltenden Recht und den ETH-Weisungen konformen Einsatz der KI.",
       "repaired": false
     },
     {
+      "id": 5,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die verantwortungsvolle Nutzung schliesst den bestimmungsgemässen Einsatz mit ein und geht darüber hinaus: Zusätzlich setzen wir Massnahmen um, welche eine besondere Umsicht und Vorsicht im Umgang mit Informationen signalisieren. Die verantwortungsvolle Nutzung ist – im Vergleich zur bestimmungsgemässen Nutzung – nicht vorgeschrieben; aber: Sie ist sehr erwünscht. Wir zeigen, dass wir unsere sowie die Daten unserer Lieferanten und Forschungspartner als höchstes Gut erachten und mit diesen Daten vorbildlich umgehen, was über die Berücksichtigung der notwendigen Sorgfaltspflicht hinausgeht.",
+      "repaired": false
+    },
+    {
       "id": 6,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die verantwortungsvolle Nutzung schliesst den bestimmungsgemässen Einsatz mit ein und geht darüber hinaus: Zusätzlich setzen wir Massnahmen um, welche eine besondere Umsicht und Vorsicht im Umgang mit Informationen signalisieren.",
-      "repaired": false
-    },
-    {
-      "id": 7,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die verantwortungsvolle Nutzung ist – im Vergleich zur bestimmungsgemässen Nutzung – nicht vorgeschrieben; aber: Sie ist sehr erwünscht. Wir zeigen, dass wir unsere sowie die Daten unserer Lieferanten und Forschungspartner als höchstes Gut erachten und mit diesen Daten vorbildlich umgehen, was über die Berücksichtigung der notwendigen Sorgfaltspflicht hinausgeht.",
-      "repaired": false
-    },
-    {
-      "id": 8,
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "Künstliche Intelligenz bezieht sich auf die Fähigkeit von Maschinen, Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern, wie z.B. Lernen, Problemlösung und Entscheidungsfindung.",
       "repaired": false
     },
     {
-      "id": 9,
+      "id": 7,
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "Generative KI ist in der Lage, neue Inhalte wie Texte, Bilder oder Musik zu erstellen. Diese Systeme nutzen maschinelles Lernen und neuronale Netzwerke und werden mit grossen Datensätzen trainiert. Sie können auch für bestimmte Aufgaben wie Übersetzungen spezialisiert werden.",
       "repaired": false
     },
     {
-      "id": 10,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Gemäss der Weisung Informationssicherheit an der ETH Zürich ist der Schutz der Vertraulichkeit, Integrität und Verfügbarkeit von Informationen von höchster Wichtigkeit. Die unbefugte Offenlegung vertraulicher Informationen, zum Beispiel, könnte unserer Institution, Kunden oder Kooperationspartnern irreparablen Schaden zufügen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir gehen deshalb bestimmungsgemäss mit internen und vertraulichen Informationen, Geschäftsgeheimnissen und geistigen Eigentumsrechten um – unabhängig davon, ob es sich um unsere eigenen oder um Informationen privatwirtschaftlicher Unternehmen und Einzelpersonen handelt oder um lizenzierte Inhalte, wie Publikationen, die von der ETH-Bibliothek zur Verfügung gestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Der bestimmungsgemässe Umgang gilt sowohl für die Art der Nutzung (entweder man befragt ein KI-System oder man trainiert ein KI-System) als auch für die Art der verwendeten Informationen – seien es Sach- oder Personendaten.",
       "repaired": false
     },
     {
       "id": 11,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Wir gehen deshalb bestimmungsgemäss mit internen und vertraulichen Informationen, Geschäftsgeheimnissen und geistigen Eigentumsrechten um – unabhängig davon, ob es sich um unsere eigenen oder um Informationen privatwirtschaftlicher Unternehmen und Einzelpersonen handelt oder um lizenzierte Inhalte, wie Publikationen, die von der ETH-Bibliothek zur Verfügung gestellt werden.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Zum Beispiel dürfen bei einer ausgeschriebenen Stelle ohne menschliche Interaktion keine automatisierten, personenbezogenen Entscheide getroffen werden.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "Der bestimmungsgemässe Umgang gilt sowohl für die Art der Nutzung (entweder man befragt ein KI-System oder man trainiert ein KI-System) als auch für die Art der verwendeten Informationen – seien es Sach- oder Personendaten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zudem gilt: Sollte es zu einer Datenschutzverletzung kommen, bei welcher Personendaten verloren gehen, mutwillig zerstört, unbefugt gelöscht, verändert oder zugänglich gemacht werden, muss dies dem Datenschutzberatenden der ETH Zürich gemeldet werden.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Zum Beispiel dürfen bei einer ausgeschriebenen Stelle ohne menschliche Interaktion keine automatisierten, personenbezogenen Entscheide getroffen werden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "KI-Systeme sind in der Regel als externe Cloud- bzw. externe IT-Dienste einzustufen (solche Dienste werden der ETH von einer Drittpartei angeboten). Eine Liste freigegebener externer Cloud-Dienste für die ETH Zürich ist hier einsehbar und wird in Zukunft auch KI-Systeme beinhalten: https://ethz.ch/staffnet/de/service/informationssicherheit/nutzung-externer-cloud-dienste/freigabeliste-fuer-externe-cloud-dienste.html",
       "repaired": false
     },
     {
       "id": 14,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Zudem gilt: Sollte es zu einer Datenschutzverletzung kommen, bei welcher Personendaten verloren gehen, mutwillig zerstört, unbefugt gelöscht, verändert oder zugänglich gemacht werden, muss dies dem Datenschutzberatenden der ETH Zürich gemeldet werden.",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Gemäss dem ETH-Klassifikationssystem der ETH Zürich dürfen maximal «vertrauliche» Informationen in externen Cloud-Diensten bearbeitet werden – sofern diese Dienste hierfür freigegeben sind. «Streng vertrauliche» Informationen dürfen weder in einem externen Cloud-Dienst ausgelagert noch bearbeitet werden.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "KI-Systeme sind in der Regel als externe Cloud- bzw. externe IT-Dienste einzustufen (solche Dienste werden der ETH von einer Drittpartei angeboten). Eine Liste freigegebener externer Cloud-Dienste für die ETH Zürich ist hier einsehbar und wird in Zukunft auch KI-Systeme beinhalten: https://ethz.ch/staffnet/de/service/informationssicherheit/nutzung-externer-cloud-dienste/freigabeliste-fuer-externe-cloud-dienste.html",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die gelegentliche angemessene Nutzung externer Cloud- bzw. IT-Dienste zur Unterstützung im Tagesgeschäft (z.B. Suchmaschinen, Online-Übersetzungsservices, Chatbots mit künstlicher Intelligenz, ChatGPT), die nicht von der ETH Zürich freigegeben sind, liegt in der Verantwortung der Benutzenden.",
       "repaired": false
     },
     {
       "id": 16,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Gemäss dem ETH-Klassifikationssystem der ETH Zürich dürfen maximal «vertrauliche» Informationen in externen Cloud-Diensten bearbeitet werden – sofern diese Dienste hierfür freigegeben sind. «Streng vertrauliche» Informationen dürfen weder in einem externen Cloud-Dienst ausgelagert noch bearbeitet werden.",
-      "repaired": false
-    },
-    {
-      "id": 17,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Die gelegentliche angemessene Nutzung externer Cloud- bzw. IT-Dienste zur Unterstützung im Tagesgeschäft (z.B. Suchmaschinen, Online-Übersetzungsservices, Chatbots mit künstlicher Intelligenz, ChatGPT), die nicht von der ETH Zürich freigegeben sind, liegt in der Verantwortung der Benutzenden.",
-      "repaired": false
-    },
-    {
-      "id": 18,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Besonders schützenswerte Personendaten nach Datenschutzgesetz (DSG) Art. 5 Bst. c sowie anderweitig vertrauliche oder streng vertrauliche (Sach- oder Personen-) Daten dürfen mit solchen Diensten nicht bearbeitet werden.",
       "repaired": false
     },
     {
+      "id": 17,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Darüber hinaus widersprechen einer bestimmungsgemässen Nutzung der KI-Systeme insbesondere:\n- diskriminierende, belästigende, betrügerische, verleumderische oder anderweitig nach dem Recht verbotene Handlungen;",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- das Ausschalten, Umgehen oder Entfernung von Sicherheits- oder Auditing-Systemen der ETH oder einer anderen Organisation ohne vorherige Genehmigung oder",
+      "repaired": false
+    },
+    {
       "id": 19,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Darüber hinaus widersprechen einer bestimmungsgemässen Nutzung der KI-Systeme insbesondere:\n\n- diskriminierende, belästigende, betrügerische, verleumderische oder anderweitig nach dem Recht verbotene Handlungen;\n- das Ausschalten, Umgehen oder Entfernung von Sicherheits- oder Auditing-Systemen der ETH oder einer anderen Organisation ohne vorherige Genehmigung oder\n- die Verletzung der Rechte Dritter inklusive Urheber-, Persönlichkeits- oder Lizenzrechte (z.B. bei nicht bestimmungsgemässer Nutzung lizensierter Daten).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- die Verletzung der Rechte Dritter inklusive Urheber-, Persönlichkeits- oder Lizenzrechte (z.B. bei nicht bestimmungsgemässer Nutzung lizensierter Daten).",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Mitarbeitende dürfen KI im Arbeitsalltag nutzen, z.B. für das Erstellen interner Arbeits-E-Mails oder für Präsentationen.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Sie befolgen dabei die Vorgaben im Abschnitt «Bestimmungsgemässe Nutzung von KI-Systemen» und erwägen zusätzlich die unterstehenden Massnahmen für eine verantwortungsvolle Nutzung.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Im Gegensatz zur bestimmungsgemässen Nutzung, verstehen wir unter verantwortungsvoller Nutzung die Verwendung von KI ohne\n\n- personenbezogene Daten. Personenbezogene Daten sind sämtliche Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen; eine identifizierbare natürliche Person ist eine Person, die direkt oder indirekt bestimmt werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, einer Identifikationsnummer, Standortdaten, einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind;\n- besonders schützenswerte Personendaten. Besonders schützenswerte personenbezogene Daten sind Informationen über Gesundheit, ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, genetische Daten, biometrische Daten (zum Zweck der Identifizierung) sowie Daten zur Sexualität oder zur sexuellen Orientierung;\n- Informationen, die die ETH oder Dritte identifizieren.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Im Gegensatz zur bestimmungsgemässen Nutzung, verstehen wir unter verantwortungsvoller Nutzung die Verwendung von KI ohne\n- personenbezogene Daten. Personenbezogene Daten sind sämtliche Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen; eine identifizierbare natürliche Person ist eine Person, die direkt oder indirekt bestimmt werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, einer Identifikationsnummer, Standortdaten, einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind;",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Als führende Forschungseinrichtung will die ETH bei der Entwicklung und dem Einsatz von KI-Technologien besonders verantwortungsvoll vorgehen. Dies umfasst die Berücksichtigung ethischer Fragen und die Integration von KI-Ethik in Lehrpläne.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- besonders schützenswerte Personendaten. Besonders schützenswerte personenbezogene Daten sind Informationen über Gesundheit, ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, genetische Daten, biometrische Daten (zum Zweck der Identifizierung) sowie Daten zur Sexualität oder zur sexuellen Orientierung;",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die ETH Zürich hat Leitlinien für den Einsatz von KI in der Lehre entwickelt, die folgende Aspekte berücksichtigt:\n\n1. Förderung des kritischen Denkens: Studierende werden ermutigt, die Möglichkeiten und Grenzen von KI kritisch zu hinterfragen;\n2. Ethische Nutzung: Die ETH legt Wert darauf, dass KI-Tools in der Lehre ethisch und verantwortungsvoll eingesetzt werden;\n3. Anpassung der Lehrmethoden: KI wird genutzt, um personalisiertes Lernen zu ermöglichen und die Interaktion zwischen Lehrenden und Studierenden zu verbessern;\n4. Vorbereitung auf die Arbeitswelt: Studierende werden auf eine Zukunft vorbereitet, in der KI eine zentrale Rolle spielen wird.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Informationen, die die ETH oder Dritte identifizieren.",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Die ETH nimmt eine wichtige Rolle bei der Untersuchung und Bewertung gesellschaftlicher Auswirkungen von KI-Technologien ein. Dies spiegelt sich auch in der KI-Strategie für die Lehre wider und soll Studierende befähigen, die Auswirkungen von KI auf verschiedene Bereiche der Gesellschaft zu verstehen und gegebenenfalls mitzugestalten.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Als führende Forschungseinrichtung will die ETH bei der Entwicklung und dem Einsatz von KI-Technologien besonders verantwortungsvoll vorgehen. Dies umfasst die Berücksichtigung ethischer Fragen und die Integration von KI-Ethik in Lehrpläne.",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Folgende Dos and Don'ts unterstützen die bestimmungsgemässe und verantwortungsvolle Nutzung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die ETH Zürich hat Leitlinien für den Einsatz von KI in der Lehre entwickelt, die folgende Aspekte berücksichtigt:\n1. Förderung des kritischen Denkens: Studierende werden ermutigt, die Möglichkeiten und Grenzen von KI kritisch zu hinterfragen;",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Nutzen Sie KI in der Praxis, um zu lernen, wie Sie die Technologie am besten für Ihre Arbeit einsetzen können. Experimentieren Sie mit verschiedenen KI-Tools und nutzen Sie KI, um Routineaufgaben zu automatisieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "2. Ethische Nutzung: Die ETH legt Wert darauf, dass KI-Tools in der Lehre ethisch und verantwortungsvoll eingesetzt werden;",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Schreiben Sie aussagekräftige Prompts\n\nWenn Sie Prompts für konversationelle KI wie ChatGPT erstellen, folgen Sie diesen Empfehlungen, um bestmögliche Resultate sowie Datensicherheit sicherzustellen:\n\n1. Drücken Sie sich klar aus, geben Sie dem Prompt Kontext; verwenden Sie Schlagworte; achten Sie auf korrekte Rechtschreibung; definieren Sie die Rolle der KI und den gewünschten Output;\n2. Verwenden Sie keine persönlichen, vertraulichen oder proprietäre Informationen;\n3. Verwenden Sie respektvolle Sprache und Ausdruck;\n4. Fördern Sie Diversität und Inklusion;\n5. Evaluieren und verfeinern Sie Ihre Prompts regelmäßig;\n6. Geben Sie nur notwendige Informationen an KI-Systeme weiter (Datenminimierung);\n7. Nutzen Sie Funktionen zum Löschen Ihrer Interaktionshistorie mit KI-Assistenten und löschen Sie regelmäßig Cookies (regelmässige Datenlöschung);\n8. Suchen Sie nach KI-Diensten mit lokaler Verarbeitung oder starken Datenschutzgarantien;\n9. Deaktivieren Sie Datensammlungen für «Produktverbesserungen» wenn möglich;\n10. Verringern Sie ein Halluzinieren bereits bei der Eingabe des Prompts.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "3. Anpassung der Lehrmethoden: KI wird genutzt, um personalisiertes Lernen zu ermöglichen und die Interaktion zwischen Lehrenden und Studierenden zu verbessern;",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Weitere Information und Beispiele zum Prompting: https://ethz.sharepoint.com/sites/ArtificialIntelligence",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "4. Vorbereitung auf die Arbeitswelt: Studierende werden auf eine Zukunft vorbereitet, in der KI eine zentrale Rolle spielen wird.",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Überprüfen Sie die Ergebnisse der KI kritisch\nLesen und prüfen Sie den Output von generativer KI, um die Qualität, Genauigkeit und ethischen Implikationen der generierten Inhalte zu bewerten, bevor Sie diesen weiterverwenden. Mitarbeitende müssen alle von KI produzierten Resultate auf Genauigkeit und Faktentreue überprüfen, bevor sie diese für offizielle Zwecke verwenden, einschliesslich des Versands von E-Mails, Präsentationen, Dokumenten oder anderen Materialien.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die ETH nimmt eine wichtige Rolle bei der Untersuchung und Bewertung gesellschaftlicher Auswirkungen von KI-Technologien ein. Dies spiegelt sich auch in der KI-Strategie für die Lehre wider und soll Studierende befähigen, die Auswirkungen von KI auf verschiedene Bereiche der Gesellschaft zu verstehen und gegebenenfalls mitzugestalten.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Schalten Sie die Verlaufsfunktion aus (falls möglich)\nBestimmte KI-Lösungen bieten Optionen zur Einschränkung der Speicherung und Nutzung der bereitgestellten Daten. Nutzen Sie diese, um zu verhindern, dass Ihre Daten unkontrolliert im Netz weiterverwendet werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzen Sie KI in der Praxis, um zu lernen, wie Sie die Technologie am besten für Ihre Arbeit einsetzen können. Experimentieren Sie mit verschiedenen KI-Tools und nutzen Sie KI, um Routineaufgaben zu automatisieren.",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Berücksichtigen Sie unbedingt das Urheberrecht bei KI-generierten Inhalten\nDie ETH hat Leitlinien für die Nutzung und Verbreitung von KI-generierten Inhalten entwickelt, insbesondere im Kontext von Lehre und Lernen. An der ETH wird akademische Integrität als Haltung verstanden: KI-Nutzende übernehmen Verantwortung, kennzeichnen den Einsatz von KI und gehen fair mit Datenschutz und Urheberrecht um.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Schreiben Sie aussagekräftige Prompts",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Weitere Informationen sind hier: https://ethz.ch/de/die-eth-zuerich/lehre/ai-in-education.html",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn Sie Prompts für konversationelle KI wie ChatGPT erstellen, folgen Sie diesen Empfehlungen, um bestmögliche Resultate sowie Datensicherheit sicherzustellen:\n1. Drücken Sie sich klar aus, geben Sie dem Prompt Kontext; verwenden Sie Schlagworte; achten Sie auf korrekte Rechtschreibung; definieren Sie die Rolle der KI und den gewünschten Output;",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Teilen Sie keine vertraulichen Informationen mit KI-Systemen\nNeben dem Nutzen künstlicher Intelligenz, sollten Sie sich ebenfalls den Risiken bewusst sein. Die falsche Nutzung von KI kann mehrere Gefahren für Sie und die ETH darstellen:\n\n1. Reputationsschäden, z.B. aufgrund der Verletzung geistigen Eigentums, aufgrund fehlenden Verständnisses für den Forschungsschutz, aufgrund von Verstößen gegen das Urheberrecht, gegen Lizenzrechte und Datenschutz;\n2. Ethische Bedenken, z.B. aufgrund mangelnder Wissenschaftsethik und akademischer Integrität oder aufgrund möglicher Plagiate und/oder\n3. Finanzielle Verluste.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "2. Verwenden Sie keine persönlichen, vertraulichen oder proprietäre Informationen;",
       "repaired": false
     },
     {
       "id": 35,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Teilen Sie keine Personendaten\nEine Beschreibung personenbezogener Daten sowie besonders schützenswerten Personendaten finden Sie unter dem Titel «Verantwortungsvolle Nutzung von KI».",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Verwenden Sie respektvolle Sprache und Ausdruck;",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Verlassen Sie sich nicht blind auf KI-Ergebnisse\n\nSeien Sie bei der Überprüfung KI-generierter Texte gründlich. Wenn Sie die KI gebeten haben, Inhalte zu erstellen, achten Sie auf Folgendes:\n\n1. Mangelnde Kohärenz: Ein fehlender logischer Aufbau KI-generierter Texte kann zu missverständlichen oder unklaren Passagen führen;\n2. Semantische Fehler: KI-Modelle können gelegentlich den Kontext falsch interpretieren, was zu Fehlern, Ungenauigkeiten oder unplausiblen Aussagen führt;\n3. Wiederholungen: KI-generierte Inhalte können wiederholte Muster oder redundante Informationen aufweisen, die die Qualität und Einzigartigkeit des Textes beeinträchtigen und/oder\n4. Halluzinationen: KI-generierte Halluzinationen können sehr plausibel klingen und werden zum Teil sogar mit vermeintlichen bibliographischen Quellen belegt, die jedoch nicht existieren;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "4. Fördern Sie Diversität und Inklusion;",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Berücksichtigen Sie die ethischen Richtlinien, Datenschutzbestimmungen und andere anwendbare Gesetzgebung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "5. Evaluieren und verfeinern Sie Ihre Prompts regelmäßig;",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Datenlecks und Verletzungen der Privatsphäre\n\nKI-Systeme verarbeiten oft große Mengen an Daten, was sie zu attraktiven Zielen für Cyberkriminelle oder staatliche Akteure (Spionage) machen kann. Ein Datenleck kann schwerwiegende Folgen haben, von finanziellen Verlusten bis hin zu Reputationsschäden für die ETH.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "6. Geben Sie nur notwendige Informationen an KI-Systeme weiter (Datenminimierung);",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Unabhängig von Datenlecks ist zu beachten, dass viele KI-Anbieter weitreichende Nutzungsrechte an den eingegebenen Inhalten erhalten – die Kontrolle über diese Daten kann dadurch verloren gehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "7. Nutzen Sie Funktionen zum Löschen Ihrer Interaktionshistorie mit KI-Assistenten und löschen Sie regelmäßig Cookies (regelmässige Datenlöschung);",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Manipulierte oder voreingenommene KI-Modelle\n\nKI-Modelle können anfällig für Manipulationen und voreingenommen sein. Dies kann zu fehlerhaften oder diskriminierenden Ergebnissen führen (z.B. gegenüber einer bestimmten Altersgruppe).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "8. Suchen Sie nach KI-Diensten mit lokaler Verarbeitung oder starken Datenschutzgarantien;",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die ETH legt grossen Wert auf die Integrität von Informationen, wie in der Weisung Informationssicherheit betont wird. Regelmässiges Überprüfen sowie stetiges, kritisches Hinterfragen der generierten Outputs durch die Nutzenden ist notwendig.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "9. Deaktivieren Sie Datensammlungen für «Produktverbesserungen» wenn möglich;",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Urheberrechtliche Bedenken bei KI-generierten Inhalten\n\nDie Fähigkeit Inhalte zu generieren, wirft urheberrechtliche Fragen auf in Bezug auf die Herkunft der Datensätze mit denen die KI trainiert wurde. Nutzende sollten sich deshalb bewusst sein, dass Inhalte, die sie mit KI kreieren, in ihrer akademischen Verantwortung liegen und dass diese Inhalte möglicherweise dem Urheberrecht unterliegen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "10. Verringern Sie ein Halluzinieren bereits bei der Eingabe des Prompts.",
       "repaired": false
     },
     {
       "id": 43,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die ETH hat diesbezüglich Leitlinien für Nutzende entwickelt (vgl. Praktische Dos and Dont's weiter oben).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Überprüfen Sie die Ergebnisse der KI kritisch",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B9",
-      "B_label": "risks/limitations/concerns",
-      "text": "Training von KI mittels persönlicher Daten (AI Learning)\n\nViele KI-Systeme werden durch Nutzereingaben weiterentwickelt. Nutzende sollten sich deshalb bewusst sein, dass ihre Eingaben unter Umständen zur Verbesserung der KI-Modelle verwendet werden können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lesen und prüfen Sie den Output von generativer KI, um die Qualität, Genauigkeit und ethischen Implikationen der generierten Inhalte zu bewerten, bevor Sie diesen weiterverwenden. Mitarbeitende müssen alle von KI produzierten Resultate auf Genauigkeit und Faktentreue überprüfen, bevor sie diese für offizielle Zwecke verwenden, einschliesslich des Versands von E-Mails, Präsentationen, Dokumenten oder anderen Materialien.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Falls möglich, sollte die Option zur Verwendung der Eingaben zu Test- oder Trainingszwecken in den Einstellungen des jeweiligen KI-Systems deaktiviert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Schalten Sie die Verlaufsfunktion aus (falls möglich)",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Weitere Informationen finden Sie hier: https://ethz.sharepoint.com/sites/ArtificialIntelligence",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bestimmte KI-Lösungen bieten Optionen zur Einschränkung der Speicherung und Nutzung der bereitgestellten Daten. Nutzen Sie diese, um zu verhindern, dass Ihre Daten unkontrolliert im Netz weiterverwendet werden.",
       "repaired": false
     },
     {
       "id": 47,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "In diesem Teil ist die relevante Gesetzgebung mit Bezug zur KI summarisch aufgeführt. Die Aufzählung erhebt keinen Anspruch auf Vollständigkeit. Es liegt in der Verantwortung der Nutzenden von KI, die für sie anwendbare Gesetzgebung festzustellen. Die einschlägigen Stellen an der ETH Zürich unterstützen bei Fragen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Berücksichtigen Sie unbedingt das Urheberrecht bei KI-generierten Inhalten",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B2",
-      "B_label": "scope/application",
-      "text": "AI Act der Europäischen Union (EU AI Act)\n\nObwohl die Schweiz nicht Teil der EU ist, ist es wichtig, den EU AI Act zu berücksichtigen, da er weitreichende Auswirkungen auf den Einsatz und die Entwicklung von KI-Systemen in Europa hat. Insbesondere wenn die genutzten KI-Systeme entweder Auswirkungen auf EU-Bürger haben, Daten in der EU verarbeiten oder wenn die generierten Outputs in der EU verwendet werden könnten.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die ETH hat Leitlinien für die Nutzung und Verbreitung von KI-generierten Inhalten entwickelt, insbesondere im Kontext von Lehre und Lernen. An der ETH wird akademische Integrität als Haltung verstanden: KI-Nutzende übernehmen Verantwortung, kennzeichnen den Einsatz von KI und gehen fair mit Datenschutz und Urheberrecht um.",
       "repaired": false
     },
     {
       "id": 49,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Der EU AI Act in aller Kürze:\n\n- Risikobasierter Ansatz: Der EU AI Act kategorisiert KI-Systeme basierend auf ihrem Risikoniveau (unakzeptabel, hoch, begrenzt, minimal);\n- Verbotene Praktiken: Bestimmte KI-Anwendungen, die als besonders schädlich gelten, werden verboten;\n- Anforderungen an Hochrisiko-KI-Systeme: Strenge Anforderungen an Datenverwaltung, Dokumentation, Transparenz, menschliche Aufsicht, Robustheit und Genauigkeit;\n- Transparenzpflichten: Nutzer müssen informiert werden, wenn sie mit KI-Systemen interagieren.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Teilen Sie keine vertraulichen Informationen mit KI-Systemen",
       "repaired": false
     },
     {
       "id": 50,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Einhaltung des Bundesgesetzes über den Datenschutz (DSG)\n\nKI-Systeme an der ETH müssen in Übereinstimmung mit dem DSG entwickelt und betrieben werden. Dies umfasst Prinzipien wie Transparenz, Zweckbindung, Datensparsamkeit und das Recht auf Auskunft und Löschung.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Neben dem Nutzen künstlicher Intelligenz, sollten Sie sich ebenfalls den Risiken bewusst sein. Die falsche Nutzung von KI kann mehrere Gefahren für Sie und die ETH darstellen:\n1. Reputationsschäden, z.B. aufgrund der Verletzung geistigen Eigentums, aufgrund fehlenden Verständnisses für den Forschungsschutz, aufgrund von Verstößen gegen das Urheberrecht, gegen Lizenzrechte und Datenschutz;",
       "repaired": false
     },
     {
       "id": 51,
       "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Die Weisung «Inventarisierung und Klassifizierung von Informationen an der ETH Zürich» bietet eine Hilfestellung im Umgang mit klassifizierten Informationen im Anhang 2, z.B. im Abschnitt E.",
+      "B_label": "risks/limitations/concerns",
+      "text": "2. Ethische Bedenken, z.B. aufgrund mangelnder Wissenschaftsethik und akademischer Integrität oder aufgrund möglicher Plagiate und/oder",
       "repaired": false
     },
     {
       "id": 52,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Einhaltung der Güterkontroll-Verordnung (GKV)\n\nDie Exportkontrolle ist ein Rechtsinstrument und bezweckt, dass Güter (nebst Produkten und Software auch Technologien, Fachwissen, Informationen, Forschungsresultate, Daten etc.) kontrolliert aus der Schweiz ausgeführt respektive exportiert werden, sofern diese Güter Eigenschaften besitzen, die nicht nur einen zivilen Einsatzzweck ermöglichen, sondern auch für den militärischen Bereich interessant sind (Dual-Use).\n\nIm Sinne der Exportkontrolle wird das Hochladen export-kontrollierter Daten in eine KI im Ausland oder in der Schweiz mit Zugriffsmöglichkeit aus dem Ausland als Export von Technologie betrachtet und Bedarf einer Bewilligung vom entsprechenden Bundesamt (Staatssekretariat für Wirtschaft, SECO).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "3. Finanzielle Verluste.",
       "repaired": false
     },
     {
       "id": 53,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Ihr Kontakt an der ETH Zürich: Abteilung Procurement und Export Services",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Teilen Sie keine Personendaten",
       "repaired": false
     },
     {
       "id": 54,
-      "B": "B11",
-      "B_label": "monitoring/revision/updating",
-      "text": "Ausblick: Emerging Threats und künftige Herausforderungen\n\nDie ETH wird die Entwicklung von KI stetig beobachten und entsprechende Informationen zur sicheren Nutzung gegenüber neuen Bedrohungen und Herausforderungen anpassen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Eine Beschreibung personenbezogener Daten sowie besonders schützenswerten Personendaten finden Sie unter dem Titel «Verantwortungsvolle Nutzung von KI».",
       "repaired": false
     },
     {
       "id": 55,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "text": "Die bestimmungsgemässe und verantwortungsvolle Nutzung von KI-Technologien erfordert kontinuierliche Aufmerksamkeit und stetige Anpassung an sich weiterentwickelnden Gegebenheiten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Verlassen Sie sich nicht blind auf KI-Ergebnisse",
       "repaired": false
     },
     {
       "id": 56,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "Als ETH-Mitarbeitende setzen wir uns gemeinsam dafür ein, die Chancen der KI zu nutzen und gleichzeitig Risiken zu minimieren – stets im Einklang mit unseren institutionellen Richtlinien und ethischen Grundsätzen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Seien Sie bei der Überprüfung KI-generierter Texte gründlich. Wenn Sie die KI gebeten haben, Inhalte zu erstellen, achten Sie auf Folgendes:\n1. Mangelnde Kohärenz: Ein fehlender logischer Aufbau KI-generierter Texte kann zu missverständlichen oder unklaren Passagen führen;",
       "repaired": false
     },
     {
       "id": 57,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "text": "Bei Fragen zum Thema Informationssicherheit wenden Sie sich an eine/n Information Security Officer (ISO), der für Ihr Department oder Ihre Abteilung verantwortlich ist, oder an den CISO. Eine Liste der Ansprechpartner findet sich hier: https://ethz.ch/staffnet/de/service/informationssicherheit/ansprechpartner-informationssicherheit.html",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "2. Semantische Fehler: KI-Modelle können gelegentlich den Kontext falsch interpretieren, was zu Fehlern, Ungenauigkeiten oder unplausiblen Aussagen führt;",
       "repaired": false
     },
     {
       "id": 58,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "3. Wiederholungen: KI-generierte Inhalte können wiederholte Muster oder redundante Informationen aufweisen, die die Qualität und Einzigartigkeit des Textes beeinträchtigen und/oder",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "4. Halluzinationen: KI-generierte Halluzinationen können sehr plausibel klingen und werden zum Teil sogar mit vermeintlichen bibliographischen Quellen belegt, die jedoch nicht existieren;",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Berücksichtigen Sie die ethischen Richtlinien, Datenschutzbestimmungen und andere anwendbare Gesetzgebung",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Datenlecks und Verletzungen der Privatsphäre",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Systeme verarbeiten oft große Mengen an Daten, was sie zu attraktiven Zielen für Cyberkriminelle oder staatliche Akteure (Spionage) machen kann. Ein Datenleck kann schwerwiegende Folgen haben, von finanziellen Verlusten bis hin zu Reputationsschäden für die ETH.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Unabhängig von Datenlecks ist zu beachten, dass viele KI-Anbieter weitreichende Nutzungsrechte an den eingegebenen Inhalten erhalten – die Kontrolle über diese Daten kann dadurch verloren gehen.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Manipulierte oder voreingenommene KI-Modelle",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Modelle können anfällig für Manipulationen und voreingenommen sein. Dies kann zu fehlerhaften oder diskriminierenden Ergebnissen führen (z.B. gegenüber einer bestimmten Altersgruppe). Die ETH legt grossen Wert auf die Integrität von Informationen, wie in der Weisung Informationssicherheit betont wird. Regelmässiges Überprüfen sowie stetiges, kritisches Hinterfragen der generierten Outputs durch die Nutzenden ist notwendig.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Urheberrechtliche Bedenken bei KI-generierten Inhalten",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Fähigkeit Inhalte zu generieren, wirft urheberrechtliche Fragen auf in Bezug auf die Herkunft der Datensätze mit denen die KI trainiert wurde. Nutzende sollten sich deshalb bewusst sein, dass Inhalte, die sie mit KI kreieren, in ihrer akademischen Verantwortung liegen und dass diese Inhalte möglicherweise dem Urheberrecht unterliegen. Die ETH hat diesbezüglich Leitlinien für Nutzende entwickelt (vgl. Praktische Dos and Dont's weiter oben).",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Training von KI mittels persönlicher Daten (AI Learning)",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Viele KI-Systeme werden durch Nutzereingaben weiterentwickelt. Nutzende sollten sich deshalb bewusst sein, dass ihre Eingaben unter Umständen zur Verbesserung der KI-Modelle verwendet werden können.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Falls möglich, sollte die Option zur Verwendung der Eingaben zu Test- oder Trainingszwecken in den Einstellungen des jeweiligen KI-Systems deaktiviert werden.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "In diesem Teil ist die relevante Gesetzgebung mit Bezug zur KI summarisch aufgeführt. Die Aufzählung erhebt keinen Anspruch auf Vollständigkeit. Es liegt in der Verantwortung der Nutzenden von KI, die für sie anwendbare Gesetzgebung festzustellen. Die einschlägigen Stellen an der ETH Zürich unterstützen bei Fragen.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "AI Act der Europäischen Union (EU AI Act)",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Obwohl die Schweiz nicht Teil der EU ist, ist es wichtig, den EU AI Act zu berücksichtigen, da er weitreichende Auswirkungen auf den Einsatz und die Entwicklung von KI-Systemen in Europa hat. Insbesondere wenn die genutzten KI-Systeme entweder Auswirkungen auf EU-Bürger haben, Daten in der EU verarbeiten oder wenn die generierten Outputs in der EU verwendet werden könnten.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Der EU AI Act in aller Kürze:\n- Risikobasierter Ansatz: Der EU AI Act kategorisiert KI-Systeme basierend auf ihrem Risikoniveau (unakzeptabel, hoch, begrenzt, minimal);\n- Verbotene Praktiken: Bestimmte KI-Anwendungen, die als besonders schädlich gelten, werden verboten;\n- Anforderungen an Hochrisiko-KI-Systeme: Strenge Anforderungen an Datenverwaltung, Dokumentation, Transparenz, menschliche Aufsicht, Robustheit und Genauigkeit;\n- Transparenzpflichten: Nutzer müssen informiert werden, wenn sie mit KI-Systemen interagieren.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Einhaltung des Bundesgesetzes über den Datenschutz (DSG)",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-Systeme an der ETH müssen in Übereinstimmung mit dem DSG entwickelt und betrieben werden. Dies umfasst Prinzipien wie Transparenz, Zweckbindung, Datensparsamkeit und das Recht auf Auskunft und Löschung.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Einhaltung der Güterkontroll-Verordnung (GKV)",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Exportkontrolle ist ein Rechtsinstrument und bezweckt, dass Güter (nebst Produkten und Software auch Technologien, Fachwissen, Informationen, Forschungsresultate, Daten etc.) kontrolliert aus der Schweiz ausgeführt respektive exportiert werden, sofern diese Güter Eigenschaften besitzen, die nicht nur einen zivilen Einsatzzweck ermöglichen, sondern auch für den militärischen Bereich interessant sind (Dual-Use).",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Im Sinne der Exportkontrolle wird das Hochladen export-kontrollierter Daten in eine KI im Ausland oder in der Schweiz mit Zugriffsmöglichkeit aus dem Ausland als Export von Technologie betrachtet und Bedarf einer Bewilligung vom entsprechenden Bundesamt (Staatssekretariat für Wirtschaft, SECO).",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Ihr Kontakt an der ETH Zürich: Abteilung Procurement und Export Services",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die ETH wird die Entwicklung von KI stetig beobachten und entsprechende Informationen zur sicheren Nutzung gegenüber neuen Bedrohungen und Herausforderungen anpassen.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die bestimmungsgemässe und verantwortungsvolle Nutzung von KI-Technologien erfordert kontinuierliche Aufmerksamkeit und stetige Anpassung an sich weiterentwickelnden Gegebenheiten. Als ETH-Mitarbeitende setzen wir uns gemeinsam dafür ein, die Chancen der KI zu nutzen und gleichzeitig Risiken zu minimieren – stets im Einklang mit unseren institutionellen Richtlinien und ethischen Grundsätzen.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Bei Fragen zum Thema Informationssicherheit wenden Sie sich an eine/n Information Security Officer (ISO), der für Ihr Department oder Ihre Abteilung verantwortlich ist, oder an den CISO. Eine Liste der Ansprechpartner findet sich hier: https://ethz.ch/staffnet/de/service/informationssicherheit/ansprechpartner-informationssicherheit.html",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "bestimmungsgemässe nutzung von ki-systemen (regulatorische konformität)",
       "repaired": true
     },
     {
-      "id": 59,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 85,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "regulatorisch konformer schutz von daten, persönlichkeitsund rechte dritter",
       "repaired": true
     },
     {
-      "id": 60,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 86,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "verantwortungsvolle nutzung von ki (umsicht und sorgfalt)",
       "repaired": true
     },
     {
-      "id": 61,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 87,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "erweiterter schutz für personendaten und der rechte dritter",
       "repaired": true
     },
     {
-      "id": 62,
-      "B": "B2",
-      "B_label": "scope/application",
+      "id": 88,
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "leitlinien für den einsatz von ki in lehre und forschung",
       "repaired": true
     },
     {
-      "id": 63,
-      "B": "B9",
+      "id": 89,
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "berücksichtigung gesellschaftlicher auswirkungen von ki",
       "repaired": true
     },
     {
-      "id": 64,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "hier sind einige dinge, die sie tun sollten: ## dos:",
+      "id": 90,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "folgende dos and don'ts unterstützen die bestimmungsgemässe und verantwortungsvolle nutzung.",
       "repaired": true
     },
     {
-      "id": 65,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "hier sind einige dinge, die sie vermeiden sollten:",
+      "id": 91,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "weitere informationen sind hier: https://ethz.ch/de/die-ethzuerich/lehre/aiineducation.html",
+      "repaired": true
+    },
+    {
+      "id": 92,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "weitere informationen finden sie hier: https://ethz.sharepoint.com/sites/artificialintelligence",
+      "repaired": true
+    },
+    {
+      "id": 93,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "die weisung «inventarisierung und klassifizierung von informationen an der eth zürich» bietet eine hilfestellung im umgang mit klassifizierten informationen im anhang 2, z.b. im abschnitt e.",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 65,
-    "matched": 62,
-    "unmatched_count": 3,
+    "total": 93,
+    "matched": 92,
+    "unmatched_count": 1,
     "unmatched": [
       {
-        "id": 58,
-        "B": "B2",
+        "id": 84,
+        "B": "B3",
         "matched_words": "3/6",
         "text": "bestimmungsgemässe nutzung von ki-systemen (regulatorische konformität)"
-      },
-      {
-        "id": 64,
-        "B": "B5",
-        "matched_words": "7/10",
-        "text": "hier sind einige dinge, die sie tun sollten: ## dos:"
-      },
-      {
-        "id": 65,
-        "B": "B6",
-        "matched_words": "6/8",
-        "text": "hier sind einige dinge, die sie vermeiden sollten:"
       }
     ],
-    "source_coverage": 0.849,
-    "uncovered_chars": 3069,
-    "uncovered_gaps": 10,
+    "source_coverage": 0.839,
+    "uncovered_chars": 3238,
+    "uncovered_gaps": 12,
     "uncovered": [
       {
         "char_start": 0,
@@ -516,6 +700,12 @@
         "text": ". hier sind einige dinge, die sie tun und vermeiden sollten: ## dos:"
       },
       {
+        "char_start": 10471,
+        "char_end": 10579,
+        "length": 108,
+        "text": ". weitere information und beispiele zum prompting: https://ethz.sharepoint.com/sites/artificialintelligence"
+      },
+      {
         "char_start": 11805,
         "char_end": 11816,
         "length": 11,
@@ -532,6 +722,12 @@
         "char_end": 15619,
         "length": 16,
         "text": "# gesetzgebung"
+      },
+      {
+        "char_start": 18166,
+        "char_end": 18227,
+        "length": 61,
+        "text": "# ausblick: emerging threats und künftige herausforderungen"
       },
       {
         "char_start": 18392,
@@ -561,63 +757,45 @@
       "char_start": 638,
       "char_end": 859,
       "text": "Künstliche Intelligenz (KI), insbesondere generative KI, verändert stark die Art und Weise, wie wir arbeiten und kommunizieren. Dieser Leitfaden beschreibt sicherheitsrelevante Aspekte bei der Nutzung von KI-Technologien.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
     {
       "char_start": 861,
-      "char_end": 1249,
-      "text": "Die Nutzung von KI-Systemen wie ChatGPT oder Copilot – auch jene, die von der ETH zur Verfügung gestellt werden – birgt Chancen aber auch Risiken. Einerseits kann beispielsweise die Produktivität erhöht und die Lösungsfindung bei Problemstellungen vereinfacht werden, andererseits besteht jedoch auch das Risiko von Datenlecks, Verletzungen der Privatsphäre oder manipulierter KI-Systeme.",
-      "B": "B9",
+      "char_end": 1348,
+      "text": "Die Nutzung von KI-Systemen wie ChatGPT oder Copilot – auch jene, die von der ETH zur Verfügung gestellt werden – birgt Chancen aber auch Risiken. Einerseits kann beispielsweise die Produktivität erhöht und die Lösungsfindung bei Problemstellungen vereinfacht werden, andererseits besteht jedoch auch das Risiko von Datenlecks, Verletzungen der Privatsphäre oder manipulierter KI-Systeme. Das Ziel im Umgang mit KI soll deshalb sein, die Chancen zu nutzen aber die Risiken zu minimieren.",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 2,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 1250,
-      "char_end": 1348,
-      "text": "Das Ziel im Umgang mit KI soll deshalb sein, die Chancen zu nutzen aber die Risiken zu minimieren.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1350,
       "char_end": 1452,
       "text": "Es liegt in der Verantwortung der Nutzenden, KI-Dienste bestimmungs- und verantwortungsvoll zu nutzen.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 4,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 3,
       "match_type": "exact"
     },
     {
       "char_start": 1453,
       "char_end": 1582,
       "text": "Unter der bestimmungsgemässen Nutzung verstehen wir einen mit dem geltenden Recht und den ETH-Weisungen konformen Einsatz der KI.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
       "match_type": "exact"
     },
     {
       "char_start": 1583,
-      "char_end": 1812,
-      "text": "Die verantwortungsvolle Nutzung schliesst den bestimmungsgemässen Einsatz mit ein und geht darüber hinaus: Zusätzlich setzen wir Massnahmen um, welche eine besondere Umsicht und Vorsicht im Umgang mit Informationen signalisieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 6,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 1813,
       "char_end": 2178,
-      "text": "Die verantwortungsvolle Nutzung ist – im Vergleich zur bestimmungsgemässen Nutzung – nicht vorgeschrieben; aber: Sie ist sehr erwünscht. Wir zeigen, dass wir unsere sowie die Daten unserer Lieferanten und Forschungspartner als höchstes Gut erachten und mit diesen Daten vorbildlich umgehen, was über die Berücksichtigung der notwendigen Sorgfaltspflicht hinausgeht.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 7,
+      "text": "Die verantwortungsvolle Nutzung schliesst den bestimmungsgemässen Einsatz mit ein und geht darüber hinaus: Zusätzlich setzen wir Massnahmen um, welche eine besondere Umsicht und Vorsicht im Umgang mit Informationen signalisieren. Die verantwortungsvolle Nutzung ist – im Vergleich zur bestimmungsgemässen Nutzung – nicht vorgeschrieben; aber: Sie ist sehr erwünscht. Wir zeigen, dass wir unsere sowie die Daten unserer Lieferanten und Forschungspartner als höchstes Gut erachten und mit diesen Daten vorbildlich umgehen, was über die Berücksichtigung der notwendigen Sorgfaltspflicht hinausgeht.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 5,
       "match_type": "exact"
     },
     {
@@ -633,9 +811,9 @@
       "char_start": 2239,
       "char_end": 2310,
       "text": "Bestimmungsgemässe Nutzung von KI-Systemen (regulatorische Konformität)",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 58,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 84,
       "match_type": "exact"
     },
     {
@@ -643,8 +821,8 @@
       "char_end": 2512,
       "text": "Künstliche Intelligenz bezieht sich auf die Fähigkeit von Maschinen, Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern, wie z.B. Lernen, Problemlösung und Entscheidungsfindung.",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 8,
+      "B_label": "definition of AI",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
@@ -652,8 +830,8 @@
       "char_end": 2790,
       "text": "Generative KI ist in der Lage, neue Inhalte wie Texte, Bilder oder Musik zu erstellen. Diese Systeme nutzen maschinelles Lernen und neuronale Netzwerke und werden mit grossen Datensätzen trainiert. Sie können auch für bestimmte Aufgaben wie Übersetzungen spezialisiert werden.",
       "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 9,
+      "B_label": "definition of AI",
+      "segment_id": 7,
       "match_type": "exact"
     },
     {
@@ -669,45 +847,45 @@
       "char_start": 2873,
       "char_end": 3201,
       "text": "Gemäss der Weisung Informationssicherheit an der ETH Zürich ist der Schutz der Vertraulichkeit, Integrität und Verfügbarkeit von Informationen von höchster Wichtigkeit. Die unbefugte Offenlegung vertraulicher Informationen, zum Beispiel, könnte unserer Institution, Kunden oder Kooperationspartnern irreparablen Schaden zufügen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 10,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
       "char_start": 3203,
       "char_end": 3579,
       "text": "Wir gehen deshalb bestimmungsgemäss mit internen und vertraulichen Informationen, Geschäftsgeheimnissen und geistigen Eigentumsrechten um – unabhängig davon, ob es sich um unsere eigenen oder um Informationen privatwirtschaftlicher Unternehmen und Einzelpersonen handelt oder um lizenzierte Inhalte, wie Publikationen, die von der ETH-Bibliothek zur Verfügung gestellt werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
       "match_type": "exact"
     },
     {
       "char_start": 3581,
       "char_end": 3804,
       "text": "Der bestimmungsgemässe Umgang gilt sowohl für die Art der Nutzung (entweder man befragt ein KI-System oder man trainiert ein KI-System) als auch für die Art der verwendeten Informationen – seien es Sach- oder Personendaten.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
       "char_start": 3806,
       "char_end": 3958,
       "text": "Zum Beispiel dürfen bei einer ausgeschriebenen Stelle ohne menschliche Interaktion keine automatisierten, personenbezogenen Entscheide getroffen werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 13,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 11,
       "match_type": "exact"
     },
     {
       "char_start": 3959,
       "char_end": 4210,
       "text": "Zudem gilt: Sollte es zu einer Datenschutzverletzung kommen, bei welcher Personendaten verloren gehen, mutwillig zerstört, unbefugt gelöscht, verändert oder zugänglich gemacht werden, muss dies dem Datenschutzberatenden der ETH Zürich gemeldet werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
@@ -723,9 +901,9 @@
       "char_start": 4316,
       "char_end": 4734,
       "text": "KI-Systeme sind in der Regel als externe Cloud- bzw. externe IT-Dienste einzustufen (solche Dienste werden der ETH von einer Drittpartei angeboten). Eine Liste freigegebener externer Cloud-Dienste für die ETH Zürich ist hier einsehbar und wird in Zukunft auch KI-Systeme beinhalten: https://ethz.ch/staffnet/de/service/informationssicherheit/nutzung-externer-cloud-dienste/freigabeliste-fuer-externe-cloud-dienste.html",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 15,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
@@ -733,34 +911,52 @@
       "char_end": 5041,
       "text": "Gemäss dem ETH-Klassifikationssystem der ETH Zürich dürfen maximal «vertrauliche» Informationen in externen Cloud-Diensten bearbeitet werden – sofern diese Dienste hierfür freigegeben sind. «Streng vertrauliche» Informationen dürfen weder in einem externen Cloud-Dienst ausgelagert noch bearbeitet werden.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
       "char_start": 5043,
       "char_end": 5336,
       "text": "Die gelegentliche angemessene Nutzung externer Cloud- bzw. IT-Dienste zur Unterstützung im Tagesgeschäft (z.B. Suchmaschinen, Online-Übersetzungsservices, Chatbots mit künstlicher Intelligenz, ChatGPT), die nicht von der ETH Zürich freigegeben sind, liegt in der Verantwortung der Benutzenden.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 17,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
       "char_start": 5337,
       "char_end": 5556,
       "text": "Besonders schützenswerte Personendaten nach Datenschutzgesetz (DSG) Art. 5 Bst. c sowie anderweitig vertrauliche oder streng vertrauliche (Sach- oder Personen-) Daten dürfen mit solchen Diensten nicht bearbeitet werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
       "char_start": 5558,
+      "char_end": 5769,
+      "text": "Darüber hinaus widersprechen einer bestimmungsgemässen Nutzung der KI-Systeme insbesondere:\n\n- diskriminierende, belästigende, betrügerische, verleumderische oder anderweitig nach dem Recht verbotene Handlungen;",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5770,
+      "char_end": 5924,
+      "text": "- das Ausschalten, Umgehen oder Entfernung von Sicherheits- oder Auditing-Systemen der ETH oder einer anderen Organisation ohne vorherige Genehmigung oder",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5925,
       "char_end": 6080,
-      "text": "Darüber hinaus widersprechen einer bestimmungsgemässen Nutzung der KI-Systeme insbesondere:\n\n- diskriminierende, belästigende, betrügerische, verleumderische oder anderweitig nach dem Recht verbotene Handlungen;\n- das Ausschalten, Umgehen oder Entfernung von Sicherheits- oder Auditing-Systemen der ETH oder einer anderen Organisation ohne vorherige Genehmigung oder\n- die Verletzung der Rechte Dritter inklusive Urheber-, Persönlichkeits- oder Lizenzrechte (z.B. bei nicht bestimmungsgemässer Nutzung lizensierter Daten).",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "text": "- die Verletzung der Rechte Dritter inklusive Urheber-, Persönlichkeits- oder Lizenzrechte (z.B. bei nicht bestimmungsgemässer Nutzung lizensierter Daten).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 19,
       "match_type": "exact"
     },
@@ -777,17 +973,17 @@
       "char_start": 6084,
       "char_end": 6141,
       "text": "Verantwortungsvolle Nutzung von KI (Umsicht und Sorgfalt)",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 60,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 86,
       "match_type": "exact"
     },
     {
       "char_start": 6143,
       "char_end": 6264,
       "text": "Mitarbeitende dürfen KI im Arbeitsalltag nutzen, z.B. für das Erstellen interner Arbeits-E-Mails oder für Präsentationen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 20,
       "match_type": "exact"
     },
@@ -795,8 +991,8 @@
       "char_start": 6265,
       "char_end": 6445,
       "text": "Sie befolgen dabei die Vorgaben im Abschnitt «Bestimmungsgemässe Nutzung von KI-Systemen» und erwägen zusätzlich die unterstehenden Massnahmen für eine verantwortungsvolle Nutzung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 21,
       "match_type": "exact"
     },
@@ -813,18 +1009,36 @@
       "char_start": 6449,
       "char_end": 6508,
       "text": "Erweiterter Schutz für Personendaten und der Rechte Dritter",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 61,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 87,
       "match_type": "exact"
     },
     {
       "char_start": 6510,
-      "char_end": 7681,
-      "text": "Im Gegensatz zur bestimmungsgemässen Nutzung, verstehen wir unter verantwortungsvoller Nutzung die Verwendung von KI ohne\n\n- personenbezogene Daten. Personenbezogene Daten sind sämtliche Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen; eine identifizierbare natürliche Person ist eine Person, die direkt oder indirekt bestimmt werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, einer Identifikationsnummer, Standortdaten, einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind;\n- besonders schützenswerte Personendaten. Besonders schützenswerte personenbezogene Daten sind Informationen über Gesundheit, ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, genetische Daten, biometrische Daten (zum Zweck der Identifizierung) sowie Daten zur Sexualität oder zur sexuellen Orientierung;\n- Informationen, die die ETH oder Dritte identifizieren.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "char_end": 7254,
+      "text": "Im Gegensatz zur bestimmungsgemässen Nutzung, verstehen wir unter verantwortungsvoller Nutzung die Verwendung von KI ohne\n\n- personenbezogene Daten. Personenbezogene Daten sind sämtliche Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (betroffene Person) beziehen; eine identifizierbare natürliche Person ist eine Person, die direkt oder indirekt bestimmt werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, einer Identifikationsnummer, Standortdaten, einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind;",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7255,
+      "char_end": 7624,
+      "text": "- besonders schützenswerte Personendaten. Besonders schützenswerte personenbezogene Daten sind Informationen über Gesundheit, ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, genetische Daten, biometrische Daten (zum Zweck der Identifizierung) sowie Daten zur Sexualität oder zur sexuellen Orientierung;",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7625,
+      "char_end": 7681,
+      "text": "- Informationen, die die ETH oder Dritte identifizieren.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
@@ -840,27 +1054,54 @@
       "char_start": 7685,
       "char_end": 7741,
       "text": "Leitlinien für den Einsatz von KI in Lehre und Forschung",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 62,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 88,
       "match_type": "exact"
     },
     {
       "char_start": 7743,
       "char_end": 7983,
       "text": "Als führende Forschungseinrichtung will die ETH bei der Entwicklung und dem Einsatz von KI-Technologien besonders verantwortungsvoll vorgehen. Dies umfasst die Berücksichtigung ethischer Fragen und die Integration von KI-Ethik in Lehrpläne.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
       "char_start": 7984,
+      "char_end": 8228,
+      "text": "Die ETH Zürich hat Leitlinien für den Einsatz von KI in der Lehre entwickelt, die folgende Aspekte berücksichtigt:\n\n1. Förderung des kritischen Denkens: Studierende werden ermutigt, die Möglichkeiten und Grenzen von KI kritisch zu hinterfragen;",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8229,
+      "char_end": 8352,
+      "text": "2. Ethische Nutzung: Die ETH legt Wert darauf, dass KI-Tools in der Lehre ethisch und verantwortungsvoll eingesetzt werden;",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8353,
+      "char_end": 8513,
+      "text": "3. Anpassung der Lehrmethoden: KI wird genutzt, um personalisiertes Lernen zu ermöglichen und die Interaktion zwischen Lehrenden und Studierenden zu verbessern;",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8514,
       "char_end": 8643,
-      "text": "Die ETH Zürich hat Leitlinien für den Einsatz von KI in der Lehre entwickelt, die folgende Aspekte berücksichtigt:\n\n1. Förderung des kritischen Denkens: Studierende werden ermutigt, die Möglichkeiten und Grenzen von KI kritisch zu hinterfragen;\n2. Ethische Nutzung: Die ETH legt Wert darauf, dass KI-Tools in der Lehre ethisch und verantwortungsvoll eingesetzt werden;\n3. Anpassung der Lehrmethoden: KI wird genutzt, um personalisiertes Lernen zu ermöglichen und die Interaktion zwischen Lehrenden und Studierenden zu verbessern;\n4. Vorbereitung auf die Arbeitswelt: Studierende werden auf eine Zukunft vorbereitet, in der KI eine zentrale Rolle spielen wird.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 24,
+      "text": "4. Vorbereitung auf die Arbeitswelt: Studierende werden auf eine Zukunft vorbereitet, in der KI eine zentrale Rolle spielen wird.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
       "match_type": "exact"
     },
     {
@@ -876,27 +1117,27 @@
       "char_start": 8647,
       "char_end": 8702,
       "text": "Berücksichtigung gesellschaftlicher Auswirkungen von KI",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 63,
+      "segment_id": 89,
       "match_type": "exact"
     },
     {
       "char_start": 8704,
       "char_end": 9040,
       "text": "Die ETH nimmt eine wichtige Rolle bei der Untersuchung und Bewertung gesellschaftlicher Auswirkungen von KI-Technologien ein. Dies spiegelt sich auch in der KI-Strategie für die Lehre wider und soll Studierende befähigen, die Auswirkungen von KI auf verschiedene Bereiche der Gesellschaft zu verstehen und gegebenenfalls mitzugestalten.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 25,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
       "match_type": "exact"
     },
     {
       "char_start": 9042,
       "char_end": 9134,
       "text": "Folgende Dos and Don'ts unterstützen die bestimmungsgemässe und verantwortungsvolle Nutzung.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 26,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 90,
       "match_type": "exact"
     },
     {
@@ -912,9 +1153,9 @@
       "char_start": 9172,
       "char_end": 9386,
       "text": "Nutzen Sie KI in der Praxis, um zu lernen, wie Sie die Technologie am besten für Ihre Arbeit einsetzen können. Experimentieren Sie mit verschiedenen KI-Tools und nutzen Sie KI, um Routineaufgaben zu automatisieren.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 27,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
@@ -928,26 +1169,107 @@
     },
     {
       "char_start": 9458,
-      "char_end": 10554,
-      "text": "Schreiben Sie aussagekräftige Prompts\n\nWenn Sie Prompts für konversationelle KI wie ChatGPT erstellen, folgen Sie diesen Empfehlungen, um bestmögliche Resultate sowie Datensicherheit sicherzustellen:\n\n1. Drücken Sie sich klar aus, geben Sie dem Prompt Kontext; verwenden Sie Schlagworte; achten Sie auf korrekte Rechtschreibung; definieren Sie die Rolle der KI und den gewünschten Output;\n2. Verwenden Sie keine persönlichen, vertraulichen oder proprietäre Informationen;\n3. Verwenden Sie respektvolle Sprache und Ausdruck;\n4. Fördern Sie Diversität und Inklusion;\n5. Evaluieren und verfeinern Sie Ihre Prompts regelmäßig;\n6. Geben Sie nur notwendige Informationen an KI-Systeme weiter (Datenminimierung);\n7. Nutzen Sie Funktionen zum Löschen Ihrer Interaktionshistorie mit KI-Assistenten und löschen Sie regelmäßig Cookies (regelmässige Datenlöschung);\n8. Suchen Sie nach KI-Diensten mit lokaler Verarbeitung oder starken Datenschutzgarantien;\n9. Deaktivieren Sie Datensammlungen für «Produktverbesserungen» wenn möglich;\n10. Verringern Sie ein Halluzinieren bereits bei der Eingabe des Prompts.",
+      "char_end": 9495,
+      "text": "Schreiben Sie aussagekräftige Prompts",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9497,
+      "char_end": 9846,
+      "text": "Wenn Sie Prompts für konversationelle KI wie ChatGPT erstellen, folgen Sie diesen Empfehlungen, um bestmögliche Resultate sowie Datensicherheit sicherzustellen:\n\n1. Drücken Sie sich klar aus, geben Sie dem Prompt Kontext; verwenden Sie Schlagworte; achten Sie auf korrekte Rechtschreibung; definieren Sie die Rolle der KI und den gewünschten Output;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9847,
+      "char_end": 9929,
+      "text": "2. Verwenden Sie keine persönlichen, vertraulichen oder proprietäre Informationen;",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 28,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 34,
       "match_type": "exact"
     },
     {
-      "char_start": 10556,
-      "char_end": 10661,
-      "text": "Weitere Information und Beispiele zum Prompting: https://ethz.sharepoint.com/sites/ArtificialIntelligence",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 29,
+      "char_start": 9930,
+      "char_end": 9981,
+      "text": "3. Verwenden Sie respektvolle Sprache und Ausdruck;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
       "match_type": "exact"
     },
     {
-      "char_start": 10661,
+      "char_start": 9982,
+      "char_end": 10022,
+      "text": "4. Fördern Sie Diversität und Inklusion;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10023,
+      "char_end": 10080,
+      "text": "5. Evaluieren und verfeinern Sie Ihre Prompts regelmäßig;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10081,
+      "char_end": 10163,
+      "text": "6. Geben Sie nur notwendige Informationen an KI-Systeme weiter (Datenminimierung);",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10164,
+      "char_end": 10311,
+      "text": "7. Nutzen Sie Funktionen zum Löschen Ihrer Interaktionshistorie mit KI-Assistenten und löschen Sie regelmäßig Cookies (regelmässige Datenlöschung);",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10312,
+      "char_end": 10402,
+      "text": "8. Suchen Sie nach KI-Diensten mit lokaler Verarbeitung oder starken Datenschutzgarantien;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10403,
+      "char_end": 10480,
+      "text": "9. Deaktivieren Sie Datensammlungen für «Produktverbesserungen» wenn möglich;",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10481,
+      "char_end": 10554,
+      "text": "10. Verringern Sie ein Halluzinieren bereits bei der Eingabe des Prompts.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10554,
       "char_end": 10665,
-      "text": "\n\n- ",
+      "text": "\n\nWeitere Information und Beispiele zum Prompting: https://ethz.sharepoint.com/sites/ArtificialIntelligence\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -955,11 +1277,20 @@
     },
     {
       "char_start": 10665,
+      "char_end": 10710,
+      "text": "Überprüfen Sie die Ergebnisse der KI kritisch",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10711,
       "char_end": 11134,
-      "text": "Überprüfen Sie die Ergebnisse der KI kritisch\nLesen und prüfen Sie den Output von generativer KI, um die Qualität, Genauigkeit und ethischen Implikationen der generierten Inhalte zu bewerten, bevor Sie diesen weiterverwenden. Mitarbeitende müssen alle von KI produzierten Resultate auf Genauigkeit und Faktentreue überprüfen, bevor sie diese für offizielle Zwecke verwenden, einschliesslich des Versands von E-Mails, Präsentationen, Dokumenten oder anderen Materialien.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 30,
+      "text": "Lesen und prüfen Sie den Output von generativer KI, um die Qualität, Genauigkeit und ethischen Implikationen der generierten Inhalte zu bewerten, bevor Sie diesen weiterverwenden. Mitarbeitende müssen alle von KI produzierten Resultate auf Genauigkeit und Faktentreue überprüfen, bevor sie diese für offizielle Zwecke verwenden, einschliesslich des Versands von E-Mails, Präsentationen, Dokumenten oder anderen Materialien.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
       "match_type": "exact"
     },
     {
@@ -973,11 +1304,20 @@
     },
     {
       "char_start": 11138,
+      "char_end": 11191,
+      "text": "Schalten Sie die Verlaufsfunktion aus (falls möglich)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11192,
       "char_end": 11402,
-      "text": "Schalten Sie die Verlaufsfunktion aus (falls möglich)\nBestimmte KI-Lösungen bieten Optionen zur Einschränkung der Speicherung und Nutzung der bereitgestellten Daten. Nutzen Sie diese, um zu verhindern, dass Ihre Daten unkontrolliert im Netz weiterverwendet werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 31,
+      "text": "Bestimmte KI-Lösungen bieten Optionen zur Einschränkung der Speicherung und Nutzung der bereitgestellten Daten. Nutzen Sie diese, um zu verhindern, dass Ihre Daten unkontrolliert im Netz weiterverwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
       "match_type": "exact"
     },
     {
@@ -991,26 +1331,26 @@
     },
     {
       "char_start": 11406,
+      "char_end": 11480,
+      "text": "Berücksichtigen Sie unbedingt das Urheberrecht bei KI-generierten Inhalten",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11481,
       "char_end": 11806,
-      "text": "Berücksichtigen Sie unbedingt das Urheberrecht bei KI-generierten Inhalten\nDie ETH hat Leitlinien für die Nutzung und Verbreitung von KI-generierten Inhalten entwickelt, insbesondere im Kontext von Lehre und Lernen. An der ETH wird akademische Integrität als Haltung verstanden: KI-Nutzende übernehmen Verantwortung, kennzeichnen den Einsatz von KI und gehen fair mit Datenschutz und Urheberrecht um.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 32,
+      "text": "Die ETH hat Leitlinien für die Nutzung und Verbreitung von KI-generierten Inhalten entwickelt, insbesondere im Kontext von Lehre und Lernen. An der ETH wird akademische Integrität als Haltung verstanden: KI-Nutzende übernehmen Verantwortung, kennzeichnen den Einsatz von KI und gehen fair mit Datenschutz und Urheberrecht um.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 48,
       "match_type": "exact"
     },
     {
-      "char_start": 11808,
-      "char_end": 11902,
-      "text": "Weitere Informationen sind hier: https://ethz.ch/de/die-eth-zuerich/lehre/ai-in-education.html",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 33,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 11902,
+      "char_start": 11806,
       "char_end": 11917,
-      "text": "\n\n# Dont's:\n\n- ",
+      "text": "\n\nWeitere Informationen sind hier: https://ethz.ch/de/die-eth-zuerich/lehre/ai-in-education.html\n\n# Dont's:\n\n- ",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
@@ -1018,11 +1358,38 @@
     },
     {
       "char_start": 11917,
+      "char_end": 11977,
+      "text": "Teilen Sie keine vertraulichen Informationen mit KI-Systemen",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11978,
+      "char_end": 12370,
+      "text": "Neben dem Nutzen künstlicher Intelligenz, sollten Sie sich ebenfalls den Risiken bewusst sein. Die falsche Nutzung von KI kann mehrere Gefahren für Sie und die ETH darstellen:\n\n1. Reputationsschäden, z.B. aufgrund der Verletzung geistigen Eigentums, aufgrund fehlenden Verständnisses für den Forschungsschutz, aufgrund von Verstößen gegen das Urheberrecht, gegen Lizenzrechte und Datenschutz;",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12371,
+      "char_end": 12506,
+      "text": "2. Ethische Bedenken, z.B. aufgrund mangelnder Wissenschaftsethik und akademischer Integrität oder aufgrund möglicher Plagiate und/oder",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12507,
       "char_end": 12531,
-      "text": "Teilen Sie keine vertraulichen Informationen mit KI-Systemen\nNeben dem Nutzen künstlicher Intelligenz, sollten Sie sich ebenfalls den Risiken bewusst sein. Die falsche Nutzung von KI kann mehrere Gefahren für Sie und die ETH darstellen:\n\n1. Reputationsschäden, z.B. aufgrund der Verletzung geistigen Eigentums, aufgrund fehlenden Verständnisses für den Forschungsschutz, aufgrund von Verstößen gegen das Urheberrecht, gegen Lizenzrechte und Datenschutz;\n2. Ethische Bedenken, z.B. aufgrund mangelnder Wissenschaftsethik und akademischer Integrität oder aufgrund möglicher Plagiate und/oder\n3. Finanzielle Verluste.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 34,
+      "text": "3. Finanzielle Verluste.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 52,
       "match_type": "exact"
     },
     {
@@ -1036,11 +1403,20 @@
     },
     {
       "char_start": 12535,
+      "char_end": 12565,
+      "text": "Teilen Sie keine Personendaten",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12566,
       "char_end": 12718,
-      "text": "Teilen Sie keine Personendaten\nEine Beschreibung personenbezogener Daten sowie besonders schützenswerten Personendaten finden Sie unter dem Titel «Verantwortungsvolle Nutzung von KI».",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 35,
+      "text": "Eine Beschreibung personenbezogener Daten sowie besonders schützenswerten Personendaten finden Sie unter dem Titel «Verantwortungsvolle Nutzung von KI».",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 54,
       "match_type": "exact"
     },
     {
@@ -1054,11 +1430,47 @@
     },
     {
       "char_start": 12722,
-      "char_end": 13570,
-      "text": "Verlassen Sie sich nicht blind auf KI-Ergebnisse\n\nSeien Sie bei der Überprüfung KI-generierter Texte gründlich. Wenn Sie die KI gebeten haben, Inhalte zu erstellen, achten Sie auf Folgendes:\n\n1. Mangelnde Kohärenz: Ein fehlender logischer Aufbau KI-generierter Texte kann zu missverständlichen oder unklaren Passagen führen;\n2. Semantische Fehler: KI-Modelle können gelegentlich den Kontext falsch interpretieren, was zu Fehlern, Ungenauigkeiten oder unplausiblen Aussagen führt;\n3. Wiederholungen: KI-generierte Inhalte können wiederholte Muster oder redundante Informationen aufweisen, die die Qualität und Einzigartigkeit des Textes beeinträchtigen und/oder\n4. Halluzinationen: KI-generierte Halluzinationen können sehr plausibel klingen und werden zum Teil sogar mit vermeintlichen bibliographischen Quellen belegt, die jedoch nicht existieren;",
-      "B": "B9",
+      "char_end": 12770,
+      "text": "Verlassen Sie sich nicht blind auf KI-Ergebnisse",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12772,
+      "char_end": 13046,
+      "text": "Seien Sie bei der Überprüfung KI-generierter Texte gründlich. Wenn Sie die KI gebeten haben, Inhalte zu erstellen, achten Sie auf Folgendes:\n\n1. Mangelnde Kohärenz: Ein fehlender logischer Aufbau KI-generierter Texte kann zu missverständlichen oder unklaren Passagen führen;",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 36,
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13047,
+      "char_end": 13201,
+      "text": "2. Semantische Fehler: KI-Modelle können gelegentlich den Kontext falsch interpretieren, was zu Fehlern, Ungenauigkeiten oder unplausiblen Aussagen führt;",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13202,
+      "char_end": 13382,
+      "text": "3. Wiederholungen: KI-generierte Inhalte können wiederholte Muster oder redundante Informationen aufweisen, die die Qualität und Einzigartigkeit des Textes beeinträchtigen und/oder",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13383,
+      "char_end": 13570,
+      "text": "4. Halluzinationen: KI-generierte Halluzinationen können sehr plausibel klingen und werden zum Teil sogar mit vermeintlichen bibliographischen Quellen belegt, die jedoch nicht existieren;",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 59,
       "match_type": "exact"
     },
     {
@@ -1074,9 +1486,9 @@
       "char_start": 13574,
       "char_end": 13679,
       "text": "Berücksichtigen Sie die ethischen Richtlinien, Datenschutzbestimmungen und andere anwendbare Gesetzgebung",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 60,
       "match_type": "exact"
     },
     {
@@ -1090,20 +1502,29 @@
     },
     {
       "char_start": 13717,
-      "char_end": 14028,
-      "text": "Datenlecks und Verletzungen der Privatsphäre\n\nKI-Systeme verarbeiten oft große Mengen an Daten, was sie zu attraktiven Zielen für Cyberkriminelle oder staatliche Akteure (Spionage) machen kann. Ein Datenleck kann schwerwiegende Folgen haben, von finanziellen Verlusten bis hin zu Reputationsschäden für die ETH.",
-      "B": "B9",
+      "char_end": 13761,
+      "text": "Datenlecks und Verletzungen der Privatsphäre",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 38,
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13763,
+      "char_end": 14028,
+      "text": "KI-Systeme verarbeiten oft große Mengen an Daten, was sie zu attraktiven Zielen für Cyberkriminelle oder staatliche Akteure (Spionage) machen kann. Ein Datenleck kann schwerwiegende Folgen haben, von finanziellen Verlusten bis hin zu Reputationsschäden für die ETH.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 62,
       "match_type": "exact"
     },
     {
       "char_start": 14030,
       "char_end": 14224,
       "text": "Unabhängig von Datenlecks ist zu beachten, dass viele KI-Anbieter weitreichende Nutzungsrechte an den eingegebenen Inhalten erhalten – die Kontrolle über diese Daten kann dadurch verloren gehen.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 39,
+      "segment_id": 63,
       "match_type": "exact"
     },
     {
@@ -1117,20 +1538,20 @@
     },
     {
       "char_start": 14229,
-      "char_end": 14461,
-      "text": "Manipulierte oder voreingenommene KI-Modelle\n\nKI-Modelle können anfällig für Manipulationen und voreingenommen sein. Dies kann zu fehlerhaften oder diskriminierenden Ergebnissen führen (z.B. gegenüber einer bestimmten Altersgruppe).",
-      "B": "B9",
+      "char_end": 14273,
+      "text": "Manipulierte oder voreingenommene KI-Modelle",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 40,
+      "segment_id": 64,
       "match_type": "exact"
     },
     {
-      "char_start": 14462,
+      "char_start": 14275,
       "char_end": 14704,
-      "text": "Die ETH legt grossen Wert auf die Integrität von Informationen, wie in der Weisung Informationssicherheit betont wird. Regelmässiges Überprüfen sowie stetiges, kritisches Hinterfragen der generierten Outputs durch die Nutzenden ist notwendig.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 41,
+      "text": "KI-Modelle können anfällig für Manipulationen und voreingenommen sein. Dies kann zu fehlerhaften oder diskriminierenden Ergebnissen führen (z.B. gegenüber einer bestimmten Altersgruppe). Die ETH legt grossen Wert auf die Integrität von Informationen, wie in der Weisung Informationssicherheit betont wird. Regelmässiges Überprüfen sowie stetiges, kritisches Hinterfragen der generierten Outputs durch die Nutzenden ist notwendig.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 65,
       "match_type": "exact"
     },
     {
@@ -1144,20 +1565,20 @@
     },
     {
       "char_start": 14709,
-      "char_end": 15105,
-      "text": "Urheberrechtliche Bedenken bei KI-generierten Inhalten\n\nDie Fähigkeit Inhalte zu generieren, wirft urheberrechtliche Fragen auf in Bezug auf die Herkunft der Datensätze mit denen die KI trainiert wurde. Nutzende sollten sich deshalb bewusst sein, dass Inhalte, die sie mit KI kreieren, in ihrer akademischen Verantwortung liegen und dass diese Inhalte möglicherweise dem Urheberrecht unterliegen.",
-      "B": "B9",
+      "char_end": 14763,
+      "text": "Urheberrechtliche Bedenken bei KI-generierten Inhalten",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 42,
+      "segment_id": 66,
       "match_type": "exact"
     },
     {
-      "char_start": 15106,
+      "char_start": 14765,
       "char_end": 15212,
-      "text": "Die ETH hat diesbezüglich Leitlinien für Nutzende entwickelt (vgl. Praktische Dos and Dont's weiter oben).",
+      "text": "Die Fähigkeit Inhalte zu generieren, wirft urheberrechtliche Fragen auf in Bezug auf die Herkunft der Datensätze mit denen die KI trainiert wurde. Nutzende sollten sich deshalb bewusst sein, dass Inhalte, die sie mit KI kreieren, in ihrer akademischen Verantwortung liegen und dass diese Inhalte möglicherweise dem Urheberrecht unterliegen. Die ETH hat diesbezüglich Leitlinien für Nutzende entwickelt (vgl. Praktische Dos and Dont's weiter oben).",
       "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 43,
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 67,
       "match_type": "exact"
     },
     {
@@ -1171,29 +1592,38 @@
     },
     {
       "char_start": 15217,
-      "char_end": 15473,
-      "text": "Training von KI mittels persönlicher Daten (AI Learning)\n\nViele KI-Systeme werden durch Nutzereingaben weiterentwickelt. Nutzende sollten sich deshalb bewusst sein, dass ihre Eingaben unter Umständen zur Verbesserung der KI-Modelle verwendet werden können.",
-      "B": "B9",
+      "char_end": 15273,
+      "text": "Training von KI mittels persönlicher Daten (AI Learning)",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
-      "segment_id": 44,
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15275,
+      "char_end": 15473,
+      "text": "Viele KI-Systeme werden durch Nutzereingaben weiterentwickelt. Nutzende sollten sich deshalb bewusst sein, dass ihre Eingaben unter Umständen zur Verbesserung der KI-Modelle verwendet werden können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 69,
       "match_type": "exact"
     },
     {
       "char_start": 15474,
       "char_end": 15632,
       "text": "Falls möglich, sollte die Option zur Verwendung der Eingaben zu Test- oder Trainingszwecken in den Einstellungen des jeweiligen KI-Systems deaktiviert werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
       "match_type": "exact"
     },
     {
       "char_start": 15634,
       "char_end": 15729,
       "text": "Weitere Informationen finden Sie hier: https://ethz.sharepoint.com/sites/ArtificialIntelligence",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 46,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 92,
       "match_type": "exact"
     },
     {
@@ -1209,9 +1639,9 @@
       "char_start": 15747,
       "char_end": 16063,
       "text": "In diesem Teil ist die relevante Gesetzgebung mit Bezug zur KI summarisch aufgeführt. Die Aufzählung erhebt keinen Anspruch auf Vollständigkeit. Es liegt in der Verantwortung der Nutzenden von KI, die für sie anwendbare Gesetzgebung festzustellen. Die einschlägigen Stellen an der ETH Zürich unterstützen bei Fragen.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 47,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 71,
       "match_type": "exact"
     },
     {
@@ -1225,20 +1655,29 @@
     },
     {
       "char_start": 16067,
+      "char_end": 16108,
+      "text": "AI Act der Europäischen Union (EU AI Act)",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16110,
       "char_end": 16485,
-      "text": "AI Act der Europäischen Union (EU AI Act)\n\nObwohl die Schweiz nicht Teil der EU ist, ist es wichtig, den EU AI Act zu berücksichtigen, da er weitreichende Auswirkungen auf den Einsatz und die Entwicklung von KI-Systemen in Europa hat. Insbesondere wenn die genutzten KI-Systeme entweder Auswirkungen auf EU-Bürger haben, Daten in der EU verarbeiten oder wenn die generierten Outputs in der EU verwendet werden könnten.",
-      "B": "B2",
-      "B_label": "scope/application",
-      "segment_id": 48,
+      "text": "Obwohl die Schweiz nicht Teil der EU ist, ist es wichtig, den EU AI Act zu berücksichtigen, da er weitreichende Auswirkungen auf den Einsatz und die Entwicklung von KI-Systemen in Europa hat. Insbesondere wenn die genutzten KI-Systeme entweder Auswirkungen auf EU-Bürger haben, Daten in der EU verarbeiten oder wenn die generierten Outputs in der EU verwendet werden könnten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 73,
       "match_type": "exact"
     },
     {
       "char_start": 16486,
       "char_end": 17015,
       "text": "Der EU AI Act in aller Kürze:\n\n- Risikobasierter Ansatz: Der EU AI Act kategorisiert KI-Systeme basierend auf ihrem Risikoniveau (unakzeptabel, hoch, begrenzt, minimal);\n- Verbotene Praktiken: Bestimmte KI-Anwendungen, die als besonders schädlich gelten, werden verboten;\n- Anforderungen an Hochrisiko-KI-Systeme: Strenge Anforderungen an Datenverwaltung, Dokumentation, Transparenz, menschliche Aufsicht, Robustheit und Genauigkeit;\n- Transparenzpflichten: Nutzer müssen informiert werden, wenn sie mit KI-Systemen interagieren.",
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "segment_id": 49,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 74,
       "match_type": "exact"
     },
     {
@@ -1252,20 +1691,29 @@
     },
     {
       "char_start": 17019,
+      "char_end": 17075,
+      "text": "Einhaltung des Bundesgesetzes über den Datenschutz (DSG)",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17077,
       "char_end": 17282,
-      "text": "Einhaltung des Bundesgesetzes über den Datenschutz (DSG)\n\nKI-Systeme an der ETH müssen in Übereinstimmung mit dem DSG entwickelt und betrieben werden. Dies umfasst Prinzipien wie Transparenz, Zweckbindung, Datensparsamkeit und das Recht auf Auskunft und Löschung.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 50,
+      "text": "KI-Systeme an der ETH müssen in Übereinstimmung mit dem DSG entwickelt und betrieben werden. Dies umfasst Prinzipien wie Transparenz, Zweckbindung, Datensparsamkeit und das Recht auf Auskunft und Löschung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 76,
       "match_type": "exact"
     },
     {
       "char_start": 17284,
       "char_end": 17474,
       "text": "Die Weisung «Inventarisierung und Klassifizierung von Informationen an der ETH Zürich» bietet eine Hilfestellung im Umgang mit klassifizierten Informationen im Anhang 2, z.B. im Abschnitt E.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 93,
       "match_type": "exact"
     },
     {
@@ -1279,38 +1727,56 @@
     },
     {
       "char_start": 17478,
+      "char_end": 17523,
+      "text": "Einhaltung der Güterkontroll-Verordnung (GKV)",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17525,
+      "char_end": 17942,
+      "text": "Die Exportkontrolle ist ein Rechtsinstrument und bezweckt, dass Güter (nebst Produkten und Software auch Technologien, Fachwissen, Informationen, Forschungsresultate, Daten etc.) kontrolliert aus der Schweiz ausgeführt respektive exportiert werden, sofern diese Güter Eigenschaften besitzen, die nicht nur einen zivilen Einsatzzweck ermöglichen, sondern auch für den militärischen Bereich interessant sind (Dual-Use).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17944,
       "char_end": 18239,
-      "text": "Einhaltung der Güterkontroll-Verordnung (GKV)\n\nDie Exportkontrolle ist ein Rechtsinstrument und bezweckt, dass Güter (nebst Produkten und Software auch Technologien, Fachwissen, Informationen, Forschungsresultate, Daten etc.) kontrolliert aus der Schweiz ausgeführt respektive exportiert werden, sofern diese Güter Eigenschaften besitzen, die nicht nur einen zivilen Einsatzzweck ermöglichen, sondern auch für den militärischen Bereich interessant sind (Dual-Use).\n\nIm Sinne der Exportkontrolle wird das Hochladen export-kontrollierter Daten in eine KI im Ausland oder in der Schweiz mit Zugriffsmöglichkeit aus dem Ausland als Export von Technologie betrachtet und Bedarf einer Bewilligung vom entsprechenden Bundesamt (Staatssekretariat für Wirtschaft, SECO).",
+      "text": "Im Sinne der Exportkontrolle wird das Hochladen export-kontrollierter Daten in eine KI im Ausland oder in der Schweiz mit Zugriffsmöglichkeit aus dem Ausland als Export von Technologie betrachtet und Bedarf einer Bewilligung vom entsprechenden Bundesamt (Staatssekretariat für Wirtschaft, SECO).",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 52,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 79,
       "match_type": "exact"
     },
     {
       "char_start": 18241,
       "char_end": 18313,
       "text": "Ihr Kontakt an der ETH Zürich: Abteilung Procurement und Export Services",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 53,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 80,
       "match_type": "exact"
     },
     {
       "char_start": 18313,
-      "char_end": 18317,
-      "text": "\n\n# ",
+      "char_end": 18376,
+      "text": "\n\n# Ausblick: Emerging Threats und künftige Herausforderungen\n\n",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
       "match_type": "gap"
     },
     {
-      "char_start": 18317,
+      "char_start": 18376,
       "char_end": 18542,
-      "text": "Ausblick: Emerging Threats und künftige Herausforderungen\n\nDie ETH wird die Entwicklung von KI stetig beobachten und entsprechende Informationen zur sicheren Nutzung gegenüber neuen Bedrohungen und Herausforderungen anpassen.",
-      "B": "B11",
+      "text": "Die ETH wird die Entwicklung von KI stetig beobachten und entsprechende Informationen zur sicheren Nutzung gegenüber neuen Bedrohungen und Herausforderungen anpassen.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 54,
+      "segment_id": 81,
       "match_type": "exact"
     },
     {
@@ -1324,29 +1790,20 @@
     },
     {
       "char_start": 18559,
-      "char_end": 18739,
-      "text": "Die bestimmungsgemässe und verantwortungsvolle Nutzung von KI-Technologien erfordert kontinuierliche Aufmerksamkeit und stetige Anpassung an sich weiterentwickelnden Gegebenheiten.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
-      "segment_id": 55,
-      "match_type": "exact"
-    },
-    {
-      "char_start": 18740,
       "char_end": 18953,
-      "text": "Als ETH-Mitarbeitende setzen wir uns gemeinsam dafür ein, die Chancen der KI zu nutzen und gleichzeitig Risiken zu minimieren – stets im Einklang mit unseren institutionellen Richtlinien und ethischen Grundsätzen.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 56,
+      "text": "Die bestimmungsgemässe und verantwortungsvolle Nutzung von KI-Technologien erfordert kontinuierliche Aufmerksamkeit und stetige Anpassung an sich weiterentwickelnden Gegebenheiten. Als ETH-Mitarbeitende setzen wir uns gemeinsam dafür ein, die Chancen der KI zu nutzen und gleichzeitig Risiken zu minimieren – stets im Einklang mit unseren institutionellen Richtlinien und ethischen Grundsätzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 82,
       "match_type": "exact"
     },
     {
       "char_start": 18955,
       "char_end": 19293,
       "text": "Bei Fragen zum Thema Informationssicherheit wenden Sie sich an eine/n Information Security Officer (ISO), der für Ihr Department oder Ihre Abteilung verantwortlich ist, oder an den CISO. Eine Liste der Ansprechpartner findet sich hier: https://ethz.ch/staffnet/de/service/informationssicherheit/ansprechpartner-informationssicherheit.html",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 57,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 83,
       "match_type": "exact"
     },
     {

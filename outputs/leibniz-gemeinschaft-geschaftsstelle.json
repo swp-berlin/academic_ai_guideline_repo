@@ -3,195 +3,272 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die Geschäftsstelle der Leibniz-Gemeinschaft bekennt sich zur verantwortungsvollen Nutzung generativer Künstlicher Intelligenz (KI) bei der Unterstützung von Arbeitsprozessen und als Instrument zur Stärkung einer offenen Datenkultur.",
       "repaired": false
     },
     {
       "id": 2,
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "text": "Als Teil der Digitalisierungsstrategie soll KI das Informationsmanagement fördern, die digitale Transformation beschleunigen und datenbasierte Entscheidungen unterstützen.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Mit dieser Richtlinie stärken wir eine innovationsfreundliche Arbeitskultur: Wir möchten die Mitarbeiterinnen und Mitarbeiter bei der dienstlichen Verwendung von KI-Systemen unterstützen und einen transparenten und rechtlich einwandfreien Umgang mit KI-Systemen ermöglichen.",
       "repaired": false
     },
     {
       "id": 4,
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "Generative KI im Sinne dieser Richtlinie bezeichnet Systeme, die auf Basis großer Datenmengen trainiert wurden und in der Lage sind, auf Anfragen (Prompts) neue Inhalte wie Texte, Bilder, Tabellen oder Code zu erzeugen bzw. Datenanalysen vorzunehmen.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B1",
-      "B_label": "definitions/terminology",
-      "text": "Large Language Models (LLM) sind generative KI-Systeme, die darauf spezialisiert sind, menschliche Sprache zu verarbeiten und zu erzeugen. Ein LLM kann Inhalte nicht verstehen. Basierend auf Trainingsdaten sagt es wahrscheinliche Wortfolgen vorher. Deshalb können LLMs auch „Halluzinationen“ erzeugen (plausibel klingende, aber falsche Informationen).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Large Language Models (LLM) sind generative KI-Systeme, die darauf spezialisiert sind, menschliche Sprache zu verarbeiten und zu erzeugen.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "**Menschliche Verantwortung und Kontrolle:** Die menschlichen Nutzerinnen und Nutzer behalten stets die Verantwortung für KI-generierte Inhalte, da KI-Systeme über keine Fähigkeit zum Verständnis im menschlichen Sinne verfügen und Fehlinformationen produzieren können („Halluzinationen“, s. o.). KI-generierte Inhalte müssen auf sachliche Richtigkeit und Plausibilität überprüft werden. Die Überprüfung muss durch den Menschen erfolgen, nicht etwa durch eine andere KI.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Ein LLM kann Inhalte nicht verstehen. Basierend auf Trainingsdaten sagt es wahrscheinliche Wortfolgen vorher. Deshalb können LLMs auch „Halluzinationen“ erzeugen (plausibel klingende, aber falsche Informationen).",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "**Umgang mit Verzerrungen:** KI-generierte Inhalte müssen auf Verzerrungen und ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. Besonders zu achten ist etwa auf\n - Stereotype z.B. bei Übersetzungen und Bildgenerierung\n - Diskriminierung bestimmter Personengruppen\n - Einseitige Darstellungen",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Menschliche Verantwortung und Kontrolle:** Die menschlichen Nutzerinnen und Nutzer behalten stets die Verantwortung für KI-generierte Inhalte, da KI-Systeme über keine Fähigkeit zum Verständnis im menschlichen Sinne verfügen und Fehlinformationen produzieren können („Halluzinationen“, s. o.).",
       "repaired": false
     },
     {
       "id": 8,
-      "B": "B4",
-      "B_label": "principles/values",
-      "text": "**Ressourcenschonung:** Die Nutzung von KI-Systemen ist ressourcenintensiv. Bei der Verwendung von KI sind finanzielle und ökologische Kosten zu berücksichtigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Inhalte müssen auf sachliche Richtigkeit und Plausibilität überprüft werden. Die Überprüfung muss durch den Menschen erfolgen, nicht etwa durch eine andere KI.",
       "repaired": false
     },
     {
       "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Umgang mit Verzerrungen:** KI-generierte Inhalte müssen auf Verzerrungen und ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
       "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Besonders zu achten ist etwa auf\n - Stereotype z.B. bei Übersetzungen und Bildgenerierung\n - Diskriminierung bestimmter Personengruppen\n - Einseitige Darstellungen",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Ressourcenschonung:** Die Nutzung von KI-Systemen ist ressourcenintensiv. Bei der Verwendung von KI sind finanzielle und ökologische Kosten zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "**Unterstützung bei der Nutzung:** Neben dieser Richtlinie wird die Nutzung von KI-Systemen durch Informations-, Schulungs- und Austauschformate unterstützt (siehe hierzu Abschnitt 6. Schulungen und Austausch).",
       "repaired": false
     },
     {
-      "id": 10,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 13,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "**Keine Pflicht zur Nutzung:** Es besteht keine Verpflichtung zur Nutzung von KI-Systemen.",
       "repaired": false
     },
     {
-      "id": 11,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Bei der Verwendung von KI ist Transparenz erforderlich. Daher gilt eine Hinweispflicht, insbesondere wenn KI-Systeme für die Erarbeitung von Texten oder Bildern genutzt wurden.",
       "repaired": false
     },
     {
-      "id": 12,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Folgende Angaben sind zu machen:\n- Name, Version und Anbieter des verwendeten KI-Modells\n- Zeitraum der Nutzung\n- Bezeichnung des Zwecks der Verwendung (Textgenerierung, Zusammenfassung, Übersetzung, Recherche, Textüberarbeitung, etc.)\n- Hinweis auf diese Richtlinie der Leibniz-Geschäftsstelle zur Nutzung von KI",
       "repaired": false
     },
     {
-      "id": 13,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Beispiel:\n\nDie Erstellung dieses Textes wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat durch die folgenden KI-Dienste unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft\", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.",
-      "repaired": false
-    },
-    {
-      "id": 14,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Um die Einhaltung rechtlicher Rahmenbedingungen, insbesondere bezüglich Datenschutz und Vertraulichkeit, zu gewährleisten und zu verhindern, dass Daten zu Trainingszwecken für KI-Systeme verwendet werden, sind ausschließlich die von der Leibniz-Geschäftsstelle bereitgestellten KI-Dienste zu nutzen. Diese sind über das KI-Portal zu erreichen: https://leibniz.eu.typingcloud.com",
-      "repaired": false
-    },
-    {
-      "id": 15,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Sofern weitere zulässige KI- bzw. Cloud-Dienste (wie deepL Pro u.a.) verwendet werden sollen, sind Accounts bei der IT der Leibniz-Geschäftsstelle zu beantragen.",
-      "repaired": false
-    },
-    {
       "id": 16,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Bei der Nutzung von KI-Systemen sind die Regelungen der Datenschutzgrundverordnung (DSGVO) und damit der Schutz personenbezogener Daten zu beachten:\n- Keine Übermittlung personenbezogener Daten im Sinne des Art. 4 (1) DSGVO (Ausnahme: bereits öffentlich bekannte Daten)\n- Vollständige Anonymisierung von personenbezogenen Daten vor der Verarbeitung\n- Keine Übermittlung vertraulicher Informationen (Betriebs- und Geschäftsgeheimnisse, geistiges Eigentum) oder sicherheitsrelevanter Daten",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Erstellung dieses Textes wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat durch die folgenden KI-Dienste unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft\", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "text": "Beispiele für zulässige Nutzungen:\n- Textzusammenfassungen, sofern die zusammenzufassenden Texte keine personenbezogenen Daten enthalten\n- Erstellung bzw. Überarbeitung von Vorlagen oder Protokollen, sofern keine personenbezogenen Daten verwendet werden\n- Datenanalyse mit vollständig anonymisierten Datensätzen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um die Einhaltung rechtlicher Rahmenbedingungen, insbesondere bezüglich Datenschutz und Vertraulichkeit, zu gewährleisten und zu verhindern, dass Daten zu Trainingszwecken für KI-Systeme verwendet werden, sind ausschließlich die von der Leibniz-Geschäftsstelle bereitgestellten KI-Dienste zu nutzen.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "text": "Beispiele für unzulässige Nutzungen:\n- Hochladen von Lebensläufen zur Analyse oder Optimierung\n- Eingabe von Mitarbeiterbewertungen oder Informationen aus Personalakten\n- Verwendung von Dokumenten mit schutzwürdigem geistigen Eigentum (s. auch Abschnitt 5.2. Urheberrecht)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Diese sind über das KI-Portal zu erreichen: https://leibniz.eu.typingcloud.com",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Die Nutzerinnen und Nutzer von KI-Systemen sind verantwortlich für die Einhaltung der gesetzlichen urheberrechtlichen Regelungen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Sofern weitere zulässige KI- bzw. Cloud-Dienste (wie deepL Pro u.a.) verwendet werden sollen, sind Accounts bei der IT der Leibniz-Geschäftsstelle zu beantragen.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "text": "Bei der Nutzung von KI-Systemen ist zu beachten:\n- Input (eingegebene Inhalte) und Output (KI-generierte Inhalte) sind unter urheberrechtlichen Gesichtspunkten zu prüfen.\n- Gemeinfreie Werke, Creative Commons-lizenzierte Dokumente und Werke ohne Schöpfungshöhe dürfen verwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Nutzung von KI-Systemen sind die Regelungen der Datenschutzgrundverordnung (DSGVO) und damit der Schutz personenbezogener Daten zu beachten:",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B10",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Keine Übermittlung personenbezogener Daten im Sinne des Art. 4 (1) DSGVO (Ausnahme: bereits öffentlich bekannte Daten)",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Vollständige Anonymisierung von personenbezogenen Daten vor der Verarbeitung",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Keine Übermittlung vertraulicher Informationen (Betriebs- und Geschäftsgeheimnisse, geistiges Eigentum) oder sicherheitsrelevanter Daten",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Beispiele für zulässige Nutzungen:\n- Textzusammenfassungen, sofern die zusammenzufassenden Texte keine personenbezogenen Daten enthalten\n- Erstellung bzw. Überarbeitung von Vorlagen oder Protokollen, sofern keine personenbezogenen Daten verwendet werden\n- Datenanalyse mit vollständig anonymisierten Datensätzen",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Beispiele für unzulässige Nutzungen:\n- Hochladen von Lebensläufen zur Analyse oder Optimierung\n- Eingabe von Mitarbeiterbewertungen oder Informationen aus Personalakten\n- Verwendung von Dokumenten mit schutzwürdigem geistigen Eigentum (s. auch Abschnitt 5.2. Urheberrecht)",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Nutzerinnen und Nutzer von KI-Systemen sind verantwortlich für die Einhaltung der gesetzlichen urheberrechtlichen Regelungen.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Nutzung von KI-Systemen ist zu beachten:\n- Input (eingegebene Inhalte) und Output (KI-generierte Inhalte) sind unter urheberrechtlichen Gesichtspunkten zu prüfen.\n- Gemeinfreie Werke, Creative Commons-lizenzierte Dokumente und Werke ohne Schöpfungshöhe dürfen verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Gemäß der EU-KI-Verordnung müssen Mitarbeiterinnen und Mitarbeiter, die KI-Systeme nutzen, zuvor entsprechend geschult werden. Die IT der Leibniz-Geschäftsstelle bietet hierfür Schulungen an, in denen die Gegenstände dieser Richtlinie vertieft und die Verwendung des KI-Portals erklärt werden.",
       "repaired": false
     },
     {
-      "id": 22,
-      "B": "B10",
+      "id": 29,
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "text": "Darüber hinaus werden aktuelle, praktische Hinweise zur Nutzung von KI im internen Wiki bereitgestellt. In der Reihe IT-Talks werden regelmäßig Aspekte der Künstlichen Intelligenz in Webinaren oder Workshops vorgestellt. Ebenfalls für den internen Austausch aller Mitarbeitenden und Mitarbeiter steht ein Kommunikations-Kanal in Slack zur Verfügung.",
+      "text": "Darüber hinaus werden aktuelle, praktische Hinweise zur Nutzung von KI im internen Wiki bereitgestellt.",
       "repaired": false
     },
     {
-      "id": 23,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "id": 30,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "In der Reihe IT-Talks werden regelmäßig Aspekte der Künstlichen Intelligenz in Webinaren oder Workshops vorgestellt.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Ebenfalls für den internen Austausch aller Mitarbeitenden und Mitarbeiter steht ein Kommunikations-Kanal in Slack zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Diese Richtlinie wird mit der Freigabe durch die Generalsekretärin/den Generalsekretär für die Leibniz-Geschäftsstelle verbindlich.",
       "repaired": false
     },
     {
-      "id": 24,
-      "B": "B11",
+      "id": 33,
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "text": "Die Richtlinie wird mindestens einmal jährlich auf Aktualität geprüft und gegebenenfalls angepasst. Änderungsvorschläge können jederzeit an ki@leibniz-gemeinschaft.de gerichtet werden. Die Freigabe von Anpassungen der Richtlinie erfolgt durch die Generalsekretärin/den Generalsekretär.",
+      "text": "Die Richtlinie wird mindestens einmal jährlich auf Aktualität geprüft und gegebenenfalls angepasst.",
       "repaired": false
     },
     {
-      "id": 25,
-      "B": "B4",
-      "B_label": "principles/values",
+      "id": 34,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Änderungsvorschläge können jederzeit an ki@leibniz-gemeinschaft.de gerichtet werden.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Freigabe von Anpassungen der Richtlinie erfolgt durch die Generalsekretärin/den Generalsekretär.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "grundsätze für die nutzung von ki-systemen in der geschäftsstelle der leibniz-gemeinschaft gelten die folgenden grundsätze:",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 25,
-    "matched": 24,
+    "total": 36,
+    "matched": 35,
     "unmatched_count": 1,
     "unmatched": [
       {
-        "id": 25,
-        "B": "B4",
+        "id": 36,
+        "B": "B5",
         "matched_words": "5/15",
         "text": "grundsätze für die nutzung von ki-systemen in der geschäftsstelle der leibniz-gemeinschaft gelten die folgenden grundsätze:"
       }
     ],
-    "source_coverage": 0.732,
-    "uncovered_chars": 2371,
-    "uncovered_gaps": 9,
+    "source_coverage": 0.728,
+    "uncovered_chars": 2382,
+    "uncovered_gaps": 10,
     "uncovered": [
       {
         "char_start": 0,
@@ -216,6 +293,12 @@
         "char_end": 4719,
         "length": 19,
         "text": ". # 4. transparenz"
+      },
+      {
+        "char_start": 5201,
+        "char_end": 5212,
+        "length": 11,
+        "text": "beispiel:"
       },
       {
         "char_start": 5702,
@@ -263,8 +346,8 @@
       "char_start": 2047,
       "char_end": 2280,
       "text": "Die Geschäftsstelle der Leibniz-Gemeinschaft bekennt sich zur verantwortungsvollen Nutzung generativer Künstlicher Intelligenz (KI) bei der Unterstützung von Arbeitsprozessen und als Instrument zur Stärkung einer offenen Datenkultur.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -273,7 +356,7 @@
       "char_end": 2452,
       "text": "Als Teil der Digitalisierungsstrategie soll KI das Informationsmanagement fördern, die digitale Transformation beschleunigen und datenbasierte Entscheidungen unterstützen.",
       "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B_label": "scope/application of the document",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -281,8 +364,8 @@
       "char_start": 2454,
       "char_end": 2728,
       "text": "Mit dieser Richtlinie stärken wir eine innovationsfreundliche Arbeitskultur: Wir möchten die Mitarbeiterinnen und Mitarbeiter bei der dienstlichen Verwendung von KI-Systemen unterstützen und einen transparenten und rechtlich einwandfreien Umgang mit KI-Systemen ermöglichen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -300,17 +383,26 @@
       "char_end": 3005,
       "text": "Generative KI im Sinne dieser Richtlinie bezeichnet Systeme, die auf Basis großer Datenmengen trainiert wurden und in der Lage sind, auf Anfragen (Prompts) neue Inhalte wie Texte, Bilder, Tabellen oder Code zu erzeugen bzw. Datenanalysen vorzunehmen.",
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "segment_id": 4,
       "match_type": "exact"
     },
     {
       "char_start": 3007,
-      "char_end": 3358,
-      "text": "Large Language Models (LLM) sind generative KI-Systeme, die darauf spezialisiert sind, menschliche Sprache zu verarbeiten und zu erzeugen. Ein LLM kann Inhalte nicht verstehen. Basierend auf Trainingsdaten sagt es wahrscheinliche Wortfolgen vorher. Deshalb können LLMs auch „Halluzinationen“ erzeugen (plausibel klingende, aber falsche Informationen).",
-      "B": "B1",
-      "B_label": "definitions/terminology",
+      "char_end": 3145,
+      "text": "Large Language Models (LLM) sind generative KI-Systeme, die darauf spezialisiert sind, menschliche Sprache zu verarbeiten und zu erzeugen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3146,
+      "char_end": 3358,
+      "text": "Ein LLM kann Inhalte nicht verstehen. Basierend auf Trainingsdaten sagt es wahrscheinliche Wortfolgen vorher. Deshalb können LLMs auch „Halluzinationen“ erzeugen (plausibel klingende, aber falsche Informationen).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 6,
       "match_type": "exact"
     },
     {
@@ -324,11 +416,20 @@
     },
     {
       "char_start": 3493,
+      "char_end": 3788,
+      "text": "**Menschliche Verantwortung und Kontrolle:** Die menschlichen Nutzerinnen und Nutzer behalten stets die Verantwortung für KI-generierte Inhalte, da KI-Systeme über keine Fähigkeit zum Verständnis im menschlichen Sinne verfügen und Fehlinformationen produzieren können („Halluzinationen“, s. o.).",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3789,
       "char_end": 3962,
-      "text": "**Menschliche Verantwortung und Kontrolle:** Die menschlichen Nutzerinnen und Nutzer behalten stets die Verantwortung für KI-generierte Inhalte, da KI-Systeme über keine Fähigkeit zum Verständnis im menschlichen Sinne verfügen und Fehlinformationen produzieren können („Halluzinationen“, s. o.). KI-generierte Inhalte müssen auf sachliche Richtigkeit und Plausibilität überprüft werden. Die Überprüfung muss durch den Menschen erfolgen, nicht etwa durch eine andere KI.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 6,
+      "text": "KI-generierte Inhalte müssen auf sachliche Richtigkeit und Plausibilität überprüft werden. Die Überprüfung muss durch den Menschen erfolgen, nicht etwa durch eine andere KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
       "match_type": "exact"
     },
     {
@@ -342,11 +443,20 @@
     },
     {
       "char_start": 3966,
+      "char_end": 4120,
+      "text": "**Umgang mit Verzerrungen:** KI-generierte Inhalte müssen auf Verzerrungen und ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4121,
       "char_end": 4284,
-      "text": "**Umgang mit Verzerrungen:** KI-generierte Inhalte müssen auf Verzerrungen und ethisch bedenkliche Inhalte überprüft und gegebenenfalls korrigiert werden. Besonders zu achten ist etwa auf\n - Stereotype z.B. bei Übersetzungen und Bildgenerierung\n - Diskriminierung bestimmter Personengruppen\n - Einseitige Darstellungen",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 7,
+      "text": "Besonders zu achten ist etwa auf\n - Stereotype z.B. bei Übersetzungen und Bildgenerierung\n - Diskriminierung bestimmter Personengruppen\n - Einseitige Darstellungen",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
       "match_type": "exact"
     },
     {
@@ -362,9 +472,9 @@
       "char_start": 4288,
       "char_end": 4449,
       "text": "**Ressourcenschonung:** Die Nutzung von KI-Systemen ist ressourcenintensiv. Bei der Verwendung von KI sind finanzielle und ökologische Kosten zu berücksichtigen.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 8,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
       "match_type": "exact"
     },
     {
@@ -380,9 +490,9 @@
       "char_start": 4453,
       "char_end": 4663,
       "text": "**Unterstützung bei der Nutzung:** Neben dieser Richtlinie wird die Nutzung von KI-Systemen durch Informations-, Schulungs- und Austauschformate unterstützt (siehe hierzu Abschnitt 6. Schulungen und Austausch).",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 9,
+      "segment_id": 12,
       "match_type": "exact"
     },
     {
@@ -398,9 +508,9 @@
       "char_start": 4667,
       "char_end": 4757,
       "text": "**Keine Pflicht zur Nutzung:** Es besteht keine Verpflichtung zur Nutzung von KI-Systemen.",
-      "B": "B4",
-      "B_label": "principles/values",
-      "segment_id": 10,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
       "match_type": "exact"
     },
     {
@@ -416,27 +526,36 @@
       "char_start": 4777,
       "char_end": 4953,
       "text": "Bei der Verwendung von KI ist Transparenz erforderlich. Daher gilt eine Hinweispflicht, insbesondere wenn KI-Systeme für die Erarbeitung von Texten oder Bildern genutzt wurden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 11,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
       "match_type": "exact"
     },
     {
       "char_start": 4955,
       "char_end": 5269,
       "text": "Folgende Angaben sind zu machen:\n\n- Name, Version und Anbieter des verwendeten KI-Modells\n- Zeitraum der Nutzung\n- Bezeichnung des Zwecks der Verwendung (Textgenerierung, Zusammenfassung, Übersetzung, Recherche, Textüberarbeitung, etc.)\n- Hinweis auf diese Richtlinie der Leibniz-Geschäftsstelle zur Nutzung von KI",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
       "match_type": "exact"
     },
     {
-      "char_start": 5271,
+      "char_start": 5269,
+      "char_end": 5282,
+      "text": "\n\nBeispiel:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5282,
       "char_end": 5774,
-      "text": "Beispiel:\n\nDie Erstellung dieses Textes wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat durch die folgenden KI-Dienste unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft\", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 13,
+      "text": "Die Erstellung dieses Textes wurde im Zeitraum von Februar bis Juni 2025 bei der Generierung von Prompts, Text, zur Textanalyse, -strukturierung, und -optimierung und zum Lektorat durch die folgenden KI-Dienste unterstützt: ChatGPT o3-mini & GPT-4o von OpenAI, Claude Sonnet 3.5 & 3.7 von Anthropic. Dabei ist die „Richtlinie zur Nutzung generativer Künstlicher Intelligenz (KI) in der Geschäftsstelle der Leibniz-Gemeinschaft\", https://doi.org/10.5281/zenodo.15162387, berücksichtigt worden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
       "match_type": "exact"
     },
     {
@@ -450,20 +569,29 @@
     },
     {
       "char_start": 5801,
+      "char_end": 6100,
+      "text": "Um die Einhaltung rechtlicher Rahmenbedingungen, insbesondere bezüglich Datenschutz und Vertraulichkeit, zu gewährleisten und zu verhindern, dass Daten zu Trainingszwecken für KI-Systeme verwendet werden, sind ausschließlich die von der Leibniz-Geschäftsstelle bereitgestellten KI-Dienste zu nutzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6101,
       "char_end": 6179,
-      "text": "Um die Einhaltung rechtlicher Rahmenbedingungen, insbesondere bezüglich Datenschutz und Vertraulichkeit, zu gewährleisten und zu verhindern, dass Daten zu Trainingszwecken für KI-Systeme verwendet werden, sind ausschließlich die von der Leibniz-Geschäftsstelle bereitgestellten KI-Dienste zu nutzen. Diese sind über das KI-Portal zu erreichen: https://leibniz.eu.typingcloud.com",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 14,
+      "text": "Diese sind über das KI-Portal zu erreichen: https://leibniz.eu.typingcloud.com",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
       "match_type": "exact"
     },
     {
       "char_start": 6181,
       "char_end": 6342,
       "text": "Sofern weitere zulässige KI- bzw. Cloud-Dienste (wie deepL Pro u.a.) verwendet werden sollen, sind Accounts bei der IT der Leibniz-Geschäftsstelle zu beantragen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
       "match_type": "exact"
     },
     {
@@ -477,29 +605,56 @@
     },
     {
       "char_start": 6385,
-      "char_end": 6873,
-      "text": "Bei der Nutzung von KI-Systemen sind die Regelungen der Datenschutzgrundverordnung (DSGVO) und damit der Schutz personenbezogener Daten zu beachten:\n\n- Keine Übermittlung personenbezogener Daten im Sinne des Art. 4 (1) DSGVO (Ausnahme: bereits öffentlich bekannte Daten)\n- Vollständige Anonymisierung von personenbezogenen Daten vor der Verarbeitung\n- Keine Übermittlung vertraulicher Informationen (Betriebs- und Geschäftsgeheimnisse, geistiges Eigentum) oder sicherheitsrelevanter Daten",
+      "char_end": 6533,
+      "text": "Bei der Nutzung von KI-Systemen sind die Regelungen der Datenschutzgrundverordnung (DSGVO) und damit der Schutz personenbezogener Daten zu beachten:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6535,
+      "char_end": 6655,
+      "text": "- Keine Übermittlung personenbezogener Daten im Sinne des Art. 4 (1) DSGVO (Ausnahme: bereits öffentlich bekannte Daten)",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 16,
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6656,
+      "char_end": 6734,
+      "text": "- Vollständige Anonymisierung von personenbezogenen Daten vor der Verarbeitung",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6735,
+      "char_end": 6873,
+      "text": "- Keine Übermittlung vertraulicher Informationen (Betriebs- und Geschäftsgeheimnisse, geistiges Eigentum) oder sicherheitsrelevanter Daten",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 23,
       "match_type": "exact"
     },
     {
       "char_start": 6875,
       "char_end": 7186,
       "text": "Beispiele für zulässige Nutzungen:\n- Textzusammenfassungen, sofern die zusammenzufassenden Texte keine personenbezogenen Daten enthalten\n- Erstellung bzw. Überarbeitung von Vorlagen oder Protokollen, sofern keine personenbezogenen Daten verwendet werden\n- Datenanalyse mit vollständig anonymisierten Datensätzen",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
-      "segment_id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 24,
       "match_type": "exact"
     },
     {
       "char_start": 7188,
       "char_end": 7460,
       "text": "Beispiele für unzulässige Nutzungen:\n- Hochladen von Lebensläufen zur Analyse oder Optimierung\n- Eingabe von Mitarbeiterbewertungen oder Informationen aus Personalakten\n- Verwendung von Dokumenten mit schutzwürdigem geistigen Eigentum (s. auch Abschnitt 5.2. Urheberrecht)",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
-      "segment_id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 25,
       "match_type": "exact"
     },
     {
@@ -515,18 +670,18 @@
       "char_start": 7484,
       "char_end": 7613,
       "text": "Die Nutzerinnen und Nutzer von KI-Systemen sind verantwortlich für die Einhaltung der gesetzlichen urheberrechtlichen Regelungen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 26,
       "match_type": "exact"
     },
     {
       "char_start": 7615,
       "char_end": 7900,
       "text": "Bei der Nutzung von KI-Systemen ist zu beachten:\n- Input (eingegebene Inhalte) und Output (KI-generierte Inhalte) sind unter urheberrechtlichen Gesichtspunkten zu prüfen.\n- Gemeinfreie Werke, Creative Commons-lizenzierte Dokumente und Werke ohne Schöpfungshöhe dürfen verwendet werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
       "match_type": "exact"
     },
     {
@@ -542,18 +697,36 @@
       "char_start": 7933,
       "char_end": 8226,
       "text": "Gemäß der EU-KI-Verordnung müssen Mitarbeiterinnen und Mitarbeiter, die KI-Systeme nutzen, zuvor entsprechend geschult werden. Die IT der Leibniz-Geschäftsstelle bietet hierfür Schulungen an, in denen die Gegenstände dieser Richtlinie vertieft und die Verwendung des KI-Portals erklärt werden.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 21,
+      "segment_id": 28,
       "match_type": "exact"
     },
     {
       "char_start": 8228,
-      "char_end": 8577,
-      "text": "Darüber hinaus werden aktuelle, praktische Hinweise zur Nutzung von KI im internen Wiki bereitgestellt. In der Reihe IT-Talks werden regelmäßig Aspekte der Künstlichen Intelligenz in Webinaren oder Workshops vorgestellt. Ebenfalls für den internen Austausch aller Mitarbeitenden und Mitarbeiter steht ein Kommunikations-Kanal in Slack zur Verfügung.",
-      "B": "B10",
+      "char_end": 8331,
+      "text": "Darüber hinaus werden aktuelle, praktische Hinweise zur Nutzung von KI im internen Wiki bereitgestellt.",
+      "B": "B11",
       "B_label": "training/support/learning resources",
-      "segment_id": 22,
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8332,
+      "char_end": 8448,
+      "text": "In der Reihe IT-Talks werden regelmäßig Aspekte der Künstlichen Intelligenz in Webinaren oder Workshops vorgestellt.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8449,
+      "char_end": 8577,
+      "text": "Ebenfalls für den internen Austausch aller Mitarbeitenden und Mitarbeiter steht ein Kommunikations-Kanal in Slack zur Verfügung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 31,
       "match_type": "exact"
     },
     {
@@ -569,18 +742,36 @@
       "char_start": 8628,
       "char_end": 8759,
       "text": "Diese Richtlinie wird mit der Freigabe durch die Generalsekretärin/den Generalsekretär für die Leibniz-Geschäftsstelle verbindlich.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 23,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 32,
       "match_type": "exact"
     },
     {
       "char_start": 8761,
-      "char_end": 9046,
-      "text": "Die Richtlinie wird mindestens einmal jährlich auf Aktualität geprüft und gegebenenfalls angepasst. Änderungsvorschläge können jederzeit an ki@leibniz-gemeinschaft.de gerichtet werden. Die Freigabe von Anpassungen der Richtlinie erfolgt durch die Generalsekretärin/den Generalsekretär.",
-      "B": "B11",
+      "char_end": 8860,
+      "text": "Die Richtlinie wird mindestens einmal jährlich auf Aktualität geprüft und gegebenenfalls angepasst.",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
-      "segment_id": 24,
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8861,
+      "char_end": 8945,
+      "text": "Änderungsvorschläge können jederzeit an ki@leibniz-gemeinschaft.de gerichtet werden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8946,
+      "char_end": 9046,
+      "text": "Die Freigabe von Anpassungen der Richtlinie erfolgt durch die Generalsekretärin/den Generalsekretär.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 35,
       "match_type": "exact"
     }
   ]

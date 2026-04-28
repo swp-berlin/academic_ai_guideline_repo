@@ -3,49 +3,49 @@
   "segments": [
     {
       "id": 1,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die Anwendung generativer Künstlicher Intelligenz (genKI) in der Forschung bietet viele Chancen, die jedoch mit Risiken abgewogen werden müssen.",
       "repaired": false
     },
     {
       "id": 2,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Die Universität Freiburg hat im Einklang mit ihrem Leitbild und dem Struktur- und Entwicklungsplan „Digitale Transformation gestalten“ (2023, 1.), in Anlehnung an die „Living guidelines on the responsible use of generative AI in research“ der EU-Kommission (2024, 2.) und an die Leitlinien der Deutschen Forschungsgemeinschaft (2023, 3.) zum Umgang mit generativen Modellen zur Text- und Bilderstellung, die vorliegende Policy entwickelt.",
       "repaired": false
     },
     {
       "id": 3,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Dieses Dokument wurde im Nachgang der Veranstaltung „ChatGPT – KITools in der Forschung“ (2023, 4.) basierend auf den dort diskutierten Punkten erstellt.",
       "repaired": false
     },
     {
       "id": 4,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Ein verantwortungsvoller und informierter Umgang mit genKI soll Missbrauch verhindern und sicherstellen, dass KI in allen Forschungsprozessen sinnvoll und gewinnbringend eingesetzt wird.",
       "repaired": false
     },
     {
       "id": 5,
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "text": "Mit dieser Policy möchten wir für einen bewussten Umgang mit genKI im Forschungskontext sensibilisieren und Empfehlungen zum Umgang mit entsprechenden Tools geben.",
       "repaired": false
     },
     {
       "id": 6,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Für den Gebrauch von KI-basierten Werkzeugen in Studium und Lehre sowie in der Verwaltung werden aktuell Richtlinien entwickelt.",
       "repaired": false
     },
     {
       "id": 7,
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "text": "Diese Policy muss als Momentaufnahme verstanden werden, da die Entwicklung der KI zum aktuellen Zeitpunkt nur schwer abschätzbar ist und sicherlich Änderungen notwendig werden. Daher wird dieses Dokument regelmäßig aktualisiert.",
       "repaired": false
@@ -53,383 +53,404 @@
     {
       "id": 8,
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "Was ist unter generativer Künstlicher Intelligenz zu verstehen?",
       "repaired": false
     },
     {
       "id": 9,
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "text": "Der Begriff „generative KI“ beschreibt KI-Systeme, die in der Lage sind, auf Anfragen (Prompts) neuartige Inhalte selbstständig zu erstellen. Diese Systeme lernen aus Daten, die sie während ihrer Trainingsphase erhalten haben, und nutzen diese Informationen, um Ausgaben zu erzeugen. Grundlage dafür sind sogenannte Large Language Modelle (LLMs), die mit sehr großen Datenmengen und sehr aufwändigen Berechnungen erstellt wurden.",
       "repaired": false
     },
     {
       "id": 10,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Die Nutzung von genKI bei der Text- und Datenverarbeitung bietet die Möglichkeit, Texte, Bilder, Videos und Code schnell und komfortabel zu erstellen.",
       "repaired": false
     },
     {
       "id": 11,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "So sind ChatBots, die auf generativen Sprachmodellen basieren, wie beispielsweise ChatGPT oder You.com, sehr gut darin, Texte zu erstellen – mit einem breiten Anwendungsspektrum von Literaturrecherchen bis zur Generation von Programmcode bzw. der Fehlersuche darin.",
       "repaired": false
     },
     {
       "id": 12,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "KI-basierte Annotation von Audio-/Videoaufnahmen bzw. Synchronübersetzung finden bereits vielfach Anwendung.",
       "repaired": false
     },
     {
       "id": 13,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Das Extrahieren von Daten aus (multiplen) Publikationen und deren Zusammenfassung gelingt mittels LLMs sehr leicht und schnell.",
       "repaired": false
     },
     {
       "id": 14,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Als Übersetzungs-Tool bieten LLMs potenziell Nachteilsausgleich für Forschende, die der zu verwendenden Sprache weniger mächtig sind.",
       "repaired": false
     },
     {
       "id": 15,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Risiken bestehen darin, dass genKI nicht neutral ist, sondern (herabsetzende) Diskriminierungen aufgrund der Trainingsdaten enthalten kann (sogenannte „biases“), oder plausibel formulierte fehlerhafte Antworten gibt, die nicht den Tatsachen entsprechen (sogenannte „Halluzinationen“).",
       "repaired": false
     },
     {
       "id": 16,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Dies fördert unter Umständen die Erstellung und Verbreitung von Falschinformation.",
       "repaired": false
     },
     {
       "id": 17,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Des Weiteren stellt wissenschaftliches Fehlverhalten etwa durch Verschweigen der genKI Anwendung ein Missbrauchsrisiko dar, sowie die etwaige Verletzung von geistigem Eigentum.",
       "repaired": false
     },
     {
       "id": 18,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Die sprachliche Qualität der erzeugten Ergebnisse ist oftmals so gut, dass die Ergebnisse kaum von durch Menschen erzeugten Inhalten zu unterscheiden sind.",
       "repaired": false
     },
     {
       "id": 19,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Weitere Risiken für die Forschung können sich aus der mangelnden Offenheit von Tools, den Gebühren für den Zugriff auf den Dienst, die Verwendung von unbekannten Eingabedaten oder durch die Konzentration auf wenige Anbieter ergeben.",
       "repaired": false
     },
     {
       "id": 20,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Wissenschaftler*innen sollen offenlegen, welche KI-Systeme sie benutzt haben und deren Beiträge klar kennzeichnen.",
       "repaired": false
     },
     {
       "id": 21,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Wissenschaftler*innen tragen weiterhin die Verantwortung für die Richtigkeit der erzeugten Daten, Texte und Ergebnisse, auch wenn diese KI-generiert oder -basiert sind.",
       "repaired": false
     },
     {
       "id": 22,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Es muss kenntlich gemacht werden, wenn Daten und darauf aufbauende Ergebnisse KI-generiert sind.",
       "repaired": false
     },
     {
       "id": 23,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Herkunft und Verwendung der genutzten Methoden, KI-Systeme und Datenquellen müssen vollständig dokumentiert werden, optimalerweise so, dass die Ergebnisse reproduziert werden können.",
       "repaired": false
     },
     {
       "id": 24,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Bei Lösungen, die nur über API (Application Programming Interface) ansprechbar sind (wie z. B. ChatGPT) ist eine Reproduzierbarkeit allerdings nicht immer gegeben, denn der Service ändert sich über die Zeit, und der stochastische Charakter von LLMs kann zu unterschiedlichen Ausgaben führen.",
       "repaired": false
     },
     {
       "id": 25,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Wissenschaftler*innen müssen sicherstellen, dass ihre Ergebnisse wissenschaftlich fundiert sind und sollen potenzielle Schadensszenarien bedenken und ggf. vermeiden.",
       "repaired": false
     },
     {
       "id": 26,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Die Anwendung von genKI birgt auch das Risiko von Biases (Verzerrungen), die zu diskriminierenden Entscheidungen führen können.",
       "repaired": false
     },
     {
       "id": 27,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Im Zusammenhang mit verwendeten Trainingsdaten muss systematischer Bias, der durch gesellschaftliche Bedingungen, in denen bestimmte Vorurteile in den Daten inhärent sind, vermieden werden.",
       "repaired": false
     },
     {
       "id": 28,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Bias während des Prozesses der Datenerfassung oder Datenannotation oder bei der Wahl des Algorithmus oder des Systemdesigns muss minimiert werden.",
       "repaired": false
     },
     {
       "id": 29,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Das Committee on Publication Ethics (2023, 5.) stellt klar, dass KI-Systeme keine Autor*innen bei wissenschaftlichen Publikationen sein können, u. a. weil sie keine juristischen Personen sind.",
       "repaired": false
     },
     {
       "id": 30,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Die Benutzung von KI Tools muss transparent im Methodenteil von Publikationen angegeben werden.",
       "repaired": false
     },
     {
       "id": 31,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "In wissenschaftlichen Publikationen können nur die verantwortlich handelnden natürlichen Personen als Autor*innen in Erscheinung treten.",
       "repaired": false
     },
     {
       "id": 32,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "Sie müssen sicherstellen, dass durch die Verwendung generativer Modelle kein fremdes geistiges Eigentum verletzt wird und kein wissenschaftliches Fehlverhalten etwa in Form von Plagiaten entsteht.",
       "repaired": false
     },
     {
       "id": 33,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "An dieser Stelle sei auf die Ordnung der Albert-Ludwigs-Universität zur Sicherung der Redlichkeit in der Wissenschaft (2022, 6.) hingewiesen.",
       "repaired": false
     },
     {
       "id": 34,
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "text": "Das Potenzial für die Erzeugung von Texten, z. B. als Vorlage für Modifikationen durch die Autor*innen, kann genutzt werden, solange dies dokumentiert wird und die Autor*innen die Verantwortung für die Inhalte, Ergebnisse (wie Codes) und Quellenangaben übernehmen.",
       "repaired": false
     },
     {
       "id": 35,
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Bei Publikationen müssen die Rechte von Verlagen bzw. Urheber*innen beachtet werden, z. B. wenn Daten an kommerzielle Anbieter gegeben werden.",
       "repaired": false
     },
     {
       "id": 36,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Es ist kritisch zu bewerten, ob eine Weitergabe von Daten unentgeltlich sein kann, wenn es sich um einen kommerziellen Anbieter handelt.",
       "repaired": false
     },
     {
       "id": 37,
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "text": "Der Einsatz von generativen Modellen bei der Antragstellung bei der DFG ist nach Einschätzung der DFG als solcher grundsätzlich weder positiv noch negativ zu bewerten.",
       "repaired": false
     },
     {
       "id": 38,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Bei der Erstellung von Gutachten verbietet die DFG (2023, 3.) jedoch den Einsatz von generativen Modellen mit Blick auf die Vertraulichkeit des Begutachtungsverfahrens.",
       "repaired": false
     },
     {
       "id": 39,
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "text": "Zur Begutachtung bereitgestellte Unterlagen sind vertraulich und dürfen insbesondere nicht als Eingabe für generative Modelle genutzt werden.",
       "repaired": false
     },
     {
       "id": 40,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Siehe auch Abschnitt „Autorenschaft in Publikationen im Zusammenhang mit KI“ dieser Policy.",
       "repaired": false
     },
     {
       "id": 41,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Der verantwortungsvolle Einsatz und die Weiterentwicklung generativer KI sollte die Grenzen der Technologie, ihre Auswirkungen auf die Umwelt und ihre gesellschaftlichen Auswirkungen berücksichtigen.",
       "repaired": false
     },
     {
       "id": 42,
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Basierend auf den freiheitlich-demokratischen Grundwerten ist auch bei der Entwicklung und Verwendung von genKI Diskriminierung zu vermeiden, Vielfalt und Fairness zu gewährleisten und Schaden für Leib, Leben und Umwelt abzuwenden.",
       "repaired": false
     },
     {
       "id": 43,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Nicht zuletzt ist der Energieverbrauch bei Nutzung von KI Systemen, die vor allem für das Training viel Rechenleistung benötigen, zu bedenken.",
       "repaired": false
     },
     {
       "id": 44,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "text": "Wissenschaftler*innen sollen bei Nutzung von genKI ethische Grundsätze beachten.",
       "repaired": false
     },
     {
       "id": 45,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "text": "Ihnen muss auch bei der Verwendung oder Entwicklung von KI-Tools das Missbrauchsrisiko bewusst sein.",
       "repaired": false
     },
     {
       "id": 46,
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "text": "Dazu gehören auch Missbrauchsszenarien für unerlaubte militärische Nutzung oder Nutzung für Straftaten (Dual Use Research of Concern).",
       "repaired": false
     },
     {
       "id": 47,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "In Zweifelsfällen, insbesondere in Fällen mit hohem Missbrauchsrisiko, sollten sich Wissenschaftler*innen an die Kommission für Verantwortung in der Forschung (KVF) wenden, die solche Fragen interdisziplinär erörtert und die Forschenden beraten kann.",
       "repaired": false
     },
     {
       "id": 48,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Die Einhaltung der Datenschutzbestimmungen und der Schutz der Rechte an geistigem Eigentum durch verantwortungsvollen und angemessenen Umgang mit personenbezogenen Daten muss gewährleistet sein.",
       "repaired": false
     },
     {
       "id": 49,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "Außerdem sind Vorgaben des Exportkontrollrechts einzuhalten, wenn grenzüberschreitend publiziert oder geforscht wird, und ggf. Vorgaben des Medizinproduktrechts zu beachten.",
       "repaired": false
     },
     {
       "id": 50,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "KI Tools an der Universität Freiburg (Intranet-Zugang benötigt)",
       "repaired": false
     },
     {
       "id": 51,
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "text": "Die Universität Freiburg ermöglicht ihren Mitgliedern einen datenschutzkonformen Zugang zu generativer KI.",
       "repaired": false
     },
     {
       "id": 52,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Forschung und Innovation in der EU zu KI",
       "repaired": false
     },
     {
       "id": 53,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "Die Kommission und die Länder des Europäischen Forschungsraums und die Interessenträger haben gemeinsam eine Reihe von Leitlinien vorgelegt, um die europäische Forschungsgemeinschaft bei der verantwortungsvollen Nutzung generativer künstlicher Intelligenz (KI) zu unterstützen (2.).",
       "repaired": false
     },
     {
       "id": 54,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "text": "EU-Gesetz zur KI",
       "repaired": false
     },
     {
       "id": 55,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Das „EU-Gesetz zur Künstlichen Intelligenz“ (EU AI Act, 2024, 7.) trägt der rasanten technologischen Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein. Mithilfe des EU AI Acts sollen verlässliche Rahmenbedingungen bei der Erforschung und Anwendung von KI geschaffen werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Das „EU-Gesetz zur Künstlichen Intelligenz“ (EU AI Act, 2024, 7.) trägt der rasanten technologischen Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein.",
       "repaired": false
     },
     {
       "id": 56,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Internationale Konferenz Maschinelles Lernen",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Mithilfe des EU AI Acts sollen verlässliche Rahmenbedingungen bei der Erforschung und Anwendung von KI geschaffen werden.",
       "repaired": false
     },
     {
       "id": 57,
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "text": "Fünf Prinzipien sollen die menschliche Verantwortung in der Forschung weiterhin sichern, wie jetzt eine interdisziplinäre Arbeitsgruppe mit Mitgliedern aus Politik, Unternehmen und Wissenschaft in Proceedings of the National Academies of Sciences (PNAS) fordert (2024, 8.).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Internationale Konferenz Maschinelles Lernen",
       "repaired": false
     },
     {
       "id": 58,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Fünf Prinzipien sollen die menschliche Verantwortung in der Forschung weiterhin sichern, wie jetzt eine interdisziplinäre Arbeitsgruppe mit Mitgliedern aus Politik, Unternehmen und Wissenschaft in Proceedings of the National Academies of Sciences (PNAS) fordert (2024, 8.).",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Als Vorlage für den Abschnitt „Empfehlungen für Wissenschaftler*innen an der Universität Freiburg“ wurden einzelne Textblöcke am 09.07.2024 von ChatGPT (GPT-4o) erstellt.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Hinweise von Senatsmitgliedern wurden in der Folge der Beschlussfassung am 18.12.2024 in diese Version integriert.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "verantwortungsvollen einsatz von genki fördern und unterstützen",
       "repaired": true
     },
     {
-      "id": 59,
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "text": "einhaltung von rechtlichen anforderungen",
       "repaired": true
     },
     {
-      "id": 60,
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "id": 63,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "text": "autorenschaft in publikationen im zusammenhang mit ki",
       "repaired": true
     }
   ],
   "validation": {
-    "total": 60,
-    "matched": 60,
+    "total": 63,
+    "matched": 63,
     "unmatched_count": 0,
     "unmatched": [],
-    "source_coverage": 0.79,
-    "uncovered_chars": 2477,
-    "uncovered_gaps": 11,
+    "source_coverage": 0.813,
+    "uncovered_chars": 2193,
+    "uncovered_gaps": 12,
     "uncovered": [
       {
         "char_start": 0,
@@ -493,9 +514,15 @@
       },
       {
         "char_start": 10427,
+        "char_end": 10895,
+        "length": 468,
+        "text": ". liste der beitragenden prof. dr. stefan rensing, prorektor für forschung und innovation prof. dr. stefan günther, chief information officer prof. dr. frank hutter, professur für maschinelles lernen prof. dr. silja vöneky, professur für öffentliches recht, völkerrecht, rechtsethik und rechtsvergleichung und vorsitzende der kommission für verantwortung in der forschung dr. marc herbstritt, informationssicherheitsbeauftragter klaus scharpf, datenschutzbeauftragter"
+      },
+      {
+        "char_start": 11179,
         "char_end": 12202,
-        "length": 1775,
-        "text": ". liste der beitragenden prof. dr. stefan rensing, prorektor für forschung und innovation prof. dr. stefan günther, chief information officer prof. dr. frank hutter, professur für maschinelles lernen prof. dr. silja vöneky, professur für öffentliches recht, völkerrecht, rechtsethik und rechtsvergleichung und vorsitzende der kommission für verantwortung in der forschung dr. marc herbstritt, informationssicherheitsbeauftragter klaus scharpf, datenschutzbeauftragter als vorlage für den abschnitt „empfehlungen für wissenschaftler*innen an der universität freiburg\" wurden einzelne textblöcke am 09.07.2024 von chatgpt (gpt-4o) erstellt. hinweise von senatsmitgliedern wurden in der folge der beschlussfassung am 18.12.2024 in diese version integriert. ansprechpartner*innen prof. dr. stefan rensing, prorektor für forschung und innovation n.n., chief information officer quellenverzeichnis 1. jahresbericht der universität freiburg 2023, s. 7 2. living guidelines on the responsible use of generative ai in research (märz 2024) 3. stellungnahme des präsidiums der deutschen forschungsgemeinschaft (dfg) zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg (september 2023) 4. chatgpt - ki-tools in der forschung (oktober 2023) 5. committee on publication ethics (cope) (2023) 6. ordnung der albert-ludwigs-universität zur sicherung der redlichkeit in der wissenschaft, amtliche bekanntmachungen jahrgang 53, nr. 31, s. 148ff (1. juni 2022) 7. ki-gesetz der europäischen kommission (2024) 8. blau, wolfgang. et al. (2024), protecting scientific integrity in an age of generative ai, vol. 121 (22) e2407886121, pnas. dieses werk ist unter einer creative commons namensnennung 4.0 international lizenz lizenziert"
+        "length": 1023,
+        "text": ". ansprechpartner*innen prof. dr. stefan rensing, prorektor für forschung und innovation n.n., chief information officer quellenverzeichnis 1. jahresbericht der universität freiburg 2023, s. 7 2. living guidelines on the responsible use of generative ai in research (märz 2024) 3. stellungnahme des präsidiums der deutschen forschungsgemeinschaft (dfg) zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg (september 2023) 4. chatgpt - ki-tools in der forschung (oktober 2023) 5. committee on publication ethics (cope) (2023) 6. ordnung der albert-ludwigs-universität zur sicherung der redlichkeit in der wissenschaft, amtliche bekanntmachungen jahrgang 53, nr. 31, s. 148ff (1. juni 2022) 7. ki-gesetz der europäischen kommission (2024) 8. blau, wolfgang. et al. (2024), protecting scientific integrity in an age of generative ai, vol. 121 (22) e2407886121, pnas. dieses werk ist unter einer creative commons namensnennung 4.0 international lizenz lizenziert"
       }
     ]
   },
@@ -513,8 +540,8 @@
       "char_start": 208,
       "char_end": 352,
       "text": "Die Anwendung generativer Künstlicher Intelligenz (genKI) in der Forschung bietet viele Chancen, die jedoch mit Risiken abgewogen werden müssen.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 1,
       "match_type": "exact"
     },
@@ -522,8 +549,8 @@
       "char_start": 353,
       "char_end": 791,
       "text": "Die Universität Freiburg hat im Einklang mit ihrem Leitbild und dem Struktur- und Entwicklungsplan „Digitale Transformation gestalten“ (2023, 1.), in Anlehnung an die „Living guidelines on the responsible use of generative AI in research“ der EU-Kommission (2024, 2.) und an die Leitlinien der Deutschen Forschungsgemeinschaft (2023, 3.) zum Umgang mit generativen Modellen zur Text- und Bilderstellung, die vorliegende Policy entwickelt.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 2,
       "match_type": "exact"
     },
@@ -531,8 +558,8 @@
       "char_start": 792,
       "char_end": 945,
       "text": "Dieses Dokument wurde im Nachgang der Veranstaltung „ChatGPT – KITools in der Forschung“ (2023, 4.) basierend auf den dort diskutierten Punkten erstellt.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 3,
       "match_type": "exact"
     },
@@ -540,8 +567,8 @@
       "char_start": 947,
       "char_end": 1133,
       "text": "Ein verantwortungsvoller und informierter Umgang mit genKI soll Missbrauch verhindern und sicherstellen, dass KI in allen Forschungsprozessen sinnvoll und gewinnbringend eingesetzt wird.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 4,
       "match_type": "exact"
     },
@@ -549,8 +576,8 @@
       "char_start": 1134,
       "char_end": 1297,
       "text": "Mit dieser Policy möchten wir für einen bewussten Umgang mit genKI im Forschungskontext sensibilisieren und Empfehlungen zum Umgang mit entsprechenden Tools geben.",
-      "B": "B3",
-      "B_label": "purpose/rationale/document status",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
       "segment_id": 5,
       "match_type": "exact"
     },
@@ -558,8 +585,8 @@
       "char_start": 1298,
       "char_end": 1426,
       "text": "Für den Gebrauch von KI-basierten Werkzeugen in Studium und Lehre sowie in der Verwaltung werden aktuell Richtlinien entwickelt.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 6,
       "match_type": "exact"
     },
@@ -567,7 +594,7 @@
       "char_start": 1428,
       "char_end": 1656,
       "text": "Diese Policy muss als Momentaufnahme verstanden werden, da die Entwicklung der KI zum aktuellen Zeitpunkt nur schwer abschätzbar ist und sicherlich Änderungen notwendig werden. Daher wird dieses Dokument regelmäßig aktualisiert.",
-      "B": "B11",
+      "B": "B12",
       "B_label": "monitoring/revision/updating",
       "segment_id": 7,
       "match_type": "exact"
@@ -586,7 +613,7 @@
       "char_end": 1900,
       "text": "Was ist unter generativer Künstlicher Intelligenz zu verstehen?",
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "segment_id": 8,
       "match_type": "exact"
     },
@@ -595,7 +622,7 @@
       "char_end": 2330,
       "text": "Der Begriff „generative KI“ beschreibt KI-Systeme, die in der Lage sind, auf Anfragen (Prompts) neuartige Inhalte selbstständig zu erstellen. Diese Systeme lernen aus Daten, die sie während ihrer Trainingsphase erhalten haben, und nutzen diese Informationen, um Ausgaben zu erzeugen. Grundlage dafür sind sogenannte Large Language Modelle (LLMs), die mit sehr großen Datenmengen und sehr aufwändigen Berechnungen erstellt wurden.",
       "B": "B1",
-      "B_label": "definitions/terminology",
+      "B_label": "definition of AI",
       "segment_id": 9,
       "match_type": "exact"
     },
@@ -612,8 +639,8 @@
       "char_start": 2359,
       "char_end": 2509,
       "text": "Die Nutzung von genKI bei der Text- und Datenverarbeitung bietet die Möglichkeit, Texte, Bilder, Videos und Code schnell und komfortabel zu erstellen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 10,
       "match_type": "exact"
     },
@@ -621,8 +648,8 @@
       "char_start": 2510,
       "char_end": 2775,
       "text": "So sind ChatBots, die auf generativen Sprachmodellen basieren, wie beispielsweise ChatGPT oder You.com, sehr gut darin, Texte zu erstellen – mit einem breiten Anwendungsspektrum von Literaturrecherchen bis zur Generation von Programmcode bzw. der Fehlersuche darin.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 11,
       "match_type": "exact"
     },
@@ -630,8 +657,8 @@
       "char_start": 2776,
       "char_end": 2884,
       "text": "KI-basierte Annotation von Audio-/Videoaufnahmen bzw. Synchronübersetzung finden bereits vielfach Anwendung.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 12,
       "match_type": "exact"
     },
@@ -639,8 +666,8 @@
       "char_start": 2885,
       "char_end": 3012,
       "text": "Das Extrahieren von Daten aus (multiplen) Publikationen und deren Zusammenfassung gelingt mittels LLMs sehr leicht und schnell.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 13,
       "match_type": "exact"
     },
@@ -648,8 +675,8 @@
       "char_start": 3013,
       "char_end": 3146,
       "text": "Als Übersetzungs-Tool bieten LLMs potenziell Nachteilsausgleich für Forschende, die der zu verwendenden Sprache weniger mächtig sind.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 14,
       "match_type": "exact"
     },
@@ -657,7 +684,7 @@
       "char_start": 3148,
       "char_end": 3432,
       "text": "Risiken bestehen darin, dass genKI nicht neutral ist, sondern (herabsetzende) Diskriminierungen aufgrund der Trainingsdaten enthalten kann (sogenannte „biases“), oder plausibel formulierte fehlerhafte Antworten gibt, die nicht den Tatsachen entsprechen (sogenannte „Halluzinationen“).",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 15,
       "match_type": "exact"
@@ -666,7 +693,7 @@
       "char_start": 3433,
       "char_end": 3515,
       "text": "Dies fördert unter Umständen die Erstellung und Verbreitung von Falschinformation.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 16,
       "match_type": "exact"
@@ -675,7 +702,7 @@
       "char_start": 3516,
       "char_end": 3692,
       "text": "Des Weiteren stellt wissenschaftliches Fehlverhalten etwa durch Verschweigen der genKI Anwendung ein Missbrauchsrisiko dar, sowie die etwaige Verletzung von geistigem Eigentum.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 17,
       "match_type": "exact"
@@ -684,7 +711,7 @@
       "char_start": 3693,
       "char_end": 3848,
       "text": "Die sprachliche Qualität der erzeugten Ergebnisse ist oftmals so gut, dass die Ergebnisse kaum von durch Menschen erzeugten Inhalten zu unterscheiden sind.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 18,
       "match_type": "exact"
@@ -693,7 +720,7 @@
       "char_start": 3849,
       "char_end": 4081,
       "text": "Weitere Risiken für die Forschung können sich aus der mangelnden Offenheit von Tools, den Gebühren für den Zugriff auf den Dienst, die Verwendung von unbekannten Eingabedaten oder durch die Konzentration auf wenige Anbieter ergeben.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 19,
       "match_type": "exact"
@@ -711,8 +738,8 @@
       "char_start": 4162,
       "char_end": 4276,
       "text": "Wissenschaftler*innen sollen offenlegen, welche KI-Systeme sie benutzt haben und deren Beiträge klar kennzeichnen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 20,
       "match_type": "exact"
     },
@@ -729,8 +756,8 @@
       "char_start": 4315,
       "char_end": 4483,
       "text": "Wissenschaftler*innen tragen weiterhin die Verantwortung für die Richtigkeit der erzeugten Daten, Texte und Ergebnisse, auch wenn diese KI-generiert oder -basiert sind.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 21,
       "match_type": "exact"
     },
@@ -747,8 +774,8 @@
       "char_start": 4517,
       "char_end": 4613,
       "text": "Es muss kenntlich gemacht werden, wenn Daten und darauf aufbauende Ergebnisse KI-generiert sind.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 22,
       "match_type": "exact"
     },
@@ -756,8 +783,8 @@
       "char_start": 4614,
       "char_end": 4796,
       "text": "Herkunft und Verwendung der genutzten Methoden, KI-Systeme und Datenquellen müssen vollständig dokumentiert werden, optimalerweise so, dass die Ergebnisse reproduziert werden können.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 23,
       "match_type": "exact"
     },
@@ -765,7 +792,7 @@
       "char_start": 4797,
       "char_end": 5088,
       "text": "Bei Lösungen, die nur über API (Application Programming Interface) ansprechbar sind (wie z. B. ChatGPT) ist eine Reproduzierbarkeit allerdings nicht immer gegeben, denn der Service ändert sich über die Zeit, und der stochastische Charakter von LLMs kann zu unterschiedlichen Ausgaben führen.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 24,
       "match_type": "exact"
@@ -783,8 +810,8 @@
       "char_start": 5123,
       "char_end": 5288,
       "text": "Wissenschaftler*innen müssen sicherstellen, dass ihre Ergebnisse wissenschaftlich fundiert sind und sollen potenzielle Schadensszenarien bedenken und ggf. vermeiden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 25,
       "match_type": "exact"
     },
@@ -792,7 +819,7 @@
       "char_start": 5289,
       "char_end": 5416,
       "text": "Die Anwendung von genKI birgt auch das Risiko von Biases (Verzerrungen), die zu diskriminierenden Entscheidungen führen können.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 26,
       "match_type": "exact"
@@ -801,8 +828,8 @@
       "char_start": 5417,
       "char_end": 5606,
       "text": "Im Zusammenhang mit verwendeten Trainingsdaten muss systematischer Bias, der durch gesellschaftliche Bedingungen, in denen bestimmte Vorurteile in den Daten inhärent sind, vermieden werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 27,
       "match_type": "exact"
     },
@@ -810,8 +837,8 @@
       "char_start": 5607,
       "char_end": 5753,
       "text": "Bias während des Prozesses der Datenerfassung oder Datenannotation oder bei der Wahl des Algorithmus oder des Systemdesigns muss minimiert werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 28,
       "match_type": "exact"
     },
@@ -819,17 +846,17 @@
       "char_start": 5755,
       "char_end": 5808,
       "text": "Autorenschaft in Publikationen im Zusammenhang mit KI",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 60,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 63,
       "match_type": "exact"
     },
     {
       "char_start": 5809,
       "char_end": 6001,
       "text": "Das Committee on Publication Ethics (2023, 5.) stellt klar, dass KI-Systeme keine Autor*innen bei wissenschaftlichen Publikationen sein können, u. a. weil sie keine juristischen Personen sind.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 29,
       "match_type": "exact"
     },
@@ -837,8 +864,8 @@
       "char_start": 6002,
       "char_end": 6097,
       "text": "Die Benutzung von KI Tools muss transparent im Methodenteil von Publikationen angegeben werden.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 30,
       "match_type": "exact"
     },
@@ -846,8 +873,8 @@
       "char_start": 6098,
       "char_end": 6234,
       "text": "In wissenschaftlichen Publikationen können nur die verantwortlich handelnden natürlichen Personen als Autor*innen in Erscheinung treten.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 31,
       "match_type": "exact"
     },
@@ -855,8 +882,8 @@
       "char_start": 6235,
       "char_end": 6431,
       "text": "Sie müssen sicherstellen, dass durch die Verwendung generativer Modelle kein fremdes geistiges Eigentum verletzt wird und kein wissenschaftliches Fehlverhalten etwa in Form von Plagiaten entsteht.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 32,
       "match_type": "exact"
     },
@@ -864,8 +891,8 @@
       "char_start": 6432,
       "char_end": 6573,
       "text": "An dieser Stelle sei auf die Ordnung der Albert-Ludwigs-Universität zur Sicherung der Redlichkeit in der Wissenschaft (2022, 6.) hingewiesen.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 33,
       "match_type": "exact"
     },
@@ -873,8 +900,8 @@
       "char_start": 6575,
       "char_end": 6839,
       "text": "Das Potenzial für die Erzeugung von Texten, z. B. als Vorlage für Modifikationen durch die Autor*innen, kann genutzt werden, solange dies dokumentiert wird und die Autor*innen die Verantwortung für die Inhalte, Ergebnisse (wie Codes) und Quellenangaben übernehmen.",
-      "B": "B5",
-      "B_label": "permitted or encouraged uses",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
       "segment_id": 34,
       "match_type": "exact"
     },
@@ -883,7 +910,7 @@
       "char_end": 6982,
       "text": "Bei Publikationen müssen die Rechte von Verlagen bzw. Urheber*innen beachtet werden, z. B. wenn Daten an kommerzielle Anbieter gegeben werden.",
       "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 35,
       "match_type": "exact"
     },
@@ -891,8 +918,8 @@
       "char_start": 6983,
       "char_end": 7119,
       "text": "Es ist kritisch zu bewerten, ob eine Weitergabe von Daten unentgeltlich sein kann, wenn es sich um einen kommerziellen Anbieter handelt.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 36,
       "match_type": "exact"
     },
@@ -909,8 +936,8 @@
       "char_start": 7156,
       "char_end": 7323,
       "text": "Der Einsatz von generativen Modellen bei der Antragstellung bei der DFG ist nach Einschätzung der DFG als solcher grundsätzlich weder positiv noch negativ zu bewerten.",
-      "B": "B2",
-      "B_label": "scope/application",
+      "B": "B3",
+      "B_label": "scope/application of the document",
       "segment_id": 37,
       "match_type": "exact"
     },
@@ -918,8 +945,8 @@
       "char_start": 7324,
       "char_end": 7492,
       "text": "Bei der Erstellung von Gutachten verbietet die DFG (2023, 3.) jedoch den Einsatz von generativen Modellen mit Blick auf die Vertraulichkeit des Begutachtungsverfahrens.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 38,
       "match_type": "exact"
     },
@@ -927,8 +954,8 @@
       "char_start": 7493,
       "char_end": 7634,
       "text": "Zur Begutachtung bereitgestellte Unterlagen sind vertraulich und dürfen insbesondere nicht als Eingabe für generative Modelle genutzt werden.",
-      "B": "B6",
-      "B_label": "restricted or prohibited uses",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
       "segment_id": 39,
       "match_type": "exact"
     },
@@ -936,8 +963,8 @@
       "char_start": 7635,
       "char_end": 7726,
       "text": "Siehe auch Abschnitt „Autorenschaft in Publikationen im Zusammenhang mit KI“ dieser Policy.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 40,
       "match_type": "exact"
     },
@@ -945,17 +972,17 @@
       "char_start": 7728,
       "char_end": 7791,
       "text": "Verantwortungsvollen Einsatz von genKI fördern und unterstützen",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
-      "segment_id": 58,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 61,
       "match_type": "exact"
     },
     {
       "char_start": 7792,
       "char_end": 7991,
       "text": "Der verantwortungsvolle Einsatz und die Weiterentwicklung generativer KI sollte die Grenzen der Technologie, ihre Auswirkungen auf die Umwelt und ihre gesellschaftlichen Auswirkungen berücksichtigen.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 41,
       "match_type": "exact"
     },
@@ -963,8 +990,8 @@
       "char_start": 7992,
       "char_end": 8223,
       "text": "Basierend auf den freiheitlich-demokratischen Grundwerten ist auch bei der Entwicklung und Verwendung von genKI Diskriminierung zu vermeiden, Vielfalt und Fairness zu gewährleisten und Schaden für Leib, Leben und Umwelt abzuwenden.",
-      "B": "B4",
-      "B_label": "principles/values",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 42,
       "match_type": "exact"
     },
@@ -972,7 +999,7 @@
       "char_start": 8224,
       "char_end": 8366,
       "text": "Nicht zuletzt ist der Energieverbrauch bei Nutzung von KI Systemen, die vor allem für das Training viel Rechenleistung benötigen, zu bedenken.",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 43,
       "match_type": "exact"
@@ -990,8 +1017,8 @@
       "char_start": 8401,
       "char_end": 8481,
       "text": "Wissenschaftler*innen sollen bei Nutzung von genKI ethische Grundsätze beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
       "segment_id": 44,
       "match_type": "exact"
     },
@@ -999,8 +1026,8 @@
       "char_start": 8482,
       "char_end": 8582,
       "text": "Ihnen muss auch bei der Verwendung oder Entwicklung von KI-Tools das Missbrauchsrisiko bewusst sein.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
       "segment_id": 45,
       "match_type": "exact"
     },
@@ -1008,7 +1035,7 @@
       "char_start": 8583,
       "char_end": 8717,
       "text": "Dazu gehören auch Missbrauchsszenarien für unerlaubte militärische Nutzung oder Nutzung für Straftaten (Dual Use Research of Concern).",
-      "B": "B9",
+      "B": "B10",
       "B_label": "risks/limitations/concerns",
       "segment_id": 46,
       "match_type": "exact"
@@ -1017,8 +1044,8 @@
       "char_start": 8718,
       "char_end": 8968,
       "text": "In Zweifelsfällen, insbesondere in Fällen mit hohem Missbrauchsrisiko, sollten sich Wissenschaftler*innen an die Kommission für Verantwortung in der Forschung (KVF) wenden, die solche Fragen interdisziplinär erörtert und die Forschenden beraten kann.",
-      "B": "B8",
-      "B_label": "roles/accountability/oversight/escalation",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
       "segment_id": 47,
       "match_type": "exact"
     },
@@ -1026,17 +1053,17 @@
       "char_start": 8970,
       "char_end": 9010,
       "text": "Einhaltung von rechtlichen Anforderungen",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
-      "segment_id": 59,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
       "match_type": "exact"
     },
     {
       "char_start": 9011,
       "char_end": 9205,
       "text": "Die Einhaltung der Datenschutzbestimmungen und der Schutz der Rechte an geistigem Eigentum durch verantwortungsvollen und angemessenen Umgang mit personenbezogenen Daten muss gewährleistet sein.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 48,
       "match_type": "exact"
     },
@@ -1044,8 +1071,8 @@
       "char_start": 9206,
       "char_end": 9379,
       "text": "Außerdem sind Vorgaben des Exportkontrollrechts einzuhalten, wenn grenzüberschreitend publiziert oder geforscht wird, und ggf. Vorgaben des Medizinproduktrechts zu beachten.",
-      "B": "B7",
-      "B_label": "required safeguards/procedures",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
       "segment_id": 49,
       "match_type": "exact"
     },
@@ -1062,7 +1089,7 @@
       "char_start": 9410,
       "char_end": 9473,
       "text": "KI Tools an der Universität Freiburg (Intranet-Zugang benötigt)",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 50,
       "match_type": "exact"
@@ -1071,7 +1098,7 @@
       "char_start": 9474,
       "char_end": 9580,
       "text": "Die Universität Freiburg ermöglicht ihren Mitgliedern einen datenschutzkonformen Zugang zu generativer KI.",
-      "B": "B10",
+      "B": "B11",
       "B_label": "training/support/learning resources",
       "segment_id": 51,
       "match_type": "exact"
@@ -1080,8 +1107,8 @@
       "char_start": 9582,
       "char_end": 9622,
       "text": "Forschung und Innovation in der EU zu KI",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 52,
       "match_type": "exact"
     },
@@ -1089,8 +1116,8 @@
       "char_start": 9623,
       "char_end": 9905,
       "text": "Die Kommission und die Länder des Europäischen Forschungsraums und die Interessenträger haben gemeinsam eine Reihe von Leitlinien vorgelegt, um die europäische Forschungsgemeinschaft bei der verantwortungsvollen Nutzung generativer künstlicher Intelligenz (KI) zu unterstützen (2.).",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 53,
       "match_type": "exact"
     },
@@ -1098,42 +1125,78 @@
       "char_start": 9907,
       "char_end": 9923,
       "text": "EU-Gesetz zur KI",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 54,
       "match_type": "exact"
     },
     {
       "char_start": 9924,
-      "char_end": 10234,
-      "text": "Das „EU-Gesetz zur Künstlichen Intelligenz“ (EU AI Act, 2024, 7.) trägt der rasanten technologischen Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein. Mithilfe des EU AI Acts sollen verlässliche Rahmenbedingungen bei der Erforschung und Anwendung von KI geschaffen werden.",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
+      "char_end": 10112,
+      "text": "Das „EU-Gesetz zur Künstlichen Intelligenz“ (EU AI Act, 2024, 7.) trägt der rasanten technologischen Entwicklung aller KI-Systeme Rechnung und bezieht diese in seinem Rechtsrahmen mit ein.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
       "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10113,
+      "char_end": 10234,
+      "text": "Mithilfe des EU AI Acts sollen verlässliche Rahmenbedingungen bei der Erforschung und Anwendung von KI geschaffen werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 56,
       "match_type": "exact"
     },
     {
       "char_start": 10236,
       "char_end": 10280,
       "text": "Internationale Konferenz Maschinelles Lernen",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 56,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 57,
       "match_type": "exact"
     },
     {
       "char_start": 10281,
       "char_end": 10554,
       "text": "Fünf Prinzipien sollen die menschliche Verantwortung in der Forschung weiterhin sichern, wie jetzt eine interdisziplinäre Arbeitsgruppe mit Mitgliedern aus Politik, Unternehmen und Wissenschaft in Proceedings of the National Academies of Sciences (PNAS) fordert (2024, 8.).",
-      "B": "B10",
-      "B_label": "training/support/learning resources",
-      "segment_id": 57,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 58,
       "match_type": "exact"
     },
     {
       "char_start": 10554,
+      "char_end": 11035,
+      "text": "\n\nListe der Beitragenden\n- Prof. Dr. Stefan Rensing, Prorektor für Forschung und Innovation\n- Prof. Dr. Stefan Günther, Chief Information Officer\n- Prof. Dr. Frank Hutter, Professur für Maschinelles Lernen\n- Prof. Dr. Silja Vöneky, Professur für Öffentliches Recht, Völkerrecht, Rechtsethik und Rechtsvergleichung und Vorsitzende der Kommission für Verantwortung in der Forschung\n- Dr. Marc Herbstritt, Informationssicherheitsbeauftragter\n- Klaus Scharpf, Datenschutzbeauftragter\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11035,
+      "char_end": 11205,
+      "text": "Als Vorlage für den Abschnitt „Empfehlungen für Wissenschaftler*innen an der Universität Freiburg“ wurden einzelne Textblöcke am 09.07.2024 von ChatGPT (GPT-4o) erstellt.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11206,
+      "char_end": 11320,
+      "text": "Hinweise von Senatsmitgliedern wurden in der Folge der Beschlussfassung am 18.12.2024 in diese Version integriert.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11320,
       "char_end": 12352,
-      "text": "\n\nListe der Beitragenden\n- Prof. Dr. Stefan Rensing, Prorektor für Forschung und Innovation\n- Prof. Dr. Stefan Günther, Chief Information Officer\n- Prof. Dr. Frank Hutter, Professur für Maschinelles Lernen\n- Prof. Dr. Silja Vöneky, Professur für Öffentliches Recht, Völkerrecht, Rechtsethik und Rechtsvergleichung und Vorsitzende der Kommission für Verantwortung in der Forschung\n- Dr. Marc Herbstritt, Informationssicherheitsbeauftragter\n- Klaus Scharpf, Datenschutzbeauftragter\n\nAls Vorlage für den Abschnitt „Empfehlungen für Wissenschaftler*innen an der Universität Freiburg“ wurden einzelne Textblöcke am 09.07.2024 von ChatGPT (GPT-4o) erstellt.\nHinweise von Senatsmitgliedern wurden in der Folge der Beschlussfassung am 18.12.2024 in diese Version integriert.\n\nAnsprechpartner*innen\n- Prof. Dr. Stefan Rensing, Prorektor für Forschung und Innovation\n- N.N., Chief Information Officer\n\nQuellenverzeichnis\n1. Jahresbericht der Universität Freiburg 2023, S. 7\n2. Living guidelines on the responsible use of generative AI in research (März 2024)\n3. Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG (September 2023)\n4. ChatGPT - KI-Tools in der Forschung (Oktober 2023)\n5. Committee on Publication Ethics (COPE) (2023)\n6. Ordnung der Albert-Ludwigs-Universität zur Sicherung der Redlichkeit in der Wissenschaft, Amtliche Bekanntmachungen Jahrgang 53, Nr. 31, S. 148ff (1. Juni 2022)\n7. KI-Gesetz der Europäischen Kommission (2024)\n8. Blau, Wolfgang. et al. (2024), Protecting scientific integrity in an age of generative AI, Vol. 121 (22) e2407886121, PNAS.\n\nDieses Werk ist unter einer Creative Commons Namensnennung 4.0 International Lizenz lizenziert.",
+      "text": "\n\nAnsprechpartner*innen\n- Prof. Dr. Stefan Rensing, Prorektor für Forschung und Innovation\n- N.N., Chief Information Officer\n\nQuellenverzeichnis\n1. Jahresbericht der Universität Freiburg 2023, S. 7\n2. Living guidelines on the responsible use of generative AI in research (März 2024)\n3. Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG (September 2023)\n4. ChatGPT - KI-Tools in der Forschung (Oktober 2023)\n5. Committee on Publication Ethics (COPE) (2023)\n6. Ordnung der Albert-Ludwigs-Universität zur Sicherung der Redlichkeit in der Wissenschaft, Amtliche Bekanntmachungen Jahrgang 53, Nr. 31, S. 148ff (1. Juni 2022)\n7. KI-Gesetz der Europäischen Kommission (2024)\n8. Blau, Wolfgang. et al. (2024), Protecting scientific integrity in an age of generative AI, Vol. 121 (22) e2407886121, PNAS.\n\nDieses Werk ist unter einer Creative Commons Namensnennung 4.0 International Lizenz lizenziert.",
       "B": "skip",
       "B_label": "structural/metadata",
       "segment_id": null,
