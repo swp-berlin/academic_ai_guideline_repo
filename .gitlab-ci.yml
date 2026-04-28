@@ -1,0 +1,50 @@
+stages:
+  - build
+
+variables:
+  PACKAGE_NAME: "ai-guidelines-repo"
+
+build-archive:
+  stage: build
+  image: alpine:latest
+  rules:
+    - if: $CI_COMMIT_TAG
+  script:
+    - touch "app-version_${CI_COMMIT_TAG}"
+    #- tar -czf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" web/
+    #- tar -rf "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" "tag-${CI_COMMIT_TAG}"
+    #- echo "JOB_ID=$CI_JOB_ID" >> build.env
+  artifacts:
+    name: "${PACKAGE_NAME}.${CI_COMMIT_TAG}"
+    paths:
+      - web/
+      - "app-version_${CI_COMMIT_TAG}"
+    # paths:
+    #   - "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz"
+    # expire_in: 1 week
+
+# release_job:
+#   stage: release
+#   image: registry.gitlab.com/gitlab-org/cli:latest
+#   rules:
+#     - if: $CI_COMMIT_TAG
+#   script:
+#     - echo "Running the release job."
+#   release:
+#     tag_name: $CI_COMMIT_TAG
+#     name: '${PACKAGE_NAME}-${CI_COMMIT_TAG}'
+#     description: 'Release created using the CLI.'
+
+# release-job:
+#   stage: release
+#   image: alpine:latest
+#   rules:
+#     - if: $CI_COMMIT_TAG
+#   before_script:
+#     - glab config set host swp-git.swp-berlin.intern
+#     - glab auth login --token $CI_JOB_TOKEN
+#   script:
+#     - glab release create "$CI_COMMIT_TAG" "${PACKAGE_NAME}.${CI_COMMIT_TAG}.tar.gz" --name "Release $CI_COMMIT_TAG" --notes "Release created from tag $CI_COMMIT_TAG"
+#   dependencies:
+#     - build-archive
+
