@@ -275,7 +275,9 @@ def main() -> int:
 
     # Gather files
     if args.slug:
-        txt_files = [TEXTS_DIR / f"{args.slug}.txt"]
+        txt_files = sorted(TEXTS_DIR.glob(f"{args.slug}_*.txt"))
+        if not txt_files:
+            txt_files = [TEXTS_DIR / f"{args.slug}.txt"]  # legacy fallback
     else:
         txt_files = sorted(TEXTS_DIR.glob("*.txt"))
 

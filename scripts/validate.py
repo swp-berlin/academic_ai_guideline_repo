@@ -143,7 +143,7 @@ def main() -> int:
 
     all_errors: list[str] = []
     all_warnings: list[str] = []
-    slugs_seen: set[str] = set()
+    slugs_seen: set[tuple[str, str]] = set()
 
     for idx, entry in enumerate(guidelines, 1):
         if not isinstance(entry, dict):
@@ -156,9 +156,12 @@ def main() -> int:
 
         slug = entry.get("slug", "")
         if slug:
-            if slug in slugs_seen:
-                all_errors.append(f"Entry {idx}: duplicate slug '{slug}'")
-            slugs_seen.add(slug)
+            key = (slug, str(entry.get("version") or "1_0"))
+            if key in slugs_seen:
+                all_errors.append(
+                    f"Entry {idx}: duplicate slug+version '{slug}' @ {key[1]}"
+                )
+            slugs_seen.add(key)
 
     if all_errors:
         print(f"Validation failed with {len(all_errors)} error(s):\n", file=sys.stderr)

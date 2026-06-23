@@ -758,6 +758,11 @@ def main() -> int:
     group.add_argument("--file", type=Path, help="Process a single .txt file")
     group.add_argument("--dir", type=Path, help="Process all .txt files in directory")
     parser.add_argument("--output", type=Path, default=None, help="Output directory")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-code even if the output JSON for a document already exists",
+    )
     args = parser.parse_args()
 
     api_key = os.environ.get("MISTRAL_API_KEY", "")
@@ -787,6 +792,10 @@ def main() -> int:
 
     with httpx.Client(timeout=6400.0) as client:
         for i, text_path in enumerate(files):
+            out_path = out_dir / f"{text_path.stem}.json"
+            if out_path.exists() and not args.force:
+                print(f"  exists, skipping {out_path.name} (use --force to re-code)")
+                continue
             try:
                 process_file(
                     client=client,
