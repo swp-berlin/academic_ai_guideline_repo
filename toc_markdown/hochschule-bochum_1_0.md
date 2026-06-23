@@ -1,0 +1,45 @@
+# Table of Contents: hochschule-bochum_1_0
+
+_Mode: extracted_toc_
+
+  - 1 Warum ein Leitfaden?
+  - 2 KI als Alltagswerkzeug!
+  - 3 KI-Nutzung einschränken?
+  - 4 KI-Nutzung kennzeichnen?
+  - 5 Transparenz?
+  - 6 Verantwortlichkeit?
+  - 7 KI und Prüfungen?
+  - 8 KI-Nutzung nachweisen?
+  - 9 KI vs. gute wissenschaftliche Praxis
+  - 10 Prädiktive und präskriptive KI
+  - 11 Rechtsrahmen
+  - 12 Zugang zu generativer KI
+  - 13 Good Practices
+    - Was ist KI?
+      - Chancen in der Hochschullehre
+      - Herausforderungen in der Hochschullehre
+    - Wann und warum die KI-Nutzung einschränken?
+    - Gibt es eine KI-Kennzeichnungspflicht für Studierende?
+    - Gibt es eine KI-Kennzeichnungspflicht für Lehrende bei der Erstellung von Lehrmaterial?
+  - Empfehlungen für Lehrende
+    - Die "KI-Ampel"
+    - Disclaimer zur Nutzung von KI
+      - KI-Nutzung erfolgt immer in Eigenverantwortung
+      - Lehrende: Verantwortung für Lernerfolg und Qualität
+      - Studierende: Verantwortung für den eigenen Lernprozess
+    - Keine automatisierte Leistungsbewertung
+    - KI - Herausforderung für das Prüfungsdesign
+      - KI-Nutzung in bestehenden Prüfungsformaten
+      - Neue Prüfungsformate
+      - KI-gestütztes Feedback: Möglichkeiten und Grenzen
+    - Keine Möglichkeit des zweifelsfreien Nachweises
+      - KI-Nachweise in der Regel weder praxistauglich noch zielführend
+    - Perspektive der Studierenden
+    - Perspektive der Lehrenden
+    - Prädiktive KI
+    - Präskriptive KI
+      - Datenschutzrechtliche Vorgaben
+      - Urheberrechtliche Bestimmungen
+      - Prüfungsrechtliche Regelungen
+      - Vorgaben der EU-KI-Verordnung (KI-VO)
+    - HSBOGPT

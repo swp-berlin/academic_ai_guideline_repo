@@ -1,0 +1,44 @@
+# Table of Contents: universitat-osnabruck_1_0
+
+_Mode: generated_from_headings_
+
+- Handlungsempfehlungen zum Umgang mit KI-basierten Anwendungen
+  - Ausgangslage und Fokus der Empfehlungen
+  - Begriffsbestimmungen
+    - Künstliche Intelligenz (KI)
+    - Maschinelles Lernen (ML)
+    - KI-System
+    - KI-Modell
+    - GPAI-Modell
+    - Generative KI
+    - KI-basierte Anwendungen
+    - Training
+    - Bias
+    - Halluzinieren
+    - Prompt
+    - Input
+    - Output
+  - Kompetenz und Verantwortung
+  - Checkliste für die Nutzung generativer KI-Systeme
+    - Allgemeine Voraussetzungen
+    - Vorbereitung
+    - Während der Verwendung
+    - Nach der Verwendung
+  - Rechtliche Grundlagen
+    - Übersicht der Gesetze und Vorgaben
+      - Gesetze und Vorgaben
+    - Schutzfähigkeit und Urheberschaft
+    - Sorgfaltspflicht und Kennzeichnungspflicht
+    - Datenschutz
+  - KI-Einsatz in Studium und Lehre
+  - Dokumentation und Referenzierung
+  - Chancen und Risiken
+  - KI und Prüfungen
+    - Eigenständigkeit
+    - Täuschungsversuche
+    - Täuschungsnachweise
+    - Anpassung der Prüfungskultur
+  - Weiterführende Informationen
+    - Unterstützungsangebote für Studierende
+    - Weiterbildungsoptionen für Lehrende
+    - Allgemeine Online-Informationsquellen
