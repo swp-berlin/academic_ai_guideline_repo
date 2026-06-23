@@ -1,0 +1,768 @@
+{
+  "doc_id": "sachverstaendigen-rat_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der Sachverständigenrat für Integration und Migration (SVR) hat den Auftrag, wissenschaftlich fundierte und praxisorientierte Politikberatung im Bereich Integration und Migration zu leisten. Er ist in seinem Beratungsauftrag unabhängig und in seinen Bewertungen und Einschätzungen ausschließlich wissenschaftlichen Kriterien verpflichtet.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Der Sachverständigenrat wird bei der Erfüllung seiner Aufgaben durch einen wissenschaftlichen Stab unterstützt. Dieser betreibt neben der Unterstützung des SVR eigenständige, anwendungsorientierte Forschung im Bereich Integration und Migration.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Seit 2022 haben generative KI-Anwendungen erheblich an Bedeutung gewonnen und sind längst auch Teil des wissenschaftlichen Arbeitsalltags geworden.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Deutsche Forschungsgemeinschaft (DFG) betonte in einer Stellungnahme vom September 2023, dass der Einsatz von KI in der Wissenschaft erhebliche Entwicklungspotenziale birgt und nicht grundsätzlich ausgeschlossen werden sollte.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zugleich stellte sie klar, dass die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ auch beim Einsatz von KI uneingeschränkt gelten. Verbindliche Rahmenbedingungen seien daher notwendig, um die Einhaltung dieser Leitlinien und die Qualität wissenschaftlicher Ergebnisse zu sichern.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die SVR gGmbH hat Leitlinien entwickelt, um einen verbindlichen Rahmen für den Einsatz von KI-Tools im wissenschaftlichen Stab des SVR vorzugeben.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziel ist es, die Chancen von KI nutzbar zu machen – bei gleichzeitiger Wahrung von Qualität, Transparenz und ethischer Verantwortung im wissenschaftlichen Arbeiten.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Leitlinien sind vom SVR in seiner Sitzung im Mai 2025 gebilligt worden.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die Leitlinien werden regelmäßig überprüft und bei Bedarf an neue technologische Entwicklungen sowie an den Stand der wissenschaftlichen Diskussion angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Veröffentlichung der nachstehenden Kurzfassung dieses internen Regelwerks dient dazu, zentrale Prinzipien und Standards des Umgangs mit KI im wissenschaftlichen Stab der SVR gGmbH auch nach außen transparent zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die wissenschaftlichen Mitarbeitenden der SVR-Geschäftsstelle dürfen KI-Tools bei ihrer Arbeit unter bestimmten Voraussetzungen verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Wer dies tut, trägt die Verantwortung dafür, dass dabei die Standards für gute Praxis in der wissenschaftlichen Arbeit der SVR gGmbH ohne Abstriche eingehalten werden.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Originalität, Eigenständigkeit und die Nachvollziehbarkeit wissenschaftlicher Ergebnisse müssen auch bei KI-Nutzung gewährleistet bleiben.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Der zentrale Grundsatz lautet: KI-Tools dürfen nur für Aufgaben eingesetzt werden, deren Ergebnisse von der jeweiligen Nutzerin bzw. dem jeweiligen Nutzer selbst überprüft und verantwortet werden können.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Maßgeblich für Art und Umfang des KI-Einsatzes sind daher die fachlichen Kenntnisse der nutzenden Person. Eine Nutzung ist nur in Bereichen zulässig, in denen ausreichend eigenes Verständnis vorhanden ist, um die Ergebnisse fundiert einordnen und bewerten zu können.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ein verantwortungsvoller Umgang mit KI setzt daher zugleich voraus, dass wissenschaftliche Eigenleistung nicht durch die Auslagerung an KI ersetzt wird.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Auch bei unterstützendem KI-Einsatz müssen Inhalte selbst durchdrungen und aktiv mitgestaltet werden.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um eine einheitliche und verantwortungsvolle Nutzung von KI-Tools sicherzustellen, sind folgende Regeln konsequent einzuhalten:",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools dürfen grundsätzlich nur als Hilfsmittel eingesetzt werden und nicht als Ersatz für eigene Recherchen, Datenerhebungen, Analysen, Textarbeiten oder ähnliche Aufgaben.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Inhalte, einschließlich der angegebenen Quellen, müssen vor ihrer Übernahme sorgfältig geprüft werden. Es ist sicherzustellen, dass ausschließlich korrekte und wissenschaftlich fundierte Informationen verwendet werden und keine Plagiate entstehen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Quellenangaben müssen dazu aktiv von den KI-Tools angefordert und kritisch überprüft werden. KI-Tools, die solche Quellenangaben nicht liefern (können), werden nicht zur wissenschaftlichen Recherche eingesetzt.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Beim Einsatz von KI-Tools ist stets auf mögliche Verzerrungen oder Diskriminierungen zu achten. Die Entscheidungen eines KI-Tools sind immer nur so gut, wie die Trainingsdaten, die seinem maschinellen Lernen zugrunde liegen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn KI-Tools im Forschungsprozess z. B. als Hilfsmittel bei der Formulierung von Interviewfragen, zur Datenbereinigung oder bei der statistischen Analyse eingesetzt werden, ist es deshalb besonders wichtig, die Ergebnisse kritisch auf mögliche Biases zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte Inhalte oder vertrauliche interne Daten (wie z. B. Besprechungsprotokolle) in KI-Tools eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzung von KI-Tools ist ab einer bestimmten Schwelle zu dokumentieren. Die Erforderlichkeit und der Umfang der Dokumentation richten sich nach Art, Umfang und Einsatzbereich des KI-Tools.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es gibt jedoch auch Bereiche, in denen der unterstützende Einsatz von KI im wissenschaftlichen Stab des SVR aus Gründen der wissenschaftlichen Verantwortung ausgeschlossen ist: Nicht zulässig ist der Einsatz von KI-Tools im Rahmen interner wie externer Peer-Review-Prozesse – also bei der inhaltlichen Durchsicht von Textentwürfen des wissenschaftlichen Stabs oder Dritter.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Diese Aufgaben erfordern eine eigenständige wissenschaftliche Beurteilung, die nicht an KI delegiert werden darf.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die SVR gGmbH misst Transparenz bei der Nutzung von KI-Tools im wissenschaftlichen Arbeiten einen hohen Stellenwert bei.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die nachstehende Kurzfassung der Regeln zur Dokumentation und Kennzeichnung von KI-Nutzung im wissenschaftlichen Stab des SVR (Stand: Juni 2025) orientieren sich an den Leitlinien der DFG für den Umgang mit generativen Modellen für die Text- und Bilderstellung sowie den darauf aufbauenden Empfehlungen der Ombudsstelle für wissenschaftliche Integrität, für die zusätzlich auch Vorgaben zur Kennzeichnung von KI-Nutzung großer wissenschaftlicher Verlage und Fachzeitschriften ausgewertet wurden.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ob und in welcher Form eine Dokumentation oder Kennzeichnung erforderlich ist, hängt vom jeweiligen Verwendungszweck der KI-Tools ab.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Grundsätzlich gilt:\n- KI-Nutzung, die der eigentlichen inhaltlichen Arbeit vor- bzw. nachgelagert ist, ist in der Regel nicht dokumentations- oder kennzeichnungspflichtig.\n- KI-Nutzung, die inhaltlich in den Erkenntnis- bzw. Forschungsprozess eingreift, ist in der Regel dokumentations- und ggf. auch extern kennzeichnungspflichtig.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zu den typischen unterstützenden Tätigkeiten, die außerhalb der eigentlichen inhaltlichen Arbeit liegen und daher in der Regel weder intern dokumentiert noch extern gekennzeichnet werden müssen, zählen insbesondere rein sprachliche Textverbesserungen (z. B. Rechtschreib-/Grammatikprüfung, Stiloptimierung); Übersetzung selbst verfasster Texte; viele Formen der Qualitätssicherung (z. B. Analyse von Fehlermeldungen oder Identifikation von Fehlern in selbst erstellten Codes); Unterstützung bei der Informations- und Quellenrecherche.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird KI systematisch im Forschungsprozess eingesetzt, ist dies intern zu dokumentieren und in den Veröffentlichungen von SVR und wissenschaftlichem Stab offenzulegen. Dies entspricht den geltenden Transparenzstandards der guten wissenschaftlichen Praxis (siehe Leitlinien 12 und 13 im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“).",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entsprechende Verweise und Erläuterungen sind in der Regel Teil des Methodenberichts bzw. des Methodenteils einer wissenschaftlichen Publikation. Sie enthalten immer mindestens folgende Angaben: Anwendungszweck, Name des KI-Tools, Anbieter bzw. Anbieterin, Versionsnummer, Datum der Nutzung und URL.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Typischerweise in diesem Sinne dokumentations- und kennzeichnungspflichtig sind z. B.: KI-Nutzung für die inhaltliche Entwicklung von Interviewleitfäden, Kategoriensystemen oder anderen Elementen der Datenerhebung und -auswertung; die Verwendung KI-generierter Codes (z. B. in Python, R, SQL) zur Datenbearbeitung oder statistischen Analyse und die Verwendung KI-generierter Visualisierungsideen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "grundsätze der verantwortungsvollen ki-nutzung",
+      "repaired": true
+    },
+    {
+      "id": 37,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "die dfg-stellungnahme betont, dass ki-einsatz in der wissenschaft nicht pauschal abgelehnt werden sollte, sondern vielmehr klare rahmenbedingungen für eine verantwortungsvolle nutzung erforderlich sind",
+      "repaired": true
+    },
+    {
+      "id": 38,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "die bestehenden leitlinien zur guten wissenschaftlichen praxis auch für ki-anwendungen gelten",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 38,
+    "matched": 35,
+    "unmatched_count": 3,
+    "unmatched": [
+      {
+        "id": 36,
+        "B": "B5",
+        "matched_words": "3/4",
+        "text": "grundsätze der verantwortungsvollen ki-nutzung"
+      },
+      {
+        "id": 37,
+        "B": "B4",
+        "matched_words": "1/23",
+        "text": "die dfg-stellungnahme betont, dass ki-einsatz in der wissenschaft nicht pauschal abgelehnt werden sollte, sondern vielmehr klare rahmenbedingungen für eine verantwortungsvolle nutzung erforderlich sind"
+      },
+      {
+        "id": 38,
+        "B": "B3",
+        "matched_words": "9/11",
+        "text": "die bestehenden leitlinien zur guten wissenschaftlichen praxis auch für ki-anwendungen gelten"
+      }
+    ],
+    "source_coverage": 0.902,
+    "uncovered_chars": 781,
+    "uncovered_gaps": 4,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 356,
+        "length": 356,
+        "text": "# sachverständigen rat für integration und migration # source: https://www.svrmigration.de/wpcontent/uploads/2025/09/leitlinien-ki-imwissenschaftlichen-stab_kurzfassung_website.pdf # date: 2025-09 # category: guideline # leitlinien für eine verantwortungsvolle nutzung künstlicher intelligenz (ki) in der wissenschaftlichen arbeit der svr ggmbh ## vorwort"
+      },
+      {
+        "char_start": 2382,
+        "char_end": 2434,
+        "length": 52,
+        "text": ". ## grundsätze der verantwortungsvollen ki-nutzung"
+      },
+      {
+        "char_start": 5744,
+        "char_end": 5778,
+        "length": 34,
+        "text": ". # transparenz und dokumentation"
+      },
+      {
+        "char_start": 8424,
+        "char_end": 8763,
+        "length": 339,
+        "text": ". ## footnotes ¹ die dfg-stellungnahme betont, dass ki-einsatz in der wissenschaft nicht pauschal abgelehnt werden sollte, sondern vielmehr klare rahmenbedingungen für eine verantwortungsvolle nutzung erforderlich sind. sie verweist darauf, dass die bestehenden leitlinien zur guten wissenschaftlichen praxis auch für ki-anwendungen gelten"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 362,
+      "text": "# Sachverständigen Rat für Integration und Migration\n# Source: https://www.svr-migration.de/wp-content/uploads/2025/09/Leitlinien-KI-im-wissenschaftlichen-Stab_Kurzfassung_Website.pdf\n# Date: 2025-09\n# Category: guideline\n\n# Leitlinien für eine verantwortungsvolle Nutzung Künstlicher Intelligenz (KI) in der wissenschaftlichen Arbeit der SVR gGmbH\n\n## Vorwort\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 362,
+      "char_end": 700,
+      "text": "Der Sachverständigenrat für Integration und Migration (SVR) hat den Auftrag, wissenschaftlich fundierte und praxisorientierte Politikberatung im Bereich Integration und Migration zu leisten. Er ist in seinem Beratungsauftrag unabhängig und in seinen Bewertungen und Einschätzungen ausschließlich wissenschaftlichen Kriterien verpflichtet.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 701,
+      "char_end": 945,
+      "text": "Der Sachverständigenrat wird bei der Erfüllung seiner Aufgaben durch einen wissenschaftlichen Stab unterstützt. Dieser betreibt neben der Unterstützung des SVR eigenständige, anwendungsorientierte Forschung im Bereich Integration und Migration.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 947,
+      "char_end": 1094,
+      "text": "Seit 2022 haben generative KI-Anwendungen erheblich an Bedeutung gewonnen und sind längst auch Teil des wissenschaftlichen Arbeitsalltags geworden.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1095,
+      "char_end": 1325,
+      "text": "Die Deutsche Forschungsgemeinschaft (DFG) betonte in einer Stellungnahme vom September 2023, dass der Einsatz von KI in der Wissenschaft erhebliche Entwicklungspotenziale birgt und nicht grundsätzlich ausgeschlossen werden sollte.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1326,
+      "char_end": 1618,
+      "text": "Zugleich stellte sie klar, dass die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ auch beim Einsatz von KI uneingeschränkt gelten. Verbindliche Rahmenbedingungen seien daher notwendig, um die Einhaltung dieser Leitlinien und die Qualität wissenschaftlicher Ergebnisse zu sichern.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1620,
+      "char_end": 1766,
+      "text": "Die SVR gGmbH hat Leitlinien entwickelt, um einen verbindlichen Rahmen für den Einsatz von KI-Tools im wissenschaftlichen Stab des SVR vorzugeben.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1767,
+      "char_end": 1931,
+      "text": "Ziel ist es, die Chancen von KI nutzbar zu machen – bei gleichzeitiger Wahrung von Qualität, Transparenz und ethischer Verantwortung im wissenschaftlichen Arbeiten.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1932,
+      "char_end": 2009,
+      "text": "Diese Leitlinien sind vom SVR in seiner Sitzung im Mai 2025 gebilligt worden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2011,
+      "char_end": 2169,
+      "text": "Die Leitlinien werden regelmäßig überprüft und bei Bedarf an neue technologische Entwicklungen sowie an den Stand der wissenschaftlichen Diskussion angepasst.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2170,
+      "char_end": 2392,
+      "text": "Die Veröffentlichung der nachstehenden Kurzfassung dieses internen Regelwerks dient dazu, zentrale Prinzipien und Standards des Umgangs mit KI im wissenschaftlichen Stab der SVR gGmbH auch nach außen transparent zu machen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2392,
+      "char_end": 2397,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2397,
+      "char_end": 2443,
+      "text": "Grundsätze der verantwortungsvollen KI-Nutzung",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2445,
+      "char_end": 2583,
+      "text": "Die wissenschaftlichen Mitarbeitenden der SVR-Geschäftsstelle dürfen KI-Tools bei ihrer Arbeit unter bestimmten Voraussetzungen verwenden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2584,
+      "char_end": 2751,
+      "text": "Wer dies tut, trägt die Verantwortung dafür, dass dabei die Standards für gute Praxis in der wissenschaftlichen Arbeit der SVR gGmbH ohne Abstriche eingehalten werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2752,
+      "char_end": 2890,
+      "text": "Originalität, Eigenständigkeit und die Nachvollziehbarkeit wissenschaftlicher Ergebnisse müssen auch bei KI-Nutzung gewährleistet bleiben.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2892,
+      "char_end": 3095,
+      "text": "Der zentrale Grundsatz lautet: KI-Tools dürfen nur für Aufgaben eingesetzt werden, deren Ergebnisse von der jeweiligen Nutzerin bzw. dem jeweiligen Nutzer selbst überprüft und verantwortet werden können.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3097,
+      "char_end": 3363,
+      "text": "Maßgeblich für Art und Umfang des KI-Einsatzes sind daher die fachlichen Kenntnisse der nutzenden Person. Eine Nutzung ist nur in Bereichen zulässig, in denen ausreichend eigenes Verständnis vorhanden ist, um die Ergebnisse fundiert einordnen und bewerten zu können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3364,
+      "char_end": 3516,
+      "text": "Ein verantwortungsvoller Umgang mit KI setzt daher zugleich voraus, dass wissenschaftliche Eigenleistung nicht durch die Auslagerung an KI ersetzt wird.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3517,
+      "char_end": 3618,
+      "text": "Auch bei unterstützendem KI-Einsatz müssen Inhalte selbst durchdrungen und aktiv mitgestaltet werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3620,
+      "char_end": 3747,
+      "text": "Um eine einheitliche und verantwortungsvolle Nutzung von KI-Tools sicherzustellen, sind folgende Regeln konsequent einzuhalten:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3747,
+      "char_end": 3752,
+      "text": "\n\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3752,
+      "char_end": 3927,
+      "text": "KI-Tools dürfen grundsätzlich nur als Hilfsmittel eingesetzt werden und nicht als Ersatz für eigene Recherchen, Datenerhebungen, Analysen, Textarbeiten oder ähnliche Aufgaben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3927,
+      "char_end": 3931,
+      "text": "\n2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3931,
+      "char_end": 4192,
+      "text": "KI-generierte Inhalte, einschließlich der angegebenen Quellen, müssen vor ihrer Übernahme sorgfältig geprüft werden. Es ist sicherzustellen, dass ausschließlich korrekte und wissenschaftlich fundierte Informationen verwendet werden und keine Plagiate entstehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4193,
+      "char_end": 4403,
+      "text": "Quellenangaben müssen dazu aktiv von den KI-Tools angefordert und kritisch überprüft werden. KI-Tools, die solche Quellenangaben nicht liefern (können), werden nicht zur wissenschaftlichen Recherche eingesetzt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4403,
+      "char_end": 4407,
+      "text": "\n3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4407,
+      "char_end": 4631,
+      "text": "Beim Einsatz von KI-Tools ist stets auf mögliche Verzerrungen oder Diskriminierungen zu achten. Die Entscheidungen eines KI-Tools sind immer nur so gut, wie die Trainingsdaten, die seinem maschinellen Lernen zugrunde liegen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4632,
+      "char_end": 4898,
+      "text": "Wenn KI-Tools im Forschungsprozess z. B. als Hilfsmittel bei der Formulierung von Interviewfragen, zur Datenbereinigung oder bei der statistischen Analyse eingesetzt werden, ist es deshalb besonders wichtig, die Ergebnisse kritisch auf mögliche Biases zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4898,
+      "char_end": 4902,
+      "text": "\n4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4902,
+      "char_end": 5076,
+      "text": "Es dürfen keine personenbezogenen Daten, urheberrechtlich geschützte Inhalte oder vertrauliche interne Daten (wie z. B. Besprechungsprotokolle) in KI-Tools eingegeben werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5076,
+      "char_end": 5080,
+      "text": "\n5. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5080,
+      "char_end": 5272,
+      "text": "Die Nutzung von KI-Tools ist ab einer bestimmten Schwelle zu dokumentieren. Die Erforderlichkeit und der Umfang der Dokumentation richten sich nach Art, Umfang und Einsatzbereich des KI-Tools.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5274,
+      "char_end": 5647,
+      "text": "Es gibt jedoch auch Bereiche, in denen der unterstützende Einsatz von KI im wissenschaftlichen Stab des SVR aus Gründen der wissenschaftlichen Verantwortung ausgeschlossen ist: Nicht zulässig ist der Einsatz von KI-Tools im Rahmen interner wie externer Peer-Review-Prozesse – also bei der inhaltlichen Durchsicht von Textentwürfen des wissenschaftlichen Stabs oder Dritter.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5648,
+      "char_end": 5761,
+      "text": "Diese Aufgaben erfordern eine eigenständige wissenschaftliche Beurteilung, die nicht an KI delegiert werden darf.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5761,
+      "char_end": 5796,
+      "text": "\n\n# Transparenz und Dokumentation\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5796,
+      "char_end": 5916,
+      "text": "Die SVR gGmbH misst Transparenz bei der Nutzung von KI-Tools im wissenschaftlichen Arbeiten einen hohen Stellenwert bei.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5917,
+      "char_end": 6412,
+      "text": "Die nachstehende Kurzfassung der Regeln zur Dokumentation und Kennzeichnung von KI-Nutzung im wissenschaftlichen Stab des SVR (Stand: Juni 2025) orientieren sich an den Leitlinien der DFG für den Umgang mit generativen Modellen für die Text- und Bilderstellung sowie den darauf aufbauenden Empfehlungen der Ombudsstelle für wissenschaftliche Integrität, für die zusätzlich auch Vorgaben zur Kennzeichnung von KI-Nutzung großer wissenschaftlicher Verlage und Fachzeitschriften ausgewertet wurden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6414,
+      "char_end": 6547,
+      "text": "Ob und in welcher Form eine Dokumentation oder Kennzeichnung erforderlich ist, hängt vom jeweiligen Verwendungszweck der KI-Tools ab.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6547,
+      "char_end": 6883,
+      "text": " Grundsätzlich gilt:\n\n- KI-Nutzung, die der eigentlichen inhaltlichen Arbeit vor- bzw. nachgelagert ist, ist in der Regel nicht dokumentations- oder kennzeichnungspflichtig.\n- KI-Nutzung, die inhaltlich in den Erkenntnis- bzw. Forschungsprozess eingreift, ist in der Regel dokumentations- und ggf. auch extern kennzeichnungspflichtig.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6883,
+      "char_end": 7417,
+      "text": "Zu den typischen unterstützenden Tätigkeiten, die außerhalb der eigentlichen inhaltlichen Arbeit liegen und daher in der Regel weder intern dokumentiert noch extern gekennzeichnet werden müssen, zählen insbesondere rein sprachliche Textverbesserungen (z. B. Rechtschreib-/Grammatikprüfung, Stiloptimierung); Übersetzung selbst verfasster Texte; viele Formen der Qualitätssicherung (z. B. Analyse von Fehlermeldungen oder Identifikation von Fehlern in selbst erstellten Codes); Unterstützung bei der Informations- und Quellenrecherche.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7419,
+      "char_end": 7774,
+      "text": "Wird KI systematisch im Forschungsprozess eingesetzt, ist dies intern zu dokumentieren und in den Veröffentlichungen von SVR und wissenschaftlichem Stab offenzulegen. Dies entspricht den geltenden Transparenzstandards der guten wissenschaftlichen Praxis (siehe Leitlinien 12 und 13 im DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7776,
+      "char_end": 8075,
+      "text": "Entsprechende Verweise und Erläuterungen sind in der Regel Teil des Methodenberichts bzw. des Methodenteils einer wissenschaftlichen Publikation. Sie enthalten immer mindestens folgende Angaben: Anwendungszweck, Name des KI-Tools, Anbieter bzw. Anbieterin, Versionsnummer, Datum der Nutzung und URL.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8077,
+      "char_end": 8473,
+      "text": "Typischerweise in diesem Sinne dokumentations- und kennzeichnungspflichtig sind z. B.: KI-Nutzung für die inhaltliche Entwicklung von Interviewleitfäden, Kategoriensystemen oder anderen Elementen der Datenerhebung und -auswertung; die Verwendung KI-generierter Codes (z. B. in Python, R, SQL) zur Datenbearbeitung oder statistischen Analyse und die Verwendung KI-generierter Visualisierungsideen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8473,
+      "char_end": 8491,
+      "text": "\n\n## FOOTNOTES\n\n¹ ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8491,
+      "char_end": 8692,
+      "text": "Die DFG-Stellungnahme betont, dass KI-Einsatz in der Wissenschaft nicht pauschal abgelehnt werden sollte, sondern vielmehr klare Rahmenbedingungen für eine verantwortungsvolle Nutzung erforderlich sind",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8692,
+      "char_end": 8720,
+      "text": ". Sie verweist darauf, dass ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8720,
+      "char_end": 8813,
+      "text": "die bestehenden Leitlinien zur guten wissenschaftlichen Praxis auch für KI-Anwendungen gelten",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8813,
+      "char_end": 8814,
+      "text": ".",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

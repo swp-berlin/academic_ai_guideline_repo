@@ -1,0 +1,996 @@
+{
+  "doc_id": "aspen-institute_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "In recent months, the growing use of Generative Artificial Intelligence (GenAI) technology – including general-purpose and publicly available foundational models like GPT-4, LLaMA, and DALL-E – has captured the public’s attention and dominated news headlines. It has also generated widespread concern about the potential consequences that could emerge from the rapid, unrestricted use of GenAI-based tools. While AI has been around for years, the public availability of large, general-purpose foundational models combined with a significantly lower barrier to access the power of those models is new. This has introduced risks and questions that public and private sector leaders are only beginning to consider.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "To help add clarity to this rapidly unfolding conversation, the Aspen US Cybersecurity Group convened experts to draft high-level guidance on how companies can inform employee use of openly available GenAI technology. What follows is a template guidance document that the Group developed for use by a broad range of organizations. Organizations can revise to fit their specific needs and share with employees and business units that use, rely on, or are considering how employees can or should use openly available GenAI-based solutions (as distinct from use of company-approved GenAI enterprise products). The guidance is targeted towards general employee populations and is designed to serve as a baseline document for companies to adapt to fit their specific organizational needs. No organization should adopt it without first reconciling it against its own unique policies, procedures, and legal and regulatory guidelines.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Importantly, the guidance provided below is relevant as of this report’s publication in September 2023. The GenAI playing field is changing quickly, and before using this document, organizations should assess whether it is still relevant to their specific organizational needs and to the current state of technology, law, and regulation.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "We encourage organizations to use any portion of this guidance that is relevant to their needs and to modify it as they see fit. No attribution is necessary.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative AI (GenAI) is the latest development in the field of AI and is an advanced form of machine learning that creates an opportunity to produce new content using large language models (LLMs) that have been trained on large amounts of data, including audio, text, images, code, simulations, and videos.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "GenAI, as with all other forms of AI, has the potential to transform our business, our industry, and our competition.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "We encourage all Staff to explore and innovate with GenAI, but to do so responsibly. This means understanding GenAI’s risks and limitations as well as abiding by the general guiding principles outlined below.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "We require that you use GenAI-based tools consistent with this Guidance. If you are in doubt, please consult with your supervisors and leaders. As we continue to define further use cases for our businesses and operations, we will provide additional guidance.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "This guidance is current as of September 20, 2023.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This guidance addresses how you can use openly available instances of GenAI, such as ChatGPT, Bard, or Bing AI, and not company developed or approved enterprise products. For those tools, please follow guidance specific to them.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Before beginning to use GenAI, it is important to understand its limitations and associated risks. Our ability to control and monitor the following aspects of model implementation is key to our ability to exercise responsible AI practices.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Foundational GenAI models are built on a very large pool of training data, but these sources are still finite. As a result, that data, its uses, and outputs may:",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Not be accurate. Outputs may be inaccurate, unverifiable, and possibly out of date. This type of erroneous output includes overly confident responses not merited by training data, sometimes referred to as AI “hallucinations.”",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Infringe third party intellectual property rights. Due to the way GenAI creates outputs based on the data available to it, results could lead to intellectual property rights infringements.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Breach privacy rights. Outputs may violate privacy and data protection laws.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Include data which is biased or discriminatory. This may lead to outputs which in turn amplify that bias.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Disclose confidential information. Data provided in prompts is used to train the model and can be incorporated into the model itself. This could result in the disclosure of confidential information.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "As a result, it is important to understand the full scope of our data classification policies, and what distinguishes “confidential” from “public” information.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The data issues that can occur with openly available models generally do not exist with our internal GenAI models, which are typically built for a specific purpose and which we can manage. Therefore, while this technology brings great potential, when using openly available models you must consider the risks to our business and reputation in every engagement.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "You are responsible and accountable for your use of GenAI. To help guide your use of GenAI-based tools, we provide below basic principles that should inform your thinking as you prepare to use this technology.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "However, it is important to remember that the GenAI landscape is still rapidly developing, and the capabilities, norms, and rules around use of the technology are not yet solidified. As a result, whether and how these principles and best-practices apply to your specific facts might change with time. If in doubt, ask.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "As you begin to use GenAI you will need to:",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Identify existing policies, processes, tools and frameworks that apply to the use of GenAI, including in the area of corporate security, technology, privacy, data handling, copyright and third-party risk management.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Develop a standardized risk assessment framework that incorporates risks due to limitations of the technology as well as the risks of applying the technology in your specific business process, as you would with any third-party software or tool.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Upskill teams so they are able to detect issues unique to GenAI, such as concept drift and hallucinations.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "- Implement governance measures that address key areas of risk such as cybersecurity, privacy, legal, compliance, and regulatory risks; and consider establishing a Governance Council to facilitate multi-stakeholder engagement and provide senior oversight over the use of GenAI.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Protect proprietary data and intellectual property via technical and contracting mechanisms.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Monitor the use of the technology for compliance with evolving laws as well as policies and procedures we have implemented.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Learn how GenAI works. Several publicly available sources explain the concepts behind GenAI and how it operates, and having a basic understanding of these principles will help you ask the right questions when working with these technologies.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Realize that GenAI may not necessarily be the right tool for every task or problem. It’s okay to decide that GenAI is not appropriate in certain situations.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "- Ask questions of your peers, supervisors, and leaders and share your knowledge with them. Many companies, including ours, are creating new policies, procedures, and infrastructure to guide their use of GenAI in a manner that preserves data privacy, security, confidentiality, and intellectual property—and we all benefit from ongoing dialogue and questions.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The following are examples of acceptable and unacceptable uses of publicly available GenAI technologies. Nonetheless, these dos and don’ts are built on the following baseline assumptions: (a) you only provide non-personal, non-confidential, and non-proprietary and/or public information to the foundational models; (b) no output is used for a commercial purpose; and (c) any code or model generated is not put into production unless there is specific guidance and approvals allowing you to do so.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dos",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Conduct queries and searches multiple times, and in multiple ways, to understand variance in outputs.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Create training, tutorials, and images for internal purposes, based on textual instructions (e.g., for inspiration in brainstorming, team meetings, internal presentations).",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Debug code using test samples not sourced or derived from company code.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Experiment with code creation capabilities to learn how GenAI can create code and to evaluate the potential utility of such code.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Expand perspectives and new ideas for inspiration and brainstorming.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Comply with existing approval processes as applicable. This guideline includes submitting to the governance council (if established) for review and approval all GenAI use cases that leverage foundational models, such as ChatGPT. However, use cases leveraging single-purpose models (e.g., translation models), or models that are built internally, may follow standard processes and principles, such as AI Governance and Privacy by Design.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "If you are working with a GenAI use case that has been approved through the governance process, you still must:",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Exercise human oversight over all uses of GenAI.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Document how you used GenAI and any results you discarded, as well as why a specific output was used.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Communicate about the instances in which GenAI was used, including to the colleagues exposed to the output.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Turn off chat history if you plan to make any use of the chat.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Don’ts",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "When exploring GenAI with commercially available tools, don’t:",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Provide or input any proprietary, confidential, or sensitive data, including any confidential, personal, and/or customer information into commercially available or public instances of GenAI, unless otherwise set forth in these guidelines, or if the software has already been reviewed and approved for your specific use case.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Use any outputs (or otherwise utilize any GenAI tool) in any commercial product or solution (including proofs of concept or market tests and marketing material) or otherwise in a commercial context unless specifically approved.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Provide any output from GenAI to external third parties.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Retain or otherwise partner with any service provider that leverages GenAI without reviewing their use of the technology. While the vendor may have done due diligence, this new technology has launched numerous tools that may not have been vetted during that process.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Use GenAI to write or debug any software code used in any production system or infrastructure unless there is additional, specific guidance and approvals allowing you to do so.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Share any outputs externally. If you are sharing internally for non-commercial uses you still must have any outputs reviewed for privacy and legal compliance, accuracy, bias or offensive material, as well as label the material as being created by AI.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "understanding generative ai's risks and limitations",
+      "repaired": true
+    },
+    {
+      "id": 54,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "we also provide several \"dos and don'ts\" that we believe to be leading practices.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 54,
+    "matched": 54,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.893,
+    "uncovered_chars": 1184,
+    "uncovered_gaps": 7,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 246,
+        "length": 246,
+        "text": "# aspen institute # source: https://www.aspendigital.org/report/navigatingunchartedwaters/ # date: 2023-09-20 # category: template navigating uncharted waters generative ai guidance for organizations september 20, 2023 aspen digital introduction"
+      },
+      {
+        "char_start": 2375,
+        "char_end": 2409,
+        "length": 34,
+        "text": ". background and document purpose"
+      },
+      {
+        "char_start": 5353,
+        "char_end": 5378,
+        "length": 25,
+        "text": ". guiding principles and"
+      },
+      {
+        "char_start": 5999,
+        "char_end": 6020,
+        "length": 21,
+        "text": ". guiding principles"
+      },
+      {
+        "char_start": 7876,
+        "char_end": 7893,
+        "length": 17,
+        "text": ". dos and don'ts"
+      },
+      {
+        "char_start": 9805,
+        "char_end": 9814,
+        "length": 9,
+        "text": ". don'ts"
+      },
+      {
+        "char_start": 11179,
+        "char_end": 12011,
+        "length": 832,
+        "text": ". the aspen us cybersecurity group is the leading crosssector, publicprivate forum for promoting a secure future for america's institutions, infrastructure, and individuals - in cyberspace and beyond. footnotes you can consider models such as the national institute of standards and technology's ai risk management framework https://www.nist.gov/itl/airiskmanagementframework, or the international organization for standardization's guidance on managing ai risks, iso23894 https://www.iso.org/standard/77304.html. ai governance is a set of principles, policies, and practices that govern the development, use, and ethical implications of artificial intelligence (ai). aspen digital's emerging technologies team has developed a new primer on this topic, intro to generative ai https://www.aspendigital.org/report/introtogenerativeai/"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 250,
+      "text": "# Aspen Institute\n# Source: https://www.aspendigital.org/report/navigating-uncharted-waters/\n# Date: 2023-09-20\n# Category: template\n\nNavigating Uncharted Waters\nGenerative AI Guidance for Organizations\nSeptember 20, 2023\nAspen Digital\n\nIntroduction\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 250,
+      "char_end": 961,
+      "text": "In recent months, the growing use of Generative Artificial Intelligence (GenAI) technology – including general-purpose and publicly available foundational models like GPT-4, LLaMA, and DALL-E – has captured the public’s attention and dominated news headlines. It has also generated widespread concern about the potential consequences that could emerge from the rapid, unrestricted use of GenAI-based tools. While AI has been around for years, the public availability of large, general-purpose foundational models combined with a significantly lower barrier to access the power of those models is new. This has introduced risks and questions that public and private sector leaders are only beginning to consider.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 963,
+      "char_end": 1889,
+      "text": "To help add clarity to this rapidly unfolding conversation, the Aspen US Cybersecurity Group convened experts to draft high-level guidance on how companies can inform employee use of openly available GenAI technology. What follows is a template guidance document that the Group developed for use by a broad range of organizations. Organizations can revise to fit their specific needs and share with employees and business units that use, rely on, or are considering how employees can or should use openly available GenAI-based solutions (as distinct from use of company-approved GenAI enterprise products). The guidance is targeted towards general employee populations and is designed to serve as a baseline document for companies to adapt to fit their specific organizational needs. No organization should adopt it without first reconciling it against its own unique policies, procedures, and legal and regulatory guidelines.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1891,
+      "char_end": 2228,
+      "text": "Importantly, the guidance provided below is relevant as of this report’s publication in September 2023. The GenAI playing field is changing quickly, and before using this document, organizations should assess whether it is still relevant to their specific organizational needs and to the current state of technology, law, and regulation.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2230,
+      "char_end": 2387,
+      "text": "We encourage organizations to use any portion of this guidance that is relevant to their needs and to modify it as they see fit. No attribution is necessary.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2387,
+      "char_end": 2421,
+      "text": "\n\nBackground and document purpose\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2421,
+      "char_end": 2728,
+      "text": "Generative AI (GenAI) is the latest development in the field of AI and is an advanced form of machine learning that creates an opportunity to produce new content using large language models (LLMs) that have been trained on large amounts of data, including audio, text, images, code, simulations, and videos.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2729,
+      "char_end": 2846,
+      "text": "GenAI, as with all other forms of AI, has the potential to transform our business, our industry, and our competition.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2848,
+      "char_end": 3056,
+      "text": "We encourage all Staff to explore and innovate with GenAI, but to do so responsibly. This means understanding GenAI’s risks and limitations as well as abiding by the general guiding principles outlined below.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3057,
+      "char_end": 3315,
+      "text": "We require that you use GenAI-based tools consistent with this Guidance. If you are in doubt, please consult with your supervisors and leaders. As we continue to define further use cases for our businesses and operations, we will provide additional guidance.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3317,
+      "char_end": 3367,
+      "text": "This guidance is current as of September 20, 2023.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3369,
+      "char_end": 3597,
+      "text": "This guidance addresses how you can use openly available instances of GenAI, such as ChatGPT, Bard, or Bing AI, and not company developed or approved enterprise products. For those tools, please follow guidance specific to them.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3597,
+      "char_end": 3651,
+      "text": "\n\nUnderstanding generative AI’s risks and limitations\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3651,
+      "char_end": 3890,
+      "text": "Before beginning to use GenAI, it is important to understand its limitations and associated risks. Our ability to control and monitor the following aspects of model implementation is key to our ability to exercise responsible AI practices.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3892,
+      "char_end": 4053,
+      "text": "Foundational GenAI models are built on a very large pool of training data, but these sources are still finite. As a result, that data, its uses, and outputs may:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4054,
+      "char_end": 4281,
+      "text": "- Not be accurate. Outputs may be inaccurate, unverifiable, and possibly out of date. This type of erroneous output includes overly confident responses not merited by training data, sometimes referred to as AI “hallucinations.”",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4282,
+      "char_end": 4472,
+      "text": "- Infringe third party intellectual property rights. Due to the way GenAI creates outputs based on the data available to it, results could lead to intellectual property rights infringements.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4473,
+      "char_end": 4551,
+      "text": "- Breach privacy rights. Outputs may violate privacy and data protection laws.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4552,
+      "char_end": 4659,
+      "text": "- Include data which is biased or discriminatory. This may lead to outputs which in turn amplify that bias.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4660,
+      "char_end": 4860,
+      "text": "- Disclose confidential information. Data provided in prompts is used to train the model and can be incorporated into the model itself. This could result in the disclosure of confidential information.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4862,
+      "char_end": 5021,
+      "text": "As a result, it is important to understand the full scope of our data classification policies, and what distinguishes “confidential” from “public” information.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5023,
+      "char_end": 5383,
+      "text": "The data issues that can occur with openly available models generally do not exist with our internal GenAI models, which are typically built for a specific purpose and which we can manage. Therefore, while this technology brings great potential, when using openly available models you must consider the risks to our business and reputation in every engagement.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5383,
+      "char_end": 5421,
+      "text": "\n\nGuiding principles and dos & don’ts\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5421,
+      "char_end": 5630,
+      "text": "You are responsible and accountable for your use of GenAI. To help guide your use of GenAI-based tools, we provide below basic principles that should inform your thinking as you prepare to use this technology.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5630,
+      "char_end": 5713,
+      "text": " We also provide several “dos and don’ts” that we believe to be leading practices. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5713,
+      "char_end": 6031,
+      "text": "However, it is important to remember that the GenAI landscape is still rapidly developing, and the capabilities, norms, and rules around use of the technology are not yet solidified. As a result, whether and how these principles and best-practices apply to your specific facts might change with time. If in doubt, ask.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6031,
+      "char_end": 6052,
+      "text": "\n\nGuiding principles\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6052,
+      "char_end": 6095,
+      "text": "As you begin to use GenAI you will need to:",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6096,
+      "char_end": 6313,
+      "text": "- Identify existing policies, processes, tools and frameworks that apply to the use of GenAI, including in the area of corporate security, technology, privacy, data handling, copyright and third-party risk management.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6314,
+      "char_end": 6560,
+      "text": "- Develop a standardized risk assessment framework that incorporates risks due to limitations of the technology as well as the risks of applying the technology in your specific business process, as you would with any third-party software or tool.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6561,
+      "char_end": 6669,
+      "text": "- Upskill teams so they are able to detect issues unique to GenAI, such as concept drift and hallucinations.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6670,
+      "char_end": 6947,
+      "text": "- Implement governance measures that address key areas of risk such as cybersecurity, privacy, legal, compliance, and regulatory risks; and consider establishing a Governance Council to facilitate multi-stakeholder engagement and provide senior oversight over the use of GenAI.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6948,
+      "char_end": 7042,
+      "text": "- Protect proprietary data and intellectual property via technical and contracting mechanisms.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7043,
+      "char_end": 7168,
+      "text": "- Monitor the use of the technology for compliance with evolving laws as well as policies and procedures we have implemented.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7169,
+      "char_end": 7412,
+      "text": "- Learn how GenAI works. Several publicly available sources explain the concepts behind GenAI and how it operates, and having a basic understanding of these principles will help you ask the right questions when working with these technologies.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7413,
+      "char_end": 7571,
+      "text": "- Realize that GenAI may not necessarily be the right tool for every task or problem. It’s okay to decide that GenAI is not appropriate in certain situations.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7572,
+      "char_end": 7931,
+      "text": "- Ask questions of your peers, supervisors, and leaders and share your knowledge with them. Many companies, including ours, are creating new policies, procedures, and infrastructure to guide their use of GenAI in a manner that preserves data privacy, security, confidentiality, and intellectual property—and we all benefit from ongoing dialogue and questions.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7933,
+      "char_end": 7936,
+      "text": "Dos",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7936,
+      "char_end": 7941,
+      "text": " and ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7941,
+      "char_end": 7947,
+      "text": "Don’ts",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7948,
+      "char_end": 8444,
+      "text": "The following are examples of acceptable and unacceptable uses of publicly available GenAI technologies. Nonetheless, these dos and don’ts are built on the following baseline assumptions: (a) you only provide non-personal, non-confidential, and non-proprietary and/or public information to the foundational models; (b) no output is used for a commercial purpose; and (c) any code or model generated is not put into production unless there is specific guidance and approvals allowing you to do so.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8444,
+      "char_end": 8450,
+      "text": "\n\nDos\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8450,
+      "char_end": 8553,
+      "text": "- Conduct queries and searches multiple times, and in multiple ways, to understand variance in outputs.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8554,
+      "char_end": 8728,
+      "text": "- Create training, tutorials, and images for internal purposes, based on textual instructions (e.g., for inspiration in brainstorming, team meetings, internal presentations).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8729,
+      "char_end": 8802,
+      "text": "- Debug code using test samples not sourced or derived from company code.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8803,
+      "char_end": 8934,
+      "text": "- Experiment with code creation capabilities to learn how GenAI can create code and to evaluate the potential utility of such code.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8935,
+      "char_end": 9005,
+      "text": "- Expand perspectives and new ideas for inspiration and brainstorming.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9006,
+      "char_end": 9444,
+      "text": "- Comply with existing approval processes as applicable. This guideline includes submitting to the governance council (if established) for review and approval all GenAI use cases that leverage foundational models, such as ChatGPT. However, use cases leveraging single-purpose models (e.g., translation models), or models that are built internally, may follow standard processes and principles, such as AI Governance and Privacy by Design.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9446,
+      "char_end": 9557,
+      "text": "If you are working with a GenAI use case that has been approved through the governance process, you still must:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9558,
+      "char_end": 9608,
+      "text": "- Exercise human oversight over all uses of GenAI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9609,
+      "char_end": 9712,
+      "text": "- Document how you used GenAI and any results you discarded, as well as why a specific output was used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9713,
+      "char_end": 9822,
+      "text": "- Communicate about the instances in which GenAI was used, including to the colleagues exposed to the output.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9823,
+      "char_end": 9887,
+      "text": "- Turn off chat history if you plan to make any use of the chat.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9887,
+      "char_end": 9896,
+      "text": "\n\nDon’ts\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9896,
+      "char_end": 9958,
+      "text": "When exploring GenAI with commercially available tools, don’t:",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9959,
+      "char_end": 10285,
+      "text": "- Provide or input any proprietary, confidential, or sensitive data, including any confidential, personal, and/or customer information into commercially available or public instances of GenAI, unless otherwise set forth in these guidelines, or if the software has already been reviewed and approved for your specific use case.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10286,
+      "char_end": 10515,
+      "text": "- Use any outputs (or otherwise utilize any GenAI tool) in any commercial product or solution (including proofs of concept or market tests and marketing material) or otherwise in a commercial context unless specifically approved.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10516,
+      "char_end": 10574,
+      "text": "- Provide any output from GenAI to external third parties.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10575,
+      "char_end": 10843,
+      "text": "- Retain or otherwise partner with any service provider that leverages GenAI without reviewing their use of the technology. While the vendor may have done due diligence, this new technology has launched numerous tools that may not have been vetted during that process.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10844,
+      "char_end": 11022,
+      "text": "- Use GenAI to write or debug any software code used in any production system or infrastructure unless there is additional, specific guidance and approvals allowing you to do so.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11023,
+      "char_end": 11275,
+      "text": "- Share any outputs externally. If you are sharing internally for non-commercial uses you still must have any outputs reviewed for privacy and legal compliance, accuracy, bias or offensive material, as well as label the material as being created by AI.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11275,
+      "char_end": 12122,
+      "text": "\n\nThe Aspen US Cybersecurity Group is the leading cross-sector, public-private forum for promoting a secure future for America’s institutions, infrastructure, and individuals – in cyberspace and beyond.\n\nFOOTNOTES\nYou can consider models such as the National Institute of Standards and Technology’s AI Risk Management Framework, https://www.nist.gov/itl/ai-risk-management-framework, or the International Organization for Standardization’s guidance on managing AI risks, ISO23894, https://www.iso.org/standard/77304.html.\n\nAI governance is a set of principles, policies, and practices that govern the development, use, and ethical implications of artificial intelligence (AI).\n\nAspen Digital’s emerging technologies team has developed a new primer on this topic, Intro to Generative AI, https://www.aspendigital.org/report/intro-to-generative-ai/.",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}
