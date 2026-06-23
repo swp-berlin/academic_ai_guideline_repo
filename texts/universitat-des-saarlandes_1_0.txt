@@ -1,0 +1,588 @@
+# Universität des Saarlandes
+# Source: https://www.uni-saarland.de/fileadmin/upload/dezernat/ls/Impulse_Inspirationen_generative_KI-Tools.pdf
+# Date: None
+# Category: guideline
+# Download file: universitat-des-saarlandes_1_0.pdf
+# Extraction: mistral-ocr
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+![img-0.jpeg](img-0.jpeg)
+
+# Lehre im Zeitalter von KI: Impulse und Inspirationen im Umgang mit generativen KI-Tools
+
+Dezernat Lehre und Studium | DaTa-Pin | Version 2.0 | 25.01.2024
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT
+DES
+SAARLANDES
+
+## Inhalt
+
+Inhalt...I
+
+Was kann ich von diesem Dokument erwarten?...II
+
+Was gibt es beim Einsatz generativer KI-Tools zu beachten?...II
+
+Und wie klingt es, wenn ChatGPT (Version 3.5) eine „innovative und kreative“ Zusammenfassung
+schreibt, die „Lust auf mehr“ machen soll?...III
+
+1 Welche Bedeutung haben Kompetenzen und Lernziele für meine Lehre?...1
+
+2 Wie kann ich generative KI-Tools wie ChatGPT in meiner Lehre effektiv einsetzen?...4
+
+3 Literatur...21
+
+4 Ressourcen...23
+
+5 Links...24
+
+I
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+## Was kann ich von diesem Dokument erwarten?
+
+Mit dieser Ergänzung zur Handreichung „Empfehlungen zum Umgang mit ChatGPT im Kontext von Prüfungen an der UdS“ möchten wir Ihnen als Dozierenden Ideen und Anregungen mitgeben, wie sie generative KI-Tools, am Beispiel von ChatGPT, in Ihre Lehrveranstaltungen integrieren können. Wir möchten Ihnen innovative Wege aufzeigen, wie Chatbots als leistungsstarkes Werkzeug genutzt werden können, um Hochschullehre kompetenzorientiert zu bereichern. Konkret geht es uns darum, Ihnen Impulse zu geben, wie Sie Studierenden (Handlungs-)Kompetenzen im Umgang mit Chatbots vermitteln können, damit diese in einer sich ständig verändernden Welt erfolgreich agieren können. Hierfür greifen wir auf eine Lernzieltaxonomie (vgl. Anderson et al., 2001; Bloom, 1974) zurück und zeigen auf, wie Sie das Potenzial dieser KI-Technologie in der Hochschullehre nutzen und entsprechende Kompetenzen bei Ihren Studierenden fördern können.
+
+### Was kann ich erwarten?
+
+*Ich erhalte Ideen und Anregungen zur Integration von generativen KI-Tools wie ChatGPT in meine Lehre und vermittele meinen Studierenden KI-bezogene (Handlungs-) Kompetenzen.*
+
+## Was gibt es beim Einsatz generativer KI-Tools zu beachten?
+
+Vorab weisen wir explizit darauf hin, dass generative KI-Tools, wie z. B. ChatGPT, keine zuverlässige wissenschaftliche Quelle darstellen, da diese u. a. Fehler machen und Quellen mitunter frei erfinden. Zudem sind sowohl Dozierende als auch Studierende dazu angehalten, beim Einsatz generativer KI-Tools die Regeln guter wissenschaftlicher Praxis eigenverantwortlich einzuhalten, indem sie beispielsweise die ausgegebenen Quellen selbstständig und kritisch prüfen.
+
+Da die Universität des Saarlandes mit den Anbietern solcher KI-Tools noch keinen Datenverarbeitungsvertrag abgeschlossen hat, können Sie den Einsatz dieser Tools im Rahmen einer Lehrveranstaltung nicht von Ihren Studierenden verlangen, sondern müssen auf die Freiwilligkeit der Nutzung hinweisen. In diesem Fall darf den Studierenden kein Nachteil entstehen.
+
+Mit Blick auf den Datenschutz sollten Sie Ihre Studierenden unbedingt darüber informieren, dass auf keinen Fall personenbezogene und andere sensible bzw. vertraulich zu behandelnde Daten (z. B. Klarnamen, Bankdaten) als Prompts eingegeben werden sollen, weder zur eigenen Person noch zu anderen Personen. Dies hängt unter anderem auch damit zusammen, dass diese Daten zu Trainingszwecken des KI-Tools weiterverwendet werden können und so auch indirekt an andere Nutzer*innen weitergegeben werden können.
+
+![img-1.jpeg](img-1.jpeg)
+
+II
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+## Und wie klingt es, wenn ChatGPT (Version 3.5) eine „innovative und kreative“ Zusammenfassung schreibt, die „Lust auf mehr“ machen soll?
+
+Begleiten Sie uns auf einer fesselnden Expedition in die Welt der Hochschullehre-Innovation! Dieses Dokument öffnet Türen zu den beeindruckenden Potenzialen generativer KI-Tools wie ChatGPT. Hier erfahren Sie nicht nur Theorie, sondern auch, wie Sie geschickt Kompetenzen im Umgang mit generativen KI-Tools bei Ihren Studierenden fördern können. Lernen Sie, Wissensinhalte und kognitive Aktivitäten kreativ zu verknüpfen, um ansprechende Lernziele zu gestalten. Der Schatz an Praxistipps für den Einsatz von KI-Tools wird durch gemeinsame Übungen und klare Kriterien greifbar. Besonders aufregend ist das Prompt-Engineering – ein Wegweiser zu optimalen Ergebnissen. Erkunden Sie das faszinierende Terrain des Chain-of-Thought-Prompting, um komplexe Aufgaben souverän zu bewältigen. Der Gewinn nach dem Lesen des gesamten Dokuments? Schlüssel zu pädagogischem Erfolg durch innovative Technologien in der Lehre – ein Wissensschatz, der Ihre Lehrmethoden nachhaltig revolutionieren wird!
+
+III
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+# 1 Welche Bedeutung haben Kompetenzen und Lernziele für meine Lehre?
+
+Im Laufe ihres Studiums erwerben Ihre Studierenden neben Fachwissen fachspezifische und fächerübergreifende Kompetenzen. „Dabei versteht man unter Kompetenzen die bei Individuen verfügbaren oder durch sie erlernbaren kognitiven Fähigkeiten und Fertigkeiten, um bestimmte Probleme zu lösen, sowie die damit verbundenen motivationalen, volitionalen und sozialen Bereitschaften und Fähigkeiten, um die Problemlösungen in variablen Situationen erfolgreich und verantwortungsvoll nutzen zu können (Weinert, im Druck)“ (Weinert, 2014, S. 27f.). Ein Ziel von Lehre ist es, Studierenden Kompetenzen zu vermitteln, die sie dazu befähigen, „in hochemergenten Organisations- und Praxiskontexten selbstorganisiert (erfolgreich) handlungsfähig zu sein“ (Ehlers, 2020, S. 111), um wissenschaftliche, berufspraktische und gesellschaftliche Problemstellungen erfolgreich bewältigen und lösen zu können (vgl. Arbeitskreis Deutscher Qualifikationsrahmen, 2011; Servicezentrum innovatives Lehren und Studieren, o. D.). Die Universität des Saarlandes adressiert mit ihrem Studienangebots-Portfolio verschiedene Qualifikationsziele. Zu diesen zählt (neben den Zielen „Forschungsorientierung“, „Interdisziplinarität“, „internationale Orientierung“, „individuelles Qualifikationsprofil“, „Praxisorientierung“ und „Verantwortung“) auch das Ziel „digitale Kompetenzen“. Hier geht es darum, inwiefern Absolvent*innen grundlegende fachgebundene und/oder fachübergreifende Kenntnisse und Fähigkeiten erwerben, die für eine fundierte Nutzung von Informations- und Kommunikationstechnik sowie digitalen Medien erforderlich sind. Gerade digitale Kompetenzen haben mit der „Veröffentlichung“ von ChatGPT im November 2022 noch einmal mehr an Bedeutung gewonnen und gelten als Schlüsselkompetenzen für lebenslanges Lernen; sie umfassen den sicheren, kritischen und verantwortungsvollen Gebrauch von und Umgang mit digitalen Technologien in Bezug auf die Bereiche Lernen, Arbeiten und gesellschaftliche Teilnahme (vgl. Vuorikari et al., 2022; s. Abbildung 1).
+
+# Was ist Kompetenz?
+
+Kompetenz umfasst die verfügbaren und erlernbaren kognitiven Fähigkeiten und Fähigkeiten, um Probleme zu lösen, sowie die Motivation, die Entschlossenheit und die sozialen Fähigkeiten, um diese Fähigkeiten in unterschiedlichen Situationen effektiv und verantwortungsvoll einzusetzen (vgl. Weinert, 2014).
+
+1
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+## Abbildung 1
+
+Übersicht über die digitalen Kompetenzen von The Digital Competence Framework for Citizens (DigComp; EU Science Hub, o. D.)
+
+![img-2.jpeg](img-2.jpeg)
+
+Die zur Erreichung der Qualifikationsziele relevanten Lernziele werden im Modulhandbuch definiert. Es empfiehlt sich, die zu erwerbenden Kompetenzen im Sinne der Output-Orientierung als operationalisierbare Lernergebnisse bzw. Lernziele zu formulieren: „In education, objectives indicate what we want students to learn; they are ‚explicit formulations of the ways in which students are expected to be changed by the educative process‘ (Handbook, 1956, p. 26)“ (Anderson et al., 2001, S. 3). Eine Möglichkeit, Lernziele und damit verbundene Kompetenzen zu beschreiben, bieten Lernzieltaxonomien. Diese sind charakterisiert durch Niveaustufen, bei denen jede Stufe „Aussagen darüber [umfasst], was Studierende am Ende eines Lernprozesses in welcher Tiefe und Breite beherrschen sollen“ (Baumann & Benzing, 2013, S. 5). Dabei zeichnen sich höhere Taxonomiestufen durch höhere Anforderungen aus und bauen auf den Anforderungen der darunter liegenden Taxonomiestufen auf (vgl. Baumann & Benzing, 2013).
+
+Eine der bekanntesten Lernzieltaxonomien ist die Taxonomie kognitiver Lernziele nach Bloom (1974), die von Anderson et al. (2001) überarbeitet und weiterentwickelt wurde. Die Taxonomietabelle nach Anderson et al. (2001) setzt sich zusammen aus vier Wissensdimensionen (Faktenwissen, konzeptuelles, prozedurales und metakognitives Wissen) und sechs kognitiven Prozessdimensionen (Erinnern, Verstehen, Anwenden, Analysieren, Bewerten, Erschaffen). Jede dieser kognitiven Prozessdimensionen wird mit zwei oder mehr spezifischen kognitiven Prozessen in Verbindung gebracht, die ebenfalls in Form von Verben formuliert bzw. operationalisiert werden (vgl. Anderson et al., 2001, S. 30; vgl.
+
+2
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Abbildung 2). Ein Lernziel, das Sie entsprechend der Taxonomietabelle formulieren können, setzt sich zusammen aus dem Wissensinhalt, mit dem sich die Studierenden auseinandersetzen, und der kognitiven Aktivität, die angibt, wie die Studierenden sich mit dem Wissensinhalt auseinandersetzen (vgl. Anderson et al., 2001), z. B.: Die Studierenden können die drei Bedürfnisse der Selbstbestimmungstheorie nach Deci und Ryan (1993; Wissensinhalt) nennen (kognitive Prozessdimension: Erinnern; kognitiver Prozess: erinnern) und ihre Bedeutung an einem selbst gewählten Beispiel erläutern (kognitive Prozessdimension: Verstehen; kognitiver Prozess: veranschaulichen). Konkrete Hinweise zum Formulieren von kompetenzorientierten Lernzielen entnehmen Sie bitte dem How-to-Lernergebnisse-formulieren. Wir fokussieren in diesem Dokument die sechs kognitiven Prozessdimensionen, die wir Ihnen im Folgenden kurz vorstellen (vgl. Abbildung 2).
+
+Wie formuliere ich kompetenzorientierte Lernziele?
+
+Ich verbinde den
+
+Wissensinhalt, mit dem sich die Studierenden auseinandersetzen,
+
+mit der
+
+kognitiven Aktivität, die angibt, wie die Studierenden sich mit dem Wissensinhalt auseinandersetzen.
+
+# Abbildung 2
+
+Übersicht über die sechs kognitiven Prozessdimensionen nach Anderson et al. (2001)
+
+|  Kognitive Prozessdimension | Kognitiver Prozess, der bei den Studierenden aktiviert werden soll | Beispiele für Verben, die diesen Prozess beschreiben (Operatoren)  |
+| --- | --- | --- |
+|  JER JSCHAFFEN | generieren, planen, entwickeln | einschätzen, konstruieren, kreieren, entwerfen, erzeugen, entwerfen, ...  |
+|  BEURTEILEN | überprüfen, bewerten | argumentieren, sich beziehen auf, prüfen, sammeln, gestalten, folgern, ...  |
+|  ANALYSIEREN | differenzieren, organisieren, zuordnen | ableiten, darstellen, kontrastieren, schlussfolgern, untersuchen, auswerten, ...  |
+|  ANWENDEN | ausführen, implementieren | nutzen, planen, Beispiele geben, lösen, zeigen, umsetzen, ...  |
+|  VERSTEHEN | interpretieren, veranschaulichen, klassifizieren, zusammenfassen, folgern, vergleichen, erklären | abgrenzen, durch ein Beispiel erläutern, übertragen, einordnen, diskutieren, gegenüberstellen, bestimmen, ...  |
+|  ERINNERN (WISSEN) | erkennen, erinnern | abstimmen, auflisten, schildern, wiederholen, darstellen, benennen, ...  |
+
+Eigene Abbildung entwickelt in Anlehnung an Anderson et al. (2001) unter Zuhilfenahme der Operatoren von Bloom (1974) und Schermutzki (2007)
+
+Im Folgenden geben wir Ihnen Anregungen und Impulse, wie Sie und Ihre Studierenden Chatbots, z. B. ChatGPT, in einer Lehrveranstaltung kompetenzorientiert nutzen können. Die
+
+3
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT^{}[] DES^{}[] ^{}[] SAARLANDES
+
+Kompetenzorientierung basiert dabei auf den oben dargestellten kognitiven Prozessdimensionen nach Anderson et al. (2001).
+
+## 2 Wie kann ich generative KI-Tools wie ChatGPT in meiner Lehre effektiv einsetzen?
+
+Entsprechend der Handreichung „Empfehlungen zum Umgang mit ChatGPT im Kontext von Prüfungen an der UdS“ sehen wir den Einsatz von generativen KI-Tools wie beispielsweise ChatGPT in Lehre und Studium als ein Hilfsmittel zur Informationsbeschaffung (siehe auch Ständige Wissenschaftliche Kommission der Kultusministerkonferenz [SWK], 2024), jedoch nicht als einen Ersatz für wissenschaftliches Arbeiten: „The key to successfully integrating AI into education lies in understanding that AI tools are not a replacement for human expertise but rather that they are tools that can augment and enhance it“ (Sims, 2023, Paragraph 9). Dieser Ansatz ist umso wichtiger, da beispielsweise ChatGPT immer wieder Fehler macht, Probleme beim Schlussfolgern hat, nicht priorisieren kann und Quellen mitunter frei erfindet (Thorp, 2023; van Dis et al., 2023). Daraus folgt, dass generative KI-Tools keine zuverlässige wissenschaftliche Quelle darstellen und die Anwender*innen dazu angehalten sind, Quellenangaben generativer KI-Tools noch einmal eigenständig zu recherchieren und kritisch zu überprüfen. Zudem ist es essenziell, beim Einsatz generativer KI-Tools die Regeln guter wissenschaftlicher Praxis einzuhalten, z. B. Kennzeichnen des eingesetzten KI-Tools als Quelle und Dokumentation der eingesetzten Prompts.
+
+Der „erfolgreiche“ Einsatz von Chatbots steht und fällt damit, dass Ihre Studierenden lernen, KI-generierte Inhalte und dort genannte Quellen kritisch zu überprüfen und zu reflektieren. Hierin spiegeln sich die oben erwähnten digitalen Kompetenzen (vgl. Vuorikari et al., 2022) wider. In Zusammenhang mit dem Einsatz künstlicher Intelligenz kann von „AI literacy“ gesprochen werden: „(...) a set of competencies that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace“ (Long & Magerko, 2020, S. 2; vgl. Laupichler et al., 2023).
+
+Damit Ihre Lernenden KI-Tools im Sinne von AI literacy kompetenzorientiert einsetzen können, benötigen sie fachliches Vorwissen und grundlegende Kompetenzen im wissenschaftlichen Arbeiten wie z. B. Recherchieren wissenschaftlich zuverlässiger Quellen und deren Prüfung anhand fachimmanenter wissenschaftlicher Kriterien (vgl. SWK, 2024). Zusammengekommen erhalten damit „auch klassische[n] Lernziele[n] im Bereich des wissenschaftlichen Arbeitens neue Relevanz. Hier lassen sich beispielsweise kritisches Denken, Quellenkritik, Reflexionsfähigkeit und allgemeine Medienkompetenz nennen. Diese ‚klassischen‘ Kompetenzen bieten in Verbindung mit neuen, spezifischen Kompetenzen das Rüstzeug, damit Studierende KI-Schreibwerkzeuge im akademischen Kontext sinnvoll
+
+4
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+einsetzen können“ (Salden & Leschke, 2023, S. 14). Möchten Sie in Ihren Lehrveranstaltungen generative KI-Tools wie ChatGPT einsetzen, ist es aus unserer Sicht wichtig, die Anwendung dieser Tools mit den Studierenden zu üben, (gemeinsam) Kriterien für deren Einsatz zu erarbeiten und festzulegen.
+
+Hierfür können Sie die o. g. Lernzielebenen und die dazugehörigen Operatoren in zweifacher Hinsicht nutzen. Erstens, damit Sie kompetenzorientierte Lernziele für Ihre Lehrveranstaltung formulieren können, um so Ihren Studierenden transparent aufzuzeigen, welche Kompetenzen sie in Ihrer Lehrveranstaltung erwerben werden. Dazu kann auch gehören, dass Sie Lernziele in Bezug auf den Umgang mit KI-Tools generieren, z. B. was den Einsatz von und den Umgang mit KI-basierten Schreibtools betrifft: „Studierende können die Funktionsweise KI-basierter Schreibtools erklären sowie beurteilen, welche Möglichkeiten und Grenzen die Unterstützung durch solche Tools hat. Studierende können KI-basierte Schreibtools im Sinne von Schreibassistenzsystemen für ihre akademische Textproduktion einsetzen, so dass sie auf Wunsch bei der Formulierung, bei der Schärfung von Ideen und Argumentation sowie bei der stilistischen Überarbeitung unterstützen. Dies beinhaltet die Kompetenz, den Textoutput von KI-Schreibwerkzeugen zu reflektieren, zu redigieren und in eigene Textstrukturen zu integrieren“ (Salden & Leschke, 2023, S. 13).
+
+Zweitens können Ihre Studierenden die Operatoren nutzen, um daraus Prompts als Eingabe für den verwendeten Chatbot zu generieren. Damit Ihre Studierenden zielbezogen und „erfolgreich“ mit dem Chatbot kommunizieren können, ist es in einem ersten Schritt wichtig, die Aufgabenstellung im Vorfeld präzise zu analysieren: Was ist das Ziel der Aufgabenstellung? Welche Teilschritte sind zur Zielerreichung notwendig? An welcher Stelle des Zielerreichungsprozesses kann ich den Chatbot einbinden? Hierfür müssen die Studierenden über Vorwissen verfügen und in der Lage sein, eine kritisch-reflexive Metaebene einzunehmen (Azaria, 2022; vgl. SWK, 2024). In einem zweiten Schritt ist es essenziell, mit den Studierenden zu erarbeiten, wie sie „gute“ Prompts formulieren können (für erste Ideen siehe How-to-Prompt-in-ChatGPT); „gut“ bezieht sich dabei auf aufgabenbezogen und zielführend im Hinblick darauf, der Lösung der Aufgabe mit Hilfe von ChatGPT näherzukommen.
+
+Wie kann ich anfangen, wenn ich KI-Tools in meine Lehrveranstaltung einbinden möchte?
+
+Ich übe die Anwendung von KI-Tools (gemeinsam) mit meinen Studierenden.
+
+Ich lege Kriterien für deren Einsatz fest:
+
+1. Ich formuliere kompetenzorientierte Lernziele in Bezug auf den Umgang mit KI-Tools und verwende hierfür Operatoren.
+2. Die Studierenden nutzen Operatoren für die Erstellung von Prompts.
+
+5
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Die Qualität der formulierten Prompts hat Einfluss auf die Qualität der von dem Chatbot generierten Antworten: „Das Ziel des ‚Prompt-Designs‘ bzw. ‚Prompt-Engineerings‘ [eigene Hervorhebung] ist, die geeignetste inhaltliche und formale Struktur für einen Prompt zu finden, die es dem Sprachmodell ermöglicht, die gestellte Aufgabe möglichst gut zu lösen (Liu et al. 2021). Kleine Ergänzungen am Prompt können hierbei zu einer qualitativ besseren Ausgabe führen“ (Larsen & Weßels, 2022, Paragraph 1). Gerade bei komplexeren Aufgabenstellungen empfiehlt es sich, diese in Teilaufgaben zu zerlegen und im Sinne des Chain-of-Thought-Prompting entsprechende, „verfeinerte“ (Teil-)Prompts einzugeben: „Einen deutlichen Effekt hat die Ergänzung ‚Denken wir Schritt für Schritt...‘ oder einer Form davon, in der deutlich wird, dass ein schrittweises Vorgehen nötig ist. Das Sprachmodell wird dadurch angeregt, ein schrittweises Vorgehen zur Lösung einer Aufgabe darzustellen und auf diese Weise seine vermeintliche Gedankenkette (CoT [Chain of Thought]) für die Anwender sichtbar zu machen“ (Larsen & Weßels, 2022, Paragraph 1).
+
+Eine Möglichkeit, einen geeigneten inhaltlichen Prompt zu generieren, um eine möglichst „gute“ Lösung für die Problemstellung zu finden, besteht darin, einen sog. „Mega Prompt“ zu formulieren (vgl. Abbildung 3). Damit wird das Ziel verfolgt, den Chatbot möglichst passgenau auf die Aufgabenlösung vorzubereiten. Gleichzeitig erleichtert die Formulierung eines Mega-Prompts einen fortlaufenden Kommunikationsprozess mit dem*der Nutzer*in, um die Ergebnisse zu verfeinern. Ein Mega-Prompt umfasst sechs Abschnitte: 1) die Rolle, die das KI-System simulieren soll, 2) die konkrete Aufgabe bzw. Tätigkeit, die zu erledigen ist, 3) die definierten Arbeitsschritte in ihrer Reihenfolge, 4) den Kontext mit Nebenbedingungen und Einschränkungen, 5) das klare Ziel des Dialogs sowie 6) das gewünschte Format für die Rückmeldung des Bots.
+
+Was ist Prompt-Engineering und wie können meine Studierenden es nutzen?
+
+Dabei wird die formale und inhaltliche Struktur von Prompts so optimiert bzw. verfeinert, dass der bestmögliche Output generiert werden kann. Die Qualität des Prompts hat einen erheblichen Einfluss auf die Qualität der Antwort.
+
+6
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Abbildung 3
+
+Aufbau eines Mega-Prompts für ChatGPT nach Rob Lennon (2023)
+
+![img-3.jpeg](img-3.jpeg)
+
+Auch für das Chain-of-Thought-Prompting können Studierende die oben genannten Operatoren nutzen, indem sie Operatoren höherer kognitiver Prozessdimensionen verwenden und somit in einen „anspruchsvolleren“ Dialog mit dem Chatbot treten. Interessant wird sein, wie sich die (nach und nach) optimierten Prompts auf die Qualität der Antworten auswirken und wie sich die Arbeitsergebnisse Ihrer Studierenden zu derselben Aufgabenstellung unterscheiden werden, in Abhängigkeit von der Qualität der formulierten (Teil-)Prompts. Die Unterschiedlichkeit der Antworten von ChatGPT als einem möglichen Chatbot hängt damit zusammen, dass diese auf einem künstlichen neuronalen Netz basieren, welches versucht, aufgrund von statistischer Wahrscheinlichkeit Antworten zu erzeugen. Somit wird ChatGPT auf unterschiedliche Prompts unterschiedliche
+
+Was ist Chain-of-Thought-Prompting und wie können meine Studierenden es nutzen?
+
+Dabei handelt es sich im Sinne des Prompt-Engineerings um durch Operatoren optimierte Prompts.
+
+Eine komplexe Aufgabe wird dabei in Teilaufgaben unterteilt, die Schritt für Schritt (vgl. Gedankenkette) mit Hilfe des KI-Tools bearbeitet werden.
+
+7
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Antworten liefern und aufgrund der Komplexität des zugrunde liegenden statistischen Modells auf dieselbe Frage nicht dieselbe Antwort geben (vgl. Fleischmann, 2023). Im Sinne des Kompetenzerwerbs können Sie die unterschiedlichen Ergebnisse Ihrer Studierenden und die Prompts, welche diese zu diesem Ergebnis geführt haben, mit der Gruppe diskutieren und anhand der zuvor erarbeiteten Kriterien, wie „gute“ Prompts formuliert werden sollten, kritisch reflektieren. Im Abschnitt „Ressourcen“ finden Sie passende How-to-Konzepte und Links, die Sie gerne auch an Ihre Studierenden weitergeben können, damit sie sich mit der Formulierung „guter“ Prompts im Sinne des Kompetenzerwerbs eigenständig auseinandersetzen können.
+
+Im Folgenden finden Sie erste Anregungen dazu, wie Sie Chatbots basierend auf den o. g. kognitiven Prozessdimensionen in Ihren Lehrveranstaltungen einsetzen können. Die Ideen sind zu einem Großteil dem Beitrag von Fleischmann (vgl. 2023, S. 20ff.) entnommen.
+
+## Erinnern (Wissen)
+
+Sie können...
+
+- ... Chatbots für ein erstes Brainstorming nutzen (vgl. Fleischmann, 2023).
+- ... mit Hilfe eines Chatbots reproduzierbares Faktenwissen generieren.
+
+## Verstehen
+
+Sie können mit Hilfe von Chatbots...
+
+- ... wissenschaftliche Texte für einen schnellen Überblick zusammenfassen lassen.
+- ... schwer zu verstehende Textabschnitte umschreiben lassen.
+- ... Gliederungen oder Leitfragen zu wissenschaftlichen Texten erstellen lassen, die Ihnen und/oder Ihren Studierenden beim Lesen eine Struktur geben.
+- „... Kurzzusammenfassungen von Kapiteln schreiben“ (Fleischmann, 2023, S. 20) lassen.
+- ... fremdsprachige Texte übersetzen lassen.
+- ... aus einem Kapitel die wichtigsten Kernbegriffe extrahieren lassen, die Ihre Studierenden wiederum nutzen können, um z. B. eine Mindmap selbst zu strukturieren.
+- ... Beispiele oder Gegenbeispiele zu einem Thema generieren lassen, um z. B. Aussagen zu verdeutlichen (vgl. Mah, 2023).
+- „... Textpassagen kürzen, korrigieren, eleganter formulieren.“ (Fleischmann, 2023, S. 21)
+
+8
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+- ... Fachbeiträge (Artikel, Konferenzbeiträge u. Ä.) auf ein „einfacheres“ Niveau bringen (vgl. Fleischmann, 2023).
+
+## Anwenden
+
+Sie können...
+
+- ... den Chatbot dazu auffordern, die sokratische Methode anzuwenden, so dass dieser die Studierenden als virtueller Gesprächspartner durch einen sokratischen Dialog führt.
+- ... Ihre Studierenden dazu anregen, den Chatbot beispielsweise dazu aufzufordern, eine für Ihr Fach spezifische Methode auf eine Frage- oder Problemstellung anzuwenden. Die Studierenden können sich im Vorfeld eigene Lösungen auf die Frage- oder Problemstellung überlegen und ihre Antworten den von dem Chatbot generierten Antworten gegenüberstellen. Aktivitäten auf der kognitiven Prozessdimension „Anwenden“ beziehen sich darauf, einen Handlungsablauf (ein Schema, eine Methode) in einer bestimmten Situation anzuwenden (vgl. Servicezentrum innovatives Lehren und Studieren, o. D.).
+- ... Ihre Studierenden dazu anregen, eigene inhaltliche Arbeiten oder Texte mithilfe von Chatbots zusammenzuführen oder zu mischen, um darauf aufbauend nachfolgende Arbeitsschritte zu gestalten (vgl. Fleischmann, 2023).
+
+## Analysieren
+
+Sie können...
+
+- ... Ihre Studierenden dazu anregen, wissenschaftliche Texte oder Auszüge davon in Chatbots einzugeben und anschließend zu überprüfen, welche Inhalte „weggefallen“ sind oder ob sich der „rote Faden“ und die Argumentationslinie in der von dem Chatbot generierten Zusammenfassung noch widerspiegeln. Die Aufgabe der Studierenden besteht also darin, die KI-generierte Zusammenfassung kritisch zu prüfen.
+- ... Ihre Studierenden dazu anregen, Chatbots Argumente für eine Pro-Contra-Diskussion zusammenstellen zu lassen (vgl. Fleischmann, 2023).
+
+9
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+## Beurteilen
+
+Sie können...
+
+- ... Studierenden z. B. KI-generierte Texte, Antworten oder Argumente zu einem fachspezifischen Thema geben und diese anhand fachimmanenter Kriterien bewerten lassen. In diesem Zusammenhang bietet es sich an, mit Ihren Studierenden im Vorfeld zu erarbeiten, welche Bewertungskriterien sie anlegen, z. B. im Hinblick auf fachliche Richtigkeit, Argumentationsstruktur oder im Hinblick darauf, ob alle wesentlichen Elemente von Texten dieses Faches/dieses Genres enthalten sind.
+- ... sich „anhand von Bewertungskriterien Feedback zu Textpassagen geben“ (Fleischmann, 2023, S. 21) lassen. Diese Funktion können auch Ihre Studierenden nutzen, um beispielsweise ChatGPT Feedback zu Texten generieren zu lassen, welche die Studierenden zu einem Fachthema verfasst haben. Hierfür können die Studierenden wiederum zuvor (gemeinsam) erarbeitete Bewertungskriterien als Prompts in den Chatbot eingeben. In einem weiteren Schritt können die Studierenden das KI-basierte Feedback beispielsweise mit studentischem Peer-Feedback, gegeben von ihren Kommiliton*innen, vergleichen.
+- ... Ihre Studierenden reflektieren lassen, ob Antworten auf offen formulierte Fragen von Menschen oder von Chatbots gegeben wurden, und Ihre Studierenden ihre Antworten kriterienbasiert begründen lassen (vgl. Fleischmann, 2023).
+
+## (Er-)Schaffen
+
+Sie können...
+
+- ... Chatbots nutzen, um Skripte für Erklärvideos und Podcasts produzieren zu lassen.
+- ... aus Stichwortlisten Texte generieren, Textzusammenfassungen oder Lückentexte erstellen lassen (vgl. Fleischmann, 2023).
+
+In der nachfolgenden Tabelle (Tabelle 1) finden Sie detaillierte Anregungen und Impulse, wie Sie ChatGPT stellvertretend für Chatbots bzw. andere generative KI-Tools als Unterstützung so einsetzen können, dass bei Ihren Studierenden Lernaktivitäten auf den sechs kognitiven Prozessdimensionen (Anderson et al., 2001; vgl. Abbildung 2) angeregt werden.
+
+10
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+**Tabelle 1**
+
+*Impulse zum Einsatz von Chatbots am Beispiel von ChatGPT in Lehrveranstaltungen basierend auf den kognitiven Prozessdimensionen nach Anderson et al. (2001)*
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|  **Lernzielebene Erinnern (Wissen)**  |   |
+|  Erkennen | ChatGPT als Suchmaschine bzw. Nachschlagewerk Die Studierenden lesen einen Textauszug und verwenden ChatGPT, um eventuelle Unklarheiten zu beseitigen oder zusätzliche Informationen zu erhalten. Ihre Hauptaufgabe besteht darin, allgemeingültige Konzepte oder Prinzipien ausfindig zu machen, so die Kernaussage(n) zu erkennen und den Inhalt zu verstehen.  |
+|  Erinnern | ChatGPT als Erinnerungsstütze ChatGPT kann z. B. in die Methode des Gruppenpuzzles eingebaut werden: Jede Stammgruppe bearbeitet das gesamte Thema, wobei jedem*r Studierenden*r nur ein Teilbereich des Gesamtthemas zugewiesen wird. Er*Sie ist also Expert*in für dieses Unterthema und erarbeitet zunächst in Einzelarbeit den Inhalt des Unterthemas. In der zweiten Phase trifft sich der*die Studierende mit den anderen Expert*innen für denselben Teilbereich in der Expert*innengruppe. Hier werden die Ergebnisse diskutiert und zusammengetragen. Wieder zurück in der eigenen Stammgruppe, vermitteln die Expert*innen den anderen Mitgliedern das erarbeitete und optimierte Wissen. Die Studierenden schlüpfen so abwechselnd in die Rolle von Lehrenden und von Lernenden und fügen die verschiedenen Teilbereiche des Gesamtthemas zusammen. Alle Mitglieder erhalten so einen fundierten Gesamtüberblick. Als Abschluss dieser Methode sollten die Ergebnisse im Plenum zusammengetragen und gesichert werden.  |
+
+11
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|   | ChatGPT kann hier zum Einsatz kommen, um beispielsweise eine Gedächtnisstütze zum jeweiligen Thema bzw. Unterthema zu erstellen, unter anderem in Form von Merklisten oder Tabellen. Diese können für die Präsentation innerhalb der Gruppe oder der abschließenden Präsentation im Plenum genutzt werden.  |
+|  **Lernzielebene Verstehen**  |   |
+|  Interpretieren | ChatGPT als Diskussionspartner*in In der Vorbereitung auf eine Seminardiskussion können Studierende gebeten werden, einen Text zu interpretieren und Argumente für ihren eigenen Standpunkt eigenständig auszuarbeiten. Als Übung für eine bevorstehende Diskussion im Plenum können die Studierenden zunächst mit ChatGPT interagieren, um ihre Gedanken weiter zu präzisieren und so eine kritische Perspektive zu entwickeln. Hierbei sollten sie ChatGPT jedoch unbedingt vorab Input dazu geben, welchen Standpunkt das KI-Tool während der Diskussion einnehmen soll, z. B. kann es die Rolle des „Advocatus Diaboli“ einnehmen, der grundsätzlich Gegenargumente liefert. Indem die Studierenden die verschiedenen Standpunkte berücksichtigen, werden ihre eigenen kritischen Fähigkeiten trainiert. Diese Übung mit ChatGPT kann dazu beitragen, dass die Studierenden ihre eigenen Interpretationen und Ansichten besser strukturieren, begründen und verteidigen können. Nach der Diskussion mit ChatGPT können sie dann ihre Argumente und Perspektiven in einer realen Diskussion mit ihren Kommiliton*innen vertreten.  |
+
+12
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|  Vergleichen | ChatGPT als Unterstützung bei Vergleichen Dozierende können Studierende auffordern, mithilfe von ChatGPT zwei unterschiedliche Ansätze oder Modelle in ihrem Fachgebiet zu kontrastieren und so Gemeinsamkeiten und Unterschiede herauszuarbeiten, um das kritische Denken zu fördern.  |
+|  Erklären | ChatGPT als Tutor*in Studierende können gebeten werden, mithilfe von ChatGPT ein komplexes Thema oder eine Theorie zu erarbeiten. Die Studierenden können ChatGPT verwenden, um das gewählte Thema besser zu verstehen. Sie können Fragen stellen, um Unklarheiten zu beseitigen, zusätzliche Informationen zu sammeln und nach vereinfachten Erklärungen für schwierige Konzepte zu suchen. Nachdem die Studierenden ein tieferes Verständnis entwickelt haben, sollten sie in der Lage sein, das komplexe Thema in eigenen Worten zu erklären. Hier bieten sich Kurzvorträge, kurze Videos oder Podcasts an, die im Anschluss von den Kommiliton*innen Feedback erhalten.  |
+|  **Lernzielebene Anwenden**  |   |
+|  Ausführen | ChatGPT als Fallsimulator Die Studierenden wählen ein praktisches Projekt aus, z. B. die Entwicklung einer mobilen App. Schritt 1 Planung und Design: Sie entwerfen und planen die Softwareanwendung, indem sie die Anforderungen, das User-Interface-Design und die Funktionalitäten definieren.  |
+
+13
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|   | Schritt 2 Entwicklungsphase: Während der Entwicklungsphase setzen die Studierenden ihr Wissen in die Tat um, indem sie den Code schreiben und die Anwendung erstellen. Schritt 3 Test und Fehlerbehebung: Nach der Fertigstellung testen die Studierenden die Anwendung und verwenden ChatGPT, um grobe Probleme und Fehler zu identifizieren und Lösungen zu finden. ChatGPT funktioniert hier wie ein Fallsimulator. In diesem geschützten Raum können die Studierenden erste Versuche zur Umsetzung unternehmen. Grobe Fehler in der Programmierung können so schneller aufgedeckt werden. Schritt 4 Bereitstellung und Betrieb: Die Studierenden bieten die Anwendung in einer realen Umgebung an, z. B. auf einem Server oder in einem App Store. Dabei müssen sie sicherstellen, dass die Anwendung reibungslos funktioniert und technische Herausforderungen bewältigen. Schritt 5 Wartung und Verbesserung: Nach der Bereitstellung der Anwendung kümmern sich die Studierenden um die Wartung und kontinuierliche Verbesserung ihrer App.  |
+|  Implementieren | ChatGPT als Quizmaster Studierende können mit ChatGPT ein Online-Quiz z. B. über MS Teams oder Moodle implementieren, bei dem sie Quizfragen und -antworten zu einem spezifischen Fachgebiet erstellen. Das Ziel ist es, ein nützliches Ressourcentool für sich und ihre Kommiliton*innen zu schaffen, um den Lernprozess der Lerngruppe zu unterstützen. Dabei wird ihr eigenes Wissen zu Fachinhalt, Fragenformatierung, Bewertung und Feedback angewendet.  |
+
+14
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|  Anwenden | ChatGPT als Patient*in In einer Fallstudie können Dozierende Studierende bitten, sich mithilfe von ChatGPT eine*n Patient*in zu erstellen, die*der mit verschiedenen Symptomen an die Studierenden herantritt. Ziel ist es, Lösungen für reale Probleme zu entwickeln und die Anwendung dieser Lösungen in realen Szenarien zu simulieren, um die praktische Anwendung von Theorie zu fördern. Für Studierende der Sportmedizin könnte dies folgendermaßen aussehen: Schritt 1 Fallstudie auswählen: Jede*r Studierende*r wählt eine Fallstudie einer*s Sportlers*in aus. Sie bitten ChatGPT darum, sich als Patient*in auszugeben, der*die verschiedene Symptome aufweist. Schritt 2 Anamnese: Die Studierenden führen eine umfassende systematische Erhebung der Krankengeschichte ihres*r Patient*in durch, einschließlich Symptomen, Vorerkrankungen, Medikationen, Allergien und anderen relevanten Informationen. Schritt 3: Die Studierenden wenden ihr Vorwissen an, um eine virtuelle Konsultation mit ihrer Fallstudie durchzuführen. Während dieser Konsultation stellen sie Fragen zu den sportlichen Zielen, dem Lebensstil, den Vorlieben und den bisherigen Trainingsroutinen, um mehr über die Situation ihrer Fallstudie zu erfahren. Schritt 4 Individualisierte Pläne erstellen: Basierend auf den Informationen aus der ChatGPT-Konsultation erstellen die Studierenden individualisierte Trainings- und Gesundheitspläne für ihre Fallstudie. Diese Pläne sollten spezifische Übungen, Ernährungsempfehlungen und mögliche Präventivmaßnahmen für Verletzungen enthalten. Schritt 5 Präsentation der Ergebnisse: Die Studierenden präsentieren und diskutieren ihre individualisierten Pläne vorm Plenum und erläutern, worin Schwierigkeiten bestanden.  |
+
+15
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|  **Lernzielebene Analysieren**  |   |
+|  Differenzieren | ChatGPT als Interview-/Chatpartner*in Dozierende können Studierende auffordern, mithilfe von ChatGPT verschiedene Varianten oder Aspekte eines Themas zu analysieren und sie in einer strukturierten Übersicht darzustellen, um das Differenzieren von Informationen zu üben. Für Studierende der Ethik könnte das folgendermaßen aufgebaut sein: Schritt 1 Ethisches Dilemma wählen: Jede*r Studierende*r wählt ein ethisches Dilemma aus dem Bereich der angewandten Ethik, z. B.: Tierrechte, Umweltethik oder künstliche Intelligenzethik. Schritt 2 ChatGPT-Nutzung: Die Studierenden verwenden ChatGPT, um verschiedene philosophische Perspektiven und Argumente zum gewählten ethischen Dilemma zu sammeln. Sie formulieren Fragen und sammeln Textantworten vorgegebener Persönlichkeiten, z. B. die von verschiedenen Philosoph*innen. ChatGPT muss vorab die Rolle der Persönlichkeit zugewiesen werden. Dies kann in Form eines Chats oder Interviews mit der Person geschehen. Schritt 3 Differenzierung der Perspektiven: Basierend auf den Antworten von ChatGPT untersuchen die Studierenden die verschiedenen philosophischen Perspektiven, die auf das ethische Dilemma angewendet werden können. Sie identifizieren Schlüsselargumente, ethische Theorien und Ansichten von verschiedenen Philosoph*innen. Schritt 4 Analyse und Bewertung: Die Studierenden analysieren und bewerten die Qualität der von ChatGPT bereitgestellten philosophischen Ansichten und Argumente. Sie beurteilen, wie fundiert und stichhaltig die verschiedenen Perspektiven sind.  |
+
+16
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|   | Schritt 5 Erstellung eines philosophischen Essays: Die Studierenden verfassen einen Essay, der ihre Analyse der verschiedenen philosophischen Perspektiven zum ethischen Dilemma zusammenfasst. Der Essay sollte die wichtigsten Erkenntnisse, Schlüsselargumente und mögliche Lösungsansätze beinhalten. Schritt 6 Gruppendebatte: In einer Gruppendebatte tauschen die Studierenden ihre Ergebnisse aus und vergleichen ihre Analysen. Sie diskutieren die Vor- und Nachteile der verschiedenen philosophischen Perspektiven und vertreten ihre eigenen Standpunkte.  |
+|  Organisieren | ChatGPT als Organisationstalent Studierende können Forschungsdaten sammeln und ChatGPT fragen, wie diese organisiert werden können. Die Antworten können abhängig davon sein, was das Ziel des Organisierens ist. Dabei sollten zu jeder Art Vor- und Nachteile betrachtet werden. Die Studierenden müssen dann aus den verschiedenen Vorschlägen, die ChatGPT liefert, die für sie am besten geeignete Variante auswählen und eigenständig umsetzen. Das bedeutet, dass sie ihre zuvor gesammelten Daten anschließend beispielsweise in tabellarischer Form, in Grafiken, in Stichpunkten, mit Sketchnotes oder Diagrammen organisieren.  |
+|  Zuordnen | ChatGPT als Sprachrohr Die Studierenden lernen, wie sie ChatGPT effektiv nutzen können, um verschiedene Standpunkte von beispielsweise Autor*innen oder bestimmten Bevölkerungsgruppen zu einem spezifischen Thema zu sammeln und die Antworten in Bezug auf z. B.: politische Auffassungen zu analysieren. Dabei können sie sich mit Hilfe von ChatGPT verschiedene Standpunkte der Autor*innen geben lassen, indem sie dem Tool klare Rollen zuweisen und Fragen stellen. Die Antworten sollen im Anschluss verschiedenen politischen  |
+
+17
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|   | Auffassungen/Strömungen zugeordnet werden, die durch die Lehrperson angeboten werden. Die Studierenden begründen ihre Zuordnung, bewerten bzw. diskutieren, wie sich diese Positionen auf politische Entscheidungsprozesse und Debatten auswirken könnten.  |
+|  **Lernzielebene Beurteilen**  |   |
+|  Überprüfen | ChatGPT als Lernende*r Die Studierenden werden gebeten, sich von ChatGPT einen fehlerhaften Code generieren zu lassen. Dabei soll ChatGPT die Rolle eines*r Lernenden zukommen. Die Studierenden nehmen die Rolle des*der Lehrenden ein und sollen den generierten Code kritisch überprüfen, den/die Fehler erkennen und verbessern. Die Aufgabe soll das kritische Prüfen von Informationen und die Fähigkeit zur Code-Analyse fördern.  |
+|  Bewerten | ChatGPT als Probelauf Lehramtsstudierende können dazu aufgefordert werden, eine mehrfach differenzierte Klassenarbeit zu einem Thema aufzusetzen und sich ein Bewertungsraster für die Bewertung zu überlegen. ChatGPT soll im Anschluss die Rolle von jeweils drei Schüler*innen einnehmen, die stellvertretend für verschiedene Differenzierungsstufen die Klassenarbeit auf dem jeweiligen Anforderungsniveau bearbeiten. Anhand des vorab erstellten Bewertungsrasters können die Arbeiten nun bewertet werden. Die Ergebnisse werden im Plenum diskutiert.  |
+
+18
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|  **Lernzielebene (Er-)Schaffen**  |   |
+|  Generieren | ChatGPT als Schreibwerkstatt Die Studierenden sollen die Fähigkeit entwickeln, kreative Texte zu generieren und dabei ChatGPT als kreative Schreibwerkstatt nutzen. Diese Aufgabe soll das generative Denken und die kreative Schreibfähigkeit fördern. Schritt 1 Themenwahl: Die Studierenden wählen ein Lernthema, zu dem sie kreativ schreiben möchten. Dies kann ein literarischer Text, eine Kurzgeschichte, ein Gedicht, ein Drehbuch oder eine Idee für ein Projekt sein. Schritt 2 Nutzung von ChatGPT: Die Studierenden verwenden ChatGPT, um ihre ersten Schreibprozesse in Gang zu setzen. Sie können ChatGPT um Ideen, Inspiration oder vergleichbare Paralleltexte bitten. Schritt 3 Generatives Schreiben: Basierend auf den gebotenen Inspirationen beginnen die Studierenden mit dem generativen Schreibprozess. Schritt 4 Feedbackschleife: Fertige Textpassagen können mit Hilfe von ChatGPT inhaltlich und formal kontrolliert werden. Das Feedback von ChatGPT wird dokumentiert und Entscheidungen für oder gegen den Vorschlag des Tools mit Begründungen versehen. Schritt 5 Reflexion: Die Studierenden reflektieren über den Einfluss von ChatGPT auf ihren kreativen Prozess. Dabei beantworten sie die folgenden Fragen: Haben die erhaltenen Anregungen geholfen? Wie haben sie ChatGPT als Werkzeug wahrgenommen? Wie hat ChatGPT die Gestaltung des Textes beeinflusst? Haben sie sich dazu verleiten lassen, die Antworten eins zu eins zu übernehmen?  |
+
+19
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT  
+DES  
+SAARLANDES
+
+|  Lernziel & Kognitiver Prozess | Aufgabenimpulse für Dozierende  |
+| --- | --- |
+|   | Schritt 6 Präsentation und Diskussion: Die Studierenden präsentieren ihre Texte im Plenum und tauschen sich über ihre Erfahrungen mit ChatGPT aus. Schritt 7 Bewertung: Die Studierenden bewerten die Ergebnisse und begründen ihre Aussagen.  |
+|  Planen | ChatGPT als Planungstool Die Studierenden werden ermutigt, ein kreatives Produkt basierend auf dem Lehrstoff zu gestalten, beispielsweise einen Podcast oder Blog. In diesem Prozess nutzen sie ChatGPT, um den Aufbau ihres Podcasts/Blogs zu strukturieren, zu planen und zu organisieren. Mithilfe der KI erhalten sie Ideen, Vorschläge und Inspirationen für ihr Podcast/Blog-Skript, und können so in der Eigenleistung den Fokus auf die Lerninhalte legen.  |
+|  Entwickeln | ChatGPT als Feedback-Buddy Studierende im Bereich Unternehmensführung und -gründung werden dazu angeleitet, innovative Geschäftsideen in einem spezifischen Bereich zu entwickeln, indem sie überzeugende Präsentationen und Piths erstellen. In diesem Prozess nutzen sie ChatGPT, um ihre eigenen Ideen zu konkretisieren und ständig Feedback einzuholen. Das Ziel soll dabei die schrittweise Optimierung der Geschäftsidee bis hin zur Umsetzung eines Piths vor einem realen Publikum sein. Das können entweder die Kommiliton*innen oder echte Unternehmer*innen sein, die anschließend den Pitch bewerten.  |
+
+20
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+### 3 Literatur
+
+Anderson, L. W., Krathwohl, D. R., Airasian, P. W., Cruikshank, K. A., Mayer, R. E., Pintrich, P. R., Raths, J. & Wittrock, M. C. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing. A revision of Bloom’s taxonomy of educational objectives*. Addison Wesley Longman, Inc.
+
+Arbeitskreis Deutscher Qualifikationsrahmen. (2011). *Deutscher Qualifikationsrahmen für lebenslanges Lernen*. Arbeitskreis Deutscher Qualifikationsrahmen. https://www.dqr.de/dqr/shared-docs/downloads/media/content/der_deutsche_qualifikationsrahmen_fue_lebenslanges_lernen.pdf?__blob=publicationFile&v=2
+
+Azaria, A. (2022). *ChatGPT usage and limitations*. HAL. https://hal.science/hal-03913837/document
+
+Baumann, C. & Benzing, T. (2013). *Output-Orientierung und Kompetenzformulierung im Bologna-Prozess*. Servicezentrum innovatives Lehren und Studieren der Julian-Maximilians-Universität Würzburg. https://www.uni-wuerzburg.de/fileadmin/39030000/ZiLS/Material/Kompetenzorientierung/Kompetenzformulierung_15.10.2013.pdf
+
+Bloom, B. S. (Hrsg.) (1974). *Taxonomie von Lernzielen im kognitiven Bereich* (4. Aufl.). Beltz.
+
+Deci, E. L. & Ryan, R. M. (1993). Die Selbstbestimmungstheorie der Motivation und ihre Bedeutung für die Pädagogik. *Zeitschrift für Pädagogik*, 39, 223-238. https://doi.org/10.25656/01:11173
+
+Ehlers, U.-D. (2020). *Future Skills. Lernen der Zukunft – Hochschule der Zukunft*. Springer. https://doi.org/10.1007/978-3-658-29297-3
+
+EU Science Hub (o. D.) *DigComp*. European Commission. https://joint-research-centre.ec.europa.eu/digcomp_en
+
+Fleischmann, A. (2023). ChatGPT in der Hochschullehre. In B. Berendt, A. Fleischmann, G. Salmhofer, N. Schaper, B. Szczyrba, M. Wiemer & J. Wildt (Hrsg.), *Neues Handbuch Hochschullehre* (Ausgabe 110, A 1.30). https://www.nhhl-bibliothek.de/media/263cce49cd3391acb6fb6b8ca603b68b541f1986/064f1a3e3b0b581f2835cb6852d369ad50dde3a4.pdf
+
+Larsen, M. & Weßels, D. (2022, 01. August). *Chain of Thought Prompting: Nun doch keine Black-Box? Wenn die KI uns ihr Vorgehen offenbart*. KI-Transfer-Hub.SH. https://kuenstliche-intelligenz.sh/de/chain-of-thought-prompting
+
+21
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Laupichler, M. C., Aster, A. & Raupach, T. (2023). Delphi study for the development and preliminary validation of an item set for the assessment of non-experts' AI literacy. Computers and Education: Artificial Intelligence, Article 100126. https://doi.org/10.1016/j.caeai.2023.100126
+
+Lennon, R. [@thatroblennon]. (2023, 16. Januar). After tons of research and experimentation, here are the 6 types of information I provide in my ChatGPT mega-prompts [image attached] [Tweet]. X (Twitter). https://twitter.com/thatroblennon/status/1615104249192488980
+
+Long, D. & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. Proceedings of the Conference on human factors in computing systems, USA, Paper 598. https://doi.org/10.1145/3313831.3376727
+
+Mah, C. (2023, 19. Februar). How to use ChatGPT as an example machine. Cult of Pedagogy. https://www.cultofpedagogy.com/chatgpt-example-machine/
+
+Salden, P. & Leschke, J. (2023). Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung. Zentrum für Wissenschaftsdidaktik der Ruhr-Universität Bochum. https://doi.org/10.13154/294-9734
+
+Schermutzki, M. (2007). Lernergebnisse – Begriff, Zusammenhänge, Umsetzung und Erfolgsermittlung: Lernergebnisse und Kompetenzvermittlung als elementare Orientierungen des Bologna Prozesses. In W. Benz, J. Kohler & K. Landfried (Hrsg.), Handbuch Qualität in Studium und Lehre. Evaluation nutzen – Akkreditierung sichern – Profil schärfen! Raabe. https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-03-Material/Lernergebnisse_Kompetenzen_FH_Aachen_schermutzki_bologna_6_a5_sw.pdf
+
+Servicezentrum innovatives Lehren und Studieren. (o. D.). Kurzleitfaden Kompetenzformulierung. Julius-Maximilians-Universität Würzburg. https://www.uni-wuerzburg.de/fileadmin/39030000/ZiLS/Material/Kompetenzorientierung/Kurzleitfaden_Kompetenzformulierung.pdf
+
+Sims, A. (2023, 9. März). ChatGPT and the future of university assessment. Times Higher Education. https://www.timeshighereducation.com/campus/chatgpt-and-future-university-assessment
+
+Ständige Wissenschaftliche Kommission der Kultusministerkonferenz (SWK). (2024). Large Language Models und ihre Potenziale im Bildungssystem Impulspapier der Ständigen Wissenschaftlichen
+
+22
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Kommission der Kultusministerkonferenz. Ständige Wissenschaftliche Kommission der Kultusministerkonferenz. https://doi.org/10.25656/01:28303
+
+Thorp, H. H. (2023). ChatGPT is fun, but not an author. Science, 379(6630), 313. https://www.science.org/doi/10.1126/science.adg7879
+
+van Dis, E. A. M., Bollen, J., Zuidema, W., van Rooij, R. & Bockting, C. L. (2023). ChatGPT: Five priorities for research. Conversational AI is a game-changer for science. Here’s how to respond. Nature, 614, 224-226. https://www.nature.com/articles/d41586-023-00288-7
+
+Vuorikari, R., Kluzer, S. & Punie, Y., (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Publications Office of the European Union. https://doi.org/10.2760/115376
+
+Weinert, F. E. (Hrsg.). (2014). Leistungsmessungen in Schulen (3. Aufl.). Beltz.
+
+## 4 Ressourcen
+
+Fleischmann, A. (2023). ChatGPT in der Hochschullehre. In B. Berendt, A. Fleischmann, G. Salmhofer, N. Schaper, B. Szczyrba, M. Wiemer & J. Wildt (Hrsg.), Neues Handbuch Hochschullehre (Ausgabe 110, A 1.30). https://www.nhhl-bibliothek.de/media/263cce49cd3391acb6fb6b8ca603b68b541f1986/064f1a3e3b0b581f2835cb6852d369ad50dde3a4.pdf
+
+Kemper, J. (2023, 19. August). ChatGPT Guide: Prompt-Strategien für bessere Ergebnisse. the decoder. https://the-decoder.de/chatgpt-guide-prompt-strategien/
+
+Larsen, M. & Weßels, D. (2022, 01. August). Chain of Thought Prompting: Nun doch keine Black-Box? Wenn die KI uns ihr Vorgehen offenbart. KI-Transfer-Hub.SH. https://kuenstliche-intelligenz.sh/de/chain-of-thought-prompting
+
+Lenk-Ostendorf, B. & Folgmann, M. (2023). ChatGPT-4 Cookbook. Technische Universität München. https://www.prolehre.tum.de/fileadmin/w00btq/www/Angebote_Broschueren_Handreichungen/ChatGPT-4_Cookbook.pdf
+
+Mollick, E. & Mollick, L. (2023, 25. September). Student use cases for AI. Start by sharing these guidelines with your class. Harvard Business Publishing Education. https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai
+
+23
+
+---
+
+www.uni-saarland.de
+
+UNIVERSITÄT DES SAARLANDES
+
+Zentrum für Lehren und Lernen. (2023). ChatGPT im Studium. Potenziale ausschöpfen, Integrität wahren [White paper]. Universität Mannheim. https://www.uni-mannheim.de/media/Einrichtungen/Koordinationsstelle_Studieninformationen/Dokumente/Erstsemester/ChatGPT_Handreichung_Studierende_UMA_Stand_Mai_2023.pdf
+
+## 5 Links
+
+- GenAI Chatbot Prompt Library for Educators: https://www.aiforeducation.io/prompt-library
+- Hochschulforum Digitalisierung: https://hochschulforumdigitalisierung.de
+- How-to-Konzepte des Teams DaTa-Pin: How-to-Digitale-Kompetenzen
+- KI-Campus: https://ki-campus.org, z. B. Selbstlernkurs „Sprachassistenzen als Chance für Hochschullehre“ (https://ki-campus.org/courses/sprachassistenzen-hochschule)
+- Microsoft: Prompts for education auf https://github.com/microsoft/prompts-for-edu
+- Eine gut verständliche Einführung zu komplexeren Prompting-Strategien vom YouTube Kanal @DigitaleProfis.
+  - YouTube-Playlist „ChatGPT Mega Prompts“: https://www.youtube.com/playlist?list=PLD93Zs0BCugs9hSvTP16iACgdJkc_kiWI
+
+24

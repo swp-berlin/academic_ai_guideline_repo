@@ -1,0 +1,402 @@
+# TU Hamburg (TUHH)
+# Source: https://www.tuhh.de/t3resources/tuhh/download/universitaet/verwaltung/ra/2024-10-01_TUHamburg_Handreichung_KI-ToolsInStudiumUndLehre_Auflage2_de.pdf
+# Date: None
+# Category: guideline
+# Download file: tu-hamburg_1_0.pdf
+# Extraction: mistral-ocr
+
+**TUHH**  
+Technische  
+Universität  
+Hamburg
+
+![img-0.jpeg](img-0.jpeg)
+
+# **KI-TOOLS  
+IN STUDIUM UND LEHRE**
+
+Handreichung der TU Hamburg
+
+---
+
+# Vorwort
+
+![img-1.jpeg](img-1.jpeg)
+
+Künstliche Intelligenz (KI) ist unstrittig eine der Schlüsseltechnologien für die Zukunft. Die rasanten Entwicklungen auf diesem Gebiet führen bereits jetzt zu tiefgreifenden Veränderungen in unserer Gesellschaft. Mit hoher Geschwindigkeit durchdringen KI-Systeme die Arbeitsprozesse nicht nur in Unternehmen, sondern auch in Universitäten und verändern die Art und Weise, wie wir lehren und lernen. Dies bringt große Chancen aber auch Herausforderungen mit sich.
+
+Die Vorbereitung unserer Studierenden auf eine verantwortungsvolle Nutzung von KI ist deshalb von besonderer Bedeutung.
+
+Die vorliegende Handreichung zum Thema KI-Tools in Studium und Lehre ist ein wichtiger Schritt in diese Richtung. Sie bietet Anregungen, wie KI-Anwendungen in die Lehre integriert werden können und stellt dazu Einsatzszenarien und Gestaltungspotenziale dar. Darüber hinaus werden grundsätzliche Aspekte und rechtliche Hinweise behandelt.
+
+Allen Mitwirkenden an der Erstellung der Handreichung möchte ich sehr herzlich danken! Nur durch das große Engagement aller Beteiligten war es möglich,
+
+lich, diese Handreichung rechtzeitig zum Wintersemester 2023/2024 fertigzustellen. Für die Erarbeitung der Handreichung wurde vom Ausschuss für Strategieentwicklung in Studium und Lehre (ASSL) eine Arbeitsgruppe mit Beteiligung aller Statusgruppen unter der Leitung von Prof. Maren Baumhauer eingesetzt. Die vorliegende Handreichung wurde unter juristischen Aspekten geprüft sowie im Präsidium diskutiert.
+
+Dennoch kann aufgrund der rasanten Entwicklung der Künstlichen Intelligenz und der noch nicht sehr umfangreichen Erfahrungen in Studium und Lehre eine solche Handreichung nur eine Momentaufnahme darstellen. Es ist deshalb geplant, die Handreichung im Sinne eines „lebenden Dokuments“ regelmäßig an den aktuellen Kenntnisstand und neue Entwicklungen anzupassen.
+
+Insofern freue ich mich auf eine intensive Anwendung von KI in Studium und Lehre und die damit verbundene Diskussion und Weiterentwicklung der Handreichung.
+
+Prof. Dr. Dr. h. c. Wolfgang Kersten  
+Vizepräsident Lehre  
+Technische Universität Hamburg
+
+---
+
+# Inhalt
+
+|  **TEIL 1:** |   |
+| --- | --- |
+|  **ALLGEMEINER ORIENTIERUNGSRAHMEN** | **4**  |
+|  **POSITIONSBESTIMMUNG DER TU HAMBURG** | **4**  |
+|  **ZIELSETZUNG DER HANDREICHUNG** | **4**  |
+|  **TEIL 2:** |   |
+|  **EINSATZSZENARIEN UND GESTALTUNGSPOTENZIALE FÜR DIE LEHRE** | **5**  |
+|  **VORLESUNG** | **7**  |
+|  **GRUPPENÜBUNG/ TUTORIUM** | **8**  |
+|  **LABORPRAKTIKUM** | **9**  |
+|  **SEMINAR** | **10**  |
+|  **PRÜFUNGEN** | **11**  |
+|  **CHANCENGLEICHHEIT** | **12**  |
+|  **TEIL 3:** |   |
+|  **GRUNDSÄTZLICHE ASPEKTE UND RECHTLICHE HINWEISE** | **12**  |
+|  **AKADEMISCHE INTEGRITÄT** | **13**  |
+|  **URHEBERSCHAFT / AUTORENSCHAFT** | **13**  |
+|  **REGELUNGSBEDARF UND KENNZEICHNUNGSPFLICHT** | **13**  |
+|  **DATENSCHUTZ UND DATENSICHERHEIT** | **15**  |
+|  **QUELLEN** | **16**  |
+
+**Herausgeber:** Vizepräsident Lehre Prof. Dr. Dr. h.c. Wolfgang Kersten
+
+**Autorinnen:** Prof. Dr. Maren Baumhauer, Dr. Ulrike Bulmann, Ann-Kathrin Watolla
+
+**Beteiligte:** Lille Bernstein, Katrin Billerbeck, Lisbeth Biskup, Laura Daldrop, Marisa Hammer, Prof. Dr. Maximilian Kiener, Vanessa Kortegast, Christina Mildebrath, Michaela Morrone, Beate Rajski, Christina Rothe, Dr. Nadine Stahlberg, Max Uzulis, Stephanie Wichmann
+
+**DOI:** https://doi.org/10.15480/882.13337
+
+**Lizenzhinweis:** Dieses Werk ist unter einer Creative Commons Lizenz vom Typ Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International zugänglich. Um eine Kopie dieser Lizenz einzusehen, konsultieren Sie https://creativecommons.org/licenses/by-sa/4.0/. Von dieser Lizenz ausgenommen sind Organisationslogo sowie alle Icons und Visualisierungen.
+
+---
+
+# Teil 1: Allgemeiner Orientierungsrahmen
+
+## POSITIONSBESTIMMUNG DER TU HAMBURG
+
+Im Mittelpunkt der Forschung, der Lehre und des Technologietransfers der Technischen Universität Hamburg (TU Hamburg) steht das Leitmotiv, *Technik für die Menschen* zu entwickeln. Dazu zählen auch die in den letzten Jahren aufgekommenen rasanten Entwicklungen im Bereich ‚Künstliche Intelligenz‘ (KI), womit technische Systeme bezeichnet werden, die menschliche Fähigkeiten wie Denken und Lernen reproduzieren. Diese „intelligenten“ Systeme können – basierend auf einer großen Datengrundlage – Antworten finden und Probleme lösen. Dabei ist zu beachten, dass diese Systeme keine eigenständigen Denkprozesse durchführen, sondern die zugrundeliegenden Daten analysieren und anhand von vordefinierten Variablen Berechnungen vornehmen (vgl. Heilmann, 2019). KI-Tools sind in der Lage, auf Fragen zu antworten und z. B. im Falle von generativer KI wie ChatGPT menschenähnlich zu kommunizieren.¹ Sie können jedoch keine Bewertung von Informationen vornehmen und demzufolge (noch) nicht verlässlich zwischen wahren und falschen Aussagen unterscheiden. Diese Aufgabe kommt weiterhin den Nutzenden von KI-Tools – also insbesondere Lehrenden und Studierenden – zu und erfordert daher einen verantwortungsbewussten Umgang.
+
+Vor diesem Hintergrund können KI-Tools in der Hochschullehre eine Ergänzung bzw. Unterstützung darstellen, ersetzen aber nicht (!) die fachliche wie überfachliche Expertise der Lehrenden.
+
+In Anbindung an unser Leitmotiv wollen wir die Entwicklung und Erprobung von KI-Tools in der Lehre der TU Hamburg *kritisch-konstruktiv* sowie *technologie-reflektierend* fördern und die damit einhergehenden Aufgaben in der Lehre proaktiv angehen. Denn nur in der Anwendung dieser neuen KI-Tools können wir unserem Leitmotiv in den aktuellen Zeiten gerecht werden. Unsere Studierenden wollen wir bestmöglich auf die Chancen und Herausforderungen im Umgang mit KI-Tools vorbereiten und in diesem Prozess begleiten. Daher ist es notwendig, den neuen Möglichkeitsraum gemeinsam zu gestalten, um einen sinnhaften Einsatz sowie eine *verantwortungsbewusste Nutzung und Beurteilung* von KI-Tools in der Hochschullehre zu realisieren, um damit zugleich eine umfassende Kompetenzentwicklung für Lehrende und Studierende zu ermöglichen. Wir an der TU Hamburg engagieren uns, dass unsere Studierenden KI-Tools nicht nur im Hochschulkontext souverän und eigenverantwortlich nutzen, sondern gleichermaßen in die Praxis übertragbare berufliche Kompetenzen entwickeln (vgl. Leitbild Lehre, 2021).
+
+## ZIELSETZUNG DER HANDREICHUNG
+
+Diese Handreichung richtet sich vorrangig an Lehrende, dient dabei aber gleichermaßen auch den Studierenden der TU Hamburg als Orientierungshilfe, die neuen Entwicklungen im Bereich KI in Lehr- und Lernprozesse zu integrieren. Dafür wird ein grundsätzlich *offener und verantwortungsbewusster Umgang* mit KI als zielführend erachtet.
+
+¹ Eine Definition des Begriffes KI sowie eine anschauliche Erklärung zu ChatGPT der UNESCO finden sich unter folgendem Link: https://unesdoc.unesco.org/ark:/48223/pf0000385146
+
+4
+
+---
+
+Anhand ausgewählter Lehrveranstaltungsarten der TU Hamburg werden nachfolgend Einsatzszenarien beschrieben, die als Anregung und Inspiration dienen sollen, um KI-Tools in eigene Lehr- und Lernprozesse zu integrieren und somit deren Potenziale sinnvoll zu nutzen. Darüber hinaus enthält diese Handreichung allgemeine rechtliche Hinweise, die zu einem sicheren Umgang mit KI-Tools sowie zu einer kritisch-konstruktiven Auseinandersetzung mit deren Möglichkeiten und Grenzen beitragen sollen. Aufgrund der Unwägbarkeiten und der offenen Entwicklungen in dem Feld - bezogen auf den technologischen Fortschritt, ökonomische, ökologische und soziale Prozesse, den aktuellen Rechtsrahmen sowie den wissenschaftsethischen Diskursen zu KI - wird diese Handreichung fortlaufend aktualisiert und entsprechend der Neuentwicklungen angepasst. Alle Personen, die ihre Erfahrungen mit KI-Tools in der Lehre an der TU Hamburg in diesen Prozess einbringen möchten, sind eingeladen, die gemeinsame Reflexion und Diskussion über die Rolle und den Stellenwert von KI-Tools in unserer Lehre mitzugestalten.
+
+## Teil 2: Einsatzszenarien und Gestaltungspotenziale für die Lehre
+
+Die Rolle und der Gestaltungsspielraum von Lehrenden befinden sich in einem kontinuierlichen Veränderungsprozess. Dabei nehmen Lehrende ihre Aufgaben entlang eines breiten Rollenverständnisses wahr: Sie inspirieren im Lernprozess, sie sind Begleitende, Gestaltende, Zuhörende - und
+
+natürlich vermitteln sie Wissen, geben Feedback und sind Prüfende. Die neu aufkommenden KI-Tools können diese vielfältigen Tätigkeiten und damit verbundenen Anforderungen unterstützen. Ziel ist dabei nicht, Lehrende durch KI-Tools zu ersetzen, sondern vielmehr durch den Einsatz von KI-Tools in ihren verschiedenen Rollen zu unterstützen.
+
+Insofern verstehen wir die Integration von KI-Tools in die Lehre der TU Hamburg als schrittweisen Prozess, der unter Berücksichtigung didaktischer Grundsätze, hochschulspezifischer Rahmenbedingungen sowie der Kompetenz und Verantwortung der Lehrenden eine bedachte Planung, Gestaltung, Durchführung, Reflexion und Evaluation erfordert. Entscheidungsgrundlage für den Einsatz von KI-Tools sind das Fachgebiet, die angestrebten Lehr- und Lernziele, die einzusetzenden Lehr-Lernformate sowie die vorgesehene Feedback- und Prüfungsart. Neben der Beantwortung der Frage nach der Intention der Nutzung ist auch die Fähigkeit, Potenziale und Herausforderungen eines KI-Tools sorgfältig gegenüber bislang bewährten didaktischen Konzepten und Methoden in der Lehre abzuwägen, von Bedeutung. Zentral dafür ist, dass die Nutzung eines KI-Tools den Kompetenzerwerb von Studierenden fördert:
+
+- Es braucht Fachkompetenz, um klare Lehr-/ Lernziele zu definieren und geeignete Inhalte auszuwählen, aber auch, um die Qualität des KI-generierten Inhalts kritisch zu prüfen.
+- Didaktische Kompetenz ist notwendig, um sicherzustellen, dass die mittels KI-Tools angewandten Methoden Studierenden ermöglichen, Kompetenzen selbstständig zu erwerben, anstatt Aufgaben an KIs zu delegieren.
+- Ethische Kompetenz ist essentiell, um die Implikationen hinsichtlich der Vertretbarkeit des Einsatzes, des Datenschutzes, der Diversität und der Autorschaft hinreichend reflektieren zu können.
+
+5
+
+---
+
+- Ein grundlegendes Verständnis für die (technische) Funktionsweise von KI sowie Kontextwissen zu den Rahmenbedingungen an der TU Hamburg sind erforderlich, um umsetzungsfähige Lehr-/ Lernkonzepte zu entwickeln.
+
+Schließlich ist auch der schrittweise Aufbau von KI-Kompetenz der Lehrenden von Bedeutung, um die eingesetzten Tools nicht nur entlang ihrer Funktionsweise zu reflektieren, sondern auch mehrdimensional (z. B. ethisch, rechtlich) einschätzen und bewerten zu können (vgl. Wienrich et al., 2023, S. 7).
+
+Fragen Sie sich auch, wann KI-Tools „sicher“ genutzt werden können? Folgende Vorüberlegungen unterstützen Sie bei der Beantwortung dieser Frage:
+
+# „SICHERE“ NUTZUNG
+
+KI-Tools können nur „sicher“ genutzt werden, wenn auch die rechtlichen Aspekte (siehe Teil drei) berücksichtigt werden.
+
+Auch können KI-Tools in der Lehre „sicher“ genutzt werden, wenn das Ergebnis interessant sein kann, aber nicht richtig sein muss (vgl. UNESCO, 2023, S. 6, Abb. 1).
+
+Insofern es wichtig ist, dass das Ergebnis richtig ist, müssen Nutzende über Expertise verfügen (z. B. Ergebnisse beurteilen und volle Verantwortung übernehmen), um KI-Tools „sicher“ nutzen zu können (ebd.).
+
+Muss das Ergebnis richtig sein, Nutzende verfügen aber weder über Expertise noch sind sie willens, Verantwortung zu übernehmen oder eine etwaige Unrichtigkeit des Ergebnisses zu identifizieren, ist der Umgang mit KI-Tools nicht „sicher“ und daher auch nicht empfehlenswert (ebd.).
+
+Fragen Sie sich auch, wo Sie geeignete KI-Tools finden können?
+
+# KI-TOOL FINDER
+
+Bei der Suche nach KI-Tools für die Lehre können Sie zunächst in zahlreiche KI-Datenbanken, wie Advanced Innovation oder Futurepedia, reinschnuppern.
+
+Fragen Sie sich auch, wie Sie sich austauschen und weiterbilden können?
+
+# AUSTAUSCH UND WEITER-QUALIFIZIERUNGSANGEBOTE
+
+TU-Angehörige können sich über den internen Mattermost-Kanal der TU Hamburg austauschen: https://communicating.tuhh.de/onlineedutuhh/channels/generative-ki-und-chatgpt.
+
+Ebenso bieten die Angebote am Zentrum für Lehre und Lernen allen Lehrenden die Möglichkeiten, sich weiterzuqualifizieren, sich auszutauschen und zu vernetzen.
+
+Darüber hinaus bieten die MMKH KI Reihe sowie der ToolTipTuesday Einführungen in KI-Tools an sowie der KI-Campus Lernangebote zu diversen KI-Themen und in verschiedenen Formaten. Aktuelle Informationen bieten auch diverse Podcasts sowie der UniDigitalNewsletter.
+
+Fragen Sie sich auch, wo Sie Good Practices finden können?
+
+# LEHRBEISPIELE
+
+Einblicke in die Lehrpraxis mit KI an der TU Hamburg finden Sie beispielhaft hier.
+
+Darüber hinaus finden Sie z.B. beim KI-Campus oder auch im Portal der Stiftung für Innovation in der Hochschullehre inspirierende KI-Lehrprojekte.
+
+6
+
+---
+
+Entsprechend der etablierten Lehrformate an der TU Hamburg werden im Folgenden konkrete *Einsatzszenarien und Gestaltungspotenziale* für KI-Tools in der Lehre vorgestellt sowie auf Prüfungen eingegangen. Für jedes Lehrformat wird dabei auf die Aspekte der Lernziele, Wissensvermittlung und der Studierendenaktivierung im Lehr-/Lerngeschehen sowie
+
+auf Prüfungs- und Studienleistungen eingegangen. Dabei können die didaktischen Methoden und Medien sowie die Einsatzmöglichkeiten nach dem Baukastenprinzip auch in anderen Lehrveranstaltungsarten Anwendung finden.
+
+## VORLESUNG
+
+Eine Vorlesung besteht aus regelmäßig abgehaltenen, zum Teil interaktiven Vorträgen, in denen bestimmte Themen im Zusammenhang präsentiert werden. Über die Anwendung von KI-Tools eröffnen sich für Lehrende im Rahmen dieser Lehrveranstaltungsart neue didaktische Möglichkeiten, um Inhalte auszuwählen, zu strukturieren und multimedial aufzubereiten sowie in unterschiedlichen Sprachen zu erstellen und damit Sprachbarrieren abzubauen. Studierende können empfohlene bzw. bereitgestellte KI-Tools insbesondere zu der Vor- und Nachbereitung der Vortragsthemen anwenden.
+
+|   | LERNZIELE | WISSENS-VERMITTLUNG | STUDIERENDEN-AKTIVIERUNG | STUDIEN-UND PRÜFUNGS-LEISTUNGEN  |
+| --- | --- | --- | --- | --- |
+|  EINSATZMÖGLICHKEIT | Studierende ... reflektieren Möglichkeiten und Grenzen der Unterstützung von KI-Tools in Vorlesungen. ... entwickeln Kompetenzen, um den Textoutput von KI-Tools zu redigieren und kritisch bewerten zu können. | KI-Tools unterstützen die Bereitstellung, Aufbereitung und Vermittlung der Vorlesungsinhalte | Studierende führen mittels ausgewählter KI-Tools Rechercheaufträge durch und erstellen inhaltliche Zusammenfassungen zu den Vorlesungsinhalten; Einbindung von Live-Umfragen; KI-generierte Fragestellungen in Audience Response Systems (Clicker) integrieren | Sammlung von Inspirationen für exemplarische Prüfungsfragen und Entwurf von Übungsaufgaben, Einbindung von KI-gestützten Impulsvorträgen und Exkursen als Erweiterung der Vorlesungsinhalte  |
+|  ANWENDUNGSBEISPIEL | Studierende erhalten zu einer von der Lehrperson gestellten Frage eine oder mehrere Antworten von einem ausgewählten KI-Tool. Die Aufgabe für die Studierenden besteht darin, a. die KI-Antwort zu beurteilen und fachliche Fehlvorstellungen zu identifizieren, b. die Kriterien für die eigene Beurteilung offenzulegen, c. die erste Antwort mit der zweiten Antwort zu vergleichen, d. die geeignetere Antwort zu bestimmen und dies zu begründen oder e. die Unzulänglichkeiten der Antwort(en) offenzulegen.  |   |   |   |
+
+7
+
+---
+
+## GRUPPENÜBUNG / TUTORIUM
+
+In der Gruppenübung beziehungsweise dem Tutorium bearbeiten Studierende begleitet in Einzel- und Gruppenarbeit Aufgaben zu den Vorlesungsinhalten. Gruppenübungen oder Tutorien können z. B. nach dem Konzept des Flipped Classroom - auch mit Just-in-time-Teaching - gestaltet sein und in Stud.IP/ ILIAS abgebildet werden: Im Vorfeld einer Übung wird Material zu den Lerninhalten sowie Teilaufgaben zur selbstständigen Vorbearbeitung durch die Studierenden zur Verfügung gestellt. Dabei wird angeregt, dass Studierende Fragen über ein Onlinetool zu den Materialien und Aufgaben mit anderen Studierenden und der Lehrperson teilen. Darauf aufbauend kommen die Studierenden in der Präsenz der Gruppenübung/Tutorium zusammen und setzen sich gemeinsam mit der Lehrperson aktiv auf einem höheren Lernniveau mit den Inhalten auseinander. In einer mündlichen Modulprüfung kann dann auch auf ausgewählte, eingereichte Aufgabenlösungen sowie die freiwillige Nutzung von KI-Tools eingegangen werden.
+
+|   | LERNZIELE | WISSENSVERMITTLUNG IN SELBSTSTUDIENZEIT | STUDIERENDEN- AKTIVIERUNG IN PRÄSENZ MIT LEHRENDEN | STUDIEN- UND PRÜFUNGS- LEISTUNGEN  |
+| --- | --- | --- | --- | --- |
+|  EINSATZMÖGLICHKEIT | Studierende ... lesen Code und bestimmen den Output. ... entwickeln einen Code und diskutieren das Ergebnis. ... diskutieren die freiwillige Verwendung von KI-Tools. | KI-Tools unterstützen bei der Bereitstellung und Aufbereitung von Material (Skript, Artikel, Lehrbücher, Erklärvideos) + Aufgabenerstellung (Beispiel-Code). Studierende stellen fachliche, methodische sowie KI-Tool bezogene Fragen im Vorfeld. | Studierende setzen sich in Gruppenarbeit mit Tutorials auseinander - wobei die KI hier die Lehrperson unterstützend Vorschläge für Tutorialfragen generieren kann. Studierende präsentieren ihre Aufgabenlösungen in Gruppen - wobei die KI hier die methodische Gestaltung der Gruppenarbeit vorgeschlagen kann. Studierende reflektieren über die freiwillige KI-Nutzung - wobei die KI hier Vorschläge für zu reflektierende Fragen erstellen kann. | KI-Tools können Prüfungsfragen, Rubrics, Reflexionsfragen zu KI-Nutzung oder NICHT-Nutzung vorschlagen.  |
+|   |  ANWENDUNGSBEISPIEL | Studierende erhalten von der Lehrperson Material sowie eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. einen Code zu lesen und den Output zu bestimmen. b. den Code zu einem gegebenen Problem zu entwickeln und die Lösung zu diskutieren. c. ihr Vorgehen - mit oder ohne KI-Tool - zu beschreiben und zu reflektieren. d. inhaltliche, prozessseitige und KI bezogene Fragen zu teilen. e. ihre Lösungswege, Ergebnisse mit Kennzeichnung von selbstgeschriebenen, aus Fachforen u. ä. kopierten oder KI-generierten „Codeteilen“ auszuweisen und Reflexionen zur eigenen Kompetenzentwicklung, zur Unterstützung von KI-Tools sowie deren Grenzen zur Präsentation aufzubereiten.  |   |   |
+
+8
+
+---
+
+## LABORPRAKTIKUM
+
+Im Laborpraktikum setzen Studierende Geräte, Apparate und/ oder Softwaresysteme im Fach oder der Forschung ein und werten Arbeitsergebnisse aus. Zunächst können Fachinhalte und -methoden sowie die erforderlichen Reflexions-, Schreib- und Präsentationskompetenzen interaktiv vermittelt, Material bereitgestellt und Gruppen gebildet werden. Eine Auswahl an Laborversuchen aus einer Versuchsreihe können Studierende in Gruppenarbeiten parallel bearbeiten. Ihre Vorüberlegungen präsentieren sie vor dem Laborversuch den anderen Gruppen im Kolloquium, geben sich gegenseitig Feedback, diskutieren Kernaspekte der Versuche mit der Lehrperson. Studierende schließen das Laborpraktikum mit einem individualisierten Protokoll ab, welches neben einer mündlichen Gruppenpräsentation Teil der fach-theoretisch-fachpraktischen Modulprüfung ist.
+
+|   | LERNZIELE | WISSENSVERMITTLUNG | STUDIERENDEN-AKTIVIERUNG | STUDIEN-UND PRÜFUNGSLEISTUNGEN  |
+| --- | --- | --- | --- | --- |
+|  EINSATZMÖGLICHKEIT | Studierende ... reflektieren ihre Ergebnisse und Strategien (inkl. freiwilliger Nutzung von KI-Tools) bei der Generierung von Fragen, Hypothesen, der Versuchsplanung. ... werten Arbeitsergebnisse aus. ... interpretieren, dokumentieren und präsentieren diese. | KI-Tools können Vorschläge für die Aufbereitung des Skripts, eine Vorlage oder Leitfaden für das Protokoll unterbreiten. | Studierende präsentieren ihre Versuchsdurchführung im Kolloquium, geben Feedback - wobei KI-Tools Vorschläge für den Ablauf des Kolloquiums, Fragenerstellung, Präsentationserstellung, Anleitung für die Durchführung des Peer-Feedbacks generieren können. | KI-Tools können Vorschläge für Aufgaben, Rubrics für das Peer-Feedback, das Protokoll und die mündliche Prüfung sowie Reflexionsfragen für die freiwillige Nutzung von KI-Tools vorschlagen.  |
+|  ANWENDUNGSBEISPIEL | Studierende erhalten von der Lehrperson Material und eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. zu überlegen, ob, warum und wofür sie ein KI-Tool in der Protokollierung des Versuchs einsetzen wollen. b. ihre Versuchsplanung im Kolloquium vorzustellen und sich Fragen zu den anderen Versuchen zu überlegen und dazu ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben. c. ihr Protokoll zu erstellen, KI-erstellte Textpassagen auszuweisen, ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben sowie ihr eigenes Lernen hinterfragend darzulegen.  |   |   |   |
+
+9
+
+---
+
+## SEMINAR
+
+Im Seminar eignen sich die Studierenden unter (über-)fachlicher Begleitung selbstständig - sowohl individuell als auch in der Gruppe - Wissen und Fertigkeiten an, so dass sie in der Lage sind, darüber vorzutragen und den dargestellten Inhalt in einer Diskussion zu verteidigen. Dabei kann der Einsatz von KI-Tools im Seminarkontext dazu beitragen, dass Studierende durch gezielte Nutzung von KI lernen, mit diesen Tools, auch mit Blick auf eine spätere Berufsrelevanz, kompetent umgehen zu können.
+
+|   | LERNZIELE | WISSENSVERMITTLUNG | STUDIERENDEN-AKTIVIERUNG | STUDIEN-UND PRÜFUNGSLEISTUNGEN  |
+| --- | --- | --- | --- | --- |
+|  EINSATZMÖGLICHKEIT | Studierende ... nutzen verschiedene KI-Tools zur Bewältigung von Aufgaben. ... ordnen die KI-generierten Ausgaben anhand definierter Kriterien ein. ... bewerten die KI-generierten Ausgaben vor dem Hintergrund ihres Fachwissens. | KI-Tools unterstützen Studierende in der Bearbeitung von Aufgaben. Lehrende vermitteln Wissen über die Potenziale und Gefahren bei der Nutzung von KI-Tools. | Studierende setzen KI-Tools kritisch-konstruktiv für die Bearbeitung von Aufgaben - sowohl individuell als auch in der Gruppe - ein und reflektieren die generierten Ergebnisse. | Nutzung von KI als Inspiration zur Strukturierung von Schriftlichen Ausarbeitungen. Kritische Reflexion eines KI-generierten Textes vor dem Hintergrund der eigenen fachlichen Expertise.  |
+|  ANWENDUNGSBEISPIEL | Studierende bearbeiten in der Gruppe ein Thema und präsentieren dieses im Seminar. Die Aufgabe für die Studierenden besteht darin, a. sich mithilfe von KI-Tools einen Überblick über das Thema zu verschaffen. b. den KI-generierten Überblick kritisch zu reflektieren, andere wissenschaftliche Quellen heranzuziehen und fachliche Fehlinformationen zu identifizieren. c. einen Vortrag über das bearbeitete Thema vorzubereiten, in dem auch die fachlichen Fehlinformationen diskutiert werden. d. den Vortrag als Gruppe im Seminar zu halten. e. die eigene Nutzung von KI-Tools bei der Themenbearbeitung darzulegen.  |   |   |   |
+
+10
+
+---
+
+# PRÜFUNGEN
+
+Prüfungsrechtlich lösen KI-Tools nicht unmittelbar Änderungsbedarfe an Prüfungsordnungen aus. Vielmehr ist es eine didaktische Entscheidung bzw. eine Entscheidung der Lehrenden und Prüfenden, ob KI-Tools bei der Erbringung von Prüfungsleistungen genutzt werden dürfen und in welcher Weise oder ob ihre Nutzung ausgeschlossen ist. Wichtig ist, dass das jeweilige Prüfungsszenario dahingehend gestaltet wird, dass die Prüfenden definieren können, was die bewertete *eigene Leistung* des konkreten Prüflings ist. Als eigene Leistung gilt eine Leistung, wenn sie ohne Nutzung unzulässiger Hilfsmittel und ohne unzulässige Hilfe seitens Dritter erbracht worden ist. Damit ist der Prüfling sowohl dazu verpflichtet, eigene Leistungen zu erbringen als auch über die Eigenständigkeit erbrachter Leistungen nicht zu täuschen.
+
+Von ausschlaggebender Relevanz sind die Überprüfungsmethoden der Prüfenden. Hinsichtlich der Bewertung von Prüfungsleistungen ist es darüber hinaus wichtig, alle Prüflinge *gleich zu behandeln* und einen *einheitlichen* Prüfungsmaßstab und Beurteilungsmaßstab anzusetzen. Daher ist es wesentlich, dass Prüflinge im Prüfungsverfahren die *gleichen Chancen* haben. Der Grundsatz der Chancengleichheit verlangt u. a., dass die Prüflinge ihre Prüfungsleistungen möglichst unter gleichen (äußeren) Prüfungsbedingungen erbringen können. Dies ist durch die Definition von zulässigen Hilfsmitteln möglich. Die zulässigen Hilfsmittel sollten jedem Prüfling in gleichem Maße zur Verfügung stehen oder zur Verfügung gestellt werden.
+
+Ob - im Fall der freiwilligen Nutzung von KI-Tools beim Ablegen einer Prüfungsleistung - die Prüfungsleistungen ohne KI mit den Prüfungsleistungen mit KI vergleichbar sind und ein einheitlicher Bewertungsmaßstab gewährleistet werden kann, bleibt aktuell noch offen.
+
+Bezüglich der Prüfungen zeigt sich, dass einige Prüfungsarten von einer Nutzung von KI-Tools in der Prüfungssituation weniger und andere mehr tangiert sind. Prüfungen unter Aufsicht bzw. die eine unmittelbare Interaktion mit den Prüfenden voraussetzen, wie Klausuren in Präsenz, mündliche oder praktische Prüfungen, sind zunächst einmal relativ wenig von den neuen Möglichkeiten betroffen, solange KI-Tools nicht explizit als zulässige Hilfsmittel zur freiwilligen Nutzung ausgewiesen werden. Prüfungsarten, die eine Aufsichtsführung erschweren bzw. rechtlich unmöglich machen, wie z. B. die Anfertigung schriftlicher Arbeiten, die nicht einer ständigen oder vollumfänglichen Aufsicht unterliegen (Protokolle, Projekt-, Studien-, Abschlussarbeiten), sind hingegen eher betroffen. Für alle Prüfungsvarianten ist jedoch wichtig, dass Lehrende in den konkreten Aufgabenstellungen reflektieren müssen, wenn sich in der Lehre durch den freiwilligen Einsatz von KI-Tools etwas ändert (siehe oben in den Lehrveranstaltungsarten). So kann etwa mit Studierenden geübt werden, die Plausibilität von Ergebnissen, die unter Einsatz von KI-Tools erlangt werden, zu beurteilen. Für die Prüfung muss dann aber klar entschieden und kommuniziert werden, ob es um die Ergebnisfindung oder -beurteilung geht. Durch den Einsatz von KI-Tools kann es also insgesamt dazu kommen, dass sich der Prüfungsgegenstand verschiebt und sich somit auch Änderungen im Anforderungs- und Schwierigkeitsgrad ergeben können. Dies sollte dann sehr bewusst von der Lehrperson entschieden und transparent gemacht werden.
+
+11
+
+---
+
+Bei schriftlichen Arbeiten können KI-Tools im Schreibprozess z. B. für folgende Schritte genutzt werden: bei Brainstorming und Ideengenerierung, beim Strukturieren und Gliedern, als Hilfe bei Schreibblockaden oder beim sprachlichen Feinschliff. Nicht eingesetzt werden können KI-Tools dagegen für die unreflektierte Generierung ganzer Arbeiten oder ganzer Textabschnitte, für die ungeprüfte Übernahme von Literatur- und Inhaltsvorschlägen, für die Bearbeitung sehr individueller Fragestellungen.
+
+Unerlässlich ist die Entwicklung und Nutzung „guter“ Prompts (vgl. Dang et al., 2022; Zamfirescu-Pereira et al., 2023, S. 10): Denn nur wenn Studierende und Lehrende konkrete, zielführende und eindeutige Prompts formulieren, können KI-Tools in den entsprechenden Phasen des Schreibprozesses Unterstützung bieten. Für die Nutzung von KI-Tools im Schreibprozess ist es daher ratsam, diese Möglichkeiten der Vorschlagsgenerierung von Anfang an proaktiv gemeinsam zu diskutieren sowie Chancen und Grenzen dieses Vorgehens vor allem vor dem Hintergrund des anvisierten Kompetenzerwerbs aufzuzeigen. Für die Bewertung könnten solche Kriterien stärker gewichtet werden, die die Eigenleistung der Studierenden fokussieren (etwa die fachliche Einordnung, kritische Bewertung der Ergebnisse oder eigene Ausdrucksfähigkeit). Eine enge Begleitung in Schreibprozessen mit regelhafter Abfrage von Zwischenständen kann unterstützen, die eigenständige und eigenverantwortliche Denkarbeit der Studierenden zu fokussieren. Eine kritische Reflexion und sinnvolle Prüfung durch die Studierenden selbst kann vor allem dann gelingen, wenn sie bereits ein Grundverständnis für das wissenschaftliche Arbeiten und Schreiben ausgebildet haben (vgl. auch Salden & Leschke, 2023, S. 13). Die Regeln guter wissenschaftlicher Praxis sind grundsätzlich einzuhalten und KI-Tools wie alle anderen Hilfsmittel auch zu kennzeichnen.
+
+## Teil 3: Grundsätzliche Aspekte und rechtliche Hinweise
+
+Die TU Hamburg spricht sich für einen chancengleichen, integren und legitimen Umgang mit KI-Tools in Studium und Lehre aus. Bei der Auswahl des Datenmaterials (Prompts und Outputs) ist die Sicherung guter wissenschaftlicher Praxis zu gewährleisten. Gleiches gilt für die Vermeidung einer unsachgemäßen und unreflektierten Nutzung sowie für die Weitergabe sensibler und personenbezogener Daten an Dritte (Entwickler und Anbieter von KI-Tools). Bei der Nutzung von KI-Tools in Studium und Lehre ist dabei zu beachten, dass die bereitgestellten Informationen zu Trainingszwecken genutzt werden können.
+
+### CHANCENGLEICHHEIT
+
+Der Einsatz bzw. die Nutzung von KI-Tools muss entsprechend des Grundsatzes der Chancengleichheit erfolgen (siehe Teil zwei; Prüfungen). Für Lehrende bedeutet dies z. B., dass die Integration von KI-Tools in ihre Lehrveranstaltungen immer einen Mehrwert mit sich bringen sollte, die Nutzung dieser aber nicht als Voraussetzung für die erfolgreiche Teilnahme an einer Lehrveranstaltung, also für die Lernaktivitäten oder die Prüfung gilt.
+
+12
+
+---
+
+## AKADEMISCHE INTEGRITÄT
+
+Die akademische Integrität verpflichtet uns alle zu einem täglichen, wertebasierten und regelhaften Handeln. In diesem Sinne ist für eine gute wissenschaftliche Praxis und zur Vermeidung wissenschaftlichen Fehlverhaltens (vgl. TU Hamburg, 2024) eine informierte, reflektierte und transparente Nutzung von KI-Tools unerlässlich. Die Entwicklung von akademischer Integrität kann durch Lehrende proaktiv im gesamten Studium gefördert werden. Der Zusammenhang zwischen einem möglichen wissenschaftlichen Fehlverhalten und dem Einsatz von KI ist an der TU Hamburg in Diskussion.
+
+## URHEBERSCHAFT / AUTORSCHAFT
+
+Der aktuelle Stand der juristischen Diskussion zeigt, dass bei der Nutzung von KI-Tools vieles, was urheberrechtlich von Relevanz sein kann, noch komplett unklar ist. Der Einsatz von KI-Tools ist diesbezüglich somit rechtlich noch nicht abgesichert.²
+
+Im Sinne des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG) können KI-gestützte Programme nicht als Autor*innen bzw. Urheber*innen des von ihnen generierten Textes gelten, §§ 7, 2 Abs. 2 UrhG. Gleichwohl können Nutzende entsprechender Programme eventuell eine Urheberschaft an den generierten Texten beanspruchen, sofern sie KI-Tools als Hilfsmittel für die eigene gestalterische Tätigkeit genutzt haben.
+
+Ausschlaggebend ist in diesem Fall ein signifikantes Maß an geistiger Eigenleistung (vgl. Hoeren, 2023, S. 22 ff.). Festzuhalten bleibt: „Das Bestehen urheberrechtlichen Schutzes für KI-generierte Texte entscheidet sich also an der Frage, ob ein hinreichender menschlicher Einfluss besteht, um eine persönliche geistige Schöpfung im Sinne des § 2 Abs. 2 UrhG zu bejahen“ (ebd., S. 25).
+
+Die Urheberrechtsrelevanz von KI-Sprachmodellen, wie z. B. ChatGPT, setzt zudem nicht erst bei den Ergebnissen ein. So kann nicht zweifelsfrei ausgeschlossen werden, dass der Trainingsdatenbestand nicht ggf. unter Verletzung von Rechten anderer durch Web Scraping entstanden ist, z. B. durch das Auslesen von Datenbanken (§ 87b UrhG) oder durch Text-/Data Mining (§ 44b UrhG).
+
+Weiterhin ist die Quellenlage - und auch das Zustandekommen der Ergebnisse - derart unübersichtlich für die Nutzenden, dass nicht zweifelsfrei ausgeschlossen werden kann, ob die Ergebnisse geschützte Passagen Dritter enthalten, die ohne Erlaubnis - oder ohne Nennung ihrer Urheberschaft - integriert werden.
+
+## REGELUNGSBEDARF UND KENNZEICHNUNGSPFLICHT
+
+Die allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge (ASPO) enthält Vorschriften, die auch auf den Einsatz von KI-Tools anwendbar sind (§ 21 Abs. 6 Satz 2 ASPO).
+
+² Weiterführend ist auf die Verabschiedung des „AI Acts“, als weltweit erstes Gesetz zur Regulierung von KI durch die EU-Mitgliedstaaten am 21. Mai 2024 zu verweisen. Die Bundesregierung muss den AI Act nun in nationales Recht umsetzen. Ausführliche Informationen finden Sie unter: https://www.bundesregierung.de/breg-de/themen/digitalisierung/kuenstliche-intelligenz/ai-act-2285944
+
+13
+
+---
+
+Interpretationsspielraum besteht für jeden Einzelfall: Gehören KI-gestützte Hilfsmittel zur alltäglichen Arbeit (vgl. Eaton, 2023) und müssen daher nicht angegeben werden, oder gehen sie darüber hinaus und betreffen stärker die abzuprüfende wissenschaftliche Kernkompetenz? Entsprechend kann z. B. „in Prüfungsordnungen fachspezifisch definiert werden, in welchem Maße und unter welchen Bedingungen die Verwendung KI-unterstützter Tools zulässig ist“ (Hoeren, 2023, S. 23). Der oder die Prüfende legt letztlich im Einklang mit ASPO und FSPO die Richtlinien für die konkrete Prüfungsleistung fest (vgl. Spannagel, 2023).
+
+Eine Kennzeichnungspflicht für z. B. den Textoutput eines KI-Schreibtools kann sich außerdem aus den Nutzungsbedingungen der jeweiligen Software ergeben (vgl. Hoeren, 2023, S. 23).
+
+Eine Orientierungshilfe zu der Frage, wie eine solche Kennzeichnung in studentischen Arbeiten in dem jeweiligen Fach durch die einzelnen zu Prüfenden erfolgen kann, finden Sie nachfolgend:
+
+*Fragen Sie sich auch, wie die Nutzung von KI-Tools in schriftlichen Ausarbeitungen (inkl. Abschlussarbeiten) angegeben werden kann?*
+
+## **KENNZEICHNUNG DER NUTZUNG VON KI-TOOLS**
+
+Nochmal vorweg: KI-Tools können in schriftlichen Arbeiten eigenverantwortlich durch Studierende genutzt werden (sofern nicht anders durch die Prüfenden definiert). Die Nutzung des KI-Tools ist grundsätzlich entsprechend der ASPO, der FSPO, den Nutzungsbedingungen des KI-Tools sowie der Entscheidung der Lehrperson basierend auf der aktuellen Praxis im Fach als Hilfsmittel im Schriftprodukt zu kennzeichnen - es sei denn es handelt sich um KI-gestützte Hilfsmittel der alltäglichen Arbeit. Die Kennzeichnung kann zum Beispiel so erfolgen:
+
+### **Dokumentation der KI-Nutzung:**
+
+Die für die Arbeit relevante zu kennzeichnende Kommunikation mit dem KI-Tool (eigene Fragen/Prompts, Antworten/Ausgaben/Texte der KI) wird elektronisch in einem separaten Verzeichnis dokumentiert. Dabei wird auch für jede Kommunikation die verwendete Version und das Nutzungsdatum angegeben (z. B. ChatGPT May 24 Version, 23.06.2023). Diese Dokumentation wird als Primärquelle im Quellenverzeichnis aufgenommen, z. B.: Dokumentation ChatGPT (Jahr), und stellt die Basis für wörtliche und sinngemäße Zitate der KI-generierten Ergebnisse dar.
+
+### **KI als Quelle**
+
+Aus KI-Tools inhaltlich generierte Textteile (wörtliche Zitate) werden im Text zitiert, z. B. Dokumentation ChatGPT Jahr, S. x, Z. y.
+
+Eigene Paraphrasierungen der von KI-Tools inhaltlich generierten Texte (sinngemäße Zitate) werden an den entsprechenden Stellen gekennzeichnet, z.B. vgl. Dokumentation ChatGPT S. x, Z. y.
+
+### **Umformulierung und Übersetzung mit Hilfe von KI-Tools**
+
+KI-Tools können im Schreibprozess sprachunterstützend genutzt werden, z. B. als Rechtschreib- und Umformulierungshilfe, und müssen dann nicht gekennzeichnet werden (vgl. Züricher Hochschule für angewandte Wissenschaften, 2023). Gleiches gilt für derartige sprachliche Unterstützung in einer Fremdsprache (z. B. Wortformulierungen, Rechtschreib- und Grammatikprüfung und Übersetzungen) mit KI-Tools. Diese Nutzung von KI-Tools ist Teil des alltäglichen Arbeitens und unterliegt also nicht der Kennzeichnungspflicht, es sei denn, die Prüfenden wünschen entsprechend ihrer Fachpraxis explizit eine Kennzeichnung. Dann kann in der Eigenständigkeitserklärung (vgl. Buck und Limburg, 2023) oder in der Auflistung der anzugebenen Hilfsmittel (vgl. Spannagel, 2023) notiert werden, dass KI-Tools genutzt wurden bzw. spezifischer, dass z.B. der Text in Kapitel XY oder Abschnitt XY oder Zeile XY mit KI-Tool Z umformuliert bzw. übersetzt wurde (z.B. Meier 2007, S. 208-209, übersetzt durch KI-Tool Z).
+
+14
+
+---
+
+## DATENSCHUTZ UND DATENSICHERHET
+
+Sobald bei der Nutzung von KI-Tools personenbezogene Daten verarbeitet werden, sind die datenschutzrechtlichen Grundprinzipien aus Art. 5 Datenschutzgrundverordnung (DSGVO) zu berücksichtigen. Des Weiteren muss für die Verarbeitung eine Rechtsgrundlage gegeben sein und die Verarbeitung muss für die Personen, deren Daten verarbeitet werden, ausreichend transparent dargestellt werden. So stellt beispielsweise die Weitergabe von personenbezogenen Daten ohne eine datenschutzkonforme Einwilligung der betroffenen Personen einen Verstoß gegen die DSGVO dar. Die Einwilligung muss hierbei freiwillig erfolgt sein und es müssen die weiteren datenschutzrechtlichen Anforderungen, die eine datenschutzrechtliche Einwilligung mit sich bringt, berücksichtigt werden. Erfolgt im Zusammenhang mit der Nutzung von KI-Tools eine Übermittlung personenbezogener Daten in Länder außerhalb der EU bzw. des EWR, gilt es zu prüfen, ob durch entsprechende Maßnahmen ein angemessenes Datenschutzniveau gewährleistet ist. Die Nutzung einer KI-Software eines amerikanischen Unternehmens entspricht hierbei regelmäßig nicht den europäischen Datenschutzanforderungen.³
+
+Die Nutzung einer KI-Software ohne die Eingabe personenbezogener Daten ist nicht automatisch datenschutzkonform, nur weil keine aktive Eingabe von oder Frage nach Personen im Prompt erfolgt. Auch die reine Nutzung kann bereits gegen den Datenschutz verstoßen, da sich aus den Prompts sowie den damit zusammenhängenden Nutzungsdaten (IP-Adresse, Stand-
+
+ort, Datum, Uhrzeit, endgerätspezifische Daten) grundsätzlich viele Informationen über Nutzende (Vorlieben, politische oder weltanschauliche Überzeugungen, Erkrankungen etc.) ergeben können.
+
+Zusätzlich gilt zu beachten, dass bei der Verarbeitung von personenbezogenen Daten im Rahmen der Nutzung externer KI-Tools regelmäßig datenschutzrechtliche Vereinbarungen geschlossen werden müssen und auch Maßnahmen zur Gewährleistung der Datensicherheit umzusetzen sind. So beschreibt der Anbieter OpenAI beispielsweise in seinen Datenschutzrichtlinien, in welcher Form Daten verarbeitet und geschützt werden, kann für eine Sicherheit der Daten jedoch nicht garantieren. Die Wahrung der Vertraulichkeit und der Integrität ist somit beim Einsatz derartiger Systeme fraglich und es besteht die Möglichkeit, dass Dritte Zugriff auf die verarbeiteten Daten erhalten. Auch aus diesem Grund ist es unerlässlich sicherzustellen, dass bei der Nutzung von KI-Tools auch die Maßgaben der Datensicherheit befolgt werden und der Zugriff von KI-Tools auf eigens bereitgestellte sensible, interne oder vertrauliche Informationen strikt vermieden wird. Grundsätzlich ist zu berücksichtigen, dass KI-Tools die Daten (Prompts, Outputs und Nutzerverhalten) zu Trainingszwecken nutzen. Diese Funktion kann bei einigen Tools ausgeschaltet werden. Sofern das verwendete KI-Tool eine entsprechende Einstellungsmöglichkeit bietet und personenbezogene Daten verarbeitet werden sollen, ist eine Deaktivierung des Trainings empfehlenswert (Privacy by Default).
+
+³ Am 10. Juli 2023 hat die Europäische Kommission ihren Angemessenheitsbeschluss für den Datenschutzrahmen EU-USA angenommen. Hierin wird festgelegt, dass die Vereinigten Staaten ein angemessenes Schutzniveau (vergleichbar mit dem der Europäischen Union) für personenbezogene Daten gewährleisten, die innerhalb des neuen Rahmens aus der EU an US-Unternehmen übermittelt werden. Ausführliche Hintergrundinformationen finden Sie unter: https://ec.europa.eu/commission/presscorner/detail/de/ip_23_3721. Damit besteht zunächst einmal Rechtssicherheit für Betroffene und Datenexport, sofern die Organisation in den USA nach diesem Framework zertifiziert ist. Die Liste ist einsehbar unter: https://www.privacyshield.gov/list.
+
+15
+
+---
+
+## QUELLEN
+
+**Buck, I. & Limburg, A.** (2023). Hochschulbildung vor dem Hintergrund von Natural Language Processing (KI-Schreibtools). Ein Framework für eine zukunftsfähige Lehr- und Prüfungspraxis. Die hochschullehre. Jahrgang 9 - 2023 (6).  
+DOI: 10.3278/HSL2306W
+
+**Dang, H., Mecke, L., Lehmann, F., Goller, S. & Buschek, D.** (2022). How to Prompt? Opportunities and Challenges of Zero- and Few-Shot Learning for Human-AI Interaction in Creative Applications of Generative Models.  
+https://doi.org/10.48550/arXiv.2209.01390
+
+**Eaton, S. E.** (2023). Artificial Intelligence and academic integrity, post-plagiarism.  
+https://www.universityworldnews.com/post.php?story=20230228133041549#:~:text=Artificial%20intelligence%20and%20academic.
+
+**Heilmann, T. A.** (2019). Algorithmus. In K. Liggieri & O. Müller (Hrsg.), Mensch-Maschine-Interaktion: Handbuch zu Geschichte - Kultur - Ethik (S. 229-231). Stuttgart: J.B. Metzler.  
+https://doi.org/10.1007/978-3-476-05604-7_32
+
+**Hoeren, T.** (2023). Rechtsgutachten zum Umgang mit KI-Software im Hochschulkontext. In: Salden, P./Leschke, J. (Hrsg.): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, S. 22-41.  
+https://doi.org/10.13154/294-9734
+
+**Salden, P., Lordick, N., Wiethoff, M.** (2023). KI-basierte Schreibwerkzeuge in der Hochschule: Eine Einführung. In: Salden, P., Leschke, J. (Hrsg.): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, S. 4-21. https://doi.org/10.13154/294-9734
+
+**Spannagel, Ch.** (2023). Rules for Tools - 2. Version, [online] Rules for Tools (uni-giessen.de)
+
+**Wienrich, C., Carolus, A., Markus, A., & Augustin, Y.** (2022). AI Literacy: Kompetenzdimensionen und Einflussfaktoren im Kontext von Arbeit. Denkfabrik-bmas.de.  
+https://www.denkfabrik-bmas.de/fileadmin/Downloads/Publikationen/AI_Literacy_Kompetenzdimensionen_und_Einflussfaktoren_im_Kontext_von_Arbeit.pdf
+
+**Technische Universität Hamburg** (2024). Satzung zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens.  
+https://www.tuhh.de/tuhh/tu-hamburg/struktur/verwaltung-und-zentrale-einrichtungen/ra-rechtsreferat/ordnungen-richtlinien/satzung-zur-sicherung-guter-wissenschaftlicher-praxis-und-zum-umgang-mit-verdachtsfaellen-wissenschaftlichen-fehlverhaltens-vom-26-juni-2024-veroeffentlicht-am-15072024-1 (Aktualisierung: 15.07.2024)
+
+16
+
+---
+
+**Technische Universität Hamburg** (2021).
+
+Leitbild Lehre der Technischen Universität Hamburg.
+
+https://www.tuhh.de/tuhh/tu-hamburg/profil/leitbild-lehre
+
+**Zamfirescu-Pereira, J. D., Wong, R. Y.,**
+
+**Hartmann, B. & Yang, Q.** (2023). Why Johnny
+
+Can't Prompt: How Non-AI Experts Try (and Fail)
+
+to Design LLM Prompts (CHI '23). Proceedings of
+
+the 2023 CHI Conference on Human Factors in
+
+Computing Systems (S. 1-21). New York, NY, USA:
+
+Association for Computing Machinery.
+
+https://doi.org/10.1145/3544548.3581388
+
+**Züricher Hochschule für Angewandte**
+
+**Wissenschaften** (2023). Z-RL-Richtlinie KI bei
+
+Leistungsnachweisen.
+
+https://www.bing.com/ck/a?&p=6663dde100d35
+
+28dJmltdHM9MTcyNzMwODgwMCZpZ3VpZD0yNzNiY
+
+TZiMy0yZWRkLTZmOTAtMzZkNy1iNDJhMmY1NjZiN
+
+mEmaW5zaWQ9NTE5OA&ptn=3&ver=2&hsh=3&fclid
+
+=273ba6b3-2edd-6f90-36d7-
+
+b42a2f566e6a&u=a1aHR0cHM6Ly9ncG1wdWJsaWMu
+
+emhhdysjaC9HUE1Eb2NQcm9kRFB1YmxpYy9Wb3Jn
+
+YWJlZG9rdW1lbnRlX1plQVcvWl9STF9SaWNodGxpbm
+
+lIX0tJX2JlaV9MZWlzdHVuZ3NuYWNod2Vpc2VuLnBkZ
+
+iM6fjp0ZXh0PURpZSBSaWNodGxpbmllHNlidHp0lGJla
+
+SBkZXlgYWt0dWVsbGVu&ntb=1
+
+17

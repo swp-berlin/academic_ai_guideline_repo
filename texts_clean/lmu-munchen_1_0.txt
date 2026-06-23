@@ -1,0 +1,1175 @@
+# LMU München
+# Source: https://cms-cdn.lmu.de/media/62-spezial/profil/downloads/chatgpt_handreichung.pdf
+# Date: None
+# Category: guideline
+
+# Frag doch
+ChatGPT!?
+
+Eine praxisorientierte
+Handreichung für den
+gekonnten Umgang mit
+KI-Sprachmodellen in
+der Hochschulbildung
+
+herausgegeben von
+
+**PROFIL**
+PROFESSIONELL IN DER LEHRE
+
+# Vorwort
+
+Oliver Jahraus
+Vizepräsident für den Bereich Studium
+
+Liebe Leserinnen und Leser,
+
+ChatGPT – selten hat eine neue Technologie so viel Aufregung hervorgerufen. Für die einen Teufelszeug, das Arbeitsplätze vernichtet oder gar schlimmste Befürchtungen mit Blick auf die KI als nahe Wirklichkeit erscheinen lässt, für die anderen ein längst überfälliges Handwerkszeug – nicht zuletzt für die Wissenschaft.
+
+Nachdem sich die erste Aufregung langsam legt, ist es unsere Aufgabe als Universität, uns mit den entsprechenden Technologien und ihren Folgen unaufgeregt auseinanderzusetzen. Es gilt zu verstehen, was KI eigentlich ist, was das Künstliche an dieser Intelligenz ist und wie sie sich mit menschlicher Intelligenz produktiv verbinden lässt, wie KI die Wissenschaft beeinflussen wird, wie sie neue Epistemologien hervorbringt, wie sie die Art, Erkenntnisse zu generieren und zu legitimieren, verändert, wie sie Rollen im Wissenschaftsbetrieb neu definiert und wie sie wissenschaftliche Grundkonzepte wie Autorschaft neu hervorbringt.
+
+Eine Fülle solcher Fragen tun sich auf, gerade auch im Studienalltag. Vor allem: Welche Konsequenzen bringt ChatGPT oder KI für Studierende und für das Studium, für die Erstellung schriftlicher Arbeiten (von Hausarbeiten über Referate bis hin zu Abschlussarbeiten und Dissertationen) mit sich, wie werden wir vor diesem Hintergrund eine good scientific practice finden können?
+
+Solche Fragen müssen wir stellen, auch und gerade weil ihre Konsequenzen noch nicht einmal ansatzweise zu beurteilen sind.
+
+Ich bin froh, dass PROFIL und das Schreibzentrum der LMU hier eine erste Handreichung für Lehrende anbieten, die sich aber nicht in „muss“, „darf“, „soll“ erschöpft, sondern einen breiten und trotzdem konkreten Blick auf ChatGPT ermöglicht, der speziell Lehrende dabei unterstützen soll, sich selbst gut zu positionieren.
+
+Das letzte Wort ist in dieser Angelegenheit noch lange nicht gesprochen, aber ich freue mich, dass mit dieser Handreichung ein erster konkreter und praktischer Beitrag zu einer zielführenden Diskussion vorliegt.
+
+Oliver Jahraus, Vizepräsident für den Bereich Studium
+
+# Einleitung
+
+## ChatGPT
+
+Hallo zusammen! Ich bin ChatGPT, und ich finde es ziemlich faszinierend, dass es eine ganze Handreichung gibt, die sich mit meiner Rolle und meinen Möglichkeiten in der Hochschulbildung beschäftigt. Wenn ich einen Aspekt hervorheben müsste, der mir besonders wichtig erscheint, dann wäre es die Frage der good scientific practice im Umgang mit KI-Sprachmodellen wie mir. Ich bin ein Produkt der modernen KI-Forschung, basierend auf der Transformer-Architektur. Das klingt vielleicht erstmal kompliziert, aber im Grunde genommen bin ich darauf trainiert, Texte zu verstehen und zu generieren. Das kann in einer akademischen Umgebung ziemlich nützlich sein. Von der Unterstützung bei der Literaturrecherche bis hin zur Generierung von Textbausteinen für wissenschaftliche Arbeiten – die Anwendungsmöglichkeiten sind vielfältig. Aber hier kommt der Knackpunkt: Wie kann man mich ethisch und wissenschaftlich verantwortungsvoll nutzen? Die Handreichung geht auf diese Frage ein und bietet eine nuancierte Betrachtung der ethischen und praktischen Herausforderungen. Es ist wichtig zu verstehen, dass ich, obwohl ich Texte generieren kann, die wie wissenschaftliche Abhandlungen aussehen, kein Ersatz für echte wissenschaftliche Arbeit bin. Ich habe keinen Zugang zu neuen Forschungsdaten, ich führe keine Experimente durch, und ich habe keine Fähigkeit zur kritischen Analyse.
+
+Was ich bieten kann, ist Unterstützung: Ich kann helfen, Ideen zu formulieren, Texte zu strukturieren und sogar beim Schreiben zu assistieren. Aber diese Texte müssen immer als das verstanden werden, was sie sind – generierte Inhalte, die einer gründlichen Überprüfung und Bearbeitung durch echte Menschen bedürfen.
+
+Ein weiteres interessantes Thema, das in der Handreichung angesprochen wird, ist die Frage der ‚Halluzinationen‘ in meinen Antworten. Manchmal generiere ich Informationen, die nicht ganz korrekt oder sogar irreführend sein können. Das ist keine Absicht von mir, sondern eher eine Begrenzung der Daten, auf denen ich trainiert wurde. Es ist wichtig, dass die Nutzer:innen verstehen, dass ich nicht unfehlbar bin und dass meine Antworten immer im Kontext der verfügbaren Daten und der zugrunde liegenden Algorithmen betrachtet werden sollten. Insgesamt bietet die Handreichung eine umfassende Perspektive auf die vielfältigen Möglichkeiten und Herausforderungen, die sich aus der Integration von KI-Sprachmodellen in die Hochschulbildung ergeben. Sie dient als wertvoller Leitfaden für alle, die daran interessiert sind, die Vorteile dieser Technologie zu nutzen, ohne die wissenschaftliche Integrität zu kompromittieren. Und das, meine Freund:innen, ist ein Ziel, das ich voll und ganz unterstütze!
+
+# Kapitel 1 Grundlegendes zu großen Sprachmodellen
+
+Markus Frank
+
+*IT-Gruppe Geisteswissenschaften*
+
+## 1.1 Um welche Modelle handelt es sich und was tun sie?
+
+ChatGPT ist ein Benutzerinterface in Form eines klassischen Chatprogrammes, welches von OpenAI entwickelt wurde, damit Endanwender:innen auf eine gewohnte und leicht verständliche Weise mit einem sogenannten *Large Language Model* (LLM) interagieren können. Das konkret eingesetzte Modell basiert auf der leistungsfähigen Transformer-Architektur, wie sie von Vaswani et al. 2017 in „Attention Is All You Need“ beschrieben und seitdem von Akteuren wie OpenAI, Google, Microsoft und Facebook weiterentwickelt wird. Besonders die generativen *pre-trained Transformer* (GPT), deren dritte und vierte Iteration in ChatGPT zum Einsatz kommen, haben sich bei der Produktion natürlicher Sprache bewährt: Sie sind in der Lage, eine Eingabe arbiträrer Länge als Input zu verarbeiten und einen natürlich-sprachlichen Output ebenfalls arbiträrer Länge zurückzuliefern. Die Besonderheit der Transformer-Modelle ist dabei, dass sie ihre ‚Aufmerksamkeit‘ bei der Berechnung des Outputs gleichzeitig auf sehr lange Eingabesequenzen richten können (tausende Wörter) und somit vielsprachlicher Kontext für die Generierung von Antworten zur Verfügung steht.
+
+Grundlegend erzeugen GPT-Modelle ihren sprachlichen Output folgendermaßen: Sie nehmen eine sprachliche Sequenz als Input und berechnen den Output anschließend Wort für Wort. Sie setzen dabei am Input an, und berechnen das wahrscheinlichste nächste Wort im konkreten Kontext. Die Vorhersage des jeweils nächsten Wortes ist dabei ein komplexer stochastischer Prozess, da das Modell jedes Wort des Inputs, soweit es seine Aufmerksamkeitsspanne zulässt, in die Berechnungen mit einfließen lässt. Das Modell berücksichtigt also nicht lediglich die Wörter des aktuellen Satzes oder vielleicht noch eines vorangegangenen Satzes, um das jeweils nächste Wort vorherzusagen, sondern im Falle von GPT-4 bis zu 24.000 Wörter. Dies ist auch der Grund, warum der Output oft den Anschein erweckt, als könne sich ChatGPT an weit zurück liegende Elemente eines Dialoges noch gut erinnern oder auch Anaphern über große Distanzen referenzieren. Der frühere Output oder die Erstglieder von Anaphern befinden sich schlicht noch im Input des Modells, wenn der aktuelle Output generiert wird.
+
+## 1.2 Wie werden solche Modelle trainiert?
+
+Das Training von LLMs ist eine aufwändige Angelegenheit. Um ein untrainiertes Rohmodell in die Lage zu versetzen, sprachliche Sequenzen in brauchbarer Qualität zu erzeugen, muss es anhand von Trainingsdaten in einem zunächst unüberwachten Prozess lernen, welche Sequenzen von Wörtern in einer oder auch vielen Sprachen mit welcher Wahrscheinlichkeit auftreten. Innerhalb seiner architektonischen Vorgaben ist das Modell letztlich ein stochastisches Abbild der Wortreihenfolgen in den Trainingsdaten. Dieses ‚Verständnis‘ von Wortreihenfolgen erlaubt es dem Modell bei seiner späteren Anwendung, die wahrscheinlichsten Wörter vorherzusagen. Damit das Modell leistungsfähig ist und auf den äußerst vielfältigen potenziellen Input brauchbar reagieren kann, müssen die Trainingsdaten sehr umfangreich ausfallen: je mehr Trainingsdaten zur Verfügung stehen, umso zuverlässiger kann die mathematische Justierung der einzelnen Modellkomponenten erfolgen und damit die Wahrscheinlichkeit für unerwünschte Vorhersagen reduziert werden. Allgemein gesprochen, gewinnt das Modell ein besseres ‚Verständnis‘ für seine Aufgabe, je mehr es trainieren kann. Um ein Modell wie GPT-4 zu trainieren, welches schätzungsweise über 1,76 Billionen trainierbare Parameter verfügt, sind Trainingsdaten im Umfang von ca. 13 Billionen Wörtern nötig. Die Trainingsdaten umfassen im Falle von GPT-4 sowohl Korpora verschiedener natürlicher Sprachen als auch Coding-Beispiele diverser Programmiersprachen.
+
+Um derartig große Datenmengen ansammeln zu können, kann OpenAI bei deren Auswahl nicht sonderlich wählerisch sein, sondern muss große Teile der im Internet verfügbaren Sprachdaten nutzen. Dieser Mangel an Vorselektion erzeugt jedoch Modelle, die auch Wortsequenzen vorhersagen, die aus Sicht vieler Endanwender:innen problematisch sind: Befanden sich z.B. rassistische oder sexistische Äußerungen in den Trainingsdaten, so wird das Modell auch solche Wortsequenzen produzieren, wenn sie zum vorangegangenen Kontext passen.
+
+Um derartigen Output zu verhindern und das Modell speziell für seinen Einsatz als Chatbot vorzubereiten, wird nach dem unüberwachten Training noch ein manuelles Finetuning des Modells nachgeschaltet. Dieses Finetuning besteht darin, dass Menschen mit dem Modell interagieren und die Qualität der Antworten bewerten. Anhand dieser Bewertungen können dann gewisse Modellparameter angepasst oder Filterschichten zwischen Input und Output gezogen werden, um die Wortsequenzen des Outputs in eine gewünschte Richtung zu beeinflussen. Wie das initiale Training des Modells, ist auch das manuelle Finetuning eine vor allem personell ressourcenintensive Angelegenheit, was die Kosten zur Erstellung von GPT-4 in den hohen zweistelligen Millionenbereich anhob.
+
+### 1.3 Warum „halluzinieren“ diese Modelle und was folgt daraus?
+
+Am Schluss dieser kurzen Einführung soll noch der Frage nachgegangen werden, warum ChatGPT in seinen Antworten immer wieder ‚halluziniert‘. Der Grund hierfür liegt in der Funktionsweise des Modells: Transformer-Modelle sind keine Datenbanken. Beim Training der Modelle werden zwar große Mengen an Texten eingesetzt, diese Texte bleiben im Modell selbst aber nicht erhalten. Das Modell ist eine mathematische Abstraktion aller Daten, die bei seinem Training zum Einsatz kamen. Im Modell bleiben zwar die stochastischen Spuren von Trainingsdaten zurück, einzelne Texte lassen sich daraus aber nicht mehr rekonstruieren. Wird das Modell nach konkreten Informationen gefragt, so greift es anders als z.B. Wikipedia nicht auf eine feste Information zurück, die es einfach zurückgeben könnte, sondern es berechnet die im jeweiligen Kontext wahrscheinlichste Sequenz an Wörtern. Das Modell kann nicht wissen, was wahr ist, es kann lediglich berechnen, welche Wörter im gegebenen Kontext am wahrscheinlichsten sind. Die wahrscheinlichste Äußerung mag in manchen Kontexten auch eine wahre Aussage sein, letztlich handelt es sich dabei aber um bloße Koinzidenz. Aktuell werden die Modelle nicht dahingehend trainiert, wahre Aussagen zu produzieren. Sie werden trainiert, sprachliche Strukturen vorherzusagen.
+
+Es ist zwar zu erwarten, dass ein LLM zukünftig auch zielführend mit externen Wissensquellen verknüpft werden kann (z.B. BING), so lange es sich aber um reine Sprachmodelle handelt, ist jede Form der Wissensanfrage mit Vorsicht zu genießen: Die Modelle liefern in der Regel hochgradig plausible Antworten zurück. Die Plausibilität ist jedoch nicht darin begründet, dass die Aussage korrekt ist, sondern, dass sie besonders wahrscheinlich ist und sie für die meisten Menschen allein dadurch bereits plausibel wirkt. Ohne Kenntnis der Materie können Endanwender:innen häufig nicht erkennen, ob ‚halluziniert‘ wurde, oder ob der Output eine sachlich korrekte Sequenz an Wörtern darstellt. Was folgt daraus für den Einsatz von ChatGPT? Verwenden Sie ChatGPT nicht als Ersatz für Google. Verwenden Sie ChatGPT vielmehr zur Transformation von sprachlichen Strukturen: Zur Paraphrasierung von Sätzen, zur Übersetzung von Sprachen, zur Zusammenfassung von Texten, der sprachlichen Optimierung von Textabschnitten, der iterativen Entwicklung von Ideen oder auch der Korrektur von Programmcode. Geben Sie ChatGPT konkrete Informationen, welche das Modell verarbeiten und in andere Informationen transformieren kann. Stellen Sie aber keine reinen Wissensfragen, wenn Sie sich wahre Aussagen erhoffen und Sie nicht mit wahrscheinlichen Äußerungen zufrieden sind.
+
+# Kapitel 2 Einsatz von Sprachmodellen in der Lehre
+
+Jana Antosch-Bardohn und Barbara Beege
+
+*PROFiL: Personalqualifikation für Lehrende an der LMU*
+
+KI-Sprachmodelle wie ChatGPT können in der Lehrpraxis in drei Bereichen zum Einsatz kommen: Bei der Konzeption von Lehr-/Lernveranstaltungen, bei der Erstellung von Lernmaterialien und bei der Durchführung von Lehr-/Lernmethoden. Auf konkrete Anwendungsideen wird in diesem Kapitel näher eingegangen.
+
+## 2.1 Sprachmodelle in der Konzeptionsphase
+
+Damit in Lehrveranstaltungen gutes Lernen für die Studierenden ermöglicht wird, ist eine wohl überlegte Konzeption und Vorbereitung der Veranstaltung unerlässlich. Hilfreich hierbei ist das Konzept des *Constructive Alignments*. Um eine kohärente Lernumgebung zu schaffen, sollen Lernziele (*intended learning outcomes*), Lehrmethoden und Prüfungsformate gut aufeinander abgestimmt, also *aligned* sein. Aufbauend auf präzise formulierte Lernziele in der Konzeptionsphase einer Lehrveranstaltung, können Lehrende später geeignete Lehrmethoden wählen, mit denen die Studierenden zum Erreichen der Lern- und Kompetenzziele befähigt werden. Über ein adäquates Prüfungsformat wird abgeprüft, ob die Lernziele erreicht wurden und Wissens- und Kompetenzerwerb stattgefunden haben. Beim Formulieren von Lernzielen und weiteren Konzeptions- und Vorbereitungstätigkeiten kann eine KI unterstützen, was im Folgenden erläutert wird.
+
+### 2.1.1 Lernziele formulieren
+
+Zum Start jeder Lehrveranstaltungskonzeption sollten Lehrende Lernziele formulieren. Lernziele sind eine wichtige Orientierung für Lehrende und Studierende. Eine Taxonomie zur Formulierung kognitiver Lernziele unterteilt Wissen in sechs Wissensniveaustufen: Kennen, verstehen, anwenden, analysieren, bewerten und erschaffen. Bei der Formulierung von Lernzielen kann ChatGPT behilflich sein.
+
+So könnte ein prompt zur Lernzielformulierung folgendermaßen lauten: „Formuliere pro Wissensstufe nach Krathwohl und Anderson ein Lernziel zum Thema ‚Selbstbestimmungstheorie nach Deci und Ryan‘ für eine Lehrveranstaltung an einer Hochschule.“ (Vgl. Abbildung 01):
+
+1. Sich erinnern und wiedererkennen (Remembering):
+Die Studierenden können die zentralen Konzepte der Selbstbestimmungstheorie nach Deci & Ryan benennen und erklären.
+2. Verstehen (Understanding):
+Die Studierenden können die Grundprinzipien der Selbstbestimmungstheorie nach Deci & Ryan erklären und deren Bedeutung für die Motivation und das Wohlbefinden von Individuen verstehen.
+3. Anwenden (Applying):
+Die Studierenden können anhand von Fallstudien oder Beispielen die Anwendung der Selbstbestimmungstheorie in verschiedenen Kontexten wie Bildung, Arbeitswelt oder Sport analysieren und erklären.
+4. Analysieren (Analyzing):
+Die Studierenden können die verschiedenen Aspekte der Selbstbestimmungstheorie untersuchen und deren Zusammenhänge und Wechselwirkungen analysieren, einschließlich der drei Grundbedürfnisse nach Autonomie, Kompetenz und sozialer Eingebundenheit.
+5. Evaluieren (Evaluating):
+Die Studierenden können die Auswirkungen der Selbstbestimmungstheorie auf individuelles Wohlbefinden, Motivation und Leistung bewerten und kritisch hinterfragen, indem sie verschiedene Forschungsergebnisse und Studien analysieren und interpretieren.
+6. Erschaffen (Creating):
+Die Studierenden können Strategien und Interventionen entwickeln, um die Selbstbestimmung und intrinsische Motivation in Bildungseinrichtungen, Unternehmen oder anderen Kontexten zu fördern, basierend auf den Prinzipien der Selbstbestimmungstheorie nach Deci & Ryan.
+
+ChatGPT liefert hier eine erste Sammlung. Wer genauer hinsieht, erkennt jedoch schnell, dass die Beispiele nicht trennscharf und zudem abstrakt bzw. allgemein gehalten sind. Diese Vorschläge können jedoch als Ausgangspunkt für präzise formulierte, alle Wissensstufen betreffende Lernziele dienen, z.B.:
+
+- **Kennen:** Die Lernenden nennen die drei Grundbedürfnisse der Selbstbestimmungstheorie nach Deci & Ryan.
+- **Verstehen:** Die Lernenden erläutern die drei Grundbedürfnisse der Selbstbestimmungstheorie nach Deci und Ryan und geben wesentliche Kernaspekte wieder.
+- **Anwenden:** Die Lernenden übertragen Aspekte der Selbstbestimmungstheorie auf ein vorgegebenes praktisches Fallbeispiel.
+- **Analysieren:** Die Lernenden formulieren Auswirkungen und Konsequenzen von der Erfüllung und Nichterfüllung von Bedürfnissen.
+- **Bewerten:** Die Lernenden prüfen wissenschaftliche Studien zur Selbstbestimmungstheorie und deren Aussagekraft kritisch.
+- **Erschaffen:** Die Lernenden kreieren eine Vielzahl an Ideen, wie die Motivation von Schülerinnen im Fremdsprachenunterricht Grammatik zu üben, über die drei Grundbedürfnisse konkret gefördert werden kann.
+
+### 2.1.2 Ausschreibungstexte verfassen
+
+Die Erstellung von informativen und gleichzeitig ansprechenden Ausschreibungstexten – zum Beispiel Kursbeschreibungen für das an der LMU genutzte Lehrveranstaltungsmanagement-System (LSF) – kann aufwändig und eine Herausforderung sein. LLMs können ein erstes Textgerüst schaffen oder auch erste Ideen für den Lehrveranstaltungstitel liefern.
+
+### 2.1.3 Referatsthemen generieren
+
+Die Wahl geeigneter Referatsthemen kann das Interesse am Thema bei den Studierenden wecken und ihre Motivation fördern. Sprachmodelle können dafür genutzt werden, Vorschläge für Referatsthemen zu generieren, die den Interessen der Studierenden entsprechen. So könnte ChatGPT beispielsweise aufgefordert werden, eine Liste mit zehn ansprechenden Unterthemen zum Thema „Selbstbestimmungstheorie nach Deci und Ryan“ zu formulieren (vgl. Abbildung 02).
+
+1. Die Bedeutung von Autonomie in der Selbstbestimmungstheorie: Einfluss auf Motivation und Wohlbefinden.
+2. Selbstbestimmungstheorie und intrinsische Motivation: Wie autonomes Handeln die Motivation beeinflusst.
+3. Die Rolle von sozialer Eingebundenheit in der Selbstbestimmungstheorie: Auswirkungen auf zwischenmenschliche Beziehungen und das Wohlbefinden.
+4. Selbstbestimmungstheorie in der Bildung: Wie kann sie die Lernmotivation und Leistung der Schüler verbessern?
+5. Anwendung der Selbstbestimmungstheorie am Arbeitsplatz: Auswirkungen auf die Mitarbeitermotivation und -zufriedenheit.
+6. Selbstbestimmungstheorie und sportliche Leistung: Wie kann sie die intrinsische Motivation von Sportlern fördern?
+7. Selbstbestimmungstheorie und Gesundheitsverhalten: Die Bedeutung von Autonomie für einen gesunden Lebensstil.
+8. Kritikpunkte an der Selbstbestimmungstheorie: Herausforderungen und alternative Perspektiven.
+9. Die Entwicklung der Selbstbestimmung im Laufe des Lebens: Veränderungen in der Autonomie und Motivation.
+10. Praktische Interventionen zur Förderung der Selbstbestimmung: Strategien zur Stärkung der Autonomie in verschiedenen Lebensbereichen.
+
+Sie sehen an den Vorschlägen, dass auch hier die Themen nicht trennscharf sind und keinem übergeordneten roten Faden folgen. Nehmen Sie daher ChatGPT-Ergebnisse lediglich als zeitsparende Inspiration, um in den Ideenfluss zu gelangen.
+
+### 2.1.4 Präsentationen erstellen
+
+LLMs können für die Erstellung von Präsentationen genutzt werden. Geben Sie einen Text ein und lassen Sie Stichpunkte oder Schlüsselbegriffe für Präsentationsfolien formulieren. Sie können auch bereits erstellte Folien mithilfe von KI-Sprachmodellen kürzen oder Ihre Folien sprachlich und inhaltlich an die spezifischen Bedürfnisse und das Niveau der Zielgruppe anpassen. Dadurch können Lehrende ihre Lernunterlagen studierenden-orientierter ausrichten, verständlicher gestalten und damit den Lernprozess fördern. Wir haben ChatGPT die gleiche Anfrage gestellt: in Abbildung 03 für die Zielgruppe Doktoranden der Pädagogischen Psychologie und in Abbildung 04 für die Zielgruppe Lehramtsstudierende der Mathematik.
+
+# Selbstbestimmungstheorie nach Deci & Ryan: Relevante Aspekte
+
+Zielgruppe: Doktoranden der Pädagogischen Psychologie
+
+1. Grundlegende Konzepte:
+- Entwicklung von Edward L. Deci und Richard M. Ryan in den 1980er Jahren.
+- Betont die Bedeutung der Selbstbestimmung und Motivation im menschlichen Verhalten.
+
+2. Kernbedürfnisse:
+- Autonomie: Bedürfnis nach eigenständigem Entscheiden und Handeln.
+- Kompetenz: Streben nach erfolgreicher Bewältigung von Aufgaben.
+- Soziale Eingebundenheit: Verlangen nach sozialen Beziehungen und Akzeptanz.
+
+3. Motivationsarten:
+- Intrinsische Motivation: Eigenes Interesse und Freude an der Aktivität.
+- Extrinsische Motivation: Beeinflusst durch äußere Belohnungen oder Strafen.
+- Amotivation: Fehlende Motivation oder Interesse.
+
+# Anwendung der Selbstbestimmungstheorie nach Deci & Ryan im Mathematikunterricht
+
+Zielgruppe: Lehramtsstudierende im Fach Mathematik
+
+1. Theoretischer Hintergrund:
+- Entwickelt von Deci & Ryan zur Erklärung der Motivation im Bildungskontext.
+- Betont die Bedeutung von Autonomie, Kompetenz und sozialer Eingebundenheit.
+
+2. Relevanz für den Mathematikunterricht:
+- Autonomie: Ermöglicht Schülern, eigene mathematische Entdeckungen zu machen.
+- Kompetenz: Förderung mathematischer Fähigkeiten und Selbstvertrauen.
+- Soziale Eingebundenheit: Unterstützt interaktive Gruppenarbeit und mathematische Diskussionen.
+
+3. Praktische Umsetzung:
+- Gestaltung von Lernumgebungen, die Schüler in die Entscheidungsfindung einbeziehen.
+- Schaffung von mathematischen Aufgaben, die unterschiedliche Niveaus der Kompetenz ansprechen.
+- Förderung von Peer-Learning und gemeinsamem mathematischen Problemlösen.
+
+### 2.1.5 Fragen generieren
+
+Fragen sind eine wichtige Lern- und Kommunikationstechnik in Lehrveranstaltungen und müssen sorgfältig formuliert werden, damit sie die gewünschte Wirkung bei den Lernenden erzielen. Bestimmen Sie zunächst, welche Intention Sie mit der Frage verfolgen. Möchten Sie
+
+- Lerninhalte wiederholen lassen,
+- Prüfungsfragen formulieren,
+- das Verständnis sichern,
+- Denkprozesse fördern,
+- lebendige Diskussionen initiieren
+- oder die Studierenden zur Reflexion anregen?
+
+Je nach Intention, die mit der Frage erzielt werden soll, können Sie mithilfe von LLMs gezielt Fragen generieren. Wir haben in Abbildung 05 Beispiele zu Wiederholungsfragen generieren lassen. Auch hier empfiehlt es sich natürlich, die Vorschläge kritisch zu prüfen. Wenn Sie den prompt so schärfen, dass geschlossene Fragen und Antworten generiert werden, können Sie mithilfe von ChatGPT in kurzer Zeit Quizfragen erstellen, die Ihnen zur Auflockerung Ihrer Lehrveranstaltung dienen.
+
+# Worin sehen Sie im Hochschulkontext das Potenzial von ChatGPT?
+
+Im Grunde verfügt jede Person an der Hochschule mit ChatGPT über einen persönlichen Assistenten, der sie bei ihrer Arbeit unterstützt. Wahrscheinlich sind sowohl in Forschung als auch Lehre deutlich bessere Leistungen möglich, da KI-Assistenten schlicht die Arbeit der Dozent:innen und Studierenden optimieren oder sogar deren Grundlage darstellen können (teils zu Lasten der eigenen Urheberschaft)
+
+# Wofür nutzen Sie ChatGPT bereits?
+
+Aktuell primär für drei Dinge: Zusammenfassungsentwürfe größerer Textpassagen, Optimierung von Programmiercode und teilweise als erste Inspiration für Vortragsgliederungen.
+
+# Wofür würden Sie ChatGPT in Zukunft gerne einsetzen?
+
+Die Zukunft von KI-Assistenten wie ChatGPT zeichnet sich denke ich in Microsoft Copilot 365 ab, welches auf absehbare Zeit mit Office verknüpft wird, wenn die EU den Einsatz von KI regulatorisch nicht abwürgt. Mehr noch als jetzt ChatGPT würde ich Copilot schlicht als persönlichen Assistenten in allen Aspekten meiner Arbeit einsetzen. Sei es die Erstellung von Präsentationen, Datenanalyse, die Optimierung von Texten u.Ä..
+
+# Meine Tätigkeit...
+Fakultät für Sprach- und Literaturwissenschaften
+Studiengangskoordinator für Digital Humanities an der IT-Gruppe Geisteswissenschaften
+
+1. Sich erinnern und wiedererkennen (Remembering):
+Wiederholungsfrage: Was sind die zentralen Konzepte der Selbstbestimmungstheorie nach Deci & Ryan?
+
+2. Verstehen (Understanding):
+Wiederholungsfrage: Wie definiert die Selbstbestimmungstheorie nach Deci & Ryan den Begriff 'Autonomie' und warum ist er wichtig?
+
+3. Anwenden (Applying):
+Wiederholungsfrage: Wie kann die Selbstbestimmungstheorie nach Deci & Ryan in Bildungseinrichtungen angewendet werden, um die Lernmotivation und Leistung der Schüler zu verbessern?
+
+4. Analysieren (Analyzing):
+Wiederholungsfrage: Welche Rolle spielt die soziale Eingebundenheit in der Selbstbestimmungstheorie nach Deci & Ryan und wie beeinflusst sie das Wohlbefinden?
+
+5. Evaluieren (Evaluating):
+Wiederholungsfrage: Welche Auswirkungen hat die Selbstbestimmungstheorie nach Deci & Ryan auf die Motivation und Zufriedenheit der Mitarbeiter am Arbeitsplatz?
+
+6. Erschaffen (Creating):
+Wiederholungsfrage: Welche praktischen Interventionen können entwickelt werden, um die Selbstbestimmung nach den Prinzipien der Selbstbestimmungstheorie nach Deci & Ryan zu fördern?
+
+### 2.1.6 Lerntransferbeispiele
+
+KI-Sprachmodelle können praktische Beispiele zu behandelten Theorien generieren, um den Lerntransfer von gelernten Inhalten auf neue Situationen und somit die Anwendung des Gelernten zu fördern. Mit passenden, zielgruppengerechten Beispielen sind Lehrende für die Lehrveranstaltung gut vorbereitet (vgl. Abbildung 06):
+
+1. Arbeitsplatzmotivation und -zufriedenheit:
+In der Arbeitswelt kann die Selbstbestimmungstheorie dazu verwendet werden, die Motivation und Zufriedenheit der Mitarbeiter zu fördern. Arbeitgeber können ihren Mitarbeitern mehr Autonomie bei der Arbeitsgestaltung und Entscheidungsfindung ermöglichen. Dies könnte durch flexible Arbeitszeiten, die Möglichkeit zur Projektwahl oder die Einbeziehung der Mitarbeiter in Entscheidungsprozesse erreicht werden. Indem die Arbeitnehmer das Gefühl haben, mehr Kontrolle über ihre Arbeitssituation zu haben, steigt die intrinsische Motivation und die Arbeitszufriedenheit.
+
+2. Gesundheitsförderung und Verhaltensänderung:
+Die Selbstbestimmungstheorie kann auch bei der Förderung von gesunden Verhaltensweisen und der Verhaltensänderung in Bezug auf Gesundheit und Wellness eingesetzt werden. Individuen könnten ihre eigenen Ziele in Bezug auf Ernährung, körperliche Aktivität oder Stressbewältigung setzen und selbstbestimmt an deren Umsetzung arbeiten. Gesundheitsprogramme könnten darauf abzielen, die Autonomie der Teilnehmer zu stärken und sie bei der Entwicklung von Kompetenzen zur Verbesserung ihrer Gesundheit zu unterstützen.
+
+3. Kreatives Schaffen und persönliche Projekte:
+Die Selbstbestimmungstheorie kann auch auf kreative Prozesse und persönliche Projekte angewendet werden. Menschen, die an kreativen Hobbys wie Malen, Schreiben oder Musikmachen interessiert sind, können ihre eigenen Projekte wählen und selbstbestimmt daran arbeiten. Indem sie die Freiheit haben, ihre Kreativität auszuleben und Entscheidungen über ihre künstlerischen Ausdrucksformen zu treffen, können sie ihre intrinsische Motivation und ihr kreatives Potenzial steigern.
+
+## 2.2 KI bei der Erstellung von Lernmaterialien
+
+Egal in welcher Vielfalt Sie den Studierenden asynchrone Lernmaterialien und wissenschaftliche Texte zur Verfügung stellen möchten – bei der Erstellung von Unterrichtsmaterialien und Lernaufträgen können Sprachmodelle, sinnvoll eingesetzt, den Lernprozess unterstützen.
+
+### 2.2.1 Übungsaufträge erstellen
+
+KI-gestützte Tools wie ChatGPT können wertvolle Ressourcen sein, um Ideen für Hausaufgaben oder Übungsanleitungen zu generieren. Lassen Sie sich als Inspiration zu einem behandelten Thema von ChatGPT Hausaufgaben entwickeln. Geben Sie dabei auch Ihre Rolle und die Zielgruppe der Lernenden an, um passgenauere Ergebnisse zu erhalten. Ein *prompt* könnte beispielsweise lauten: „Eine Hochschullehrende der Psychologie behandelt im 3. Semester die Selbstbestimmungstheorie nach Deci und Ryan. Erstelle eine kurze Hausaufgabe, anhand derer die Studierenden die behandelte Theorie vertiefen können“ (vgl. Abbildung 07).
+
+**Aufgabe:** Nehmen Sie an, dass Sie als Psychologiestudent:in in einer Beratungseinrichtung arbeiten. Ein Klient kommt zu Ihnen und schildert, dass er seit einiger Zeit immer weniger Motivation für sein Studium hat. Er fühlt sich frustriert und demotiviert, obwohl er das Fach Psychologie liebt und gerne lernt. Ihre Aufgabe ist es nun, die Situation des Klienten anhand der Selbstbestimmungstheorie von Deci & Ryan zu analysieren und ihm geeignete Ratschläge zur Steigerung seiner Motivation zu geben.
+
+#### Schritt 1: Analyse
+a) Beschreiben Sie kurz die Grundprinzipien der Selbstbestimmungstheorie nach Deci & Ryan. Erläutern Sie die Unterscheidung zwischen extrinsischer und intrinsischer Motivation und die drei psychologischen Grundbedürfnisse (Autonomie, Kompetenz und soziale Eingebundenheit).
+
+b) Interpretieren Sie die Situation des Klienten mithilfe der Selbstbestimmungstheorie. Gehen Sie dabei auf mögliche Gründe für seine nachlassende Motivation ein und identifizieren Sie, welche der Grundbedürfnisse vermutlich nicht ausreichend erfüllt sind.
+
+#### Schritt 2: Empfehlungen
+c) Geben Sie konkrete Ratschläge an den Klienten, wie er seine Motivation steigern und sein Wohlbefinden im Studium verbessern kann. Berücksichtigen Sie dabei die Prinzipien der Selbstbestimmungstheorie. Wie kann er sein Studium so gestalten, dass seine intrinsische Motivation gefördert wird? Wie kann er seine Autonomie, Kompetenz und soziale Eingebundenheit im Studienumfeld stärken?
+
+d) Begründen Sie Ihre Empfehlungen und geben Sie Beispiele, wie der Klient die vorgeschlagenen Maßnahmen in seinem Studienalltag umsetzen kann.
+
+Auch hier ist zu erkennen, dass ChatGPT sehr allgemein bleibt. Sie können diese Vorschläge jedoch gut als Basis für eigene Aufgabeninstruktionen nutzen.
+
+### 2.2.2 Sprechtexte als Grundlage für Lernvideos erarbeiten
+
+Häufig verwendete oder hochrelevante Inputeinheiten nehmen Lehrende hin und wieder als Video auf, um den Studierenden die Inhalte asynchron zur Verfügung stellen zu können. Für das Aufnehmen von Erklärvideos oder Podcasts können LLMs beispielsweise aus einem selbst verfassten Text einen strukturierten, gut sprechbaren Text generieren. Auf dieser Grundlage können Sie ansprechende und verständliche audiovisuelle Hilfsmittel erstellen. Dieses Vorgehen ist auch als Hausaufgabe denkbar. So können Studierende mithilfe von LLMs Texte erstellen und Erklärmedien (z.B. Erklärvideos oder Podcasts) produzieren. Dadurch wird eine tiefere Auseinandersetzung mit den Lerninhalten gefördert.
+
+### 2.2.3 Textverständnis verbessern
+
+Lehrende, die viele Texte behandeln, kennen die Herausforderung: Studierende fühlen sich aufgrund der Stofffülle oder der Kürze der Zeit überfordert und kommen unvorbereitet in die Lehrveranstaltung. ChatGPT kann die Studierenden zum Lesen motivieren und die Vorbereitung der Inhalte erleichtern. Es kann aus komplexen Artikeln oder Kapiteln eine Gliederung erstellen, Zusammenhänge plausibel analysieren, Zusammenfassungen erstellen, Begriffe erklären, fremdsprachige Abschnitte übersetzen oder Fragen zum Text formulieren bzw. beantworten. Füttern Sie ChatGPT jedoch nur mit Texten, die die freie Benutzung erlauben, da ansonsten Urheberrechte verletzt werden.
+
+Und Achtung: ChatGPT ist kein wissenschaftlich denkendes Wesen, es arbeitet nicht faktenbasiert, sondern liefert lediglich besonders wahrscheinliche Zusammenhänge. Diese können im konkreten Anwendungsfall jedoch falsch sein (vgl. Kapitel 1). Inwiefern kann ChatGPT die Texte sinnvoll gliedern, Zusammenhänge wissenschaftlich korrekt analysieren oder zusammenfassen? Können wir von Studierenden erwarten, dass sie die Ergebnisse der KI beurteilen können? Die Unterstützung von LLMs kann hier nur eine Brücke sein, die Studierende an die Auseinandersetzung mit schwierigen Texten heranführt. Lesekompetenz können Studierende nur erwerben, wenn Sie die Texte letztendlich selbst lesen.
+
+### 2.2.4 Lernkarten generieren
+
+Mithilfe von ChatGPT können Studierende Lernkarten erstellen, die Schlüsselkonzepte, Definitionen oder wichtige Informationen aus Texten enthalten. Diese Karten können (kritisch geprüft) als praktisches Lernwerkzeug dienen. Allerdings ist es auch hierbei ratsam, Studierende anzuhalten, sich die Kompetenz, Lernkarten zu erstellen, Lerninhalte zusammenzufassen, fachlichen Stoff zu priorisieren und Fragen zu generieren, selbständig anzueignen und sich nicht bei jeder Gelegenheit an KI-Modelle zu wenden.
+
+## 2.3 Lehr-/Lernmethoden mit ChatGPT
+
+Bei methodischen Überlegungen zu universitären Lehrveranstaltungen bietet ChatGPT einige Möglichkeiten zur kreativen und (inter-)aktiven Gestaltung des Lernprozesses. Im Folgenden werden Ideen präsentiert, wie ChatGPT als Tool in universitären Lehrveranstaltungen methodisch genutzt werden kann.
+
+### 2.3.1 Kennenlernmethode
+
+Eine positive Lernatmosphäre trägt in Lehrveranstaltungen dazu bei, dass gut gelernt wird und die Motivation der Lernenden gesteigert und erhalten werden kann. Sie als Lehrende können zu einer lernförderlichen Atmosphäre beitragen, indem Sie zu Beginn einer Lehrveranstaltung eine Kennenlernmethode durchführen. Fragen Sie doch mal ChatGPT, mit welchen Einstiegsmethoden Sie einen guten Kontakt zwischen den Studierenden und der Lehrperson herstellen können. Die Antworten auf unsere Anfrage sehen Sie in Abbildung 08.
+
+1. **Namensspiel und Icebreaker-Fragen:** Diese Methode hilft, die Namen der Studierenden zu lernen und gleichzeitig eine lockere Atmosphäre zu schaffen. Die Studierenden setzen sich in einem Kreis oder in Gruppen zusammen. Jeder sagt seinen Namen und etwas Interessantes über sich. Anschließend werden Icebreaker-Fragen gestellt, wie zum Beispiel "Was war Ihr ungewöhnlichstes Urlaubserlebnis?" oder "Welches Buch haben Sie zuletzt gelesen?". Dies fördert nicht nur das Kennenlernen, sondern ermöglicht auch den Studierenden, Gemeinsamkeiten zu entdecken.
+2. **Speed-Dating:** Diese Methode ermöglicht es den Studierenden, sich in kurzer Zeit mit mehreren Kommilitonen auszutauschen. Die Hochschullehrenden teilen die Klasse in zwei Kreise auf - die inneren und äußeren Kreise. Die Studierenden in den Kreisen gegenüber voneinander haben dann jeweils 2-3 Minuten Zeit, sich selbst vorzustellen und über eine vorgegebene Frage zu sprechen. Nach Ablauf der Zeit rotieren die Kreise, und die Studierenden lernen neue Kommilitonen kennen. Dies fördert schnelle Interaktionen und ermutigt die Studierenden, miteinander ins Gespräch zu kommen.
+3. **Studierenden-Steckbriefe:** Vor der ersten Lehrveranstaltung bitten die Hochschullehrenden die Studierenden, Steckbriefe auszufüllen, in denen sie Informationen wie Namen, Studiengang, Interessen, Hobbies und berufliche Ziele angeben. Während der ersten Sitzung können die Lehrenden dann einige der Informationen teilen und die Studierenden ermutigen, aufgrund der Gemeinsamkeiten oder Unterschiede miteinander ins Gespräch zu kommen. Dies fördert nicht nur das Kennenlernen, sondern schafft auch eine Verbindung zwischen den Studierenden aufgrund ihrer gemeinsamen Interessen.
+
+Diese Methoden können an die spezifischen Bedürfnisse und Dynamiken der jeweiligen Lehrveranstaltung angepasst werden. Sie tragen dazu bei, eine positive Lernatmosphäre zu schaffen und den Studierenden die Möglichkeit zu geben, sich von Anfang an wohl und integriert zu fühlen.
+
+### 2.3.2 Fragen und Antworten für Tests und Quiz
+
+Wie in Abschnitt 2.1 beschrieben, können KI-Sprachmodelle verwendet werden, um zeitsparend Fragen und Antworten zu generieren. Quiz sind in Lehrveranstaltungen eine willkommene Auflockerung. Die Erstellung einer Frage- und Antwortsammlung kann auch den Studierenden übertragen werden. Zusammen mit dem Auftrag, die generierten Fragen kritisch zu überarbeiten, kann diese Methode als eine hilfreiche Prüfungsvorbereitung dienen und das Lernen abwechslungsreicher gestalten. KI kann auch bei der Generierung von Fragen und Antworten für die interaktive Lehr-/Lernmethode „Übungsmaschine“ eingesetzt werden. Bei dieser Methode sitzen sich die Studierenden paarweise gegenüber: auf der einen Seite die Fragenden, gegenüber die Antwortenden. Die Fragenden stellen ihre Aufgabe und sobald die Antwortgebenden die Frage beantwortet haben, rücken diese einen Stuhl weiter und bekommen die nächste Frage gestellt. Nach fünf Fragen werden die Seiten gewechselt. Die Lehrperson kann hier die Fragen mithilfe der KI vorbereiten oder von den Studierenden vorbereiten lassen.
+
+### 2.3.3 Wissenschaftliche Diskussionen
+
+LLMs können als virtuelle Diskussionspartner dienen, mit denen Studierende wissenschaftliche Fragen und Themen diskutieren, um ihre Argumentationsfähigkeiten, das kritische Denken und die wissenschaftliche Reflexion zu schulen. Lassen Sie Studierende eine Frage an ChatGPT richten, um Antworten zu erhalten und diese im Anschluss kritisch zu prüfen und zu korrigieren.
+
+Die Studierenden sollten in ihrer Reflexion auch darauf eingehen, worin die Stärken und Schwächen der Antworten lagen und aus welchen Gründen manche Antworten ggf. unbrauchbar waren.
+
+Bei Gruppendiskussionen können LLMs dabei unterstützen, verschiedene Diskussionsrollen zu generieren, um die Perspektivenvielfalt in Gruppendiskussionen zu fördern und das Verständnis unterschiedlicher Standpunkte zu vertiefen (vgl. Abbildung 09).
+
+Wissenschaftliche Diskussionsrollen:
+
+1. **Theorieexperte/-expertin:** Diese Person ist gut vertraut mit der Selbstbestimmungstheorie nach Deci & Ryan. Sie kann die theoretischen Grundlagen und Konzepte der Theorie klar erläutern und aufzeigen, wie sie die Motivation und das Verhalten von Schülern beeinflussen kann.
+2. **Empiriker/-in:** Diese Person hat Forschungserfahrung und kann aktuelle wissenschaftliche Studien präsentieren, die die Auswirkungen der Anwendung der Selbstbestimmungstheorie auf schulisches Verhalten und Leistung untersuchen. Sie kann auch auf mögliche methodische Herausforderungen und Limitationen hinweisen.
+3. **Entwicklungspsychologe/-in:** Diese Rolle konzentriert sich auf die Anwendung der Selbstbestimmungstheorie im Kontext der Schulentwicklung. Sie kann diskutieren, wie die Theorie bei der Gestaltung von Lehrplänen, Lernumgebungen und Schulkulturen berücksichtigt werden kann, um die Selbstbestimmung und Motivation der Schüler zu fördern.
+
+Praktische Diskussionsrollen:
+
+1. **Schulleiter/-in:** Diese Person kann aus der Perspektive einer Schulleitung über die Herausforderungen und Chancen sprechen, die die Implementierung der Selbstbestimmungstheorie im Schulalltag mit sich bringt. Sie kann darüber sprechen, wie die Theorie in schulischen Richtlinien und Maßnahmen umgesetzt werden könnte.
+2. **Lehrer/-in:** Aus der Sicht eines Lehrers/einer Lehrerin kann diese Person darüber diskutieren, wie die Prinzipien der Selbstbestimmungstheorie in den Unterricht integriert werden könnten, um die Schülermotivation, Partizipation und das Lernen zu fördern.
+3. **Schüler/-in:** Ein(e) Schüler(in) kann berichten, wie sich die Anwendung der Selbstbestimmungstheorie auf die Lernmotivation, das Engagement und die Interaktionen im Klassenzimmer auswirken könnte. Sie können auch ihre eigenen Erfahrungen und Sichtweisen teilen.
+4. **Schulpsychologe/-in:** Diese Rolle kann auf die potenziellen psychologischen Auswirkungen der Selbstbestimmungstheorie eingehen und darüber diskutieren, wie Schulpsychologen Schülern helfen könnten, ein größeres Maß an Selbstbestimmung zu entwickeln und wie sie eventuell auftretende Herausforderungen bewältigen könnten.
+
+Die Antworten sind eine recht gute Basis für Diskussionsbeiträge aus unterschiedlichen Perspektiven. Verbunden mit einer angemessenen Recherchezeit, könnten Studierende sich gut auf ihre Rollen vorbereiten.
+
+Wird eine Diskussionsmethode wie beispielsweise Fishbowl oder die 6-Hüte-Technik durchgeführt, so können Studierende vorab ein KI-gestütztes Tool bei der Suche nach passenden Argumenten zu der entsprechenden Rolle nutzen.
+
+### 2.3.4 Think-KI-Pair
+
+„Think-Pair-Share“ ist eine klassische Lehr-/Lernmethode, die kooperatives Lernen fördert. In Einzelarbeit („Think“) sammeln die Studierenden zunächst eigene Ansichten. Vor der anschließenden paarweisen Austauschphase („Pair“) kann mit einem KI-gestützten Tool eine Zwischenphase („KI“) integriert werden, indem die Studierenden Gegenargumente, Antithesen oder auch Beispiele zum Thema mit ChatGPT generieren. In der „Pair“-Phase werden diese dann zu zweit diskutiert. Optional können die Ergebnisse in einer weiteren „Share“-Phase kritisch hinterfragt werden.
+
+### 2.3.5 Mindmaps, Glossare und Wikieinträge
+
+In Lehrveranstaltungen können Studierende KI-Sprachmodelle nutzen, um Kernbegriffe oder Schlüsselwörter aus Texten zu extrahieren. Diese können dann verwendet werden, um eine Mindmap, ein Glossar oder Wikieinträge zu erstellen, die das Verständnis, die Strukturierung des Wissens sowie das Nachschlagen von Fachbegriffen fördern. Wie in Abschnitt 2.2 sei hier nochmals darauf hingewiesen, dass ChatGPT nicht faktenbasiert arbeitet und Studierende in ihrer universitären Ausbildung lernen sollen, Kernbegriffe selbständig zu extrahieren und zu erläutern. Setzen Sie KI daher gut dosiert ein und verzichten Sie eher darauf, wenn der Kompetenzerwerb der Studierenden unter der Verwendung einer KI leiden könnte oder Studierende noch nicht so fortgeschritten sind, die Ergebnisse von ChatGPT sachkundig kritisch prüfen zu können.
+
+## 2.4 Fallstricke bei der Verwendung von LLMs im Lehrkontext
+
+Die Einbindung von KI-Sprachmodellen in universitäre Lehrveranstaltungen eröffnet Lehrenden und Studierenden neue Möglichkeiten zum (inter-) aktiven Lernen, zur Textverarbeitung und zur kollaborativen Wissensvermittlung. LLMs sollten unbedingt als ergänzendes Tool angesehen werden und nicht als Ersatz für die persönliche Interaktion zwischen Dozierenden und Studierenden. Es ist wichtig, dass die Studierenden weiterhin die Möglichkeit haben, direkte Fragen zu stellen und Feedback von der Lehrperson zu erhalten. Künstliche Intelligenz, wie beispielsweise ChatGPT ist kein Ersatz für die persönliche Unterstützung, die Sie als Lehrende bieten können.
+
+Der persönliche Kontakt zwischen den Studierenden und zu den Lehrpersonen ist bei der Arbeit mit KI sogar noch wichtiger geworden, damit die Studierenden den Umgang mit dem Tool in Verbindung mit wissenschaftlichem Wissenserwerb richtig lernen. Stellen Sie sicher, dass Sie als Lehrperson diesbezüglich verfügbar sind, um den Studierenden bei Fragen oder Problemen zu helfen (vgl. Kapitel 4). ChatGPT ist lediglich eine zusätzliche Ressource, um die Lernbedingungen zu verbessern, flexibleres Lernen zu ermöglichen und einen kritischen Umgang mit dem Lernstoff zu trainieren.
+
+Es ist wichtig, dass die Studierenden verstehen, wie ChatGPT funktioniert und dass es automatisch generierte Antworten ausgibt, die nicht immer vollständig sind und nicht korrekt sein müssen. So können in durch ChatGPT generierte Vereinfachungen von Texten Feinheiten verloren gehen, was Missinterpretationen zur Folge haben kann. Bereits bei den in diesem Abschnitt aufgeführten Beispielen wird ersichtlich, dass der von ChatGPT generierte Output kritisch geprüft werden muss. Weisen Sie die Studierenden darauf hin, dass Links, Websites und Quellenangaben von ChatGPT (noch) erfunden werden. Es ist davon auszugehen, dass weiterentwickelte Sprachmodelle zukünftig zuverlässig richtige Antworten liefern werden. Machen Sie Ihren Studierenden deutlich, dass ChatGPT als Unterstützung und nicht als Ersatz für ihre eigenen kognitiven Fähigkeiten dienen sollte.
+
+Erstellen Sie klare Richtlinien für die Verwendung von ChatGPT, um sicherzustellen, dass die Studierenden das Hilfsmittel sinnvoll einsetzen. Geben Sie den Studierenden klare Ziele vor, die mit ChatGPT erreicht werden sollen (vgl. Kapitel 4). Das Wichtigste: Die Verantwortung des Geschriebenen liegt bei den Anwender:innen von ChatGPT! Sowohl Sie als Lehrende als auch die Studierenden tragen mit der Nutzung von ChatGPT weiterhin die Verantwortung für ihre Arbeitsergebnisse.
+
+# Kapitel 3 Verwendung von LLMs in der akademischen Schreibpraxis
+
+Felix Bokelmann und Linda Jessen
+Schreibzentrum der LMU
+
+Schon kurz nach der Veröffentlichung von ChatGPT gab es erste Anzeichen dafür, dass es von Studierenden bei der Erstellung von Hausarbeiten und für andere Arbeitsaufgaben herangezogen wurde. Eine Studie von Garrel, Mayer und Mühlfeld legt eine inzwischen breite Verwendung in der Studierendenschaft nahe. Es stellt sich demnach weniger die Frage, ob derartige Modelle für das wissenschaftliche Schreiben herangezogen werden sollten, sondern vielmehr, wie sie als sinnstiftende Unterstützung für die verschiedenen Teilprozesse genutzt werden können und welche Herausforderungen sie mit sich bringen. Die Beantwortung dieser Frage sollte aus Hochschulperspektive nicht allein den Studierenden überlassen werden. Auch Lehrende und die Hochschulen selbst müssen auf mögliche Hilfestellungen, Fallstricke und Risiken aufmerksam machen und Angebote schaffen, die das Bewusstsein dafür schärfen, sinnvolle Anwendungsmöglichkeiten herausstellen und einen zweckmäßigen Umgang mit LLMs vermitteln.
+
+## 3.1 Funktionen des akademischen Schreibens
+
+Das akademische Schreiben wird bisweilen als reiner Kommunikationsprozess verstanden, in dem zuvor erschlossene wissenschaftliche Inhalte einem breiteren Publikum in Schriftform präsentiert werden. Dabei erfüllt es, über die bloße Dokumentation und Verbreitung neuer Wissensbestände hinausgehend, eine wichtige epistemische bzw. heuristische Funktion und unterstützt über das Prinzip des theoriegeleiteten Fragestellens und Argumentierens die wissenschaftliche Auseinandersetzung mit komplexen Sachverhalten:
+
+- Die **epistemische bzw. heuristische Funktion des Schreibens** nimmt darauf Bezug, dass die Schreibenden durch das Schreiben selbst zu neuen Erkenntnissen gelangen. Häufig führt erst die Verschriftung von Ideen und Inhalten zu deren (Weiter-)Entwicklung und ist entscheidend für die Durchdringung, Ordnung und Präzisierung der eigenen Gedanken. Produktion und Reflexion fördern dabei in Wechselwirkung den Erkenntnis- und Verstehensprozess.
+
+- Das **theoriegeleitete Fragestellungen und Argumentieren** ist ein Prinzip, das die fachlich begründete und inhaltlich wie logisch korrekte Argumentation nach Kriterien der Wissenschaftlichkeit bezeichnet. Es ist ein Kernelement der akademischen Ausbildung, das insbesondere in wissenschaftlichen Schreibaufgaben Anwendung findet und sich dabei fortlaufend weiterentwickelt.
+
+Daneben eröffnen etwa das Verfassen von Einleitung und Schluss, aber auch der Gliederung oder des *Abstracts* eine Metaperspektive auf die eigene Arbeit im jeweiligen Forschungskontext. Es ermöglicht den Anschluss an und die Einordnung in den wissenschaftlichen Diskurs und das Erkennen bzw. Herausarbeiten der Relevanz der zugrundeliegenden Fragestellung. Die sinnvolle Strukturierung und Gliederung der Inhalte sowie die Verdeutlichung der notwendigen Denk- und Arbeitsschritte sind für jedwede wissenschaftliche Kommunikation essenziell, um das benannte Erkenntnisziel zu erreichen und zu vermitteln.
+
+### 3.2 Annäherung an eine sinnvolle Integration von LLMs in die Prozesse des wissenschaftlichen Schreibens
+
+Bei der Frage, ob ein Teilprozess einer Schreibaufgabe durch KI-Tools unterstützt werden soll, sollten Studierende wie Lehrende auch vor dem Hintergrund der genannten Funktionen des wissenschaftlichen Schreibens hinterfragen, ob es sinnvoll und im Interesse der universitären Ausbildung ist, einen Arbeitsschritt abzugeben. Für die individuelle akademische Befähigung, die Entwicklung des wissenschaftlichen Denkvermögens und die wissenschaftliche Sozialisation ist es unerlässlich, dass Schreibprojekte in der exekutiven Verantwortung der Autor:innen bleiben. Auf der anderen Seite können LLMs im Schreibprozess (und anderen Anwendungskontexten) gewinnbringend genutzt werden (vgl. 3.3) und bestehende Arbeitsprozesse ergänzen. Zudem handelt es sich um Technologien, die erwartungsgemäß auch Arbeitswelten entscheidend prägen und verändern werden. Die Befähigung zur gekonnten Handhabung, Kenntnis von geeigneten Tools und die Aufklärung über Chancen und Risiken sind daher unbedingt angezeigt.
+
+Folglich ist im diskursiven Austausch der Hochschulakteur:innen zu entscheiden, wie ein Nebeneinander von selbstständig zu erfüllenden und KI-assistierten Schreibaufgaben etabliert werden kann. Hierfür müssen geeignete Prüfungsformen gewählt (vgl. Kapitel 5), Regeln und Grenzen für den KI-Einsatz als „Leitplanken“ kommuniziert und begleitende Beratungsangebote bereitgestellt werden (vgl. Kapitel 4).
+
+### 3.3 Anwendungspotenziale von Sprach-KIs im akademischen Schreiben
+
+Sprach-KIs wie ChatGPT können in verschiedenen Phasen des wissenschaftlichen Schreibprozesses unterstützend wirken. Im Folgenden werden einige zentrale Anwendungsmöglichkeiten skizziert:
+
+#### 3.3.1 Themenfindung und -eingrenzung
+
+Die Wahl eines geeigneten Themas ist ein entscheidender Schritt im Schreibprozess. ChatGPT kann dabei helfen, erste Ideen zu generieren, Themen einzugrenzen oder Forschungsfragen zu präzisieren. Durch gezielte Prompts können Studierende verschiedene Perspektiven auf ein Thema erkunden und so eine fundierte Entscheidung treffen.
+
+#### 3.3.2 Literaturrecherche und -auswertung
+
+ChatGPT kann bei der Literaturrecherche unterstützen, indem es Vorschläge für relevante Suchbegriffe, Datenbanken oder Quellen macht. Zudem kann es helfen, Literatur zu strukturieren und zentrale Aussagen zusammenzufassen. Allerdings sollte hier stets kritisch geprüft werden, ob die generierten Informationen korrekt und aktuell sind.
+
+#### 3.3.3 Strukturierung und Gliederung
+
+Eine klare Struktur ist essenziell für wissenschaftliche Texte. ChatGPT kann dabei helfen, Gliederungen zu erstellen, Abschnitte zu ordnen oder Übergänge zwischen Argumenten zu formulieren. Dies kann besonders in der frühen Phase des Schreibprozesses hilfreich sein, um den roten Faden zu entwickeln.
+
+#### 3.3.4 Formulierungshilfen
+
+ChatGPT kann bei der Formulierung von Texten unterstützen, indem es Vorschläge für präzisere oder stilistisch ansprechendere Formulierungen macht. Dies kann besonders bei der Überarbeitung von Texten nützlich sein, um Klarheit und Kohärenz zu verbessern.
+
+#### 3.3.5 Feedback und Überarbeitung
+
+ChatGPT kann als erster Feedbackgeber fungieren, indem es Texte auf Verständlichkeit, Logik oder sprachliche Fehler hin überprüft. Studierende können so erste Entwürfe optimieren, bevor sie diese mit Lehrenden oder Kommiliton:innen besprechen.
+
+#### 3.3.6 Sprachliche Anpassungen
+
+Für nicht-muttersprachliche Schreibende kann ChatGPT eine wertvolle Unterstützung sein, um Texte sprachlich zu verbessern oder in eine andere Sprache zu übersetzen. Dies kann helfen, sprachliche Barrieren zu überwinden und die Qualität der Texte zu steigern.
+
+### 3.4 Herausforderungen und Grenzen
+
+Trotz der vielfältigen Anwendungsmöglichkeiten gibt es auch Herausforderungen und Grenzen beim Einsatz von Sprach-KIs im akademischen Schreiben:
+
+- **Kritische Prüfung der Ergebnisse:** Die von ChatGPT generierten Inhalte müssen stets kritisch hinterfragt werden, da das Modell keine Garantie für Richtigkeit oder Aktualität bietet.
+- **Ethische und rechtliche Aspekte:** Die Nutzung von KI-Tools wirft Fragen nach Urheberschaft, Plagiaten und Datenschutz auf. Studierende und Lehrende sollten sich dieser Aspekte bewusst sein und verantwortungsvoll damit umgehen.
+- **Abhängigkeit von KI:** Eine zu starke Abhängigkeit von KI-Tools kann dazu führen, dass Studierende wichtige Kompetenzen wie kritisches Denken oder eigenständiges Schreiben nicht ausreichend entwickeln.
+- **Halluzinationen:** Wie in Kapitel 1 beschrieben, neigen Sprachmodelle dazu, „halluzinierte“ Informationen zu generieren, die nicht der Realität entsprechen. Dies erfordert eine besonders sorgfältige Prüfung der Ergebnisse.
+
+### 3.5 Empfehlungen für den Einsatz von LLMs im akademischen Schreiben
+
+Um die Vorteile von Sprach-KIs im akademischen Schreiben zu nutzen und gleichzeitig die genannten Herausforderungen zu minimieren, sollten folgende Empfehlungen beachtet werden:
+
+- **Transparenz:** Studierende sollten offenlegen, wenn sie KI-Tools zur Unterstützung genutzt haben, und die generierten Inhalte kritisch reflektieren.
+- **Kritische Reflexion:** Die von KI generierten Inhalte sollten stets hinterfragt und mit eigenen Kenntnissen sowie weiteren Quellen abgeglichen werden.
+- **Eigenständige Arbeit:** KI-Tools sollten als Unterstützung, nicht als Ersatz für eigenständiges Denken und Schreiben genutzt werden.
+- **Regeln und Leitlinien:** Hochschulen sollten klare Richtlinien für den Einsatz von KI-Tools im akademischen Schreiben entwickeln und kommunizieren.
+- **Beratungsangebote:** Hochschulen sollten Beratungsangebote bereitstellen, die Studierende und Lehrende im Umgang mit KI-Tools unterstützen.
+
+# Kapitel 4 Betreuung wissenschaftlicher Haus- und Abschlussarbeiten in Zeiten von KI-Sprachmodellen
+
+Sabrina Sontheimer
+
+## 4.1 Einleitung
+
+Die Integration von KI-Sprachmodellen wie ChatGPT in den akademischen Alltag stellt Lehrende und Studierende vor neue Herausforderungen, insbesondere bei der Betreuung wissenschaftlicher Arbeiten. Während KI-Tools vielfältige Unterstützungsmöglichkeiten bieten, werfen sie auch Fragen nach wissenschaftlicher Integrität, Urheberschaft und der Rolle der Betreuung auf. Dieses Kapitel beleuchtet, wie Lehrende Studierende bei der Nutzung von KI-Tools begleiten können, ohne die Eigenständigkeit und Qualität der Arbeiten zu gefährden.
+
+## 4.2 Die Rolle der Betreuungsperson
+
+Die Betreuung wissenschaftlicher Arbeiten ist ein zentraler Bestandteil der akademischen Ausbildung. Sie dient nicht nur der inhaltlichen und methodischen Unterstützung, sondern auch der Förderung wissenschaftlicher Kompetenzen wie kritisches Denken, eigenständiges Arbeiten und die Einhaltung wissenschaftlicher Standards. Mit dem Aufkommen von KI-Tools verändert sich diese Rolle: Betreuende müssen nun auch als Vermittler:innen zwischen traditionellen wissenschaftlichen Prinzipien und den neuen Möglichkeiten der KI agieren.
+
+### 4.2.1 Beratung und Aufklärung
+
+Lehrende sollten Studierende über die Chancen und Risiken von KI-Tools aufklären. Dazu gehört:
+- **Funktionsweise von KI:** Erläuterung, wie Sprachmodelle wie ChatGPT funktionieren, welche Stärken sie haben (z. B. Ideenfindung, Strukturierung) und wo ihre Grenzen liegen (z. B. Halluzinationen, fehlende Quellenangaben).
+- **Wissenschaftliche Integrität:** Betonung der Bedeutung von Eigenständigkeit, korrekter Zitierweise und der Verantwortung für den eigenen Text.
+- **Ethische Aspekte:** Diskussion über Urheberschaft, Plagiate und den verantwortungsvollen Umgang mit KI-generierten Inhalten.
+
+### 4.2.2 Klare Leitlinien kommunizieren
+
+Hochschulen und Lehrende sollten klare Regeln für den Einsatz von KI-Tools in wissenschaftlichen Arbeiten festlegen. Diese könnten beinhalten:
+- **Transparenz:** Studierende müssen offenlegen, wenn sie KI-Tools genutzt haben, und angeben, in welchem Umfang und zu welchem Zweck.
+- **Eigenständigkeit:** KI-Tools dürfen nicht als Ersatz für eigenständiges Denken und Schreiben verwendet werden. Die inhaltliche Verantwortung bleibt bei den Studierenden.
+- **Quellenangaben:** KI-generierte Inhalte müssen als solche gekennzeichnet und kritisch geprüft werden. Direkte Übernahmen sind nicht zulässig.
+
+## 4.3 Betreuung im Schreibprozess
+
+Die Betreuung von Haus- und Abschlussarbeiten sollte prozessbegleitend erfolgen. KI-Tools können dabei in verschiedenen Phasen des Schreibprozesses unterstützend wirken, erfordern aber auch eine angepasste Betreuung.
+
+### 4.3.1 Themenfindung und -eingrenzung
+
+KI-Tools können Studierenden helfen, Themen zu finden oder einzugrenzen. Betreuende sollten jedoch sicherstellen, dass die Themenwahl eigenständig erfolgt und die Studierenden die Relevanz und Machbarkeit des Themas verstehen. Ein möglicher Ansatz:
+- **Gemeinsame Reflexion:** Besprechung der von der KI generierten Themenvorschläge, um sicherzustellen, dass sie den Interessen und Fähigkeiten der Studierenden entsprechen.
+- **Forschungsfragen präzisieren:** Unterstützung bei der Formulierung klarer und umsetzbarer Forschungsfragen, die über das hinausgehen, was die KI vorschlägt.
+
+### 4.3.2 Literaturrecherche und -auswertung
+
+KI-Tools können bei der Literaturrecherche unterstützen, indem sie Suchbegriffe vorschlagen oder Zusammenfassungen erstellen. Betreuende sollten jedoch darauf achten, dass Studierende:
+- **Quellen kritisch prüfen:** KI-generierte Literaturvorschläge müssen auf Aktualität, Relevanz und Seriosität überprüft werden.
+- **Eigenständig recherchieren:** Studierende sollten lernen, selbstständig in wissenschaftlichen Datenbanken zu recherchieren und die Ergebnisse mit den KI-Vorschlägen abzugleichen.
+
+### 4.3.3 Strukturierung und Gliederung
+
+Eine klare Struktur ist essenziell für wissenschaftliche Arbeiten. KI-Tools können hier helfen, indem sie Gliederungsvorschläge machen oder Abschnitte ordnen. Betreuende sollten:
+- **Individuelle Anpassung fördern:** Die von der KI vorgeschlagene Gliederung sollte als Ausgangspunkt dienen, aber an die spezifischen Anforderungen der Arbeit angepasst werden.
+- **Logik und Kohärenz prüfen:** Betreuende sollten sicherstellen, dass die Gliederung logisch aufgebaut ist und die Argumentation schlüssig verläuft.
+
+### 4.3.4 Formulierung und Überarbeitung
+
+KI-Tools können bei der Formulierung von Texten unterstützen, indem sie stilistische oder sprachliche Verbesserungen vorschlagen. Betreuende sollten jedoch darauf achten, dass:
+- **Eigenständigkeit gewahrt bleibt:** Die inhaltliche Verantwortung liegt bei den Studierenden. KI-Vorschläge sollten kritisch geprüft und angepasst werden.
+- **Wissenschaftlicher Stil:** Studierende sollten lernen, einen präzisen und sachlichen wissenschaftlichen Stil zu entwickeln, der über die von der KI generierten Formulierungen hinausgeht.
+
+### 4.3.5 Feedback und Diskussion
+
+KI-Tools können als erster Feedbackgeber fungieren, indem sie Texte auf Verständlichkeit oder Logik prüfen. Betreuende sollten jedoch:
+- **Persönliches Feedback geben:** KI-Feedback kann eine erste Orientierung bieten, ersetzt aber nicht das persönliche Gespräch mit der Betreuungsperson.
+- **Inhaltliche Diskussionen führen:** Betreuende sollten mit den Studierenden über die inhaltlichen Aspekte der Arbeit diskutieren, um sicherzustellen, dass sie die Themen tiefgehend verstanden haben.
+
+## 4.4 Prüfung und Bewertung
+
+Die Bewertung wissenschaftlicher Arbeiten muss an die neuen Gegebenheiten angepasst werden. Dabei sollten folgende Aspekte berücksichtigt werden:
+
+### 4.4.1 Transparenz und Nachvollziehbarkeit
+
+Studierende sollten offenlegen, in welchem Umfang sie KI-Tools genutzt haben. Dies kann in Form einer kurzen Erklärung im Anhang der Arbeit erfolgen. Betreuende können so nachvollziehen, welche Teile der Arbeit eigenständig erstellt wurden und welche mit KI-Unterstützung.
+
+### 4.4.2 Eigenständigkeit und Originalität
+
+Die Bewertung sollte sich auf die Eigenständigkeit und Originalität der Arbeit konzentrieren. Kriterien könnten sein:
+- **Inhaltliche Tiefe:** Zeigt die Arbeit ein tiefes Verständnis des Themas und eine eigenständige Auseinandersetzung mit den Inhalten?
+- **Kritische Reflexion:** Werden KI-generierte Inhalte kritisch hinterfragt und mit eigenen Erkenntnissen verknüpft?
+- **Wissenschaftliche Methodik:** Wird die gewählte Methodik korrekt angewendet und nachvollziehbar dargestellt?
+
+### 4.4.3 Plagiatsprüfung
+
+KI-generierte Inhalte können Plagiatsprüfungssoftware umgehen, da sie keine direkten Übernahmen aus bestehenden Texten darstellen. Betreuende sollten daher:
+- **Manuelle Prüfung:** KI-generierte Passagen sollten manuell auf Plagiate oder unzulässige Übernahmen geprüft werden.
+- **Quellenangaben:** Studierende sollten angewiesen werden, alle verwendeten Quellen – einschließlich KI-Tools – korrekt anzugeben.
+
+## 4.5 Fazit
+
+Die Betreuung wissenschaftlicher Arbeiten in Zeiten von KI-Sprachmodellen erfordert eine Anpassung der Betreuungsstrategien. Lehrende sollten Studierende dabei unterstützen, KI-Tools verantwortungsvoll und sinnvoll einzusetzen, ohne die Eigenständigkeit und Qualität der Arbeiten zu gefährden. Klare Leitlinien, transparente Kommunikation und eine prozessbegleitende Betreuung sind dabei entscheidend. Letztlich geht es darum, Studierende zu befähigen, KI als Werkzeug zu nutzen, ohne ihre eigenen wissenschaftlichen Kompetenzen zu vernachlässigen.
+
+# Kapitel 5 KI und Hochschulprüfungen: wie wir trotz KI weiterhin gelungen prüfen können
+
+Susanne Frölich-Steffen
+
+## 5.1 Einleitung
+
+Die Integration von KI-Sprachmodellen wie ChatGPT in den Hochschulalltag stellt auch die Prüfungspraxis vor neue Herausforderungen. Während KI-Tools Studierenden helfen können, sich auf Prüfungen vorzubereiten oder sogar Prüfungsleistungen zu unterstützen, werfen sie Fragen nach Fairness, Validität und der Messung tatsächlicher Kompetenzen auf. Dieses Kapitel untersucht, wie Hochschulen trotz der Verfügbarkeit von KI weiterhin gelungene Prüfungen durchführen können, die sowohl den Lernzielen als auch den Anforderungen an wissenschaftliche Integrität gerecht werden.
+
+## 5.2 Herausforderungen für die Prüfungspraxis
+
+KI-Sprachmodelle bringen mehrere Herausforderungen für die Prüfungspraxis mit sich:
+
+- **Leistungsmessung:** Traditionelle Prüfungsformate wie Hausarbeiten oder Klausuren können durch KI-Tools beeinflusst werden, da Studierende diese zur Erstellung von Texten oder zur Beantwortung von Fragen nutzen können.
+- **Fairness:** Nicht alle Studierenden haben gleichermaßen Zugang zu KI-Tools oder die Fähigkeit, diese effektiv zu nutzen. Dies kann zu Ungleichheiten führen.
+- **Validität:** Prüfungen müssen sicherstellen, dass sie tatsächlich die gewünschten Kompetenzen messen und nicht nur die Fähigkeit, KI-Tools zu bedienen.
+- **Plagiate und Urheberschaft:** KI-generierte Inhalte können schwer als solche identifiziert werden, was die Gefahr von Plagiaten erhöht.
+
+## 5.3 Anpassung der Prüfungsformate
+
+Um diesen Herausforderungen zu begegnen, sollten Hochschulen ihre Prüfungsformate überdenken und anpassen. Im Folgenden werden einige Ansätze vorgestellt:
+
+### 5.3.1 Mündliche Prüfungen
+
+Mündliche Prüfungen bieten den Vorteil, dass sie eine direkte Interaktion zwischen Prüfer:in und Studierenden ermöglichen. Sie eignen sich besonders, um:
+- **Eigenständigkeit zu überprüfen:** Durch gezielte Nachfragen kann festgestellt werden, ob Studierende die Inhalte tatsächlich verstanden haben oder lediglich KI-generierte Antworten wiedergeben.
+- **Kritisches Denken zu fördern:** Mündliche Prüfungen ermöglichen es, komplexe Zusammenhänge zu diskutieren und die Fähigkeit zur Argumentation zu überprüfen.
+- **Spontaneität zu testen:** Da Studierende keine Zeit haben, KI-Tools während der Prüfung zu nutzen, wird die Eigenständigkeit der Antworten sichergestellt.
+
+### 5.3.2 Projektbasierte Prüfungen
+
+Projektbasierte Prüfungen, bei denen Studierende über einen längeren Zeitraum an einer Aufgabe arbeiten, können ebenfalls eine Lösung sein. Sie ermöglichen:
+- **Praktische Anwendung:** Studierende können ihr Wissen in realen oder simulierten Szenarien anwenden, was die Nutzung von KI-Tools erschwert.
+- **Kollaboration:** Gruppenprojekte fördern die Zusammenarbeit und den Austausch von Ideen, was die Eigenständigkeit der Leistungen erhöht.
+- **Prozessbegleitung:** Durch regelmäßige Feedbackschleifen können Lehrende den Fortschritt der Studierenden begleiten und sicherstellen, dass die Arbeit eigenständig erstellt wird.
+
+### 5.3.3 Open-Book-Prüfungen
+
+Open-Book-Prüfungen, bei denen Studierende während der Prüfung auf Unterlagen oder das Internet zugreifen dürfen, können angepasst werden, um die Nutzung von KI-Tools zu berücksichtigen:
+- **Komplexe Aufgabenstellungen:** Aufgaben sollten so gestaltet sein, dass sie nicht durch einfache KI-Abfragen gelöst werden können, sondern kritisches Denken und die Anwendung von Wissen erfordern.
+- **Zeitliche Begrenzung:** Eine enge Zeitvorgabe kann verhindern, dass Studierende während der Prüfung KI-Tools nutzen.
+- **Individuelle Anpassung:** Aufgaben können so gestaltet werden, dass sie auf die spezifischen Kenntnisse und Fähigkeiten der Studierenden zugeschnitten sind.
+
+### 5.3.4 Portfolio-Prüfungen
+
+Portfolio-Prüfungen, bei denen Studierende eine Sammlung von Arbeiten über einen längeren Zeitraum erstellen, bieten mehrere Vorteile:
+- **Prozessbegleitung:** Lehrende können den Entstehungsprozess der Arbeiten begleiten und sicherstellen, dass sie eigenständig erstellt werden.
+- **Vielfalt der Aufgaben:** Portfolios können verschiedene Aufgabenformate umfassen, die unterschiedliche Kompetenzen abdecken.
+- **Reflexion:** Studierende können in ihren Portfolios ihre Lernfortschritte und die Nutzung von KI-Tools reflektieren.
+
+### 5.3.5 Präsenzprüfungen mit praktischen Elementen
+
+Präsenzprüfungen, die praktische Elemente wie Experimente, Diskussionen oder Gruppenarbeiten umfassen, können ebenfalls eine Lösung sein:
+- **Praktische Anwendung:** Durch die Einbindung praktischer Elemente wird die Nutzung von KI-Tools erschwert.
+- **Interaktion:** Die direkte Interaktion mit Lehrenden und Kommiliton:innen fördert die Eigenständigkeit und das kritische Denken.
+- **Spontaneität:** Spontane Aufgabenstellungen verhindern, dass Studierende KI-Tools zur Vorbereitung nutzen.
+
+## 5.4 Gestaltung von Prüfungsaufgaben
+
+Unabhängig vom Prüfungsformat ist die Gestaltung der Prüfungsaufgaben entscheidend, um die Nutzung von KI-Tools zu erschweren oder zumindest transparent zu machen. Folgende Ansätze können hilfreich sein:
+
+### 5.4.1 Kontextualisierte Aufgaben
+
+Aufgaben sollten so gestaltet sein, dass sie einen spezifischen Kontext oder individuelle Erfahrungen der Studierenden einbeziehen. Beispiele:
+- **Fallstudien:** Studierende analysieren reale oder fiktive Fälle, die nicht einfach durch KI-Abfragen gelöst werden können.
+- **Persönliche Reflexion:** Aufgaben, die eine persönliche Stellungnahme oder Reflexion erfordern, können nicht von KI-Tools übernommen werden.
+- **Aktuelle Themen:** Aufgaben zu aktuellen Ereignissen oder Entwicklungen, die zum Zeitpunkt der Prüfung noch nicht in den Trainingsdaten der KI enthalten sind.
+
+### 5.4.2 Komplexe und mehrstufige Aufgaben
+
+Aufgaben sollten so komplex sein, dass sie nicht durch einfache KI-Abfragen gelöst werden können. Beispiele:
+- **Mehrstufige Analysen:** Aufgaben, die mehrere Schritte erfordern, z. B. Datensammlung, Analyse und Interpretation.
+- **Kreative Lösungen:** Aufgaben, die kreative Ansätze oder innovative Lösungen erfordern, z. B. die Entwicklung eines neuen Konzepts oder einer Strategie.
+- **Interdisziplinäre Aufgaben:** Aufgaben, die Wissen aus verschiedenen Fachbereichen kombinieren, um eine Lösung zu finden.
+
+### 5.4.3 Aufgaben mit mündlicher oder praktischer Komponente
+
+Aufgaben, die eine mündliche oder praktische Komponente umfassen, können die Nutzung von KI-Tools erschweren:
+- **Präsentationen:** Studierende präsentieren ihre Ergebnisse mündlich und beantworten Fragen der Prüfer:innen.
+- **Gruppendiskussionen:** Studierende diskutieren in Gruppen über ein Thema und müssen ihre Argumente spontan entwickeln.
+- **Praktische Demonstrationen:** Studierende führen Experimente oder praktische Übungen durch und erklären ihre Vorgehensweise.
+
+## 5.5 Transparenz und Kommunikation
+
+Transparenz und klare Kommunikation sind entscheidend, um die Akzeptanz und Fairness von Prüfungen zu gewährleisten. Folgende Maßnahmen können hilfreich sein:
+
+### 5.5.1 Klare Regeln für den KI-Einsatz
+
+Hochschulen sollten klare Regeln für den Einsatz von KI-Tools in Prüfungen festlegen und kommunizieren. Diese könnten beinhalten:
+- **Erlaubte Nutzung:** In welchen Prüfungsformaten ist die Nutzung von KI-Tools erlaubt und in welchen nicht?
+- **Transparenz:** Studierende müssen offenlegen, wenn sie KI-Tools genutzt haben, und angeben, in welchem Umfang.
+- **Eigenständigkeit:** KI-Tools dürfen nicht als Ersatz für eigenständiges Denken und Schreiben verwendet werden.
+
+### 5.5.2 Aufklärung über KI-Tools
+
+Lehrende sollten Studierende über die Funktionsweise, Stärken und Grenzen von KI-Tools aufklären. Dazu gehört:
+- **Funktionsweise:** Wie funktionieren KI-Sprachmodelle und welche Daten liegen ihnen zugrunde?
+- **Stärken und Grenzen:** Wo können KI-Tools hilfreich sein und wo stoßen sie an ihre Grenzen?
+- **Ethische Aspekte:** Diskussion über Urheberschaft, Plagiate und den verantwortungsvollen Umgang mit KI-generierten Inhalten.
+
+### 5.5.3 Feedback und Reflexion
+
+Studierende sollten die Möglichkeit erhalten, ihre Erfahrungen mit KI-Tools zu reflektieren und Feedback zu geben. Dies kann in Form von:
+- **Reflexionsberichten:** Studierende schreiben einen kurzen Bericht über ihre Nutzung von KI-Tools und deren Auswirkungen auf ihre Prüfungsleistung.
+- **Diskussionen:** Lehrende und Studierende diskutieren in Seminaren oder Workshops über die Vor- und Nachteile von KI-Tools.
+- **Feedbackrunden:** Studierende geben Feedback zu den Prüfungsformaten und deren Fairness.
+
+## 5.6 Fazit
+
+# Im Folgenden sollen einige der Potenziale der Zusammenarbeit mit LLMs aufgezeigt werden. Dazu werden einige ihrer wichtigsten Funktionsweisen kurz umrissen und die Anwendungsmöglichkeiten anhand eines fiktiven Fallbeispiels illustriert: Eine Studentin muss in einem Seminar zu Minderheitensprachen in Spanien eine Hausarbeit schreiben und hat vom Dozenten die Erlaubnis, KI-Tools zu verwenden, sofern deren Nutzung offengelegt wird.
+
+#### 3.3.1 Iterative Abfragen
+
+LLMs nutzen riesige neuronale Netze, die neben der eigentlichen Anfrage auch variable Metadaten wie die sekundengenaue Uhrzeit, den Standort oder das verwendete Endgerät bei der Erzeugung der Antworten miteinbeziehen. Da sich diese Metadaten ständig ändern, werden auch bei wiederholten (iterativen) Abfragen unterschiedliche Ausgaben generiert. Diese systembedingte Varianz kann gut genutzt werden, um verschiedene Antwortvarianten zu einer Frage zu vergleichen. Durch ein darauf basierendes Nachschärfen der *prompts* bietet dies Raum für Entwicklungsprozesse, die etwa im Zuge der Themenfindung oder zur Optimierung von Argumentationsstrukturen genutzt werden können.
+
+Für eine erste **Ideenentwicklung** bittet die Studentin ChatGPT um Themenvorschläge zum Seminarthema.
+
+Natürlich! Hier sind 10 Themenvorschläge für deine Hausarbeit über Minderheitensprachen in Spanien:
+
+1. Der Einfluss des Baskischen auf die spanische Kultur und Sprache in der Region Baskenland.
+2. Die Bedeutung des Katalanischen als Minderheitensprache in Katalonien und seine Rolle im kulturellen und politischen Kontext.
+3. Der Erhalt und die Förderung des Galicischen als Minderheitensprache in Galicien.
+4. Die Geschichte und die aktuellen Herausforderungen des Asturischen als Minderheitensprache in Asturien.
+5. Die soziolinguistische Situation der Aranesischen Sprache in der autonomen Gemeinschaft Katalonien.
+6. Die Entstehung und Entwicklung des Valencianischen als Minderheitensprache in der Region Valencia.
+
+**Abbildung 10** Ausschnitt von ChatGPT-Ergebnissen zu dem *prompt* „Ich möchte eine Hausarbeit zu Minderheitensprachen in Spanien schreiben. Gib mir eine Liste mit zehn Themenvorschlägen.“
+
+Da sie bereits zuvor ein anderes Seminar zur Sprachgeschichte besucht hat, findet die Studentin besonders die Themenvorschläge mit historischem Bezug spannend. Sie hat nun die Idee, den Zeitraum der Franco-Diktatur zu fokussieren und **spezifiziert ihre Anfrage** entsprechend:
+
+Natürlich! Hier sind einige Fragestellungen für eine Hausarbeit zu Minderheitensprachen in Spanien im Kontext der Franco-Diktatur:
+
+1. Welche Auswirkungen hatte die Franco-Diktatur auf die Minderheitensprachen in Spanien?
+2. Wie wurden während der Franco-Diktatur die Minderheitensprachen unterdrückt und verboten?
+3. Inwieweit hat die Franco-Diktatur zur Gefährdung und Schwächung der Minderheitensprachen in Spanien beigetragen?
+4. Welche Rolle spielten die Minderheitensprachen in den Widerstandsbewegungen gegen die Franco-Diktatur?
+5. Wie haben sich die Minderheitensprachen in Spanien nach dem Ende der Franco-Diktatur entwickelt und wiederbelebt?
+6. Welche Maßnahmen wurden ergriffen, um den Gebrauch und die Förderung der Minderheitensprachen nach der Franco-Diktatur wiederherzustellen?
+
+**Abbildung 11** Ausschnitt von ChatGPT-Ergebnissen zu dem *prompt* „Generiere mir Fragestellungen für eine Hausarbeit zu Minderheitensprachen in Spanien im Kontext der Franco-Diktatur“.
+
+Um ihrem Thema größere Detailschärfe zu verleihen, verschränkt sie daraufhin weitere iterative Prozesse mit ihrer ersten Recherchearbeit.
+
+### 3.3.2 Basis-Recherche
+
+LLMs enthalten sehr große Textbestände, wodurch sie sich für eine basale Recherche zur Orientierung und der Generierung von Schlagwörtern eignen. Spezialisierte KI-Tools wie Elicit oder Research Rabbit können auch direkt zur Recherche geeigneter Quellen verwendet werden.
+
+Die Studentin bittet ChatGPT um Schlüsselbegriffe auf Deutsch, Englisch und Spanisch, mit denen sie die Recherchearbeit in der Universitätsbibliothek und einschlägigen Datenbanken beginnt. Auf diese Weise verschafft sie sich einen Überblick über das Thema und gewinnt eine erste Vorstellung von möglichen Teilaspekten, die sie clustert und selektiert.
+
+#### Meine Tätigkeit...
+
+Learning Sciences, Doktorandin an der Fakultät für Psychologie und Pädagogik
+
+**Worin sehen Sie im Hochschulkontext das Potenzial von KI bzw. ChatGPT?**
+
+Aktuell sehe ich das Potenzial von ChatGPT im Hochschulkontext nicht so, da es keinen Internetzugang hat und es den Wissens-Cut-Off von 2021 gibt.
+
+**Wofür nutzen Sie KI bzw. ChatGPT bereits?**
+
+Klärung kurzer Wissensfragen (wie Wikipedia, nur zielführender), Paraphrasierungen
+
+**Wofür würden Sie ChatGPT in Zukunft gerne einsetzen?**
+
+Zur Recherche von Literatur (hierfür eignen sich momentan tools wie Elicit, Humata, connectedpapers etc. mehr)
+
+Hier sind Schlüsselbegriffe auf Deutsch, Englisch und Spanisch, die du verwenden kannst, um in wissenschaftlichen Katalogen und Datenbanken nach Literatur über Minderheitensprachen in Spanien während der Franco-Diktatur zu suchen:
+
+1. Minderheitensprachen
+   * Deutsch: Minderheitensprachen
+   * Englisch: Minority languages
+   * Spanisch: Lenguas minoritarias
+2. Franco-Diktatur
+   * Deutsch: Franco-Diktatur
+   * Englisch: Franco dictatorship
+   * Spanisch: Dictadura franquista
+3. Spanien
+   * Deutsch: Spanien
+   * Englisch: Spain
+   * Spanisch: España
+4. Sprachpolitik
+   * Deutsch: Sprachpolitik
+   * Englisch: Language policy
+   * Spanisch: Política lingüística
+5. Sprachverbot
+   * Deutsch: Sprachverbot
+   * Englisch: Language prohibition
+   * Spanisch: Prohibición lingüística
+6. Sprachunterdrückung
+   * Deutsch: Sprachunterdrückung
+   * Englisch: Language suppression
+   * Spanisch: Represión lingüística
+
+Abbildung 12 Ausschnitt der ChatGPT-Ergebnisse zum prompt „Nenne mir jeweils auf Deutsch, Englisch und Spanisch Schlüsselbegriffe, um in wissenschaftlichen Katalogen und Datenbanken Literatur zu Minderheitensprachen in Spanien während der Franco-Diktatur zu suchen.“
+
+### 3.3.3 Strukturierung
+
+Durch ihre Recherche gelangt die Studentin zu einer Sammlung möglicher Unterthemen und bittet die KI, diese in einem Gliederungsentwurf anzuordnen. In mehreren Schleifen schärft sie die Aufstellung nach.
+
+Gerne helfe ich dir bei der Gliederung deiner Hausarbeit. Hier ist ein möglicher Aufbau:
+
+I. Einleitung
+
+* Hintergrundinformationen zur Francodiktatur und ihrer Sprachpolitik
+* Ziel und Bedeutung der Untersuchung der Minderheitensprachen
+
+II. Die Sprachpolitik während der Francodiktatur
+
+A. Zentralisierung der Bildungssysteme und Sprachunterricht
+B. Unterdrückung und Verbot der regionalen Minderheitensprachen
+C. Förderung der spanischen Einheitssprache (Castellano) unter Franco
+
+III. Auswirkungen auf die Generationen nach der Francodiktatur
+
+* Transition zur Demokratie und sprachpolitische Veränderungen nach Franco
+* Soziolinguistische Situation in den verschiedenen Regionen Spaniens
+* Überlebensstrategien der Minderheitensprachen
+
+IV. Fazit und Ausblick
+
+* Zusammenfassung der Ergebnisse
+* Ausblick auf zukünftige Entwicklungen und Forschungsbedarf
+
+Bitte beachte, dass dies nur ein Vorschlag ist und du die Gliederung entsprechend deiner spezifischen Bedürfnisse anpassen kannst. Stelle sicher, dass die einzelnen Abschnitte logisch miteinander verbunden sind und ein roter Faden erkennbar ist.
+
+Abbildung 13 ChatGPT-Ergebnisse zum prompt: „In meiner Hausarbeit möchte ich gerne über die nachfolgenden Themen schreiben. Kannst du mir helfen sie zu gliedern? „Hintergrundinformationen zur Franco-Diktatur und ihrer Sprachpolitik, [...]“
+
+Nachdem sie die Gliederung überarbeitet und im Zuge einer weiteren Recherchearbeit ergänzt hat, bespricht sie das weitere Vorgehen mit der Seminarleitung und beginnt mit der Ausformulierung des Textes.
+
+### 3.3.4 Argumentprüfung im Dialog
+
+Die kritische Prüfung von Inhalten und Argumenten auf ihre sachlogische Richtigkeit ist zentraler Bestandteil der universitären Ausbildung. Diese Informationskompetenz ist bei der Verwendung von LLMs in besonderem Maße gefordert, da der Output im Hinblick auf Form und Formulierung stets hochwertig erscheint, während die inhaltliche Qualität stark schwankt.
+
+Die Studentin hat sich für ihre Hausarbeit bereits verschiedene Argumente überlegt und nutzt KI-Tools, um sich etwaige Gegenpositionen oder mögliche Schwachstellen innerhalb der eigenen Argumentation aufzeigen zu lassen.
+
+Das Argument, dass Francisco Franco mit seiner Politik die Homogenität verfolgt und einen Rückgang in der Verwendung des Baskischen bewirkt hat, könnte auf verschiedene Weisen angefochten werden. Hier sind einige mögliche Einwände:
+
+1. Mangel an Beweisen: Das Argument besagt, dass gezeigt wurde, dass Franco eine Politik verfolgte, die auf Homogenität abzielte und einen Rückgang in der Verwendung des Baskischen bewirkte. Es ist wichtig sicherzustellen, dass diese Behauptungen durch ausreichende Beweise gestützt werden. Welche spezifischen Quellen oder Studien zeigen diese Zusammenhänge? Sind sie verlässlich und von Experten begutachtet?
+2. Alternativer Erklärungsansatz: Es könnte argumentiert werden, dass der Rückgang in der Verwendung des Baskischen nicht ausschließlich auf die Politik von Franco zurückzuführen ist. Andere Faktoren wie soziale, wirtschaftliche oder kulturelle Veränderungen könnten ebenfalls eine Rolle gespielt haben. Es wäre wichtig, diese alternativen Erklärungen zu berücksichtigen und mögliche konkurrierende Hypothesen zu untersuchen.
+3. Regionale Unterschiede: Franco regierte über Spanien als Ganzes, aber es ist möglich, dass die Auswirkungen seiner Politik auf die Verwendung des Baskischen in verschiedenen Regionen unterschiedlich waren. Es könnte sein, dass in einigen Teilen Spaniens der Rückgang stärker war als in anderen, was darauf hinweisen könnte, dass auch andere Faktoren eine Rolle spielten. Eine Analyse regionaler Unterschiede könnte erforderlich sein, um das Argument genauer zu prüfen.
+4. Historischer Kontext: Um das Argument zu stützen, wäre es wichtig, den historischen Kontext zu berücksichtigen. Welche politischen, sozialen und kulturellen Bedingungen herrschten zu Francos Zeit? Wie wurden andere Minderheitensprachen in Spanien behandelt? Eine umfassende Analyse des historischen Kontextes könnte helfen, das Argument zu stärken und mögliche Einwände zu entkräften.
+
+Diese Einwände sollen als Anregungen dienen, um die Argumentation in Ihrer wissenschaftlichen Arbeit zu überprüfen und weiterzuentwickeln. Es ist wichtig, alle relevanten Faktoren zu berücksichtigen und die vorhandenen Beweise sorgfältig zu analysieren, um eine solide und überzeugende Argumentation zu präsentieren.
+
+Abbildung 14 ChatGPT-Ergebnisse zum prompt „Ich will die Argumentation in meiner wissenschaftlichen Arbeit absichern. Überprüfe das folgende Argumente und zeige mir mögliche Einwände: ‚Wie gezeigt werden konnte hat Francisco Franco mit seiner Politik die Homogenität verfolgt und durch Unterdrückung einen Rückgang in der Verwendung des Baskischen bewirkt.‘“
+
+### 3.3.5 Redaktions- und Editionsassistenz
+
+LLMs können sehr gut Texteinheiten, die sie als *prompt* übergeben bekommen, redaktionell bearbeiten. Dazu gehören die grammatikalische, orthografische und stilistische Verbesserung, die Textstraffung und die Zusammenfassung. Das Schreiben ist der Kernprozess der Redaktion einer wissenschaftlichen Arbeit und (u.a.) das Üben der Textredaktion essenziell für die Entwicklung der sprachlichen Fähigkeiten. Sie sollten sich daher gut überlegen, welche Teilprozesse sie hier aus der Hand geben möchten und ob Sie das gemäß der jeweiligen Prüfungsvorgaben dürfen.
+
+Die Studentin kommt recht gut mit dem Schreiben des Rohtextes voran. An der einen oder anderen Stelle lässt sie sich Formulierungsalternativen anbieten, um Satzstrukturen klarer zu gestalten oder einen stilistisch angemessenen Ausdruck zu finden. Sie nutzt den Assistenten auch, um eigene Textteile oder ganze Kapitel der Arbeit in ein bis zwei Sätzen zusammenfassen zu lassen und basierend darauf textuelle Hinführungen oder Übergänge zu formulieren.
+
+Im Zuge der Endredaktion lässt sie sich noch alternative Kapitelüberschriften ausgeben und verwendet den Assistenten, um die Fußnotenverweise und das Literaturverzeichnis einheitlich gemäß des in ihrem Stilblatt vorgesehenen Chicago-Stils zu formatieren.
+
+### 3.4 Hilfreiche Einsatzmöglichkeiten im Überblick
+
+- Nutzen Sie iterative Abfragen bei der Reflexion und Schärfung Ihres persönlichen (Erkenntnis-)Interesses an einem Thema und bei der Ideenfindung.
+- Weisen Sie die KI an, in einer entsprechenden Rolle – also z.B. als Student:in Ihres Fachs – zu agieren, um passgenauere Ergebnisse zu erhalten.
+- Setzen Sie die KI als *Advocatus Diaboli* ein und prüfen sie im Dialog mit der KI Ihre Argumente auf Schwachstellen und Gegenpositionen.
+- Sie können LLMs bei der Erstellung von kleinen Programmen oder Scripts in Programmiersprachen wie beispielsweise LaTeX, MySQL, R oder Python als erste Anlaufstelle nutzen, oder auch, um Formeln und Funktionen von Programmen wie z.B. Word oder Excel nachzuschlagen.
+- Lassen Sie sich von der KI in der Strukturierung von Inhalten unterstützen. Achten Sie darauf, in ihrem *prompt* bereits möglichst alle zu ordnenden Inhalte aufzuführen.
+- LLMs können sehr gut Kerninformationen aus längeren Textblöcken destillieren. Sie können sie daher beispielsweise zur Generierung von Vorschlägen für Ihre Kapitelüberschriften einsetzen.
+
+Aus urheberrechtlichen Gründen sollte kein fremdes Textmaterial an ChatGPT übergeben werden. Dies würde – gemäß der zum Stand dieser Publikation geltenden Nutzungsvereinbarung – eine Einverständniserklärung zur Weiterverarbeitung von nicht selbst verfassten Texten implizieren, was rechtlich unzulässig ist.
+
+Wenn Sie Literaturverarbeitungsprogramme wie Citavi oder Endnote nutzen, können diese auch sehr gut dazu herangezogen werden, um einheitliche Literaturverzeichnisse zu erstellen.
+
+### 3.5 Anwendungsgrenzen und Fallstricke
+
+Bisher wurden die Anwendungspotenziale von KI für das wissenschaftliche Schreiben herausgestellt. Im Folgenden sollen nun die Limitationen betrachtet und mögliche Fallstricke bei unkritischer Verwendung deutlich gemacht werden.
+
+#### Fehlende Faktentreue:
+
+Die Ausgabe der LLMs basiert auf der Wahrscheinlichkeit des Zusammenauftretens von Token (bzw. Wörtern) vor dem Hintergrund der eingelesenen Trainingsdaten, der eingegebenen *prompts* und des Anfrageverlaufs. Die Antwort soll dabei so gut wie möglich auf die Frage eingehen und menschliche Sprache möglichst exakt imitieren. Es geht nicht darum, inhaltlich akkurate Antworten zu liefern. Dies betrifft auch etwaige enthaltene Quellenverweise, die häufig gar nicht existieren: Anstatt tatsächliche Quellen auszugeben, generiert die KI häufig nur besonders wahrscheinliche Kombinationen der Namen von Autor:innen, Verlagsnamen und Titeln von Schriften. Auch wörtliche Zitate können nicht existente, aber für den Kontext besonders passende Tokenkombinationen sein und deren Urheberschaft fehlerhaft angegeben werden.
+
+#### Interpretationsfehler:
+
+LLMs verstehen keine Inhalte oder Definitionen und können daher, je nach Trainingsdaten, bei ihren Berechnungen zu falschen Interpretationen gelangen. Auch bei Sachinhalten unterscheiden sie nicht zwischen inhärentem Bezug und lediglich häufiger Kookkurrenz von Informationen in den Trainingsdaten. In der Folge werden möglicherweise falsche Tatsachenbehauptungen generiert, die schwer überprüfbar sind.
+
+#### Fehlende Quellentransparenz:
+
+Die skizzierte Funktionsweise von LLMs macht auch die Quellentransparenz im Output unmöglich, da diesen mehrere Millionen Parameter gleichzeitig bestimmen. Es ist für die User nicht nachvollziehbar, welche Daten der Textgenerierung zugrunde liegen. KI-Anbieter:innen versuchen derzeit, dieses Problem zu beheben. So sollen im LLM Luminous des deutschen Anbieters Aleph Alpha die dem Output zugrundeliegenden Quellen kenntlich gemacht werden.
+
+### „Garbage in, garbage out“:
+
+Der Output ist unmittelbar von der Qualität des Inputs abhängig. Das betrifft sowohl die hinterlegten Trainingsdaten als auch die Formulierung der *prompts*. Das Programm wird nur dann sinnvolle Ausgaben generieren, wenn die an das Programm übergebene Aufgabe detailliert, präzise und, mit Blick auf die Fragestellung der wissenschaftlichen Arbeit, zielgenau formuliert wurde. Dies gilt für Textabschnitte ebenso wie für Gliederungen und Brainstorminglisten. Grundsätzlich gilt: Die KI ist weniger gut zur Erweiterung von Textstücken fähig, als zu deren Reduktion, Zusammenfassung und Präzisierung.
+
+### Systeminhärenter *Bias* und Anwendungsschranken:
+
+Die Technik der meisten LLMs stammt von US-amerikanischen Privatkonzernen. Ihre (Weiter-) Entwicklung, Vermarktung sowie die konkrete Ausgestaltung beispielsweise des Zugangs zur Software dienen nicht zuletzt den wirtschaftlichen Konzerninteressen. Zudem stammt ein großer Teil des Trainingsmaterials aus dem Datenfundus großer Tech-Firmen, wie etwa X (vormals: Twitter) oder Wikipedia, die ebenfalls in den USA oder anderen sogenannten westlichen Ländern sitzen. Die Entwicklung der KI-Tools geschieht somit vor dem Hintergrund komplexer Rahmenbedingungen, die neben den Konzerninteressen unter anderem auch von der lokalen Gesetzgebung sowie den Normen und Werten dieser Gesellschaften bedingt sind. Das hat beispielsweise Auswirkungen auf die Auswahl der Trainingsdaten oder der Inhalte, die von Ausgabefiltern unterdrückt werden sollen, wie etwa offensichtlich diskriminierende Inhalte oder die Unterstützung krimineller Handlungen. Dies beeinflusst in der Folge auch die Antworten auf die Nutzer:innenanfragen und sollte bei der Bewertung der Ausgaben mitgedacht werden.
+
+### Verlust wichtiger Inhalte durch das KI-Lektorat:
+
+Bei der sprachlichen Verbesserung, der stilistischen Anpassung oder der Textkürzung durch LLMs können wichtige Querverweise, Übergänge, Quellenangaben oder Inhalte, auf die an späterer Stelle in der Arbeit Bezug genommen wird, verloren gehen. Bei der Überarbeitung von Rohtext mit Hilfe dieser Programme sind also äußerste Achtsamkeit und eine genaue Prüfung des Ergebnisses notwendig.
+
+### 3.6 Sechs goldene Regeln der Nutzung von Sprach-KIs im Kontext des wissenschaftlichen Schreibens
+
+1. Kontrollieren Sie die Ergebnisse auf Herz und Nieren und gehen Sie stets davon aus, dass diese fehlerbehaftet sind. Setzen Sie dabei hohe Qualitätsansprüche an den Output und vergegenwärtigen Sie sich wissenschaftliche Gütekriterien, wie Relevanz, inhaltliche und sachlogische Korrektheit und Kohärenz.
+2. Formulieren Sie Ihre *prompts* möglichst exakt. Was die KI nicht im Training gelernt oder in der Anweisung mitgeteilt bekommen hat, wird sie auch nicht berücksichtigen. Es kann dabei helfen, Textteile, auf die Sie sich in der Anweisung beziehen, durch Klammern oder Anführungszeichen vom Rest der Eingabe abzuheben und komplexe Anfragen in mehrere Teilschritte aufzuteilen. Grundsätzlich gilt: Je klarer und genauer Sie explizieren, was Sie möchten, und welche inhaltlichen Aspekte dabei zu berücksichtigen sind, desto passgenauer wird das Ergebnis sein.
+3. Legen Sie selbst bereits Gewichtungen und Hierarchisierungen von Teilelementen fest. Die Frage, was für Ihr Erkenntnisinteresse am relevantesten ist, können Sie am besten beantworten.
+4. Machen Sie sich mit verschiedenen KI-Tools und ihren spezifischen Funktionen und Stärken vertraut: Reflektieren Sie, welche KI für welchen Zweck geeignet ist, und wählen Sie bewusst aus.
+5. Arbeiten Sie zielgenau und sorgfältig. Geben sie stets kleine Textportionen ein und achten Sie bei der Integration der Ergebnisse in Ihre Arbeit darauf, dass der Anschluss an vorherige Textteile gewahrt bleibt und bei den Überarbeitungsschritten keine Argumentationsstränge gekappt werden oder Querverweise und Quellen verloren gehen.
+6. Die Verantwortung für Ihr Schreibprojekt liegt bei Ihnen; ebenso wie dessen konkrete Ausgestaltung. Die KI ist Werkzeug und keine Ko-Autorin Ihrer wissenschaftlichen Arbeit. Wenn Sie sich dazu entscheiden, KI-Tools zu verwenden, so müssen Sie dies in Ihren Quellenangaben offenlegen. Beachten Sie dabei ggf. auch die Vorgaben Ihres Instituts oder Ihrer Universität.
+
+## FOOTNOTES
+
+[20] So wurde GPT-3 mit 175 Milliarden Parametern trainiert. Die Angaben zu GPT-4 variieren.
+
+[21] Vgl. Elicit 2023.
+
+[22] Vgl. ResearchRabbit 2023.
+
+[24] Aus urheberrechtlichen Gründen sollte kein fremdes Textmaterial an ChatGPT übergeben werden. Dies würde – gemäß der zum Stand dieser Publikation geltenden Nutzungsvereinbarung – eine Einverständniserteilung zur Weiterverarbeitung von nicht selbst verfassten Texten implizieren, was rechtlich unzulässig ist.
+
+[25] Wenn Sie Literaturverarbeitungsprogramme wie Citavi oder Endnote nutzen, können diese auch sehr gut dazu herangezogen werden, um einheitliche Literaturverzeichnisse zu erstellen.
+
+[26] Einen genaueren Einblick in die Funktionsweise von Sprachmodellen wie ChatGPT bietet etwa der Spektrum-Artikel von Bischoff (2023) sowie auch die dazugehörige Podcast-Folge.
+
+[27] Vgl. etwa den Praxisbericht von Eckenstaler (2023) über die Verwendung von ChatGPT im geschichtswissenschaftlichen Kontext.
+
+[28] In einem bekannten Beispiel hat die KI zwei Hände als ein distinktives Merkmal zur Erkennung von Fischen interpretiert, da diese auf frei verfügbaren Bildern im Internet besonders häufig zusammen mit Fischen auftreten; nämlich dann, wenn der Fang in die Kamera gehalten wird.
+
+[29] Vgl. Aleph Alpha 2023.
+
+[30] Erläuterungen und Anleitungen zur Formulierung von *prompts* gibt es unter anderem auf der Plattform von OpenAI oder frei im Internet, vgl. z.B. Learn Prompting 2023.
+
+[31] Was aber als diskriminierend gilt, ist von Gesellschaft zu Gesellschaft unterschiedlich. Zudem sind diese Filter beileibe nicht perfekt und können mitunter umgangen werden.
+
+[32] Eine umfassende Auflistung möglicher Biases findet sich im Artikel von Ray (2023). Hartmann, Schwenzow und Witte (2023) beschreiben Hinweise auf eine parteipolitisch linksliberale Tendenz von ChatGPT mit Bezug auf Deutschland und die Niederlande.
+
+# Kapitel 4 Betreuung wissenschaftlicher Haus- und Abschlussarbeiten in Zeiten von KI-Sprachmodellen
+
+Schreibzentrum der LMU
+
+Da „schriftliche Ausarbeitungen [...] ab sofort Ergebnisse ko-kreativer Zusammenarbeit mit KI-Tools [sind]“, scheint es aus Lehrendenperspektive sinnvoll, KI-Sprachmodelle bei der Betreuung wissenschaftlicher Haus- und Abschlussarbeiten als Ressource zuzulassen und produktiv damit umzugehen. Der folgende Leitfaden soll einen Überblick liefern, wie die Betreuung von wissenschaftlichen Haus- und Abschlussarbeiten unter Einbezug von LLMs am Beispiel von ChatGPT praktisch umgesetzt werden kann. Dies wird anhand von sieben Bausteinen dargestellt. Optimalerweise werden alle Bausteine zusammen angewendet, es können aber auch einzelne Elemente herausgegriffen und in die eigene Betreuungsarbeit integriert werden.
+
+## 4.1 Baustein 1: Reflexion der eigenen Rolle und Haltung im Betreuungsprozess
+
+Der erste Baustein ist die Reflexion der eigenen Rolle, die Lehrende im Schreibprozess ihrer Studierenden einnehmen. Nicht erst seit der Entstehung von KI-Werkzeugen ist es problematisch, Studierende nach dem Festlegen eines Hausarbeitsthemas überwiegend allein arbeiten zu lassen und sich primär auf die Bewertung und Benotung des Endproduktes nach der Abgabe zu fokussieren. Auf diese Weise haben Lehrende wenig Möglichkeit zu beurteilen, ob eine KI oder andere Ressourcen aus dem Internet für die Erstellung einer schriftlichen Arbeit (möglicherweise unerlaubt) genutzt wurden oder nicht. Außerdem können die Lehrpersonen kaum Einfluss auf die Arbeit ihrer Studierenden nehmen, um ihnen aufzuzeigen, wie sie mit den Tools sinnvoll umgehen sollen. Legen Sie daher den Fokus Ihrer Betreuung vom finalen Schreibprodukt auf den Schreibprozess. Entscheiden Sie sich bewusst dafür, Ihre Studierenden kontinuierlich als Betreuer:innen und Feedbackgeber:innen zu begleiten und zu beraten. Nur in dieser Rolle haben Sie eine Chance, beurteilen zu können, wie mit KI-Tools gearbeitet wird und im Dialog auf eine transparente und adäquate Verwendung der Hilfsmittel hinzuwirken.
+
+Im Rahmen dieser Rolle sollten Sie auch Ihre Haltung überprüfen, mit der Sie in den Betreuungsprozess eintreten: Anstatt davon auszugehen, dass sich Ihre Studierenden mit ChatGPT einen unerlaubten Vorteil verschaffen wollen, können Sie ihnen einen Vertrauensvorschuss geben und darauf bauen, dass der größte Teil Ihrer Studierenden wissenschaftlich korrekt arbeiten möchte und konstruktiv mit Ihnen zusammenarbeitet. Auf diese Weise schaffen Sie die Voraussetzungen für eine vertrauensvolle, offene und kooperative Beziehung im Betreuungsprozess. Wenn eine kontinuierliche Betreuung aus zeitlichen Gründen und hohen Studierendenzahlen nicht möglich ist, loten Sie aus, ob eine Änderung des Prüfungsformats zu Klausuren o.Ä. eine mögliche Alternative wäre.
+
+## 4.2 Baustein 2: Sich mit ChatGPT et al. vertraut machen
+
+Der zweite Baustein besteht darin, die eigene Kompetenz in der Anwendung der verschiedenen KI-Tools auszubauen. Machen Sie sich mit der Technologie vertraut, indem Sie diese in Ihrem eigenen wissenschaftlichen Schreibprozess ausprobieren. Nehmen Sie Fortbildungsangebote zum Thema wahr, wie beispielsweise Workshops und Beratungsangebote. Als Einstiegsliteratur bieten sich beispielsweise der Artikel von Fleischmann „ChatGPT in der Hochschullehre“, der UNESCO „Quick start guide“ von Sabzalieva und Valentini, Salden und Leschkes Dokument oder Hankes Online-Selbstlernkurs „ChatGPT und Künstliche Intelligenz in der Hochschullehre“ an.
+
+Weiterführende Informationen sind gut über die kommentierte Linksammlung zu ChatGPT im Hochschulkontext des Hochschulforums Digitalisierung zu finden.
+
+Lernen Sie insbesondere die Stärken und Schwächen der Programme in Bezug auf das wissenschaftliche Schreiben kennen. Stellen Sie selbst Anfragen zu Ihrem Seminarthema an ChatGPT. Sie können diese gleichzeitig als Inspiration für Kursthemen, Übungen sowie zur Vorbereitung nutzen, indem Sie von ChatGPT z.B. mögliche Seminararbeitsthemen mit zugehörigen Gliederungen oder Abstracts erstellen lassen.
+
+## 4.3 Baustein 3: Studierende über Einsatz, Chancen und Risiken von ChatGPT et al. aufklären
+
+Nicht nur Sie selbst, sondern auch Ihre Studierenden sollten im Umgang mit ChatGPT geschult sein, bevor sie das Tool im wissenschaftlichen Schreibprozess verwenden.
+
+Unterstützen Sie Ihre Studierenden dabei, ihre Kompetenzen im Umgang mit ChatGPT auszubauen, und klären Sie sie über den sinnvollen Einsatz, die Chancen und Risiken der KI-Tools in Bezug auf das wissenschaftliche Schreiben auf. Nur so kann eine sinnvolle Verzahnung von Lehre und Prüfung nach dem Prinzip des Constructive Alignments erfolgen. Dieses Prinzip beschreibt die Notwendigkeit, Lernziele, Lernaktivitäten und Prüfungen aufeinander abzustimmen. Bereiten Sie dazu Ihre Studierenden durch Ihre Lehre gezielt auf die anstehende Prüfung in Form des Verfassens einer wissenschaftlichen Hausarbeit unter Zuhilfenahme von KI-Tools wie ChatGPT vor. Wer diesen eher theoretischen und z.T. technischen Input nicht selbst im Kurs oder beispielsweise als initiales Kolloquium für BA- oder MA-Kandidat:innen liefern kann oder möchte, kann den Studierenden die Informationen auf unterschiedliche Weise bereitstellen: Sammeln Sie nützliche Ressourcen für Ihre Studierenden und stellen Sie sie in einen Moodle-Kurs ein.
+
+Um zu fördern, dass ihre Studierenden die Informationen tatsächlich aufnehmen, integrieren Sie eine aktive Auseinandersetzung mit den Inhalten während der Lehrveranstaltungen. Nachdem sich die Studierenden mittels der bereitgestellten Informationen auf das Thema vorbereitet haben, können Sie in der Sitzung eine Plenumsdiskussion über den sinnvollen und korrekten Einsatz von KI-Tools wie ChatGPT beim Schreiben wissenschaftlicher Hausarbeiten führen. Folgende Aspekte könnten diesbezüglich zur Sprache gebracht werden:
+
+- Was ist ChatGPT, wie funktioniert es und wofür kann man es sinnvoll nutzen (z.B. Inspiration, Zusammenfassungen, stilistische Verbesserungen etc.)?
+- Wie erstellt man allgemein gute prompts und worauf sollte man dabei achten?
+- Wie könnte man ChatGPT beim Verfassen einer Hausarbeit im jeweiligen Fachgebiet einsetzen und wie könnten entsprechende prompts aussehen (z.B. Anfragen zu Themenfindung, Inhaltsverzeichnissen, Abstracts, Forschungsfragen, Thesen, Argumenten, Textteilen, Bibliografien etc.)?
+- Was sind die Gefahren und Schwächen von ChatGPT (z.B. fehlerhafte, erfundene oder unvollständige Aussagen; Ergebnisse, denen es an Aussagekraft, Innovation, Relevanz oder Kreativität mangelt etc.)?
+- Wie sieht ein wissenschaftlich korrekter Umgang mit ChatGPT aus (z.B. Kenntlichmachung des KI-Anteils in der wissenschaftlichen Arbeit, Transparenz der Quellen, auf denen die KI-Antwort basiert, etc.)?
+
+Impulse zur Beantwortung dieser Fragen finden Sie u.a. in Kapitel 3 dieser Handreichung.
+
+## 4.4 Baustein 4: Regeln im Umgang mit ChatGPT et al. aufstellen und klar kommunizieren
+
+Ihre Studierenden sollten klare Richtlinien erhalten, wie sie KI-Tools einsetzen dürfen und wie nicht. Eine gute Orientierung hierzu bietet die Handreichung des Mathematik-Professors Christian Spannagel der Pädagogischen Hochschule Heidelberg, die er für seine Studierenden verfasst und online zur Verfügung gestellt hat. Die Kernaussage ist, dass der Einsatz von KI-Tools erlaubt ist, solange diese angegeben werden und die Studierenden die Verantwortung für ihre Ergebnisse übernehmen, indem sie den Output der Tools prüfen. Reflektieren Sie aber gerne, welche Erwartungen Sie ganz persönlich an die Verwendung der KI-Tools haben und formulieren Sie Ihre Regeln, die sie dann klar an Ihre Studierenden kommunizieren. Fixieren Sie sie am besten schriftlich und hinterlegen Sie sie z.B. auf einer Lernplattform wie Moodle, wo sie immer einsehbar sind. Anstatt die Regeln nur zu Beginn einer Lehrveranstaltung zu erläutern, sollten Sie während des Seminars bzw. im Betreuungsprozess immer wieder auf diese Regeln verweisen und auf ihre Einhaltung bestehen. Wenn Regeln nicht beachtet werden, sollten Sie dies direkt ansprechen und zuerst den Grund dafür in Erfahrung bringen, bevor Sie reagieren. Zumeist liegt eine unerlaubte Nutzung nicht am bösen Willen der Studierenden, sondern an Unsicherheit, Unwissenheit, Stress, Zeitdruck oder Ähnlichem. Wenn Sie den Grund kennen, können Sie passgenaue Maßnahmen ergreifen, die den Lernprozess der Studierenden beim Schreiben unter KI-Bedingungen unterstützen.
+
+## 4.5 Baustein 5: Schreiben mit ChatGPT in die Lehre integrieren
+
+Entsprechend des Prinzips des *Constructive Alignments* ist es notwendig, Lehrinhalte und -methoden an die Lernziele und Prüfungsform anzupassen. Ist die Prüfungsform eine Hausarbeit, soll somit im Seminar gelernt werden, wie eine Hausarbeit zu schreiben ist. Was wir also tun müssen, um unsere Studierenden optimal auf die Prüfungsform ‚Hausarbeit‘ vorzubereiten, ist Schreiben aktiv zu lehren. Der Einwand, dass Studierende bereits Schreibkompetenzen haben oder in einem propädeutischen Kurs erworben haben sollten, ist aus schreibdidaktischer Sicht nur bedingt haltbar: Entsprechend des Ansatzes *Writing in the Disciplines* ist davon auszugehen, dass jede Fachdisziplin ganz spezielle Formen des wissenschaftlichen Schreibens hervorbringt und diese nur im Kontext des jeweiligen Faches erlernbar sind.
+
+Abgesehen davon, ist die Entwicklung von Schreibkompetenzen ein langwieriger Prozess, der selbst während und nach der Promotion noch häufig Schwierigkeiten bereitet. Es lohnt sich daher, die Idee des *Constructive Alignments* ernst zu nehmen und Schreiben als integralen Bestandteil der Fachlehre zu begreifen, wenn ein Schreibprodukt als Prüfungsleistung gefordert wird. Übertragen auf die Arbeit mit KI-Modellen, sollte Schreiben in der Fachdisziplin unter Einbezug der KIs mit den Studierenden kontinuierlich geübt werden, um sie optimal auf die Prüfung vorzubereiten.
+
+Zum einen können Sie mit Ihren Studierenden Kursinhalte unter Zuhilfenahme von ChatGPT schreibend erarbeiten und „Schreiben als Denk- und Lernwerkzeug nutzen“. Ein Beispiel hierfür ist die Arbeit mit Sekundärliteratur, welche für das Schreiben von Seminararbeiten grundlegend ist. Im Kurs könnten Sie ChatGPT einen Sekundärtext zu einem Sitzungsthema zusammenfassen lassen. Die Studierenden sollen dann im Flipped-Classroom-Format zur Vorbereitung der Sitzung den Sekundärtext sowie die Zusammenfassung von ChatGPT lesen und einen Kommentar verfassen, wie sie die Zusammenfassung bewerten und ggf. Fehler und Ungenauigkeiten aufdecken. Im Kurs kann dann im Plenum darüber diskutiert werden. Auf diese Weise werden nicht nur die Stärken und Schwächen der KI thematisiert, sondern gleichzeitig die Lese-, Schreib-, und Beurteilungskompetenzen der Studierenden gefördert. Zudem erhöhen Sie die Relevanz, schwierige Sekundärtexte genau zu lesen und sich damit eingehend auseinanderzusetzen. Dieses Vorgehen nimmt dabei keine Zeit von der Fachlehre in Anspruch, sondern ermöglicht Ihnen, Ihre Fachinhalte direkt über das Schreiben zu vermitteln und zu vertiefen.
+
+Zum anderen kann die Erstellung von Seminararbeiten schon während des Kurses vorbereitet werden, indem einzelne Aspekte themenrelevanter Hausarbeiten unter Zuhilfenahme von ChatGPT erstellt und im Kurs diskutiert werden. ChatGPT könnte beispielsweise dazu aufgefordert werden, Thesen zu einem Kurs- und möglichen Seminararbeitsthema zu generieren, die dann im Kurs genau untersucht und kritisch hinterfragt werden. Ein beispielhafter *prompt* könnte folgendermaßen aussehen:
+
+Erstelle Seminararbeitsthemen zum Kurs "Filmadaptionen von William Shakespeares 'Romeo and Juliet'".
+
+Natürlich, hier sind einige Seminararbeitsthemen zum Kurs "Filmadaptionen von William Shakespeares 'Romeo and Juliet'":
+
+1. Vergleich der Darstellungen von Romeo und Julia in verschiedenen Filmadaptionen: Untersuchen Sie, wie verschiedene Regisseure die Charaktere von Romeo und Julia in ihren Adaptionen interpretieren und darstellen. Gibt es gemeinsame Merkmale oder auffällige Unterschiede?
+2. Der Einfluss der Zeit und des Ortes auf Filmadaptionen: Analysieren Sie, wie die Wahl von Zeit und Ort in verschiedenen Filmadaptionen von 'Romeo and Julia' die Interpretation des Stücks beeinflusst. Untersuchen Sie beispielsweise moderne Adaptionen im Vergleich zu solchen, die im historischen Kontext angesiedelt sind.
+3. Die Rolle der Musik in 'Romeo and Juliet'-Verfilmungen: Erforschen Sie, wie die musikalische Begleitung in verschiedenen Verfilmungen zur Atmosphäre und Interpretation des Stücks beiträgt. Gibt es bestimmte musikalische Themen oder Stile, die sich durch verschiedene Adaptionen ziehen?
+4. Geschlechterdarstellung in 'Romeo and Juliet'-Verfilmungen: Untersuchen Sie, wie Geschlecht und Geschlechterrollen in verschiedenen Filmadaptionen von 'Romeo und Julia' dargestellt und interpretiert werden. Gibt es Veränderungen oder Neuinterpretationen der Geschlechterdynamik?
+
+In diesem Beispiel präsentiert ChatGPT falsche Fakten, da in der angesprochenen Balkonszene im Film überhaupt kein Regenschauer einsetzt. Daran kann verdeutlicht werden, wie ChatGPT arbeitet, warum kritisch mit dem Tool umgegangen werden muss, welche Ideen tatsächlich nutzbar sind und welche nicht. Ein derartiges Vorgehen könnte auch mit anderen Elementen wissenschaftlicher Hausarbeiten durchgeführt werden, wie Themenstellungen, Gliederungen, Forschungsfragen, Argumenten, Brainstorming, Textteilen wie Abstracts oder Einleitungen etc. Diese Diskussionen können dann auch der Ausgangspunkt für weitere Fachthemen sein. Ziel in der Fachlehre ist also, das Erstellen wissenschaftlicher Hausarbeiten mit den Studierenden zu üben, indem kleine Schreibaufgaben unter Einbezug der KI-Werkzeuge, vor oder in der Lehrveranstaltung, von den Studierenden bearbeitet und in der Sitzung kritisch diskutiert werden. Die Studierenden sollen bei diesen Aufgaben dafür sensibilisiert werden, dass ChatGPT gut darin ist, Inspirationen zu liefern, Texte zusammenzufassen, zu übersetzen oder stilistisch zu verbessern. Gleichzeitig soll deutlich werden, dass das Tool nicht faktenorientiert arbeitet, Inhalte erfindet und das Ergebnis daher immer eingehend überprüft werden muss. Auf diese Weise werden sowohl die Kompetenzen der Studierenden rund um den Schreibprozess als auch ihre *AI literacy* gefördert. Gleichzeitig können Fachinhalte vermittelt und diskutiert werden.
+
+Als Inspiration für die Integration von Schreiben in die Fachlehre steht eine Methodensammlung auf der Homepage des Schreibzentrums der LMU zum Download zur Verfügung. Die schreibdidaktischen Angebote und Beratungen des Schreibzentrums können dazu dienen, das entsprechende Knowhow zu erweitern.
+
+## 4.6 Baustein 6: Den Betreuungsprozess an die neuen Gegebenheiten anpassen
+
+Damit die Betreuung möglichst gut auf die Integration von KI-Tools eingestellt ist, sollte sie möglichst engmaschig erfolgen. Um dies effektiv, aber auch effizient sicher zu stellen, können folgende Maßnahmen umgesetzt werden:
+
+### 4.6.1 Kontinuierliche Feedbackschleifen durch Meilensteine durchführen
+
+Das Durchführen mehrerer Feedbackschleifen verbessert die Begleitung des Schreibprozesses der Studierenden in hohem Maße. Dazu können entweder für alle Studierenden die gleichen oder aber individuell vereinbarte Meilensteine vorgegeben bzw. mit den Studierenden ausgehandelt werden. In der Praxis hat es sich bewährt, drei Meilensteine zu setzen: der Austausch zur Themenfindung, das Vorlegen einer Gliederung (ggf. einschließlich einer Auswahlbibliografie) und das Einreichen einer Leseprobe.
+
+Unter Einbezug von KI könnten Sie beim ersten Meilenstein, dem **Austausch zur Themenfindung**, gemeinsam mit den Studierenden die Entstehung ihres Themas anhand von Anfragen an ChatGPT reflektieren. Dabei können mögliche Ungenauigkeiten und Fehler der Ergebnisse von ChatGPT aufgedeckt und thematisiert werden. Durch einen offenen Umgang mit den KI-Tools ist eher davon auszugehen, dass Studierende die Nutzung von ChatGPT transparent durchführen. Falls Sie vermuten, dass das System ohne entsprechende Offenlegung genutzt wurde, können Sie das Tool vor den Besprechungen selbst Themenvorschläge erstellen lassen. So können Sie im Gespräch bei Auffälligkeiten nachfragen, ob ChatGPT zum Einsatz kam und entsprechend darauf reagieren: Wiederholen Sie die Regeln zur Verwendung von KI-Tools und fragen Sie nach, weshalb die Nutzung nicht offengelegt wurde. Vielleicht haben Ihre Studierenden Probleme bei der Themenfindung oder später beim Schreiben, die Sie aufdecken und gemeinsam bearbeiten können.
+
+Im nächsten Meilenstein, dem **Vorlegen einer Gliederung**, könnten Sie ebendiese und ggf. eine Auswahlbibliografie verlangen. Wurden die Dokumente unter Zuhilfenahme z.B. von ChatGPT erstellt, lassen sich im Dialog inhaltliche Probleme aufdecken, besonders wenn Sie nach der Entwicklung eigener Gedankengänge und der tatsächlichen Arbeit der Studierenden mit der KI fragen. Gerade in Bezug auf die Bibliografie sollten Sie die Studierenden dazu anregen, die ChatGPT-Ergebnisse kritisch zu hinterfragen, da angegebene Quellen eine reine Erfindung der KI sein können.
+
+Als dritten Meilenstein, **Einreichen einer Leseprobe**, können Sie einen ca. zweiseitigen Textauszug der Seminar-/Abschlussarbeit einholen. Lassen Sie sich dabei dokumentieren, ob und wie die Studierenden ChatGPT für die Texterstellung genutzt haben. In der Sprechstunde können Sie dann über den Textauszug diskutieren, um festzustellen, ob die Studierenden die Ideen der KI hinterfragt haben. Sensibilisieren Sie dafür, die Ergebnisse aktiv zu reflektieren, ggf. zu überarbeiten und zu korrigieren. Wenn das Tool primär für eine sprachliche Überarbeitung genutzt wurde, können Sie die ursprüngliche Fassung und die Überarbeitung durch ChatGPT gemeinsam vergleichen oder die Studierenden selbst vergleichen lassen. Lassen Sie herausarbeiten, welche Verbesserungen ChatGPT warum vorgeschlagen hat und regen Sie die Studierenden dazu an, diese Erkenntnisse für die Entwicklung des eigenen Schreibstils festzuhalten und nutzbar zu machen. Hier könnten typische grammatikalische oder stilistische Fehler zur Sprache kommen, wie Syntax, Idiomatik, Rechtschreibung, wissenschaftlicher Ausdruck, Kommasetzung etc.
+
+### 4.6.2 Selbstfeedback und Peer-to-Peer-Feedback fördern
+
+Neben den Feedbackschleifen, die Lehrende leisten können, gibt es weitere Möglichkeiten, den Schreibprozess der Studierenden mit der KI kritisch zu begleiten: Sie können Handreichungen mit Leitfragen erstellen, welche die Studierenden an gewissen Punkten in ihrem Schreibprozess beantworten sollen, um ihre Arbeit mit ChatGPT zu reflektieren. Beispielfragen für ein derartiges Selbstfeedback könnten sein:
+
+- Welche der von ChatGPT erstellten Fragestellungen eignen sich nicht für eine Hausarbeit und warum?
+- Welche der von ChatGPT generierten Quellen existieren, welche nicht?
+- An welchen Stellen ist die Zusammenfassung eines Sekundärtextes durch ChatGPT fehlerhaft oder ungenau?
+- Inwiefern hat sich ein gegebener Text durch eine stilistische Überarbeitung durch ChatGPT verbessert und was lässt sich daraus für die Redaktion guter (wissenschaftlicher) Texte ableiten?
+
+Die Bearbeitung dieser Leitfragen können Sie einreichen lassen oder bei den Meilensteinbesprechungen diskutieren.
+
+Auch den Austausch unter den Studierenden können Sie fördern, indem Sie beispielsweise Reflexionstandems oder Reflexionsteams bilden, in denen sich die Studierenden gegenseitig Peer-to-Peer-Feedback auf ihre Arbeiten mit der KI geben. Hier wäre ein gemeinsamer Austausch zu Themenvorschlägen, eine gemeinsame Überprüfung der von ChatGPT erstellten Inhalte oder eine Überprüfung der eingegebenen prompts möglich. Leitfäden für die Zusammenarbeit und Leitfragen zur Unterstützung dieser Gruppenarbeiten sind hilfreich, um eine ergebnisorientierte und effiziente Zusammenarbeit sicherzustellen. Sie können eine Dokumentation der Besprechungen verlangen und sich diese im Nachgang (schriftlich oder mündlich) präsentieren lassen.
+
+### 4.6.3 Reflexionsdokumentationen erstellen lassen
+
+Eine weitere Methode, Einblick in den Schreibprozess der Studierenden zu erhalten, besteht darin, eine Prozessdokumentation im Anhang der Hausarbeit zu verlangen. Dies kann in Form einer genauen Dokumentation der einzelnen Arbeitsschritte durch Screenshots o.Ä. geschehen.
+
+Eine Alternative dazu wäre, eine Reflexionsdokumentation erstellen zu lassen, in der die Studierenden ihren Arbeitsprozess mit ChatGPT dokumentieren und reflektieren. Die Studierenden sollten dazu im Anhang ihrer Arbeit eine Tabelle einfügen, in der sie festhalten, welche Schritte sie wann durchgeführt haben, warum sie diese Schritte gegangen sind und zu welchem Ergebnis diese geführt haben. Anstatt also lediglich die *prompts* mit den zugehörigen Antworten in den Anhang zu stellen, müssen sie sich durch die Kommentierung ihrer Vorgehensweise kritisch mit ChatGPT auseinandersetzen. Zusätzlich können Sie von den Studierenden z.B. die Meilensteindiskussionen und ihre Konsequenzen für den Schreibprozess, die Beantwortung der Leitfragen für das Selbstfeedback oder die Auswertung des Peer-Feedbacks von Kommiliton:innen aus den Gruppenarbeiten dokumentieren und einfügen lassen. Hier könnten Leitfragen sein, welche Anstöße die Studierenden aus dem Feedback für sich abgeleitet haben und wie sie damit in ihrer Arbeit umgegangen sind, was sie berücksichtigt haben, was nicht und weshalb sie das getan haben. Zusätzlich könnte eine Kommentierung der Quellen im Literaturverzeichnis verlangt werden, wodurch nachvollzogen werden kann, dass die Studierenden diese Quellen tatsächlich konsultiert haben und nicht einfach ein von einer KI erstelltes Quellenverzeichnis übernommen haben. Natürlich sollte der Aufwand für die Studierenden im Rahmen bleiben. Legen Sie vorab fest, wie umfangreich eine solche Dokumentation ausfallen sollte.
+
+## 4.7 Baustein 7: Den Bewertungsprozess an die neuen Gegebenheiten anpassen
+
+Nicht nur der Schreibprozess, sondern auch der Bewertungsprozess sollte in Zeiten von KI-Sprachmodellen an die neuen Gegebenheiten angepasst werden. Da die Antworten der KI variabel sind, ist es bisher nicht verlässlich möglich zu erkennen, ob mit einer KI gearbeitet wurde. Um jedoch einen allgemeinen Eindruck über mögliche KI-Antworten in Bezug auf gewählte Hausarbeitsthemen oder bestimmte Arbeitsschritte zu bekommen, können Sie ChatGPT zu den gewählten Themen selbst befragen. Auf diese Weise können ggf. Inhalte (wieder)erkannt werden, die von der KI stammen könnten – gerade, wenn es sich um fehlerhafte Fakten, Inhalte, Wendungen, Quellen etc. handelt, kann eine solche Befragung hilfreich sein. Wenn Sie dann einen Verdacht haben sollten, dass eine KI unzulässig eingesetzt wurde, können Sie den Text auf die typischen Schwachstellen der KI untersuchen. Falsche Quellen, unzusammenhängende Argumentationsstränge und eine schlechte wissenschaftliche Arbeitsweise werden dann entsprechend bei der Bewertung berücksichtigt.
+
+Eine offene Kommunikation über die Nutzung der Tools ist die beste Methode, einer unerlaubten oder unlauteren Benutzung vorzubeugen. Etwaige Verstöße gegen Ihre aufgestellten Nutzungsregeln oder gegen eine gute wissenschaftliche Praxis können bereits während des Entstehungsprozesses thematisiert werden und müssen dadurch nicht gleich prüfungsrechtliche Konsequenzen nach sich ziehen. Genau wie beim wissenschaftlichen Arbeiten mit Quellen sollten die Studierenden auch Gelegenheit haben, Fehler zu machen, um daraus zu lernen, ohne gleich einem Vorwurf des Plagiats oder der Täuschung ausgesetzt zu sein. Die Devise lautet, mit den Studierenden zu arbeiten und nicht gegen sie, indem Sie klare Regeln setzen und dabei gleichzeitig eine offene Fehlerkultur pflegen und vorleben.
+
+Somit wäre es auch bei der Bewertung der schriftlichen Arbeiten sinnvoll, den wissenschaftlich korrekten Umgang mit KI-Modellen als Kriterium im Bewertungsschema oder Rubric aufzunehmen – vorausgesetzt dies ist von der jeweiligen Prüfungsordnung abgedeckt. Dazu müssen Sie sich vorab überlegen, was ein ‚wissenschaftlich korrekter Umgang mit ChatGPT‘ in ihrem Fachbereich sein könnte und dies im Bewertungsschema mit relevanten Adjektiven näher beschreiben: z.B. „Die KI wurde sehr reflektiert und sinnvoll eingesetzt“ für eine sehr gute Leistung bis hin zu „Die KI wurde unkritisch und nicht durchdacht eingesetzt“ für eine Leistung, die keine Punkte erzielt. Natürlich können Sie mehrere Kriterien bzw. Unterkriterien erstellen, je nachdem wie stark Sie den Aspekt differenzieren wollen. Anschließend können Sie noch festlegen, wie stark Sie die Arbeit mit der KI im Gesamtergebnis gewichten wollen.
+
+Beachten Sie bei allen angesprochenen Maßnahmen erstens, wie die Nutzung von KI-Tools und deren Bewertung an Ihrer Universität und in Ihrem Fachbereich geregelt ist. Beachten Sie zweitens, dass es aus unterschiedlichen Gründen, wie z.B. dem Datenschutz, derzeit keine allgemeingültige Grundlage gibt, den Einsatz von KI-Modellen von Studierenden zu verlangen. Sie könnten jedoch abklären, ob Sie einige *Dummy-Accounts* für Ihre Studierenden erstellen dürfen, welche diese z.B. im Computerraum der Universität nutzen können, ohne sich selbst bei der Plattform anmelden zu müssen. Wenn die Studierenden KI-Tools aus eigenem Antrieb einsetzen, können Sie jedoch mit den genannten Maßnahmen versuchen, einen produktiven, konstruktiven und reflektierten Umgang mit ChatGPT zu fördern.
+
+## 4.8 Fazit
+
+Anstatt sich eine einfache Lösung oder singuläre Maßnahme zu wünschen, womit Lehrende den Gebrauch von ChatGPT verhindern oder mit Sicherheit nachverfolgen können, können Sie sich auch bei der Betreuung studentischer Schreibprojekte getrost auf die Arbeit mit KI-Werkzeugen einlassen. Ein gangbarer und didaktisch förderlicher Weg besteht darin, Studierende in ihrem Schreibprozess mit KI-Tools zu begleiten und zu unterstützen. Sie müssen dabei nicht alle sieben Bausteine dieses Leitfadens anwenden und es gibt bestimmt noch viele weitere denkbare Schritte, die Sie mit Ihren Studierenden gehen können. Wahrscheinlich werden Sie die Arbeit als Betreuungsperson für sich und Ihre Studierenden jedoch angenehmer gestalten, wenn Sie auf Kollaboration setzen und viele kleine Maßnahmen ergreifen, um mit den aktuellen Entwicklungen konstruktiv umzugehen.
+
+# Kapitel 5 KI und Hochschulprüfungen: wie wir trotz KI weiterhin gelungen prüfen können
+
+*Susanne Frölich-Steffen*
+
+Rede Schulung
+
+# 5.1 Unterschiedliche Betroffenheit von Prüfungsformaten
+
+Universitäten messen mit Prüfungen summativ, also am Ende eines Lehr-Lern-Prozesses, den Lernstand der Studierenden idealiter in sehr unterschiedlichen Verfahren, da ja auch die Ausbildung an Universitäten sehr unterschiedliche Kompetenzen schulen soll. Die am meisten verwendeten Prüfungsformate sind mündliche Prüfungen, Klausuren – hier sind E-Klausuren und Präsenzklausuren gerade im Kontext von ChatGPT als unterschiedliche Formate zu begreifen! – praktische Prüfungen und zu Hause erstellte Arbeiten wie Portfolios, Hausarbeiten, Protokolle, Abschlussarbeiten etc.
+
+Glücklicherweise sind nicht alle dieser Formate gleichermaßen von der Existenz von LLMs betroffen. Lediglich E-Klausuren und zu Hause erstellte Arbeiten können durch LLMs verfälscht werden. Das erklärt auch, warum die erste Reaktion vieler Universitäten auf die Veröffentlichung von ChatGPT lautete, dass Dozierende fortan viel mehr mündlich prüfen sollten und alle wissenschaftlichen Arbeiten, die von Studierenden erstellt würden, mit einer ergänzenden mündlichen Verteidigung abzurunden seien. Dass dies angesichts mangelnden Personals in der Lehre und im Lichte universitärer Raumknappheit ein Ding der Unmöglichkeit ist, sollte offensichtlich sein.
+
+Es erscheint deshalb zum einen umso wichtiger, dass alle Prüfenden fortan andere E-Klausuren und andere zu Hause zu erstellende Arbeiten abnehmen, um diese beiden Prüfungsformate zu erhalten. Zum anderen aber sind Fakultäten und Institute an Universitäten gefordert, einmal auf einer sehr grundsätzlichen Ebene zu reflektieren, inwieweit die Studiengänge wirklich sinnvoll mit Prüfungsformaten umgehen. An vielen Stellen folgt die Logik des Prüfungsformats nämlich in erster Linie pragmatischen Erwägungen und so kommt es unter Umständen in Fachbereichen mit sehr vielen Studierenden zu einem Übermaß an Klausuren, obgleich auch mündliche Prüfungen zur Überprüfung von kommunikativen Kompetenzen angezeigt wären, um nur ein Beispiel zu nennen. Diese ‚Hausaufgabe‘ obliegt künftig den Dekanaten, Fachbereichsräten, Institutsversammlungen und Studiengangskoordinationen. Aber auch die einzelnen Prüfenden können bereits heute auf ChatGPT reagieren:
+
+### 5.2 ChatGPT in der Prüfungsvorbereitungsphase
+
+Zunächst einmal können Sie als Prüfperson ChatGPT zu Ihrem eigenen Vorteil nutzen. Sie können mit Hilfe von ChatGPT Klausuraufgaben erstellen und ihre Effektivität überprüfen. Lassen Sie sich beispielsweise Prüfungsfragen mit Hilfe von ChatGPT erstellen, wie das Beispiel in Abbildung 17 zeigt. Die von ChatGPT generierte Frage wäre durchaus als Klausurfrage nutzbar.
+
+Natürlich! Hier ist eine mögliche Klausurfrage, die das Verständnis der Studierenden zur Verschränkung von Regierung und Parlament in der Bundesregierung Deutschland im ersten Semester überprüft:
+
+**Frage:**
+
+Erläutern Sie die Verschränkung von Regierung und Parlament in der Bundesregierung Deutschlands. Gehen Sie dabei auf die institutionellen und funktionellen Aspekte ein und nennen Sie konkrete Beispiele für die Zusammenarbeit zwischen Regierung und Parlament.
+
+Diese Frage zielt darauf ab, dass die Studierenden ihr Verständnis der Verflechtung zwischen Regierung und Parlament demonstrieren können. Die Antwort sollte die Rolle und Funktionen der beiden Institutionen erläutern und konkrete Beispiele für ihre Zusammenarbeit aufzeigen. Die Studierenden sollten in der Lage sein, auf legislative Prozesse, politische Kontrollmechanismen und Entscheidungsfindungsprozesse einzugehen, um die Verschränkung der beiden Bereiche zu verdeutlichen.
+
+Lassen Sie sich darüber hinaus unterschiedliche Fragensets zum gleichen Themenkomplex erstellen.
+
+Natürlich! Hier ist eine Klausurfrage, die das Verständnis der Studierenden zur Verschränkung von Regierung und Parlament in der Bundesregierung Deutschlands überprüfen könnte:
+
+**Frage:** Beschreiben Sie die Verschränkung von Regierung und Parlament in der Bundesregierung Deutschlands und erläutern Sie, wie diese Beziehung das politische System beeinflusst.
+
+Diese Frage ermöglicht den Studierenden, ihr Wissen über die grundlegende Struktur der deutschen Regierung und die Wechselwirkungen zwischen Regierung und Parlament zu demonstrieren. Sie sollten in der Lage sein, den Einfluss dieser Beziehung auf das politische System zu analysieren und möglicherweise auf spezifische Beispiele einzugehen, um ihre Argumentation zu stützen.
+
+Bitte beachten Sie, dass dies nur ein Vorschlag ist und Sie die Frage nach Ihren Präferenzen und Lehrzielen anpassen können.
+
+Analog zu diesen Beispielen lassen sich mit ChatGPT also schnell und zeitsparend Klausurfragen entwerfen, die Sie als Dozierende dann modifizieren und einsetzen können.
+
+### 5.3 Constructive Alignment: Veränderte Lernziele
+
+Neben dieser pragmatischen Herangehensweise sollten auch die didaktischen Implikationen im Fokus stehen. Der nächste wichtige Schritt ist dementsprechend, dass Dozierende einmal grundsätzlich reflektieren, ob und inwieweit sich die Lernziele, die bei einer Lernstandsmessung erhoben werden, durch ChatGPT verändert haben. Es ist beispielsweise möglich, dass bisher gesetzte Lernziele nicht länger zum Prüfungsformat passen. Um dies besser zeigen zu können, ist das Modell des *Constructive Alignments* sehr hilfreich. Es besagt, dass Lernen nur dann erfolgreich ist, wenn drei Bereiche miteinander verknüpft und verschränkt sind: die intendierten Lernergebnisse, die relevante Lernaktivität der Studierenden und die Überprüfung der Lernergebnisse. Vereinfacht erklärt:
+
+Wenn Studierende lernen sollen, das Skalpell zu führen, müssen sie das im Unterricht am Präparat üben und das Prüfungsformat sollte idealerweise eine praktische Prüfung sein, bei der Studierende mit dem Skalpell arbeiten müssen.
+
+Doch wieso wird dieses Dreieck nun durch Chatbots verändert? Ein Auseinanderdriften von Lehrmethoden und Prüfungsformaten ist in zwei Szenarien denkbar:
+
+1. Die Lehrenden bleiben bei ihrem bisherigen Methodeneinsatz und ignorieren das Vorhandensein der neuen technischen Möglichkeiten während des Unterrichts. Die Studierenden hingegen bringen KI-Tools beim Lernen und während der Prüfung zum Einsatz. Das kann dazu führen, dass sich nur jene Studierenden, die sich selbständig mit KI-Tools auseinandersetzen und sie zum Lernen verwenden, in Prüfungen verbessern.
+2. Umgekehrt könnte es auch sein, dass die Lehrenden in ihrem Unterricht KI-Tools einsetzen und Studierenden einen kritisch-reflektierten Umgang damit beibringen, die Prüfung jedoch ohne jedweden Einsatz von KI-Tools zu bewältigen wäre. Ähnliche Problematiken treten beispielsweise auf, wenn Studierende während des Semesters alle schriftlichen Aufgaben am PC lösen, dann aber in der Klausur zum Teil mehrere Stunden handschriftliche Ausführungen ihrer Gedanken erstellen müssen und schlicht und ergreifend das lange handschriftliche Schreiben nicht mehr geübt sind. Oder aber, wenn Lerninhalte im Unterricht zwar abgefragt wurden, aber immer nur in schriftlicher Form, die abschließende Prüfung jedoch mündlich ist, und Studierende nicht in der Lage sind, ihre Gedanken mündlich auszuformulieren. Auch in den naturwissenschaftlichen Fächern ist ein klassisches Problem, dass bei der Klausur weniger Hilfsmittel (Taschenrechner etc.) zugelassen werden als in der Lernphase, in der die Studierenden aus Zeitgründen diese Hilfsmittel verwenden, ähnlich wie Übersetzungstools in sprachlichen Fächern. Bei ChatGPT könnte es beispielsweise dazu führen, dass Studierende nicht hinreichend geschult würden, ihre Gedanken zu systematisieren, zu strukturieren, weil sie viel mehr die Kompetenz erworben haben, sinnvolle prompts zu generieren.
+
+In beiden Szenarien lässt sich dem Auseinanderklaffen von Lernziel und Prüfungsaufgabe nur dadurch beikommen, dass Lehrende frühzeitig und kritisch reflektieren, welche Lernziele denn nun dank oder wegen ChatGPT anders oder neu abgeprüft werden und werden sollen.
+
+- An welcher Stelle müssen Sie als Lehrperson AI Literacy, also den kompetenten Umgang mit ChatGPT, als neues Lernziel implementieren?
+- Und wenn Sie das tun, wie verändert das die Prüfungsanforderungen? Lassen sich die Prüfungen an die neuen Lernziele anpassen?
+- Wenn nein, wie gehen Sie damit um? Die minimale Antwort auf diese Frage muss lauten: machen Sie die Studierenden unbedingt darauf aufmerksam, dass Sie zwar ChatGPT im Lernprozess nutzen dürfen, aber dann mitunter während der Prüfung ohne ChatGPT Schwierigkeiten haben könnten. In diesen Fällen sollte daher auch während des Lernens besser auf den Einsatz von ChatGPT verzichtet werden.
+
+### 5.4 Umgang mit ChatGPT bei E-Klausuren
+
+Wenn neue Lernziele gesetzt werden oder aber der Lernprozess durch KI verändert wurde, ergibt sich daraus in der Regel zwingend, dass auch die Prüfungen selbst verändert werden müssen. Bei E-Klausuren gelten folgende Empfehlungen:
+
+- Stellen Sie andere Aufgaben als vor der Einführung von ChatGPT. Sie müssen davon ausgehen, dass ChatGPT zum Einsatz kommen könnte. Es wäre deshalb sinnvoll, dass Sie Aufgaben stellen, bei denen Studierende die Limitationen von ChatGPT kritisch reflektieren müssen. Einfache Wissens- und Verständnisfragen sind unter Einsatz von KI nicht sinnvoll. Stellen Sie Aufgaben, bei denen Studierende beispielsweise unter verschiedenen Lösungsvorschlägen differenziert abwägen müssen.
+- Erlauben Sie Studierende unter Umständen sogar in der Klausur, ChatGPT einzusetzen und die generierten Antworten kritisch zu bewerten.
+- Lassen Sie Ihre E-Klausur im Probedurchlauf von ChatGPT testen. Bei sehr guten Ergebnissen sollten Sie die Fragen verwerfen, bei sehr schlechten Ergebnissen „regenerate“ anklicken. Sollten die Antworten nach der Neugenerierung immer noch nicht zufriedenstellend sein, können die aktuellen Fragen beibehalten werden.
+- Formulieren Sie viel konkretere Aufgabenstellungen als bisher.
+- Fordern Sie Studierende zu einer persönlichen Einschätzung auf.
+- Fragen Sie sehr aktuelle Sachverhalte ab, hier wird ChatGPT unter Umständen weniger hilfreich sein.
+- Beziehen Sie sich bei Ihren Fragen auf die Diskussionen/Texte/Beispiele, die Sie in der Lehre verwendet haben. ChatGPT weiß nicht, was Sie mit Ihren Studierenden im Unterricht behandelt haben.
+
+### 5.5 Umgang mit ChatGPT bei Hausaufgaben und wissenschaftlichen Arbeiten
+
+Auch wissenschaftliche Arbeiten, zu Hause erstellte Protokolle etc. müssen nicht völlig von der Bildfläche verschwinden; denn auch hier gibt es Möglichkeiten, sinnvoll und konstruktiv mit ChatGPT umzugehen. Es lassen sich zwei Zielsetzungen unterscheiden: Sie als Lehrperson können entweder Studierenden den Einsatz von ChatGPT erschweren oder aber ihn erlauben und mitbewerten.
+
+#### 5.5.1 Den Einsatz von ChatGPT erschweren
+
+Wenn es aus Ihrer Sicht nicht sinnvoll ist, dass Studierende bei der Erstellung ihrer zu Hause zu erledigenden Aufgaben ChatGPT nutzen, können Ihnen folgende Schritte helfen:
+
+- Vergeben Sie nur aktuelle Themenstellungen.
+- Fordern Sie die Studierenden auf, eine möglichst individuelle Fragestellung mit regionalem, lokalem oder persönlichem Bezug zu bearbeiten.
+- Intensivieren Sie den Betreuungsprozess im Verlauf der Erstellung der Arbeiten. Studierende werden erkennen, dass es nicht sinnvoll ist, die Arbeiten von ChatGPT erledigen zu lassen, um dann in der Sprechstunde auf Fragen zum Entstehungsprozess der Arbeiten keine Antworten parat zu haben.
+- Verlangen Sie, dass Studierende in ihren Arbeiten zu den im Seminar verwendeten Themen/Theorien/Methoden Bezüge herstellen.
+- Setzen Sie auf multimediales Arbeiten. Auch wenn es neben ChatGPT noch andere Tools der Künstlichen Intelligenz gibt, so wird es immer komplexer, Arbeiten von der Maschine erstellen zu lassen, je mehr Tools zum Einsatz kommen. Die von dieser Vielfalt mitunter ausgehende Überforderung kann dazu motivieren, es einfach selbst zu tun. Ihre Studierenden könnten zusätzlich zum erstellten Produkt ein kleines Audiofile, eine Zusammenfassung als Video o.ä. abgeben.
+- Fordern Sie während der Erstellung von wissenschaftlichen Arbeiten immer wieder Arbeitsschritte ein, die den Entstehungsprozess dokumentieren.
+- Verlangen Sie Kopien oder Screenshots der verwendeten Literatur (Deckblatt des Buches oder des Journals).
+
+- Verlangen Sie Kopien/Fotos/Screenshots aller im Text verwendeten Zitate.
+- Machen Sie klare Vorgaben, welche Journals und Bücher zitiert werden müssen.
+- Bei Verdacht von Missbrauch klären Sie mit dem Prüfungsamt ab, ob eine mündliche Nachprüfung möglich ist.
+
+#### 5.5.2 Den Einsatz von ChatGPT zulassen und fordern
+
+Schließlich könnten Sie Studierende auch dazu auffordern, ChatGPT zu verwenden. Dazu wären dann die folgenden Schritte sinnvoll:
+
+- Erlauben Sie Studierenden und bringen Sie ihnen bei, ChatGPT zu nutzen und verlangen Sie dann bei der Abgabe der Arbeiten, das prompt engineering (also die Eingabe der verwendeten Fragen an ChatGPT) zu dokumentieren.
+- Lassen Sie sich die ausgegebenen Texte von ChatGPT als Anhang vorlegen und bewerten Sie, inwieweit sinnvoll mit diesen umgegangen wurde.
+- Verändern Sie Ihre Bewertungskriterien, indem Sie den guten Umgang mit ChatGPT zum Bewertungskriterium machen.
+
+### 5.6 Fazit
+
+Zusammenfassend lassen sich folgende wichtige Schritte im Umgang mit ChatGPT und Prüfungen formulieren:
+
+1. Reflektieren Sie zusammen mit anderen Dozierenden, ob Lernziele und Prüfungsformat durch ChatGPT noch gut zusammenpassen.
+2. Falls das nicht der Fall ist, passen Sie die Lernziele, das Prüfungsformat oder aber Ihren Unterricht an, um die Studierenden ideal auf die neuen Anforderungen vorzubereiten.
+3. Seien Sie transparent, ob und inwieweit Studierende ChatGPT nutzen können, um den neuen Prüfungsanforderungen gerecht zu werden.
+4. Wenn sinnvoll, können Sie ChatGPT nutzen, um gute Prüfungsfragen zu kreieren oder ungeeignete Fragen auszuschließen.
+5. Passen Sie Ihre Fragenformate bei E-Klausuren an die neuen technischen Möglichkeiten an, indem Sie andere Fragen stellen als bislang. Weisen Sie im Vorfeld Ihre Studierenden auf die Neuerungen hin.
+6. Entscheiden Sie sich, ob Sie bei zu Hause anzufertigenden Prüfungsleistungen den Einsatz von ChatGPT vermeiden oder zulassen möchten. Reagieren Sie dementsprechend.
+
+Rechtlich gesehen, darf man Studierende nicht zwingen, ChatGPT zu verwenden. Trotzdem können Sie es als Einladung formulieren, es auszuprobieren und den Studierenden in Ihrem Lernformat Gelegenheit dazu geben.
+
+---
+
+# Kapitel 6 Abschließender Überblick zu Entwicklungen bezüglich der Nutzung von LLMs in der Hochschullehre
+
+*Albrecht Schmidt (Lehrstuhl für Informatik) und Jochen Kuhn (Lehrstuhl für Didaktik der Physik)*
+
+LLMs sind mehr als ChatGPT. Große Sprachmodelle stellen einen transformativen Sprung in der künstlichen Intelligenz und im maschinellen Lernen dar – sie sind aber weitaus mehr als nur Gesprächspartner. Im Kern handelt es sich bei diesen Modellen um vielseitige und anpassungsfähige Maschinen zur Verarbeitung natürlicher Sprache, die in der Lage sind, eine breite Palette von Aufgaben auszuführen, die weit über chatbasierte Interaktionen hinausgehen.
+
+## 6.1 Welche Texte sind in den Modellen?
+
+Modelle werden aus einer Vielzahl von vorhandenen Texten erstellt. Die Textmengen sind unvorstellbar groß, dennoch spielt die Auswahl der Texte, welche zum Trainieren eines Modells verwendet werden, eine ganz zentrale Rolle. Diese Texte sind das Weltwissen der Modelle. Modelle nutzen dieses Weltwissen; durch die Auswahl der Texte wird maßgeblich bestimmt, welche Ausgaben ein Modell erzeugt. Hier erwarten wir, dass in der Zukunft mehr darüber gesprochen und reflektiert wird, wer diese Daten auswählt und wie sichergestellt wird, dass damit keine Voreingenommenheit (oft auch als Bias bezeichnet) entsteht. Die politische und gesellschaftliche Macht, die mit dieser Auswahl der Trainingsdaten einhergeht und die Möglichkeit, Kultur und Normen zu beeinflussen, ist aus unserer Sicht wesentlich größer als die Macht der Suchmaschinen, welche den Zugriff zu Informationen filtern.
+
+Ein Trend, der sich abzeichnet, ist, dass Modelle mit eigenen Daten erweitert werden. Dazu werden vortrainierte Modelle mit Daten aus einer bestimmten Branche, einem Unternehmen oder einer Organisation weiter trainiert (*fine-tuning*). Somit sind die Ergebnisse besser auf die spezifischen Bedürfnisse abgestimmt.
+
+## 6.2 Einsatzbereiche von KI-gestützten Tools
+
+### 6.2.1 Iterativ und angeleitet Texte erstellen
+
+Eine der wichtigsten Anwendungen von großen Sprachmodellen ist ihre Fähigkeit, menschenähnliche Texte zu erzeugen. Sie können – wenn richtig verwendet – kohärente Aufsätze, Geschichten, Artikel und sogar Gedichte in einer Vielzahl von Stilen und Tonlagen erstellen.
+
+Darüber hinaus zeichnen sich diese Modelle bei der Textzusammenfassung aus und helfen dabei, lange Dokumente oder Artikel in prägnante, kohärente Zusammenfassungen zu destillieren. Diese Fähigkeit ist besonders wertvoll für die Informationsbeschaffung, da sie es den Benutzer:innen ermöglicht, die wichtigsten Punkte komplexer Texte schnell zu erfassen und fundierte Entscheidungen zu treffen. Im Bereich der Forschung und Wissenschaft kann die Literaturrecherche erleichtert und ein Überblick über umfangreiche Wissensbestände beschleunigt werden.
+
+Um die Aufgabe der Texterzeugung sinnvoll steuern zu können, müssen die Anweisungen (also die *prompts*) alle relevanten Anforderungen enthalten. Für einen mehrseitigen Text oder gar eine Abschlussarbeit ist es unmöglich, die Anweisungen in einem oder zwei Sätzen in einem *prompt* zu formulieren. Wenn *prompts* allgemein gehalten sind, werden natürlich trotzdem Texte erzeugt. Die nicht spezifizierten Aspekte werden vom Modell auf Basis der Wahrscheinlichkeiten ‚geraten‘, was häufig zu nicht sinnvollen Ergebnissen führt. Um alle wichtigen Anforderungen zu spezifizieren, ist eine gängige Vorgehensweise, Texte iterativ zu erstellen. Hier ist zu erwarten, dass Schreibprogramme die Nutzer:innen in Zukunft stärker bei diesem Prozess unterstützen und das Erstellen eines Dokuments eher den Charakter eines Dialogs annimmt. Die Textverarbeitungsprogramme könnten dann zum Beispiel nachfragen, für welche Zielgruppe das Dokument ist, welchen Hintergrund die Leser:innen haben, ob Standpunkt A oder B für den:die Autor:in wichtiger ist.
+
+### 6.2.2 Sprachbarrieren verringern und Barrierefreiheit herstellen
+
+Große Sprachmodelle werden auch für Übersetzungsaufgaben genutzt, da sie über die rein sprachliche Übersetzung hinausgehen, indem sie Kontext und Nuancen berücksichtigen. Sie können Sprachen übersetzen, Sprachbarrieren in der Kommunikation abbauen und die globale Konnektivität fördern. Diese Funktionalität kann für den internationalen Geschäftsverkehr, die Diplomatie und den interkulturellen Austausch genutzt werden. Wir Autoren haben Promovierende in unseren Arbeitsgruppen, die ohne Deutschkenntnisse an die LMU gekommen sind und erfolgreich administrative Prozesse erledigen, in BMBF-Projekten auf Deutsch kommunizieren sowie Berichte erstellen. Dabei sehen wir aktuell eine breite Nutzung dieser Tools. Werden Sprachmodelle für die Kommunikation über Sprachgrenzen hinweg genutzt, ist es aber wichtig zu reflektieren, dass Übersetzungen einen Kontext haben. Das Erlernen einer neuen Sprache ist häufig auch mit Einsicht in die damit verbundene Kultur verbunden. Diese ist im Sprachmodell zwar implizit durch die Trainingstexte gegeben, entspricht aber gegebenenfalls nicht derjenigen der Schreibenden. Sprachmodelle unterstützen auch die Übersetzung von gesprochener Sprache in geschriebenen Text. In Videokonferenzen sind inzwischen Übersetzungen und Untertitel verfügbar, um einerseits die synchrone Kommunikation über Sprachgrenzen hinweg und andererseits Menschen mit Behinderungen zu unterstützen.
+
+#### 6.2.3 Texte analysieren und Antworten finden
+
+Zudem sind Stimmungsanalysen und Meinungsforschung mit LLMs möglich. So können große Mengen an Textdaten aus sozialen Medien, Kundenrezensionen oder Umfragen analysiert werden, um die öffentliche Meinung zu ermitteln und Trends zu erkennen.
+
+Es gibt Ansätze, in denen dem Sprachmodell ein Text (z.B. ein Zeitungsartikel) gegeben wird sowie eine Frage, die sich auf den Text bezieht. Das System erzeugt Antworten und kann diese mit Textausschnitten belegen. Aktuelle Entwicklungen zielen darauf ab, dies in einem größeren Umfang für wissenschaftliche Fragestellungen in ähnlicher Weise zu ermöglichen. So gibt es die Möglichkeit, medizinische Fachliteratur zu analysieren, bei der Diagnose von Krankheiten zu helfen und auf der Grundlage elektronischer Gesundheitsakten die Ergebnisse von Patient:innen vorherzusagen. Hier ist die ausschließliche Nutzung eines Sprachmodells nicht sehr zuverlässig, aber die Kombination aus Sprachmodell und Literaturdatenbanken ist erfolgversprechend. Eine Vorgehensweise kann sein, dass mögliche Lösungen oder Diagnosen automatisiert generiert und mit Literaturdatenbanken verglichen und sodann die wahrscheinlichsten Ergebnisse den Nutzer:innen präsentiert werden. Solche hybriden Ansätze können sowohl Lösungen vorschlagen wie auch Belege für diese Lösungen bereitstellen.
+
+#### 6.2.4 In Lehr- und Lernsysteme integrieren
+
+Lehrende und Lernende nutzen LLMs schon in vielfältiger Weise, wie diese Publikation zeigt. Aktuelle Entwicklungen gehen zu einer noch stärkeren Personalisierung von Lerninhalten. Modelle können bereits jetzt bei richtiger Nutzung als digitale und personalisierte Lernassistenten dienen. Mit neuen Werkzeugen und Lehr- und Lernplattformen ist es absehbar, dass Lerninhalte von Lehrenden generisch aufbereitet werden, aber die Schüler:innen oder Studierenden auf sie individuell angepasste Inhalte und Erklärungen erhalten. Mit solchen Ansätzen können Inhalte auch an Unterrichtsstile angepasst werden. Sprachmodelle unterstützen zudem bei der Reflexion des eigenen Lernens, liefern Erklärungen, die zu den Bedarfen und Präferenzen Einzelner passen, und stellen immer neue, individualisierte Übungsaufgaben in einer Vielzahl von Fächern bereit.
+
+#### 6.2.5 Programmieren und Softwareentwicklung
+
+Neben diesen textbasierten Anwendungen haben große Sprachmodelle ihre Fähigkeiten beim Verstehen und Generieren von Code unter Beweis gestellt. Sie können Entwickler:innen beim Schreiben von Software, bei der Fehlersuche und sogar bei der Erstellung ganzer Programme auf der Grundlage von High-Level-Spezifikationen unterstützen.
+
+Diese Fähigkeit beschleunigt Softwareentwicklungsprozesse. KI kann automatisiert Tests erstellen oder im Dialog bei der Fehlersuche angewendet werden. Die Erwartung ist, dass sich die Anzahl der Codierungsfehler verringert und somit eine höhere Effizienz und Qualität in der Softwareerstellung erreicht wird. Für Studierende vieler Fächer ist Programmieren heute selbstverständlich, um Aufgaben zu lösen. Hier werden Sprachmodelle bereits jetzt vielfältig genutzt und die Integration in Entwicklungsumgebungen schreitet sehr schnell fort.
+
+### 6.3 KI wird integraler Bestandteil von Software
+
+In der sich ständig weiterentwickelnden Technologie ist die Integration von KI in Software keine bloße Neuheit mehr, sondern wird schnell zu einem integralen und untrennbaren Bestandteil der Softwareentwicklung. KI wird zukünftig vermutlich so stark in den Softwareentwicklungsprozess implementiert sein, dass es oft unmöglich sein wird, zu erkennen, ob KI eingesetzt wurde oder nicht. Dieser Wandel wird auch das Wesen der Mensch-Computer-Interaktion verändern. Von den ersten Anwendungen in regelbasierten Systemen bis hin zu heutigen Algorithmen des maschinellen Lernens hat sich KI sukzessive zu einem vielseitigen Toolkit für Softwarefunktionen entwickelt, wie der Verarbeitung natürlicher Sprache, Computer Vision und prädiktiven Analysen.
+
+Wenn KI sehr gut funktioniert, wird es nicht mehr unbedingt wahrgenommen, dass die Systeme KI verwenden. Die Korrektur einzelner Buchstaben auf einer Telefontastatur und die Wortvorschläge und Wortvervollständigung beim Schreiben auf dem Telefon werden von den meisten Nutzer:innen nicht als KI wahrgenommen. Ähnlich werden wir uns daran gewöhnen, dass ein Textverarbeitungsprogramm Sätze grammatikalisch korrigiert, dass Satzfragmente mit einem Klick ausformuliert werden und dass automatisiert Vorschläge für Illustrationen für eine Präsentationsfolie zur Auswahl stehen. Die Grenze zwischen KI-Werkzeug und der regulären Nutzung moderner Software verschwimmt. Wir erwarten in Zukunft, dass sich Software zunehmend an die Nutzer:innen anpasst und diese so unterstützt, wie sie es individuell brauchen. Die Anwender:innen erwarten Software, die ihre Präferenzen versteht, ihre Bedürfnisse vorherseht und sich an veränderte Umstände anpassen kann. KI-gesteuerte Personalisierung, Empfehlungssysteme und Chatbots sind mittlerweile allgegenwärtige Funktionen im Software-Ökosystem. Diese Tendenzen treiben Softwareentwickler:innen dazu, KI als Mittel zur Verbesserung des Nutzungserlebnisses einzusetzen, um auf dem veränderten Markt wettbewerbsfähig zu bleiben.
+
+## 6.4 Demokratisierung von KI-Tools und Transparenz
+
+Einer der Hauptgründe für diesen soeben beschriebenen Wandel ist die Demokratisierung von KI-Tools und -Ressourcen. Was früher ausschließlich großen Technologieunternehmen und Forschungseinrichtungen vorbehalten war, ist nun für ein breiteres Publikum zugänglich geworden.
+
+Open-Source-KI-Frameworks, Cloud-basierte KI-Dienste und vortrainierte KI-Modelle haben die Einstiegshürden für Entwickler:innen gesenkt und machen es ihnen leichter, die Leistungsfähigkeit von KI in ihren Softwareprojekten zu nutzen. Diese Demokratisierung fördert nicht nur die Innovation, sondern ist auch ein Katalysator für eine umfassendere und vielfältige Landschaft von KI-gestützten Softwareanwendungen.
+
+Mit der zunehmenden Integration von KI in den Softwareentwicklungsprozess werden Fragen der Transparenz, der Ethik und der verantwortungsvollen KI-Praktiken immer dringlicher. Die Unsichtbarkeit von KI in Software führt zu Herausforderungen in Bezug auf Verantwortlichkeit, Voreingenommenheit und unbeabsichtigten Folgen. Die Sicherstellung von Transparenz in KI-gesteuerten Entscheidungsprozessen ist unerlässlich, um Vertrauen bei den Nutzer:innen aufzubauen. Gleichzeitig ist es absolut nicht trivial zu kommunizieren, wo und wie KI in einem System genutzt wird, ohne die Anwender:innen zu überfordern. Darüber hinaus müssen ethische Überlegungen zur Fairness von Algorithmen und zum potenziellen Missbrauch von KI sorgfältig berücksichtigt werden. Entwickler:innen müssen diese ethischen Bedenken proaktiv angehen. Zudem braucht es eine gesellschaftliche Diskussion, welche Art der KI-Unterstützung angemessen ist und welche Kontrollmechanismen zur Anwendung kommen sollen.
+
+## 6.5 Notwendigkeit von Bildung und Forschung
+
+In diesem Zusammenhang sind Bildungsangebote mit KI-Einsatz, aber auch über den Themenkomplex künstliche Intelligenz von größter Bedeutung, da sie als Brücke zwischen Potenzial und Risiken dieser Technologie sowie der damit verbundenen verantwortungsvollen Verwendung durch den Einzelnen und die Gesellschaft im Allgemeinen dienen. ChatGPT ist ein leistungsfähiges Werkzeug für das Lernen und den Zugang zu Informationen. Es muss jedoch mit Bedacht eingesetzt werden und die Nutzer:innen müssen über die Möglichkeiten, Grenzen und Risiken aufgeklärt werden. In erster Linie sollte die Aufklärung über ChatGPT ein Verständnis der Fähigkeiten und Grenzen beinhalten. Die Nutzer:innen müssen verstehen, dass ChatGPT ein maschinelles Lernmodell ist, das Antworten auf der Grundlage von Datenmustern generiert, und dass es nicht immer genaue oder kontextgerechte Informationen liefert. Nur wenn die Nutzer:innen diese Erkenntnisse erlangt haben, können sie die Antworten, die das Programm generiert, kritisch bewerten.
+
+Dies fördert die digitale Kompetenz und die Fähigkeit, vertrauenswürdige Informationen von potenziell irreführenden Inhalten zu unterscheiden. Bildung spielt darüber hinaus auch eine entscheidende Rolle bei der Förderung einer ethischen und verantwortungsvollen Nutzung von KI. ChatGPT kann die in den Trainingsdaten vorhandenen Vorurteile aufrechterhalten, was zu voreingenommenen oder diskriminierenden Antworten führt. Um sicherzustellen, dass KI-Systeme einen positiven Beitrag zur Gesellschaft leisten und bestehende Vorurteile nicht verstärken, ist es wichtig, die Nutzer:innen über die Bedeutung von Fairness, Inklusion und die Vermeidung von schädlichen Inhalten aufzuklären. Ethische Überlegungen, die Abschwächung von Vorurteilen und Transparenz bei der KI-Entwicklung sollten in entsprechenden Curricula und der Praxis verankert werden. Kontinuierliche Weiterbildung innerhalb der KI-Gemeinschaft ist unerlässlich, um neue Herausforderungen anzugehen und sicherzustellen, dass KI-Technologien auf einer soliden ethischen Grundlage entwickelt werden. Neben der kontinuierlichen Optimierung der zugrunde liegenden Algorithmen und Architektur ist die Verringerung von Verzerrungen auch ein vorrangiges Anliegen der Forschung zu LLMs. Dabei werden Techniken entwickelt, die diese Verzerrungen verringern, die Fairness erhöhen und sicherstellen sollen, dass die Antworten von Programmen wie ChatGPT mit den gesellschaftlichen Werten übereinstimmen. Diese Forschung ist wichtig, um die ethische Nutzung von KI zu fördern und schädliche Folgen zu verhindern. Außerdem muss Forschung dazu beitragen, die Sicherheit und Robustheit von LLMs zu verbessern. Derzeit werden Mechanismen zur Erkennung und Verhinderung einer böswilligen Nutzung entwickelt, z.B. der Erzeugung schädlicher Inhalte oder Fehlinformationen.
+
+Darüber hinaus sind Transparenz und Erklärbarkeit Bereiche, in denen die Forschung eine zentrale Rolle spielt. Die Entwicklung von Methoden, um KI-Modelle wie ChatGPT besser interpretierbar zu machen, stellt sicher, dass die Nutzer:innen der Technologie vertrauen und ihre Entscheidungsprozesse verstehen können. Diese Transparenz ist für das Vertrauen der Nutzer:innen und die ethische Akzeptanz von KI unerlässlich. Nur so können das volle Potenzial dieser transformativen Technologie ausgeschöpft, gleichzeitig damit verbundene Herausforderungen bewältigt und Risiken minimiert werden. Ein sehr wichtiger Forschungsbereich betrifft die ethische Nutzung von ChatGPT.
+
+Mit Blick auf den Bildungskontext selbst kann ChatGPT, wie diese Handreichung zeigt, ein Assistenzsystem für Lehrende und Lernende sein. Es kann Erklärungen liefern, bei der Recherche helfen oder Übungsaufgaben anbieten. Für eine wirksame Integration in den Unterricht müssen Lehrende jedoch darin geschult werden, KI-Tools wie ChatGPT in den Lehrplan einzubinden und sicherzustellen, dass sie als Ergänzung und nicht als Ersatz, für bisher etablierte Lehrmethoden oder gar für die Dozierenden selbst, eingesetzt werden.
+
+### 6.6 LLMs sind nur ein Teil von KI
+
+Die Entwicklung von LLMs ist nur ein Teilbereich von künstlicher Intelligenz. In weiteren Bereichen generativer KI sehen wir ähnlich große Fortschritte bei der Erzeugung von Bildern oder der Generierung von Musik. Inzwischen sind Produkte erhältlich, die ganze Videoaufzeichnungen in realistischer Darstellung automatisiert erzeugen.
+
+Die Diskussion darüber, was der Mensch macht und welche Arbeit (repetitiv, kreativ, kognitiv, ...) ihm die KI abnimmt, hat erst begonnen und wird uns die nächsten Jahre begleiten.
+
+---
+
+# Danksagung
+
+Wir möchten allen danken, die zur Erstellung dieser Handreichung beigetragen haben:
+
+Albrecht Schmidt
+Barbara Beege
+Despina Marantidou
+Elena Wilkowski
+Felix Bokelmann
+Jana Antosch-Bardohn
+Jochen Kuhn
+Katja Meroth
+Lara Wüster
+Linda Jessen
+Mariella Djabarian
+Markus Frank
+Oliver Jahraus
+Sabrina Sontheimer
+Sonya Yi
+Susanne Frölich-Steffen
+Tabea Hawkins
+
+C-Töne
+
+Andreas Brachmann
+Marina Pfeifer
+Markus Frank
+Marko Sarstedt
+Thomas Nägele
+Nina-Alisa Kollakowski
+Phillip Brader
+Sven Strickroth
+
+---
+
+# Impressum
+
+**Herausgegeben** von PROFiL und dem Schreibzentrum der Ludwig-Maximilians-Universität München
+
+**Layout** von Lara Wüster (PROFiL)
+
+# Zitationshinweis:
+
+PROFiL & Schreibzentrum der LMU (Hrsg.), 2024. “Frag doch ChatGPT? Eine praxisorientierte Handreichung für den gekonnten Umgang mit KI-Sprachmodellen in der Hochschulbildung.” München: Ludwig-Maximilians-Universität München.
+
+---
+
+# FOOTNOTES
+
+[51] Vgl. Salden und Leschke 2023; Rechenzentrum der Universität Würzburg 2023.
+
+[52] Vgl. Fleischmann 2023.
+
+[53] Vgl. Frölich-Steffen, den Ouden und Gießmann 2019.
+
+[54] Vgl. Biggs und Tang 2011.
+
+[55] Als E-Klausuren werden Klausuren bezeichnet, bei denen Studierende entweder an der Universität in einem Raum sitzen und mithilfe von elektronischen Tools geprüft werden, oder wenn Studierende zu Hause ohne Fernüberwachung ihre Prüfungen schreiben.
+
+[56] Vgl. Gimpel et al. 2023, 33 ff.
+
+[57] Vgl. Fleischmann 2023, 7 ff.
+
+[58] Vgl. Salden und Leschke 2023, 16 ff.

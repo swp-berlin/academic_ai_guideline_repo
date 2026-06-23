@@ -1,0 +1,360 @@
+# Hochschule Zittau/Görlitz
+# Source: https://zfe.hszg.de/e-learning-tutorial/ki-in-der-hochschullehre
+# Date: None
+# Category: guideline
+
+KI in der Hochschullehre
+
+KI-Richtlinie der HSZG
+Die folgende Übersicht zu den KI-Anwendungen hat reinen informativen Charakter! Bitte beachten Sie das Rundschreiben 2025/10 vom 01.09.2025 und den darin enthaltenen Hinweis zur "KI-Richtlinie" der HSZG.
+
+Mit der Verfügbarkeit von ChatGPT im November 2022 ist das Thema KI in der Allgemeinheit angekommen und inzwischen Teil der wissenschaftlichen, beruflichen und gesellschaftlichen Praxis. Bei ChatGPT handelt es sich um einen Assistenten, der auf der Basis eines zugrundeliegenden Sprachmodells Fragen und Anfragen beantworten und Informationen bereitstellen kann.
+
+Hinweise zur Nutzung von KI-Anwendungen
+Bitte beachten Sie, dass bei der Nutzung von KI-Anwendungen personenbezogene Daten wie z.B. Namen, E-Mail-Adressen, IP-Adressen durch die KI-Anbieter verarbeitet werden können. Auch von Ihnen in KI-Anwendungen eingegebene Informationen können von KI-Anbietern ausgewertet bzw. zum Training der KI verwendet werden.
+
+Was ist KI?
+Einsatz von KI
+Grenzen von KI
+KI in der Lehre
+Reasoning
+KI & Didaktik
+KI-Verordnung
+KI-Kompetenzen
+KI-Agenten
+KI-Tools
+Lokale KI-Anwendungen
+Fortbildungsangebote
+
+ChatGPT steht für „Generative Pre-trained Transformer“ und ist ein KI-Sprachmodell, das ähnlich wie ein neuronales Netzwerk funktioniert und auf die Generierung von Texten trainiert wurde. Es handelt sich um einen textbasierten Chatbot, der mit Menschen interagieren kann und darauf trainiert ist, möglichst natürliche Sprache zu produzieren. Anhand statistischer Wahrscheinlichkeiten wird das Auftreten von Wörtern in bestimmten Kontexten berechnet. Mittels sog. "Prompts" (konkrete Fragen bzw. Fragestellungen an die KI), werden von ChatGPT Antworten generiert. Über den Chat-Verlauf kann jederzeit auf den konkreten Kontext Bezug genommen werden.
+
+Was ist ChatGPT und wie funktioniert es? – Und welche ähnlichen Tools gibt es?
+Allgemeiner Einstieg in das Thema: Vortrag von Fr. Prof. Weßels (FH Kiel) im Rahmen der dghd-Reihe "KI in der Hochschullehre" (Youtube-Video)
+
+ChatGPT für Nicht-Informatiker*innen
+Technischer Einstieg in das Thema: Vortrag von Hrn. Dr. Arnold (TU Darmstadt) im Rahmen der dghd-Reihe "KI in der Hochschullehre" (Youtube-Video)
+
+Wozu sind wir hier? Eine wertebasierte Reflexion und Diskussion zu #ChatGPT in #Forschung und #Lehre
+Ethischer Einstieg in das Thema: Vortrag von Fr. Prof. Reinmann (Universität Hamburg) im Rahmen der dghd-Reihe "KI in der Hochschullehre" (Youtube-Video)
+
+Potenziale und Anwendungsmöglichkeiten von KI-Generatoren in Hochschullehre
+Praktischer & Didaktischer Einstieg in das Thema: Vortrag von Hrn. Prof. Spannagel (PH Heidelberg) im Rahmen der Reihe "KI-Generatoren in der Hochschullehre"
+
+Haftungs- und urheberrechtliche Herausforderungen bei der Verwendung von KI-Generatoren
+Rechtlicher Einstieg in das Thema: Vortrag von Fr. Dr. Horn (ELAN/SOUVER@N) im Rahmen der Reihe "KI-Generatoren in der Hochschullehre"
+
+Examen mit oder trotz ChatGPT? Ideen für einen rechtssicheren Prüfungskulturwandel
+Prüfungsrechtlicher Einstieg in das Thema: Vortrag von Hrn. Prof. Heckmann (TU München) im Rahmen der Reihe "KI-Generatoren in der Hochschullehre"
+
+Übersicht zu ChatGPT im Kontext Hochschullehre (PDF / Universität Hamburg)
+
+KI wie ChatGPT kann von Lehrenden wie Studierenden für Lehre und Studium genutzt werden:
+
+Ideensammlung:
+"Gib mir 5 Ideen für ein studentisches Projekt im Bereich XYZ."
+
+Vorschläge für Aufgaben / Wissensabfragen:
+"Formuliere drei Aufgaben zu dem folgenden Text."
+
+Individualisiertes Feedback:
+"Ich habe einen Python-Code geschrieben für XYZ, leider funktioniert der Code aber nicht. Wo ist der Fehler?"
+
+Entwürfe für Feedback:
+"Beurteile die Korrektheit und Vollständigkeit der Antwort (Antwort muss zuerst eingegeben werden) auf die folgende Klausurfrage."
+"Bewerte den Text und achte dabei insbesondere auf..."
+
+E-Assessment-Aufgaben erstellen:
+"Ich benötige eine Multiple-Choice-Aufgabe zum Thema XYZ. Gib mir 5 Fragen mit jeweils 4 Antworten, von denen jeweils nur eine richtig ist."
+
+Prüfungsfragen erstellen:
+"Generiere mir 5 Prüfungsaufgaben zu folgendem Text: [URL einfügen]."
+
+Übungsaufgaben generieren:
+"Die Studierenden meiner Lehrveranstaltung XYZ sollen sich mit dem Thema XYZ auseinandersetzen. Schlage mir drei Aufgaben für Studierende mit unterschiedlichem Schwierigkeitsgrad vor (leicht, mittel, schwierig)."
+
+Lösungen erklären lassen:
+"Bitte erkläre mir die folgende Gleichung a^2+b^2=c^2."
+
+Gliederungen:
+"Wie könnte eine Gliederung zu einer Präsentation zum Thema xy aussehen?"
+
+Texte zusammenfassen und vereinfachen:
+"Was sind die Kernaussagen des folgenden Textes?"
+oder
+"Schreibe eine Zusammenfassung von Goethes Faust mit max. 1000 Zeichen."
+
+Quellen zusammenfassen (Webseiten):
+"Fasse den folgenden Text in 5 Sätzen zusammen: [URL einfügen]."
+
+Python oder HTML schreiben:
+"Erstelle ein Grundgerüst für eine Standard HTML-Seite"
+oder
+"Schreibe den HTML-Quellcode für eine Webseite im 2-spaltigen Design."
+
+Modul-/Veranstaltungsbeschreibungen verfassen:
+"Formuliere mir eine Modulbeschreibung zur Vorlesung XYZ."
+
+Eingaben ("Prompts")
+Dokumentation für Prompts in KI-Anwendungen wie ChatGPT (in englischer Sprache):
+Alan D. Thompson: The ChatGPT Prompt Book
+
+Beispiele für den Einsatz von ChatGPT von Andrew Herft (deutsche Übersetzung von Alexander König):
+"A Teacher's Prompt Guide to ChatGPT" (EN) / "Leitfaden für Lehrkräfte zur Nutzung von ChatGPT" (DE)
+
+"Offener Prompt-Katalog" des KI-Campus (Hochschulforum Digitalisierung)
+
+KI-Anwendungen wie ChatGPT verwendet z.T. veraltete oder nicht-wissenschaftliche Quellen, was zu unvollständigen oder fehlerhaften Antworten führen kann. Es besteht auch die Möglichkeit, dass relevante wissenschaftliche Studien, die nicht frei zugänglich sind, nicht berücksichtigt werden.
+
+KI-Anwendungen wie ChatGPT können Fehlinformationen generieren, insbesondere in Bezug auf wissenschaftliche Konzepte. Dies kann zu Fehlvorstellungen bei Studierenden führen, z.B. wenn es um inhaltliche Feinheiten oder komplexe Zusammenhänge geht.
+
+Es ist unklar, ob KI-Anwendungen wie ChatGPT möglicherweise Urheberrechte verletzt, wenn es auf geschützte Materialien zugreift und diese in seinen Ausgaben verwendet. Zur Vertiefung:
+Rechtsgutachten zu ChatGPT & Co.
+
+Rechtliche Fragen & Kennzeichnungspflichten
+Urheberschaft an KI-generierten Texten:
+KI-gestützte Programme sind keine Autoren/Urheber der von ihnen erzeugten Texte im Sinne des Urheberrechtsschutzgesetzes (UrhG). Verwenden Nutzer KI-Tools als Hilfsmittel für ihre eigene gestalterische Tätigkeit, dann können diese die Urheberschaft an den erzeugten Texten beanspruchen (ein signifikanter Anteil an geistiger Eigenleistung vorausgesetzt).
+
+Kennzeichnungspflichten im akademischen Kontext:
+Abhängig von den jeweils geltenden Prüfungsordnungen bzw. Nutzungsbedingungen einer Software kann sich eine Kennzeichnungspflicht für KI-generierte Inhalte im akademischen Kontext ergeben (ein Beispiel für eine Erklärung findet sich beim Hochschulforum Digitalisierung).
+
+Gute wissenschaftliche Praxis/Täuschungsversuche:
+Die gekennzeichnete Übernahme von KI-generierten Inhalten stellt in der Regel keinen formalen Verstoß gegen die Regeln guter wissenschaftlicher Praxis dar. Bei der Verwendung ungekennzeichneter Inhalte kommt es darauf an, wie der generelle Umgang mit Hilfsmitteln und Quellen geregelt ist (z.B. ob eine ungekennzeichnete Übernahme als Verstoß bzw. Täuschungsversuch zu werten ist). Alternativ kann die Verwendung von KI-Werkzeugen auch erlaubt sein (z.B. über Eigenständigkeitserklärungen), in diesem Fall ist nicht von einem wissenschaftlichen Fehlverhalten auszugehen.
+
+Einsatz von KI-Tools durch Lehrende:
+1) Prüfungsrecht: Bei einer Bewertung können KI-Tools nur als Hilfsmittel verwendet werden, da eine Bewertung durch den Prüfer selbst und nicht durch eine Software zu erfolgen hat.
+2) Urheberrecht: Prüfungsleistungen sind urheberrechtlich geschützt. Eine Eingabe in eine KI-Anwendung ist mindestens dann nicht zulässig, wenn die KI die eingegebenen Daten zu Trainingszwecken weiterverwendet oder anderweitig nutzt.
+
+Quelle: Weitere Hinweise können dem Rechtsgutachten zu ChatGPT & Co „Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung“ entnommen werden.
+
+Ziel beim Einsatz von KI-Anwendungen wie ChatGPT in Lehre und Studium sollte ein offenes Thematisieren von KI-Tools für das Lehren und Lernen sein. Ziel ist eine verantwortungsvolle und gewinnbringende Verwendung und das Aufzeigen von Möglichkeiten und Grenzen KI-generierter Inhalte. Studierenden sollten sich über folgende Aspekte im Klaren sein:
+
+- Funktionsweise von KI-Anwendungen wie ChatGPT: Die Studierenden sollten verstehen, wie KI funktioniert, woher die Daten stammen und sich der Möglichkeiten und Grenzen bewusst sein. Zum Beispiel, dass KI-Anwendungen wie ChatGPT keine (verlässlichen) Quellen angeben kann.
+- Verwendung von KI-Anwendungen wie ChatGPT in Einklang mit akademischen Werten und Normen: Es ist ratsam, mit den Studierenden über wissenschaftliche Standards wie Objektivität und Quellenangaben im Zusammenhang mit ChatGPT zu sprechen.
+- Datenqualität: Studierenden muss verdeutlicht werden, dass von einer KI generierte Informationen nicht ohne Prüfung übernommen werden dürfen. Fragen der Vertrauenswürdigkeit und Datenqualität sind zu thematisieren.
+- Datenschutz: Die Studierenden sollten verstehen, wie ihre Daten bei der Nutzung von ChatGPT gesammelt, gespeichert und verwendet werden.
+- KI als Lehr-Lerninstrument (KI als Assistent/Lernbegleiter): KI-Anwendungen wie ChatGPT können auch als Lern- und Lehrmethode in Lehrveranstaltungen integriert werden. Die Studierenden erarbeiten sich das Wissen anhand von KI-Technologien und werden vom Lehrenden im Prozess des Problemlösens unterstützt und fachlich begleitet.
+- Leistungsüberprüfungen: Die klassische Textproduktion als Leistungsnachweis (z.B. in Form von Belegarbeiten, Hausarbeiten) ist aufgrund der KI-Funktionalitäten zukünftig weniger geeignet. Die Erkennung von KI-generierten Texten erweist sich in der Praxis als schwierig. Der Fokus sollte daher in Zukunft auf formativen und lernbegleitenden Leistungsnachweisen liegen, die nicht das fertige Endprodukt, sondern den Prozess dorthin zum Ziel haben.
+- Regeln zum Umgang mit KI für das Ablegen der Prüfungsleistung: Lehrende sollten zu Beginn der Lehrveranstaltung transparent darlegen, inwieweit Studierende KI in der Lehrveranstaltung und ggf. in der Prüfungsleistung einsetzen dürfen.
+
+Einsatzmöglichkeiten für Lehrende
+Anregungen für die Gestaltung der eigenen Lehre
+
+- Vorschläge für die Erstellung von Quiz-Fragen (Audience-Response)
+- Ideen für die Erstellung von Argumenten für eine Pro-Contra-Diskussion
+- Impulse für Rollenspielszenarien auf der Basis vorgegebener Texte
+- Erstellung individualisierten Materials
+- Vorschläge für Aufgabenstellungen für Studierende, je nach Leistungsniveau und Interessen
+- Beantworten von Fragestellungen durch ChatGPT, die danach an Studierende gestellt werden
+- Codegenerierung bzw. Prüfen von selbsterstellten Code
+- Erstellung von Aufgaben (z.B. Multiple Choice) mit unterschiedlichen Schwierigkeitsgraden
+- Nutzung bestehender Inhalte für neue Material-Formate
+- Skripte für Podcasts oder Erklärvideos für Studierende
+- Fälle oder Beispiele zur Nutzung in Vorlesungen/Seminaren
+- Formulieren von Fragestellung anhand vorhandener Texte
+- Erstellen von Zusammenfassungen eigener Texte, z.B. um zu prüfen, ob die Kernaussagen erkennbar sind
+- Optimieren von Instruktionen, Übersichten etc.
+- Formulierung von Lehr-Lernzielen
+- Anleitungen für die Bearbeitung von Aufgaben
+- Prüfen der Verständlichkeit von Aufgabenstellungen
+- Erstellen standardisierter Texte
+- Veranstaltungsbeschreibungen zur Orientierung für Studierende
+- Nachrichten an Studierende (z.B. Erinnerung an Abgabetermine, Begrüßung zur Veranstaltung)
+- Anleitungen zum Verfassen schriftlicher Arbeiten
+- Bedienungsanleitungen bzgl. verwendeter digitaler Tools
+- Bewertung von Prüfungsfragen
+- Prüfung der Formulierung von Prüfungsfragen hinsichtlich Verständlichkeit und Ergebnis
+- Generieren von Testfragen zu einem Thema
+- Diskussion über Ergebnisse aus KI
+- Ergebnisse durch die KI generieren und von Studierenden bewerten und einordnen lassen (z.B. auch in Prüfungen)
+- Förderung kritischen Denkens durch kritisches Hinterfragen von KI-Ergebnissen
+
+Quelle: Übersicht zu ChatGPT im Kontext HochschulLehre (Universität Hamburg)
+
+Einsatzmöglichkeiten für Studierende
+
+- Unterstützung im Schreibprozess
+  - Schreibblockaden lösen
+  - Literatur/Quellen durchforsten
+  - eigene Texte zusammenfassen (z.B. sind die Kernaussagen enthalten?)
+  - Kritisches Hinterfragen von Texten (Argumentationsstruktur analysieren)
+  - "Critical Friend" - den eigenen Text mit von ChatGPT definierten Bewertungskriterien beurteilen lassen
+  - Verbessern der Textqualität (Grammatik, Ausdruck)
+- Ideen generieren
+  - Inspirationen einholen (z.B. Fragestellungen für ein Thema ausgeben lassen)
+  - Generieren von Code (als Grundlage für die Weiterentwicklung)
+- Auseinandersetzung mit dem Lernstoff
+  - Kritisches Hinterfragen von Fragestellungen / Texten
+  - Individualisiertes Feedback
+  - Unterstützung beim Lernen
+  - Eigene Texte und KI generierte Inhalte vergleichen
+  - Finden von Fehlern in eigenen Texten
+  - Gemeinsames Diskutieren über Texte
+  - Lösungen erklären lassen (z.B. Mathematikaufgaben)
+  - Individualisierte Lernmaterialien erstellen (z.B. eigene Lernpfade)
+- Wissenschaftliches Arbeiten / Recherchen
+  - Erstellen / Zusammenstellen von Suchbegriffe für die Recherche
+  - Erstellen von Zusammenfassungen von Texten
+
+Weitere Hinweise zur Verwendung von KI im Rahmen der Literaturrecherche finden Sie auf den Seiten der Hochschulbibliothek: "Literaturrecherche mit KI".
+
+KI & Wissenschaftliches Arbeiten - Hinweise zum Umgang mit auf KI-Tools beim Verfassen wissenschaftlicher Arbeiten
+Die neue Generation von Sprachmodellen richtet sich gezielt an die Bearbeitung komplexer Aufgaben. Dafür werden von der KI Schritt für Schritt Lösungsstrategien erarbeitet. Sollte das Modell dabei nicht weiterkommen, d.h. in eine “Sackgasse” geraten, kehrt es zur Ausgangsfrage zurück und bearbeitet die Aufgabe erneut. Mit diesem sog. "Reasoning" sollen Aufgaben noch genauer gelöst werden können.
+
+Im Gegensatz zu dem bisherigen Ansatz, nach Eingabe eines Prompts das Ergebnis auszugeben (Frage-Antwort-Dialog), wird beim Reasoning-Ansatz ein Lösungsweg formuliert und Schritt für Schritt abgearbeitet (Grundlage: Reinforcement Learning).
+
+Reasoning-Modelle (Stand Mai 2025):
+- Ai2 OLMo 2 (USA)
+- Google Gemini (USA)
+- OpenAI ChatGPT o3 (USA)
+- Perplexity (USA)
+- DeepSeek R1 (China)
+- Qwen3 (China)
+
+Die Arbeitsgruppe Digitale Medien und Hochschuldidaktik der Deutschen Gesellschaft für Hochschuldidaktik (dghd) hat in Kooperation mit der Gesellschaft für Medien in der Wissenschaft (GMW) eine "Didaktische Handreichung zur praktischen Nutzung von KI in der Lehre" erarbeitet. Das Dokument wird fortlaufend ergänzt.
+
+Folgende Themen werden aktuell behandelt:
+- Kompetenzen von Lehrenden und Studierenden für den Einsatz von KI
+- Einsatz generativer KI in der Lehre inkl. Use Cases und Beispiele
+- Einfluss der Verwendung generativer KI auf Prüfungsformate
+
+Im Jahr 2024 hat die Europäische Union eine Verordnung zum Thema KI erlassen. Darin wird u.a. der Umgang mit KI und deren Nutzung geregelt. Auch für den KI-Einsatz an Hochschulen ergibt sich daraus Handlungsbedarf.
+
+KI-Verordnung
+Empfehlungen der ZKI e.V. (Zentren für Kommunikation und Informationsverarbeitung in Lehre und Forschung):
+- Handlungsempfehlungen (PDF)
+- Merkblatt für Nutzer (PDF)
+
+Rechtsgutachten (Ruhr-Universität Bochum): „Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung“
+
+Weitere Informationen:
+- BSI-Broschüre zum Thema KI
+- Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
+- Forschung und Lehre
+- KI-Campus
+
+Hinweis: Pflichtschulung
+In OPAL steht der Selbstlernkurs „AI Act: Einführung und Sensibilisierung für Hochschulmitarbeiter“ zur Verfügung. Bitte beachten Sie die im Rundschreiben 2025/05 (07.04.2025) hinterlegten Informationen zur Pflichtschulung für Mitarbeiter der HSZG.
+
+WICHTIG: Zum Erwerb des Zertifikats müssen Sie sich mit Ihrem HSZG-Login in OPAL anmelden und die Tests bearbeiten!
+
+Neben den rechtlichen Rahmenbedingungen sieht die KI-Verordnung auch grundlegenden KI-Kompetenzen als zentrale Voraussetzung für den Einsatz von KI. Hochschulen haben damit einen klaren Auftrag, Lehrende und aber auch Studierende für einen rechtskonformen, didaktisch sinnvollen und reflektierten Einsatz von KI zu qualifizieren.
+
+KI-Kompetenzen (AI Literacy) werden als Fähigkeit verstanden, Chancen und Risiken von KI zu erkennen, KI sachkundig zu nutzen und fundierte Entscheidungen unter Beachtung rechtlicher Rahmenbedingungen zu treffen.
+
+Technologische Basiskompetenzen
+Technologische Kompetenzen bilden die Grundlage, um Funktionsweisen, Potenziale und Risiken von KI-Systemen einordnen und praktisch nutzen zu können. Dazu gehören:
+- Wissen über alltägliche KI-Anwendungen, zentrale Begriffe und Funktionsweisen generativer KI (etwa Training, Sprachmodell, Prompt, Token) sowie ein Verständnis der Unterschiede zwischen menschlichem Verstehen und KI-Systemen.
+- Handlungsbezogen sollen Teilnehmer geeignete KI-Tools für spezifische Einsatzszenarien auswählen, grundlegende Prompting-Strategien anwenden und KI-Outputs kritisch auf Plausibilität und typische Fehlerphänomene wie Halluzinationen oder fehlenden Kontext prüfen können.
+
+Rechtliche Kompetenzen
+Der rechtliche Kompetenzbereich umfasst sowohl KI-spezifische Regelungen (insbesondere den EU AI Act / KI-Verordnung) als auch allgemeine Rechtsgrundlagen wie Urheberrecht, Datenschutz, Datensicherheit und institutionelle Vorgaben. Teilnehmer sollen diese Grundlagen benennen, ihre Bedeutung für den praktischen KI-Einsatz erläutern und die für die eigene Hochschule geltenden Regeln (z.B. erlaubte Tools, Kennzeichnungspflichten, Prüfungsrecht) kennen. Ziel ist, dass sie daraus konkrete Konsequenzen für ihr eigenes Handeln ableiten können, etwa welche Tools sie nutzen dürfen und wie KI-Einsatz transparent gemacht werden muss.
+
+Ethische Kompetenzen
+Ethische Kompetenzen fokussieren eine verantwortungsvolle, selbstbestimmte und reflektierte Nutzung von KI, die technische, soziale und gesellschaftliche Dimensionen einbezieht. Dazu gehört das Bewusstsein für eigene Verantwortung, das Benennen relevanter ethischer Dimensionen (z.B. Fairness, Verantwortung, gute wissenschaftliche Praxis) sowie die Sensibilisierung für Ressourcenverbrauch und Nachhaltigkeit. Teilnehmer sollen verstehen, dass KI-Outputs von Stereotypen in Trainingsdaten und Entwicklungsentscheidungen geprägt sein können und soziale Auswirkungen wie Veränderungen von Berufsbildern, Up-/Deskilling oder neue Abhängigkeiten von Technologiekonzernen benennen können.
+
+Detaillierte Informationen: „Die KI-Verordnung der EU als Impuls für die Entwicklung von AI Literacy an Hochschulen“ der Deutschen Gesellschaft für Hochschuldidaktik (DGHD).
+
+KI-Agenten sind Systeme oder Programme, die in der Lage sind, konkrete Handlungen auszuführen oder sogar eigenständig Entscheidungen zu treffen. Dazu zählen u.a. das Ausführen von Befehlen, das Lesen und Schreiben von Dateien oder das Beantworten von E-Mails. Der Nutzer erteilt dem KI-Agenten Berechtigungen, so dass das System autonom oder semiautonom agieren kann und die Aufgaben mit weniger direkter menschlicher Steuerung die Aufgaben erfüllt. Ein klassisches Beispiel ist ein KI-Agent, der per Sprachverarbeitung mit Menschen chatten kann, ihre Anweisungen versteht und entsprechend handelt, z.B. Terminplanung, das Suchen von Informationen oder das Führen von Gesprächen.
+
+Aktuelle KI-Agenten sind z.B. OpenClaw oder Moltbook.
+
+Der Einsatz von KI-Agenten ist jedoch nicht ohne Risiko, so sind sie z.B. anfällig für Prompt Injections, d.h. den Versuch, KI-Modelle durch kreative oder manipulative Eingabe-Prompts zu beeinflussen.
+
+KI-Tools für Lehre und Lernen
+
+Texte
+- Elicit | Literaturrecherche
+- Consensus | Literaturrecherche
+- Litmaps | Literaturrecherche
+- Perplexity | Literaturrecherche
+- Explainpaper | Textverständnis
+- SciSpace | Textverständnis
+- Aomni | Textverständnis
+- Afforai | Textverständnis
+- Jenni | Textproduktion
+- YouChat | Textproduktion
+- Neuroflash | Textproduktion
+- Alpa | Textproduktion
+- WriteSonic | Textproduktion
+- DeepL Write | Textoptimierung
+- DeepL | Textübersetzung
+
+Medien
+- Dall-E-2 | Bilderzeugung
+- Midjourney | Bilderzeugung
+- Leonardo.AI | Bilderzeugung
+- Firefly | Bilderzeugung
+- HeyGen | Videoerzeugung
+- Fliki | Videoerzeugung
+- Synthesia | Videoerzeugung
+- Kaiber | Animationen
+- Arena.AI | KI-Vergleich
+- AI Collection | Sammlung von KI-Tools
+
+Bing mit ChatGPT
+Microsoft hat ChatGPT in seine Suchmaschine "Bing" integriert. Die Funktion kann unter Verwendung des Edge-Browsers genutzt werden.
+
+ChatGPT
+ChatGPT ausprobieren: ChatGPT kann in einer freien Version getestet werden (Pro-Version gegen Bezahlung). Voraussetzung ist eine Registrierung.
+
+OpenAI
+Neben ChatGPT bietet OpenAI weitere KI-Werkzeuge bzw. Produkte an, z.B. auch Tools zur Bilderzeugung oder 3D-Modellierung.
+
+Claude
+Sprachmodell von Anthropic u.a. für Mathematik, Programmiercode und die Verarbeitung umfangreicher Texte.
+
+Gemini
+Sprachmodell von Google ähnlich zu ChatGPT u.a. zur Produktion von Texten. Die Nutzung ist nach Anmeldung mit einem Google-Konto möglich.
+
+Consensus
+Consensus ist eine auf ChatGPT basierende KI zur Suche und Analyse wissenschaftlicher Studien und Forschungsergebnisse.
+
+HAWKI.HSZG
+Die HAWKI-Schnittstelle ermöglicht Studierenden und Lehrenden der HSZG eine einfache technische Möglichkeit, auf generative KI-Systeme zuzugreifen, ohne sich selbst bei Anbietern registrieren zu müssen. Das HSZG-Login genügt, um u.a. ChatGPT nutzen zu können. Somit können alle Mitglieder der HSZG generative KI testen und ihre KI-Kompetenzen erweitern. Weitere Informationen, u.a. zu den Nutzungsvoraussetzungen, finden Sie unter „Details zur HAWKI-Schnittstelle“.
+
+Zugang zu HAWKI: https://hawki.hszg.de
+
+HAWKI via KI-Campus
+Über die Plattform des KI-Campus ist eine datenschutzkonforme Nutzung u.a. von ChatGPT möglich. Erforderlich ist eine Registrierung mit einer E-Mail-Adresse.
+
+Die Eingaben (Prompts) an die HAWKI-Schnittstelle werden über eine API (Application Programming Interface) an OpenAI übermittelt, wodurch keine direkte Zuordnung zu einzelnen Nutzern möglich ist. Die Chatinhalte werden auch nicht als Trainingsdaten für das Large Language Model (LLM) verwendet.
+
+Hinweis: Es ist auch möglich, den HAWKI-Zugang an der HSZG zu nutzen.
+
+Zugang: chat.ki-campus.org
+
+"Academic Cloud"
+Alternativ zu den kommerziellen Anbietern kann auf freie Sprachmodelle über das Portal der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG-LLM-Service) zugegriffen werden ("Academic Cloud"). Zur Verfügung stehen u.a. "Meta LLaMA", "DeepSeek".
+
+Inzwischen gibt es die Möglichkeit, auch lokale KI-Anwendungen (LLMs, Large Language Models) zu nutzen. Dafür wird ein Programm mit einem KI-Modell lokal auf einem PC ausgeführt. Alle eingegebenen Daten verbleiben auf dem lokalen PC, ein Vorteil in Bezug auf den Datenschutz.
+
+Hinweis: Für die Ausführung lokaler KI-Anwendungen ist eine aktuelle und leistungsstarke Prozessor-Hardware (idealerweise ein Prozessor mit einer NPU) und eine dedizierte Grafikkarte erforderlich. Je mehr Arbeitsspeicher die Grafikkarte (VRAM) verfügt, desto leistungsstärkere KI-Modelle können ausgeführt werden (selbst für kleinere KI-Modelle sind mind. 10GB VRAM erforderlich, Grundsatz: je mehr VRAM, desto besser).
+
+- LM-Studio: https://lmstudio.ai/
+- AnythingLLM (Desktop): https://anythingllm.com/
+- GPT4All: https://www.nomic.ai/gpt4all/
+- Msty: https://msty.app/
+- Pinokio: https://pinokio.co/
+
+Übersicht zu den aktuellen KI-Modellen, die auch lokal ausgeführt werden können: https://huggingface.co
+
+Aktuelle Fortbildungsangebote zum Thema KI
+
+KI-Campus
+Der KI-Campus stellt eine Vielzahl von Selbstlerneinheiten zum Thema KI zur Verfügung. Die Angebote sind kostenlos nutzbar (Stand Mai 2023). Eine Registrierung via E-Mail genügt, um auf die Online-Module zugreifen zu können.
+
+Tipp: Das Lernangebot „Sprachassistenzen als Chance für die Hochschullehre“ gibt einen Einstieg in das Thema ChatGPT.
+
+Hochschuldidaktik Sachsen
+Die Hochschuldidaktik Sachsen bietet in ihrem Portfolio ein reichhaltiges Kursprogramm zum Thema „KI in der Hochschullehre“.
+
+weiterführende Links
+- Tipp: Hinweise der Hochschulbibliothek - "Literaturrecherche mit KI"
+- Linksammlung des Hochschulforums Digitalisierung "ChatGPT im Hochschulkontext": https://hochschulforumdigitalisierung.de/de/blog/chatgpt-im-hochschulkontext-%E2%80%93-eine-kommentierte-linksammlung
+- dghd-Themenreihe KI in der Hochschullehre: www.dghd.de/praxis/veranstaltungskalender/dghd-themenreihe-ki-in-der-hochschullehre/
+- Dossier Generative KI (Hochschulforum Digitalisierung): https://hochschulforumdigitalisierung.de/de/dossiers/generative-ki
+- Fakten, Fakes und Fiktion. Die wahre Herausforderung nach Corona (Prof. Dr. Weßels | FH Kiel): https://hochschulforumdigitalisierung.de/de/blog/fakten-fakes-und-fiktion-die-wahre-herausforderung-nach-corona
+- ChatGPT: five priorities for research (Eva A. M. van Dis, Johan Bollen, Willem Zuidema, Robert van Rooij & Claudi L. Bockting): https://www.nature.com/articles/d41586-023-00288-7
+- ChatGPT News, Ratgeber und Tipps bei heise online: https://www.heise.de/thema/ChatGPT
+- Rechtsgutachten zu ChatGPT & Co: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung
+- Stellungnahme des Deutschen Ethikrates zum Thema Künstliche Intelligenz (PDF): "Mensch und Maschine – Herausforderungen durch Künstliche Intelligenz"
