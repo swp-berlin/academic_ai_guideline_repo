@@ -1,0 +1,816 @@
+    
+
+<!DOCTYPE html>
+<html lang="en" class="nojs">
+<head>    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="AlgorithmWatch">
+    <meta property="og:title" content="AlgorithmWatch&#8217;s guidelines to use generative AI responsibly - AlgorithmWatch">
+    <meta property="og:url" content="https://algorithmwatch.org/en/generative-ai-guideline/">
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the systems’ energy and water consumption is enormous. At the same time, they have become an integral part of everyday life. AlgorithmWatch has developed guidelines to help use generative AI responsibly.">
+    <meta property="og:image" content="https://algorithmwatch.org/en/wp-content/uploads/2026/01/1280px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:alt" content="AlgorithmWatch&#8217;s guidelines to use generative AI responsibly - AlgorithmWatch">
+    <meta property="og:image:url" content="https://algorithmwatch.org/en/wp-content/uploads/2026/01/1280px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp">
+    <meta property="og:image:secure_url" content="https://algorithmwatch.org/en/wp-content/uploads/2026/01/1280px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="890">
+    <meta name="twitter:title" content="AlgorithmWatch&#8217;s guidelines to use generative AI responsibly - AlgorithmWatch">
+    <meta name="twitter:url" content="https://algorithmwatch.org/en/generative-ai-guideline/">
+    <meta name="twitter:description" content="Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the systems’ energy and water consumption is enormous. At the same time, they have become an integral part of everyday life. AlgorithmWatch has developed guidelines to help use generative AI responsibly.">
+    <meta name="twitter:image" content="https://algorithmwatch.org/en/wp-content/uploads/2026/01/1280px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@algorithmwatch">
+    <title>AlgorithmWatch&#8217;s guidelines to use generative AI responsibly - AlgorithmWatch</title>
+    <link rel="stylesheet" href="https://algorithmwatch.org/en/wp-content/themes/aw2020/assets/css/aw.min.css?1782226097">
+    <link rel="icon" type="image/svg+xml" href="https://static.algorithmwatch.org/gfx/aw-logo-icon.svg">
+    <link rel="shortcut icon" href="https://static.algorithmwatch.org/gfx/favicon-32x32.png" type="image/x-icon">
+    <link rel="icon" href="https://static.algorithmwatch.org/gfx/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" href="https://static.algorithmwatch.org/gfx/favicon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="https://static.algorithmwatch.org/gfx/favicon-180x180.png">
+    <meta name="msapplication-TileImage" content="https://static.algorithmwatch.org/gfx/favicon-270x270.png">
+        <link rel="me" href="https://chaos.social/@algorithmwatch">
+    <style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-button-inline-css">
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/button/style.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-buttons-inline-css">
+.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/buttons/style.min.css */
+</style>
+<style id="wp-block-separator-inline-css">
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/separator/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://algorithmwatch.org/en/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<script id="jquery-js" src="/en/wp-content/themes/aw2020/assets/jquery/jquery.min.js"></script>
+<script id="aw-js-js" src="/en/wp-content/themes/aw2020/aw.min.js?ver=1.0.0"></script>
+<link rel="canonical" href="https://algorithmwatch.org/en/generative-ai-guideline/" />
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['setRequestMethod', 'POST']);
+  (function() {
+    var u = "https://algorithmwatch.org/visitors.php";
+    _paq.push(['setTrackerUrl', u]);
+    _paq.push(['setSiteId', '1']);
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.async = true; g.src = u + '?q=js';
+    s.parentNode.insertBefore(g, s);
+  })();
+</script>
+<!-- End Matomo -->
+    <style id="wp-custom-css">
+.eci-more .proca-MuiTouchRipple-root {
+	border: 1px solid grey;
+}
+
+.eci-more {
+	margin-top: 15px;
+}
+
+
+/* Make "Donate" menu item colored (current: AW dark red)*/
+
+.menu-item-16612>a{
+	background: rgb(216, 29, 35) ;
+	padding: 2.5px 10px!important;
+	color: rgb(230,230,230)!important;
+	border-radius: 4px;
+}
+.menu-item-16612>a:hover{
+	color: white!important;
+}
+
+/* Used for padding around text blocks with background color (e.g. NL widget below story) */
+
+.padding-block {
+	padding: 20px 20px 0px 20px;
+	margin: 0px;
+}
+
+.end-block {
+	padding: 0px 20px 20px 20px;
+	margin: 0px;
+}
+
+
+/* Remove bottom margin from NL widget block*/
+.aw-newsletter  {
+	margin-bottom: 0px;
+}
+</style>
+        <!-- WPSITEC_NETWORK: aw.org -->
+<style id="core-block-supports-inline-css">
+.wp-container-core-buttons-is-layout-fe48e5de{justify-content:center;}.wp-elements-605d84712df6cc37ed8b06f336fd4f08 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--black);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-35165 single-format-standard wp-theme-aw2020">
+<script>
+    document.documentElement.classList.remove('nojs');
+    document.documentElement.classList.add('js');
+</script>
+<header class="aw-box" id="aw-header">
+    <nav id="nav">
+        <div id="logo">
+            <a href="https://algorithmwatch.org/en">
+                <img src="https://static.algorithmwatch.org/gfx/aw-logo.svg" alt="">
+            </a>
+                    </div>
+        <div id="menu-switch" onclick="menuSwitch()">&nbsp;Open Menu&nbsp;///</div>
+        <ul id="menu" class="menu"><li id="menu-item-24373" class="donate mobile menu-item menu-item-type-post_type menu-item-object-page menu-item-24373"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/donate/">Donate</a><span class="slash-after"></span></li>
+<li id="menu-item-24372" class="donate mobile menu-item menu-item-type-post_type menu-item-object-page menu-item-24372"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/supporting-member/">Become a Supporter</a><span class="slash-after"></span></li>
+<li id="menu-item-21742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21742"><span class="slash-before"></span><a href="#">About</a><span class="slash-after"></span>
+<ul class="sub-menu">
+	<li id="menu-item-2141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/vision-mission-values/">Vision, Mission &#038; Values</a><span class="slash-after"></span></li>
+	<li id="menu-item-20133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20133"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/policy-advocacy/">Our Approach</a><span class="slash-after"></span></li>
+	<li id="menu-item-4592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4592"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/team/">Team</a><span class="slash-after"></span></li>
+	<li id="menu-item-21015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21015"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/shareholders/">Shareholders</a><span class="slash-after"></span></li>
+	<li id="menu-item-11581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11581"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/board/">Supervisory Board</a><span class="slash-after"></span></li>
+	<li id="menu-item-22524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22524"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/fellowship/">Fellowship</a><span class="slash-after"></span></li>
+	<li id="menu-item-5712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5712"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/transparency/">Transparency</a><span class="slash-after"></span></li>
+	<li id="menu-item-4104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4104"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/jobs/">Jobs</a><span class="slash-after"></span></li>
+</ul>
+</li>
+<li id="menu-item-2144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/projects/">Projects</a><span class="slash-after"></span></li>
+<li id="menu-item-2142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/publications/">Publications</a><span class="slash-after"></span></li>
+<li id="menu-item-2711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2711"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/stories/">Stories</a><span class="slash-after"></span></li>
+<li id="menu-item-11280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11280"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/positions/">Positions</a><span class="slash-after"></span></li>
+<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/blog/">Blog</a><span class="slash-after"></span></li>
+</ul>        <div id="menu2nd">
+            <ul id="menu-header-secondary" class="menu2nd"><li id="menu-item-12265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12265"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/newsletter/">Newsletters</a></li>
+<li id="menu-item-2131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2131"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/contact/">Contact</a></li>
+<li id="menu-item-10739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10739"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/press/">Press</a></li>
+<li id="menu-item-2053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2053"><span class="slash-before"></span><a href="https://algorithmwatch.org/de/generative-ki-richtlinie/">Deutsch</a></li>
+<li id="menu-item-24371" class="donate desktop menu-item menu-item-type-post_type menu-item-object-page menu-item-24371"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/donate/">Donate</a></li>
+<li id="menu-item-24370" class="donate desktop menu-item menu-item-type-post_type menu-item-object-page menu-item-24370"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/supporting-member/">Become a Supporter</a></li>
+</ul>        </div>
+        <div id="search-switch" onclick="menuSwitch();document.getElementById('search-field').focus();">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8" />
+                <path d="M21 21l-4-4" />
+            </svg>
+        </div>
+
+        <form role="search" id="search" class="search" action="https://algorithmwatch.org/en" method="get">
+            <input type="text" name="s" value="" placeholder="Search for..." id="search-field" class="search-field">
+            <button type="submit" class="search-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M9 10l-5 5 5 5" />
+                    <path d="M20 4v7a4 4 0 01-4 4H4" />
+                </svg>
+            </button>
+        </form>
+    </nav>
+    </header>
+<script>
+function menuSwitch() {
+    // can't use classList.toggle() here, or else a search bar set on in desktop would disappear in mobile
+    var str_openmenu = 'Open Menu';
+    var str_closemenu = 'Close Menu';
+    if (document.getElementById("nav").classList.contains("on")) {
+        document.getElementById("menu-switch").innerHTML = '&nbsp;' + str_openmenu + '&nbsp;///',
+            document.getElementById("menu").classList.remove("on"),
+            document.getElementById("search").classList.remove("on"),
+            document.getElementById("menu-header-secondary").classList.remove("on"),
+            document.getElementById("nav").classList.remove("on");
+        if (document.getElementById("menu2nd")) {
+            document.getElementById("menu2nd").classList.remove("on");
+        }
+    } else {
+        document.getElementById("menu-switch").innerHTML = '&nbsp;' + str_closemenu + '&nbsp;///',
+            document.getElementById("menu").classList.add("on"),
+            document.getElementById("search").classList.add("on"),
+            document.getElementById("menu-header-secondary").classList.add("on"),
+            document.getElementById("nav").classList.add("on");
+        if (document.getElementById("menu2nd")) {
+            document.getElementById("menu2nd").classList.add("on");
+        }
+    }
+}
+</script><main class="aw-box">
+    <div class="aw-container mb-2">
+        <div class="aw-headline"><svg class="aw-slate" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 16" fill="red"><path d="M11.53 0H14L2.47 16H0L11.53 0z"></path></svg><h1>AlgorithmWatch&#8217;s guidelines to use generative AI responsibly</h1></div>                <p class="textwrap-balanced"><strong>Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the systems’ energy and water consumption is enormous. At the same time, they have become an integral part of everyday life. AlgorithmWatch has developed guidelines to help use generative AI responsibly.</strong></p>    </div>
+    <section class="hero mb-2 aw-box --aspect --single mb-2"><div class="hero-text c-white">
+            <div class="aw-container">
+                <div class="hero-text-meta"><h4 style="z-index: 2"><a class="c-white" href="/en/publications">Publication</a></h4><h4 class="text-nowrap">January 14, 2026</h4><h4 class="text-nowrap" style="z-index: 2"><a class="c-white me-1" href="https://algorithmwatch.org/de/generative-ki-richtlinie/">Auf Deutsch lesen</a></h4></div></div></div><img width="2400" height="1668" src="/en/wp-content/uploads/2026/01/2400px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp" class="hero-image" alt="" sizes="auto, 100vw" decoding="async" loading="lazy" srcset="/en/wp-content/uploads/2026/01/2400px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 2400w, /en/wp-content/uploads/2026/01/800px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 800w, /en/wp-content/uploads/2026/01/200px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 200w, /en/wp-content/uploads/2026/01/1000px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 1000w, /en/wp-content/uploads/2026/01/320px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 320w, /en/wp-content/uploads/2026/01/480px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 480w, /en/wp-content/uploads/2026/01/640px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 640w, /en/wp-content/uploads/2026/01/1280px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 1280w, /en/wp-content/uploads/2026/01/1440px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 1440w, /en/wp-content/uploads/2026/01/1810px_HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 1810w, /en/wp-content/uploads/2026/01/HannaBarakat-ArchivalImages-of-AI-AIxDESIGNTextilesand-Tech-1-2560x1778-1.webp 2560w" /><div class="hero-image-credit"><span><a href="www.hbarakat.com">Hanna Barakat </a> &amp; <a href="https://aixdesign.co/posts/archival-images-of-ai" target="_blank" rel="noopener nofollow">Archival Images of AI + AIxDESIGN</a> / <a href="https://betterimagesofai.org/images?artist=HannaBarakat&amp;title=TextilesandTech1" target="_blank" rel="noopener nofollow">Textiles and Tech 1</a> / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener nofollow">Licenced by CC-BY 4.0</a></span></div></section>        <div class="aw-container"><div class="aw-prose">
+<p class="wp-block-paragraph">As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.</p>
+
+
+
+<p class="wp-block-paragraph">This publication introduces the principles and processes of our policy. We hope it may provide a useful model for other organizations considering how they should use generative AI responsibly, balancing useful cases with the risks of these technologies. Developing and implementing such a policy is challenging, given the range of use cases, risks/benefits, and views on generative AI – many of which change rapidly.</p>
+
+
+
+<p class="wp-block-paragraph">Our approach started with a survey of our staff to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work. We then developed a policy designed to guide individual staff members as they make decisions about whether, and how, to use generative AI in a way that aligns with our values and mission.</p>
+
+
+
+<p class="wp-block-paragraph">This is based on 4 principles:</p>
+
+
+
+<ol class="wp-block-list">
+<li>⚖️ <a href="#Proportionality">Proportionality</a></li>
+
+
+
+<li>🗝️ <a href="#Security">Security</a></li>
+
+
+
+<li>💯 <a href="#Quality">Quality</a></li>
+
+
+
+<li>🪟 <a href="#Transparency">Transparency</a></li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">The policy also incorporates a structured process for collecting and discussing use cases and tools as well as updating the policy over time, which is necessary to address the range of uses and ongoing changes in the technology, its benefits, and its risks.</p>
+
+
+
+<p class="wp-block-paragraph">If you plan to adopt a similar policy in your organization, we would be delighted if ours can provide support or a model. From our experiences and discussions so far, we can say…</p>
+
+
+
+<ul class="wp-block-list">
+<li>… it is good to begin with a survey of current uses and attitudes in your organization, followed by sharing these results (even as an aggregate) with your staff. This helps ensure your policy reflects the range of views and uses in your organization and to show that to everyone. We include the survey we used as an appendix in the below document.</li>
+
+
+
+<li>… our policy provides guidelines for individual decisionmaking, which helps to be flexible and adapt to many use cases. However, this only works if you are confident that your staff are concerned about risks of generative AI and want to use it only in ways that balance risk and benefit. Otherwise, clearer and stricter rules may be a better approach.</li>
+
+
+
+<li>… it is good to have a clear way to adapt over time as you implement it and as circumstances change.</li>
+</ul>
+
+
+
+<div style="height:7px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading" id="Newsletter">Get the full policy</h2>
+
+
+
+<p class="wp-block-paragraph">Join our newsletter and download the complete policy, including our survey questions and a transparency note your organization can adapt for its own responsible AI strategy. </p>
+
+
+
+<p class="wp-block-paragraph">If you already signed up for our community newsletter but want to download the full policy now, please sign up through the form anyway. Once you confirm your subscription, you will be able to download the file on the confirmation page.</p>
+
+
+
+<iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://r.algorithmwatch.org/wgt/x3ysn/0zt8/form?c=dfa6de40" width="100%" style="height: 0;"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
+
+
+
+<p class="wp-block-paragraph">We do not present this as a complete product – we are implementing and testing this policy and learning as we do so. We would be interested to hear from other organizations making similar efforts. You can reach us at <a href="mailto:info@algorithmwatch.org">info@algorithmwatch.org</a>.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h1 class="wp-block-heading">Our guidelines on the use of generative AI</h1>
+
+
+
+<p class="wp-block-paragraph">AlgorithmWatch has developed a policy on how we use generative AI. As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But many such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.</p>
+
+
+
+<p class="wp-block-paragraph">Generative AI is a class of tools that take user inputs and create new content. This includes generating text or other media outputs based on a “prompt” or translating between languages, writing styles, and media. In what follows, generative AI should be interpreted broadly – to include, for example, AI services that translate between languages or transcribe voice to text.</p>
+
+
+<div class="aw-block-styled-container bg-lightgray c-black  wp-block-acf-styled-container">
+
+<p class="wp-block-paragraph">This document describes internal principles and current practices that we are in the process of implementing, relating to the use of generative AI. It is intended for informational purposes and does not constitute legally binding commitments or guarantees, nor does it replace or extend AlgorithmWatch’s other documentation (e.g., our privacy policy).</p>
+
+</div>
+
+
+<p class="wp-block-paragraph">This policy draws on a survey of our staff (May 2025) to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work. The resulting policy:</p>
+
+
+
+<ol class="wp-block-list">
+<li>provides internal guidance to staff on how to use generative AI in a manner consistent with AlgorithmWatch's values, based on 4 principles: 🪟<a href="#Transparency">Transparency</a>, 💯 <a href="#Quality">Quality</a>, ⚖️ <a href="#Proportionality">Proportionality</a>, and 🗝️ <a href="#Security">Security</a>.</li>
+
+
+
+<li>specifies how we will monitor and update various aspects of this policy based on what we call the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> document and process.</li>
+
+
+
+<li>is published in a summary form (which you are currently reading) to indicate how we, as an organization particularly concerned with the challenges of deploying technologies responsibly, are considering our own usage of generative AI.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">The below text outlines the 4 principles and the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> process for updating aspects of this policy. If you wish to adapt or adopt this policy, we welcome this and strongly advise beginning with surveying your staff to establish their current uses, needs, views, and concerns.</p>
+
+
+<div class="aw-block-styled-container bg-lightgray c-black  wp-block-acf-styled-container">
+
+<p class="wp-block-paragraph">Join our newsletter and download the complete policy, including our survey questions and a transparency note your organization can adapt for its own responsible AI strategy.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background has-link-color has-text-align-center wp-element-button" href="#Newsletter"><strong>Sign up now</strong>!</a></div>
+</div>
+
+</div>
+
+
+<p class="wp-block-paragraph">It is also important to note: This policy is designed for organizations that want to use technology in a responsible and ethical way, even when this involves limiting the use of technology, where this is embedded in the organizations' values, and where staff are clearly aware of and follow these expectations. The policy does not specify “hard rules” that constrain irresponsible behavior or staff members who wish to use tools with no or minimal safeguards. Rather, it supports staff in making individual decisions about their generative AI use in responsible ways by providing principles and a process for creating discussion, precedents, and ever-expanding guidance. We believe this is the most appropriate way for responsible organizations to respond effectively to the very broad range of use cases, user needs, and evolving situations around generative AI.</p>
+
+
+
+<h1 class="wp-block-heading" id="Proportionality">Principle 1: ⚖️ Proportionality</h1>
+
+
+
+<p class="wp-block-paragraph">We strongly discourage staff from using generative AI simply because it seems the easier option when other appropriate options are available. Overuse of generative AI is associated with a series of systemic risks; from de-skilling of individuals, to reducing demand for jobs, to increasing energy demands, to companies' referring to high usage rates as justifications for reckless behavior.</p>
+
+
+
+<p class="wp-block-paragraph">However, our survey also showed that staff members do find substantial benefits to generative AI in some use cases. Staff also noted the importance of being inclusive with our policies, and different staff members have different needs; some use cases that are “fairly useful” for one staff member may help another overcome significant barriers.</p>
+
+
+
+<p class="wp-block-paragraph">“Proportionality” is a way to respond to this need for balance. <strong>Proportionality means we encourage staff members to reflect on, and justify, <em>why </em>they are using generative AI for a given use case rather than a “non-generative AI” approach.</strong></p>
+
+
+
+<p class="wp-block-paragraph">We ask staff to internally reflect on their uses – and in <em>some </em>cases explicitly spell these out for discussion. These cases are:</p>
+
+
+
+<ul class="wp-block-list">
+<li>When writing a Transparency Note (see the 🪟 <a href="#Transparency">Transparency</a> section later).</li>
+
+
+
+<li>When encountering a use case that raises challenging personal decisions about whether this is proportional or not.</li>
+
+
+
+<li>Any cases we believe are very hard to justify in general as “proportional” for AlgorithmWatch and should be avoided.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">The <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> document will be used to collect these cases for wider discussion. Over time this will develop into a series of agreed-upon precedents and guidance for staff in assessing the proportionality of their own use cases. Unless and until such discussion provides further guidance, staff should follow their own judgment and/or get input from their Team Lead.</p>
+
+
+
+<h1 class="wp-block-heading" id="Security">Principle 2: 🗝️ Security</h1>
+
+
+
+<p class="wp-block-paragraph">What information we are comfortable inputting into generative AI tools was one of the major concerns expressed in our survey. Data input into generative AI tools may be stored and potentially used for further training of models, with associated privacy, confidentiality, and undue appropriation concerns. The use of data for training can also raise concerns about “leakage” of input data to other users, use of uncompensated labor for training, and other concerns.</p>
+
+
+
+<p class="wp-block-paragraph">Some tools promise increased security and/or not to use data for training, though sometimes only under certain conditions (e.g., paid-for versions). While these promises may provide some additional accountability, we should also be cautious of relying too heavily on these promises as a true safeguard of security, given the periodic failures of technology companies to protect data.</p>
+
+
+
+<p class="wp-block-paragraph">We therefore describe three ‘Tiers’ of content that staff might input into generative AI tools.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Tier 1 (Low security)</strong>: Content that does not raise any specific issues when being entered as an input into a generative AI tool, even with few/no safeguards.
+<ul class="wp-block-list">
+<li>E.g., publicly available information.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Tier 2 (Medium security)</strong>: Content that we feel comfortable about inputting into specific generative AI tools on the basis that they will apply sufficient privacy/confidentiality safeguards, but that if these safeguards were to fail, it would not raise high risks, e.g., exposing confidential or personal information.
+<ul class="wp-block-list">
+<li>E.g., internal AlgorithmWatch strategy documents that do not contain sensitive information.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Tier 3 (High security)</strong>: Content that should not be input into generative AI tools, even if they promise safeguards.
+<ul class="wp-block-list">
+<li>E.g., personally identifiable information</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Staff should consult internal records to see (i) what sort of content falls under what Tier, and (ii) what tools are recommended for Tier 2 information. They should then choose their tool and adjust input information accordingly (e.g., remove some material).</p>
+
+
+
+<p class="wp-block-paragraph">Where there is not clear enough existing guidance, staff should flag this to a Team Lead who can, depending on the circumstance, provide a temporary decision or escalate to other Team Leads or other relevant expertise (e.g., the Data Protection Officer) as required. These temporary decisions are recorded in the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a>, discussed, and a firm decision is recorded as future guidance.</p>
+
+
+
+<p class="wp-block-paragraph">Staff questions, requests, and suggestions related to tools that may be (in)appropriate for Tier 2 content should likewise be recorded in the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a>.</p>
+
+
+
+<h1 class="wp-block-heading" id="Quality">Principle 3: 💯 Quality</h1>
+
+
+
+<p class="wp-block-paragraph">Any generative AI output should be reviewed critically before use. Staff should expect the outputs to require editing or otherwise questioning in some form – accepting the outputs “as they come” is likely to show a lack of critical engagement, and if staff are doing this, we strongly encourage them to consider whether they are doing sufficient quality assessment.</p>
+
+
+
+<p class="wp-block-paragraph">Quality assurance should go beyond simple fact-checking and also consider, for example:</p>
+
+
+
+<ul class="wp-block-list">
+<li>whether generative AI is “framing” the way we think about topics by directing our attention to some things and away from others;</li>
+
+
+
+<li>whether certain perspectives are given too much/little weight or are missing outright from the generative AI outputs;</li>
+
+
+
+<li>reading citations to check the generative AI has appropriately used them;</li>
+
+
+
+<li>if the output aligns with previous AlgorithmWatch work on the topic, including in tone and writing style.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Generative AI should not be used to produce material on a topic without the author(s) and editor(s) having or gaining additional familiarity with that topic using other methods not involving generative AI. That may be through existing expertise, contacting relevant expert(s), and/or non-generative AI-assisted research.</p>
+
+
+
+<p class="wp-block-paragraph">Where practical, given resource constraints, try to involve at least one fellow staff member in this check process (even if as simple as explaining what steps you have taken).</p>
+
+
+
+<p class="wp-block-paragraph">Staff are encouraged to (i) summarize safeguards used in specific cases in 🪟<a href="#Transparency" data-type="internal" data-id="#Transparency">Transparency Notes</a> and, as such, record them in the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> and (ii) record broader ideas or reflections on quality assurance in the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a>.</p>
+
+
+
+<h1 class="wp-block-heading" id="Transparency">Principle 4: 🪟 Transparency</h1>
+
+
+
+<p class="wp-block-paragraph">In order to hold ourselves accountable for the other principles in this policy, it is important that we are transparent with ourselves and others.</p>
+
+
+
+<p class="wp-block-paragraph">When we publish material in which generative AI played a substantial role in creating the product, we discuss whether to include a Transparency Note explaining how generative AI was used.</p>
+
+
+
+<p class="wp-block-paragraph">At staff discretion, similar Transparency Notes may also be appended to work that is not published (such as documents for internal use or for partners or in documentation about systems used for internal operational purposes) if generative AI played a substantial role in their production.</p>
+
+
+
+<p class="wp-block-paragraph">These notes should be copied into the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> as they provide valuable insights into how the principles are being applied in practice.</p>
+
+
+
+<p class="wp-block-paragraph">Examples of what might count as “substantial”, or not, are listed in internal records and iterated over time via the <a href="#guide" data-type="internal" data-id="#guide">GUIDE</a> process. These are meant as guidance and precedents for individual decisions; again, hard-and-fast rules are extremely challenging to define given the range of possible use cases.</p>
+
+
+
+<p class="wp-block-paragraph">For guidance, a couple of examples of “substantial” uses – i.e., those that should prompt a staff member to consider a Transparency Note – include:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Publications in which generative AI was used to draft large portions of the text (as a rough guide, entire paragraphs or more), even if this “base text” was subsequently edited. This should be considered in context and not applied to use cases such as, for example, short social media posts, or if the first version was written by a human in one language and generative AI was used just for translation – such outputs should still be checked for quality, but a Transparency Note would not be recommended.</li>
+
+
+
+<li>Using generative AI for developing ideas or selecting research routes that informed the direction of sections of, or all of, a product or project. Finding or checking specific details would not generally be substantial enough (though it should still have quality assurance). For instance, prompts like “list all CEOs of the GAFAM companies with dates” are specific and can be easily checked, so this would not generally need a note. But using a chatbot in a back-and-forth discussion about “what are some key developments in the history of GAFAM” would need a note, as the chatbot’s selection of “key” points could shape the direction of the product.</li>
+</ul>
+
+
+
+<p class="has-black-color has-text-color has-link-color wp-elements-605d84712df6cc37ed8b06f336fd4f08 wp-block-paragraph">The notes need not have a standard format, but referring to the other ⚖️🗝️💯 Principles will usually be helpful. The note should be brief and need not be extensively detailed – you do not need to list your precise prompts, for example. But there should be an internal copy of the note with your name and contact information for anyone who wishes to know more (we do not include this personal information in material we publish). </p>
+
+
+<div class="aw-block-styled-container bg-lightgray c-black  wp-block-acf-styled-container">
+
+<p class="wp-block-paragraph">Join our newsletter and download the complete policy, including our survey questions and a transparency note your organization can adapt for its own responsible AI strategy.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background has-link-color has-text-align-center wp-element-button" href="#Newsletter"><strong>Sign up now</strong>!</a></div>
+</div>
+
+</div>
+
+
+<h1 class="wp-block-heading" id="guide">The GUIDE</h1>
+
+
+
+<p class="wp-block-paragraph">There is an internal GUIDE document, accessible to all staff, which contains:</p>
+
+
+
+<ul class="wp-block-list">
+<li>🪟<a href="#Transparency">Transparency Notes</a> (which in turn also record decisions related to all the other 3 Principles ⚖️ 🗝️ 💯).</li>
+
+
+
+<li>Examples related to ⚖️ Proportionality, in particular (i) common use cases that we consider generally inappropriate and (ii) difficult cases.</li>
+
+
+
+<li>Decisions about 🗝️ Security (what Tier particular content fits into and/or how safe certain tools are).</li>
+
+
+
+<li>Discussions of what does and does not count as “substantial use” and therefore require a 🪟<a href="#Transparency">Transparency Note</a>.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Inspecting and discussing the GUIDE will be a standing item in the AlgorithmWatch Team Leads meeting, which happens approximately once per month. Decisions made by Team Leads can then be recorded in the GUIDE. Objections to decisions from staff will be taken back to Team Leads, either in the Team Leads meeting or (if more urgent) by discussion via internal messaging. In case of disputes among Team Leads that cannot be resolved by discussion, final decision-making falls to Executive Management. Documentation can also be supported by regular internal capacity building sessions on the application of our policy.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+</div><aside class="mb-2"></aside></div>        </main>
+<footer class="aw-box" id="aw-footer">
+    <div class="aw-container mb-2">
+        <div class="d-flex flex-wrap justify-content-between w-100">
+            <ul id="menu-social-media" class="aw-menu socialmedia"><li id="menu-item-11446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11446"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/algorithmwatch/" title="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg></a></li>
+<li id="menu-item-11448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11448"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/algorithmwatch/" title="Instagram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.4A4 4 0 1112.6 8a4 4 0 013.4 3.4zM17.5 6.5h0"/></svg></a></li>
+<li id="menu-item-33001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33001"><a href="https://bsky.app/profile/algorithmwatch.org"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2" viewBox="-1 0 30 24"><path d="M6 2c3 2.3 6.3 6.9 7.5 9.3 1.2-2.5 4.5-7 7.5-9.3 2.2-1.6 5.7-2.9 5.7 1.1 0 .8-.5 6.8-.7 7.7-1 3.4-4.4 4.2-7.4 3.7 5.3.9 6.7 3.9 3.7 7-5.5 5.7-8-1.5-8.6-3.3-.1-.4-.2-.5-.2-.4 0-.1 0 0-.2.4-.6 1.8-3 9-8.6 3.3-3-3 1.6-6 3.7-7-3 .5-6.5-.3-7.4-3.7-.3-1-.7-6.9-.7-7.7 0-4 3.5-2.8 5.7-1.1z"/></svg></a></li>
+<li id="menu-item-22014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22014"><a href="https://chaos.social/@algorithmwatch"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="-2 -2 30 30" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M25.426 15.547c-.383 1.844-3.422 3.844-6.914 4.226-1.813.2-3.602.391-5.524.313a34.967 34.967 0 0 1-5.582-.695c0 .28.012.558.047.804.41 2.875 3.063 3.043 5.57 3.133 2.547.067 4.805-.594 4.805-.594l.094 2.125s-1.766.895-4.922 1.063c-1.75.09-3.914-.043-6.434-.672C1.106 23.922.168 18.496.023 12.996-.023 11.352.012 9.81.012 8.5c0-5.625 3.96-7.266 3.96-7.266C5.954.394 9.376.027 12.943.004h.081c3.567.023 6.989.39 8.98 1.23 0 0 3.962 1.653 3.962 7.29 0 0 .047 4.148-.55 7.035" /><path d="M21.309 8.95v6.82h-2.895V9.172c0-1.399-.637-2.102-1.894-2.102-1.395 0-2.09.84-2.09 2.492v3.626h-2.883V9.55c0-1.653-.695-2.492-2.086-2.492-1.262-.012-1.899.703-1.899 2.101v6.61H4.684V8.95c0-1.387.382-2.497 1.136-3.31.793-.816 1.828-1.23 3.11-1.23 1.488 0 2.605.524 3.351 1.586L13 7.113l.723-1.117c.726-1.059 2.011-1.672 3.359-1.598 1.273 0 2.305.426 3.098 1.243a4.667 4.667 0 0 1 1.14 3.32"/></svg></a></li>
+<li id="menu-item-11447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11447"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/pg/algorithmwatch/posts/" title="Facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 24 24" style="margin-left:-5px;margin-right:-3px" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg></a></li>
+<li id="menu-item-11539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11539"><a href="https://algorithmwatch.org/en/rss" title="RSS Feed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 019 9M4 4a16 16 0 0116 16"/><circle cx="5" cy="19" r="1"/></svg></a></li>
+<li id="menu-item-11449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11449"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCOhGvpEH0oLlpqZDDpDo67Q" title="Youtube"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M22.5 6.4a2.8 2.8 0 00-1.9-2C18.9 4 12 4 12 4s-6.9 0-8.6.5a2.8 2.8 0 00-2 2 29 29 0 00-.4 5.3 29 29 0 00.5 5.3A2.8 2.8 0 003.4 19c1.7.5 8.6.5 8.6.5s6.9 0 8.6-.5a2.8 2.8 0 002-2 29 29 0 00.4-5.3 29 29 0 00-.5-5.3z"/><path fill="currentColor" d="M9.8 15l5.7-3.3-5.8-3.2V15z"/></svg></a></li>
+</ul><ul id="menu-footer" class="aw-menu"><li id="menu-item-3677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3677"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/contact/">Contact</a><span class="slash-after"></span></li>
+<li id="menu-item-3676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3676"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/legal-notice/">Legal Notice</a><span class="slash-after"></span></li>
+<li id="menu-item-2061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2061"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/privacy/">Privacy</a><span class="slash-after"></span></li>
+<li id="menu-item-16613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16613"><span class="slash-before"></span><a href="https://algorithmwatch.org/en/transparency/">Transparency</a><span class="slash-after"></span></li>
+</ul></div>
+    </div>
+    <div class="aw-container mb-2"><h3 class="mb-2">AlgorithmWatch is supported by </h3><div class="aw-layout-sponsors"><a class="aw-sponsor-alfredlandeckerfoundation" href="https://algorithmwatch.org/en/new-project-auditing-algorithms-for-systemic-risks/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/alfredlandeckerfoundation.png" alt="Alfred Landecker Foundation" title="Alfred Landecker Foundation"></a><a class="aw-sponsor-deutschepostcodelotterie" href="https://algorithmwatch.org/en/newsroom-automated-systems/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/deutschepostcodelotterie.png" alt="Deutsche Postcode Lotterie" title="Deutsche Postcode Lotterie"></a><a class="aw-sponsor-europeanaifund" href="https://europeanaifund.org/"  target="_blank" rel="sponsored noopener"><img src="https://static.algorithmwatch.org/gfx/sponsors/europeanaifund.png" alt="European AI Fund" title="European AI Fund"></a><span class="aw-sponsor-luminate"><img src="https://static.algorithmwatch.org/gfx/sponsors/luminate.svg" alt="Luminate" title="Luminate"></span><a class="aw-sponsor-mercator" href="https://algorithmwatch.org/en/stiftung-mercator/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/mercator.svg" alt="Mercator" title="Mercator"></a><a class="aw-sponsor-boschstiftung" href="https://algorithmwatch.org/en/automation-on-the-move/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/boschstiftung.svg" alt="Robert Bosch Stiftung" title="Robert Bosch Stiftung"></a><a class="aw-sponsor-schoepflin" href="https://algorithmwatch.org/en/algorithmwatch-receives-core-funding-from-schoepflin-foundation/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/schoepflin.svg" alt="Schöpflin Stiftung" title="Schöpflin Stiftung"></a><a class="aw-sponsor-zeitstiftung" href="https://www.zeit-stiftung.de//en"  target="_blank" rel="sponsored noopener"><img src="https://static.algorithmwatch.org/gfx/sponsors/zeitstiftung.svg" alt="Zeit Stiftung &#8211; Ebelin und Gerd Bucerius" title="Zeit Stiftung &#8211; Ebelin und Gerd Bucerius"></a><a class="aw-sponsor-bmbfsfj_dl_mitfoerderzusatz" href="https://algorithmwatch.org/de/zukunft-d/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/BMBFSFJ_DL_mitFoerderzusatz.png" alt="Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend" title="Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"></a><a class="aw-sponsor-bundesministerium-der-justiz-und-fur-verbraucherschutz" href="https://algorithmwatch.org/de/focis/" ><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNzEuNSAxNzUiPjxwYXRoIGQ9Ik0yOC41OCAyMi4zNWEyLjUgMi41IDAgMCAwLTEuMjgtLjMzYy0xLjI4IDAtMi41My44NC0yLjUzIDMuMDEgMCAyLjEuOTggMy4xNCAyLjM3IDMuMTQuNSAwIC45LS4xIDEuMi0uMnYtMi4xbC0uNjQtLjE0Yy0uMS0uMDItLjE0LS4wNi0uMTQtLjEyIDAtLjEuMDctLjIyLjExLS4zMWgyLjR2LjExYzAgLjE3LS4wOS4zLS4zNS4zN2wtLjI0LjA2djIuMmMtLjI5LjI1LTEuMDYuODItMi42LjgyLTEuODUgMC0zLjMtMS4xNS0zLjMtMy43IDAtMi43MyAyLjAyLTMuOCAzLjc3LTMuOCAxLjEgMCAxLjY2LjMxIDIuMDEuNDcuMDMuMzIuMDYuOTcuMDYgMS4wNSAwIC4zMy0uMDkuNTQtLjM2LjU0YS45Mi45MiAwIDAgMS0uMjUtLjA0bC0uMjMtMS4wM1ptMy4yOCAzLjg2Yy4wMSAxLjMuNjMgMS45MSAxLjUzIDEuOTEuNjggMCAxLjA1LS4yNiAxLjMyLS40OC4xLjA4LjE1LjI2LjE1LjM1IDAgLjI3LS42OS44Ny0xLjg1Ljg3LTEuMyAwLTIuMjYtLjc0LTIuMjYtMi41N3MxLjEtMi43NiAyLjMtMi43NmMxLjE4IDAgMS43OC43MyAxLjc4IDEuNzggMCAuMjctLjA1LjY0LS4xMi45aC0yLjg1Wm0xLjg0LS41NmMuMDItLjEuMDUtLjI3LjA1LS40NSAwLS41OC0uMi0xLjA3LS44Mi0xLjA3LS42MiAwLS45OC41LTEuMDYgMS41MmgxLjgzWm00Ljk3LTEuNDFIMzcuNHYzLjkybC43Mi4xNGMuMS4wMi4xNC4wNS4xNC4xNGEuNi42IDAgMCAxLS4xLjI5aC0yLjV2LS4xYzAtLjE4LjEyLS4yNy4zMi0uMzRsLjM1LS4xM3YtMy45MmgtLjc3bC0uMDEtLjFjMC0uMi4xMi0uMy4zMi0uMzZsLjQ2LS4xMnYtLjFjMC0xLjcgMS4wMy0yLjUyIDEuOTMtMi41Mi41MyAwIC43NC4yNC43NC41NiAwIC4yNi0uMTYuNDEtLjMyLjVhLjk3Ljk3IDAgMCAwLS42OS0uMzFjLS40NSAwLS42LjI1LS42Ljg3bC4wMSAxaDEuNGwtLjEyLjU4Wm01LjQxIDEuOTFjMCAxLjgxLTEuMjcgMi43LTIuNTUgMi43LTEuMzEgMC0yLjQtLjgzLTIuNC0yLjZzMS4yNy0yLjcyIDIuNi0yLjcyYzEuMzEgMCAyLjM1Ljc5IDIuMzUgMi42MlptLTMuNC0zLjM0YS41NS41NSAwIDAgMS0uNTgtLjU3YzAtLjM2LjI2LS41OS41Ny0uNTkuMzMgMCAuNTcuMjMuNTcuNiAwIC4zMy0uMjQuNTYtLjU3LjU2Wm0tLjQyIDMuMzhjMCAxLjQuNTcgMi4wNCAxLjM0IDIuMDQuNzggMCAxLjM2LS42MSAxLjM2LTIuMDJzLS41OC0yLjA2LTEuMzYtMi4wNmMtLjc3IDAtMS4zNC42Mi0xLjM0IDIuMDRabTIuMzEtMy4zOGMtLjM0IDAtLjU4LS4yMy0uNTgtLjU3IDAtLjM2LjI0LS41OS41OC0uNTkuMzIgMCAuNTYuMjMuNTYuNiAwIC4zMy0uMjQuNTYtLjU2LjU2Wm0zLjk1IDEuNjloLjAzYy4yMi0uMzYuNi0uOTcgMS4yOS0uOTcuNSAwIC43Mi4yMy43Mi41NmEuOS45IDAgMCAxLS4xOC41MyAxLjYyIDEuNjIgMCAwIDAtLjctLjE1Yy0uNTggMC0uODguMjMtMS4xLjUzdjMuMTZsLjc2LjE0Yy4xLjAyLjE0LjA1LjE0LjE0IDAgLjEtLjA4LjI2LS4xLjI5aC0yLjU0bC0uMDEtLjFjMC0uMTguMTItLjI3LjMyLS4zNGwuMzctLjEzdi0zLjg4bC0uNzQtLjEyLS4wMS0uMWMwLS4xOC4xMy0uMy4zOC0uMzNsMS40My0uMTMtLjA2LjlabTYuOTUgMy42NC43Ni4xLjAyLjFjMCAuMTgtLjE0LjMtLjQuMzNsLTEuMzguMTJ2LS42OGgtLjAzYy0uMjMuMzMtLjY3Ljc1LTEuNDkuNzUtMS4wMyAwLTItLjY3LTItMi41IDAtMS45NSAxLjM3LTIuODMgMi43MS0yLjgzLjMgMCAuNTcuMDUuNzUuMXYtMS44NGwtLjc1LS4xdi0uMTJjMC0uMTguMTMtLjMuMzgtLjMzbDEuNDMtLjEzdjcuMDNabS0xLjA2LTMuNjZhMS4yNiAxLjI2IDAgMCAwLS44OC0uMzJjLS44NSAwLTEuNDguNjEtMS40OCAyIDAgMS4zNS41OCAxLjkgMS4yOSAxLjkuNiAwIC45My0uMjkgMS4wNy0uNDR2LTMuMTRabTMuNTUgMS43M2MwIDEuMy42MyAxLjkxIDEuNTMgMS45MS42NyAwIDEuMDUtLjI2IDEuMzEtLjQ4LjEuMDguMTYuMjYuMTYuMzUgMCAuMjctLjcuODctMS44Ni44Ny0xLjI5IDAtMi4yNS0uNzQtMi4yNS0yLjU3czEuMS0yLjc2IDIuMy0yLjc2YzEuMTggMCAxLjc4LjczIDEuNzggMS43OCAwIC4yNy0uMDUuNjQtLjEzLjloLTIuODRabTEuODQtLjU2Yy4wMi0uMS4wNS0uMjcuMDUtLjQ1IDAtLjU4LS4yMS0xLjA3LS44Mi0xLjA3LS42MiAwLS45OS41LTEuMDYgMS41MmgxLjgzWm0zLjYtMS4xNWguMDRjLjIyLS4zNi42LS45NyAxLjMtLjk3LjQ4IDAgLjcxLjIzLjcxLjU2YS45LjkgMCAwIDEtLjE4LjUzIDEuNjIgMS42MiAwIDAgMC0uNy0uMTVjLS41OSAwLS44OC4yMy0xLjEuNTN2My4xNmwuNzYuMTRjLjEuMDIuMTQuMDUuMTQuMTQgMCAuMS0uMDguMjYtLjEuMjloLTIuNTRsLS4wMS0uMWMwLS4xOC4xMi0uMjcuMzItLjM0bC4zNy0uMTN2LTMuODhsLS43NS0uMTJ2LS4xYzAtLjE4LjEzLS4zLjM4LS4zM2wxLjQzLS4xMy0uMDYuOVptNS41OC0uMjZoLTEuNDR2My4wNmMwIC40Ny4xNS44Ni42OC44Ni40IDAgLjc0LS4xOC44My0uMjUuMDUuMDguMDkuMjQuMDkuMzUgMCAuMS0uMzcuNi0xLjMyLjZzLTEuMzQtLjU2LTEuMzQtMS4zN3YtMy4yNWgtLjc4bC0uMDEtLjFjMC0uMi4xMi0uMzEuMzItLjM2bC41Mi0uMTIuMjQtMS40MmguNzd2MS40MmgxLjU2bC0uMTIuNThabTcuMzcgMy45Ljc3LjF2LjFjMCAuMTgtLjEzLjMtLjM4LjMzbC0xLjM5LjEydi0uNjhoLS4wM2MtLjIzLjMzLS42Ny43NS0xLjQ5Ljc1LTEuMDMgMC0yLS42Ny0yLTIuNSAwLTEuOTUgMS4zNy0yLjgzIDIuNzItMi44My4zIDAgLjU2LjA1Ljc0LjF2LTEuODRsLS43NC0uMS0uMDEtLjEyYzAtLjE4LjEzLS4zLjM4LS4zM2wxLjQzLS4xM3Y3LjAzWm0tMS4wNi0zLjY2YTEuMjYgMS4yNiAwIDAgMC0uODgtLjMyYy0uODUgMC0xLjQ4LjYxLTEuNDggMiAwIDEuMzUuNTkgMS45IDEuMyAxLjkuNiAwIC45My0uMjkgMS4wNi0uNDR2LTMuMTRabTcuMTIgMy42Ni43Ny4xdi4xYzAgLjE4LS4xMy4zLS4zOC4zM2wtMS4zOS4xMnYtLjdoLS4wMmMtLjE2LjIzLS42My43Ny0xLjU1Ljc3LTEuMTIgMC0xLjY1LS42Ny0xLjY1LTEuOXYtMi42OGwtLjc0LS4xMi0uMDEtLjFjMC0uMTguMTMtLjMuMzgtLjMzbDEuNDMtLjEzdjMuM2MwIC45Ni41IDEuMTguOTcgMS4xOC41MyAwIC44OS0uMjMgMS4xMy0uNXYtMy4zbC0uNzQtLjEyLS4wMS0uMWMwLS4xOC4xMy0uMy4zOC0uMzNsMS40My0uMTN2NC41NFptMi45Ny0zLjY0aC4wM2MuMjMtLjM2LjYxLS45NyAxLjMtLjk3LjQ5IDAgLjcyLjIzLjcyLjU2YS45LjkgMCAwIDEtLjE5LjUzIDEuNjIgMS42MiAwIDAgMC0uNy0uMTVjLS41OCAwLS44Ny4yMy0xLjEuNTN2My4xNmwuNzYuMTRjLjEuMDIuMTUuMDUuMTUuMTQgMCAuMS0uMDguMjYtLjEuMjlIODEuN3YtLjFjMC0uMTguMTItLjI3LjMyLS4zNGwuMzctLjEzdi0zLjg4bC0uNzUtLjEyLS4wMS0uMWMwLS4xOC4xNC0uMy4zOS0uMzNsMS40My0uMTMtLjA3LjlabTQuODktLjM0Yy0uNyAwLTEuMzIuNS0xLjMyIDEuODggMCAxLjMyLjUyIDIuMSAxLjUgMi4xLjY2IDAgMS4wMy0uMzUgMS4yLS41MS4xLjEuMTcuMjYuMTcuMzUgMCAuMjctLjU4Ljg4LTEuNzMuODgtMS4zNyAwLTIuMjUtLjg3LTIuMjUtMi42IDAtMS43NyAxLjE5LTIuNzMgMi42LTIuNzMgMS4xNiAwIDEuNDUuNTcgMS40NS44NyAwIC4yOS0uMTMuNTUtLjUzLjYzLS4xNi0uMzYtLjQtLjg3LTEuMS0uODdabTMuODkuMTNoLjAyYy4yMS0uMjUuNzItLjc2IDEuNjItLjc2IDEuMDUgMCAxLjY1LjYyIDEuNjUgMS44NXYyLjc4bC42LjE0Yy4xMS4wMi4xNS4wNS4xNS4xNCAwIC4xLS4wOC4yNi0uMS4yOWgtMi4zOGwtLjAyLS4xYzAtLjE4LjEzLS4yOC4zMy0uMzRsLjM1LS4xM3YtMi42NWMwLS45LS40OS0xLjE3LTEuMDItMS4xNy0uNjUgMC0xIC4yOC0xLjIuNDh2My4zNGwuNTkuMTRjLjEuMDIuMTUuMDUuMTUuMTRhLjYuNiAwIDAgMS0uMS4yOWgtMi40di0uMWMwLS4xOC4xMi0uMjguMzItLjM0bC4zNy0uMTNWMjEuOGwtLjc0LS4xLS4wMi0uMTJjMC0uMTguMTQtLjMuNC0uMzNsMS40My0uMTN2My4xOFptNS40LjUzYy0uMzcgMC0uNjUtLjI1LS42NS0uNjQgMC0uNC4yOC0uNjUuNjUtLjY1cy42Ni4yNS42Ni42NS0uMy42NC0uNjYuNjRabTAgNC4wNWEuNjIuNjIgMCAwIDEtLjY1LS42NGMwLS40LjI4LS42Ni42NS0uNjZzLjY2LjI2LjY2LjY2YzAgLjM4LS4zLjY0LS42Ni42NFpNMjcuMTcgMTM5Ljc2YzAgLjQyLjE1LjU1LjMzLjU1LjI0IDAgLjM3LS4xMy40LS4xOC4wNS4wNy4xMy4yMi4xMy4zMSAwIC4xNC0uMjguNTUtLjk2LjU1LS40OCAwLS43OC0uMi0uODgtLjczaC0uMDJjLS4xMi4yLS41Ljc1LTEuMzguNzUtLjggMC0xLjM2LS41NC0xLjM2LTEuMzcgMC0xLjEzIDEuMjMtMS41NSAyLjQtMS41NWguMjh2LS40N2MwLS45NS0uMjYtMS4zMy0uOS0xLjMzLS4yNSAwLS40Ni4wNy0uNTQuMS0uMS4yLS4xOC41Ny0uMjMuOTNoLS4yNGMtLjM2IDAtLjU2LS4xNi0uNTYtLjQ5IDAtLjY1Ljg2LTEuMTQgMS44NC0xLjE0IDEuMTUgMCAxLjY5LjYzIDEuNjkgMS44MnYyLjI1Wm0tMS4zLTEuMTRjLS44NS4wNC0xLjM0LjM1LTEuMzQuOSAwIC40NC4yNS43NC42OC43NHMuNzYtLjI5LjktLjQ2di0xLjJsLS4yNC4wMlptNy4yOSAxLjY4Ljc3LjF2LjA5YzAgLjE5LS4xMy4zMS0uMzguMzNsLTEuMzkuMTN2LS43aC0uMDJjLS4xNi4yMy0uNjMuNzYtMS41NS43Ni0xLjEyIDAtMS42NS0uNjYtMS42NS0xLjl2LTIuNjhsLS43NC0uMTEtLjAxLS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTR2My4zMWMwIC45NS41IDEuMTguOTcgMS4xOC41MyAwIC44OS0uMjQgMS4xMy0uNXYtMy4zbC0uNzQtLjEyLS4wMS0uMWMwLS4xOC4xMy0uMzEuMzgtLjMzbDEuNDMtLjE0djQuNTVabTQuMzQtMy45aC0xLjI4djMuOTJsLjcxLjE0Yy4xLjAyLjE1LjA1LjE1LjEzYS42LjYgMCAwIDEtLjEuM2gtMi41bC0uMDEtLjFjMC0uMTkuMTItLjI3LjMyLS4zNWwuMzYtLjEydi0zLjkzaC0uNzhsLS4wMS0uMWMwLS4yLjEzLS4zLjMzLS4zNWwuNDYtLjEydi0uMTFjMC0xLjY5IDEuMDMtMi41IDEuOTMtMi41LjUyIDAgLjczLjIyLjczLjU1IDAgLjI2LS4xNS40LS4zMS41LS4xLS4xMS0uMzctLjMxLS43LS4zMS0uNDQgMC0uNi4yNS0uNi44N2wuMDIgMWgxLjRsLS4xMi41N1ptNS4yNC4wMWgtLjg1Yy4yLjI3LjMyLjU4LjMyLjk2IDAgMS4xMS0uOTIgMS43NC0yLjA3IDEuNzQtLjE3IDAtLjMzLS4wMi0uNDktLjA1YS41My41MyAwIDAgMC0uMy40N2MwIC4yNS4xOC4zNy41My4zN2gxLjIyYy45NyAwIDEuNTEuNDQgMS41MSAxLjIgMCAxLjA1LTEuMDMgMi4wMS0yLjggMi4wMS0xLjMgMC0xLjkyLS40NS0xLjkyLTEuMjIgMC0uNzMuNTgtMS4wOC45NS0xLjJ2LS4wMWEuOC44IDAgMCAxLS40My0uNzRjMC0uNi41Ni0uOS43Ni0xdi0uMDJhMS42IDEuNiAwIDAgMS0uOTctMS41NWMwLTEuMS45My0xLjY4IDItMS42OC4yOCAwIC41NS4wNC44Mi4xM2gxLjgzbC0uMTEuNlptLTMuMDMgNC40M2MtLjE0IDAtLjI3IDAtLjM4LS4wMmEuODYuODYgMCAwIDAtLjQ2Ljc4YzAgLjU1LjM0LjkgMS4xLjkgMS4wMyAwIDEuNjYtLjQ4IDEuNjYtMS4wNCAwLS40My0uMjUtLjYyLS43OC0uNjJIMzkuN1ptLS40Ni0zLjQ2YzAgLjgzLjQyIDEuMTUuOTUgMS4xNS41NiAwIC45Ny0uMzIuOTctMS4xNSAwLS43NS0uNC0xLjEyLS45NS0xLjEycy0uOTcuMzEtLjk3IDEuMTJabTUuNzEtLjcySDQ1Yy4yMi0uMzYuNi0uOTcgMS4yOS0uOTcuNSAwIC43Mi4yMy43Mi41NmEuOS45IDAgMCAxLS4xOS41MyAxLjYyIDEuNjIgMCAwIDAtLjctLjE2Yy0uNTggMC0uODcuMjMtMS4xLjU0djMuMTZsLjc2LjE0Yy4xLjAyLjE1LjA1LjE1LjEzIDAgLjEtLjA4LjI2LS4xLjNoLTIuNTV2LS4xYzAtLjE5LjEyLS4yNy4zMi0uMzVsLjM3LS4xMnYtMy44OWwtLjc1LS4xMXYtLjFjMC0uMTguMTMtLjMxLjM4LS4zM2wxLjQzLS4xNC0uMDcuOVptNy4yNiAzLjY0Ljc3LjF2LjA5YzAgLjE5LS4xMy4zMS0uMzguMzNsLTEuMzkuMTN2LS43aC0uMDJjLS4xNy4yMy0uNjMuNzYtMS41NS43Ni0xLjEzIDAtMS42NS0uNjYtMS42NS0xLjl2LTIuNjhsLS43NS0uMTF2LS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTR2My4zMWMwIC45NS41IDEuMTguOTcgMS4xOC41MyAwIC44OS0uMjQgMS4xMy0uNXYtMy4zbC0uNzUtLjEydi0uMWMwLS4xOC4xMy0uMzEuMzgtLjMzbDEuNDMtLjE0djQuNTVabTYuMzIuMDIuNjIuMTRjLjEuMDIuMTUuMDUuMTUuMTMgMCAuMS0uMDkuMjYtLjEuM2gtMi40di0uMWMwLS4xOS4xMi0uMjguMzItLjM1bC4zNS0uMTJ2LTIuNjZjMC0uODktLjUtMS4xNi0xLjAyLTEuMTYtLjYgMC0uOTguMjgtMS4yLjQ2djMuMzZsLjYuMTRjLjEuMDIuMTQuMDUuMTQuMTMgMCAuMS0uMDguMjYtLjEuM2gtMi40di0uMWMwLS4xOS4xMi0uMjcuMzItLjM1bC4zNi0uMTJ2LTMuODlsLS43NC0uMTEtLjAxLS4xYzAtLjE4LjEzLS4zMS4zOS0uMzNsMS40Mi0uMTQtLjA2Ljc0aC4wM2MuMjktLjMuNzYtLjggMS43Mi0uOCAxLjAzIDAgMS42LjY2IDEuNiAxLjg1djIuNzhabTUuODItLjAyLjc2LjEuMDEuMDljMCAuMTktLjEzLjMxLS4zOC4zM2wtMS4zOS4xM3YtLjY4aC0uMDNjLS4yMy4zMi0uNjcuNzQtMS41Ljc0LTEuMDIgMC0xLjk5LS42Ni0xLjk5LTIuNDkgMC0xLjk1IDEuMzctMi44MyAyLjcxLTIuODMuMyAwIC41Ny4wNS43NS4xdi0xLjg0bC0uNzUtLjF2LS4xMmMwLS4xOC4xMy0uMy4zOC0uMzNsMS40My0uMTR2Ny4wNFptLTEuMDYtMy42N2ExLjI2IDEuMjYgMCAwIDAtLjg4LS4zMWMtLjg1IDAtMS40OC42LTEuNDggMiAwIDEuMzUuNTggMS45IDEuMjkgMS45LjYgMCAuOTMtLjI5IDEuMDctLjQ1di0zLjE0Wm01LjczIDEuNzRjLjAxIDEuMy42MyAxLjkgMS41MyAxLjkuNjcgMCAxLjA1LS4yNiAxLjMyLS40OC4xLjA5LjE1LjI3LjE1LjM2IDAgLjI2LS42OS44Ni0xLjg2Ljg2LTEuMjkgMC0yLjI1LS43My0yLjI1LTIuNTZzMS4xLTIuNzYgMi4zLTIuNzZjMS4xOCAwIDEuNzguNzIgMS43OCAxLjc3IDAgLjI4LS4wNS42NC0uMTIuOWgtMi44NVptMS44NC0uNTZjLjAyLS4xLjA1LS4yNy4wNS0uNDUgMC0uNTgtLjIxLTEuMDctLjgyLTEuMDctLjYyIDAtLjk5LjUtMS4wNiAxLjUyaDEuODNabTMuNjcgMi41MS42Mi4xNGMuMS4wMi4xNS4wNS4xNS4xMyAwIC4xLS4wOS4yNi0uMS4zSDcyLjhsLS4wMS0uMWMwLS4xOS4xMi0uMjcuMzItLjM1bC4zNy0uMTJ2LTMuODlsLS43NC0uMTEtLjAxLS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTR2NC41N1ptLS41My01LjZjLS40IDAtLjY5LS4yNy0uNjktLjY4IDAtLjQuMy0uNjcuNjktLjY3LjM3IDAgLjY5LjI3LjY5LjY3IDAgLjQxLS4zMi42Ny0uNy42N1ptNi44NiA1LjYuNjIuMTRjLjEuMDIuMTUuMDUuMTUuMTMgMCAuMS0uMDguMjYtLjEuM2gtMi4zOXYtLjFjMC0uMTkuMTItLjI4LjMyLS4zNWwuMzQtLjEydi0yLjY2YzAtLjg5LS41LTEuMTYtMS4wMi0xLjE2LS42IDAtLjk4LjI4LTEuMi40NnYzLjM2bC42LjE0Yy4xLjAyLjE0LjA1LjE0LjEzIDAgLjEtLjA4LjI2LS4xLjNoLTIuMzl2LS4xYzAtLjE5LjEyLS4yNy4zMi0uMzVsLjM3LS4xMnYtMy44OWwtLjc1LS4xMXYtLjFjMC0uMTguMTMtLjMxLjM4LS4zM2wxLjQzLS4xNC0uMDcuNzRoLjA0Yy4yOC0uMy43NS0uOCAxLjcyLS44IDEuMDMgMCAxLjYuNjYgMS42IDEuODV2Mi43OFptMi40Mi0xLjk1YzAgMS4zLjYzIDEuOSAxLjUzIDEuOS42NyAwIDEuMDUtLjI2IDEuMzEtLjQ4LjEuMDkuMTYuMjcuMTYuMzYgMCAuMjYtLjcuODYtMS44Ni44Ni0xLjI5IDAtMi4yNS0uNzMtMi4yNS0yLjU2czEuMS0yLjc2IDIuMy0yLjc2YzEuMTggMCAxLjc4LjcyIDEuNzggMS43NyAwIC4yOC0uMDUuNjQtLjEzLjlIODMuM1ptMS44NC0uNTZjLjAyLS4xLjA1LS4yNy4wNS0uNDUgMC0uNTgtLjIxLTEuMDctLjgyLTEuMDctLjYyIDAtLjk5LjUtMS4wNiAxLjUyaDEuODNabTQuNDItMS4zNGExLjI2IDEuMjYgMCAwIDAtLjctLjIxYy0uMzQgMC0uNy4xNC0uNy41OCAwIC40Ny41Ljc0IDEgMS4wMy42My4zOCAxLjMuNzkgMS4zIDEuNjMgMCAuODYtLjcyIDEuNTEtMS44NyAxLjUxYTIuOSAyLjkgMCAwIDEtMS4zMy0uMzEgNS4yNSA1LjI1IDAgMCAxLS4wOC0uODFjMC0uNDIuMTItLjU5LjQzLS41OWwuMTQuMDEuMjIuOWMuMS4wNy40MS4yLjcxLjIuNTIgMCAuODQtLjIuODQtLjY0IDAtLjQ1LS41LS43LS45Ny0xLS42NC0uNC0xLjI4LS44MS0xLjI4LTEuNzIgMC0uODEuNzEtMS4zNiAxLjcyLTEuMzYuNiAwIDEuMDQuMjEgMS4yMy4zOS4wMi4xNC4wNC4zNy4wNC41OCAwIC4zNi0uMDcuNi0uNDUuNmgtLjEzbC0uMTItLjhabTcuNzguNjd2LjAyYzEuMDIuMTcgMS42OS43NCAxLjY5IDEuNyAwIDEuMTgtLjk3IDIuMDMtMi44NiAyLjAzSDkzLjV2LS4xMmMwLS4xNy4wOC0uMzEuMzUtLjM4bC40NC0uMXYtNi4wN2wtLjY0LS4xNWMtLjEtLjAyLS4xNS0uMDUtLjE1LS4xMSAwLS4xLjA4LS4yMi4xMi0uMzJoMi40N2MxLjg3IDAgMi43Ni42NiAyLjc2IDEuODMgMCAxLS42MSAxLjQ3LTEuNTEgMS42N1ptLTEuMzUtMi44NmgtLjU2djIuNjVoLjU1YzEuMiAwIDEuNy0uNTkgMS43LTEuMzQgMC0uODYtLjUzLTEuMy0xLjY5LTEuM1ptLjEzIDMuMjZoLS43djIuN2guNjRjMS4yMiAwIDEuNzctLjU3IDEuNzctMS40IDAtLjc3LS41OC0xLjMtMS43MS0xLjNabTQuOTguODNjMCAxLjMuNjMgMS45IDEuNTMgMS45LjY3IDAgMS4wNS0uMjYgMS4zMS0uNDguMS4wOS4xNi4yNy4xNi4zNiAwIC4yNi0uNy44Ni0xLjg2Ljg2LTEuMyAwLTIuMjYtLjczLTIuMjYtMi41NnMxLjEtMi43NiAyLjMtMi43NmMxLjE5IDAgMS43OS43MiAxLjc5IDEuNzcgMCAuMjgtLjA2LjY0LS4xMy45aC0yLjg0Wm0xLjgzLS41NmMuMDItLjEuMDYtLjI3LjA2LS40NSAwLS41OC0uMjEtMS4wNy0uODItMS4wNy0uNjIgMC0uOTkuNS0xLjA2IDEuNTJoMS44MlptNC40Mi0xLjM0YTEuMjUgMS4yNSAwIDAgMC0uNjktLjIxYy0uMzQgMC0uNy4xNC0uNy41OCAwIC40Ny41Ljc0IDEgMS4wMy42Mi4zOCAxLjMuNzkgMS4zIDEuNjMgMCAuODYtLjcyIDEuNTEtMS44NyAxLjUxYTIuOSAyLjkgMCAwIDEtMS4zMy0uMzEgNS4wMSA1LjAxIDAgMCAxLS4wOC0uODFjMC0uNDIuMTItLjU5LjQzLS41OWwuMTQuMDEuMjIuOWMuMS4wNy40LjIuNzEuMi41MiAwIC44NC0uMi44NC0uNjQgMC0uNDUtLjUtLjctLjk3LTEtLjY0LS40LTEuMjgtLjgxLTEuMjgtMS43MiAwLS44MS43LTEuMzYgMS43Mi0xLjM2LjYgMCAxLjA0LjIxIDEuMjMuMzkuMDIuMTQuMDQuMzcuMDQuNTggMCAuMzYtLjA4LjYtLjQ1LjZoLS4xM2wtLjEzLS44Wm00LjE2LS4xNWMtLjcgMC0xLjMxLjUtMS4zMSAxLjg4IDAgMS4zMi41MSAyLjA5IDEuNSAyLjA5LjY1IDAgMS4wMy0uMzQgMS4yLS41LjEuMDkuMTcuMjYuMTcuMzUgMCAuMjYtLjU4Ljg3LTEuNzQuODctMS4zNiAwLTIuMjQtLjg2LTIuMjQtMi42IDAtMS43NyAxLjE4LTIuNzIgMi42LTIuNzIgMS4xNSAwIDEuNDUuNTcgMS40NS44NyAwIC4yOC0uMTQuNTUtLjU0LjYzLS4xNS0uMzctLjQtLjg3LTEuMDktLjg3Wm0zLjkuMTNoLjAyYTIgMiAwIDAgMSAxLjYyLS43NmMxLjA1IDAgMS42NC42MiAxLjY0IDEuODV2Mi43OGwuNjEuMTRjLjEuMDIuMTUuMDUuMTUuMTMgMCAuMS0uMDguMjYtLjEuM2gtMi4zOXYtLjFjMC0uMTkuMTItLjI4LjMyLS4zNWwuMzQtLjEydi0yLjY2YzAtLjg5LS40OC0xLjE2LTEuMDItMS4xNi0uNjUgMC0xIC4yOC0xLjIuNDh2My4zNGwuNi4xNGMuMS4wMi4xNC4wNS4xNC4xM2EuNi42IDAgMCAxLS4xLjNoLTIuMzhsLS4wMi0uMWMwLS4xOS4xMy0uMjguMzMtLjM1bC4zNy0uMTJ2LTYuMzdsLS43NS0uMXYtLjEyYzAtLjE4LjEzLS4zLjM4LS4zM2wxLjQ0LS4xNHYzLjE5Wm02LjE3IDMuODcuNjEuMTRjLjEuMDIuMTUuMDUuMTUuMTMgMCAuMS0uMDguMjYtLjEuM2gtMi40bC0uMDEtLjFjMC0uMTkuMTItLjI4LjMyLS4zNWwuMzctLjEydi02LjM3bC0uNzQtLjEtLjAyLS4xMmMwLS4xOC4xNC0uMy40LS4zM2wxLjQyLS4xNHY3LjA2Wm02LjEtLjAyLjc3LjF2LjA5YzAgLjE5LS4xMy4zMS0uMzguMzNsLTEuMzkuMTN2LS43aC0uMDJjLS4xNy4yMy0uNjMuNzYtMS41NS43Ni0xLjEyIDAtMS42NS0uNjYtMS42NS0xLjl2LTIuNjhsLS43NC0uMTEtLjAxLS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTR2My4zMWMwIC45NS41IDEuMTguOTcgMS4xOC41MyAwIC44OS0uMjQgMS4xMy0uNXYtMy4zbC0uNzQtLjEyLS4wMS0uMWMwLS4xOC4xMy0uMzEuMzgtLjMzbDEuNDMtLjE0djQuNTVabTMuNzgtMy44M2ExLjI1IDEuMjUgMCAwIDAtLjctLjIxYy0uMzQgMC0uNy4xNC0uNy41OCAwIC40Ny41Ljc0IDEgMS4wMy42My4zOCAxLjMuNzkgMS4zIDEuNjMgMCAuODYtLjcxIDEuNTEtMS44NiAxLjUxLS42IDAtMS4xMi0uMTgtMS4zNC0uMzFhNS4wMSA1LjAxIDAgMCAxLS4wNy0uODFjMC0uNDIuMTEtLjU5LjQzLS41OWwuMTQuMDEuMjIuOWMuMS4wNy40LjIuNzEuMi41MSAwIC44NC0uMi44NC0uNjQgMC0uNDUtLjUtLjctLjk4LTEtLjY0LS40LTEuMjgtLjgxLTEuMjgtMS43MiAwLS44MS43Mi0xLjM2IDEuNzItMS4zNi42MSAwIDEuMDQuMjEgMS4yMy4zOS4wMi4xNC4wNC4zNy4wNC41OCAwIC4zNi0uMDcuNi0uNDUuNmgtLjEybC0uMTMtLjhabTQuMTQgMGExLjI1IDEuMjUgMCAwIDAtLjctLjIxYy0uMzQgMC0uNy4xNC0uNy41OCAwIC40Ny41Ljc0IDEgMS4wMy42My4zOCAxLjMuNzkgMS4zIDEuNjMgMCAuODYtLjcxIDEuNTEtMS44NyAxLjUxYTIuOSAyLjkgMCAwIDEtMS4zMy0uMzEgNS4wMSA1LjAxIDAgMCAxLS4wNy0uODFjMC0uNDIuMTEtLjU5LjQzLS41OWwuMTMuMDEuMjIuOWMuMS4wNy40MS4yLjcyLjIuNTEgMCAuODQtLjIuODQtLjY0IDAtLjQ1LS41LS43LS45OC0xLS42NC0uNC0xLjI4LS44MS0xLjI4LTEuNzIgMC0uODEuNzEtMS4zNiAxLjcyLTEuMzYuNjEgMCAxLjA0LjIxIDEuMjMuMzkuMDIuMTQuMDQuMzcuMDQuNTggMCAuMzYtLjA3LjYtLjQ1LjZoLS4xM2wtLjEyLS44Wm0yLjg0IDEuOWMuMDEgMS4zLjYzIDEuOSAxLjU0IDEuOS42NyAwIDEuMDUtLjI2IDEuMy0uNDguMTEuMDkuMTcuMjcuMTcuMzYgMCAuMjYtLjcuODYtMS44Ni44Ni0xLjMgMC0yLjI2LS43My0yLjI2LTIuNTZzMS4xLTIuNzYgMi4zLTIuNzZjMS4xOSAwIDEuNzguNzIgMS43OCAxLjc3IDAgLjI4LS4wNS42NC0uMTIuOWgtMi44NVptMS44NC0uNTZjLjAyLS4xLjA1LS4yNy4wNS0uNDUgMC0uNTgtLjItMS4wNy0uODItMS4wNy0uNjEgMC0uOTguNS0xLjA2IDEuNTJoMS44M1ptNC40My0xLjM0YTEuMjUgMS4yNSAwIDAgMC0uNy0uMjFjLS4zNSAwLS43LjE0LS43LjU4IDAgLjQ3LjQ5Ljc0IDEgMS4wMy42Mi4zOCAxLjMuNzkgMS4zIDEuNjMgMCAuODYtLjcyIDEuNTEtMS44NyAxLjUxLS42IDAtMS4xMi0uMTgtMS4zNC0uMzFhNS4wMSA1LjAxIDAgMCAxLS4wNy0uODFjMC0uNDIuMTEtLjU5LjQzLS41OWwuMTQuMDEuMjIuOWMuMS4wNy40LjIuNzEuMi41MSAwIC44NC0uMi44NC0uNjQgMC0uNDUtLjUtLjctLjk4LTEtLjY0LS40LTEuMjgtLjgxLTEuMjgtMS43MiAwLS44MS43Mi0xLjM2IDEuNzItMS4zNi42MSAwIDEuMDQuMjEgMS4yMy4zOS4wMi4xNC4wNC4zNy4wNC41OCAwIC4zNi0uMDcuNi0uNDUuNmgtLjEybC0uMTMtLjhaTTI4IDE1Mi4zbC43Ny4xLjAxLjA5YzAgLjE5LS4xMy4zMS0uMzkuMzNsLTEuMzguMTN2LS42OGgtLjAzYy0uMjMuMzItLjY3Ljc0LTEuNS43NC0xLjAyIDAtMS45OS0uNjYtMS45OS0yLjQ5IDAtMS45NSAxLjM3LTIuODMgMi43MS0yLjgzLjMgMCAuNTcuMDUuNzUuMXYtMS44NGwtLjc1LS4xdi0uMTJjMC0uMTguMTMtLjMuMzgtLjMzbDEuNDMtLjEzdjcuMDNabS0xLjA1LTMuNjdhMS4yNiAxLjI2IDAgMCAwLS44OC0uMzFjLS44NiAwLTEuNDkuNi0xLjQ5IDIgMCAxLjM1LjYgMS45IDEuMyAxLjkuNiAwIC45My0uMjkgMS4wNy0uNDV2LTMuMTRabTMuNTUgMS43NGMwIDEuMy42MyAxLjkgMS41MyAxLjkuNjcgMCAxLjA1LS4yNSAxLjMxLS40Ny4xLjA4LjE2LjI2LjE2LjM1IDAgLjI2LS43Ljg2LTEuODYuODYtMS4zIDAtMi4yNi0uNzMtMi4yNi0yLjU2czEuMS0yLjc2IDIuMy0yLjc2YzEuMTkgMCAxLjc5LjcyIDEuNzkgMS43OGE0IDQgMCAwIDEtLjEzLjlIMzAuNVptMS44My0uNTZjLjAyLS4xLjA2LS4yNy4wNi0uNDUgMC0uNTgtLjIxLTEuMDctLjgyLTEuMDctLjYyIDAtLjk5LjUtMS4wNiAxLjUyaDEuODJabTQuNDItMS4zNGExLjI2IDEuMjYgMCAwIDAtLjY5LS4yMWMtLjM1IDAtLjcuMTQtLjcuNTggMCAuNDcuNDkuNzQgMSAxLjAzLjYyLjM4IDEuMy44IDEuMyAxLjYzIDAgLjg2LS43MiAxLjUxLTEuODcgMS41MS0uNTkgMC0xLjEyLS4xOC0xLjM0LS4zMWE1LjI1IDUuMjUgMCAwIDEtLjA3LS44MWMwLS40Mi4xMi0uNTkuNDMtLjU5bC4xNC4wMS4yMi45Yy4xLjA3LjQuMi43MS4yLjUyIDAgLjg0LS4yLjg0LS42NCAwLS40NS0uNS0uNy0uOTctMS0uNjQtLjQtMS4yOS0uODEtMS4yOS0xLjcyIDAtLjgxLjcyLTEuMzYgMS43My0xLjM2LjYgMCAxLjA0LjIxIDEuMjIuMzkuMDMuMTUuMDUuMzcuMDUuNTggMCAuMzYtLjA4LjYtLjQ1LjZoLS4xM2wtLjEzLS44Wm02LjMyIDQuNDJINDAuN3YtLjEyYzAtLjE3LjA4LS4zMS4zNS0uMzhsLjQ0LS4xdi02LjA3bC0uNjQtLjE1Yy0uMS0uMDItLjE1LS4wNS0uMTUtLjExIDAtLjEuMDgtLjIyLjEyLS4zMmgyLjI1YzIuNjUgMCA0LjI0Ljk5IDQuMjQgMy41MiAwIDIuNTUtMS41OCAzLjczLTQuMjQgMy43M1ptLS4wMy02LjZoLS40MnY1Ljk2aC40MmMxLjk1IDAgMy4wNi0xLjAyIDMuMDYtMy4wNiAwLTEuOTYtMS4xMi0yLjktMy4wNi0yLjlabTYuMzEgNC4wOGMuMDEgMS4zLjYzIDEuOSAxLjU0IDEuOS42NyAwIDEuMDUtLjI1IDEuMy0uNDdhLjUuNSAwIDAgMSAuMTcuMzVjMCAuMjYtLjcuODYtMS44Ni44Ni0xLjMgMC0yLjI2LS43My0yLjI2LTIuNTZzMS4xLTIuNzYgMi4zLTIuNzZjMS4xOSAwIDEuNzguNzIgMS43OCAxLjc4IDAgLjI3LS4wNS42My0uMTIuOWgtMi44NVptMS44NC0uNTZjLjAyLS4xLjA1LS4yNy4wNS0uNDUgMC0uNTgtLjItMS4wNy0uODItMS4wNy0uNjEgMC0uOTguNS0xLjA2IDEuNTJoMS44M1ptNi43IDIuNDkuNzcuMXYuMDljMCAuMTktLjEzLjMxLS4zOC4zM2wtMS4zOS4xM3YtLjdoLS4wMmMtLjE3LjIzLS42My43Ni0xLjU1Ljc2LTEuMTMgMC0xLjY1LS42Ni0xLjY1LTEuOXYtMi42N2wtLjc1LS4xMnYtLjFjMC0uMTguMTMtLjMxLjM4LS4zM2wxLjQzLS4xNHYzLjMxYzAgLjk2LjUgMS4xOC45NyAxLjE4LjUzIDAgLjg5LS4yMyAxLjEzLS41di0zLjNsLS43NS0uMTJ2LS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTR2NC41NVptNC4zOC0zLjloLTEuNDR2My4wNmMwIC40Ny4xNS44Ni42Ny44Ni40MSAwIC43NS0uMTguODMtLjI1LjA1LjA4LjEuMjQuMS4zNCAwIC4xMS0uMzcuNi0xLjMzLjYtLjk1IDAtMS4zMy0uNTUtMS4zMy0xLjM2di0zLjI2aC0uNzl2LS4xYzAtLjE5LjEyLS4zLjMyLS4zNWwuNTEtLjEyLjI0LTEuNDJoLjc4djEuNDJoMS41NWwtLjExLjU3Wm0zLjA4LjA3YTEuMjYgMS4yNiAwIDAgMC0uNy0uMjFjLS4zNCAwLS43LjE0LS43LjU4IDAgLjQ3LjUuNzQgMSAxLjAzLjYzLjM4IDEuMy44IDEuMyAxLjYzIDAgLjg2LS43MiAxLjUxLTEuODcgMS41MWEyLjkgMi45IDAgMCAxLTEuMzMtLjMxIDUuMjUgNS4yNSAwIDAgMS0uMDgtLjgxYzAtLjQyLjEyLS41OS40My0uNTlsLjE0LjAxLjIyLjljLjEuMDcuNDEuMi43MS4yLjUyIDAgLjg0LS4yLjg0LS42NCAwLS40NS0uNS0uNy0uOTctMS0uNjQtLjQtMS4yOC0uODEtMS4yOC0xLjcyIDAtLjgxLjcxLTEuMzYgMS43Mi0xLjM2LjYgMCAxLjA0LjIxIDEuMjMuMzkuMDIuMTUuMDQuMzcuMDQuNTggMCAuMzYtLjA3LjYtLjQ1LjZoLS4xM2wtLjEyLS44Wm00LjE1LS4xNWMtLjcgMC0xLjMxLjUtMS4zMSAxLjg4IDAgMS4zMi41MSAyLjA5IDEuNSAyLjA5LjY1IDAgMS4wMy0uMzQgMS4yLS41LjEuMDkuMTcuMjYuMTcuMzUgMCAuMjYtLjU4Ljg3LTEuNzQuODctMS4zNiAwLTIuMjQtLjg2LTIuMjQtMi41OSAwLTEuNzcgMS4xOC0yLjczIDIuNi0yLjczIDEuMTYgMCAxLjQ1LjU3IDEuNDUuODcgMCAuMjgtLjE0LjU1LS41NC42My0uMTUtLjM3LS40LS44Ny0xLjA5LS44N1ptMy45LjEzaC4wMmEyIDIgMCAwIDEgMS42Mi0uNzZjMS4wNSAwIDEuNjQuNjIgMS42NCAxLjg1djIuNzhsLjYxLjE0Yy4xLjAyLjE1LjA1LjE1LjEzYS44LjggMCAwIDEtLjEuM2gtMi4zOXYtLjFjMC0uMTkuMTItLjI4LjMyLS4zNGwuMzQtLjEzdi0yLjY2YzAtLjg5LS40OC0xLjE2LTEuMDItMS4xNi0uNjUgMC0xIC4yOC0xLjIuNDh2My4zNGwuNi4xNGMuMS4wMi4xNC4wNS4xNC4xM2EuNi42IDAgMCAxLS4xLjNoLTIuMzhsLS4wMi0uMWMwLS4xOS4xMy0uMjguMzMtLjM0bC4zNy0uMTN2LTYuMzdsLS43NS0uMXYtLjEyYzAtLjE4LjEzLS4zLjM4LS4zM2wxLjQ0LS4xM3YzLjE4Wm01LjY5IDEuOTJjMCAxLjMuNjMgMS45IDEuNTMgMS45LjY3IDAgMS4wNS0uMjUgMS4zMS0uNDcuMS4wOC4xNi4yNi4xNi4zNSAwIC4yNi0uNy44Ni0xLjg2Ljg2LTEuMjkgMC0yLjI1LS43My0yLjI1LTIuNTZzMS4xLTIuNzYgMi4zLTIuNzZjMS4xOCAwIDEuNzguNzIgMS43OCAxLjc4IDAgLjI3LS4wNS42My0uMTMuOUg3OS4xWm0xLjg0LS41NmMuMDItLjEuMDUtLjI3LjA1LS40NSAwLS41OC0uMjEtMS4wNy0uODItMS4wNy0uNjIgMC0uOTkuNS0xLjA2IDEuNTJoMS44M1ptNi45NiAyLjUxLjYyLjE0Yy4xLjAyLjE0LjA1LjE0LjEzYS44LjggMCAwIDEtLjEuM2gtMi4zOGwtLjAyLS4xYzAtLjE5LjEzLS4yOC4zMy0uMzRsLjM1LS4xM3YtMi42NmMwLS44OS0uNS0xLjE2LTEuMDItMS4xNi0uNiAwLS45OS4yOC0xLjIuNDZ2My4zNmwuNTkuMTRjLjEuMDIuMTUuMDUuMTUuMTMgMCAuMS0uMDkuMjctLjEuM2gtMi40di0uMWMwLS4xOS4xMi0uMjcuMzItLjM0bC4zNy0uMTN2LTMuODhsLS43NC0uMTItLjAxLS4xYzAtLjE4LjEzLS4zMS4zOC0uMzNsMS40My0uMTQtLjA2Ljc0aC4wM2MuMjgtLjMuNzYtLjggMS43Mi0uOCAxLjAzIDAgMS42LjY2IDEuNiAxLjg1djIuNzhabTcuMzUtMy4xOHYuMDJjMS4wMi4xNyAxLjY5Ljc1IDEuNjkgMS43IDAgMS4xOC0uOTcgMi4wMy0yLjg2IDIuMDNIOTEuNHYtLjEyYzAtLjE3LjA4LS4zMS4zNS0uMzhsLjQ0LS4xdi02LjA3bC0uNjQtLjE1Yy0uMS0uMDItLjE1LS4wNS0uMTUtLjExIDAtLjEuMDgtLjIyLjEyLS4zMmgyLjQ3YzEuODcgMCAyLjc2LjY3IDIuNzYgMS44MyAwIDEtLjYxIDEuNDctMS41MSAxLjY3Wm0tMS4zNS0yLjg2aC0uNTZ2Mi42NWguNTVjMS4yIDAgMS43LS41OSAxLjctMS4zMyAwLS44Ny0uNTMtMS4zMi0xLjY5LTEuMzJabS4xMyAzLjI2aC0uN3YyLjdoLjY0YzEuMjIgMCAxLjc3LS41NyAxLjc3LTEuMzkgMC0uNzgtLjU4LTEuMzEtMS43MS0xLjMxWm04LjU1IDIuNzYuNzYuMS4wMS4wOWMwIC4xOS0uMTMuMzEtLjM5LjMzbC0xLjM4LjEzdi0uN2gtLjAyYy0uMTcuMjMtLjYzLjc2LTEuNTYuNzYtMS4xMiAwLTEuNjQtLjY2LTEuNjQtMS45di0yLjY3bC0uNzUtLjEyLS4wMS0uMWMwLS4xOC4xNC0uMzEuMzktLjMzbDEuNDMtLjE0djMuMzFjMCAuOTYuNSAxLjE4Ljk2IDEuMTguNTQgMCAuOS0uMjMgMS4xNC0uNXYtMy4zbC0uNzUtLjEydi0uMWMwLS4xOC4xMy0uMzEuMzgtLjMzbDEuNDMtLjE0djQuNTVabTYuMzIuMDIuNjIuMTRjLjEuMDIuMTQuMDUuMTQuMTNhLjguOCAwIDAgMS0uMS4zaC0yLjM5di0uMWMwLS4xOS4xMi0uMjguMzItLjM0bC4zNS0uMTN2LTIuNjZjMC0uODktLjUtMS4xNi0xLjAyLTEuMTYtLjYgMC0uOTkuMjgtMS4yMS40NnYzLjM2bC42LjE0Yy4xLjAyLjE1LjA1LjE1LjEzIDAgLjEtLjA5LjI3LS4xLjNoLTIuNHYtLjFjMC0uMTkuMTItLjI3LjMyLS4zNGwuMzctLjEzdi0zLjg4bC0uNzQtLjEyLS4wMi0uMWMwLS4xOC4xNC0uMzEuNC0uMzNsMS40Mi0uMTQtLjA2Ljc0aC4wM2MuMjgtLjMuNzUtLjggMS43Mi0uOCAxLjAzIDAgMS42LjY2IDEuNiAxLjg1djIuNzhabTUuODEtLjAyLjc3LjEuMDEuMDljMCAuMTktLjE0LjMxLS4zOS4zM2wtMS4zOC4xM3YtLjY4aC0uMDNjLS4yNC4zMi0uNjguNzQtMS41Ljc0LTEuMDIgMC0xLjk5LS42Ni0xLjk5LTIuNDkgMC0xLjk1IDEuMzctMi44MyAyLjctMi44My4zMSAwIC41OC4wNS43NS4xdi0xLjg0bC0uNzQtLjEtLjAxLS4xMmMwLS4xOC4xMy0uMy4zOS0uMzNsMS40Mi0uMTN2Ny4wM1ptLTEuMDYtMy42N2ExLjI2IDEuMjYgMCAwIDAtLjg4LS4zMWMtLjg1IDAtMS40OC42LTEuNDggMiAwIDEuMzUuNTkgMS45IDEuMyAxLjkuNiAwIC45My0uMjkgMS4wNi0uNDV2LTMuMTRabTMuNTYgMS43NGMwIDEuMy42MiAxLjkgMS41MyAxLjkuNjcgMCAxLjA1LS4yNSAxLjMtLjQ3YS41LjUgMCAwIDEgLjE3LjM1YzAgLjI2LS43Ljg2LTEuODYuODYtMS4zIDAtMi4yNi0uNzMtMi4yNi0yLjU2czEuMS0yLjc2IDIuMy0yLjc2YzEuMTkgMCAxLjc4LjcyIDEuNzggMS43OCAwIC4yNy0uMDUuNjMtLjEyLjloLTIuODVabTEuODMtLjU2Yy4wMi0uMS4wNS0uMjcuMDUtLjQ1IDAtLjU4LS4yLTEuMDctLjgyLTEuMDctLjYxIDAtLjk4LjUtMS4wNiAxLjUyaDEuODNabTQuNDItMS4zNGExLjI2IDEuMjYgMCAwIDAtLjctLjIxYy0uMzQgMC0uNy4xNC0uNy41OCAwIC40Ny41Ljc0IDEgMS4wMy42My4zOCAxLjMuOCAxLjMgMS42MyAwIC44Ni0uNzEgMS41MS0xLjg3IDEuNTEtLjU4IDAtMS4xLS4xOC0xLjMzLS4zMWE1LjI1IDUuMjUgMCAwIDEtLjA3LS44MWMwLS40Mi4xMS0uNTkuNDMtLjU5bC4xNC4wMS4yMi45Yy4xLjA3LjQuMi43LjIuNTIgMCAuODUtLjIuODUtLjY0IDAtLjQ1LS41LS43LS45OC0xLS42NC0uNC0xLjI4LS44MS0xLjI4LTEuNzIgMC0uODEuNzItMS4zNiAxLjcyLTEuMzYuNjEgMCAxLjA0LjIxIDEuMjMuMzkuMDIuMTUuMDQuMzcuMDQuNTggMCAuMzYtLjA3LjYtLjQ1LjZoLS4xMmwtLjEzLS44Wm00Ljc0LS4wN2gtMS40NHYzLjA2YzAgLjQ3LjE0Ljg2LjY3Ljg2LjQgMCAuNzQtLjE4LjgzLS4yNS4wNS4wOC4xLjI0LjEuMzQgMCAuMTEtLjM3LjYtMS4zMy42cy0xLjMzLS41NS0xLjMzLTEuMzZ2LTMuMjZoLS43OWwtLjAxLS4xYzAtLjE5LjEzLS4zLjMyLS4zNWwuNTItLjEyLjI0LTEuNDJoLjc4djEuNDJoMS41NWwtLjExLjU3Wm00LjM0IDMuMzZjMCAuNDIuMTYuNTUuMzQuNTUuMjQgMCAuMzctLjEzLjQtLjE4LjA1LjA3LjEyLjIyLjEyLjMyIDAgLjEzLS4yNy41NC0uOTUuNTQtLjQ5IDAtLjc5LS4yLS44OC0uNzNoLS4wM2MtLjExLjItLjUuNzUtMS4zNy43NS0uOCAwLTEuMzYtLjU0LTEuMzYtMS4zNyAwLTEuMTMgMS4yMi0xLjU1IDIuNC0xLjU1aC4yN3YtLjQ3YzAtLjk1LS4yNS0xLjMzLS45LTEuMzMtLjI0IDAtLjQ1LjA3LS41NC4xLS4xLjItLjE4LjU3LS4yMy45M2gtLjI0Yy0uMzYgMC0uNTYtLjE2LS41Ni0uNDkgMC0uNjUuODctMS4xNCAxLjg0LTEuMTQgMS4xNiAwIDEuNy42MyAxLjcgMS44MnYyLjI1Wm0tMS4zLTEuMTRjLS44NS4wNC0xLjMzLjM1LTEuMzMuOSAwIC40NC4yNS43NC42OC43NHMuNzYtLjI5LjktLjQ1di0xLjJoLS4yNVptNy4yNy0yLjIxaC0uODVjLjIuMjcuMzIuNTguMzIuOTYgMCAxLjExLS45MiAxLjc0LTIuMDcgMS43NC0uMTcgMC0uMzMtLjAyLS40OS0uMDVhLjUzLjUzIDAgMCAwLS4zLjQ3YzAgLjI1LjE3LjM3LjUzLjM3aDEuMjJjLjk2IDAgMS41MS40NCAxLjUxIDEuMiAwIDEuMDUtMS4wMyAyLjAxLTIuOCAyLjAxLTEuMyAwLTEuOTItLjQ1LTEuOTItMS4yMiAwLS43My41Ny0xLjA4Ljk1LTEuMnYtLjAxYS44LjggMCAwIDEtLjQzLS43NGMwLS42LjU2LS44OS43Ni0xdi0uMDJhMS42IDEuNiAwIDAgMS0uOTctMS41NWMwLTEuMS45My0xLjY4IDItMS42OC4yOCAwIC41NS4wNC44Mi4xM2gxLjgzbC0uMTEuNlptLTMuMDMgNC40NGMtLjE0IDAtLjI3LS4wMi0uMzktLjAzYS44Ni44NiAwIDAgMC0uNDUuNzhjMCAuNTUuMzQuOSAxLjEuOSAxLjAyIDAgMS42NS0uNDggMS42NS0xLjA0IDAtLjQzLS4yNC0uNjEtLjc3LS42MWgtMS4xNFptLS40Ni0zLjQ3YzAgLjgzLjQyIDEuMTYuOTUgMS4xNi41NiAwIC45Ny0uMzMuOTctMS4xNiAwLS43NC0uNC0xLjEyLS45NS0xLjEycy0uOTcuMzEtLjk3IDEuMTJabTUuMjMuOTljLjAxIDEuMy42MyAxLjkgMS41MyAxLjkuNjcgMCAxLjA1LS4yNSAxLjMyLS40Ny4xLjA4LjE1LjI2LjE1LjM1IDAgLjI2LS43Ljg2LTEuODYuODYtMS4yOSAwLTIuMjUtLjczLTIuMjUtMi41NnMxLjEtMi43NiAyLjMtMi43NmMxLjE4IDAgMS43OC43MiAxLjc4IDEuNzggMCAuMjctLjA1LjYzLS4xMi45aC0yLjg1Wm0xLjg0LS41NmMuMDItLjEuMDUtLjI3LjA1LS40NSAwLS41OC0uMjEtMS4wNy0uODItMS4wNy0uNjIgMC0uOTkuNS0xLjA2IDEuNTJoMS44M1ptNC40Mi0xLjM0YTEuMjYgMS4yNiAwIDAgMC0uNy0uMjFjLS4zNCAwLS43LjE0LS43LjU4IDAgLjQ3LjUuNzQgMSAxLjAzLjYzLjM4IDEuMy44IDEuMyAxLjYzIDAgLjg2LS43MSAxLjUxLTEuODcgMS41MWEyLjkgMi45IDAgMCAxLTEuMzMtLjMxIDUuMjUgNS4yNSAwIDAgMS0uMDgtLjgxYzAtLjQyLjEyLS41OS40NC0uNTlsLjEzLjAxLjIyLjljLjEuMDcuNDEuMi43Mi4yLjUxIDAgLjg0LS4yLjg0LS42NCAwLS40NS0uNS0uNy0uOTgtMS0uNjQtLjQtMS4yOC0uODEtMS4yOC0xLjcyIDAtLjgxLjcxLTEuMzYgMS43Mi0xLjM2LjYxIDAgMS4wNC4yMSAxLjIzLjM5LjAyLjE1LjA0LjM3LjA0LjU4IDAgLjM2LS4wNy42LS40NS42aC0uMTNsLS4xMi0uOFpNNTIuNzggNTEuNTVoMy41djIwaC0zLjV6IiBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAiLz48cGF0aCBkPSJNNTIuNzggNzEuNTVoMy41djIwaC0zLjV6IiBzdHlsZT0iZmlsbDpyZWQ7c3Ryb2tlLXdpZHRoOjAiLz48cGF0aCBkPSJNNTIuNzggOTEuNTVoMy41djIwaC0zLjV6IiBzdHlsZT0iZmlsbDojZmMwO3N0cm9rZS13aWR0aDowIi8+PHBhdGggZD0iTTM3LjQ1IDU4Ljg0Yy4wMy0uMjIuMDUtLjQ1LjA1LS42OCAwLS4xMyAwLS4yOS0uMDItLjQ1IDItLjA0IDMuNzQtMS40NyAzLjc0LTMuMTIgMC0uODQtLjU0LTEuNDctLjg1LTEuODVsLjItLjA1YTMuMyAzLjMgMCAwIDEgMS4xMyAyLjNjMCAxLjk3LTEuOTggMy44MS00LjI1IDMuODVtLTItNi45YTEuMzIgMS4zMiAwIDAgMC0uMjUtLjU5YzAtLjIuMDktLjQuNDEtLjIzLS4xNy4xOC0uMDQuNS0uMDQuNXMuMzYtLjE3LjI5LS40MWMuNTMuMTMuMTUuODQtLjQxLjczbS0uNDcgMS4wMmMtLjA3LS4zLS4yMi0uNi0uNDEtLjgzLS4xOC0uMi0uNDctLjQ1LS44Ni0uNDUtLjE4IDAtLjQ4LjA4LS42Ny4xNmExLjg0IDEuODQgMCAwIDEtLjIxLS41OGMwLS4xNC4yNC0uMy43MS0uMyAxLjAzIDAgMS42NS40NyAxLjY1IDEuMjUgMCAuMjgtLjEuNTMtLjIuNzVtMi42NCAxMy4zYS42LjYgMCAwIDEgLjI1LjA1Yy4zLjggMS40NCAyLjMzIDEuNSAyLjRoLjAyYy4yOC0uMDQgMS0uMTUgMS42LS4xNS4wNiAwIC4xNCAwIC4xOS4wNS4wMy4wNC4wNS4xLjA1LjIgMCAuMTUtLjA2LjQtLjE0LjUyLS4yLS4yMy0uNTUtLjM0LTEuMDktLjM0LS4xNiAwLS4zNi4wNS0uNDYuMDhsLS4wNS4wMS0uMDQuMDEuMy4zMmMuNS40OC45MS45LjkxIDEuMTggMCAuMTctLjE2LjM5LS4zLjQ5LS4wNC0uNTEtLjU2LTEuMi0xLjA2LTEuNThsLS4wNS0uMDR2LjE5bC0uMDIuNWMwIC45Ny0uMSAxLjEyLS40NCAxLjEyYS42LjYgMCAwIDEtLjE4LS4wNGMuMi0uMjMuMjctLjU0LjI3LTEuMDh2LS40NmMwLS4yMi4wMS0uMzkuMDMtLjUybC4wMS0uMDctLjA1LS4wMWMtLjE2LS4wMi0uNDUtLjA2LS42Ny0uMDYtLjQ5IDAtLjgxLjA0LTEuMDUuMjYtLjE1LS4xMi0uMzEtLjM0LS4zMS0uNDcgMC0uMi4xMi0uMjMuMjktLjIzbC4yNy4wM2MuMi4wMy41Mi4wOCAxLjE2LjA4aC4wNGwtLjAxLS4wNGE3Ljg4IDcuODggMCAwIDAtMS4zMy0yLjAxYy4wNi0uMjQuMTMtLjM5LjM1LS4zOW0tNi4xNyAyLjQtLjAxLjA0aC4wM2MuNjUgMCAuOTYtLjA1IDEuMTctLjA4bC4yNi0uMDNjLjE3IDAgLjMuMDIuMy4yMyAwIC4xMy0uMTYuMzUtLjMyLjQ3LS4yMy0uMjItLjU2LS4yNi0xLjA0LS4yNi0uMjIgMC0uNTIuMDQtLjY4LjA2aC0uMDV2LjA4Yy4wMy4xMy4wNS4zLjA1LjUydi40NmMwIC41NC4wNy44NS4yNiAxLjA4YS41OC41OCAwIDAgMS0uMTguMDRjLS4zNCAwLS40NC0uMTUtLjQ0LTEuMTJsLS4wMS0uNS0uMDItLjE5LS4wMy4wNGMtLjUuMzgtMS4wMiAxLjA3LTEuMDYgMS41OC0uMTUtLjEtLjMxLS4zMi0uMzEtLjQ5IDAtLjI4LjQyLS43LjktMS4xOGwuMjgtLjI4LjA0LS4wNC0uMS0uMDJjLS4xLS4wMy0uMjktLjA4LS40Ni0uMDgtLjU0IDAtLjg4LjEtMS4xLjM0YTEuMjUgMS4yNSAwIDAgMS0uMTMtLjUyYzAtLjEuMDItLjE2LjA2LS4yLjA0LS4wNS4xMi0uMDUuMTgtLjA1aC4wMmMuNiAwIDEuMzIuMTEgMS42LjE1aC4wMmMuMDUtLjA3IDEuMi0xLjYgMS41LTIuNGEuNTYuNTYgMCAwIDEgLjI0LS4wNWMuMjMgMCAuMjkuMTUuMzUuMzlhNy43MiA3LjcyIDAgMCAwLTEuMzIgMi4wMW0tMy4xLTEzLjY4YzAtMS4xNC44My0yLjA0IDEuMTMtMi4yOWwuMi4wNWMtLjMuMzgtLjg1IDEtLjg1IDEuODUgMCAxLjY3IDEuNzggMy4xMiAzLjggMy4xMmE1LjQgNS40IDAgMCAwIC4wMiAxLjEzYy0yLjI5IDAtNC4zLTEuODYtNC4zLTMuODZtMTUuMzEgMy41MWMxLjAyIDEuNjMgMS44MyAxLjYgMy4wNCAxLjZhOC42MiA4LjYyIDAgMCAxLTEuOTgtMi4yNmwtMS44Ny0yLjk5YTQuNDUgNC40NSAwIDAgMC0xLjM4LTIuNDNjLjI0LS4wOS40NS0uMTguNTYtLjI3LTEuMjIgMC0yLjQzLS42My0zLjEtLjYzLS40MiAwLS43LjI2LS43LjYuMDMuMzguNDIuNzYgMS4xMy43Ni4xNyAwIC4zOC0uMDIuNi0uMDYuNC41NC43IDEuMDMuNyAxLjczIDAgMS4zMS0xLjU2IDIuMzMtMy4xNCAyLjMzbC0uMjYtLjAxYy0uMTUtLjMzLS42My0uODctLjYzLTEuNDkgMC0xLjA0LjY4LTEuODkuNjgtMi45MiAwLS42NC0uMy0xLjA0LS40My0xLjIuMi0uMTguNC0uNC40Ni0uNTYtLjEyLjA1LS4yNS4wNS0uNDQuMDUtLjc2IDAtMS4zOC0uMTktMS45OC0uMTktLjM1IDAtLjQ0LjEtLjQ0LjIgMCAuMDQgMCAuMDguMDIuMWEyLjg1IDIuODUgMCAwIDAtLjk3LS4xNmMtLjczIDAtLjk5LjMtLjk5LjU3IDAgLjIyLjE4LjYzLjM4Ljk0LjI4LS4xNS42Mi0uMjQuNzgtLjI0LjM5IDAgLjczLjM3LjkxLjgtLjI2LjA0LS4zLjA1LS41Ny4wNS0uNzEgMC0xLjItLjI2LTEuMy0uMjYgMCAwLS4wMyAwLS4wMy4wMiAwIC4xLjIuMzcuNi41MS41My4yIDEuMzIuMjcgMS40NS4zIDAgLjAyLS4xNC4yNy0uMjkuMzFhNi42MyA2LjYzIDAgMCAxLTEuNDktLjQxYy0uMDIgMC0uMDMgMC0uMDMuMDMgMCAuMjcuNzEuODggMS4zNSAxLjExLS41My42OC0xLjIgMS4zOC0xLjUgMi40NGwtLjI4LjAxYy0xLjU4IDAtMy4xNC0xLjAyLTMuMTQtMi4zMyAwLS43LjMtMS4xOS43LTEuNzMuMjMuMDQuNDMuMDYuNi4wNi43MSAwIDEuMS0uMzggMS4xMy0uNzYgMC0uMzQtLjI3LS42LS43LS42LS42NyAwLTEuODguNjMtMy4xLjYzLjEyLjA5LjMyLjE4LjU2LjI3YTQuNDMgNC40MyAwIDAgMC0xLjM4IDIuNDNsLTEuODYgM2MtLjMyLjUtLjk5IDEuNDgtMS45OSAyLjI1IDEuMjEgMCAyLjAyLjAzIDMuMDQtMS42bC45Ni0xLjUzYy4wNy4yLjE2LjQuMjYuNTlsLTEuOSAzLjA1Yy0uMzIuNS0uOTggMS40OC0xLjk5IDIuMjUgMS4yMSAwIDIuMDEuMDMgMy4wNC0xLjZsMS42NC0yLjYyYy4xMi4xMy4yNS4yNi4zOS4zOGwtMi4zMiAzLjdhOC4zNSA4LjM1IDAgMCAxLTEuOTggMi4yNmMxLjIxIDAgMi4wMS4wMyAzLjA0LTEuNmwyLjI1LTMuNmMuMTUuMDkuMy4xOC40Ny4yNmwtMi43NiA0LjQyYTguOCA4LjggMCAwIDEtMS45OCAyLjI1YzEuMiAwIDIuMDEuMDMgMy4wNC0xLjZsMi44My00LjUzLjUxLjE3LTMuMiA1LjE0Yy0uMzIuNS0uOTkgMS40OS0xLjk4IDIuMjUgMS4yIDAgMi4wMS4wMyAzLjAzLTEuNmwzLjQyLTUuNDYuMS4wMWMuMS4zLjE2LjU4LjE2Ljg1IDAgMS43Mi0xLjEyIDMuMjQtMi40OCA0LjQxYTIuODEgMi44MSAwIDAgMCAuOTcuMDFjLS4zMi43Mi0xIDEuNjQtMS4zMyAyLjExLS40NS0uMDctMS4xLS4xNC0xLjUxLS4xNC0uNDUgMC0uNS4yNi0uNS41IDAgLjQuMi43MS40MS44OS4wOC0uMi4yNS0uNDggMS4wNi0uNDhoLjA4Yy0uMjMuMjctLjk4Ljg3LS45OCAxLjM2IDAgLjMyLjM1LjguODIuOC0uMDMtLjEtLjAzLS4yLS4wMy0uMjcgMC0uMzkuMzUtLjg1LjY1LTEuMTd2LjJjMCAuOTMuMDggMS4zNi42NyAxLjM2LjI5IDAgLjQ5LS4xNi41Ni0uMjEtLjM4LS4zNi0uNC0uNjMtLjQtMS4xNXYtLjQ2YzAtLjEyIDAtLjI3LS4wMi0uMzkuMjEtLjAzLjMtLjAzLjQ2LS4wMyAwIDAgLjg0LS4wNiAxLjA0LjM3LjIzLS4yLjU2LS41LjU2LS44MiAwLS4yMi0uMS0uNDctLjU0LS40Ny0uMTYgMC0uNjguMS0xLjEuMS4xMS0uMjUuNjMtMSAxLjA3LTEuNTUuMDcuMi4xNy40NC40LjYzLjA0LS4zNi4yNS0xLjQ3LjgtMi4xMi4wNi40NC4xNS44OS4xNSAxLjg0IDAgMi4zMi0uNTYgNC4wMy0xLjc0IDQuMzVhMSAxIDAgMCAwIC44Mi41Yy40MyAwIC42Ny0uNDguOS0uOTQuMTMuMzQuNDcgMS4xNy44MiAxLjE3cy43LS44My44Mi0xLjE3Yy4yNC40Ni40Ny45NS45Ljk1YTEgMSAwIDAgMCAuODItLjVjLTEuMTgtLjMzLTEuNzQtMi4wNC0xLjc0LTQuMzYgMC0uOTUuMDktMS40LjE1LTEuODQuNTUuNjUuNzYgMS43Ni44IDIuMTIuMjMtLjIuMzMtLjQyLjQtLjYzLjQ0LjU0Ljk2IDEuMyAxLjA4IDEuNTYtLjQzIDAtLjk1LS4xLTEuMTEtLjEtLjQ0IDAtLjU0LjI0LS41NC40NiAwIC4zMi4zNC42MS41Ni44Mi4yLS40MyAxLjA0LS4zNyAxLjA0LS4zNy4xNyAwIC4yNSAwIC40Ny4wMy0uMDIuMTItLjAzLjI3LS4wMi40di40NWMwIC41Mi0uMDIuOC0uNCAxLjE1LjA2LjA1LjI2LjIuNTUuMi42IDAgLjY4LS40Mi42OC0xLjM1di0uMmMuMjkuMzIuNjQuNzguNjQgMS4xNyAwIC4wOCAwIC4xNy0uMDMuMjguNDcgMCAuODItLjQ5LjgyLS44IDAtLjUtLjc0LTEuMS0uOTgtMS4zNmguMDhjLjgyIDAgLjk4LjI3IDEuMDYuNDcuMjItLjE4LjQtLjUuNC0uOSAwLS4yMy0uMDQtLjQ5LS40OC0uNDktLjQzIDAtMS4wNy4wNy0xLjUyLjE0LS4zNC0uNDctMS0xLjM5LTEuMzItMi4xLjEyLjAyLjMuMDMuNTkuMDNhMSAxIDAgMCAwIC4zNy0uMDVjLTEuMzUtMS4xNy0yLjQ4LTIuNjktMi40OC00LjQgMC0uMjguMDYtLjU2LjE2LS44NmwuMS0uMDEgMy40MiA1LjQ3YzEuMDIgMS42MiAxLjgyIDEuNTkgMy4wMyAxLjU5YTguNjQgOC42NCAwIDAgMS0xLjk4LTIuMjVsLTMuMi01LjE0LjUxLS4xNyAyLjg0IDQuNTRjMS4wMiAxLjYyIDEuODIgMS41OSAzLjAzIDEuNTlhOC43OCA4Ljc4IDAgMCAxLTEuOTgtMi4yNWwtMi43NS00LjQyYy4xNi0uMDguMy0uMTcuNDYtLjI3bDIuMjUgMy42MmMxLjAzIDEuNjIgMS44MyAxLjU5IDMuMDQgMS41OWE4LjU0IDguNTQgMCAwIDEtMS45OC0yLjI1bC0yLjMyLTMuNy4zOS0uMzkgMS42NSAyLjYzYzEuMDIgMS42MiAxLjgyIDEuNiAzLjAzIDEuNmE4LjczIDguNzMgMCAwIDEtMS45OC0yLjI2bC0xLjktMy4wNWMuMS0uMi4xOS0uMzkuMjYtLjU5bC45NSAxLjUzWm0yNC45MS01LjEyYzAtMS4yOS0uNzgtMi4xMS0yLjc1LTIuMTFoLTEuNTl2OC4yOGgxLjdjMS45NyAwIDIuODYtLjk1IDIuODYtMi4yNSAwLTEuMS0uNy0xLjgyLTEuNTYtMS45OXYtLjAyYy43Mi0uMiAxLjM0LS43NiAxLjM0LTEuOTFabS0xLjA1LjA0YzAgLjk0LS41OSAxLjUzLTEuNyAxLjUzaC0uNTV2LTIuODZoLjU1YzEuMTcgMCAxLjcuNTcgMS43IDEuMzNabS4xNSAzLjgxYzAgLjk1LS41MyAxLjQ1LTEuNzUgMS40NWgtLjY1di0yLjloLjcxYzEuMDggMCAxLjcuNTYgMS43IDEuNDVabTUuNTIgMS42N2guMDN2LjY1aC44OXYtNS43NmgtLjk4djQuNGMtLjE5LjI0LS41Ny42NC0xLjE2LjY0LS42NSAwLS45Ni0uMzktLjk2LTEuMzN2LTMuNzFoLS45N3YzLjc4YzAgMS41Ni42MyAyLjEyIDEuNjUgMi4xMi44OCAwIDEuNC0uNTkgMS41LS43OVptNC41NS00LjQzYy42NyAwIDEgLjQgMSAxLjM3djMuN2guOTd2LTMuNzdjMC0xLjU2LS42NS0yLjEzLTEuNjgtMi4xMy0uOSAwLTEuNDIuNi0xLjUzLjhoLS4wMnYtLjY1aC0uODl2NS43NmguOThWNTUuMWMuMTktLjI0LjU4LS42NCAxLjE3LS42NFptNS40NCA0LjM2Yy0uNjggMC0xLjI3LS41My0xLjI3LTIuMTEgMC0xLjY0LjctMi4yMSAxLjYtMi4yMS4zNSAwIC41OC4xLjc1LjJ2My41NWMtLjE0LjItLjQ3LjU3LTEuMDguNTdabTEuMTQuMWguMDJ2LjYyaC44OXYtOC42bC0uOTcuMTF2Mi43N2EyLjEzIDIuMTMgMCAwIDAtLjgyLS4xNWMtMS4yMiAwLTIuNTQuNzQtMi41NCAzLjA3IDAgMi4xLjkyIDIuOTQgMi4wMSAyLjk0LjkxIDAgMS4zLS41OCAxLjQtLjc2Wm00LjI3LTQuNWMuNiAwIC45My40Ny45MyAxLjI3IDAgLjE4IDAgLjMzLS4wMi40MWgtMi4wOWMuMDUtMS4wNy41LTEuNjggMS4xOC0xLjY4Wk05MC41MyA1OWwtLjM2LS42OGMtLjEzLjEyLS41Mi41LTEuMi41LS45OCAwLTEuNS0uNjQtMS41Ny0xLjk4aDIuOTRjLjA0LS4yOC4wNy0uNjMuMDctMS4xMiAwLTEuMzgtLjY3LTIuMDktMS43Ni0yLjA5LTEuMiAwLTIuMi45Mi0yLjIgMi45NSAwIDIuMTguOTEgMy4xIDIuMzcgMy4xIDEuMDkgMCAxLjU2LS41MSAxLjcxLS42OFptNC4wOC00Ljc2Yy0uMTktLjE5LS41Ny0uNi0xLjQ2LS42LS45NCAwLTEuNjcuNjMtMS42NyAxLjQ4IDAgLjguNDMgMS4yNiAxLjE1IDEuNzJsLjM2LjIzYy41Ni4zNC44NC41My44NCAxLjA5IDAgLjM3LS4zMS42Ni0uODkuNjYtLjYyIDAtLjk4LS4zOC0xLjE2LS41N2wtLjQ3Ljc3Yy4yMy4yNC43LjY2IDEuNjIuNjYgMS4xOCAwIDEuODQtLjcgMS44NC0xLjYyIDAtLjg1LS40OC0xLjMyLTEuMjYtMS43OWwtLjM2LS4yMWMtLjUyLS4zMi0uNzYtLjU1LS43Ni0uOTkgMC0uMzMuMjgtLjYxLjgtLjYxLjU0IDAgLjg3LjM0IDEgLjQ4bC40Mi0uN1ptMy40Ni4yNmMuNiAwIC44Ni40Ljg2IDEuMzN2My43aC45OHYtMy44NmMwLS4yMS0uMDItLjQyLS4wNi0uNi4yMi0uMjUuNTgtLjU3IDEuMTEtLjU3LjY1IDAgMSAuNCAxIDEuMzN2My43aC45N3YtMy44NmMwLTEuMzctLjYtMi4wNC0xLjc1LTIuMDRhMiAyIDAgMCAwLTEuNTMuNzdjLS4yNi0uNTEtLjc0LS43Ny0xLjM5LS43Ny0uOCAwLTEuMjguNTMtMS40NC44aC0uMDJ2LS42NWgtLjg5djUuNzZoLjk3VjU1LjFjLjE3LS4yLjU0LS42IDEuMTktLjZabTYuOC0yLjExYy4zOSAwIC42NS0uMy42NS0uNyAwLS40LS4yNi0uNjgtLjY1LS42OC0uNCAwLS42Ni4yOC0uNjYuNjhzLjI3LjcuNjYuN1ptLjQ4IDEuMzloLS45N3Y1Ljc2aC45N3YtNS43NlptMy42NC42OGMuNjcgMCAxIC40IDEgMS4zN3YzLjdoLjk3di0zLjc3YzAtMS41Ni0uNjUtMi4xMy0xLjY4LTIuMTMtLjkgMC0xLjQyLjYtMS41My44aC0uMDJ2LS42NWgtLjg5djUuNzZoLjk3VjU1LjFjLjItLjI0LjYtLjY0IDEuMTgtLjY0Wm0zLjkxLTIuMDdjLjM4IDAgLjY1LS4zLjY1LS43IDAtLjQtLjI3LS42OC0uNjUtLjY4LS40IDAtLjY2LjI4LS42Ni42OHMuMjYuNy42Ni43Wm0uNDggMS4zOWgtLjk3djUuNzZoLjk3di01Ljc2Wm00LjQuNDZjLS4yLS4xOS0uNTktLjYtMS40Ny0uNi0uOTQgMC0xLjY3LjYzLTEuNjcgMS40OCAwIC44LjQzIDEuMjYgMS4xNSAxLjcybC4zNi4yM2MuNTUuMzQuODQuNTMuODQgMS4wOSAwIC4zNy0uMzEuNjYtLjg5LjY2LS42MiAwLS45OC0uMzgtMS4xNi0uNTdsLS40Ny43N2MuMjMuMjQuNy42NiAxLjYyLjY2IDEuMTggMCAxLjg0LS43IDEuODQtMS42MiAwLS44NS0uNDgtMS4zMi0xLjI2LTEuNzlsLS4zNi0uMjFjLS41Mi0uMzItLjc2LS41NS0uNzYtLjk5IDAtLjMzLjI4LS42MS44LS42MS41NCAwIC44Ny4zNCAxIC40OGwuNDItLjdabTMuOSA1LjE5LS4xMy0uNzhjLS4xLjA2LS4zLjE3LS42LjE3LS40OSAwLS42OC0uMjQtLjY4LTEuMDZ2LTMuMTloMS4yNmwuMTItLjhoLTEuMzh2LTEuNmgtLjg2bC0uMTEgMS42LS43LjE1di42NWguN3YzLjMyYzAgMS4yOC41IDEuOCAxLjQ4IDEuOC41MiAwIC44Mi0uMi45LS4yNlptMi43NC01Yy42MSAwIC45My40Ni45MyAxLjI2IDAgLjE4IDAgLjMzLS4wMi40MWgtMi4wOGMuMDQtMS4wNy40OS0xLjY4IDEuMTctMS42OFptMS45NCA0LjU3LS4zNi0uNjhjLS4xMy4xMi0uNTIuNS0xLjIuNS0uOTggMC0xLjUtLjY0LTEuNTctMS45OGgyLjk0Yy4wNC0uMjguMDgtLjYzLjA4LTEuMTIgMC0xLjM4LS42OC0yLjA5LTEuNzctMi4wOS0xLjIgMC0yLjIuOTItMi4yIDIuOTUgMCAyLjE4LjkxIDMuMSAyLjM3IDMuMSAxLjEgMCAxLjU2LS41MSAxLjcxLS42OFptMy44My01LjI0Yy0uMS0uMDMtLjI1LS4wOS0uNTMtLjA5LS43MyAwLTEuMDQuNDMtMS4yLjg5aC0uMDN2LS43OGgtLjl2NS43NmguOTh2LTQuMjJjLjE1LS40LjQ3LS43OSAxLjA4LS43OS4yNiAwIC40My4wNy40OC4xbC4xMi0uODdabTEuMzMtMS4zN2MuMzkgMCAuNjUtLjMuNjUtLjcgMC0uNC0uMjYtLjY4LS42NS0uNjgtLjQgMC0uNjYuMjgtLjY2LjY4cy4yNy43LjY2LjdabS40OCAxLjM5aC0uOTd2NS43NmguOTd2LTUuNzZabTQuNjEgNS4xMWguMDN2LjY1aC44OHYtNS43NmgtLjk3djQuNGMtLjIuMjQtLjU3LjY0LTEuMTYuNjQtLjY1IDAtLjk2LS4zOS0uOTYtMS4zM3YtMy43MWgtLjk3djMuNzhjMCAxLjU2LjYzIDIuMTIgMS42NSAyLjEyLjg4IDAgMS40LS41OSAxLjUtLjc5Wm00LjU2LTQuNGMuNiAwIC44Ni40Ljg2IDEuMzR2My43aC45OHYtMy44NmMwLS4yMS0uMDEtLjQyLS4wNS0uNi4yMi0uMjUuNTctLjU3IDEuMS0uNTcuNjUgMCAxIC40IDEgMS4zM3YzLjdoLjk3di0zLjg2YzAtMS4zNy0uNi0yLjA0LTEuNzUtMi4wNC0uNzUgMC0xLjI3LjQ1LTEuNTIuNzctLjI3LS41MS0uNzUtLjc3LTEuNC0uNzctLjc5IDAtMS4yOC41My0xLjQzLjhoLS4wM3YtLjY1aC0uODl2NS43NmguOTdWNTUuMWMuMTctLjIuNTQtLjYgMS4yLS42Wk02Ni4wNCA3MC44MmMtLjY3IDAtMS4yNy0uNTMtMS4yNy0yLjExIDAtMS42NC43LTIuMjEgMS42LTIuMjEuMzYgMCAuNTguMS43NS4ydjMuNTVjLS4xMy4yLS40Ny41Ny0xLjA4LjU3Wm0xLjE0LjFoLjAydi42MmguOXYtOC42bC0uOTguMTF2Mi43N2EyLjEyIDIuMTIgMCAwIDAtLjgxLS4xNWMtMS4yMyAwLTIuNTUuNzQtMi41NSAzLjA3IDAgMi4xLjkyIDIuOTQgMi4wMiAyLjk0LjkgMCAxLjMtLjU4IDEuNC0uNzZabTQuMjctNC41Yy42MiAwIC45NC40Ny45NCAxLjI3YTIgMiAwIDAgMS0uMDMuNDFoLTIuMDhjLjA0LTEuMDcuNDktMS42OCAxLjE3LTEuNjhaTTczLjQgNzFsLS4zNy0uNjhjLS4xMi4xMi0uNTIuNS0xLjIuNS0uOTggMC0xLjUtLjY0LTEuNTYtMS45OGgyLjkzYy4wNC0uMjguMDgtLjYzLjA4LTEuMTIgMC0xLjM4LS42OC0yLjA5LTEuNzctMi4wOS0xLjIgMC0yLjIuOTItMi4yIDIuOTUgMCAyLjE4LjkyIDMuMSAyLjM3IDMuMSAxLjEgMCAxLjU2LS41MSAxLjcyLS42OFptMy44My01LjI0Yy0uMS0uMDMtLjI2LS4wOS0uNTQtLjA5LS43MyAwLTEuMDQuNDMtMS4yLjg5aC0uMDN2LS43OGgtLjg5djUuNzZoLjk4di00LjIyYy4xNC0uNC40Ni0uNzkgMS4wNy0uNzkuMjcgMCAuNDQuMDcuNDguMWwuMTMtLjg3Wm00LjgtMi41aC0xLjA1djYuMzFjMCAuODktLjI4IDEuMTctLjgyIDEuMTdhLjkyLjkyIDAgMCAxLS41Mi0uMTRsLS4xNy44NmMuMS4wNy4zNS4xOS43NC4xOSAxLjEgMCAxLjgxLS41MiAxLjgxLTEuOTd2LTYuNDJabTQuNzYgNy42M2guMDJ2LjY1aC44OXYtNS43NmgtLjk3djQuNGMtLjIuMjQtLjU4LjY0LTEuMTYuNjQtLjY1IDAtLjk2LS4zOS0uOTYtMS4zM3YtMy43MWgtLjk4djMuNzhjMCAxLjU2LjY0IDIuMTIgMS42NiAyLjEyYTEuOCAxLjggMCAwIDAgMS41LS43OVptNS4zLTQuNjVjLS4xOS0uMTktLjU3LS42LTEuNDYtLjYtLjk0IDAtMS42Ny42My0xLjY3IDEuNDggMCAuOC40MyAxLjI2IDEuMTUgMS43MmwuMzYuMjNjLjU1LjM0Ljg0LjUzLjg0IDEuMDkgMCAuMzctLjMxLjY2LS44OC42Ni0uNjMgMC0uOTktLjM4LTEuMTctLjU3bC0uNDcuNzdjLjIzLjI0LjcuNjYgMS42Mi42NiAxLjE4IDAgMS44NC0uNyAxLjg0LTEuNjIgMC0uODUtLjQ4LTEuMzItMS4yNi0xLjc5bC0uMzYtLjIxYy0uNTItLjMyLS43Ni0uNTUtLjc2LS45OSAwLS4zMy4yOC0uNjEuOC0uNjEuNTMgMCAuODcuMzQgMSAuNDhsLjQyLS43Wk05NiA3MS40M2wtLjEzLS43OGMtLjEuMDYtLjMuMTctLjYuMTctLjQ5IDAtLjY4LS4yNC0uNjgtMS4wNnYtMy4xOWgxLjI2bC4xMi0uOGgtMS4zOHYtMS42aC0uODZsLS4xMSAxLjYtLjcuMTV2LjY1aC43djMuMzJjMCAxLjI4LjUgMS44IDEuNDggMS44LjUyIDAgLjgyLS4yLjktLjI2Wm0xLjQ0LTcuMDRjLjM5IDAgLjY1LS4zLjY1LS43IDAtLjQtLjI2LS42OC0uNjUtLjY4cy0uNjYuMjgtLjY2LjY4LjI3LjcuNjYuN1ptLjQ5IDEuMzloLS45OHY1Ljc2aC45OHYtNS43NlptNC43IDBoLTMuNDZ2Ljc5aDIuMjd2LjAybC0yLjQgNC4zMnYuNjNoMy42NmwuMDgtLjgzaC0yLjQ4di0uMDJsMi4zMy00LjI5di0uNjJabTYuODkgNS4xMWguMDJ2LjY1aC44OXYtNS43NmgtLjk3djQuNGMtLjIuMjQtLjU4LjY0LTEuMTcuNjQtLjY1IDAtLjk2LS4zOS0uOTYtMS4zM3YtMy43MWgtLjk3djMuNzhjMCAxLjU2LjY0IDIuMTIgMS42NiAyLjEyYTEuOCAxLjggMCAwIDAgMS41LS43OVptNC41NS00LjQzYy42NyAwIDEgLjQgMSAxLjM3djMuN2guOTZ2LTMuNzdjMC0xLjU2LS42NC0yLjEzLTEuNjgtMi4xMy0uOSAwLTEuNDEuNi0xLjUyLjhoLS4wM3YtLjY1aC0uODh2NS43NmguOTdWNjcuMWMuMi0uMjQuNTktLjY0IDEuMTgtLjY0Wm01LjQzIDQuMzZjLS42NyAwLTEuMjctLjUzLTEuMjctMi4xMSAwLTEuNjQuNy0yLjIxIDEuNi0yLjIxLjM1IDAgLjU4LjEuNzUuMnYzLjU1Yy0uMTMuMi0uNDcuNTctMS4wOC41N1ptMS4xNC4xaC4wMnYuNjJoLjl2LTguNmwtLjk4LjExdjIuNzdhMi4xMiAyLjEyIDAgMCAwLS44MS0uMTVjLTEuMjMgMC0yLjU1Ljc0LTIuNTUgMy4wNyAwIDIuMS45MiAyLjk0IDIuMDIgMi45NC45IDAgMS4zLS41OCAxLjQtLjc2Wm0tNTQuMTkgNy42NS4xMi0uOGgtMS4zdi0xLjAzYzAtLjc1LjI1LTEgLjcxLTEgLjI1IDAgLjQzLjEuNTMuMTVsLjItLjhhMS42IDEuNiAwIDAgMC0uODEtLjIyYy0uODUgMC0xLjYuNS0xLjYgMS43N3YxLjE1bC0uNy4xM3YuNjVoLjd2NC45N2guOTd2LTQuOTdoMS4xOFptNC40NS0yLjQ1YzAtLjM3LS4yNS0uNi0uNTgtLjZzLS41Ny4yMy0uNTcuNi4yNS42MS41Ny42MS41OC0uMjQuNTgtLjYxWm0tMS44NSAwYzAtLjM3LS4yNS0uNi0uNTctLjYtLjMzIDAtLjU4LjIzLS41OC42cy4yNS42MS41OC42MWMuMzIgMCAuNTctLjI0LjU3LS42MVptMS40OCA2Ljc3aC4wMnYuNjVoLjl2LTUuNzZoLS45OHY0LjRjLS4yLjI0LS41Ny42NC0xLjE2LjY0LS42NSAwLS45Ny0uMzktLjk3LTEuMzN2LTMuNzFoLS45N3YzLjc4YzAgMS41Ni42NCAyLjEyIDEuNjYgMi4xMi44OCAwIDEuNC0uNTkgMS41LS43OVptNS4wNS01LjEzYy0uMS0uMDMtLjI1LS4wOS0uNTMtLjA5LS43MyAwLTEuMDQuNDMtMS4yMS44OWgtLjAydi0uNzhoLS44OXY1Ljc2aC45N3YtNC4yMmMuMTUtLjQuNDctLjc5IDEuMDgtLjc5LjI3IDAgLjQzLjA3LjQ4LjFsLjEyLS44N1ptNy4zLTIuNS0xLjY1IDUuNWMtLjE4LjYtLjM0IDEuMi0uMzYgMS41N2gtLjAyYTcuNzcgNy43NyAwIDAgMC0uMzUtMS41OGwtMS41OC01LjVoLTEuMTNsMi42MiA4LjI5aC44MmwyLjctOC4yOGgtMS4wNVptMy4yMSAzLjE2Yy42MSAwIC45NC40Ny45NCAxLjI3YTIgMiAwIDAgMS0uMDMuNDFoLTIuMDhjLjA1LTEuMDcuNDktMS42OCAxLjE3LTEuNjhaTTg4LjAzIDgzbC0uMzUtLjY4Yy0uMTMuMTItLjUzLjUtMS4yMi41LS45NyAwLTEuNS0uNjQtMS41NS0xLjk4aDIuOTNjLjA0LS4yOC4wOC0uNjMuMDgtMS4xMiAwLTEuMzgtLjY3LTIuMDktMS43Ny0yLjA5LTEuMiAwLTIuMi45Mi0yLjIgMi45NSAwIDIuMTguOTIgMy4xIDIuMzcgMy4xIDEuMSAwIDEuNTYtLjUxIDEuNzItLjY4Wm0zLjgzLTUuMjRjLS4wOS0uMDMtLjI1LS4wOS0uNTItLjA5LS43NCAwLTEuMDUuNDMtMS4yMi44OWgtLjAydi0uNzhoLS44OHY1Ljc2aC45NnYtNC4yMmMuMTUtLjQuNDctLjc5IDEuMDktLjc5LjI2IDAgLjQyLjA3LjQ4LjFsLjExLS44N1pNOTcgODAuNGMwLTEuOS0uNzUtMi43Ni0xLjkzLTIuNzZhMS42IDEuNiAwIDAgMC0xLjM4LjdoLS4wM3YtMy4zNmwtLjk3LjA4djguMDNjLjIuMTYuNzIuNTcgMS42Ni41NyAxLjQzIDAgMi42NS0uNzggMi42NS0zLjI2Wm0tMSAuMTJjMCAxLjc0LS43IDIuMzEtMS42MSAyLjMxLS4zNCAwLS41OC0uMTMtLjczLS4yM3YtMy41NGMuMjItLjI4LjUyLS41OSAxLjEyLS41OS43NCAwIDEuMjEuNjIgMS4yMSAyLjA1Wm00LjktMi43NWMtLjEtLjAzLS4yNi0uMDktLjU0LS4wOS0uNzMgMC0xLjA0LjQzLTEuMjEuODloLS4wMnYtLjc4aC0uOXY1Ljc2aC45OHYtNC4yMmMuMTQtLjQuNDctLjc5IDEuMDgtLjc5LjI2IDAgLjQzLjA3LjQ4LjFsLjEyLS44N1ptMy4xMyAyLjU0aC0uM2MtMS4zIDAtMi40LjQ0LTIuNCAxLjc3IDAgLjk0LjY2IDEuNjEgMS41NCAxLjYxLjczIDAgMS4wOC0uNDkgMS4yMS0uNzhoLjAzYzAgLjMuMDIuNDcuMDMuNjRoLjkzYy0uMDMtLjE2LS4wOC0uNy0uMDgtMS4yVjc5LjdjMC0xLjQ1LS42Mi0yLjA4LTEuOC0yLjA4LS45MiAwLTEuNDcuNDUtMS43Mi43bC40LjY1Yy4yMi0uMi42LS41MiAxLjE4LS41Mi42MiAwIC45OC4zMS45OCAxLjI4di41NlptMCAuNzJ2MS4yN2MtLjEyLjE4LS40LjU2LS45Ni41Ni0uNDggMC0uNzYtLjMtLjc2LS44OSAwLS42My40OS0uOSAxLjQxLS45M2wuMzEtLjAxWm01LjU1IDEuODdoLjAydi42NWguODl2LTUuNzZoLS45N3Y0LjRjLS4yLjI0LS41OC42NC0xLjE3LjY0LS42NSAwLS45NS0uMzktLjk1LTEuMzN2LTMuNzFoLS45OHYzLjc4YzAgMS41Ni42NCAyLjEyIDEuNjYgMi4xMmExLjggMS44IDAgMCAwIDEuNS0uNzlabTYuMDEtNC42OGMtLjE4LS4yLS41OS0uNTgtMS40Ny0uNTgtMS4xNCAwLTIuNC44LTIuNCAzLjAyIDAgMi4yNSAxLjAxIDMuMDMgMi4zIDMuMDMuOSAwIDEuMzQtLjQyIDEuNS0uNmwtLjQtLjY3YTEuMyAxLjMgMCAwIDEtMSAuNDFjLS44MyAwLTEuNC0uNTYtMS40LTIuMjUgMC0xLjUyLjY1LTIuMTEgMS40OC0yLjExLjU3IDAgLjg3LjMyLjk4LjQzbC40MS0uNjhabTMuMTcuMjVjLjY3IDAgMSAuNCAxIDEuMzd2My43aC45N3YtMy43N2MwLTEuNTMtLjY0LTIuMTMtMS42NS0yLjEzYTEuNyAxLjcgMCAwIDAtMS40Ny43NGgtLjAzdi0zLjQzbC0uOTcuMTF2OC40OWguOTdWNzkuMWMuMi0uMjQuNTktLjY0IDEuMTgtLjY0Wm01LjI5LS4wNGMuNjEgMCAuOTMuNDcuOTMgMS4yNyAwIC4xOCAwIC4zMy0uMDIuNDFoLTIuMDljLjA1LTEuMDcuNS0xLjY4IDEuMTgtMS42OFptMS45NCA0LjU4LS4zNi0uNjhjLS4xMy4xMi0uNTIuNS0xLjIuNS0uOTggMC0xLjUtLjY0LTEuNTctMS45OGgyLjk0Yy4wNC0uMjguMDctLjYzLjA3LTEuMTIgMC0xLjM4LS42Ny0yLjA5LTEuNzYtMi4wOS0xLjIgMC0yLjIuOTItMi4yIDIuOTUgMCAyLjE4LjkxIDMuMSAyLjM3IDMuMSAxLjA5IDAgMS41Ni0uNTEgMS43MS0uNjhabTMuODMtNS4yNGMtLjEtLjAzLS4yNS0uMDktLjUzLS4wOS0uNzMgMC0xLjA0LjQzLTEuMi44OWgtLjAzdi0uNzhoLS45djUuNzZoLjk4di00LjIyYy4xNS0uNC40Ny0uNzkgMS4wOC0uNzkuMjYgMCAuNDMuMDcuNDguMWwuMTItLjg3Wm0zLjcuNDhjLS4yLS4xOS0uNTgtLjYtMS40Ny0uNi0uOTMgMC0xLjY3LjYzLTEuNjcgMS40OCAwIC44LjQ0IDEuMjYgMS4xNSAxLjcybC4zNy4yM2MuNTUuMzQuODQuNTMuODQgMS4wOSAwIC4zNy0uMzEuNjYtLjkuNjYtLjYxIDAtLjk4LS4zOC0xLjE2LS41N2wtLjQ3Ljc3Yy4yMy4yNC43LjY2IDEuNjMuNjYgMS4xNyAwIDEuODMtLjcgMS44My0xLjYyIDAtLjg1LS40OC0xLjMyLTEuMjYtMS43OWwtLjM1LS4yMWMtLjUyLS4zMi0uNzYtLjU1LS43Ni0uOTkgMC0uMzMuMjctLjYxLjc5LS42MS41NCAwIC44OC4zNCAxIC40OGwuNDMtLjdabTQuOS0uMDNjLS4xNy0uMi0uNTgtLjU4LTEuNDYtLjU4LTEuMTQgMC0yLjQxLjgtMi40MSAzLjAyIDAgMi4yNSAxLjAyIDMuMDMgMi4zIDMuMDMuOSAwIDEuMzUtLjQyIDEuNS0uNmwtLjQtLjY3YTEuMyAxLjMgMCAwIDEtMSAuNDFjLS44MyAwLTEuNC0uNTYtMS40LTIuMjUgMC0xLjUyLjY1LTIuMTEgMS40OC0yLjExLjU4IDAgLjg4LjMyLjk5LjQzbC40LS42OFptMy4xNy4yNWMuNjggMCAxIC40IDEgMS4zN3YzLjdoLjk3di0zLjc3YzAtMS41My0uNjMtMi4xMy0xLjY0LTIuMTMtLjkzIDAtMS4zNi41Ni0xLjQ4Ljc0aC0uMDJ2LTMuNDNsLS45Ny4xMXY4LjQ5aC45N1Y3OS4xYy4xOS0uMjQuNTgtLjY0IDEuMTctLjY0Wm02LjU0IDQuNDNoLjAzdi42NWguODh2LTUuNzZoLS45N3Y0LjRjLS4yLjI0LS41Ny42NC0xLjE2LjY0LS42NSAwLS45Ni0uMzktLjk2LTEuMzN2LTMuNzFoLS45N3YzLjc4YzAgMS41Ni42MyAyLjEyIDEuNjUgMi4xMi44OCAwIDEuNC0uNTkgMS41LS43OVptNS4wMi41NC0uMTMtLjc4Yy0uMS4wNi0uMzIuMTctLjYuMTctLjUgMC0uNjktLjI0LS42OS0xLjA2di0zLjE5SDE1M2wuMTItLjhoLTEuMzh2LTEuNmgtLjg2bC0uMSAxLjYtLjcuMTV2LjY1aC43djMuMzJjMCAxLjI4LjUgMS44IDEuNDggMS44LjUyIDAgLjgyLS4yLjktLjI2Wm00LjE2LTUuNjVoLTMuNDZ2Ljc5aDIuMjd2LjAybC0yLjQgNC4zMnYuNjNoMy42NmwuMDktLjgzaC0yLjQ5di0uMDJsMi4zMy00LjI5di0uNjJabTAgMCIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowIi8+PC9zdmc+" alt="Bundesministerium der Justiz und für Verbraucherschutz" title="Bundesministerium der Justiz und für Verbraucherschutz"></a><a class="aw-sponsor-bmuv" href="https://algorithmwatch.org/de/focis/" ><img src="https://static.algorithmwatch.org/gfx/sponsors/bmuv.png" alt="Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz" title="Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz"></a></div></div>
+    <div class="aw-container mb-2 pb-2">
+                <div class="mt-2 pt-2" style="border-top: 1px solid var(--gray);">
+            <div class="license"><a href="https://creativecommons.org/licenses/by/4.0/deed.en" target="_blank" rel="noopener"><img width=100 src="https://static.algorithmwatch.org/gfx/ccby.svg" alt="CC BY 4.0 Logo"></a><small>Except where otherwise noted, content on this site is licensed under a <a class="license" href="https://creativecommons.org/licenses/by/4.0/deed.en" target="_blank" rel="noopener">Creative Commons Attribution 4.0 International license (CC BY 4.0)</a>.</small></div>        </div>
+        <br>
+        <small class="d-block mt-1">&copy;&nbsp;AlgorithmWatch&nbsp;2026</small>
+    </div>
+</footer>
+<div class="aw-container"></div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/en/*"},{"not":{"href_matches":["/en/wp-*.php","/en/wp-admin/*","/en/wp-content/uploads/*","/en/wp-content/*","/en/wp-content/plugins/*","/en/wp-content/themes/aw2020/*","/en/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="aw-getcta-js-extra">
+var awPopupData = {"apiUrl":"https://algorithmwatch.org/en/api/popups/","context":{"type":"post","id":35165}};
+//# sourceURL=aw-getcta-js-extra
+</script>
+<script id="aw-getcta-js" src="/en/wp-content/themes/aw2020/assets/js/getcta.js?ver=1"></script>
+<script id="aw-token-system-js-after">
+class AWTokenSystem {
+    constructor() {
+        this.endpoint = window.location.origin + '/en/wp-json/aw/v1/token';
+        this.allowedTypes = ["newsletter","petition","webinar","mailcampaign"];
+        this.tokenLifetime = 86400;
+        this.errorMessage = 'Could not verify the form. Please reload the page and try again.';
+        this.connectingMessage = 'Connecting...';
+        this.scheduleReload();
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => this.initializeForms());
+        } else {
+            this.initializeForms();
+        }
+    }
+
+    scheduleReload() {
+        // Reload the page once the token lifetime has elapsed so users always
+        // have a fresh token ready. The reload happens either via a timer
+        // (tab was left open) or on the next visibility change after expiry
+        // (tab was in the background).
+        const msUntilExpiry = this.tokenLifetime * 1000;
+
+        this.reloadTimer = setTimeout(() => {
+            // If the tab is currently visible, reload immediately.
+            // If it is hidden, wait until the user comes back.
+            if (!document.hidden) {
+                location.reload();
+            } else {
+                const onVisible = () => {
+                    if (!document.hidden) {
+                        document.removeEventListener('visibilitychange', onVisible);
+                        location.reload();
+                    }
+                };
+                document.addEventListener('visibilitychange', onVisible);
+            }
+        }, msUntilExpiry);
+    }
+
+    initializeForms() {
+        // Forms with explicit data-form-type attribute
+        document.querySelectorAll('form[data-form-type]').forEach(form => {
+            const formType = form.getAttribute('data-form-type');
+            if (formType && this.allowedTypes.includes(formType)) {
+                this.setupForm(form, formType);
+            }
+        });
+        
+        // Forms with token placeholder but no data-form-type (legacy newsletter forms)
+        document.querySelectorAll('form .aw-token-placeholder').forEach(placeholder => {
+            const form = placeholder.closest('form');
+            if (form && !form.hasAttribute('data-form-type')) {
+                this.setupForm(form, 'newsletter');
+            }
+        });
+    }
+
+    setupForm(form, formType) {
+        // Lazy: fetch the token only once the visitor actually interacts with the form
+        // (focus / pointer / typing). Page views, prefetch and scrapers that never touch
+        // the form generate no token at all, so the token pool reflects real intent.
+        const start = () => this.ensureToken(form, formType);
+        form.addEventListener('focusin', start, { once: true });
+        form.addEventListener('pointerdown', start, { once: true });
+        form.addEventListener('keydown', start, { once: true });
+        // Safety net: never let the form submit with an empty token while JS is running.
+        form.addEventListener('submit', (e) => this.handleSubmit(e, form, formType));
+    }
+
+    ensureToken(form, formType) {
+        if (!form.awTokenPromise) {
+            form.awTokenPromise = this.fetchAndInject(form, formType);
+        }
+        return form.awTokenPromise;
+    }
+
+    async fetchAndInject(form, formType) {
+        try {
+            const tokenData = await this.generateToken(formType);
+            if (tokenData && tokenData.token) {
+                this.injectToken(form, tokenData);
+                return true;
+            }
+        } catch (error) {
+            console.error('AW Token System: setup failed:', error);
+        }
+        return false;
+    }
+
+    async handleSubmit(e, form, formType) {
+        const tokenField = form.querySelector('input[name=aw_token]');
+        if (tokenField && tokenField.value) return; // token present -> allow native submit
+        if (form.awSubmitting) return;               // our own re-submit -> allow
+        e.preventDefault();
+        this.setBusy(form, true);
+        // Start the fetch now if interaction never triggered it, otherwise await it.
+        let ok = await this.ensureToken(form, formType);
+        if (!ok) ok = await this.fetchAndInject(form, formType); // one retry
+        this.setBusy(form, false);
+        if (ok) {
+            form.awSubmitting = true;
+            if (form.requestSubmit) { form.requestSubmit(); } else { form.submit(); }
+        } else {
+            this.showError(form);
+        }
+    }
+
+    setBusy(form, busy) {
+        const btn = form.querySelector('[type=submit], button:not([type])');
+        if (!btn) return;
+        btn.disabled = busy;
+        const isInput = btn.tagName === 'INPUT';
+        if (busy) {
+            btn.dataset.awLabel = isInput ? btn.value : btn.textContent;
+            if (isInput) { btn.value = this.connectingMessage; } else { btn.textContent = this.connectingMessage; }
+        } else if (btn.dataset.awLabel !== undefined) {
+            if (isInput) { btn.value = btn.dataset.awLabel; } else { btn.textContent = btn.dataset.awLabel; }
+            delete btn.dataset.awLabel;
+        }
+    }
+
+    showError(form) {
+        let note = form.querySelector('.aw-token-error');
+        if (!note) {
+            note = document.createElement('div');
+            note.className = 'aw-token-error';
+            note.setAttribute('role', 'alert');
+            form.appendChild(note);
+        }
+        note.textContent = this.errorMessage;
+    }
+
+    async generateToken(formType) {
+        try {
+            const response = await fetch(this.endpoint, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ form_type: formType })
+            });
+            if (!response.ok) return null;
+            return await response.json();
+        } catch (error) {
+            console.error('AW Token System: token generation failed:', error);
+            return null;
+        }
+    }
+
+    injectToken(form, tokenData) {
+        const placeholder = form.querySelector('.aw-token-placeholder');
+        if (placeholder) {
+            placeholder.value = tokenData.token;
+            placeholder.name = 'aw_token';
+            placeholder.classList.remove('aw-token-placeholder');
+        } else {
+            form.querySelectorAll('input[name=\"aw_token\"]').forEach(el => el.remove());
+            const input = document.createElement('input');
+            input.type = 'hidden';
+            input.name = 'aw_token';
+            input.value = tokenData.token;
+            form.appendChild(input);
+        }
+    }
+
+}
+
+window.awTokenSystem = new AWTokenSystem();
+
+//# sourceURL=aw-token-system-js-after
+</script>
+    <script>new Image().src='https://algorithmwatch.org/en/?aw_jstrack=js&_='+Date.now();</script>
+    <noscript><img src="https://algorithmwatch.org/en/?aw_jstrack=nojs" alt="" style="position:absolute;width:0;height:0;border:0;overflow:hidden" /></noscript>
+    </body>
+
+</html>
+<!-- Dynamic page generated in 1.743 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-06-24 11:31:20 -->
+
+<!-- Compression = gzip -->

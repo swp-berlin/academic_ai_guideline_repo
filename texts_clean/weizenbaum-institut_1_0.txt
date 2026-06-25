@@ -1,66 +1,118 @@
 # Weizenbaum-Institut
-# Source: https://zenodo.org/records/14844475
+# Source: https://zenodo.org/records/14844475/files/20250114_Richtlinie%20zur%20Nutzung%20generativer%20KI%20am%20WI_final_tp-1_public.pdf?download=1
 # Date: 2025
 # Category: guideline
 
-Richtlinie zur Nutzung von generativer KI am Weizenbaum-Institut
+# Nutzung von generativer KI am Weizenbaum-Institut
 
-Authors/Creators
-Knaus, Jochen
-Friesike, Sascha
-Opitz, Ricarda
-Hase, Jan
-Kammerer, Dietmar
-Oellers, Claudia
+Richtlinie
 
-1. Weizenbaum Institute
-2. Berlin University of the Arts
+V. 1, 13.01.2025
 
-Description
-The guideline for dealing with generative AI (large language models) at the Weizenbaum Institute Berlin, which has been adopted by the board of directors in January 2025. It is a living document and is updated and supplemented on a low-threshold basis.
+## Impressum
 
----
+Weizenbaum-Institut e.V.
 
-Guideline for the use of generative AI at the Weizenbaum Institute
+Hardenbergstrasse 32
 
-1. Präambel
-Generative KI-Systeme, insbesondere große Sprachmodelle, haben in den letzten Jahren rasant an Bedeutung gewonnen. Sie bieten vielfältige Möglichkeiten zur Unterstützung von Forschung, Lehre und Verwaltung, werfen jedoch auch ethische, rechtliche und praktische Fragen auf. Das Weizenbaum-Institut als interdisziplinäres Forschungsinstitut zur digitalen Gesellschaft sieht sich in der Verantwortung, einen reflektierten und verantwortungsvollen Umgang mit diesen Technologien zu fördern.
+10623 Berlin
 
-Diese Richtlinie soll einen Rahmen für die Nutzung generativer KI am Institut schaffen. Sie dient als Orientierungshilfe für Mitarbeiter:innen, Gastwissenschaftler:innen und Studierende und wird regelmäßig überprüft und angepasst.
+info@weizenbaum-institut.de // weizenbaum-institut.de
 
-2. Geltungsbereich
-Diese Richtlinie gilt für alle Mitarbeiter:innen, Gastwissenschaftler:innen, Studierende sowie externe Personen, die im Rahmen ihrer Tätigkeit am Weizenbaum-Institut generative KI-Systeme nutzen oder nutzen möchten.
+| Version: | 1 |
+| Datum der Version: | 13.01.2025 |
+| Autor:innen: | Jochen Knaus, Sascha Friesike, Ricarda Opitz, Jan Hase, Dietmar Kammerer, Claudia Oellers |
+| Beteiligte Forschungsgruppen / Bereiche: | Forschungsmanagement, Vorstand |
+| Beschlossen durch: | Direktorium |
+| Status: | Beschlossen |
 
-3. Grundsätze
-a) Transparenz: Die Nutzung generativer KI muss offen kommuniziert werden, insbesondere wenn sie in Forschungsergebnisse, Publikationen oder Lehrmaterialien einfließt.
-b) Verantwortung: Jede:r Nutzer:in ist für die Ergebnisse und Auswirkungen der KI-Nutzung selbst verantwortlich.
-c) Datenschutz: Bei der Nutzung generativer KI sind die geltenden Datenschutzbestimmungen, insbesondere die DSGVO, einzuhalten.
-d) Wissenschaftliche Integrität: Die Nutzung generativer KI darf nicht zu Plagiaten oder der Verletzung geistiger Eigentumsrechte führen.
-e) Diskriminierungsfreiheit: KI-Systeme dürfen nicht zur Verstärkung von Diskriminierung oder Bias beitragen.
+## Änderungshistorie
 
-4. Erlaubte Nutzung
-Generative KI kann am Weizenbaum-Institut für folgende Zwecke genutzt werden:
-- Unterstützung bei der Literaturrecherche und -auswertung
-- Erstellung von Textentwürfen oder Zusammenfassungen
-- Generierung von Code oder Datenanalysen
-- Unterstützung bei der Lehre (z. B. Erstellung von Lehrmaterialien)
-- Administrative Aufgaben (z. B. Protokollerstellung, E-Mail-Entwürfe)
+| Datum | Version | Erstellt durch | Beschreibung der Änderungen |
+| 13.01.2025 | 1 | Jochen Knaus, Sascha Friesike, Ricarda Opitz, Jan Hase, Dietmar Kammerer, Claudia Oellers | / |
 
-5. Nicht erlaubte Nutzung
-Die Nutzung generativer KI ist nicht erlaubt für:
-- Die Erstellung von Prüfungsleistungen oder Abschlussarbeiten ohne ausdrückliche Genehmigung
-- Die Verarbeitung personenbezogener Daten ohne vorherige Anonymisierung
-- Die Generierung von Inhalten, die gegen geltendes Recht oder ethische Grundsätze verstoßen
-- Die Nutzung von KI-Systemen, die nicht den institutionellen Richtlinien entsprechen
+Dauerhafte Verfügbarkeit: DOI 10.5281/zenodo.14844475
 
-6. Dokumentation und Kennzeichnung
-Jede Nutzung generativer KI muss dokumentiert werden. In Publikationen oder Lehrmaterialien ist die Nutzung kenntlich zu machen, z. B. durch einen Hinweis wie: „Teile dieses Textes wurden mit Unterstützung generativer KI erstellt.“
+Die Richtlinie ist lizenziert unter Creative Commons CC-BY 4.0 Attribution (https://creativecommons.org/licenses/by/4.0/)
 
-7. Schulung und Sensibilisierung
-Das Weizenbaum-Institut bietet regelmäßig Schulungen und Workshops zum verantwortungsvollen Umgang mit generativer KI an. Alle Mitarbeiter:innen sind aufgefordert, an diesen Angeboten teilzunehmen.
+# Richtlinie
 
-8. Kontakt und Beratung
-Bei Fragen zur Nutzung generativer KI können sich Mitarbeiter:innen an die zuständigen Ansprechpersonen des Instituts wenden.
+## Einleitung
 
-9. Inkrafttreten
-Diese Richtlinie tritt am 13. Januar 2025 in Kraft und ersetzt alle vorherigen Regelungen zur Nutzung generativer KI am Weizenbaum-Institut.
+Der Einsatz von Werkzeugen der generativen Künstlichen Intelligenz (KI) verändert Arbeits- und Wissenschaftsprozesse. Das Weizenbaum-Institut e. V. (WI) möchte gemäß seinem Leitbild eine konstruktiv-kritische Auseinandersetzung mit den Möglichkeiten von KI ermöglichen, die sowohl praktische und rechtliche Aspekte berücksichtigt, als auch den technischen Fortschritt mit einer ethisch vertretbaren und nachhaltigen Nutzung in Einklang bringt.
+
+Der Einsatz von KI-Werkzeugen am WI soll den wissenschaftlichen Prozess auf vielfältige Weise unterstützen und Routinetätigkeiten in Forschung und Verwaltung vereinfachen.
+
+Mit der Richtlinie werden der Kodex zur guten wissenschaftlichen Praxis am Weizenbaum-Institut und die Leitlinie zum Umgang mit Forschungsdaten ergänzt.
+
+Diese Richtlinie wird unter starker Einbeziehung der Mitarbeitenden und der Nutzungserfahrungen weiter überarbeitet und präzisiert.
+
+Praktische und konkrete Anwendungshinweise und Anleitungen ergänzen die Richtlinie. Es werden Einschluss- und Ausschlusslisten veröffentlicht.
+
+## Begrifflichkeit
+
+Systeme, die im Folgenden als „generative KI“ bezeichnet werden, sind in der Lage, Inhalte, seien es Bilder, Töne oder Texte, anhand von Vorgaben neu zu erstellen oder grundlegend umzugestalten. Am WI werden Werkzeuge mit generativer KI in verschiedenen Formen eingesetzt, von Web Services über Code und technische APIs bis hin zur Integration in Programme wie Office.
+
+Werkzeuge, die zwar auf ähnlichen Methoden basieren, aber ausschließlich formale Kriterien prüfen oder anpassen, sind auch Gegenstand dieser Richtlinie. Beispiele sind Übersetzungs- und Transkriptionsdienste.
+
+## Geltungsbereich
+
+Diese Richtlinie richtet sich an alle Mitarbeiter:innen des WI sowie an externe Wissenschaftler:innen, sofern ihre Tätigkeit in Projekten des WI stattfindet oder direkt mit dem Institut assoziiert ist.
+
+Darüber hinaus sind immer projektspezifische Vorgaben, Auflagen der jeweiligen Zuwendungsgeber, der Verlage sowie kooperierender Einrichtungen zu beachten.
+
+Die Richtlinie umfasst alle kommerziellen und nicht-kommerziellen Dienste und Modelle für generative KI.
+
+Die Nutzung von privaten Accounts und Lizenzen bei Diensten der generativen KI für dienstliche Zwecke ist nicht gestattet. Bei besonderem Bedarf ist die/der KI-Beauftragte ansprechbar.
+
+Die Richtlinie berücksichtigt nicht die studentische Lehre und Aspekte des Studiums.
+
+## Risiken der Nutzung generativer KI
+
+Den meisten von WI-Mitarbeiter:innen und Wissenschaftler:innen nutzbaren Diensten der generativen KI ist gemeinsam, dass die eigentliche Datenverarbeitung außerhalb der technischen Infrastruktur des Instituts stattfindet. Das bedeutet, dass die Eingaben z. B. in ein KI-System an den Dienstleister übermittelt werden, also das Institut verlassen. Eingaben sind hier nicht nur Texteingaben („Prompts“), sondern können auch Dokumente oder Mediendateien sein. Dies ist aus Governance- und Datenschutzgründen nicht für alle Daten zulässig. Beispiele hierzu finden sich im Abschnitt „Ausschluss der Nutzung“.
+
+Die Lizenzen der meisten kommerziellen generativen KI-Modelle räumen den Betreibern das Recht ein, die Eingaben der Nutzenden für die eigenen Trainingsdaten, aus denen das eigentliche KI-Modell generiert und verbessert wird, zu verwenden. Dies ist problematisch, da im Extremfall die Eingaben ganz oder teilweise von Dritten wiederhergestellt werden können.
+
+Enthält das Trainingsmaterial urheberrechtlich geschützte Werke, besteht die Gefahr, dass das Ergebnis einer generativen KI den geschützten Werken so nahekommt, dass bei Veröffentlichung eine Rechtsverletzung vorliegen kann. Fast alle Corpora kommerzieller Modelle enthalten solch geschützte Daten, nur wenige freie Modelle verzichten auf urheberrechtlich geschützte Werke und können dies auch garantieren.
+
+## Ausschluss der Nutzung
+
+Sensible Geschäftsdaten sowie personenbezogene Daten dürfen nur unter bestimmten Voraussetzungen extern verarbeitet werden. Da derzeit fast alle für WI-Mitarbeitende nutzbaren generativen KI-Dienste in externen Rechenzentren betrieben werden, kommt eine Nutzung in diesen Fällen einer Übermittlung an externe Stellen gleich.
+
+Es ist daher verboten, interne Dokumente des Instituts oder der Verbundpartner des Instituts wie E-Mails, Protokolle oder Berichte in eine generative KI einzuspeisen.
+
+Die Eingabe von Informationen über natürliche Personen in generative KI ist verboten, es sei denn, es gibt eine ausdrückliche Rechtsgrundlage und Garantien für die Verarbeitung. Beim Einsatz in Studien ist auf eine spezifische Information der Teilnehmenden zu achten (Einsatz und Zweck von KI-Systemen). Bei Unklarheiten über den Status einer geplanten Verarbeitung ist vor der Durchführung die Datenschutzbeauftragte zu konsultieren.
+
+Die eingesetzten Produkte und deren Nutzung müssen den ethischen und rechtlichen Standards des Instituts entsprechen.
+
+## Verantwortlichkeit
+
+Urheberschaft kann nur von Menschen beansprucht werden. Das bedeutet, dass auch bei einer gekennzeichneten Verwendung der Ergebnisse einer generativen KI die ausführende Person für den Inhalt und auch die Einhaltung der Grundsätze der guten wissenschaftlichen Praxis verantwortlich ist.
+
+Bei der Nutzung von KI im Rahmen von Entscheidungsfindungsprozessen gilt es zwischen automatisierter, ausgelagerter Entscheidungsfindung und der Unterstützung von Entscheidungen zu unterscheiden. Nur die Unterstützung einer Entscheidungsfindung durch generative KI ist zulässig und sorgfältig abzuwägen.
+
+## Prinzipien der Nutzung von generativer KI
+
+### Vorsicht und Kontrolle
+
+Generative KI kann formal und sprachlich überzeugende Inhalte produzieren, arbeitet aber im Kern nicht logisch-deduktiv, sondern linguistisch-statistisch. Deshalb müssen alle von generativer KI produzierten Inhalte auf Richtigkeit geprüft werden. Dabei ist vor allem auf Erfindungen („Halluzinationen“), inhaltliche Inkonsistenzen sowie Verzerrungen und Vorurteile („bias“) in den ausgegebenen Daten der KI-Systeme zu achten.
+
+### Transparenz
+
+Bei wissenschaftlichen Anträgen und Publikationen muss die Verwendung von KI-Systemen transparent gemacht und in Übereinstimmung mit den Vorgaben der Verlage und Zuwendungsgeber erfolgen.
+
+## Gültigkeit
+
+Die Richtlinie wurde durch das Direktorium des Weizenbaum-Instituts e. V. verabschiedet am 13.01.2025.
+
+Die Richtlinie wird als lebendiges Dokument regelmäßig überprüft und inhaltlich aktualisiert.
+
+## Appendix
+
+Weitere Informationen und Anwendungshinweise finden sich unter: https://wiki.intern.weizenbaum-institut.de/index.php?title=Category:KI
+
+## FOOTNOTES
+
+1 Siehe: Richtlinie zur Nutzung von Diensthandys und privater mobiler Geräte am Weizenbaum-Institut.
+
+2 Kontakt Eva Grübel-Hoffmann: datenschutz@weizenbaum-institut.de

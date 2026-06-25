@@ -2,8 +2,6 @@
 # Source: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/moderne-verwaltung/ki/BMI25020-leitlinien-ki-bundesverwaltung.pdf?__blob=publicationFile&v=4
 # Date: 2025-03
 # Category: guideline
-# Download file: bmi.pdf
-# Extraction: mistral-ocr
 
 # Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung
 
@@ -31,8 +29,6 @@ Die vorliegenden KI-Leitlinien sollen den Weg ebnen, diese Prozessschritte einzu
 
 Es wird zukünftig notwendig bleiben, weitere Bereiche zu adressieren und Anweisungen zur praktischen Umsetzung gemeinschaftlich weiterzuentwickeln, um den sich stetig wandelnden Anforderungen gerecht zu werden.
 
----
-
 # 1. Einleitung
 
 Der Einsatz Künstlicher Intelligenz (KI) stellt eine immense Chance dar, die Verwaltung der Zukunft zu gestalten. KI kann bei adäquater Nutzung Digitalisierungspotenziale ausschöpfen und zur Modernisierung der Verwaltung beitragen. KI-Systeme können die Bundesverwaltung beispielsweise unterstützen, behördliche Aufgaben effizienter zu bearbeiten, Mitarbeitende zu entlasten und somit den Auswirkungen des demographisch bedingten Fachkräftemangels wirksam zu begegnen.
@@ -49,9 +45,7 @@ In den vorliegenden Leitlinien wird ein KI-System entsprechend Artikel 3 Absatz 
 
 Beispiele für KI reichen von einfachen Algorithmen wie zum Beispiel „Optical Character Recognition“ zur Erkennung von Buchstaben bis zu komplexen Modellen, wie sie etwa in generativer KI eingesetzt werden. Mögliche Anwendungsfelder beinhalten Sprachassistenten, Robotik und das autonome Fahren.
 
----
-
-# Anwendungsbeispiel: Große Sprachmodelle
+## Anwendungsbeispiel: Große Sprachmodelle
 
 Large Language Models (LLMs) sind künstliche neuronale Netze, die auf großen Textkorpora oder anderen Datenformaten wie Bild-, Audio- oder Videodaten (sog. multimodale Modelle) trainiert wurden. Basierend auf generativen Modellen können sie Eingaben („Prompts“) verarbeiten und entsprechende Ausgaben wie beispielsweise Texte oder Bilder erzeugen.
 
@@ -66,8 +60,6 @@ In diesen Leitlinien definieren wir übergeordnete Leitprinzipien als gemeinsame
 Darauf aufbauend geben wir durch konkrete Leitsätze für den Einsatz und die Bereitstellung von KI-Systemen einen Rahmen vor, um einen verantwortungsvollen und sicheren Einsatz in der Bundesverwaltung zu ermöglichen (Kapitel 3). In den Leitsätzen erklären wir zielgruppenspezifische Anforderungen und Herausforderungen beim KI-Einsatz. Adressiert werden sowohl Behörden, die KI-Systeme bereitstellen beziehungsweise deren verantwortliche Organisationseinheiten (beispielsweise deren Datenlabore, Maßnahmenverantwortliche, IT-Verantwortliche) als auch alle Nutzenden solcher KI-Systeme.
 
 Die vorliegenden KI-Leitlinien werden dabei durch geltende Standards sowie fachspezifische Vorgaben und Veröffentlichungen, beispielsweise zur Informationssicherheit, zur behördlichen Praxis der Arbeits- und Sozialverwaltung oder dem außenpolitischen Bereich ergänzt.
-
----
 
 # 2. Wertebasierte Leitprinzipien als gemeinsame Handlungsgrundlage
 
@@ -131,17 +123,13 @@ Ein gemeinschaftlicher Ansatz soll dabei unterstützen, dass für die gesamte Bu
 
 - Die spätere Wechselmöglichkeit, die eigene Gestaltungsfähigkeit und der Einfluss der Behörde auf den IT-Anbieter sowie dessen Marktposition sollten bei der Wahl der KI-Lösung beachtet werden, um „Lock-in-Effekte“ zu vermeiden und die Digitale Souveränität zu wahren. Wo möglich werden Modelle mit transparentem Trainingsprozess und frei verfügbaren Parametern gegenüber „Closed-Source-Modellen“ bevorzugt.
 
----
-
-3. Leitsätze für den Einsatz von KI
+# 3. Leitsätze für den Einsatz von KI
 
 Die folgenden Leitsätze dienen als Erläuterung zum Umgang mit Anforderungen und Herausforderungen beim KI-Einsatz. Die Leitsätze sind entlang der jeweiligen Adressaten in zwei Abschnitte geteilt: Die Leitsätze A1 bis A5 richten sich an die Nutzenden von KI-Systemen. Die Leitsätze B1 bis B9 richten sich an für die Bereitstellung von KI-Systemen verantwortliche Organisationseinheiten in Behörden (beispielsweise an deren Datenlabore, Maßnahmenverantwortliche, IT-Verantwortliche).
 
 ## 3.1. Leitsätze für Nutzende
 
 Die nachfolgenden Leitsätze richten sich an alle Mitarbeitenden in der Bundesverwaltung, die KI-Systeme nutzen (im Folgenden als „Nutzende“ bezeichnet). Ziel der Leitsätze ist es, eine verantwortungsvolle Nutzung von KI durch die Darstellung von praktischen, ethischen und rechtlichen Rahmenbedingungen zu ermöglichen.
-
----
 
 **Leitsatz A1:**
 KI verantwortungsbewusst und ethisch einsetzen
@@ -152,8 +140,6 @@ Um KI-Systeme verantwortungsvoll einzusetzen, nehmen Nutzende vor dem Einsatz vo
 
 Zudem sollte die allgemeine ethische Wertegrundlage bei der Verwendung von KI angemessen berücksichtigt werden (siehe auch die Hinweise zur Werteorientierung der KI-VO).
 
----
-
 # Umsetzung der ethischen Grundsätze am Beispiel von LLM-Anwendungen:
 
 Am Beispiel von LLM-Anwendungen lässt sich zeigen, wie eine solche Umsetzung der ethischen Grundsätze in der Praxis aussehen kann:
@@ -161,8 +147,6 @@ Am Beispiel von LLM-Anwendungen lässt sich zeigen, wie eine solche Umsetzung de
 - Für eine verantwortungsvolle Nutzung von textgenerativen LLM-Anwendungen ist die **ethische und sensible Formulierung der Anfrage** durch Nutzende an die Anwendung (engl. „Prompting“) zentral. Das Sprachmodell versucht, die gestellte Anfrage anhand statistischer Abgleichungen der Worte (zum Beispiel der Semantik) zu beantworten. Formulierungs- und Strukturierungstechniken können daher nicht nur dabei unterstützen, die Qualität der Ausgabe zu maximieren, sondern auch dabei, ethische Herausforderungen, wie verzerrte Ausgaben zu vermeiden. Eine Auswahl solcher „Prompting“-Techniken findet sich im Handout für Nutzende „Einsatz großer Sprachmodelle (LLM) gemäß KI-Leitlinien“ (siehe Anlage).
 
 - Unethische Eingaben oder die Verbreitung von generierten Inhalten, die beispielsweise zu Hassreden, Beleidigungsdelikten nach §§ 185 ff. StGB oder der Verbreitung von Desinformation veranlassen, sind unzulässig. Gleiches gilt für Anfragen, die zum Beispiel Diskriminierung oder Verletzungen der Menschenwürde implizieren. Zu Zwecken von Schulungen, Recherchen oder dem Prüfen der Modellsicherheit durch sogenanntes „Red-Teaming“ sind fachspezifische Ausnahmen möglich. Nutzende müssen zudem prüfen, ob generierte Ergebnisse einen sogenannten Bias enthalten, zum Beispiel diskriminierende Inhalte oder systematische Fehler beziehungsweise „Missrepräsentationen“. Wenn ein KI-System mit Datensätzen trainiert wurde, in denen bestimmte Gruppen über- oder unterrepräsentiert sind, kann dies beispielsweise zu verzerrten Informationen führen. Werden diskriminierende oder verzerrte Inhalte festgestellt, dürfen diese nicht übernommen werden. Diskriminierende oder vorurteilsbehaftete Ausgaben durch die Anwendung sollten der in der Anwendung als verantwortlich angegebenen Stelle gemeldet werden.
-
----
 
 **Leitsatz A2: Die eigene Datenpreisgabe minimieren**
 
@@ -175,8 +159,6 @@ Eine Registrierung für solche Systeme sollte lediglich nach Freigabe durch den 
 Nach der Registrierung müssen Nutzende Maßnahmen zur Minimierung der Datenpreisgabe in der Nutzerkontenverwaltung ergreifen. Beispielsweise sollten Kontoeinstellungen aktiviert werden, die eine Datenweitergabe an Dritte (insb. in Drittstaaten) nach Möglichkeit unterbinden. Hierzu zählt unter anderem der Widerspruch gegen die Weiterverwendung eingegebener Daten zu Trainingszwecken des Systems.
 
 Bei der Nutzung von KI-Systemen, die von der Bundesverwaltung auf bundesverwaltungsinterner Infrastruktur bereitgestellt werden, ist dies regelmäßig nicht erforderlich. Die Weiterverwendung der eingegebenen Daten zu Trainingszwecken kann in diesem Fall, wenn der Datenschutz gewahrt wird, zur Verbesserung der Systeme beitragen. Für bundesverwaltungsinterne Systeme werden Nutzende von der verantwortlichen Behörde über den Registrierungsprozess und Nutzungsbedingungen informiert.
-
----
 
 **Leitsatz A3: Daten verantwortungsvoll eingeben**
 
@@ -212,8 +194,6 @@ Nutzende prüfen auf Basis der von der verantwortlichen Behörde bereitgestellte
 
 Für eine Vielzahl von Anwendungsfällen im Rahmen der behördlichen Arbeit ist die entsprechende Freigabe des KI-Systems für sensible dienstliche Daten erforderlich. Insbesondere die Eingabe von Daten mit besonderer Verschwiegenheits- oder Geheimhaltungspflicht sowie Verschlusssachen durch Nutzende darf nur erfolgen, wenn das System für die Nutzung der fraglichen Art der Daten explizit durch die verantwortliche Behörde freigegeben wurde und die erforderliche Einstufung der Daten fortbesteht.
 
----
-
 **Vertiefung:**
 
 **Freigabe von KI-Systemen für die Eingabe von sensiblen dienstlichen Daten**
@@ -223,8 +203,6 @@ Bei KI-Systemen, die auf bundesverwaltungsinterner IT-Infrastruktur, beispielswe
 Beispiele für bundesverwaltungsinterne LLM-Anwendungen, die an der Freigabe für sensible dienstliche Daten arbeiten beziehungsweise diese bereits erproben, sind das KI-Portal des ITZBund (KIPITZ) und PLAIN.
 
 Sofern keine anderen Informationen vorliegen, gilt für Nutzende in der Regel der restriktivste Fall der Dateneingabe. In diesem Fall sind lediglich öffentliche Daten für die Eingabe freigegeben. Unter solche „öffentlichen Daten“ fallen beispielsweise Daten, die aus dem eigenen Ressort stammen und für die Öffentlichkeit bestimmt sind, Open Data oder öffentlich zugängliche Daten. Soweit öffentliche Daten Personenbezug aufweisen, unterfallen sie weiterhin dem Datenschutzrecht und eine Eingabe muss, wie oben beschrieben, diesbezüglich geprüft werden.
-
----
 
 **Vertiefung:**
 **Restriktivster Fall der Dateneingabe**
@@ -240,9 +218,7 @@ Auch im restriktivsten Fall gibt es weiterhin viele Anwendungsfälle von KI im R
 - die Ideengenerierung für das Argument einer öffentlichen Rede oder
 - die Zuhilfenahme eines Sprachmodells bei der Erstellung von Excel-Formeln.
 
----
-
-Leitsatz A4:
+**Leitsatz A4:**
 KI-generierte Inhalte fachlich prüfen
 
 Nutzende prüfen KI-generierte Inhalte vor der weiteren Verwendung fachlich.
@@ -259,25 +235,19 @@ Umsetzung der fachlichen Prüfung am Beispiel von LLM-Anwendungen:
 
   - Enthalten generierte Inhalte personenbezogene Daten? Es gilt, dass generierte Inhalte mit personenbezogenen Daten nur im Einklang mit den datenschutzrechtlichen Bestimmungen weiterverwendet werden dürfen.
 
----
-
 **Leitsatz A5: KI transparent nutzen**
 
 Nutzenden wird ein transparenter Umgang mit der eigenen KI-Nutzung gegenüber anderen Mitarbeitenden sowie Vorgesetzten empfohlen.
 
 Nutzende sollten sich in ihrem Ressort beziehungsweise ihrer Behörde über etwaige bestehende interne oder externe Kennzeichnungs- oder Dokumentationspflichten informieren. Grundsätzlich gilt:
 
-- Wenn fachlich ungeprüfte Inhalte behördenintern oder an die Öffentlichkeit weitergegeben werden (beispielsweise im Rahmen der Verwendung von Chatbots), ist die Nutzung eines KI-Systems zu kennzeichnen.
+- Wenn fachlich ungeprüfte Inhalte behördenintern oder an die Öffentlichkeit weitergegeben werden (beispielsweise im Rahmen der Verwendung von Chatbots), ist die Nutzung eines KI-Systems zu kennzeichnen (vgl. auch Artikel 50 Absatz 4 Satz 4 KI-VO).
 
-- Wenn KI-generierte Inhalte fachlich geprüft und so ausreichend redaktionell überarbeitet wurden, dass die Qualität des produzierten Inhalts sichergestellt wurde, ist regelmäßig keine weitere Kennzeichnung notwendig.
-
----
+- Wenn KI-generierte Inhalte fachlich geprüft und so ausreichend redaktionell überarbeitet wurden, dass die Qualität des produzierten Inhalts sichergestellt wurde, ist regelmäßig keine weitere Kennzeichnung notwendig (vgl. auch Artikel 50 Absatz 4 Satz 5 2. HS KI-VO).
 
 ## 3.2. Leitsätze für Behörden
 
 Die nachfolgenden Leitsätze richten sich an die für die Bereitstellung von KI-Systemen verantwortlichen Organisationseinheiten in Behörden (beispielsweise an deren Datenlabore, Maßnahmenverantwortliche, IT-Verantwortliche). Ziel ist die Ermöglichung eines weitreichenden Einsatzes von KI unter Berücksichtigung des geltenden Rechtsrahmens.
-
----
 
 **Leitsatz B1: Klare Behördenentscheidungen zur Nutzung von KI**
 
@@ -286,8 +256,6 @@ Behörden treffen für Ihren Zuständigkeitsbereich klare Entscheidungen, um ein
 Die Entscheidung darüber, ob und welche KI-Systeme eingesetzt werden, obliegt der Behördenleitung. Diese entscheidet unter anderem vor dem Hintergrund von Informationssicherheit, Datenschutz und Geheimschutz, ob und welche KI-Systeme für dienstliche Zwecke genutzt werden dürfen. IT-Verantwortliche der Behörden sind verpflichtet, über freigegebene KI-Systeme Auskunft geben zu können.
 
 Die Bereitstellung und Nutzung von KI-Systemen haben dabei immer unter Wahrung der Sicherheit und Rechtmäßigkeit der behördlichen Arbeit zu erfolgen. Als Rechtsgrundlagen von besonderer Relevanz sind das Grundgesetz (GG), die Datenschutzgrundverordnung (DSGVO), das Bundesdatenschutzgesetz (BDSG), das Gesetz über das Bundesamt für Sicherheit in der Informationstechnik (BSIG), das Sicherheitsüberprüfungsgesetz (SÜG), das Bundespersonalvertretungsgesetz (BPersVG), beziehungsweise die Verschlusssachenanweisung (VSA), die einschlägigen Regelungen und Standards zur Informationssicherheit und die KI-Verordnung der EU (KI-VO).
-
----
 
 **Leitsatz B2: Festlegung des Einsatzbereichs und Einsatzzwecks**
 
@@ -298,8 +266,6 @@ KI-Systeme sind Unterstützungswerkzeuge für die behördliche Arbeit. Sie könn
 Die KI-VO schließt in Artikel 5 den Einsatz bestimmter KI-Systeme mit unannehmbarem Risiko aus. Beispiele hierfür sind die Klassifizierung von Personengruppen aufgrund ihres Verhaltens („Social Scoring“) oder die Emotionserkennung am Arbeitsplatz. Die Festlegung eines solchen Einsatzzwecks ist daher grundsätzlich ausgeschlossen.
 
 Vor dem Hintergrund von § 35a VwVfG ist zu beachten, dass Mitarbeitende KI-Systeme nur in unterstützender Funktion einsetzen können, die Prüfung, Entscheidung und Verantwortung in letzter Instanz aber beim Mitarbeitenden selbst verbleibt, sofern nicht der vollautomatisierte Erlass von Verwaltungsakten durch Rechtsvorschrift zugelassen ist.
-
----
 
 **Leitsatz B3: Auswahl geeigneter KI-Systeme**
 
@@ -323,8 +289,6 @@ Die für die Entwicklung und Beschaffung von Software etablierten Maßstäbe und
 
 - Die Berücksichtigung organisatorischer Rahmenbedingungen für die Einführung eines KI-Systems (zum Beispiel Feedback aus der Gremieneinbindung, Nutzbarkeit des Systems, Standard der Umsetzung der Barrierefreiheit, Schulungsmaterialien).
 
----
-
 **Leitsatz B4: Ethischer und sensibler Einsatz von KI-Systemen**
 
 Um KI verantwortungsvoll einzusetzen, wägen Behörden vor der Bereitstellung ab, inwieweit die strategischen Leitprinzipien (siehe Kapitel 2) und die Werteorientierung der KI-VO im jeweiligen KI-Anwendungsfall gewahrt werden.
@@ -347,8 +311,6 @@ Beispiele solcher Abwägungen von wertebasierten Grundsätzen können sein:
 
 - Nachhaltigkeit: Effizienzgewinne bei Arbeitsabläufen werden gegen den ökologischen Ressourcenverbrauch von KI abgewogen, eine kürzere Entwicklungsdauer gegen langfristige Nutzbarkeit. Ökologische Auswirkungen sollten Bestandteil der durchzuführenden Kosten-Nutzen-Analyse von Systemen sein.
 
----
-
 **Leitsatz B5: Sicherstellung eines Kompetenzaufbau-Angebots**
 
 Behörden stellen sicher, dass Nutzenden vor der Verwendung von KI-Systemen ein Qualifizierungsangebot gemacht wird, um für den verantwortungsvollen Umgang mit KI zu sensibilisieren und die nötigen Kompetenzen zu vermitteln.
@@ -369,8 +331,6 @@ Beschäftigten der Bundesverwaltung soll auch ressortübergreifend die Möglichk
 
 Als zentraler Fortbildungsdienstleister stellt die Bundesakademie für öffentliche Verwaltung (BAköV) zum Beispiel im Fortbildungsportal der Bundesverwaltung modulare Bausteine für Schulungs- und Sensibilisierungsmaßnahmen bereit. Ein solcher Werkzeugkasten nutzt Synergieeffekte, um Schulungen multimedial, nachhaltig und effizient durchzuführen. Das Angebot kann von den Behörden genutzt und individuell an die Gegebenheiten der jeweiligen Behörde angepasst werden. Daneben stehen weitere Angebote zur Verfügung, wie zum Beispiel die Expertise der jeweiligen Datenlabore.
 
----
-
 **Leitsatz B6:**
 Transparenz über die behördliche Nutzung von KI
 
@@ -380,11 +340,9 @@ Behörden klären für sich, ob Regelungen zur Kennzeichnungspflicht (intern wie
 
 Ziel der Bundesverwaltung ist es, dass Verwaltungshandeln transparent und nachvollziehbar bleibt. Ein transparenter Umgang mit der KI-Nutzung kann wesentlich dazu beitragen, das Vertrauen der Bevölkerung in den KI-Einsatz durch den Staat zu stärken – dies gilt insbesondere in der Kommunikation nach außen.
 
-Behörden klären für sich, ob Regelungen zur internen oder externen Kennzeichnungspflicht oder Dokumentationspflichten für die konkrete KI-Nutzung erforderlich sind. Die KI-VO regelt beispielsweise die Kennzeichnungspflicht für Hochrisiko-Systeme (Artikel 48) sowie Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Artikel 50).
+Behörden klären für sich, ob Regelungen zur internen oder externen Kennzeichnungspflicht oder Dokumentationspflichten für konkrete KI-Nutzung erforderlich sind. Die KI-VO regelt beispielsweise die Kennzeichnungspflicht für Hochrisiko-Systeme (Artikel 48) sowie Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme (Artikel 50).
 
 Wenn durch KI-Systeme erzeugte oder bearbeitete Inhalte ausreichend fachlich und redaktionell durch einen Mitarbeitenden überarbeitet wurden, so dass die Qualität des produzierten Inhalts im Verhältnis zur jeweiligen Aufgabe hinreichend sichergestellt wurde, kann grundsätzlich auf eine Kennzeichnung verzichtet werden. Zur Herstellung von Transparenz betreibt die Bundesverwaltung den sogenannten „Marktplatz der KI-Möglichkeiten“ („MaKI“). Dieser bringt auf Bundesebene Ministerien und Behörden mit passenden KI-Systemen und Bedarfen zueinander und bietet Transparenz über die KI-Systemlandschaft und Erfahrungswerte in der Bundesverwaltung. Die Behörden sind bei dem produktiven Betrieb von KI-Systemen angehalten, entsprechend der Regelungen zur Eintragung von KI-Systemen auf dem MaKI, den Einsatz der KI-Systeme aufzuzeigen.
-
----
 
 **Leitsatz B7:**
 Minimierung der Datenpreisgabe
@@ -399,8 +357,6 @@ Alternativ hierzu ist die Nutzung von Diensten ohne Registrierung zu prüfen. Au
 
 Behörden sollen Nutzende darüber hinaus über Maßnahmen zur Minimierung der Datenpreisgabe in der Nutzerkontenverwaltung informieren und bei der Umsetzung standardmäßig unterstützen. Ein Beispiel ist die Umsetzung datensparsamer Kontoeinstellungen, wie dem Widerspruch gegen die Weiterverwendung eingegebener Daten zu Trainingszwecken des Systems.
 
----
-
 **Leitsatz B8: Rahmenbedingungen für verantwortungsvolle Dateneingabe**
 
 Behörden machen die technischen Rahmenbedingungen sowie deren Implikationen für die Dateneingabe für Nutzende leicht verständlich kenntlich.
@@ -409,85 +365,7 @@ Die verantwortliche Behörde spezifiziert die Art der Daten, die von Nutzenden i
 
 ---
 
-**Leitsatz B9: Datenschutzkonformer KI-Einsatz**
-
-Behörden stellen sicher, dass der Einsatz von KI-Systemen datenschutzkonform erfolgt.
-
-Der Einsatz von KI-Systemen in der Bundesverwaltung muss den Anforderungen der Datenschutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) entsprechen. Dies umfasst insbesondere die Einhaltung der Grundsätze der Datenverarbeitung nach Artikel 5 DSGVO, wie Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integrität und Vertraulichkeit.
-
-Behörden müssen sicherstellen, dass personenbezogene Daten nur auf einer rechtmäßigen Grundlage verarbeitet werden. Dies kann beispielsweise durch eine Einwilligung der betroffenen Person, die Erfüllung eines Vertrags, die Einhaltung einer rechtlichen Verpflichtung, den Schutz lebenswichtiger Interessen, die Wahrnehmung einer Aufgabe im öffentlichen Interesse oder die Ausübung öffentlicher Gewalt erfolgen.
-
-Darüber hinaus sind die Rechte der betroffenen Personen zu wahren, wie das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Behörden müssen geeignete technische und organisatorische Maßnahmen ergreifen, um die Sicherheit der Verarbeitung zu gewährleisten und die Rechte der betroffenen Personen zu schützen.
-
-Bei der Nutzung von KI-Systemen, die auf externer IT-Infrastruktur betrieben werden, ist besonders darauf zu achten, dass keine unzulässige Übermittlung personenbezogener Daten in Drittstaaten erfolgt. Dies kann durch den Einsatz von Standardvertragsklauseln, Binding Corporate Rules oder andere geeignete Garantien sichergestellt werden.
-
-Behörden sind verpflichtet, eine Datenschutz-Folgenabschätzung durchzuführen, wenn die Verarbeitung personenbezogener Daten voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat. Dies gilt insbesondere bei der Verwendung neuer Technologien wie KI.
-
----
-
-# Anlage: Einsatz großer Sprachmodelle (LLM) gemäß KI-Leitlinien
-
----
-
-# FOOTNOTES
-
-1. Verordnung (EU) 2024/1689 des europäischen Parlaments und des Rates vom 13. Juni 2024 über Künstliche Intelligenz; ABl. L vom 12. Juli 2024.
-
-2. KI unterliegt einer rasanten Entwicklung. Es ist somit gegenwärtig schwer abzuschätzen, in welchen Einsatzgebieten KI zukünftig eine erhebliche Rolle spielen wird. Da KI allerdings bereits heute Anwendungsfälle in vielen Bereichen der Verwaltungstätigkeit bietet, ist zu erwarten, dass sich diese Entwicklung auch künftig weiter rapide fortsetzen wird.
-
-3. Diese Definition ist breit gefasst und könnte dazu führen, dass eine große Anzahl von Systemen unter die Regulierung fallen. Daher wird in den Erwägungsgründen (EG 12) einschränkend klargestellt, dass herkömmliche Softwaresysteme oder Programmieransätze, die ausschließlich auf von natürlichen Personen festgelegten Regeln zur automatischen Ausführung von Vorgängen beruhen, von der Definition nicht umfasst werden.
-
-4. Generative Modelle sind Werkzeuge für maschinelles Lernen, mit denen neue Datenmuster erstellt werden können. Sie sind für eine Vielzahl von Anwendungen nützlich, zum Beispiel für die Generierung von Bildern und Text.
-
-5. In der KI-VO wird auf sieben ethische Grundsätze aus den „Ethikleitlinien für vertrauenswürdige KI“ verwiesen, die 2019 von der unabhängigen hochrangigen Expertengruppe der Kommission entwickelt wurden. Diese sind: „menschliches Handeln und menschliche Aufsicht, technische Robustheit und Sicherheit, Privatsphäre und Daten-Governance, Transparenz, Vielfalt, Nichtdiskriminierung und Fairness, soziales und ökologisches Wohlergehen sowie Rechenschaftspflicht“, siehe Erwägungsgrund 1, 2 und 27 der KI-VO.
-
-6. Menschenzentrierte KI wird in der KI-VO folgendermaßen erläutert: „Angesichts der großen Auswirkungen, die KI auf die Gesellschaft haben kann, und der Notwendigkeit, Vertrauen aufzubauen, ist es von entscheidender Bedeutung, dass KI [...] eine menschenzentrierte Technologie ist. Sie sollte den Menschen als Instrument dienen und letztendlich das menschliche Wohlergehen verbessern.“ Siehe Erwägungsgrund 6 KI-VO.
-
-7. Siehe beispielsweise das Recht auf Erläuterung der Entscheidungsfindung im Einzelfall auf der Grundlage der Ausgaben eines in Anhang III KI-VO aufgeführten Hochrisiko-KI-Systems nach Artikel 86 Absatz 1 KI-VO sowie das Auskunftsrecht der betroffenen Person über die Verarbeitung sie betreffender personenbezogener Daten gemäß Artikel 15 Absatz 1 lit. h DSGVO.
-
-8. Vorgaben zu der Barrierefreiheit von KI-Systemen ergeben sich unter anderem aus DIN EN 301549.
-
-9. Automatisierungsbias ist die Neigung von Menschen, Vorschläge von automatisierten Entscheidungssystemen zu übernehmen beziehungsweise zu bevorzugen.
-
-10. Das heißt, es gibt eine angemessene technisch-organisatorische Trennung zu Produktivumgebungen, um diese zu schützen (auch durch gesonderte Nutzendenkennungen/-konten).
-
-11. Ein paralleler Einsatz verschiedener KI-Lösungen wird dabei nicht ausgeschlossen. Diversifizierung kann helfen, Digitale Souveränität zu wahren und potenzielle Fehler, Verzerrungen oder Schwächen einzelner KI-Systeme zu identifizieren.
-
-12. Siehe auch das „9. Sustainable Development Goal (SDG 9)“ der Bundesregierung unter: Deutsche Nachhaltigkeitsstrategie Weiterentwicklung 2021 | Bundesregierung.
-
-13. Lock-in-Effekte entstehen, wenn der Wechsel zu einem anderen System oder Anbieter mit signifikant erhöhten Kosten verbunden ist.
-
-14. Red-Teaming im Bereich der Künstlichen Intelligenz wird meist von speziellen „Red Teams“ durchgeführt, die Angriffsmethoden anwenden, um Fehler und Schwachstellen in KI-Systemen zu identifizieren, zum Beispiel schädliche oder diskriminierende Ergebnisse, unvorhergesehene oder unerwünschte Verhaltensweisen, Einschränkungen oder potenzielle Risiken im Zusammenhang mit dem Missbrauch des Systems.
-
-15. Die genannten KI-Systeme dienen als Beispiele zur Erläuterung für die Nutzenden. Sie wurden ausgewählt, weil sie zum Zeitpunkt der Erarbeitung der KI-Leitlinien in der Bundesverwaltung teilweise zum Einsatz kamen und stellen keine Präferenz gegenüber anderen Systemen dar.
-
-16. Ergänzend ist es zudem empfehlenswert, möglichst weitreichende Privatsphäre-Einstellungen im Browser vorzunehmen.
-
-17. Es gilt zu beachten, dass auch im Fall eines bundesverwaltungsinternen Betriebs bei der Verarbeitung personenbezogener Daten datenschutzrechtliche Grundsätze weiterhin eingehalten werden müssen. Eine Verwendung personenbezogener Daten zu Trainingszwecken bedarf beispielsweise auch einer Rechtsgrundlage.
-
-18. Gemäß StGB §§ 203 und 353b.
-
-19. Gemäß § 4 SÜG und § 2 VSA.
-
-20. Ratsinterne Dokumente der Europäischen Union mit der Kennzeichnung LIMITÉ.
-
-21. In begründeten Fällen kann von den Leitsätzen abgewichen werden bei der Anwendung von KI-Systemen, wenn und soweit sie ausschließlich für militärische Zwecke, Verteidigungszwecke oder Zwecke der nationalen Sicherheit in Verkehr gebracht, in Betrieb genommen oder, mit oder ohne Änderungen, verwendet werden, unabhängig von der Art der Einrichtung, die diese Tätigkeiten ausübt. Dasselbe gilt für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden.
-
-22. Soweit Aspekte der nationalen Sicherheit dieses nicht erforderlich machen.
-
-23. Ein Verwaltungsakt kann vollständig automatisiert, also auch vollständig durch KI-Systeme erlassen werden, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht und der vollständige Erlass durch Rechtsvorschrift zugelassen ist. Dieser Grundsatz steht in Korrelation mit Artikel 22 Absatz 1 DSGVO, wonach Entscheidungen mit Rechtswirkung grundsätzlich nur von Menschen getroffen werden, wobei auch hier Ausnahmen in bestimmten Fällen zugelassen sind. Eine vergleichbare Regelung für das Sozialrecht findet sich unter anderem auch in § 31a SGB X.
-
-24. Für eine Vertiefung der unterschiedlichen Optionen siehe Leitsatz B8: Rahmenbedingungen für eine verantwortungsvolle Dateneingabe.
-
-25. PLAIN steht für „Platform Analysis and Information System“ und ist die Daten- und KI-Plattform der Auslands IT, die auch weiteren Bundesbehörden zur Verfügung steht.
-
-26. Der Marktplatz der KI-Möglichkeiten dient als KI-Transparenzregister und Matching-Plattform für KI-Systeme in der Bundesverwaltung. Er ermöglicht einen umfassenden und transparenten Überblick über den KI-Einsatz, fördert den Austausch sowie Kooperationen zu diesem und erschließt Nachnutzungspotenziale bestehender KI-Systeme. Er ist erreichbar unter dem Link: www.kimarktplatz.bund.de.
-
-27. Siehe: Marktplatz der KI-Möglichkeiten | IT-Rat Beschluss Nr. [2024/01].
-
-# Einsatz großer Sprachmodelle (LLM) gemäß KI-Leitlinien
-
-Ein System kann beispielsweise nur für die Eingabe öffentlicher, nicht personenbezogener Daten freigegeben sein.
+- Ein System kann beispielsweise nur für die Eingabe öffentlicher, nicht personenbezogener Daten freigegeben sein.
 - Je nach technischen Rahmenbedingungen eines spezifischen Systems kann auch die Eingabe anderer Arten von Daten freigegeben werden. Dies können personenbezogene Daten sein (sofern die Rechtsgrundlage für die Verarbeitung dieser Daten gegeben ist) oder andere sensible dienstliche Daten (beispielsweise Daten, die einer Verschwiegenheits- oder Geheimhaltungspflicht unterliegen sowie Verschlusssachen gemäß VSA).
 
 Entsprechende Informationen sollten für Nutzende leicht ersichtlich im KI-System beispielsweise in der Eingabemaske sowie in relevanten Dokumentationen wie Nutzungsbedingungen oder FAQs bereitgestellt werden. Alternativ kann die verantwortliche Behörde Nutzende auch über Schulungen zum Thema Dateneingabe für das betreffende KI-System aufklären.
@@ -529,7 +407,8 @@ Umsetzung der KI-Leitlinien der Bundesverwaltung am Beispiel LLMs
 
 ## Bereit für den LLM-Einsatz?
 
-Sinnvoll eingesetzt können LLM-Anwendungen Nutzenden die Arbeit erheblich erleichtern!
+Sinnvoll eingesetzt können LLM-Anwendungen
+Nutzenden die Arbeit erheblich erleichtern!
 
 ### Anwendungsmöglichkeiten (Auswahl)
 
@@ -620,44 +499,116 @@ Wird dem Modell ein Zusammenhang zwischen der eigenen Anfrage und bestimmten Ant
 Beispiel:
 → „Wie viele Wohnungen standen 2022 in Berlin leer und warum liegt es an der Mietpreisbremse?“
 
-# Impressum
-
-Herausgeber
-Bundesministerium des Innern und für Heimat, 11014 Berlin
-Internet: www.bmi.bund.de
-Der Beauftragte der Bundesregierung für Informationstechnik, 11014 Berlin
-Internet: www.cio.bund.de
-
-Stand
-März 2025
-
-Artikelnummer
-BMI25020
-
 ---
 
-**FOOTNOTES**
+FOOTNOTES
 
-Eine Programmierschnittstelle, kurz API (Englisch für „Application Programming Interface“), ermöglicht, bestehende Sprachmodelle in verschiedene Anwendungen und Programme zu integrieren.
+1 Verordnung (EU) 2024/1689 des europäischen Parlaments und des Rates vom 13. Juni 2024 über Künstliche Intelligenz; ABl. L vom 12. Juli 2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj.
 
-Es ist zu beachten, dass auch öffentliche Daten, soweit sie Personenbezug aufweisen, dem Datenschutzrecht unterfallen.
+2 KI unterliegt einer rasanten Entwicklung. Es ist somit gegenwärtig schwer abzuschätzen, in welchen Einsatzgebieten KI zukünftig eine erhebliche Rolle spielen wird. Da KI allerdings bereits heute Anwendungsfälle in vielen Bereichen der Verwaltungstätigkeit bietet, ist zu erwarten, dass sich diese Entwicklung auch künftig weiter rapide fortsetzen wird.
 
-Siehe dazu Leitsatz B9: Datenschutzkonformer KI-Einsatz.
+3 Diese Definition ist breit gefasst und könnte dazu führen, dass eine große Anzahl von Systemen unter die Regulierung fallen. Daher wird in den Erwägungsgründen (EG 12) einschränkend klargestellt, dass herkömmliche Softwaresysteme oder Programmieransätze, die ausschließlich auf von natürlichen Personen festgelegten Regeln zur automatischen Ausführung von Vorgängen beruhen, von der Definition nicht umfasst werden.
 
-Näheres hierzu kann den einschlägigen Veröffentlichungen und Vorschriften des Bundesamtes für Sicherheit in der Informationstechnik (BSI) entnommen werden.
+4 Generative Modelle sind Werkzeuge für maschinelles Lernen, mit denen neue Datenmuster erstellt werden können. Sie sind für eine Vielzahl von Anwendungen nützlich, zum Beispiel für die Generierung von Bildern und Text.
 
-Das BSI hat beispielsweise mit dem Artificial Intelligence Cloud Service Compliance Criteria Catalogue (AIC4; Stand: 2021) Mindestanforderungen an die sichere Verwendung von Methoden des maschinellen Lernens in Cloud-Diensten definiert, um die transparente Prüfung und Dokumentation der Informationssicherheit eines KI-Cloud-Dienstes zu fördern.
+5 Für eine ausführliche Analyse der Chancen und Risiken von generativer KI im Rahmen der Integration in bestehende Prozesse und Anwendungen siehe zum Beispiel die Publikation Generative KI-Modelle – Chancen und Risiken für Industrie und Behörden (siehe unter: Generative KI-Modelle | BSI) sowie den Kriterienkatalog für KI-Cloud-Dienste (AIC4) des Bundesamts für Sicherheit in der Informationstechnik (BSI) (siehe unter: AIC4 | BSI).
 
-In spezifischen Fällen ist im Einzelfall zu prüfen, welchen Sicherheitsstandards die Betriebsumgebung entspricht. Beispiele sind KI-Systeme, die auf bundesverwaltungsexterner Hardware staatlicher europäischer Organisationen wie MPA (S) oder AEMPS (ES) betrieben werden sowie bei privaten Anbietern deren Rechenzentren die notwendigen Schutzmaßnahmen für dienstliche Rechenzentren erfüllen.
+6 Für das Bundesministerium für Arbeit und Soziales (BMAS) und seinen Geschäftsbereich wurden im November 2022 die „Selbstverpflichtenden Leitlinien für den KI-Einsatz in der behördlichen Praxis der Arbeits- und Sozialverwaltung“ veröffentlicht, die weiterhin ihre Gültigkeit behalten, siehe unter: Selbstverpflichtende Leitlinien für den KI-Einsatz | BMAS.
 
-Siehe analog Mindeststandard des BSI nach § 8 Absatz 1 Satz 1 BSIg zur Nutzung externer Cloud-Dienste in der Bundesverwaltung; sollten Anpassungen dieser Mindeststandards hinsichtlich der Verarbeitbarkeit von VS-NfD-Daten in bundesverwaltungsexternen Cloud-Lösungen getroffen werden, kann die Bearbeitung dieser Daten mit KI-Systemen in bundesexterner Hardware unter Einhaltung der aktualisierten Mindeststandards möglich werden.
+7 Das Auswärtige Amt (AA) hat 2024 eine KI-Charta entwickelt und publiziert.
 
-Das heißt mit beziehungsweise ohne Freigabe zur Verarbeitung von Verschlusssachen des entsprechenden Geheimhaltungsgrades wie zum Beispiel VS-NUR FÜR DEN DIENSTGEBRAUCH (VS-NfD), VS-VERTRAULICH, GEHEIM oder STRENG GEHEIM.
+8 In der KI-VO wird auf sieben ethische Grundsätze aus den „Ethikleitlinien für vertrauenswürdige KI“ verwiesen, die 2019 von der unabhängigen hochrangigen Expertengruppe der Kommission entwickelt wurden. Diese sind: „menschliches Handeln und menschliche Aufsicht, technische Robustheit und Sicherheit, Privatsphäre und Daten-Governance, Transparenz, Vielfalt, Nichtdiskriminierung und Fairness, soziales und ökologisches Wohlergehen sowie Rechenschaftspflicht“, siehe Erwägungsgrund 1, 2 und 27 der KI-VO.
 
-Einen derartigen Service stellt zum Beispiel das Produkt PLAIN der Auslands-IT dar.
+9 Beispielsweise begründet Artikel 22 DSGVO ein verbindliches Recht auf eine menschliche Letztentscheidung im Kontext der Nutzung personenbezogener Daten, siehe: Verordnung (EU) 2016/679, Datenschutz-Grundverordnung (DSGVO), ABl. L v. 27. April 2016, ELI: http://data.europa.eu/eli/reg/2016/679/oj. Daneben hat das Prinzip der menschlichen Aufsicht beispielsweise in Artikel 14 KI-VO für Hochrisiko-KI-Systeme Eingang gefunden.
 
-Manche IT-Infrastruktur ist für die elektronische Verarbeitung von Verschlusssachen freigegeben (vgl. § 50 Absatz 1 VSA).
+10 Siehe beispielsweise das Recht auf Erläuterung der Entscheidungsfindung im Einzelfall auf der Grundlage der Ausgaben eines in Anhang III KI-VO aufgeführten Hochrisiko-KI-Systems nach Artikel 86 Absatz 1 KI-VO sowie das Auskunftsrecht der betroffenen Person über die Verarbeitung sie betreffender personenbezogener Daten gemäß Artikel 15 Absatz 1 lit. h DSGVO.
 
-Für weitere Informationen siehe insbesondere Ressourcen des BSI unter: www.bsi.bund.de/dok/10417576 und www.bsi.bund.de/dok/6621662.
+11 Menschenzentrierte KI wird in der KI-VO folgendermaßen erläutert: „Angesichts der großen Auswirkungen, die KI auf die Gesellschaft haben kann, und der Notwendigkeit, Vertrauen aufzubauen, ist es von entscheidender Bedeutung, dass KI [...] eine menschenzentrierte Technologie ist. Sie sollte den Menschen als Instrument dienen und letztendlich das menschliche Wohlergehen verbessern.“ Siehe Erwägungsgrund 6 KI-VO.
 
-Siehe hierzu auch die vertiefende Betrachtung in der „Orientierungshilfe der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 6. Mai 2024: Künstliche Intelligenz und Datenschutz, sowie die Stellungnahme des Europäischen Datenschutzausschusses (EDSA) vom 18. Dezember 2024 zur Verwendung personenbezogener Daten für die Entwicklung und Einführung von KI-Modellen.
+12 Vorgaben zu der Barrierefreiheit von KI-Systemen ergeben sich unter anderem aus DIN EN 301549.
+
+13 Für mehr Informationen zur Werteorientierung der KI-VO siehe Fußnote 8.
+
+14 KI-spezifische Schulungsangebote bestehen beispielsweise bei der BAkoV.
+
+15 Automatisierungsbias ist die Neigung von Menschen, Vorschläge von automatisierten Entscheidungssystemen zu übernehmen beziehungsweise zu bevorzugen.
+
+16 Das heißt, es gibt eine angemessene technisch-organisatorische Trennung zu Produktivumgebungen, um diese zu schützen (auch durch gesonderte Nutzendenkennungen/-konten).
+
+17 Ein paralleler Einsatz verschiedener KI-Lösungen wird dabei nicht ausgeschlossen. Diversifizierung kann helfen, Digitale Souveränität zu wahren und potenzielle Fehler, Verzerrungen oder Schwächen einzelner KI-Systeme zu identifizieren.
+
+18 Siehe auch das „9. Sustainable Development Goal (SDG 9)“ der Bundesregierung unter: Deutsche Nachhaltigkeitsstrategie Weiterentwicklung 2021 | Bundesregierung.
+
+19 Lock-in-Effekte entstehen, wenn der Wechsel zu einem anderen System oder Anbieter mit signifikant erhöhten Kosten verbunden ist.
+
+20 In begründeten Fällen kann von den Leitsätzen abgewichen werden bei der Anwendung von KI-Systemen, wenn und soweit sie ausschließlich für militärische Zwecke, Verteidigungszwecke oder Zwecke der nationalen Sicherheit in Verkehr gebracht, in Betrieb genommen oder, mit oder ohne Änderungen, verwendet werden, unabhängig von der Art der Einrichtung, die diese Tätigkeiten ausübt. Dasselbe gilt für KI-Systeme oder KI-Modelle, einschließlich ihrer Ausgabe, die eigens für den alleinigen Zweck der wissenschaftlichen Forschung und Entwicklung entwickelt und in Betrieb genommen werden.
+
+21 Red-Teaming im Bereich der Künstlichen Intelligenz wird meist von speziellen „Red Teams“ durchgeführt, die Angriffsmethoden anwenden, um Fehler und Schwachstellen in KI-Systemen zu identifizieren, zum Beispiel schädliche oder diskriminierende Ergebnisse, unvorhergesehene oder unerwünschte Verhaltensweisen, Einschränkungen oder potenzielle Risiken im Zusammenhang mit dem Missbrauch des Systems.
+
+22 Die genannten KI-Systeme dienen als Beispiele zur Erläuterung für die Nutzenden. Sie wurden ausgewählt, weil sie zum Zeitpunkt der Erarbeitung der KI-Leitlinien in der Bundesverwaltung teilweise zum Einsatz kamen und stellen keine Präferenz gegenüber anderen Systemen dar.
+
+23 Ergänzend ist es zudem empfehlenswert, möglichst weitreichende Privatsphäre-Einstellungen im Browser vorzunehmen.
+
+24 Es gilt zu beachten, dass auch im Fall eines bundesverwaltungsinternen Betriebs bei der Verarbeitung personenbezogener Daten datenschutzrechtliche Grundsätze weiterhin eingehalten werden müssen. Eine Verwendung personenbezogener Daten zu Trainingszwecken bedarf beispielsweise auch einer Rechtsgrundlage.
+
+25 Gemäß StGB §§ 203 und 353b.
+
+26 Gemäß § 4 SÜG und § 2 VSA.
+
+27 Ratsinterne Dokumente der Europäischen Union mit der Kennzeichnung LIMITÉ.
+
+28 Siehe für weitere Informationen zu personenbezogenen Daten Leitsatz B9: Datenschutzkonformer KI-Einsatz.
+
+29 Siehe für weitere Informationen zu den Bedingungen der Eingabe sensibler dienstlicher Daten auch Leitsatz B8: Rahmenbedingungen für verantwortungsvolle Dateneingabe.
+
+30 Dies kann neben dem Datenschutzrecht auch weitere Rechtsbereiche betreffen, wie beispielsweise das Urheberrecht.
+
+31 „On premise“ bezeichnet den Betrieb einer Software auf lokaler Hardware beziehungsweise einer lokalen IT-Umgebung.
+
+32 In Zukunft können VS-IT-Freigaben auch für privatrechtlich betriebene IT-Infrastruktur (beispielsweise Cloud-basierte Systeme) nach der VSA durch das BSI möglich sein.
+
+33 PLAIN steht für „Platform Analysis and Information System“ und ist die Daten- und KI-Plattform der Auslands IT, die auch weiteren Bundesbehörden zur Verfügung steht.
+
+34 Siehe hierzu auch die „Orientierungshilfe der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 6. Mai 2024: Künstliche Intelligenz und Datenschutz“, siehe unter: Orientierungshilfe Künstliche Intelligenz und Datenschutz | DSK.
+
+35 Soweit Aspekte der nationalen Sicherheit dieses nicht erforderlich machen.
+
+36 Ein Verwaltungsakt kann vollständig automatisiert, also auch vollständig durch KI-Systeme erlassen werden, sofern weder ein Ermessen noch ein Beurteilungsspielraum besteht und der vollständige Erlass durch Rechtsvorschrift zugelassen ist. Dieser Grundsatz steht in Korrelation mit Artikel 22 Absatz 1 DSGVO, wonach Entscheidungen mit Rechtswirkung grundsätzlich nur von Menschen getroffen werden, wobei auch hier Ausnahmen in bestimmten Fällen zugelassen sind. Eine vergleichbare Regelung für das Sozialrecht findet sich unter anderem auch in § 31a SGB X.
+
+37 Für eine Vertiefung der unterschiedlichen Optionen siehe Leitsatz B8: Rahmenbedingungen für eine verantwortungsvolle Dateneingabe.
+
+38 Für mehr Informationen zur Werteorientierung der KI-VO siehe Fußnote 8.
+
+39 Die Betrachtung im Sinne einer Wirtschaftlichkeitsbetrachtung (WiBe) als auch die Sicherstellung der Wirtschaftlichkeit behördlichen Handelns sind in jedem Fall verpflichtend.
+
+40 Für weitere Informationen und praxisnahe Beispiele zum „Prompting“, siehe das Handout „Einsatz großer Sprachmodelle (LLM) gemäß KI-Leitlinien“, siehe Anlage.
+
+41 Es könnte beispielsweise gelten: Werden Inhalte über die Referatsgrenze hinaus weitergegeben oder veröffentlicht, hat das Referat die Qualitätssicherung der Inhalte sicherzustellen. Eine Kennzeichnung der für die Erstellung verwendeten Hilfsmittel wäre dann nicht mehr erforderlich.
+
+42 Der Marktplatz der KI-Möglichkeiten dient als KI-Transparenzregister und Matching-Plattform für KI-Systeme in der Bundesverwaltung. Er ermöglicht einen umfassenden und transparenten Überblick über den KI-Einsatz, fördert den Austausch sowie Kooperationen zu diesem und erschließt Nachnutzungspotenziale bestehender KI-Systeme. Er ist erreichbar unter dem Link: www.kimarktplatz.bund.de.
+
+43 Siehe: Marktplatz der KI-Möglichkeiten | IT-Rat Beschluss Nr. [2024/01].
+
+44 API steht für „Application Programming Interface“ und bezeichnet eine Schnittstelle, über die verschiedene Softwarekomponenten miteinander kommunizieren können.
+
+45 Eine Programmierschnittstelle, kurz API (Englisch für „Application Programming Interface“), ermöglicht, bestehende Sprachmodelle in verschiedene Anwendungen und Programme zu integrieren. Es ist zu beachten, dass auch öffentliche Daten, soweit sie Personenbezug aufweisen, dem Datenschutzrecht unterfallen.
+
+46 Siehe dazu Leitsatz B9: Datenschutzkonformer KI-Einsatz.
+
+47 Näheres hierzu kann den einschlägigen Veröffentlichungen und Vorschriften des Bundesamtes für Sicherheit in der Informationstechnik (BSI) entnommen werden.
+
+48 Das BSI hat beispielsweise mit dem Artificial Intelligence Cloud Service Compliance Criteria Catalogue (AIC4; Stand: 2021) Mindestanforderungen an die sichere Verwendung von Methoden des maschinellen Lernens in Cloud-Diensten definiert, um die transparente Prüfung und Dokumentation der Informationssicherheit eines KI-Cloud-Dienstes zu fördern.
+
+49 In spezifischen Fällen ist im Einzelfall zu prüfen, welchen Sicherheitsstandards die Betriebsumgebung entspricht. Beispiele sind KI-Systeme, die auf bundesverwaltungsexterner Hardware staatlicher europäischer Organisationen wie MPA (S) oder AEMPS (ES) betrieben werden sowie bei privaten Anbietern deren Rechenzentren die notwendigen Schutzmaßnahmen für dienstliche Rechenzentren erfüllen.
+
+50 Siehe analog Mindeststandard des BSI nach § 8 Absatz 1 Satz 1 BSIg zur Nutzung externer Cloud-Dienste in der Bundesverwaltung; sollten Anpassungen dieser Mindeststandards hinsichtlich der Verarbeitbarkeit von VS-NfD-Daten in bundesverwaltungsexternen Cloud-Lösungen getroffen werden, kann die Bearbeitung dieser Daten mit KI-Systemen in bundesexterner Hardware unter Einhaltung der aktualisierten Mindeststandards möglich werden.
+
+51 Das heißt mit beziehungsweise ohne Freigabe zur Verarbeitung von Verschlusssachen des entsprechenden Geheimhaltungsgrades wie zum Beispiel VS-NUR FÜR DEN DIENSTGEBRAUCH (VS-NfD), VS-VERTRAULICH, GEHEIM oder STRENG GEHEIM.
+
+52 Einen derartigen Service stellt zum Beispiel das Produkt PLAIN der Auslands-IT dar.
+
+53 Manche IT-Infrastruktur ist für die elektronische Verarbeitung von Verschlusssachen freigegeben (vgl. § 50 Absatz 1 VSA).
+
+54 Für weitere Informationen siehe insbesondere Ressourcen des BSI.
+
+55 Siehe hierzu auch die vertiefende Betrachtung in der „Orientierungshilfe der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 6. Mai 2024: Künstliche Intelligenz und Datenschutz“ sowie die Stellungnahme des Europäischen Datenschutzausschusses (EDSA) vom 18. Dezember 2024 zur Verwendung personenbezogener Daten für die Entwicklung und Einführung von KI-Modellen.
