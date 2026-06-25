@@ -1,0 +1,1523 @@
+{
+  "doc_id": "hcu-hamburg_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Handreichung wurde durch die AG „KI im universitären Umfeld“ erstellt. Die AG setzt sich aus Vertreter*innen unterschiedlicher Statusgruppen der HCU zusammen (Professor*innen, wissenschaftliche Mitarbeitende, Team Medien & Didaktik, Team QM (Lehrentwicklung), Justiziariat, studentische Vertreter*innen). Die AG wurde vom Senat mit der Aufgabe betraut, Möglichkeiten für den rechtlich und didaktisch sinnvollen Einsatz generativer KI-Tools an der HCU zu erörtern und spätere Entscheidungen zur Regulierung dieser Tools über HCU-spezifische Satzungen (wie z.B. ASPO) vorzubereiten.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Das erste Produkt der AG ist die vorliegende Handreichung, die grundlegende Gedanken zum Einsatz von KI-Tools im universitären Kontext zusammenfasst. Aufgrund der rasanten Entwicklung im Bereich generativer KI-Tools kann diese Handreichung keinen tagesaktuellen Überblick über verfügbare KI-Tools und spezielle Funktionalitäten liefern, sondern unterliegt der stetigen Weiterentwicklung. Wir möchten daher alle Nutzenden einladen, an der Weiterentwicklung dieses Praxistools mitzuwirken und dadurch eine kontinuierliche Verbesserung zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Künstliche Intelligenz (engl.: artificial intelligence) steht für die Fähigkeit von Maschinen, vom Menschen gestellte, kognitive Aufgaben zu übernehmen.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Bei generativen KI-Tools handelt es sich um Anwendungen, die auf eine Anweisung (Prompt) hin selbstständig Daten produzieren. Grundsätzlich geht es um Programme, die mit maschinellem Lernen scheinbar automatisiert Aufgaben übernehmen können. Einige dieser Tools basieren auf sogenannten großen Sprachmodellen (engl.: large language models, kurz LLM). Diese werden mit großen Datenmengen aus verschiedensten Datenbanken trainiert. Mit Hilfe von KI-Algorithmen können LLM sprachbasierte Korrelationen erkennen, um neue Inhalte zu generieren, zusammenzufassen, zu übersetzen und vieles mehr.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "KI-Tools sind eigentlich nichts Neues. Tools wie DeepL für Übersetzungen oder Grammarly als Rechtschreibassistent werden schon seit Langem von vielen genutzt. Mit ChatGPT ist jedoch im Herbst 2022 eine generative KI-Anwendung auf den Markt gekommen, die zum einen für eine breite Öffentlichkeit kostenlos verfügbar, durch die Integration in eine Chat-Umgebung aber auch sehr leicht nutzbar ist. User können mit Hilfe eines Prompts, also einer simplen Frage (und evtl. einigen Rückfragen), in wenigen Minuten viele Seiten Text generieren, die in sich konsistent wirken. Außerdem sind die generierten Texte immer Unikate. Neben textproduzierenden KI-Generatoren gibt es auch Tools, die Bilder, Videos oder Sprachdateien u. v. m. generieren.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ein Hochschulstudium soll neben der Vermittlung von Fachkompetenzen auch zur kritischen Wissensanwendung und -generierung befähigen. Hierzu gehören Kompetenzen wie Reflexions-/Transferfähigkeit, kritisches Denken, Quellenkritik und Methoden-/Forschungskompetenz. Diese Kompetenzziele sind gerade mit Blick auf die neu verfügbaren generativen KI-Tools von großer Bedeutung.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lehrende sollten sich daher gemeinsam mit Studierenden und in ihrer Disziplin kritisch und reflektiert mit KI-Tools auseinandersetzen und gemeinsam Spielregeln für deren Einsatz entwerfen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Generatoren können in Lehre (und Forschung) gewinnbringend eingesetzt werden. Lehrende können Tools wie ChatGPT nutzen, um eine Lehrveranstaltung zu planen und eine entsprechende Kursbeschreibung zu verfassen. Ebenso lassen sich Übungs- und Prüfungsaufgaben KI-unterstützt entwerfen. ChatGPT kann beispielsweise Multiple-Choice-Aufgaben inklusive geeigneter Distraktoren und Bewertungskriterien formulieren. Auch die tutorielle Begleitung von Studierenden kann durch KI-Tools unterstützt werden, indem ChatGPT individuelles Feedback zu Arbeitsergebnissen liefert.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende können sich wissenschaftliche Texte durch ChatGPT zusammenfassen lassen. So bekommen Studierende schnell einen Überblick über den Text. Darüber hinaus können Studierende sich zu Skripten oder Buchkapiteln Fragen und Antworten generieren lassen. Tools wie ChatGPT erleichtern auch den Einstieg in den Schreibprozess. Sie können helfen, das Anfertigen guter wissenschaftlicher Texte einzuüben: So kann man sich Gliederungen oder Leitfragen vorschlagen lassen, um Texte besser zu strukturieren. Ebenso kann ChatGPT Textpassagen kürzen, korrigieren oder besser formulieren. Zu guter Letzt kann das Tool Ideenfindung und Brainstorming unterstützen und Feedback zu eigenen Textpassagen geben.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der Einsatz generativer KI-Tools bietet - wie oben beschrieben - viele didaktisch wertvolle Potenziale für Lehrende und Lernende, die Hochschulen nutzen sollten, um wettbewerbsfähig zu bleiben. Überdies lässt sich die Verwendung von KI-Generatoren nicht sicher nachweisen, da es sich bei den KI-generierten Texten i.d.R. um Unikate handelt. Von daher wäre ein Verbot kaum durchsetzbar und auch nicht zielführend.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Umgang mit KI-Anwendungen sollte vielmehr von Studierenden und Lehrenden gemeinsam erprobt und kritisch diskutiert werden, um Mehrwerte ausschöpfen und Risiken einschätzen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "KI-Literacy wird zukünftig ein wichtiger Bestandteil der an den Hochschulen zu vermittelnder Kompetenzen sein. Diese KI-Literacy beinhaltet zum Beispiel, dass User\n\n- die Funktionsweise sowie die Möglichkeiten und Grenzen KI-basierter Schreibtools erklären und beurteilen sowie\n- KI-Tools für die akademische Textproduktion reflektiert einsetzen können.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Hochschulen sollten klare Regeln für den Einsatz von KI-Werkzeugen schaffen, die definieren, wann und unter welchen Voraussetzungen KI-Tools als Hilfsmittel eingesetzt werden dürfen. So könnten Lehrende für ihre Disziplin KI-Tools benennen, die für verschiedene Arbeitsphasen (wie Prüfungsvorbereitung oder -durchführung) verwendet werden dürfen. Auch muss geregelt werden, in welchem Maße Studierende eine geistige Eigenleistung zu den produzierten Arbeitsergebnissen erbracht haben müssen, um Urheberschaft beanspruchen zu können (siehe auch 4.1).",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zu berücksichtigen sind bei den Regeln zum Einsatz von KI-Tools auch datenschutzrechtliche Überlegungen. Studierende dürfen nicht dazu verpflichtet werden, ein KI-Tool zu verwenden, sofern hierbei personenbezogene Nutzerdaten (Angabe von Kontaktdaten, IP-Adresse etc.) erhoben werden (siehe auch 4.3).",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ein weiterer wichtiger Aspekt, der im Zusammenhang mit generativen KI-Tools häufig diskutiert wird, ist die Bildungsgerechtigkeit. Auf der einen Seite wird argumentiert, dass mit Werkzeugen wie ChatGPT in Zukunft alle weltweit lernen können – ganz unabhängig davon, wie gut das Bildungssystem im jeweiligen Land aufgestellt ist. Andererseits gibt es schon jetzt eine kostenpflichtige Pro-Version des Tools, die zuverlässigen Zugriff und erweiterte Funktionalitäten verspricht. Ob die kostenlose Version dauerhaft angeboten wird, ist nicht sicher. Diese Aspekte der Chancengleichheit und Fairness sind in die Entscheidungen rund um KI-Tools in jedem Fall einzubeziehen.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Generatoren wie ChatGPT können im Prüfungskontext sowohl Lehrende als auch Lernende unterstützen. Lehrende können mit ChatGPT Prüfungsaufgaben, Musterlösungen und Bewertungskriterien entwickeln bzw. optimieren. Lernende können von ChatGPT zum einen in der Phase der Prüfungsvorbereitung profitieren: Das Tool kann als eine Art Tutor fungieren, der den Studierenden Feedback zu selbst erstellten Texten gibt. ChatGPT kann überdies vielfältige Schritte im Ausarbeitungsprozess von Prüfungsleistungen unterstützen, wie z.B. die Entwicklung von Gliederungen, das Exzerpieren und Paraphrasieren von Literatur sowie die Verbesserung von Stil und Ausdruck.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Im Extremfall können ganze Hausarbeiten von generativen KI-Tools geschrieben werden, Grafiken oder Videos generiert oder Prüfungsaufgaben beantwortet werden.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Hochschulen können die Verwendung von KI-Tools wie ChatGPT prüfungsrechtlich erlauben. Hierbei ist jedoch sicherzustellen, dass Studierende nach wie vor eine eigenständige Prüfungsleistung erbringen (siehe auch 4.1). Die Aufgabenstellung muss daher genug Spielraum für die Eigenleistung der Studierenden lassen. Zudem sollten die verwendeten generativen KI-Tools als Hilfsmittel angegeben werden, damit kein Täuschungsvorwurf erhoben werden kann. Die Verantwortung für die Qualität der Arbeit liegt weiterhin bei den Studierenden. Studierende müssen kritisch prüfen, ob die KI-generierte Lösung korrekt oder gegebenenfalls durch Datenhalluzinationen verzerrt ist.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Qualität der Prüfungsergebnisse wird durch das Zusammenspiel von Mensch und KI-Tool in der Regel nachweislich steigen. Das Problem ist, dass Lehrende nicht eindeutig identifizieren können, welche Prüfungsanteile vom Menschen und welche vom KI-Tool erbracht wurden. Aus diesem Grund wird derzeit viel darüber diskutiert, welche Prüfungsformate überhaupt langfristig funktionieren.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Mündliche und praktische Prüfungen** -> Mündliche Prüfungen als Präsenz- oder Fernprüfungen sowie praktische und performative Prüfungen wie die Demonstration von Fertigkeiten sind nicht betroffen. Denn hier ist der Einsatz von KI-Tools in der Regel ausgeschlossen. Die studentische Eigenleistung kann gut überprüft werden. Denkbar ist es, schriftliche Prüfungen in Zukunft um ein Kolloquium o.Ä. zu ergänzen. Doch die Durchführung mündlicher Prüfungen ist gewiss sehr zeit- und personalaufwändig.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Klausuren** -> Hier ist zunächst zu regeln, ob bzw. welche KI-Tools als Hilfsmittel zugelassen sind. Überdies ist zu prüfen, inwiefern Aufgabenstellungen verändert werden müssen, um eine gewisse Eigenleistung der Lernenden zu gewährleisten und andere Kompetenzen (wie Reflexion, kritisches Denken, Transfer, Methodenkompetenz, KI Literacy) stärker zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Hausarbeiten** -> Der Einsatz von KI-Tools ist sehr wahrscheinlich und die Überprüfung schwierig. Auch hier ist die Ausrichtung der Aufgabenstellung zu überdenken (siehe Klausuren). Ggf. sollte eine Hausarbeit um ein Kolloquium ergänzt werden, um im Dialog die Eigenleistung zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Bachelor- / Masterarbeiten** -> Auch hier ist der Einsatz von KI wahrscheinlich und die Überprüfung ist schwierig. Sofern ein Kolloquium stattfindet, ist eine Überprüfung der Eigenleistung möglich. (Bei Bachelorarbeiten ist ein Kolloquium bislang jedoch nicht verpflichtend.)",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Präsentationen (Entwürfe etc.)** -> Der Einsatz von KI-Tools ist bei der Ausarbeitung von Entwürfen denkbar. Die Eigenleistung kann in einem anschließenden Gespräch bzw. in einer Diskussion überprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine Möglichkeit, KI-unterstützt angefertigte Prüfungsleistungen zu bewerten, ist es, nicht nur das finale Produkt (also die fertige Hausarbeit) zu benoten. Vielmehr sollte auch die Reflexion des Methoden-/Forschungsdesigns sowie die Reflexion des Technikdesigns bewertet werden. So könnte sich die Note beispielsweise wie folgt berechnen:\n\n- 50% - finales Produkt;\n- 25% Reflexion des Methoden-/Forschungsdesigns,\n- 25% Reflexion des Technikdesigns (Welche Tools habe ich für welche Aufgaben verwendet?)",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dies ist lediglich eine Anregung. Sicherlich gibt es auch weitere, passende Bewertungsformate.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Aus Gründen der Bildungsgerechtigkeit sollte bei der Einbeziehung von Stil, Ausdruck, Grammatik & Orthografie in die Benotung von längeren schriftlichen Prüfungsleistungen sensibel vorgegangen werden, da ansonsten Studierende, die keine KI-Tools zur sprachlichen Glättung und Korrektur einsetzen wollen oder können, benachteiligt werden könnten.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Das deutsche Urheberrecht schützt grundsätzlich nur solche Werke, die maßgeblich von einem menschlich-gestalterischen Einfluss geprägt sind.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Für KI-Anwendungen gilt hierbei grundsätzlich: Der bloße Befehl (Engl.: „prompt“), der zur Erzeugung eines Textes führt, genügt als menschlicher Einfluss für urheberrechtlichen Schutz nicht. Ein rein KI-erstellter Text genießt daher keinen Urheberrechtsschutz, sondern ist gemeinfrei.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wann eine in diesem Sinne ausreichende menschliche Eigenleistung vorliegt, kann nur für jeden Einzelfall anhand der konkreten Umstände festgestellt werden. Entscheidend sind dabei Umfang, Art und Weise der Nutzung der jeweiligen KI.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ein Text, der aufgrund detaillierter oder stark steuernder Prompts erzeugt wurde, und dadurch ein signifikantes Maß an geistiger Eigenleistung bejaht werden kann, genießt Urheberrechtsschutz, da die KI-Anwendung nur als Ausführungswerkzeug dient. Gleiches gilt, wenn der von der KI-Anwendung erzeugte Text lediglich einen Denkanstoß darstellt und danach noch umfangreich bearbeitet wird.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Problematisch ist, dass aufgrund der grundlegenden Funktionsweise der KI-Sprachmodelle Texte generiert werden können, die falsche Aussagen wiedergeben, da keine Inhaltskontrolle durch die KI stattfindet. Hierauf ist bei der Verwendung von KI-generierten Texten ein besonderes Augenmerk zu legen.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Maßgeblich ist bei der Beurteilung immer die menschlich-gestalterische Eigenleistung und der Einfluss auf den Schaffensprozess und das Ergebnis.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es gibt KI-Programme, die das Internet nach geeigneten Quellen durchsuchen und die so gefundenen Texte wortwörtlich oder größtenteils unverändert übernehmen. Oftmals geben die KI-Anwendungen bei dieser Vorgehensweise nicht die Quelle zu den von ihr wiedergegebenen Texten an. Wenn diese Texte urheberrechtlich geschützt sind und von KI-Nutzenden veröffentlicht werden, hat der Urheberrechtsinhaber bzw. die Urheberrechtsinhaberin einen Anspruch auf Entfernung des entsprechenden Textes. Bei fahrlässiger oder vorsätzlicher Veröffentlichung kann ein Schadensersatzanspruch gegen die KI-Nutzenden entstehen.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Gefahr einer solchen Urheberrechtsverletzung ist bei der Nutzung von ChatGPT allerdings eher gering. Das Programm arbeitet wahrscheinlichkeitsbasiert. Das bedeutet, dass das Tool nicht bereits bestehende Texte unverändert übernimmt, sondern anhand der ihm zur Verfügung stehenden Daten die im Satz aufeinanderfolgenden Wörter nach einer Wahrscheinlichkeitsberechnung bestimmt. Die so erzeugten Texte sind daher in der Regel nicht wortgleich zu den bereits bestehenden Texten.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bei der Nutzung von Computerprogrammen ohne intelligente Unterstützungstools (z.B. Rechtschreibhilfe, Suchmaschinen, Übersetzungstools) liegt stets eine persönlich-geistige Eigenleistung vor, so dass eine Urheber- und Autorenschaft gegeben ist.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Verwendung beispielsweise von ChatGPT darf für die Bearbeitung einer Prüfung nicht verpflichtend vorgeschrieben werden, sofern die Nutzung die Preisgabe gewisser persönlicher Daten voraussetzt. Eine Pflicht zur Nutzung von ChatGPT ist dann datenschutzrechtlich unzulässig. Eine Einwilligung ist durch das bestehende Verhältnis zwischen Prüfenden und Studierenden immer kritisch zu betrachten.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Eingabe von Texten in ChatGPT ist außerdem darauf zu achten, im Text vorkommende persönliche Daten von Studierenden oder Mitarbeitenden vorher zu entfernen, da die Daten standardmäßig für Trainingszwecke verwendet werden. Auch eine solche Bereitstellung persönlicher Daten an eine KI kann einen datenschutzrechtlichen Verstoß darstellen. Zur Einwilligungsmöglichkeit gilt dasselbe wie oben beschrieben.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Hier wurde eine Bewertung am Beispiel von ChatGPT gegeben. Bei anderen KI-Tools ist die Verarbeitung der eingegebenen Daten vorab im Hinblick auf die DSGVO zu prüfen.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wie der Einsatz von KI in einer Prüfungsarbeit zu kennzeichnen ist, hängt von der Art und Weise ihres Einsatzes ab. Aus der Kennzeichnung muss sich ergeben, welche Textteile in welchem Ausmaß KI-generiert worden sind. Die wortwörtliche Übernahme KI-generierter Texte ist wie ein herkömmliches Zitat zu kennzeichnen. Wurde die KI lediglich als Inspirationsquelle benutzt oder basieren die Antworten der KI auf Prompts, die auf einer nicht unerheblichen menschlichen Eigenleistung basieren (siehe 4.1), kann auch die Erwähnung in der Hilfsmittelangabe genügen.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die schlichte Kopie KI-generierter Texte ohne entsprechende Kennzeichnung wird regelmäßig gegen die von den Studierenden abzugebende Eigenständigkeitserklärung verstoßen und einen Täuschungsversuch oder einen Verstoß gegen die Regeln guter wissenschaftlicher Praxis darstellen. Dasselbe gilt für umfangreiche Übernahmen mit nur geringfügigen Änderungen. Die Nutzung von KI-Anwendungen für Formulierungshilfen oder als Inspirationsquelle sollte bei entsprechender Hilfsmittelangabe aber grundsätzlich zulässig sein.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lehrende sollten darauf achten, dass die von Ihnen eingesetzte Eigenständigkeitserklärung die Vorgaben zur Nutzung von KI-Anwendungen beinhaltet. Im Anhang finden Sie eine angepasste Eigenständigkeitserklärung.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gegebenenfalls geben zusätzlich auch die Nutzungsbedingungen der Software vor, dass auf eine Nutzung hingewiesen werden muss, so dass es sich nicht nur um ein prüfungsrechtliches Problem handelt.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Auch für Prüfende ist es möglich, mit Hilfe eines richtig formulierten Prompts die gesamte Prüfungsarbeit eines Studierenden von einer KI wie ChatGPT bewerten zu lassen. Hierbei gilt aber das, was umgekehrt auch für die Studierenden bei der Erstellung der Prüfungsleistung gilt: Die wortwörtliche Übernahme einer KI-korrigierten Prüfung ist unzulässig. Denn in diesem Fall wurden die Korrektur und Bewertung nicht, wie von der Prüfungsordnung vorgesehen, vom Prüfer vorgenommen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zulässig ist aber das Einholen einer KI-generierten Ersteinschätzung, wenn der/die Prüfende auf dieser Grundlage die Prüfungsarbeit selbst kritisch würdigt. Auch die bloße Ausformulierung einer selbstständig erstellten Bewertung ist zulässig, solange der KI-generierte Text die von dem/der Prüfenden vorgenommene Bewertung auch korrekt wiedergibt. Eine Kennzeichnungspflicht besteht dabei für Prüfende nicht. KI kann daher bei der Bewertung von Prüfungsleistungen nur als Hilfsmittel eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Verwendung von ChatGPT o.Ä. für die Prüfungskorrektur ist jedoch Vorsicht geboten. Bei den abgegebenen Prüfungsleistungen handelt es sich in aller Regel um urheberrechtlich geschützte Werke. ChatGPT nutzt und speichert beispielsweise alle Eingaben als Trainingsdaten zum Zwecke seiner kontinuierlichen Optimierung. Aus diesem Grund ist es denkbar, dass die vollständige Eingabe einer Prüfungsarbeit bei ChatGPT einen Urheberrechtsverstoß darstellt. Zudem könnte auch ein DSGVO-Verstoß vorliegen (siehe 4.3).",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "In der Regel reichen die bereits bestehenden Regelung (Eigenständigkeitserklärung, Regeln guter wissenschaftlicher Praxis und die hochschulinternen Prüfungsordnungen) aus, um dem Einsatz von KI-Anwendungen angemessen zu begegnen. Dennoch erscheint eine Überarbeitung und Anpassung im Sinne der Rechtsklarheit und -sicherheit sinnvoll.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Grundsätzlich dürfte die Erklärung darüber, die Prüfungsarbeit selbstständig und ohne fremde Hilfe verfasst zu haben, auch beinhalten, dass die Arbeit ohne den ungekennzeichneten Einsatz von KI zustande gekommen ist. Dennoch ist ein expliziter Hinweis hierzu sinnvoll. Insbesondere in Fällen, in denen die Nutzung von KI-Anwendungen komplett untersagt ist oder in denen nur bestimmte KI-Tools oder nur eine bestimmte Art der Nutzung einer KI erlaubt ist, bietet sich eine entsprechende Anpassung der Eigenständigkeitserklärung an. Ein angepasster Entwurf wird im Rahmen der Arbeitsgruppe entwickelt.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Nutzung von KI als ungerechten Vorteil gegenüber solchen Studierenden, die auf die Nutzung verzichtet haben, zu betrachten und dementsprechend die Bewertung anzupassen, ist verfehlt. Es muss darum gehen, die praktisch ohnehin kaum zu verbietende Nutzung von ChatGPT und anderen KI-Programmen im Prüfungswesen zu integrieren, ohne dass es hierbei zu Beeinträchtigungen der Chancengleichheit und Fairness kommt.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bei entsprechender Kennzeichnung ist der Einsatz von KI-Anwendungen in einer fortschrittlichen akademischen Umgebung ein legitimes Hilfsmittel. Ob sich der jeweilige Prüfling dieses Hilfsmittels bedienen will, bleibt ihm überlassen. Bewertungsmaßstab muss stets der Inhalt der Prüfungsarbeit sein.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Abwälzung des intellektuellen Eigenanteils bei der Fertigung einer Prüfungsarbeit auf eine KI wird durch die dargestellte Kennzeichnungspflicht vermieden. Ein Werk, das beispielsweise in großen Teilen von ChatGPT generierte Texte wortwörtlich übernimmt und dies korrekt als Zitat kennzeichnet, kann entsprechend schlechter bewertet werden als ein Werk, das einen höheren Eigenanteil erkennen lässt. Ein Werk, das auf die entsprechende Kennzeichnung verzichtet, stellt einen Täuschungsversuch dar.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Einsatz von KI für die Anfertigung einer Prüfungsarbeit erscheint vor diesem Hintergrund nicht als unfair. Dennoch sollte die Hochschule die notwendigen Voraussetzungen dafür schaffen, den Einsatz von KI-Anwendungen für alle im zulässigen Rahmen zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Arbeitsgruppe empfiehlt, die bestehende Eigenständigkeitserklärung der HCU, die verbindlich bei der Abgabe der Thesis zu nutzen ist, um die unterstrichene Passage zu ergänzen:\n\n„Ich versichere, dass ich die vorliegende Thesis mit dem Titel ... selbstständig und ohne unzulässige fremde Hilfe erbracht habe. Ich habe keine anderen als die angegebenen Quellen und Hilfsmittel benutzt sowie wörtliche und sinngemäße Zitate kenntlich gemacht. Ich bin mir bewusst, dass der Einsatz von KI-Werkzeugen keine Garantie für die Qualität von Inhalten und Text darstellt. Ich versichere, dass ich von mir verwendete KI-Werkzeuge als Hilfsmittel angegeben und mit ihrem Produktnamen und einer Übersicht der im Rahmen dieser Prüfungsarbeit genutzten Funktionen vollständig aufgeführt habe.\n\nDie Arbeit hat in gleicher oder ähnlicher Form noch keiner Prüfungsbehörde vorgelegen. Im Falle einer Gruppenarbeit bezieht sich die Erklärung auf den von mir erarbeiteten Teil der Thesis.“",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Arbeitsgruppe empfiehlt den Prüfenden, diese oder ähnliche Eigenständigkeitserklärungen auch jenseits der Thesis bei allen weiteren schriftlichen Ausarbeitungen, aber auch bei grafischen Prüfungsleistungen oder -bestandteilen, wie z.B. Entwürfen, Videos etc. von den Studierenden einzufordern.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Denkbar sind auch verschiedene weitere Arten von Eigenständigkeitserklärungen, die je nach Vorgabe der Lehrenden bzw. Prüfenden den Ausschluss der Nutzung generativer KI, die Nutzung von generativer KI für bestimmte Zwecke, die Nutzung bestimmter Tools oder die völlige Freigabe der Nutzung generativer KI-Tools umfassen können.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "was sind ki-anwendungen (kurz: ki)?",
+      "repaired": true
+    },
+    {
+      "id": 57,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "warum gibt es so viel aufmerksamkeit rund um generative ki-anwendungen?",
+      "repaired": true
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "welche didaktischen potenziale liegen im einsatz generativer ki-tools in der lehre?",
+      "repaired": true
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "warum ist es zielführend, ki-anwendungen in die lehre zu integrieren, und wie sollte man hierbei vorgehen?",
+      "repaired": true
+    },
+    {
+      "id": 60,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "warum spielen ki-generatoren im kontext universitärer prüfungen eine so große rolle?",
+      "repaired": true
+    },
+    {
+      "id": 61,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "worauf ist zu achten, wenn die verwendung von ki-anwendungen in prüfungen erlaubt wird?",
+      "repaired": true
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "inwiefern sind neue prüfungsformate erforderlich?",
+      "repaired": true
+    },
+    {
+      "id": 63,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "wie lassen sich ki-unterstützt angefertigte prüfungsleistungen bewerten?",
+      "repaired": true
+    },
+    {
+      "id": 64,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "urheberrechtsschutz für einen ki-erstellten text",
+      "repaired": true
+    },
+    {
+      "id": 65,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "urheberrechtsverletzung durch einen ki-erstellten text",
+      "repaired": true
+    },
+    {
+      "id": 66,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "ist die dsgvo bei der verwendung von ki in diesem zusammenhang zu beachten?",
+      "repaired": true
+    },
+    {
+      "id": 67,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "wie ist der einsatz von ki-anwendungen in einer prüfungsleistung zu kennzeichnen?",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "was ist bei der nutzung von ki-anwendungen durch prüfende zu beachten?",
+      "repaired": true
+    },
+    {
+      "id": 69,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "sollten die eingeforderten eigenständigkeitserklärungen im hinblick auf die nutzung von ki-anwendungen in prüfungsarbeiten ergänzt werden?",
+      "repaired": true
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "wie ist mit rücksicht darauf, dass die verwendung von ki-anwendungen nicht verpflichtend vorgeschrieben werden darf, mit der bewertung von prüfungsleistungen umzugehen, die mit oder ohne hilfe von ki-anwendungen verfasst wurden?",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 70,
+    "matched": 57,
+    "unmatched_count": 13,
+    "unmatched": [
+      {
+        "id": 56,
+        "B": "B1",
+        "matched_words": "2/5",
+        "text": "was sind ki-anwendungen (kurz: ki)?"
+      },
+      {
+        "id": 57,
+        "B": "B4",
+        "matched_words": "9/10",
+        "text": "warum gibt es so viel aufmerksamkeit rund um generative ki-anwendungen?"
+      },
+      {
+        "id": 58,
+        "B": "B6",
+        "matched_words": "7/11",
+        "text": "welche didaktischen potenziale liegen im einsatz generativer ki-tools in der lehre?"
+      },
+      {
+        "id": 59,
+        "B": "B6",
+        "matched_words": "4/16",
+        "text": "warum ist es zielführend, ki-anwendungen in die lehre zu integrieren, und wie sollte man hierbei vorgehen?"
+      },
+      {
+        "id": 60,
+        "B": "B10",
+        "matched_words": "2/11",
+        "text": "warum spielen ki-generatoren im kontext universitärer prüfungen eine so große rolle?"
+      },
+      {
+        "id": 61,
+        "B": "B8",
+        "matched_words": "8/13",
+        "text": "worauf ist zu achten, wenn die verwendung von ki-anwendungen in prüfungen erlaubt wird?"
+      },
+      {
+        "id": 63,
+        "B": "B8",
+        "matched_words": "3/7",
+        "text": "wie lassen sich ki-unterstützt angefertigte prüfungsleistungen bewerten?"
+      },
+      {
+        "id": 64,
+        "B": "B10",
+        "matched_words": "3/5",
+        "text": "urheberrechtsschutz für einen ki-erstellten text"
+      },
+      {
+        "id": 65,
+        "B": "B10",
+        "matched_words": "3/5",
+        "text": "urheberrechtsverletzung durch einen ki-erstellten text"
+      },
+      {
+        "id": 67,
+        "B": "B8",
+        "matched_words": "5/11",
+        "text": "wie ist der einsatz von ki-anwendungen in einer prüfungsleistung zu kennzeichnen?"
+      },
+      {
+        "id": 68,
+        "B": "B8",
+        "matched_words": "6/11",
+        "text": "was ist bei der nutzung von ki-anwendungen durch prüfende zu beachten?"
+      },
+      {
+        "id": 69,
+        "B": "B8",
+        "matched_words": "10/15",
+        "text": "sollten die eingeforderten eigenständigkeitserklärungen im hinblick auf die nutzung von ki-anwendungen in prüfungsarbeiten ergänzt werden?"
+      },
+      {
+        "id": 70,
+        "B": "B8",
+        "matched_words": "9/30",
+        "text": "wie ist mit rücksicht darauf, dass die verwendung von ki-anwendungen nicht verpflichtend vorgeschrieben werden darf, mit der bewertung von prüfungsleistungen umzugehen, die mit oder ohne hilfe von ki-anwendungen verfasst wurden?"
+      }
+    ],
+    "source_coverage": 0.884,
+    "uncovered_chars": 2841,
+    "uncovered_gaps": 18,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 279,
+        "length": 279,
+        "text": "# hafencity universität hamburg # source: https://www.hcuhamburg.de/fileadmin/documents/presse/2024/2023_handreichung_ki_hcu.pdf # date: 2023 # category: guideline # handreichungen zum umgang mit generativen ki-anwendungen an der hafencity universität dezember 2023 # disclaimer"
+      },
+      {
+        "char_start": 1413,
+        "char_end": 1681,
+        "length": 268,
+        "text": ". # autor*innen: dr. nicole podleschny, prof. dr. tim pucker, inga reimers, sabine schermeier, marcus steffens, julian unbescheid, franz vergöhl, dr. stephanie weitendorf (hcu-ag „ki im universitären umfeld\") # 1. einführung ## 1.1 was sind ki-anwendungen (kurz: ki)?"
+      },
+      {
+        "char_start": 2421,
+        "char_end": 2502,
+        "length": 81,
+        "text": ". ## 1.2 warum gibt es so viel aufmerksamkeit rund um generative ki-anwendungen?"
+      },
+      {
+        "char_start": 3239,
+        "char_end": 3390,
+        "length": 151,
+        "text": ". # 2. didaktische möglichkeiten generativer ki-anwendungen ## 2.1 welche didaktischen potenziale liegen im einsatz generativer ki-tools in der lehre?"
+      },
+      {
+        "char_start": 5214,
+        "char_end": 5330,
+        "length": 116,
+        "text": ". ## 2.2 warum ist es zielführend, ki-anwendungen in die lehre zu integrieren, und wie sollte man hierbei vorgehen?"
+      },
+      {
+        "char_start": 7798,
+        "char_end": 7937,
+        "length": 139,
+        "text": ". # 3. ki-generatoren im kontext von prüfungen ## 3.1 warum spielen ki-generatoren im kontext universitärer prüfungen eine so große rolle?"
+      },
+      {
+        "char_start": 8746,
+        "char_end": 8843,
+        "length": 97,
+        "text": ". ## 3.2 worauf ist zu achten, wenn die verwendung von ki-anwendungen in prüfungen erlaubt wird?"
+      },
+      {
+        "char_start": 9505,
+        "char_end": 9514,
+        "length": 9,
+        "text": ". ## 3.3"
+      },
+      {
+        "char_start": 9946,
+        "char_end": 9999,
+        "length": 53,
+        "text": ". hierzu folgt eine einschätzung pro prüfungsformat:"
+      },
+      {
+        "char_start": 11641,
+        "char_end": 11723,
+        "length": 82,
+        "text": ". ## 3.4 wie lassen sich ki-unterstützt angefertigte prüfungsleistungen bewerten?"
+      },
+      {
+        "char_start": 12660,
+        "char_end": 12759,
+        "length": 99,
+        "text": ". # 4. rechtliche aspekte im prüfungswesen ## 4.1 urheberrechtsschutz für einen ki-erstellten text"
+      },
+      {
+        "char_start": 14243,
+        "char_end": 14307,
+        "length": 64,
+        "text": ". ## 4.2 urheberrechtsverletzung durch einen ki-erstellten text"
+      },
+      {
+        "char_start": 15633,
+        "char_end": 15642,
+        "length": 9,
+        "text": ". ## 4.3"
+      },
+      {
+        "char_start": 16691,
+        "char_end": 16782,
+        "length": 91,
+        "text": ". ## 4.4 wie ist der einsatz von ki-anwendungen in einer prüfungsleistung zu kennzeichnen?"
+      },
+      {
+        "char_start": 18261,
+        "char_end": 18341,
+        "length": 80,
+        "text": ". ## 4.5 was ist bei der nutzung von ki-anwendungen durch prüfende zu beachten?"
+      },
+      {
+        "char_start": 19837,
+        "char_end": 19985,
+        "length": 148,
+        "text": ". ## 4.6 sollten die eingeforderten eigenständigkeitserklärungen im hinblick auf die nutzung von ki-anwendungen in prüfungsarbeiten ergänzt werden?"
+      },
+      {
+        "char_start": 20918,
+        "char_end": 21156,
+        "length": 238,
+        "text": ". ## 4.7 wie ist mit rücksicht darauf, dass die verwendung von ki-anwendungen nicht verpflichtend vorgeschrieben werden darf, mit der bewertung von prüfungsleistungen umzugehen, die mit oder ohne hilfe von ki-anwendungen verfasst wurden?"
+      },
+      {
+        "char_start": 22633,
+        "char_end": 23470,
+        "length": 837,
+        "text": ". ## quellen salden, p.; lordick, n.; wiethoff, m. (2023): **ki-basierte schreibwerkzeuge in der hochschule. eine einführung.** in: salden, p. und leschke, j. (hrsg.): didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung. ruhr-universität bochum. s. 4-21. https://doi.org/10.13154/294-9734 limburg, a., mundorf, m., salden, p., weßels, d. (2022). **plagiarismus in zeiten künstlicher intelligenz.** in: zeitschrift für hochschulentwicklung band 17, nr. buck, i. & limburg, a. (2023). **hochschulbildung vor dem hintergrund von natural language processing (ki-schreibtools).** die hochschullehre, jahrgang 9/2023. fleck, t. (2023), **prüfungsrechtliche fragen zu chatgpt**, stabsstelle it-recht der bayerischen staatlichen universitäten und hochschulen. ## anlage: muster eigenständigkeitserklärung"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 284,
+      "text": "# HafenCity Universität Hamburg\n# Source: https://www.hcu-hamburg.de/fileadmin/documents/Presse/2024/2023_Handreichung_KI_HCU.pdf\n# Date: 2023\n# Category: guideline\n\n# Handreichungen zum Umgang mit generativen KI-Anwendungen an der HafenCity Universität\n\nDezember 2023\n\n# Disclaimer\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 284,
+      "char_end": 870,
+      "text": "Diese Handreichung wurde durch die AG „KI im universitären Umfeld“ erstellt. Die AG setzt sich aus Vertreter*innen unterschiedlicher Statusgruppen der HCU zusammen (Professor*innen, wissenschaftliche Mitarbeitende, Team Medien & Didaktik, Team QM (Lehrentwicklung), Justiziariat, studentische Vertreter*innen). Die AG wurde vom Senat mit der Aufgabe betraut, Möglichkeiten für den rechtlich und didaktisch sinnvollen Einsatz generativer KI-Tools an der HCU zu erörtern und spätere Entscheidungen zur Regulierung dieser Tools über HCU-spezifische Satzungen (wie z.B. ASPO) vorzubereiten.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 872,
+      "char_end": 1420,
+      "text": "Das erste Produkt der AG ist die vorliegende Handreichung, die grundlegende Gedanken zum Einsatz von KI-Tools im universitären Kontext zusammenfasst. Aufgrund der rasanten Entwicklung im Bereich generativer KI-Tools kann diese Handreichung keinen tagesaktuellen Überblick über verfügbare KI-Tools und spezielle Funktionalitäten liefern, sondern unterliegt der stetigen Weiterentwicklung. Wir möchten daher alle Nutzenden einladen, an der Weiterentwicklung dieses Praxistools mitzuwirken und dadurch eine kontinuierliche Verbesserung zu ermöglichen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1420,
+      "char_end": 1655,
+      "text": "\n\n# Autor*innen:\n\nDr. Nicole Podleschny, Prof. Dr. Tim Pucker, Inga Reimers, Sabine Schermeier, Marcus Steffens, Julian Unbescheid, Franz Vergöhl, Dr. Stephanie Weitendorf (HCU-AG „KI im universitären Umfeld“)\n\n# 1. Einführung\n\n## 1.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1655,
+      "char_end": 1690,
+      "text": "Was sind KI-Anwendungen (kurz: KI)?",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1692,
+      "char_end": 1844,
+      "text": "Künstliche Intelligenz (engl.: artificial intelligence) steht für die Fähigkeit von Maschinen, vom Menschen gestellte, kognitive Aufgaben zu übernehmen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1846,
+      "char_end": 2434,
+      "text": "Bei generativen KI-Tools handelt es sich um Anwendungen, die auf eine Anweisung (Prompt) hin selbstständig Daten produzieren. Grundsätzlich geht es um Programme, die mit maschinellem Lernen scheinbar automatisiert Aufgaben übernehmen können. Einige dieser Tools basieren auf sogenannten großen Sprachmodellen (engl.: large language models, kurz LLM). Diese werden mit großen Datenmengen aus verschiedensten Datenbanken trainiert. Mit Hilfe von KI-Algorithmen können LLM sprachbasierte Korrelationen erkennen, um neue Inhalte zu generieren, zusammenzufassen, zu übersetzen und vieles mehr.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2434,
+      "char_end": 2443,
+      "text": "\n\n## 1.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2443,
+      "char_end": 2514,
+      "text": "Warum gibt es so viel Aufmerksamkeit rund um generative KI-Anwendungen?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2516,
+      "char_end": 3254,
+      "text": "KI-Tools sind eigentlich nichts Neues. Tools wie DeepL für Übersetzungen oder Grammarly als Rechtschreibassistent werden schon seit Langem von vielen genutzt. Mit ChatGPT ist jedoch im Herbst 2022 eine generative KI-Anwendung auf den Markt gekommen, die zum einen für eine breite Öffentlichkeit kostenlos verfügbar, durch die Integration in eine Chat-Umgebung aber auch sehr leicht nutzbar ist. User können mit Hilfe eines Prompts, also einer simplen Frage (und evtl. einigen Rückfragen), in wenigen Minuten viele Seiten Text generieren, die in sich konsistent wirken. Außerdem sind die generierten Texte immer Unikate. Neben textproduzierenden KI-Generatoren gibt es auch Tools, die Bilder, Videos oder Sprachdateien u. v. m. generieren.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3254,
+      "char_end": 3322,
+      "text": "\n\n# 2. Didaktische Möglichkeiten generativer KI-Anwendungen\n\n## 2.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3322,
+      "char_end": 3405,
+      "text": "Welche didaktischen Potenziale liegen im Einsatz generativer KI-Tools in der Lehre?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3407,
+      "char_end": 3779,
+      "text": "Ein Hochschulstudium soll neben der Vermittlung von Fachkompetenzen auch zur kritischen Wissensanwendung und -generierung befähigen. Hierzu gehören Kompetenzen wie Reflexions-/Transferfähigkeit, kritisches Denken, Quellenkritik und Methoden-/Forschungskompetenz. Diese Kompetenzziele sind gerade mit Blick auf die neu verfügbaren generativen KI-Tools von großer Bedeutung.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3780,
+      "char_end": 3968,
+      "text": "Lehrende sollten sich daher gemeinsam mit Studierenden und in ihrer Disziplin kritisch und reflektiert mit KI-Tools auseinandersetzen und gemeinsam Spielregeln für deren Einsatz entwerfen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3970,
+      "char_end": 4536,
+      "text": "KI-Generatoren können in Lehre (und Forschung) gewinnbringend eingesetzt werden. Lehrende können Tools wie ChatGPT nutzen, um eine Lehrveranstaltung zu planen und eine entsprechende Kursbeschreibung zu verfassen. Ebenso lassen sich Übungs- und Prüfungsaufgaben KI-unterstützt entwerfen. ChatGPT kann beispielsweise Multiple-Choice-Aufgaben inklusive geeigneter Distraktoren und Bewertungskriterien formulieren. Auch die tutorielle Begleitung von Studierenden kann durch KI-Tools unterstützt werden, indem ChatGPT individuelles Feedback zu Arbeitsergebnissen liefert.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4538,
+      "char_end": 5236,
+      "text": "Studierende können sich wissenschaftliche Texte durch ChatGPT zusammenfassen lassen. So bekommen Studierende schnell einen Überblick über den Text. Darüber hinaus können Studierende sich zu Skripten oder Buchkapiteln Fragen und Antworten generieren lassen. Tools wie ChatGPT erleichtern auch den Einstieg in den Schreibprozess. Sie können helfen, das Anfertigen guter wissenschaftlicher Texte einzuüben: So kann man sich Gliederungen oder Leitfragen vorschlagen lassen, um Texte besser zu strukturieren. Ebenso kann ChatGPT Textpassagen kürzen, korrigieren oder besser formulieren. Zu guter Letzt kann das Tool Ideenfindung und Brainstorming unterstützen und Feedback zu eigenen Textpassagen geben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5236,
+      "char_end": 5245,
+      "text": "\n\n## 2.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5245,
+      "char_end": 5351,
+      "text": "Warum ist es zielführend, KI-Anwendungen in die Lehre zu integrieren, und wie sollte man hierbei vorgehen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5353,
+      "char_end": 5765,
+      "text": "Der Einsatz generativer KI-Tools bietet - wie oben beschrieben - viele didaktisch wertvolle Potenziale für Lehrende und Lernende, die Hochschulen nutzen sollten, um wettbewerbsfähig zu bleiben. Überdies lässt sich die Verwendung von KI-Generatoren nicht sicher nachweisen, da es sich bei den KI-generierten Texten i.d.R. um Unikate handelt. Von daher wäre ein Verbot kaum durchsetzbar und auch nicht zielführend.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5767,
+      "char_end": 5953,
+      "text": "Der Umgang mit KI-Anwendungen sollte vielmehr von Studierenden und Lehrenden gemeinsam erprobt und kritisch diskutiert werden, um Mehrwerte ausschöpfen und Risiken einschätzen zu können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5954,
+      "char_end": 6307,
+      "text": "KI-Literacy wird zukünftig ein wichtiger Bestandteil der an den Hochschulen zu vermittelnder Kompetenzen sein. Diese KI-Literacy beinhaltet zum Beispiel, dass User\n\n- die Funktionsweise sowie die Möglichkeiten und Grenzen KI-basierter Schreibtools erklären und beurteilen sowie\n- KI-Tools für die akademische Textproduktion reflektiert einsetzen können.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6309,
+      "char_end": 6858,
+      "text": "Hochschulen sollten klare Regeln für den Einsatz von KI-Werkzeugen schaffen, die definieren, wann und unter welchen Voraussetzungen KI-Tools als Hilfsmittel eingesetzt werden dürfen. So könnten Lehrende für ihre Disziplin KI-Tools benennen, die für verschiedene Arbeitsphasen (wie Prüfungsvorbereitung oder -durchführung) verwendet werden dürfen. Auch muss geregelt werden, in welchem Maße Studierende eine geistige Eigenleistung zu den produzierten Arbeitsergebnissen erbracht haben müssen, um Urheberschaft beanspruchen zu können (siehe auch 4.1).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6860,
+      "char_end": 7161,
+      "text": "Zu berücksichtigen sind bei den Regeln zum Einsatz von KI-Tools auch datenschutzrechtliche Überlegungen. Studierende dürfen nicht dazu verpflichtet werden, ein KI-Tool zu verwenden, sofern hierbei personenbezogene Nutzerdaten (Angabe von Kontaktdaten, IP-Adresse etc.) erhoben werden (siehe auch 4.3).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7163,
+      "char_end": 7831,
+      "text": "Ein weiterer wichtiger Aspekt, der im Zusammenhang mit generativen KI-Tools häufig diskutiert wird, ist die Bildungsgerechtigkeit. Auf der einen Seite wird argumentiert, dass mit Werkzeugen wie ChatGPT in Zukunft alle weltweit lernen können – ganz unabhängig davon, wie gut das Bildungssystem im jeweiligen Land aufgestellt ist. Andererseits gibt es schon jetzt eine kostenpflichtige Pro-Version des Tools, die zuverlässigen Zugriff und erweiterte Funktionalitäten verspricht. Ob die kostenlose Version dauerhaft angeboten wird, ist nicht sicher. Diese Aspekte der Chancengleichheit und Fairness sind in die Entscheidungen rund um KI-Tools in jedem Fall einzubeziehen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7831,
+      "char_end": 7886,
+      "text": "\n\n# 3. KI-Generatoren im Kontext von Prüfungen\n\n## 3.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7886,
+      "char_end": 7970,
+      "text": "Warum spielen KI-Generatoren im Kontext universitärer Prüfungen eine so große Rolle?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7972,
+      "char_end": 8624,
+      "text": "KI-Generatoren wie ChatGPT können im Prüfungskontext sowohl Lehrende als auch Lernende unterstützen. Lehrende können mit ChatGPT Prüfungsaufgaben, Musterlösungen und Bewertungskriterien entwickeln bzw. optimieren. Lernende können von ChatGPT zum einen in der Phase der Prüfungsvorbereitung profitieren: Das Tool kann als eine Art Tutor fungieren, der den Studierenden Feedback zu selbst erstellten Texten gibt. ChatGPT kann überdies vielfältige Schritte im Ausarbeitungsprozess von Prüfungsleistungen unterstützen, wie z.B. die Entwicklung von Gliederungen, das Exzerpieren und Paraphrasieren von Literatur sowie die Verbesserung von Stil und Ausdruck.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8625,
+      "char_end": 8782,
+      "text": "Im Extremfall können ganze Hausarbeiten von generativen KI-Tools geschrieben werden, Grafiken oder Videos generiert oder Prüfungsaufgaben beantwortet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8782,
+      "char_end": 8791,
+      "text": "\n\n## 3.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8791,
+      "char_end": 8878,
+      "text": "Worauf ist zu achten, wenn die Verwendung von KI-Anwendungen in Prüfungen erlaubt wird?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8880,
+      "char_end": 9543,
+      "text": "Hochschulen können die Verwendung von KI-Tools wie ChatGPT prüfungsrechtlich erlauben. Hierbei ist jedoch sicherzustellen, dass Studierende nach wie vor eine eigenständige Prüfungsleistung erbringen (siehe auch 4.1). Die Aufgabenstellung muss daher genug Spielraum für die Eigenleistung der Studierenden lassen. Zudem sollten die verwendeten generativen KI-Tools als Hilfsmittel angegeben werden, damit kein Täuschungsvorwurf erhoben werden kann. Die Verantwortung für die Qualität der Arbeit liegt weiterhin bei den Studierenden. Studierende müssen kritisch prüfen, ob die KI-generierte Lösung korrekt oder gegebenenfalls durch Datenhalluzinationen verzerrt ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9543,
+      "char_end": 9552,
+      "text": "\n\n## 3.3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9552,
+      "char_end": 9601,
+      "text": "Inwiefern sind neue Prüfungsformate erforderlich?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9603,
+      "char_end": 9986,
+      "text": "Die Qualität der Prüfungsergebnisse wird durch das Zusammenspiel von Mensch und KI-Tool in der Regel nachweislich steigen. Das Problem ist, dass Lehrende nicht eindeutig identifizieren können, welche Prüfungsanteile vom Menschen und welche vom KI-Tool erbracht wurden. Aus diesem Grund wird derzeit viel darüber diskutiert, welche Prüfungsformate überhaupt langfristig funktionieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9986,
+      "char_end": 10041,
+      "text": " Hierzu folgt eine Einschätzung pro Prüfungsformat:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10041,
+      "char_end": 10539,
+      "text": "**Mündliche und praktische Prüfungen** -> Mündliche Prüfungen als Präsenz- oder Fernprüfungen sowie praktische und performative Prüfungen wie die Demonstration von Fertigkeiten sind nicht betroffen. Denn hier ist der Einsatz von KI-Tools in der Regel ausgeschlossen. Die studentische Eigenleistung kann gut überprüft werden. Denkbar ist es, schriftliche Prüfungen in Zukunft um ein Kolloquium o.Ä. zu ergänzen. Doch die Durchführung mündlicher Prüfungen ist gewiss sehr zeit- und personalaufwändig.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10539,
+      "char_end": 10542,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10542,
+      "char_end": 10911,
+      "text": "**Klausuren** -> Hier ist zunächst zu regeln, ob bzw. welche KI-Tools als Hilfsmittel zugelassen sind. Überdies ist zu prüfen, inwiefern Aufgabenstellungen verändert werden müssen, um eine gewisse Eigenleistung der Lernenden zu gewährleisten und andere Kompetenzen (wie Reflexion, kritisches Denken, Transfer, Methodenkompetenz, KI Literacy) stärker zu berücksichtigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10911,
+      "char_end": 10914,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10914,
+      "char_end": 11205,
+      "text": "**Hausarbeiten** -> Der Einsatz von KI-Tools ist sehr wahrscheinlich und die Überprüfung schwierig. Auch hier ist die Ausrichtung der Aufgabenstellung zu überdenken (siehe Klausuren). Ggf. sollte eine Hausarbeit um ein Kolloquium ergänzt werden, um im Dialog die Eigenleistung zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11205,
+      "char_end": 11208,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11208,
+      "char_end": 11485,
+      "text": "**Bachelor- / Masterarbeiten** -> Auch hier ist der Einsatz von KI wahrscheinlich und die Überprüfung ist schwierig. Sofern ein Kolloquium stattfindet, ist eine Überprüfung der Eigenleistung möglich. (Bei Bachelorarbeiten ist ein Kolloquium bislang jedoch nicht verpflichtend.)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11485,
+      "char_end": 11488,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11488,
+      "char_end": 11697,
+      "text": "**Präsentationen (Entwürfe etc.)** -> Der Einsatz von KI-Tools ist bei der Ausarbeitung von Entwürfen denkbar. Die Eigenleistung kann in einem anschließenden Gespräch bzw. in einer Diskussion überprüft werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11697,
+      "char_end": 11706,
+      "text": "\n\n## 3.4 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11706,
+      "char_end": 11778,
+      "text": "Wie lassen sich KI-unterstützt angefertigte Prüfungsleistungen bewerten?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11780,
+      "char_end": 12284,
+      "text": "Eine Möglichkeit, KI-unterstützt angefertigte Prüfungsleistungen zu bewerten, ist es, nicht nur das finale Produkt (also die fertige Hausarbeit) zu benoten. Vielmehr sollte auch die Reflexion des Methoden-/Forschungsdesigns sowie die Reflexion des Technikdesigns bewertet werden. So könnte sich die Note beispielsweise wie folgt berechnen:\n\n- 50% - finales Produkt;\n- 25% Reflexion des Methoden-/Forschungsdesigns,\n- 25% Reflexion des Technikdesigns (Welche Tools habe ich für welche Aufgaben verwendet?)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12286,
+      "char_end": 12380,
+      "text": "Dies ist lediglich eine Anregung. Sicherlich gibt es auch weitere, passende Bewertungsformate.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12382,
+      "char_end": 12727,
+      "text": "Aus Gründen der Bildungsgerechtigkeit sollte bei der Einbeziehung von Stil, Ausdruck, Grammatik & Orthografie in die Benotung von längeren schriftlichen Prüfungsleistungen sensibel vorgegangen werden, da ansonsten Studierende, die keine KI-Tools zur sprachlichen Glättung und Korrektur einsetzen wollen oder können, benachteiligt werden könnten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12727,
+      "char_end": 12778,
+      "text": "\n\n# 4. Rechtliche Aspekte im Prüfungswesen\n\n## 4.1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12778,
+      "char_end": 12826,
+      "text": "Urheberrechtsschutz für einen KI-erstellten Text",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12828,
+      "char_end": 12968,
+      "text": "Das deutsche Urheberrecht schützt grundsätzlich nur solche Werke, die maßgeblich von einem menschlich-gestalterischen Einfluss geprägt sind.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12969,
+      "char_end": 13253,
+      "text": "Für KI-Anwendungen gilt hierbei grundsätzlich: Der bloße Befehl (Engl.: „prompt“), der zur Erzeugung eines Textes führt, genügt als menschlicher Einfluss für urheberrechtlichen Schutz nicht. Ein rein KI-erstellter Text genießt daher keinen Urheberrechtsschutz, sondern ist gemeinfrei.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13254,
+      "char_end": 13486,
+      "text": "Wann eine in diesem Sinne ausreichende menschliche Eigenleistung vorliegt, kann nur für jeden Einzelfall anhand der konkreten Umstände festgestellt werden. Entscheidend sind dabei Umfang, Art und Weise der Nutzung der jeweiligen KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13488,
+      "char_end": 13875,
+      "text": "Ein Text, der aufgrund detaillierter oder stark steuernder Prompts erzeugt wurde, und dadurch ein signifikantes Maß an geistiger Eigenleistung bejaht werden kann, genießt Urheberrechtsschutz, da die KI-Anwendung nur als Ausführungswerkzeug dient. Gleiches gilt, wenn der von der KI-Anwendung erzeugte Text lediglich einen Denkanstoß darstellt und danach noch umfangreich bearbeitet wird.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13877,
+      "char_end": 14172,
+      "text": "Problematisch ist, dass aufgrund der grundlegenden Funktionsweise der KI-Sprachmodelle Texte generiert werden können, die falsche Aussagen wiedergeben, da keine Inhaltskontrolle durch die KI stattfindet. Hierauf ist bei der Verwendung von KI-generierten Texten ein besonderes Augenmerk zu legen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14174,
+      "char_end": 14318,
+      "text": "Maßgeblich ist bei der Beurteilung immer die menschlich-gestalterische Eigenleistung und der Einfluss auf den Schaffensprozess und das Ergebnis.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14318,
+      "char_end": 14327,
+      "text": "\n\n## 4.2 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14327,
+      "char_end": 14381,
+      "text": "Urheberrechtsverletzung durch einen KI-erstellten Text",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14383,
+      "char_end": 14988,
+      "text": "Es gibt KI-Programme, die das Internet nach geeigneten Quellen durchsuchen und die so gefundenen Texte wortwörtlich oder größtenteils unverändert übernehmen. Oftmals geben die KI-Anwendungen bei dieser Vorgehensweise nicht die Quelle zu den von ihr wiedergegebenen Texten an. Wenn diese Texte urheberrechtlich geschützt sind und von KI-Nutzenden veröffentlicht werden, hat der Urheberrechtsinhaber bzw. die Urheberrechtsinhaberin einen Anspruch auf Entfernung des entsprechenden Textes. Bei fahrlässiger oder vorsätzlicher Veröffentlichung kann ein Schadensersatzanspruch gegen die KI-Nutzenden entstehen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14990,
+      "char_end": 15469,
+      "text": "Die Gefahr einer solchen Urheberrechtsverletzung ist bei der Nutzung von ChatGPT allerdings eher gering. Das Programm arbeitet wahrscheinlichkeitsbasiert. Das bedeutet, dass das Tool nicht bereits bestehende Texte unverändert übernimmt, sondern anhand der ihm zur Verfügung stehenden Daten die im Satz aufeinanderfolgenden Wörter nach einer Wahrscheinlichkeitsberechnung bestimmt. Die so erzeugten Texte sind daher in der Regel nicht wortgleich zu den bereits bestehenden Texten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15471,
+      "char_end": 15715,
+      "text": "Bei der Nutzung von Computerprogrammen ohne intelligente Unterstützungstools (z.B. Rechtschreibhilfe, Suchmaschinen, Übersetzungstools) liegt stets eine persönlich-geistige Eigenleistung vor, so dass eine Urheber- und Autorenschaft gegeben ist.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15715,
+      "char_end": 15724,
+      "text": "\n\n## 4.3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15724,
+      "char_end": 15799,
+      "text": "Ist die DSGVO bei der Verwendung von KI in diesem Zusammenhang zu beachten?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15801,
+      "char_end": 16197,
+      "text": "Die Verwendung beispielsweise von ChatGPT darf für die Bearbeitung einer Prüfung nicht verpflichtend vorgeschrieben werden, sofern die Nutzung die Preisgabe gewisser persönlicher Daten voraussetzt. Eine Pflicht zur Nutzung von ChatGPT ist dann datenschutzrechtlich unzulässig. Eine Einwilligung ist durch das bestehende Verhältnis zwischen Prüfenden und Studierenden immer kritisch zu betrachten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16199,
+      "char_end": 16609,
+      "text": "Bei der Eingabe von Texten in ChatGPT ist außerdem darauf zu achten, im Text vorkommende persönliche Daten von Studierenden oder Mitarbeitenden vorher zu entfernen, da die Daten standardmäßig für Trainingszwecke verwendet werden. Auch eine solche Bereitstellung persönlicher Daten an eine KI kann einen datenschutzrechtlichen Verstoß darstellen. Zur Einwilligungsmöglichkeit gilt dasselbe wie oben beschrieben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16611,
+      "char_end": 16777,
+      "text": "Hier wurde eine Bewertung am Beispiel von ChatGPT gegeben. Bei anderen KI-Tools ist die Verarbeitung der eingegebenen Daten vorab im Hinblick auf die DSGVO zu prüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16777,
+      "char_end": 16786,
+      "text": "\n\n## 4.4 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16786,
+      "char_end": 16867,
+      "text": "Wie ist der Einsatz von KI-Anwendungen in einer Prüfungsleistung zu kennzeichnen?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16869,
+      "char_end": 17427,
+      "text": "Wie der Einsatz von KI in einer Prüfungsarbeit zu kennzeichnen ist, hängt von der Art und Weise ihres Einsatzes ab. Aus der Kennzeichnung muss sich ergeben, welche Textteile in welchem Ausmaß KI-generiert worden sind. Die wortwörtliche Übernahme KI-generierter Texte ist wie ein herkömmliches Zitat zu kennzeichnen. Wurde die KI lediglich als Inspirationsquelle benutzt oder basieren die Antworten der KI auf Prompts, die auf einer nicht unerheblichen menschlichen Eigenleistung basieren (siehe 4.1), kann auch die Erwähnung in der Hilfsmittelangabe genügen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17429,
+      "char_end": 17943,
+      "text": "Die schlichte Kopie KI-generierter Texte ohne entsprechende Kennzeichnung wird regelmäßig gegen die von den Studierenden abzugebende Eigenständigkeitserklärung verstoßen und einen Täuschungsversuch oder einen Verstoß gegen die Regeln guter wissenschaftlicher Praxis darstellen. Dasselbe gilt für umfangreiche Übernahmen mit nur geringfügigen Änderungen. Die Nutzung von KI-Anwendungen für Formulierungshilfen oder als Inspirationsquelle sollte bei entsprechender Hilfsmittelangabe aber grundsätzlich zulässig sein.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17945,
+      "char_end": 18155,
+      "text": "Lehrende sollten darauf achten, dass die von Ihnen eingesetzte Eigenständigkeitserklärung die Vorgaben zur Nutzung von KI-Anwendungen beinhaltet. Im Anhang finden Sie eine angepasste Eigenständigkeitserklärung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18157,
+      "char_end": 18352,
+      "text": "Gegebenenfalls geben zusätzlich auch die Nutzungsbedingungen der Software vor, dass auf eine Nutzung hingewiesen werden muss, so dass es sich nicht nur um ein prüfungsrechtliches Problem handelt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18352,
+      "char_end": 18361,
+      "text": "\n\n## 4.5 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18361,
+      "char_end": 18431,
+      "text": "Was ist bei der Nutzung von KI-Anwendungen durch Prüfende zu beachten?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18433,
+      "char_end": 18911,
+      "text": "Auch für Prüfende ist es möglich, mit Hilfe eines richtig formulierten Prompts die gesamte Prüfungsarbeit eines Studierenden von einer KI wie ChatGPT bewerten zu lassen. Hierbei gilt aber das, was umgekehrt auch für die Studierenden bei der Erstellung der Prüfungsleistung gilt: Die wortwörtliche Übernahme einer KI-korrigierten Prüfung ist unzulässig. Denn in diesem Fall wurden die Korrektur und Bewertung nicht, wie von der Prüfungsordnung vorgesehen, vom Prüfer vorgenommen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18912,
+      "char_end": 19414,
+      "text": "Zulässig ist aber das Einholen einer KI-generierten Ersteinschätzung, wenn der/die Prüfende auf dieser Grundlage die Prüfungsarbeit selbst kritisch würdigt. Auch die bloße Ausformulierung einer selbstständig erstellten Bewertung ist zulässig, solange der KI-generierte Text die von dem/der Prüfenden vorgenommene Bewertung auch korrekt wiedergibt. Eine Kennzeichnungspflicht besteht dabei für Prüfende nicht. KI kann daher bei der Bewertung von Prüfungsleistungen nur als Hilfsmittel eingesetzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19416,
+      "char_end": 19931,
+      "text": "Bei der Verwendung von ChatGPT o.Ä. für die Prüfungskorrektur ist jedoch Vorsicht geboten. Bei den abgegebenen Prüfungsleistungen handelt es sich in aller Regel um urheberrechtlich geschützte Werke. ChatGPT nutzt und speichert beispielsweise alle Eingaben als Trainingsdaten zum Zwecke seiner kontinuierlichen Optimierung. Aus diesem Grund ist es denkbar, dass die vollständige Eingabe einer Prüfungsarbeit bei ChatGPT einen Urheberrechtsverstoß darstellt. Zudem könnte auch ein DSGVO-Verstoß vorliegen (siehe 4.3).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19931,
+      "char_end": 19940,
+      "text": "\n\n## 4.6 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19940,
+      "char_end": 20078,
+      "text": "Sollten die eingeforderten Eigenständigkeitserklärungen im Hinblick auf die Nutzung von KI-Anwendungen in Prüfungsarbeiten ergänzt werden?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20080,
+      "char_end": 20414,
+      "text": "In der Regel reichen die bereits bestehenden Regelung (Eigenständigkeitserklärung, Regeln guter wissenschaftlicher Praxis und die hochschulinternen Prüfungsordnungen) aus, um dem Einsatz von KI-Anwendungen angemessen zu begegnen. Dennoch erscheint eine Überarbeitung und Anpassung im Sinne der Rechtsklarheit und -sicherheit sinnvoll.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20416,
+      "char_end": 21015,
+      "text": "Grundsätzlich dürfte die Erklärung darüber, die Prüfungsarbeit selbstständig und ohne fremde Hilfe verfasst zu haben, auch beinhalten, dass die Arbeit ohne den ungekennzeichneten Einsatz von KI zustande gekommen ist. Dennoch ist ein expliziter Hinweis hierzu sinnvoll. Insbesondere in Fällen, in denen die Nutzung von KI-Anwendungen komplett untersagt ist oder in denen nur bestimmte KI-Tools oder nur eine bestimmte Art der Nutzung einer KI erlaubt ist, bietet sich eine entsprechende Anpassung der Eigenständigkeitserklärung an. Ein angepasster Entwurf wird im Rahmen der Arbeitsgruppe entwickelt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21015,
+      "char_end": 21024,
+      "text": "\n\n## 4.7 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21024,
+      "char_end": 21252,
+      "text": "Wie ist mit Rücksicht darauf, dass die Verwendung von KI-Anwendungen nicht verpflichtend vorgeschrieben werden darf, mit der Bewertung von Prüfungsleistungen umzugehen, die mit oder ohne Hilfe von KI-Anwendungen verfasst wurden?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21254,
+      "char_end": 21667,
+      "text": "Die Nutzung von KI als ungerechten Vorteil gegenüber solchen Studierenden, die auf die Nutzung verzichtet haben, zu betrachten und dementsprechend die Bewertung anzupassen, ist verfehlt. Es muss darum gehen, die praktisch ohnehin kaum zu verbietende Nutzung von ChatGPT und anderen KI-Programmen im Prüfungswesen zu integrieren, ohne dass es hierbei zu Beeinträchtigungen der Chancengleichheit und Fairness kommt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21668,
+      "char_end": 21965,
+      "text": "Bei entsprechender Kennzeichnung ist der Einsatz von KI-Anwendungen in einer fortschrittlichen akademischen Umgebung ein legitimes Hilfsmittel. Ob sich der jeweilige Prüfling dieses Hilfsmittels bedienen will, bleibt ihm überlassen. Bewertungsmaßstab muss stets der Inhalt der Prüfungsarbeit sein.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21966,
+      "char_end": 22466,
+      "text": "Die Abwälzung des intellektuellen Eigenanteils bei der Fertigung einer Prüfungsarbeit auf eine KI wird durch die dargestellte Kennzeichnungspflicht vermieden. Ein Werk, das beispielsweise in großen Teilen von ChatGPT generierte Texte wortwörtlich übernimmt und dies korrekt als Zitat kennzeichnet, kann entsprechend schlechter bewertet werden als ein Werk, das einen höheren Eigenanteil erkennen lässt. Ein Werk, das auf die entsprechende Kennzeichnung verzichtet, stellt einen Täuschungsversuch dar.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22467,
+      "char_end": 22732,
+      "text": "Der Einsatz von KI für die Anfertigung einer Prüfungsarbeit erscheint vor diesem Hintergrund nicht als unfair. Dennoch sollte die Hochschule die notwendigen Voraussetzungen dafür schaffen, den Einsatz von KI-Anwendungen für alle im zulässigen Rahmen zu ermöglichen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22732,
+      "char_end": 23578,
+      "text": "\n\n## Quellen\n\nSalden, P.; Lordick, N.; Wiethoff, M. (2023): **KI-basierte Schreibwerkzeuge in der Hochschule. Eine Einführung.** In: Salden, P. und Leschke, J. (Hrsg.): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung. Ruhr-Universität Bochum. S. 4-21. https://doi.org/10.13154/294-9734\n\nLimburg, A., Mundorf, M., Salden, P., Weßels, D. (2022). **Plagiarismus in Zeiten Künstlicher Intelligenz.** In: Zeitschrift für Hochschulentwicklung Band 17, Nr. 3\n\nBuck, I. & Limburg, A. (2023). **Hochschulbildung vor dem Hintergrund von Natural Language Processing (KI-Schreibtools).** die hochschullehre, Jahrgang 9/2023.\n\nFleck, T. (2023) , **Prüfungsrechtliche Fragen zu ChatGPT**, Stabsstelle IT-Recht der bayerischen staatlichen Universitäten und Hochschulen.\n\n## Anlage: Muster Eigenständigkeitserklärung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23578,
+      "char_end": 24548,
+      "text": "Die Arbeitsgruppe empfiehlt, die bestehende Eigenständigkeitserklärung der HCU, die verbindlich bei der Abgabe der Thesis zu nutzen ist, um die unterstrichene Passage zu ergänzen:\n\n„Ich versichere, dass ich die vorliegende Thesis mit dem Titel ... selbstständig und ohne unzulässige fremde Hilfe erbracht habe. Ich habe keine anderen als die angegebenen Quellen und Hilfsmittel benutzt sowie wörtliche und sinngemäße Zitate kenntlich gemacht. Ich bin mir bewusst, dass der Einsatz von KI-Werkzeugen keine Garantie für die Qualität von Inhalten und Text darstellt. Ich versichere, dass ich von mir verwendete KI-Werkzeuge als Hilfsmittel angegeben und mit ihrem Produktnamen und einer Übersicht der im Rahmen dieser Prüfungsarbeit genutzten Funktionen vollständig aufgeführt habe.\n\nDie Arbeit hat in gleicher oder ähnlicher Form noch keiner Prüfungsbehörde vorgelegen. Im Falle einer Gruppenarbeit bezieht sich die Erklärung auf den von mir erarbeiteten Teil der Thesis.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24550,
+      "char_end": 24847,
+      "text": "Die Arbeitsgruppe empfiehlt den Prüfenden, diese oder ähnliche Eigenständigkeitserklärungen auch jenseits der Thesis bei allen weiteren schriftlichen Ausarbeitungen, aber auch bei grafischen Prüfungsleistungen oder -bestandteilen, wie z.B. Entwürfen, Videos etc. von den Studierenden einzufordern.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24849,
+      "char_end": 25177,
+      "text": "Denkbar sind auch verschiedene weitere Arten von Eigenständigkeitserklärungen, die je nach Vorgabe der Lehrenden bzw. Prüfenden den Ausschluss der Nutzung generativer KI, die Nutzung von generativer KI für bestimmte Zwecke, die Nutzung bestimmter Tools oder die völlige Freigabe der Nutzung generativer KI-Tools umfassen können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "doc_id": "wame_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This statement revises our earlier “WAME Recommendations on ChatGPT and Chatbots in Relation to Scholarly Publications” (January 20, 2023). The revision reflects the proliferation of chatbots and their expanding use in scholarly publishing over the last few months, as well as emerging concerns regarding lack of authenticity of content when using chatbots.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "These Recommendations are intended to inform editors and help them develop policies for the use of chatbots in papers published in their journals. They aim to help authors and reviewers understand how best to attribute the use of chatbots in their work, and to address the need for all journal editors to have access to manuscript screening tools.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "In this rapidly evolving field, we will continue to modify these recommendations as the software and its applications develop.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "A chatbot is a tool “driven by artificial intelligence, automated rules, natural-language processing (NLP), and machine learning (ML)… to process data to deliver responses to requests of all kinds.”",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Artificial intelligence (AI) is “the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.”",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "“Generative modeling is an artificial intelligence technique that generates synthetic artifacts by analyzing training examples; learning their patterns and distribution; and then creating realistic facsimiles. Generative AI (GAI) uses generative modeling and advances in deep learning (DL) to produce diverse content at scale by utilizing existing media such as text, graphics, audio, and video.”",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Chatbots are activated by a plain-language instruction, or “prompt,” provided by the user. They generate responses using statistical and probability-based language models.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "This output has some characteristic properties. It is usually linguistically accurate and fluent but, to date, it is often compromised in various ways. For example, chatbot output currently carries the risk of including biases, distortions, irrelevancies, misrepresentations, and plagiarism – many of which are caused by the algorithms governing its generation and heavily dependent on the contents of the materials used in its training.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Consequently, there are concerns about the effects of chatbots on knowledge creation and dissemination – including their potential to spread and amplify mis- and disinformation – and their broader impact on jobs and the economy, as well as the health of individuals and populations.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "New legal issues have also arisen in connection with chatbots and generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Chatbots retain the information supplied to them, including content and prompts, and may use this information in future responses. Therefore, scholarly content that is generated or edited using AI would be retained and as a result, could potentially appear in future responses, further increasing the risk of inadvertent plagiarism on the part of the user and any future users of the technology.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Anyone who needs to maintain confidentiality of a document, including authors, editors, and reviewers, should be aware of this issue before considering using chatbots to edit or generate work.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Chatbots and their applications illustrate the powerful possibilities of generative AI, as well as the risks.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "These Recommendations seek to suggest a workable approach to valid concerns about the use of chatbots in scholarly publishing.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "A new recommendation (#4) has been added to the four original principal recommendations: 1) Only humans can be authors; 2) Authors should acknowledge the sources of their materials; 3) Authors must take public responsibility for their work; 4) Editors and reviewers should specify, to authors and each other, any use of chatbots in evaluation of the manuscript and generation of reviews and correspondence; and 5) Editors need appropriate digital tools to deal with the effects of chatbots on publishing.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "In addition, this revision acknowledges that chatbots are used to perform different functions in scholarly publications. Currently, individuals in scholarly publishing may use chatbots for: 1) simple word-processing tasks (analogous to, and an extension of, word-processing and grammar-checking software), 2) the generation of ideas and text, and 3) substantive research.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "The Recommendations have been tailored for application to these different uses.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "WAME Recommendation 1: Chatbots cannot be authors.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Journals have begun to publish articles in which chatbots such as Bard, Bing and ChatGPT have been used, with some journals listing chatbots as co-authors.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "The legal status of an author differs from country to country but under most jurisdictions, an author must be a legal person. Chatbots do not meet the International Committee of Medical Journal Editors (ICMJE) authorship criteria, particularly that of being able to give “final approval of the version to be published” and “to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.”",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "No AI tool can “understand” a conflict-of-interest statement, and does not have the legal standing to sign a statement. Chatbots have no affiliation independent of their developers. Since authors submitting a manuscript must ensure that all those named as authors meet the authorship criteria, chatbots cannot be included as authors.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "WAME Recommendation 2: Authors should be transparent when chatbots are used and provide information about how they were used.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The extent and type of use of chatbots in journal publications should be indicated. This is consistent with the ICMJE recommendation of acknowledging writing assistance and providing in the Methods detailed information about how the study was conducted and the results generated.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "WAME Recommendations 2.1: Authors submitting a paper in which a chatbot/AI was used to draft new text should note such use in the acknowledgment; all prompts used to generate new text, or to convert text or text prompts into tables or illustrations, should be specified.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "WAME Recommendation 2.2: When an AI tool such as a chatbot is used to carry out or generate analytical work, help report results (e.g., generating tables or figures), or write computer codes, this should be stated in the body of the paper, in both the Abstract and the Methods section. In the interests of enabling scientific scrutiny, including replication and identifying falsification, the full prompt used to generate the research results, the time and date of query, and the AI tool used and its version, should be provided.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "WAME Recommendation 3: Authors are responsible for material provided by a chatbot in their paper (including the accuracy of what is presented and the absence of plagiarism) and for appropriate attribution of all sources (including original sources for material generated by the chatbot).",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Authors of articles written with the help of a chatbot are responsible for the material generated by the chatbot, including its accuracy.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Noting that plagiarism is “the practice of taking someone else's work or ideas and passing them off as one's own”, not just the verbatim repetition of previously published text.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "It is the author’s responsibility to ensure that the content reflects the author's data and ideas and is not plagiarism, fabrication or falsification. Otherwise, it is potentially scientific misconduct to offer such material for publication, irrespective of how it was written.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Similarly, authors must ensure that all quoted material is appropriately attributed, including full citations, and that the cited sources support the chatbot’s statements.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Since a chatbot may be designed to omit sources that oppose viewpoints expressed in its output, it is the authors’ responsibility to find, review and include such counterviews in their articles.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "(Of course, such biases are also found in human authors.)",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Authors should identify the chatbot used and the specific prompt (query statement) used with the chatbot. They should specify what they have done to mitigate the risk of plagiarism, provide a balanced view, and ensure the accuracy of all their references.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "WAME Recommendation 4: Editors and peer reviewers should specify, to authors and each other, any use of chatbots in the evaluation of the manuscript and generation of reviews and correspondence. If they use chatbots in their communications with authors and each other, they should explain how they were used.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Editors and reviewers are responsible for any content and citations generated by a chatbot.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "They should be aware that chatbots retain the prompts fed to them, including manuscript content, and supplying an author's manuscript to a chatbot breaches confidentiality of the submitted manuscript.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "WAME Recommendation 5: Editors need appropriate tools to help them detect content generated or altered by AI. Such tools should be made available to editors regardless of ability to pay for them, for the good of science and the public, and to help ensure the integrity of healthcare information and reducing the risk of adverse health outcomes.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Many medical journal editors use manuscript evaluation approaches that were not designed to deal with AI innovations and industries, including manipulated plagiarized text and images and papermill-generated documents. They have already been at a disadvantage when trying to differentiate the legitimate from the fabricated, and chatbots take this challenge to a new level.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Editors need access to tools that will help them evaluate content efficiently and accurately. This is of particular importance to editors of medical journals where the adverse consequences of misinformation include potential harms to people.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "We encourage comments and feedback from WAME Members and other readers.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Please contact us at [email protected].",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "a note on changes introduced since the previous wame recommendations",
+      "repaired": true
+    },
+    {
+      "id": 43,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "wame recommendations on chatbots and generative artificial intelligence in relation to scholarly publication",
+      "repaired": true
+    },
+    {
+      "id": 44,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "competing interests: all of the authors report that they have no competing interests aside from any affiliations as editors.",
+      "repaired": true
+    },
+    {
+      "id": 45,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "wame encourages wame members to republish this statement in their journals with attribution to the original publication on wame.org.",
+      "repaired": true
+    },
+    {
+      "id": 46,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "wame will list journal citations and links to the republications on this page.",
+      "repaired": true
+    },
+    {
+      "id": 47,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "please contact margaret winker at [email protected] with any questions",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 47,
+    "matched": 47,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.788,
+    "uncovered_chars": 2695,
+    "uncovered_gaps": 4,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 136,
+        "length": 136,
+        "text": "# wame # source: https://wame.org/page.php?id=106 # date: 2023 # category: guideline chatbots, generative ai, and scholarly manuscripts"
+      },
+      {
+        "char_start": 244,
+        "char_end": 517,
+        "length": 273,
+        "text": "s revised may 31, 2023 chris zielinski, margaret a. winker, rakesh aggarwal, lorraine e. ferris, markus heinemann, jose florencio lapeña, jr, sanjay a. pai, edsel ing, leslie citrome, murad alam, michael voight, farrokh habibzadeh, on behalf of the wame board introduction"
+      },
+      {
+        "char_start": 4920,
+        "char_end": 5031,
+        "length": 111,
+        "text": ". wame recommendations on chatbots and generative artificial intelligence in relation to scholarly publication"
+      },
+      {
+        "char_start": 10639,
+        "char_end": 12814,
+        "length": 2175,
+        "text": ". references 1. what is a chatbot? oracle cloud infrastructure. accessed may 27, 2023. 2. copeland bj (factchecked by the editors of encyclopaedia britannica). artificial intelligence. britannica. last updated: may 26, 2023. accessed may 27, 2023. 3. gui j, sun z, wen y, tao d, and ye j. a review on generative adversarial networks: algorithms theory and applications. ieee trans knowl data eng. 2023; 35:3313-3332. doi: 10.1109/tkde.2021.3130191 4. abukmeil m, ferrari s, genovese a, piuri v, scotti f. a survey of unsupervised generative models for exploratory data analysis and representation learning. acm comput surv. 2021;54(5):1-40. 5. wun sty, he sz, liu jp, sun sq, liu k, han ql, tang y. a brief overview of chatgpt: the history, status quo and potential future development. ieee/caa j autom sinica. 2023;10(5):1122-1136. doi: 10.1109/jas.2023.123618 6. bhuiyan j. openai ceo calls for laws to mitigate 'risks of increasingly powerful' ai. the guardian. may 16, 2023. accessed may 27, 2023. 7. appel g, neelbauer j, schweidel da. generative ai has an intellectual property problem. april 07, 2023. harvard business review. accessed may 27, 2023. 8. thorbecke c. don't tell anything to a chatbot you want to keep private. cnn business. april 6, 2023. accessed may 27, 2023. 9. recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals. updated may 2023. accessed may 27, 2023. 10. who is an author? defining the role of authors and contributors. icmje. accessed may 27, 2023. 11. non-author contributors. defining the role of authors and contributors. icmje. accessed may 27, 2023. 12. methods. preparing a manuscript for submission to a medical journal. icmje. accessed may 27, 2023. 13. plagiarism. oxford reference. accessed may 27, 2023. cite as: zielinski c, winker ma, aggarwal r, ferris le, heinemann m, lapeña jf, pai sa, ing e, citrome l, alam m, voight m, habibzadeh f, for the wame board. chatbots, generative ai, and scholarly manuscripts. wame recommendations on chatbots and generative artificial intelligence in relation to scholarly publications. wame. may 31, 2023. https://wame.org/page.php?id=106"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 138,
+      "text": "# WAME\n# Source: https://wame.org/page3.php?id=106\n# Date: 2023\n# Category: guideline\n\nChatbots, Generative AI, and Scholarly Manuscripts\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 138,
+      "char_end": 246,
+      "text": "WAME Recommendations on Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publication",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 246,
+      "char_end": 523,
+      "text": "s\n\nRevised May 31, 2023\n\nChris Zielinski, Margaret A. Winker, Rakesh Aggarwal, Lorraine E. Ferris, Markus Heinemann, Jose Florencio Lapeña, Jr, Sanjay A. Pai, Edsel Ing, Leslie Citrome, Murad Alam, Michael Voight, Farrokh Habibzadeh, on behalf of the WAME Board\n\nIntroduction\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 523,
+      "char_end": 880,
+      "text": "This statement revises our earlier “WAME Recommendations on ChatGPT and Chatbots in Relation to Scholarly Publications” (January 20, 2023). The revision reflects the proliferation of chatbots and their expanding use in scholarly publishing over the last few months, as well as emerging concerns regarding lack of authenticity of content when using chatbots.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 881,
+      "char_end": 1228,
+      "text": "These Recommendations are intended to inform editors and help them develop policies for the use of chatbots in papers published in their journals. They aim to help authors and reviewers understand how best to attribute the use of chatbots in their work, and to address the need for all journal editors to have access to manuscript screening tools.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1229,
+      "char_end": 1355,
+      "text": "In this rapidly evolving field, we will continue to modify these recommendations as the software and its applications develop.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1357,
+      "char_end": 1555,
+      "text": "A chatbot is a tool “driven by artificial intelligence, automated rules, natural-language processing (NLP), and machine learning (ML)… to process data to deliver responses to requests of all kinds.”",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1556,
+      "char_end": 1714,
+      "text": "Artificial intelligence (AI) is “the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.”",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1716,
+      "char_end": 2112,
+      "text": "“Generative modeling is an artificial intelligence technique that generates synthetic artifacts by analyzing training examples; learning their patterns and distribution; and then creating realistic facsimiles. Generative AI (GAI) uses generative modeling and advances in deep learning (DL) to produce diverse content at scale by utilizing existing media such as text, graphics, audio, and video.”",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2114,
+      "char_end": 2285,
+      "text": "Chatbots are activated by a plain-language instruction, or “prompt,” provided by the user. They generate responses using statistical and probability-based language models.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2286,
+      "char_end": 2723,
+      "text": "This output has some characteristic properties. It is usually linguistically accurate and fluent but, to date, it is often compromised in various ways. For example, chatbot output currently carries the risk of including biases, distortions, irrelevancies, misrepresentations, and plagiarism – many of which are caused by the algorithms governing its generation and heavily dependent on the contents of the materials used in its training.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2724,
+      "char_end": 3006,
+      "text": "Consequently, there are concerns about the effects of chatbots on knowledge creation and dissemination – including their potential to spread and amplify mis- and disinformation – and their broader impact on jobs and the economy, as well as the health of individuals and populations.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3007,
+      "char_end": 3087,
+      "text": "New legal issues have also arisen in connection with chatbots and generative AI.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3089,
+      "char_end": 3484,
+      "text": "Chatbots retain the information supplied to them, including content and prompts, and may use this information in future responses. Therefore, scholarly content that is generated or edited using AI would be retained and as a result, could potentially appear in future responses, further increasing the risk of inadvertent plagiarism on the part of the user and any future users of the technology.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3485,
+      "char_end": 3677,
+      "text": "Anyone who needs to maintain confidentiality of a document, including authors, editors, and reviewers, should be aware of this issue before considering using chatbots to edit or generate work.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3679,
+      "char_end": 3788,
+      "text": "Chatbots and their applications illustrate the powerful possibilities of generative AI, as well as the risks.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3789,
+      "char_end": 3915,
+      "text": "These Recommendations seek to suggest a workable approach to valid concerns about the use of chatbots in scholarly publishing.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3917,
+      "char_end": 3985,
+      "text": "A note on changes introduced since the previous WAME Recommendations",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3987,
+      "char_end": 4491,
+      "text": "A new recommendation (#4) has been added to the four original principal recommendations: 1) Only humans can be authors; 2) Authors should acknowledge the sources of their materials; 3) Authors must take public responsibility for their work; 4) Editors and reviewers should specify, to authors and each other, any use of chatbots in evaluation of the manuscript and generation of reviews and correspondence; and 5) Editors need appropriate digital tools to deal with the effects of chatbots on publishing.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4493,
+      "char_end": 4864,
+      "text": "In addition, this revision acknowledges that chatbots are used to perform different functions in scholarly publications. Currently, individuals in scholarly publishing may use chatbots for: 1) simple word-processing tasks (analogous to, and an extension of, word-processing and grammar-checking software), 2) the generation of ideas and text, and 3) substantive research.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4865,
+      "char_end": 4944,
+      "text": "The Recommendations have been tailored for application to these different uses.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4944,
+      "char_end": 5056,
+      "text": "\n\nWAME Recommendations on Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publication\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5056,
+      "char_end": 5106,
+      "text": "WAME Recommendation 1: Chatbots cannot be authors.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5108,
+      "char_end": 5263,
+      "text": "Journals have begun to publish articles in which chatbots such as Bard, Bing and ChatGPT have been used, with some journals listing chatbots as co-authors.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5264,
+      "char_end": 5767,
+      "text": "The legal status of an author differs from country to country but under most jurisdictions, an author must be a legal person. Chatbots do not meet the International Committee of Medical Journal Editors (ICMJE) authorship criteria, particularly that of being able to give “final approval of the version to be published” and “to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.”",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5768,
+      "char_end": 6101,
+      "text": "No AI tool can “understand” a conflict-of-interest statement, and does not have the legal standing to sign a statement. Chatbots have no affiliation independent of their developers. Since authors submitting a manuscript must ensure that all those named as authors meet the authorship criteria, chatbots cannot be included as authors.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6103,
+      "char_end": 6228,
+      "text": "WAME Recommendation 2: Authors should be transparent when chatbots are used and provide information about how they were used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6230,
+      "char_end": 6509,
+      "text": "The extent and type of use of chatbots in journal publications should be indicated. This is consistent with the ICMJE recommendation of acknowledging writing assistance and providing in the Methods detailed information about how the study was conducted and the results generated.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6511,
+      "char_end": 6781,
+      "text": "WAME Recommendations 2.1: Authors submitting a paper in which a chatbot/AI was used to draft new text should note such use in the acknowledgment; all prompts used to generate new text, or to convert text or text prompts into tables or illustrations, should be specified.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6783,
+      "char_end": 7312,
+      "text": "WAME Recommendation 2.2: When an AI tool such as a chatbot is used to carry out or generate analytical work, help report results (e.g., generating tables or figures), or write computer codes, this should be stated in the body of the paper, in both the Abstract and the Methods section. In the interests of enabling scientific scrutiny, including replication and identifying falsification, the full prompt used to generate the research results, the time and date of query, and the AI tool used and its version, should be provided.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7314,
+      "char_end": 7601,
+      "text": "WAME Recommendation 3: Authors are responsible for material provided by a chatbot in their paper (including the accuracy of what is presented and the absence of plagiarism) and for appropriate attribution of all sources (including original sources for material generated by the chatbot).",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7603,
+      "char_end": 7740,
+      "text": "Authors of articles written with the help of a chatbot are responsible for the material generated by the chatbot, including its accuracy.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7741,
+      "char_end": 7918,
+      "text": "Noting that plagiarism is “the practice of taking someone else's work or ideas and passing them off as one's own”, not just the verbatim repetition of previously published text.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7919,
+      "char_end": 8196,
+      "text": "It is the author’s responsibility to ensure that the content reflects the author's data and ideas and is not plagiarism, fabrication or falsification. Otherwise, it is potentially scientific misconduct to offer such material for publication, irrespective of how it was written.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8197,
+      "char_end": 8368,
+      "text": "Similarly, authors must ensure that all quoted material is appropriately attributed, including full citations, and that the cited sources support the chatbot’s statements.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8369,
+      "char_end": 8563,
+      "text": "Since a chatbot may be designed to omit sources that oppose viewpoints expressed in its output, it is the authors’ responsibility to find, review and include such counterviews in their articles.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8565,
+      "char_end": 8622,
+      "text": "(Of course, such biases are also found in human authors.)",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8624,
+      "char_end": 8879,
+      "text": "Authors should identify the chatbot used and the specific prompt (query statement) used with the chatbot. They should specify what they have done to mitigate the risk of plagiarism, provide a balanced view, and ensure the accuracy of all their references.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8881,
+      "char_end": 9189,
+      "text": "WAME Recommendation 4: Editors and peer reviewers should specify, to authors and each other, any use of chatbots in the evaluation of the manuscript and generation of reviews and correspondence. If they use chatbots in their communications with authors and each other, they should explain how they were used.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9191,
+      "char_end": 9282,
+      "text": "Editors and reviewers are responsible for any content and citations generated by a chatbot.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9283,
+      "char_end": 9483,
+      "text": "They should be aware that chatbots retain the prompts fed to them, including manuscript content, and supplying an author's manuscript to a chatbot breaches confidentiality of the submitted manuscript.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9485,
+      "char_end": 9829,
+      "text": "WAME Recommendation 5: Editors need appropriate tools to help them detect content generated or altered by AI. Such tools should be made available to editors regardless of ability to pay for them, for the good of science and the public, and to help ensure the integrity of healthcare information and reducing the risk of adverse health outcomes.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9831,
+      "char_end": 10203,
+      "text": "Many medical journal editors use manuscript evaluation approaches that were not designed to deal with AI innovations and industries, including manipulated plagiarized text and images and papermill-generated documents. They have already been at a disadvantage when trying to differentiate the legitimate from the fabricated, and chatbots take this challenge to a new level.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10204,
+      "char_end": 10445,
+      "text": "Editors need access to tools that will help them evaluate content efficiently and accurately. This is of particular importance to editors of medical journals where the adverse consequences of misinformation include potential harms to people.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10447,
+      "char_end": 10518,
+      "text": "We encourage comments and feedback from WAME Members and other readers.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10519,
+      "char_end": 10558,
+      "text": "Please contact us at [email protected].",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10558,
+      "char_end": 12864,
+      "text": "\n\nCompeting Interests:\nAll of the authors report that they have no competing interests aside from any affiliations as editors.\n\nReferences\n\n1. What is a chatbot? Oracle Cloud Infrastructure. Accessed May 27, 2023.\n2. Copeland BJ (fact-checked by the Editors of Encyclopaedia Britannica). Artificial intelligence. Britannica. Last Updated: May 26, 2023. Accessed May 27, 2023.\n3. Gui J, Sun Z, Wen Y, Tao D, and Ye J. A review on generative adversarial networks: Algorithms theory and applications. IEEE Trans Knowl Data Eng. 2023; 35:3313-3332. DOI: 10.1109/TKDE.2021.3130191\n4. Abukmeil M, Ferrari S, Genovese A, Piuri V, Scotti F. A survey of unsupervised generative models for exploratory data analysis and representation learning. ACM Comput Surv. 2021;54(5):1-40.\n5. Wun STY, He SZ, Liu JP, Sun SQ, Liu K, Han QL, Tang Y. A brief overview of ChatGPT: The history, status quo and potential future development. IEEE/CAA J Autom Sinica. 2023;10(5):1122–1136. DOI: 10.1109/JAS.2023.123618\n6. Bhuiyan J. OpenAI CEO calls for laws to mitigate ‘risks of increasingly powerful’ AI. The Guardian. May 16, 2023. Accessed May 27, 2023.\n7. Appel G, Neelbauer J, Schweidel DA. Generative AI Has an Intellectual Property Problem. April 07, 2023. Harvard Business Review. Accessed May 27, 2023.\n8. Thorbecke C. Don’t tell anything to a chatbot you want to keep private. CNN Business. April 6, 2023. Accessed May 27, 2023.\n9. Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals. Updated May 2023. Accessed May 27, 2023.\n10. Who Is an Author? Defining the Role of Authors and Contributors. ICMJE. Accessed May 27, 2023.\n11. Non-Author Contributors. Defining the Role of Authors and Contributors. ICMJE. Accessed May 27, 2023.\n12. Methods. Preparing a Manuscript for Submission to a Medical Journal. ICMJE. Accessed May 27, 2023.\n13. Plagiarism. Oxford Reference. Accessed May 27, 2023.\n\nCite as: Zielinski C, Winker MA, Aggarwal R, Ferris LE, Heinemann M, Lapeña JF, Pai SA, Ing E, Citrome L, Alam M, Voight M, Habibzadeh F, for the WAME Board. Chatbots, Generative AI, and Scholarly Manuscripts. WAME Recommendations on Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications. WAME. May 31, 2023. https://wame.org/page3.php?id=106\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12864,
+      "char_end": 12996,
+      "text": "WAME encourages WAME Members to republish this statement in their journals with attribution to the original publication on WAME.org.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12996,
+      "char_end": 13077,
+      "text": " WAME will list journal citations and links to the re-publications on this page. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13077,
+      "char_end": 13147,
+      "text": "Please contact Margaret Winker at [email protected] with any questions",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13147,
+      "char_end": 13148,
+      "text": ".",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

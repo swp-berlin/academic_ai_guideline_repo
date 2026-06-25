@@ -1,0 +1,2223 @@
+{
+  "doc_id": "hochschule-munchen_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Empfehlungen zum Umgang mit KI in der Lehre der bayerischen Hochschulen für angewandte Wissenschaften und Technischen Hochschulen.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ein erfolgreicher und zugleich verantwortungsbewusster Einsatz von KI an den bayerischen Hochschulen setzt eine differenzierte Betrachtung von Chancen und Risiken voraus.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die vielfältigen Möglichkeiten, die KI bietet, müssen proaktiv im Rahmen strategischer, ethischer und rechtlicher Leitplanken gestaltet werden.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Nur so kann die Technologie ihr Potenzial entfalten und die Hochschullandschaft zum Nutzen aller nachhaltig prägen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die vorliegende Leitlinie für den Umgang mit KI in der Hochschullehre will hierzu einen entscheidenden Beitrag leisten.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Entwickelt wurde die Leitlinie im Auftrag von Hochschule Bayern e. V. Sie ist das Ergebnis einer hochschulübergreifenden Zusammenarbeit bayerischer Lehrender und Studierender, die durch die Vizepräsidentinnen und -präsidenten für Studium und Lehre an den Hochschulen zusammen mit dem Forschungs- und Innovationslabor Digitale Lehre (FIDL) gestaltet wurde.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Hochschule München stellt ihren Hochschulangehörigen über den Dienst „ai.lab.hm.edu“ die aktuelle Version von ChatGPT datenschutzkonform und kostenfrei zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Mit der Lizenz über den Hochschulaccount möchte die Hochschule einen konstruktiven Umgang mit generativer KI ermöglichen und alle Hochschulangehörige in die Entwicklungen in diesem Bereich einbeziehen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die HM erprobt das KI-Assistenzsystem OneTutor in der Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Das System wurde am Bayerischen Forschungsinstitut für Digitale Transformation (BIDT) in Zusammenarbeit mit der Technischen Universität München entwickelt und bereits in über 130 Lehrveranstaltungen an der HM getestet.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Im Sommersemester 2026 können alle Lehrenden der HM OneTutor im Rahmen der Pilotphase freiwillig als datenschutzkonformes KI Tool für ihre Lehre nutzen und dabei selbst entscheiden, wie sie es didaktisch in ihre Lehrveranstaltungen integrieren möchten.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Über diesen Link können sich Lehrende auf der Plattform von OneTutor registrieren. Der Zugang wird werktags innerhalb von 24 Stunden aktiviert. Im Anschluss können Lehrende eigene Kurse in OneTutor anlegen und mit den eigenen Lehrmaterialien befüllen.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-gestützte Lernunterstützung für Studierende auf Basis Ihrer bestehenden Vorlesungsunterlagen",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Detaillierte, anonymisierte Analysen zum Lernverhalten für Lehrende",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Einfacher Zugang über SSO-Login mit HM-Account",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Auswertung der Evaluation aus dem Sommersemester 2025 hat gezeigt, dass das System großes Potenzial bietet: Wir haben sowohl positive Rückmeldungen zur Unterstützung des Lernprozesses erhalten als auch wertvolles Feedback zur Identifikation passender Use Cases.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gleichzeitig wurde deutlich, dass nicht alle Interessierten das System in der Pilotphase testen konnten.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Sie lehren an der HM und wünschen Beratung zu den didaktischen Einsatzmöglichkeiten von OneTutor oder benötigen Unterstützung bei der Einrichtung?",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Durch die Entwicklungen im Bereich KI entstehen weitreichende Veränderungen, wie an Hochschulen in Gegenwart und Zukunft gelehrt, gelernt und geforscht wird.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Deshalb haben die Stabsabteilung Innovative Lehre (IL) und das Munich Center for Digital Sciences and AI (MUC.DAI) das „Dialogforum Generative KI und Hochschule“ ins Leben gerufen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Das Dialogforum ist offen für Lehrende, Studierende und Mitarbeitende der HM.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der KI-Parkour ist ein interaktives Austausch- und Beteiligungsformat mit zahlreichen Stationen rund um KI an der HM. Sie können aktuelle KI Tools erproben, Einblicke in laufende Projekte und Initiativen erhalten und sich zu Chancen, Herausforderungen und notwendigen KI-Kompetenzen austauschen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ob Sie erste Schritte mit KI wagen, neue Tools testen oder Ihre Zukunftsvisionen für die Weiterentwicklung der HM zur KI-kompetenten Hochschule einbringen möchten – der KI-Parkour lädt zum Mitmachen, Mitreden und Mitgestalten ein.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um eine Anmeldung wird unter diesem Link gebeten.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Das 13. Dialogforum Generative KI und Hochschule findet online statt unter dem Titel \"KI und Praxis\". Im Fokus steht, wie Unternehmen und Behörden KI heute in ihre Prozesse integrieren.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Vertreterinnen und Vertreter aus der Praxis geben Einblicke in konkrete Einsatzszenarien.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir zeigen Ergebnisse aus Studierendenprojekten zum Einsatz von KI-Agenten in Unternehmen.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gemeinsam diskutieren wir, wo aktuelle Chancen und Grenzen liegen, welche Kompetenzen Fachkräfte künftig benötigen und welche Erwartungen Unternehmen an Hochschulabsolventinnen und -absolventen im KI-Zeitalter richten.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Thematisiert und diskutiert wird, wie die Integration generativer KI die Gesundheitsfachberufe tiefgreifend transformiert und welche fachlichen, ethischen sowie rechtlichen Herausforderungen sich daraus für die Hochschullehre ergeben.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Hochschulen werden dabei zu Experimentierräumen, in denen Lehrende und Studierende neue Technologien erproben und auf weitere Anwendungsgebiete übertragen können.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Mit dem Projekt „bauwerK! – Gemeinsam mit und über KI lehren und lernen“ hat sich die HM im Auftrag von Vizepräsident Lehre, Prof. Dr. Klaus Kreulich, unter Federführung der Abteilung Innovative Lehre und der Studienfakultät MUC.DAI erfolgreich eine Förderung der Stiftung Innovation in der Hochschullehre im Rahmen des Förderprogramms „Lehrarchitektur“ gesichert.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Beim 11. Dialogforum kamen wir miteinander zu diesem neuen Projekt ins Gespräch.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wir diskutierten, wie KI im Kontext Nachhaltigkeit eingesetzt werden kann, und wie nachhaltig der Einsatz von KI sein kann.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Im Zentrum stand auch die Frage: Welche Aspekte sollen Hochschulen in den Nachhaltigkeitsdimensionen sozial, ökonomisch, ökologisch mit Blick auf Generative KI zusammendenken, damit die Diskussion über den Aspekt \"Energie sparen\" hinausgeht?",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wir diskutierten, wie mit KI autonome Systeme entstehen – sogenannte KI-Agenten – und was sie für den Hochschulbereich bedeuten können.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Durch generative KI verändern sich Lehr- und Prüfungsmethoden in technischer, didaktischer und rechtlicher Hinsicht.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wie Lehrende KI in Prüfungen einsetzen, wird vom jeweiligen Mindset beeinflusst.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bestimmende Themen an Hochschulen sind der Unterstützungsbedarf beim Umgang mit KI im Prüfungskontext (Studierende) und das Vermeiden von akademischen Fehlverhalten (Hochschulleitungen).",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es gilt auch die Perspektive der Studierenden bzgl. des Prüfens mit KI einzubeziehen.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "An der HM gibt es zentrale Anlaufstellen mit regulatorischem, technischem und didaktischem Schwerpunkt: Das Forschungs- und Innovationslabor Digitale Lehre (FIDL), das Kompetenzzentrum Digitales Prüfen (KDP) und das Projekt „ii.oo - Digitales kompetenzorientiertes Prüfen implementieren“.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Welche KI-Kompetenzen sind für Studierende aus der Perspektive der sozialwissenschaftlichen Studiengänge relevant?",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wissen und Generative KI.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ChatGPT im Studium: Fluch oder Segen für Studierende?. Impulsvortrag basierend auf Daten aus der Studie „Einsatz, Nutzen und Grenzen von ChatGPT und anderen Large Language Modellen an den bayerischen HAWs“ + Fragen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Impulse von Studierenden für eine Prüfungskultur der Zukunft mit Blick auf KI.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI und Industrie - Kompetenzen für die digitale Industriewelt in Studium und Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Entwicklungen im Bereich der Generativen KI betreffen Hochschulen in besonderem Maße.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gleichzeitig wissen wir noch wenig darüber, in welchem Ausmaß Generative KI bereits an bayerischen Hochschulen eingesetzt wird.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Aus diesem Grund führte das Forschungs- und Innovationslabor Digitale Lehre (fidl) die Studie „Einsatz, Nutzen und Grenzen von ChatGPT bzw. anderen Large Language Modellen an bayerischen HAWs“ durch.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Generative KI verändert unsere Gesellschaft grundlegend. Daher ist es unerlässlich, dass wir als Lehrende diesen Wandel aktiv mitgestalten, damit KI sozial, ökonomisch und ökologisch nachhaltig wird.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir erforschen, wie KI-Werkzeuge behutsam und effektiv in Grundlagenveranstaltungen integriert werden können.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Mir ist wichtig, dass meine Studierenden verstehen, wie generative KI funktioniert und welche Auswirkungen sie auch auf die Soziale Arbeit hat.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir experimentieren mit Text-zu-Bild-Generatoren zur Unterstützung von Kreativprozessen",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ich erstelle mit ChatGPT Programmieraufgaben und Quizzes für die Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ich nutze Generative KI in der Lehre für Gruppenarbeiten, im Rahmen derer sich Studierende in neue Themengebiete einarbeiten.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende lernen passende Prompts zu formulieren, sowie die Stärken und Schwächen der unterschiedlichen Modelle einzuschätzen.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ich nutze Generative KI als Ideengeberin, aber auch zur eigenen Überprüfung.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir testen und überprüfen den Einsatz von KI-Tools für die Nutzung durch den wissenschaftlichen Nachwuchs an der HM.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ich versuche, die Studierenden durch aktuelle Anwendungsbeispiele sowie mit einer nachhaltigen, diachronen Perspektive für die Wechselwirkungen zwischen Mensch, KI und Kultur zu sensibilisieren.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende lernen unter anderem die Möglichkeiten und Grenzen von ChatGPT beim Generieren von Interviewfragen für Personalauswahlgespräche kennen.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Der KI-Campus ist die Lernplattform für Künstliche Intelligenz mit kostenlosen Online-Kursen, Videos und Podcasts zur Stärkung von KI- und Datenkompetenzen.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Als F&E-Projekt wird der KI-Campus vom Bundesministerium für Bildung und Forschung (BMBF) gefördert.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Ergebnisse des \"Prompt-Labor: Generative KI in der Hochschullehre\", veranstaltet von Hochschulforum Digitalisierung und KI-Campus, sind dokumentiert worden.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Der entstandene Katalog erfolgreich eingesetzter Prompts aus Anwendungskontexten im Bereich der Hochschullehre steht öffentlich zur Wiederverwendung zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Beim Prompt-Labor, das sich gerade in der Durchführung befindet, haben Teilnehmende Zugang zu verschiedenen Selbstlernmaterialien.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Diese Materialien stehen allen Interessierten auch über die Live-Sessions hinaus zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Veranstaltungstermine und viele Informationen finden sich unter anderem auf der Webseite des Netzwerks Landeseinrichtungen für digitale Hochschullehre, einem Zusammenschluss von E-Learning-Einrichtungen aus Deutschland.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "weitere informationen finden sie hier: homepage onetutor dokumentation und erklärvideo auf der homepage von onetutor faq im intranet der hm evaluationsergebnisse aus dem sommersemester",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "die beiträge zu den veranstaltungen finden sie im intranet.",
+      "repaired": true
+    },
+    {
+      "id": 69,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 14. dialogforum generative ki und hochschule findet in präsenz unter dem titel \"ki-parkour\" statt.",
+      "repaired": true
+    },
+    {
+      "id": 70,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "hochschulangehörige finden im intranet die beiträge zur veranstaltung.",
+      "repaired": true
+    },
+    {
+      "id": 71,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 12. dialogforum generative ki und hochschule fand online statt unter dem titel \"generative ki in gesundheit und pflege\".",
+      "repaired": true
+    },
+    {
+      "id": 72,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "die 11. veranstaltung fand statt unter dem titel „mit bauwerk! zur ki-kompetenten hochschule\".",
+      "repaired": true
+    },
+    {
+      "id": 73,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 10. dialogforum generative ki und hochschule fand hybrid statt unter dem titel \"generative ki und nachhaltigkeit\".",
+      "repaired": true
+    },
+    {
+      "id": 74,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 9. dialogforum generative ki und hochschule fand hybrid statt unter dem titel \"ki agenten\".",
+      "repaired": true
+    },
+    {
+      "id": 75,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 8. dialogforum generative ki und hochschule fand statt unter dem titel: \"generative ki und prüfen\".",
+      "repaired": true
+    },
+    {
+      "id": 76,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "impulse für die veranstaltung gaben: ludwig gierstl (geschäftsführung des kompetenzzentrum digitales prüfen (kdp) der hm): \"standortbestimmung und herangehensweise an das thema.\"",
+      "repaired": true
+    },
+    {
+      "id": 77,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "jens tobor (che, hfd) & carolin then bergh (studentin, hfd): \"prüfen in zeiten generativer ki - überblick & perspektivvorschlag.\"",
+      "repaired": true
+    },
+    {
+      "id": 78,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "prof. dr. carolin freier (th nürnberg): \"ki im wissenschaftlichen schreibprozess: lehren und prüfen neu gedacht.\"",
+      "repaired": true
+    },
+    {
+      "id": 79,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "prof. dr. georg braun (fakultät der hm): \"ki in präsenzprüfungen: kompetenzen, prüfungsdesign, technik (exahm).\"",
+      "repaired": true
+    },
+    {
+      "id": 80,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 7. dialogforum generative ki und hochschule fand statt unter dem titel: \"generative ki und gesellschaft: welche ki-kompetenzen sind für einen gemeinwohlorientierten ki-einsatz wichtig?\".",
+      "repaired": true
+    },
+    {
+      "id": 81,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "impulse für die veranstaltung gaben: prof. emily engelhardt (fakultät für angewandte sozialwissenschaften, hm):",
+      "repaired": true
+    },
+    {
+      "id": 82,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "prof. dr. ralph-miklas dobler (fakultät für studium generale und interdisziplinäre studien, hm):",
+      "repaired": true
+    },
+    {
+      "id": 83,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 6. dialogforum generative ki und hochschule fand statt unter dem titel: \"einsatz, nutzen und grenzen - mit und über ki lernen und lehren\".",
+      "repaired": true
+    },
+    {
+      "id": 84,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "impulse für die veranstaltung gaben: dr. anna moraß & sara koss (stabsabteilung innovative lehre, hm): \"chatgpt im studium: fluch oder segen für studierende?\".",
+      "repaired": true
+    },
+    {
+      "id": 85,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "impulsvortrag basierend auf daten aus der studie „einsatz, nutzen und grenzen von chatgpt und anderen large language modellen an den bayerischen haws\" + fragen.",
+      "repaired": true
+    },
+    {
+      "id": 86,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "das 5. dialogforum generative ki und hochschule fand statt unter dem titel:",
+      "repaired": true
+    },
+    {
+      "id": 87,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "impulse für die veranstaltung gaben: daniel valentir (senior manager data, analytics & digitalization infineon): industrievortrag",
+      "repaired": true
+    },
+    {
+      "id": 88,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "prof. dr. alexander lindworsky (fakultät 3, hm): vorstellung des ipb-labors als initiative an der hm.",
+      "repaired": true
+    },
+    {
+      "id": 89,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "prof. dr. marcin hinz (fakultät 3, hm): impulsvortrag.",
+      "repaired": true
+    },
+    {
+      "id": 90,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "reality check: chatbots in der lehre. ein rückblick im video.",
+      "repaired": true
+    },
+    {
+      "id": 91,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "die studie ist auf der fidl-webseite als download verfügbar.",
+      "repaired": true
+    },
+    {
+      "id": 92,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "ki-campus",
+      "repaired": true
+    },
+    {
+      "id": 93,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "frei verfügbarer prompt-katalog",
+      "repaired": true
+    },
+    {
+      "id": 94,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "selbstlernmaterialien zum prompt-labor",
+      "repaired": true
+    },
+    {
+      "id": 95,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "netzwerk landeseinrichtungen für digitale hochschullehre.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 95,
+    "matched": 85,
+    "unmatched_count": 10,
+    "unmatched": [
+      {
+        "id": 43,
+        "B": "B6",
+        "matched_words": "7/32",
+        "text": "ChatGPT im Studium: Fluch oder Segen für Studierende?. Impulsvortrag basierend auf Daten aus der Studie „Einsatz, Nutzen und Grenzen von ChatGPT und anderen Large Language Modellen an den bayerischen HAWs“ + Fragen."
+      },
+      {
+        "id": 69,
+        "B": "B12",
+        "matched_words": "13/15",
+        "text": "das 14. dialogforum generative ki und hochschule findet in präsenz unter dem titel \"ki-parkour\" statt."
+      },
+      {
+        "id": 72,
+        "B": "B12",
+        "matched_words": "11/13",
+        "text": "die 11. veranstaltung fand statt unter dem titel „mit bauwerk! zur ki-kompetenten hochschule\"."
+      },
+      {
+        "id": 80,
+        "B": "B12",
+        "matched_words": "17/24",
+        "text": "das 7. dialogforum generative ki und hochschule fand statt unter dem titel: \"generative ki und gesellschaft: welche ki-kompetenzen sind für einen gemeinwohlorientierten ki-einsatz wichtig?\"."
+      },
+      {
+        "id": 82,
+        "B": "B12",
+        "matched_words": "2/12",
+        "text": "prof. dr. ralph-miklas dobler (fakultät für studium generale und interdisziplinäre studien, hm):"
+      },
+      {
+        "id": 88,
+        "B": "B12",
+        "matched_words": "9/15",
+        "text": "prof. dr. alexander lindworsky (fakultät 3, hm): vorstellung des ipb-labors als initiative an der hm."
+      },
+      {
+        "id": 91,
+        "B": "B11",
+        "matched_words": "5/9",
+        "text": "die studie ist auf der fidl-webseite als download verfügbar."
+      },
+      {
+        "id": 92,
+        "B": "B11",
+        "matched_words": "0/1",
+        "text": "ki-campus"
+      },
+      {
+        "id": 93,
+        "B": "B11",
+        "matched_words": "2/3",
+        "text": "frei verfügbarer prompt-katalog"
+      },
+      {
+        "id": 94,
+        "B": "B11",
+        "matched_words": "2/3",
+        "text": "selbstlernmaterialien zum prompt-labor"
+      }
+    ],
+    "source_coverage": 0.794,
+    "uncovered_chars": 2976,
+    "uncovered_gaps": 38,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 131,
+        "length": 131,
+        "text": "# hochschule münchen (hm) # source: https://hm.edu/lehren/generative_ki/generative_ki_1.de.html # date: none # category: guideline"
+      },
+      {
+        "char_start": 1165,
+        "char_end": 1233,
+        "length": 68,
+        "text": ". ## software und anwendungen ### hochschulweiter zugang zu chatgpt"
+      },
+      {
+        "char_start": 1604,
+        "char_end": 1660,
+        "length": 56,
+        "text": ". login für hochschulangehörige ### pilotphase onetutor"
+      },
+      {
+        "char_start": 2191,
+        "char_end": 2220,
+        "length": 29,
+        "text": ". registrierung für lehrende"
+      },
+      {
+        "char_start": 2467,
+        "char_end": 2494,
+        "length": 27,
+        "text": ". **was bietet onetutor?**"
+      },
+      {
+        "char_start": 3259,
+        "char_end": 3284,
+        "length": 25,
+        "text": ". ### beratung & support"
+      },
+      {
+        "char_start": 3430,
+        "char_end": 3519,
+        "length": 89,
+        "text": "hm.edu/helpdeskil. ## diskurs und analysen ### dialogforum generative ki und hochschule"
+      },
+      {
+        "char_start": 3994,
+        "char_end": 4114,
+        "length": 120,
+        "text": ". **08.06.2026** das 14. dialogforum generative ki und hochschule findet in präsenz unter dem titel \"ki-parkour\" statt."
+      },
+      {
+        "char_start": 4687,
+        "char_end": 4704,
+        "length": 17,
+        "text": ". **27.04.2026**"
+      },
+      {
+        "char_start": 5359,
+        "char_end": 5376,
+        "length": 17,
+        "text": ". **14.01.2026**"
+      },
+      {
+        "char_start": 5897,
+        "char_end": 6080,
+        "length": 183,
+        "text": ". hochschulangehörige finden im intranet die beiträge zur veranstaltung. **27.10.2025** die 11. veranstaltung fand statt unter dem titel „mit bauwerk! zur ki-kompetenten hochschule\"."
+      },
+      {
+        "char_start": 6524,
+        "char_end": 6625,
+        "length": 101,
+        "text": ". hochschulangehörige finden im intranet die beiträge zu vergangenen veranstaltungen. **02.07.2025**"
+      },
+      {
+        "char_start": 7109,
+        "char_end": 7196,
+        "length": 87,
+        "text": "hochschulangehörige finden im intranet die beiträge zur veranstaltung. **05.05.2025**"
+      },
+      {
+        "char_start": 7426,
+        "char_end": 7514,
+        "length": 88,
+        "text": ". hochschulangehörige finden im intranet die beiträge zur veranstaltung. **27.11.2024**"
+      },
+      {
+        "char_start": 8153,
+        "char_end": 8190,
+        "length": 37,
+        "text": "take-aways der veranstaltung waren:"
+      },
+      {
+        "char_start": 8944,
+        "char_end": 9223,
+        "length": 279,
+        "text": ". hochschulangehörige finden im intranet die beiträge zur veranstaltung. **22.10.2024** das 7. dialogforum generative ki und hochschule fand statt unter dem titel: \"generative ki und gesellschaft: welche ki-kompetenzen sind für einen gemeinwohlorientierten ki-einsatz wichtig?\"."
+      },
+      {
+        "char_start": 9450,
+        "char_end": 9550,
+        "length": 100,
+        "text": "\" prof. dr. ralph-miklas dobler (fakultät für studium generale und interdisziplinäre studien, hm): \""
+      },
+      {
+        "char_start": 9574,
+        "char_end": 9592,
+        "length": 18,
+        "text": ".\" **13.06.2024**"
+      },
+      {
+        "char_start": 10054,
+        "char_end": 10142,
+        "length": 88,
+        "text": ". leonie jostock (stabsabteilung innovative lehre, hm) & julia gerum (studierende, hm):"
+      },
+      {
+        "char_start": 10219,
+        "char_end": 10236,
+        "length": 17,
+        "text": ". **16.04.2024**"
+      },
+      {
+        "char_start": 10538,
+        "char_end": 10641,
+        "length": 103,
+        "text": "prof. dr. alexander lindworsky (fakultät 3, hm): vorstellung des ipb-labors als initiative an der hm."
+      },
+      {
+        "char_start": 10694,
+        "char_end": 10711,
+        "length": 17,
+        "text": ". **25.10.2023**"
+      },
+      {
+        "char_start": 10771,
+        "char_end": 10801,
+        "length": 30,
+        "text": ". ## studie zu generativer ki"
+      },
+      {
+        "char_start": 11215,
+        "char_end": 11430,
+        "length": 215,
+        "text": ". die studie ist auf der fidl-webseite als download verfügbar. ## forschungs-& innovationslabor digitale lehre ## einblicke und stimmen **prof. dr. angelika beranek, fakultät für angewandte sozialwissenschaften.** \""
+      },
+      {
+        "char_start": 11628,
+        "char_end": 11693,
+        "length": 65,
+        "text": ".\" **dr. rer. nat. benedikt zönnchen, studienfakultät muc.dai** \""
+      },
+      {
+        "char_start": 11801,
+        "char_end": 11879,
+        "length": 78,
+        "text": ".\" **prof. emily engelhardt, fakultät für angewandte sozialwissenschaften.** \""
+      },
+      {
+        "char_start": 12021,
+        "char_end": 12071,
+        "length": 50,
+        "text": ".\" **prof. ralph buchner, fakultät für design.** \""
+      },
+      {
+        "char_start": 12157,
+        "char_end": 12214,
+        "length": 57,
+        "text": "\" **prof. dr. gudrun socher, studienfakultät muc.dai.** \""
+      },
+      {
+        "char_start": 12284,
+        "char_end": 12375,
+        "length": 91,
+        "text": ".\" **prof. dr. sophie hobrack, fakultät maschinenbau, fahrzeugtechnik, flugzeugtechnik.** \""
+      },
+      {
+        "char_start": 12499,
+        "char_end": 12592,
+        "length": 93,
+        "text": ".\" **prof. dr. florian nafz, fakultät für technische systeme, prozesse und kommunikation.** \""
+      },
+      {
+        "char_start": 12719,
+        "char_end": 12802,
+        "length": 83,
+        "text": ".\" **prof. dr. katja stoppenbrink, fakultät für angewandte sozialwissenschaften** „"
+      },
+      {
+        "char_start": 12877,
+        "char_end": 12939,
+        "length": 62,
+        "text": ".\" **dr. marcus müller-ostermaier, leitung graduate school** \""
+      },
+      {
+        "char_start": 13054,
+        "char_end": 13154,
+        "length": 100,
+        "text": ".\" **prof. dr. ralph-miklas dobler, fakultät für studium generale und interdisziplinäre studien.** \""
+      },
+      {
+        "char_start": 13347,
+        "char_end": 13416,
+        "length": 69,
+        "text": ".\" **prof. dr. christian gärtner, fakultät für betriebswirtschaft** \""
+      },
+      {
+        "char_start": 13562,
+        "char_end": 13614,
+        "length": 52,
+        "text": "\". ## lehrkompetenz ### kurse für hochschullehrende"
+      },
+      {
+        "char_start": 13869,
+        "char_end": 13917,
+        "length": 48,
+        "text": ". ki-campus ### frei verfügbarer prompt-katalog"
+      },
+      {
+        "char_start": 14240,
+        "char_end": 14317,
+        "length": 77,
+        "text": ". frei verfügbarer prompt-katalog ### selbstlernmaterialien zum prompt-labor"
+      },
+      {
+        "char_start": 14823,
+        "char_end": 14932,
+        "length": 109,
+        "text": ". netzwerk landeseinrichtungen für digitale hochschullehre. ## kontakt stabsabteilung innovative lehre e-mail"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 132,
+      "text": "# Hochschule München (HM)\n# Source: https://hm.edu/lehren/generative_ki/generative_ki_1.de.html\n# Date: None\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 132,
+      "char_end": 262,
+      "text": "Empfehlungen zum Umgang mit KI in der Lehre der bayerischen Hochschulen für angewandte Wissenschaften und Technischen Hochschulen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 264,
+      "char_end": 434,
+      "text": "Ein erfolgreicher und zugleich verantwortungsbewusster Einsatz von KI an den bayerischen Hochschulen setzt eine differenzierte Betrachtung von Chancen und Risiken voraus.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 435,
+      "char_end": 578,
+      "text": "Die vielfältigen Möglichkeiten, die KI bietet, müssen proaktiv im Rahmen strategischer, ethischer und rechtlicher Leitplanken gestaltet werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 579,
+      "char_end": 694,
+      "text": "Nur so kann die Technologie ihr Potenzial entfalten und die Hochschullandschaft zum Nutzen aller nachhaltig prägen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 695,
+      "char_end": 814,
+      "text": "Die vorliegende Leitlinie für den Umgang mit KI in der Hochschullehre will hierzu einen entscheidenden Beitrag leisten.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 816,
+      "char_end": 1171,
+      "text": "Entwickelt wurde die Leitlinie im Auftrag von Hochschule Bayern e. V. Sie ist das Ergebnis einer hochschulübergreifenden Zusammenarbeit bayerischer Lehrender und Studierender, die durch die Vizepräsidentinnen und -präsidenten für Studium und Lehre an den Hochschulen zusammen mit dem Forschungs- und Innovationslabor Digitale Lehre (FIDL) gestaltet wurde.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1171,
+      "char_end": 1240,
+      "text": "\n\n## Software und Anwendungen\n\n### Hochschulweiter Zugang zu ChatGPT\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1240,
+      "char_end": 1410,
+      "text": "Die Hochschule München stellt ihren Hochschulangehörigen über den Dienst „ai.lab.hm.edu“ die aktuelle Version von ChatGPT datenschutzkonform und kostenfrei zur Verfügung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1411,
+      "char_end": 1612,
+      "text": "Mit der Lizenz über den Hochschulaccount möchte die Hochschule einen konstruktiven Umgang mit generativer KI ermöglichen und alle Hochschulangehörige in die Entwicklungen in diesem Bereich einbeziehen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1612,
+      "char_end": 1669,
+      "text": "\n\nLogin für Hochschulangehörige\n\n### Pilotphase OneTutor\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1669,
+      "char_end": 1729,
+      "text": "Die HM erprobt das KI-Assistenzsystem OneTutor in der Lehre.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1730,
+      "char_end": 1948,
+      "text": "Das System wurde am Bayerischen Forschungsinstitut für Digitale Transformation (BIDT) in Zusammenarbeit mit der Technischen Universität München entwickelt und bereits in über 130 Lehrveranstaltungen an der HM getestet.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1950,
+      "char_end": 2202,
+      "text": "Im Sommersemester 2026 können alle Lehrenden der HM OneTutor im Rahmen der Pilotphase freiwillig als datenschutzkonformes KI Tool für ihre Lehre nutzen und dabei selbst entscheiden, wie sie es didaktisch in ihre Lehrveranstaltungen integrieren möchten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2202,
+      "char_end": 2231,
+      "text": "\n\nRegistrierung für Lehrende\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2231,
+      "char_end": 2482,
+      "text": "Über diesen Link können sich Lehrende auf der Plattform von OneTutor registrieren. Der Zugang wird werktags innerhalb von 24 Stunden aktiviert. Im Anschluss können Lehrende eigene Kurse in OneTutor anlegen und mit den eigenen Lehrmaterialien befüllen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2482,
+      "char_end": 2511,
+      "text": "\n\n**Was bietet OneTutor?**\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2511,
+      "char_end": 2606,
+      "text": "KI-gestützte Lernunterstützung für Studierende auf Basis Ihrer bestehenden Vorlesungsunterlagen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2606,
+      "char_end": 2609,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2609,
+      "char_end": 2676,
+      "text": "Detaillierte, anonymisierte Analysen zum Lernverhalten für Lehrende",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2676,
+      "char_end": 2679,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2679,
+      "char_end": 2725,
+      "text": "Einfacher Zugang über SSO-Login mit HM-Account",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2727,
+      "char_end": 2919,
+      "text": "Weitere Informationen finden Sie hier:\n- Homepage OneTutor\n- Dokumentation und Erklärvideo auf der Homepage von OneTutor\n- FAQ im Intranet der HM\n- Evaluationsergebnisse aus dem Sommersemester",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2921,
+      "char_end": 3186,
+      "text": "Die Auswertung der Evaluation aus dem Sommersemester 2025 hat gezeigt, dass das System großes Potenzial bietet: Wir haben sowohl positive Rückmeldungen zur Unterstützung des Lernprozesses erhalten als auch wertvolles Feedback zur Identifikation passender Use Cases.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3187,
+      "char_end": 3291,
+      "text": "Gleichzeitig wurde deutlich, dass nicht alle Interessierten das System in der Pilotphase testen konnten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3291,
+      "char_end": 3316,
+      "text": "\n\n### Beratung & Support\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3316,
+      "char_end": 3462,
+      "text": "Sie lehren an der HM und wünschen Beratung zu den didaktischen Einsatzmöglichkeiten von OneTutor oder benötigen Unterstützung bei der Einrichtung?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3462,
+      "char_end": 3554,
+      "text": "\nhm.edu/helpdesk-il.\n\n## Diskurs und Analysen\n\n### Dialogforum Generative KI und Hochschule\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3554,
+      "char_end": 3711,
+      "text": "Durch die Entwicklungen im Bereich KI entstehen weitreichende Veränderungen, wie an Hochschulen in Gegenwart und Zukunft gelehrt, gelernt und geforscht wird.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3712,
+      "char_end": 3892,
+      "text": "Deshalb haben die Stabsabteilung Innovative Lehre (IL) und das Munich Center for Digital Sciences and AI (MUC.DAI) das „Dialogforum Generative KI und Hochschule“ ins Leben gerufen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3893,
+      "char_end": 3970,
+      "text": "Das Dialogforum ist offen für Lehrende, Studierende und Mitarbeitende der HM.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3971,
+      "char_end": 4030,
+      "text": "Die Beiträge zu den Veranstaltungen finden Sie im Intranet.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4030,
+      "char_end": 4047,
+      "text": "\n\n**08.06.2026**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4047,
+      "char_end": 4149,
+      "text": "Das 14. Dialogforum Generative KI und Hochschule findet in Präsenz unter dem Titel \"KI-Parkour\" statt.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4151,
+      "char_end": 4446,
+      "text": "Der KI-Parkour ist ein interaktives Austausch- und Beteiligungsformat mit zahlreichen Stationen rund um KI an der HM. Sie können aktuelle KI Tools erproben, Einblicke in laufende Projekte und Initiativen erhalten und sich zu Chancen, Herausforderungen und notwendigen KI-Kompetenzen austauschen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4448,
+      "char_end": 4678,
+      "text": "Ob Sie erste Schritte mit KI wagen, neue Tools testen oder Ihre Zukunftsvisionen für die Weiterentwicklung der HM zur KI-kompetenten Hochschule einbringen möchten – der KI-Parkour lädt zum Mitmachen, Mitreden und Mitgestalten ein.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4680,
+      "char_end": 4729,
+      "text": "Um eine Anmeldung wird unter diesem Link gebeten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4729,
+      "char_end": 4746,
+      "text": "\n\n**27.04.2026**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4746,
+      "char_end": 4931,
+      "text": "Das 13. Dialogforum Generative KI und Hochschule findet online statt unter dem Titel \"KI und Praxis\". Im Fokus steht, wie Unternehmen und Behörden KI heute in ihre Prozesse integrieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4932,
+      "char_end": 5021,
+      "text": "Vertreterinnen und Vertreter aus der Praxis geben Einblicke in konkrete Einsatzszenarien.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5022,
+      "char_end": 5112,
+      "text": "Wir zeigen Ergebnisse aus Studierendenprojekten zum Einsatz von KI-Agenten in Unternehmen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5113,
+      "char_end": 5331,
+      "text": "Gemeinsam diskutieren wir, wo aktuelle Chancen und Grenzen liegen, welche Kompetenzen Fachkräfte künftig benötigen und welche Erwartungen Unternehmen an Hochschulabsolventinnen und -absolventen im KI-Zeitalter richten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5333,
+      "char_end": 5403,
+      "text": "Hochschulangehörige finden im Intranet die Beiträge zur Veranstaltung.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5403,
+      "char_end": 5420,
+      "text": "\n\n**14.01.2026**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5420,
+      "char_end": 5544,
+      "text": "Das 12. Dialogforum Generative KI und Hochschule fand online statt unter dem Titel \"Generative KI in Gesundheit und Pflege\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5545,
+      "char_end": 5779,
+      "text": "Thematisiert und diskutiert wird, wie die Integration generativer KI die Gesundheitsfachberufe tiefgreifend transformiert und welche fachlichen, ethischen sowie rechtlichen Herausforderungen sich daraus für die Hochschullehre ergeben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5780,
+      "char_end": 5942,
+      "text": "Hochschulen werden dabei zu Experimentierräumen, in denen Lehrende und Studierende neue Technologien erproben und auf weitere Anwendungsgebiete übertragen können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5942,
+      "char_end": 6126,
+      "text": "\n\nHochschulangehörige finden im Intranet die Beiträge zur Veranstaltung.\n\n**27.10.2025**\nDie 11. Veranstaltung fand statt unter dem Titel „Mit bauwerK! zur KI-kompetenten Hochschule“. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6126,
+      "char_end": 6490,
+      "text": "Mit dem Projekt „bauwerK! – Gemeinsam mit und über KI lehren und lernen“ hat sich die HM im Auftrag von Vizepräsident Lehre, Prof. Dr. Klaus Kreulich, unter Federführung der Abteilung Innovative Lehre und der Studienfakultät MUC.DAI erfolgreich eine Förderung der Stiftung Innovation in der Hochschullehre im Rahmen des Förderprogramms „Lehrarchitektur“ gesichert.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6491,
+      "char_end": 6571,
+      "text": "Beim 11. Dialogforum kamen wir miteinander zu diesem neuen Projekt ins Gespräch.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6571,
+      "char_end": 6673,
+      "text": "\n\nHochschulangehörige finden im Intranet die Beiträge zu vergangenen Veranstaltungen.\n\n**02.07.2025**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6673,
+      "char_end": 6791,
+      "text": "Das 10. Dialogforum Generative KI und Hochschule fand hybrid statt unter dem Titel \"Generative KI und Nachhaltigkeit\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6793,
+      "char_end": 6916,
+      "text": "Wir diskutierten, wie KI im Kontext Nachhaltigkeit eingesetzt werden kann, und wie nachhaltig der Einsatz von KI sein kann.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6917,
+      "char_end": 7158,
+      "text": "Im Zentrum stand auch die Frage: Welche Aspekte sollen Hochschulen in den Nachhaltigkeitsdimensionen sozial, ökonomisch, ökologisch mit Blick auf Generative KI zusammendenken, damit die Diskussion über den Aspekt \"Energie sparen\" hinausgeht?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7158,
+      "char_end": 7247,
+      "text": "\n\nHochschulangehörige finden im Intranet die Beiträge zur Veranstaltung.\n\n**05.05.2025**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7247,
+      "char_end": 7342,
+      "text": "Das 9. Dialogforum Generative KI und Hochschule fand hybrid statt unter dem Titel \"KI Agenten\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7343,
+      "char_end": 7478,
+      "text": "Wir diskutierten, wie mit KI autonome Systeme entstehen – sogenannte KI-Agenten – und was sie für den Hochschulbereich bedeuten können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7478,
+      "char_end": 7567,
+      "text": "\n\nHochschulangehörige finden im Intranet die Beiträge zur Veranstaltung.\n\n**27.11.2024**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7567,
+      "char_end": 7670,
+      "text": "Das 8. Dialogforum Generative KI und Hochschule fand statt unter dem Titel: \"Generative KI und Prüfen\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7671,
+      "char_end": 7851,
+      "text": "Impulse für die Veranstaltung gaben:\n- Ludwig Gierstl (Geschäftsführung des Kompetenzzentrum Digitales Prüfen (KDP) der HM): \"Standortbestimmung und Herangehensweise an das Thema.\"",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7851,
+      "char_end": 7854,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7854,
+      "char_end": 7983,
+      "text": "Jens Tobor (CHE, HFD) & Carolin Then Bergh (Studentin, HFD): \"Prüfen in Zeiten generativer KI - Überblick & Perspektivvorschlag.\"",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7983,
+      "char_end": 7986,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7986,
+      "char_end": 8099,
+      "text": "Prof. Dr. Carolin Freier (TH Nürnberg): \"KI im wissenschaftlichen Schreibprozess: Lehren und Prüfen neu gedacht.\"",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8099,
+      "char_end": 8102,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8102,
+      "char_end": 8217,
+      "text": "Prof. Dr. Georg Braun (Fakultät 06 der HM): \"KI in Präsenzprüfungen: Kompetenzen, Prüfungsdesign, Technik (EXaHM).\"",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8217,
+      "char_end": 8257,
+      "text": "\n\nTake-Aways der Veranstaltung waren:\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8257,
+      "char_end": 8373,
+      "text": "Durch generative KI verändern sich Lehr- und Prüfungsmethoden in technischer, didaktischer und rechtlicher Hinsicht.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8373,
+      "char_end": 8376,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8376,
+      "char_end": 8456,
+      "text": "Wie Lehrende KI in Prüfungen einsetzen, wird vom jeweiligen Mindset beeinflusst.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8456,
+      "char_end": 8459,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8459,
+      "char_end": 8645,
+      "text": "Bestimmende Themen an Hochschulen sind der Unterstützungsbedarf beim Umgang mit KI im Prüfungskontext (Studierende) und das Vermeiden von akademischen Fehlverhalten (Hochschulleitungen).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8646,
+      "char_end": 8731,
+      "text": "Es gilt auch die Perspektive der Studierenden bzgl. des Prüfens mit KI einzubeziehen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8731,
+      "char_end": 8734,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8734,
+      "char_end": 9022,
+      "text": "An der HM gibt es zentrale Anlaufstellen mit regulatorischem, technischem und didaktischem Schwerpunkt: Das Forschungs- und Innovationslabor Digitale Lehre (FIDL), das Kompetenzzentrum Digitales Prüfen (KDP) und das Projekt „ii.oo - Digitales kompetenzorientiertes Prüfen implementieren“.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9022,
+      "char_end": 9111,
+      "text": "\n\nHochschulangehörige finden im Intranet die Beiträge zur Veranstaltung.\n\n**22.10.2024**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9111,
+      "char_end": 9301,
+      "text": "Das 7. Dialogforum Generative KI und Hochschule fand statt unter dem Titel: \"Generative KI und Gesellschaft: Welche KI-Kompetenzen sind für einen gemeinwohlorientierten KI-Einsatz wichtig?\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9302,
+      "char_end": 9415,
+      "text": "Impulse für die Veranstaltung gaben:\n- Prof. Emily Engelhardt (Fakultät für Angewandte Sozialwissenschaften, HM):",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9415,
+      "char_end": 9417,
+      "text": " \"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9417,
+      "char_end": 9531,
+      "text": "Welche KI-Kompetenzen sind für Studierende aus der Perspektive der sozialwissenschaftlichen Studiengänge relevant?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9531,
+      "char_end": 9535,
+      "text": "\"\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9535,
+      "char_end": 9631,
+      "text": "Prof. Dr. Ralph-Miklas Dobler (Fakultät für Studium Generale und Interdisziplinäre Studien, HM):",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9631,
+      "char_end": 9633,
+      "text": " \"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9633,
+      "char_end": 9658,
+      "text": "Wissen und Generative KI.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9658,
+      "char_end": 9676,
+      "text": "\"\n\n**13.06.2024**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9676,
+      "char_end": 9818,
+      "text": "Das 6. Dialogforum Generative KI und Hochschule fand statt unter dem Titel: \"Einsatz, Nutzen und Grenzen - mit und über KI lernen und lehren\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9819,
+      "char_end": 9980,
+      "text": "Impulse für die Veranstaltung gaben:\n- Dr. Anna Moraß & Sara Koss (Stabsabteilung Innovative Lehre, HM): \"ChatGPT im Studium: Fluch oder Segen für Studierende?\".",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9980,
+      "char_end": 10230,
+      "text": " Impulsvortrag basierend auf Daten aus der Studie „Einsatz, Nutzen und Grenzen von ChatGPT und anderen Large Language Modellen an den bayerischen HAWs“ + Fragen.\n- Leonie Jostock (Stabsabteilung Innovative Lehre, HM) & Julia Gerum (Studierende, HM): ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10230,
+      "char_end": 10308,
+      "text": "Impulse von Studierenden für eine Prüfungskultur der Zukunft mit Blick auf KI.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10308,
+      "char_end": 10325,
+      "text": "\n\n**16.04.2024**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10325,
+      "char_end": 10400,
+      "text": "Das 5. Dialogforum Generative KI und Hochschule fand statt unter dem Titel:",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10400,
+      "char_end": 10498,
+      "text": " \"Generative KI und Industrie - Kompetenzen für die digitale Industriewelt in Studium und Lehre\". ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10498,
+      "char_end": 10629,
+      "text": "Impulse für die Veranstaltung gaben:\n- Daniel Valentir (Senior Manager Data, Analytics & Digitalization Infineon): Industrievortrag",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10629,
+      "char_end": 10632,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10632,
+      "char_end": 10733,
+      "text": "Prof. Dr. Alexander Lindworsky (Fakultät 3, HM): Vorstellung des IPB-Labors als Initiative an der HM.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10733,
+      "char_end": 10736,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10736,
+      "char_end": 10790,
+      "text": "Prof. Dr. Marcin Hinz (Fakultät 3, HM): Impulsvortrag.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10790,
+      "char_end": 10807,
+      "text": "\n\n**25.10.2023**\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10807,
+      "char_end": 10868,
+      "text": "Reality Check: Chatbots in der Lehre. Ein Rückblick im Video.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10868,
+      "char_end": 10898,
+      "text": "\n\n## Studie zu Generativer KI\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10898,
+      "char_end": 10987,
+      "text": "Die Entwicklungen im Bereich der Generativen KI betreffen Hochschulen in besonderem Maße.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10988,
+      "char_end": 11115,
+      "text": "Gleichzeitig wissen wir noch wenig darüber, in welchem Ausmaß Generative KI bereits an bayerischen Hochschulen eingesetzt wird.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11116,
+      "char_end": 11315,
+      "text": "Aus diesem Grund führte das Forschungs- und Innovationslabor Digitale Lehre (fidl) die Studie „Einsatz, Nutzen und Grenzen von ChatGPT bzw. anderen Large Language Modellen an bayerischen HAWs“ durch.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11316,
+      "char_end": 11376,
+      "text": "Die Studie ist auf der fidl-Webseite als Download verfügbar.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11376,
+      "char_end": 11533,
+      "text": "\n\n## Forschungs- & Innovationslabor Digitale Lehre\n\n## Einblicke und Stimmen\n\n**Prof. Dr. Angelika Beranek, Fakultät für angewandte Sozialwissenschaften.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11533,
+      "char_end": 11732,
+      "text": "Generative KI verändert unsere Gesellschaft grundlegend. Daher ist es unerlässlich, dass wir als Lehrende diesen Wandel aktiv mitgestalten, damit KI sozial, ökonomisch und ökologisch nachhaltig wird.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11732,
+      "char_end": 11797,
+      "text": "\"\n\n**Dr. rer. nat. Benedikt Zönnchen, Studienfakultät MUC.DAI**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11797,
+      "char_end": 11906,
+      "text": "Wir erforschen, wie KI-Werkzeuge behutsam und effektiv in Grundlagenveranstaltungen integriert werden können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11906,
+      "char_end": 11984,
+      "text": "\"\n\n**Prof. Emily Engelhardt, Fakultät für angewandte Sozialwissenschaften.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11984,
+      "char_end": 12127,
+      "text": "Mir ist wichtig, dass meine Studierenden verstehen, wie generative KI funktioniert und welche Auswirkungen sie auch auf die Soziale Arbeit hat.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12127,
+      "char_end": 12177,
+      "text": "\"\n\n**Prof. Ralph Buchner, Fakultät für Design.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12177,
+      "char_end": 12264,
+      "text": "Wir experimentieren mit Text-zu-Bild-Generatoren zur Unterstützung von Kreativprozessen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12264,
+      "char_end": 12322,
+      "text": "\"\n\n**Prof. Dr. Gudrun Socher, Studienfakultät MUC.DAI.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12322,
+      "char_end": 12393,
+      "text": "Ich erstelle mit ChatGPT Programmieraufgaben und Quizzes für die Lehre.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12393,
+      "char_end": 12484,
+      "text": "\"\n\n**Prof. Dr. Sophie Hobrack, Fakultät Maschinenbau, Fahrzeugtechnik, Flugzeugtechnik.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12484,
+      "char_end": 12609,
+      "text": "Ich nutze Generative KI in der Lehre für Gruppenarbeiten, im Rahmen derer sich Studierende in neue Themengebiete einarbeiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12609,
+      "char_end": 12702,
+      "text": "\"\n\n**Prof. Dr. Florian Nafz, Fakultät für Technische Systeme, Prozesse und Kommunikation.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12702,
+      "char_end": 12830,
+      "text": "Studierende lernen passende Prompts zu formulieren, sowie die Stärken und Schwächen der unterschiedlichen Modelle einzuschätzen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12830,
+      "char_end": 12913,
+      "text": "\"\n\n**Prof. Dr. Katja Stoppenbrink, Fakultät für angewandte Sozialwissenschaften**\n„",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12913,
+      "char_end": 12989,
+      "text": "Ich nutze Generative KI als Ideengeberin, aber auch zur eigenen Überprüfung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12989,
+      "char_end": 13051,
+      "text": "“\n\n**Dr. Marcus Müller-Ostermaier, Leitung Graduate School**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13051,
+      "char_end": 13167,
+      "text": "Wir testen und überprüfen den Einsatz von KI-Tools für die Nutzung durch den wissenschaftlichen Nachwuchs an der HM.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13167,
+      "char_end": 13267,
+      "text": "\"\n\n**Prof. Dr. Ralph-Miklas Dobler, Fakultät für Studium Generale und Interdisziplinäre Studien.**\n\"",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13267,
+      "char_end": 13461,
+      "text": "Ich versuche, die Studierenden durch aktuelle Anwendungsbeispiele sowie mit einer nachhaltigen, diachronen Perspektive für die Wechselwirkungen zwischen Mensch, KI und Kultur zu sensibilisieren.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13461,
+      "char_end": 13730,
+      "text": "\"\n\n**Prof. Dr. Christian Gärtner, Fakultät für Betriebswirtschaft**\n\"Studierende lernen unter anderem die Möglichkeiten und Grenzen von ChatGPT beim Generieren von Interviewfragen für Personalauswahlgespräche kennen\".\n\n## Lehrkompetenz\n\n### Kurse für Hochschullehrende\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13730,
+      "char_end": 13886,
+      "text": "Der KI-Campus ist die Lernplattform für Künstliche Intelligenz mit kostenlosen Online-Kursen, Videos und Podcasts zur Stärkung von KI- und Datenkompetenzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13887,
+      "char_end": 13987,
+      "text": "Als F&E-Projekt wird der KI-Campus vom Bundesministerium für Bildung und Forschung (BMBF) gefördert.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13987,
+      "char_end": 14004,
+      "text": "\n\nKI-Campus\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14004,
+      "char_end": 14035,
+      "text": "Frei verfügbarer Prompt-Katalog",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14036,
+      "char_end": 14196,
+      "text": "Die Ergebnisse des \"Prompt-Labor: Generative KI in der Hochschullehre\", veranstaltet von Hochschulforum Digitalisierung und KI-Campus, sind dokumentiert worden.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14197,
+      "char_end": 14360,
+      "text": "Der entstandene Katalog erfolgreich eingesetzter Prompts aus Anwendungskontexten im Bereich der Hochschullehre steht öffentlich zur Wiederverwendung zur Verfügung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14360,
+      "char_end": 14399,
+      "text": "\n\nFrei verfügbarer Prompt-Katalog\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14399,
+      "char_end": 14437,
+      "text": "Selbstlernmaterialien zum Prompt-Labor",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14438,
+      "char_end": 14568,
+      "text": "Beim Prompt-Labor, das sich gerade in der Durchführung befindet, haben Teilnehmende Zugang zu verschiedenen Selbstlernmaterialien.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14569,
+      "char_end": 14664,
+      "text": "Diese Materialien stehen allen Interessierten auch über die Live-Sessions hinaus zur Verfügung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14664,
+      "char_end": 14727,
+      "text": "\n\n### Netzwerk Landeseinrichtungen für digitale Hochschullehre\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14727,
+      "char_end": 14946,
+      "text": "Veranstaltungstermine und viele Informationen finden sich unter anderem auf der Webseite des Netzwerks Landeseinrichtungen für digitale Hochschullehre, einem Zusammenschluss von E-Learning-Einrichtungen aus Deutschland.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14948,
+      "char_end": 15005,
+      "text": "Netzwerk Landeseinrichtungen für digitale Hochschullehre.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15005,
+      "char_end": 15056,
+      "text": "\n\n## Kontakt\nStabsabteilung Innovative Lehre\nE-Mail",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

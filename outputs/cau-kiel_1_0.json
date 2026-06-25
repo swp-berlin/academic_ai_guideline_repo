@@ -1,0 +1,2690 @@
+{
+  "doc_id": "cau-kiel_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative KI bezeichnet eine Klasse von Systemen, die auf Grundlage umfangreicher Trainingsdaten neue Inhalte (z. B. Texte, Bilder, Code oder Videos) erzeugen können.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Technisch basieren viele dieser Systeme auf sogenannten Large Language Models (LLMs) wie GPT (OpenAI), Claude (Anthropic), Llama (Meta) oder Gemini (Google).",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Diese Sprachmodelle erzeugen ihre Textausgabe mit Hilfe eines künstlichen neuronalen Netzes, das Wahrscheinlichkeiten für mögliche Fortsetzungen ermittelt.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Statt ganzer Wörter werden dabei sogenannte Token verwendet. Token sind kleine Spracheinheiten wie Wörter, Wortteile oder Zeichen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Die Fortsetzung der Texteingabe erfolgt stochastisch: Jedes Token wird gewichtet und beeinflusst, wie das nächste Token ausgewählt wird. Häufigere Token werden bevorzugt, doch auch weniger wahrscheinliche Token können gelegentlich ausgewählt werden. So entstehen Texte, die variabel und natürlich wirken. Daher kann dieselbe Eingabe zu unterschiedlichen Ausgaben führen, da das Modell die nächste Spracheinheit auf Grundlage von Wahrscheinlichkeiten und mit einem gewissen Zufallsanteil auswählt.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Obwohl diese Modelle kein wirkliches Sprachverständnis besitzen, können sie es überzeugend simulieren.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Durch gut strukturierte Aufgabenstellungen in den Texteingaben (Prompting) lassen sich zunehmend komplexere Aufgaben bearbeiten. Die Ergebnisse müssen jedoch stets kritisch geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In der Regel nein. Die Nutzung großer generativer KI-Systeme ist datenschutzrechtlich problematisch, da personenbezogene Daten häufig an Anbieter außerhalb der EU (z. B. in die USA oder China) übermittelt werden können. Dabei besteht keine vollständige Kontrolle über die Datenverarbeitung. Die Anforderungen der DSGVO sind in diesen Fällen nicht vollständig gewährleistet.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Viele generative KI-Tools unterliegen Datenschutzbestimmungen, die nicht mit der DSGVO vereinbar sind. Für Studium und Lehre sollten daher bevorzugt datenschutzkonforme Zugänge genutzt werden, bei denen keine personenbezogenen Daten direkt an die Anbieter übermittelt werden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Für den Einsatz im Hochschulkontext empfehlen sich daher Plattformen, die einen geregelten und datenschutzkonformen Zugriff auf generative KI ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Mit ChatAI stellt die Academic Cloud eine Umgebung bereit, in der verschiedene aktuelle Sprachmodelle wie LLaMA, Qwen oder DeepSeek R1 datenschutzkonform getestet werden können. Der Zugang erfolgt über Single Sign-On auch für Hochschulangehörige der CAU. Nutzer*innen können System-Prompts definieren, die Kreativität bzw. Antwortvielfalt über sogenannte Temperature-Werte steuern und unterschiedliche Modelle gezielt vergleichen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Empfohlen für: Lehrende, die unterschiedliche LLMs ausprobieren und vergleichen möchten.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "HAWKI ist ein Open Source Tool, das im Hintergrund an ChatGPT von OpenAI angebunden ist und für akademische Bedarfe entwickelt wurde. Es ermöglicht den datenschutzkonformen Einsatz von ChatGPT, da keine Einzelpersonen identifizierbar sind. Sie loggen sich also nur im HAWKI-Interface ein und nicht bei OpenAI.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der KI-Campus ist eine nationale Lernplattform, die kostenlose Weiterbildungsangebote im Bereich KI bereitstellt. In diesem Rahmen kann die Schnittstelle HAWKI genutzt werden. Die Nutzung erfolgt nach Registrierung auf der Plattform und ist an den jeweiligen didaktischen Kontext der Lernangebote gebunden. Die Nutzung von HAWKI über den KI-Campus dient in erster Linie der individuellen Weiterbildung und kann sinnvoll sein, um Funktionsweisen und Anwendungsmöglichkeiten generativer KI unter kontrollierten Bedingungen kennenzulernen.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Es gibt mittlerweile kleinere Sprachmodelle, die lokal auf dem eigenen Rechner installiert und genutzt werden können. Zu diesen sogenannten Open-Source-Modellen gehören beispielsweise Mistral (von Mistral AI) und Llama (von Meta). Empfehlenswert ist das Sprachmodell Teuken, eine Open-Source-Entwicklung des Fraunhofer IAIS im Rahmen des Forschungsprojekts OpenGPT-X. Es wurde mit Fokus auf europäische Datenschutzstandards entwickelt: https://www.iais.fraunhofer.de/de/branchen-themen/themen/generative-ki/opengpt-x.html",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lokal installierte Sprachmodelle ermöglichen eine einfache Texterstellung, ohne dass Daten an externe Server übermittelt werden. Damit bieten sie eine datenschutzfreundliche Alternative zu webbasierten Lösungen, insbesondere bei sensiblen Inhalten.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zum Ausführen solcher Modelle können Tools wie GPT4All (https://www.nomic.ai/gpt4all) verwendet werden. GPT4All ist kein eigenständiges Sprachmodell, sondern eine Plattform, die es erleichtert, verschiedene kleinere Sprachmodelle lokal herunterzuladen, zu verwalten und über eine benutzerfreundliche Oberfläche zu nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es ist ein ausreichend leistungsfähiger Rechner erforderlich. Allerdings können bereits viele aktuelle Dienstrechner kleinere Sprachmodelle in akzeptabler Geschwindigkeit ausführen.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Diese Modelle verfügen nicht über das umfassende Weltwissen großer Systeme wie ChatGPT, enthalten jedoch durchaus aktuelle Informationen. Aufgrund ihrer geringeren Größe sind sie im Funktionsumfang etwas eingeschränkt. Sie eignen sich dennoch gut für die Erzeugung kurzer Texte.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Typische Einsatzszenarien sind die Erstellung von Formulierungshilfen, Entwürfe für E-Mails, Veranstaltungsbeschreibungen, die Korrektur von Textpassagen oder das strukturierte Sammeln von Ideen und Argumenten.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Viele frei zugängliche generative KI-Tools, z. B. ChatGPT (OpenAI), Claude (Anthropic) oder Gemini (Google), werden von kommerziellen Anbietern außerhalb der EU betrieben. Die Nutzung erfolgt in der Regel über ein persönliches Nutzerkonto. Die Verarbeitung der Daten unterliegt den Bedingungen des jeweiligen Anbieters.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Werden meine Eingaben gespeichert?",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ja. Bei den meisten Anbietern werden die Eingaben auf Servern gespeichert, die häufig in den USA oder anderen Drittstaaten stehen. Selbst wenn Chatverläufe gelöscht werden, werden sie bis zu 30 Tage zwischengespeichert. Aus datenschutzrechtlicher Perspektive kann nicht ausgeschlossen werden, dass eingegebene Daten analysiert, an Dritte weitergegeben oder langfristig gespeichert werden. Dies birgt insbesondere bei der Verarbeitung personenbezogener oder sensibler Informationen das Risiko, dass diese Daten in anderen Kontexten genutzt werden, beispielsweise durch Behörden in Ländern außerhalb der EU.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Werden meine Daten zum Training verwendet?",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Standardmäßig ja. Es sei denn, Sie deaktivieren diese Funktion (sofern verfügbar). Bei ChatGPT können Sie dies unter Einstellungen → Datenkontrollen → „Das Modell für alle verbessern“ ausschalten. Wenn diese Option aktiv ist, können Ihre Eingaben zur Verbesserung zukünftiger Modelle verwendet werden. Es kann jedoch nicht vollständig garantiert werden, dass die Deaktivierung dieser Funktion technisch zuverlässig umgesetzt wird und die Daten tatsächlich nicht für Trainingszwecke genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Können Personen identifiziert werden?",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ja, potenziell. Die Anmeldung erfolgt meist über personenbezogene Daten wie E-Mail-Adresse oder Kreditkarte. Auch ohne direkte Angaben ist es nicht ausgeschlossen, dass einzelne Personen durch sprachliche Merkmale oder Inhalte der Texteingabe identifizierbar sind, insbesondere bei wiedererkennbaren Schreibstilen oder spezifischen Angaben.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn Sie ChatGPT über eine Schnittstelle wie HAWKI nutzen, werden keine persönlichen Nutzungsdaten an OpenAI übermittelt. Die Nutzung erfolgt anonymisiert über eine zwischengeschaltete Infrastruktur, in der keine personenbezogenen Informationen übertragen oder gespeichert werden.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ihre Texteingaben werden nicht mit einem Nutzerkonto verknüpft.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Daten dienen nicht dem Training zukünftiger Modelle.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine Identifizierung einzelner Personen ist kaum möglich, solange keine personenbezogenen Daten eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Auch bei der Nutzung datenschutzfreundlicher Schnittstellen wie HAWKI sollten keine sensiblen oder personenbezogenen Daten in den Text eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Unabhängig davon, ob ein KI-System direkt oder über eine datenschutzkonforme Schnittstelle wie HAWKI genutzt wird: Keinesfalls sollten persönliche, vertrauliche, personenbezogene, forschungsbezogene oder medizinische Daten eingegeben werden. Für sensible und zu schützende Daten bieten sich lokale KI Modelle (z. B. über GPT4All) an.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Hersteller übernehmen keine Haftung für fehlerhafte Antworten. Die Nutzenden stehen in der vollen Verantwortung für die Antworten, wenn sie diese nutzen oder publizieren. Die Nutzenden stehen jederzeit in der Prüfpflicht.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "In der Lehre kann z.B. generative KI experimentell in Teilen einer Lehrveranstaltung im Kontext des Faches eingesetzt werden, indem typische fachliche Fragen oder Problemstellungen an das Tool gestellt werden. Anschließend kann über die Güte der Antworten kritisch reflektiert werden: Wie objektiv sind die Ergebnisse, welche Verzerrungen (Bias) ergeben sich durch die Auswahl von Qualität und Quantität spezifischer Trainingsdaten, inwieweit wird Diversität beachtet, wie wird mit ethischen Herausforderungen umgegangen, welche Grenzen hat das Tool, wann treten Halluzinationen auf?",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Halluzinationen sind vom KI-System erzeugte Inhalte, die zwar plausibel klingen, aber inhaltlich falsch, erfunden oder nicht überprüfbar sind.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ein reflektierter Umgang mit (generativer) KI wird zunehmend wichtiger für die Praxis von Wissenschaft, Gesellschaft und Wirtschaft.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI kann vielseitig eingesetzt werden, insbesondere für Inspiration und Ideenfindung, Recherche und Datenaufbereitung, Textarbeit und Sprachunterstützung, Lernunterstützung und Prüfungsvorbereitung sowie technische und kollaborative Anwendungen. Möglich sind Ein- und Ausgaben von Medien wie PDF-Dateien, Bildern, Ton und Video. Es ist darauf zu achten, kein fremdes Material in einem Umfang hochzuladen, der gegen das Urheberrecht verstößt, und keine personenbezogenen Daten ohne ausdrückliche Zustimmung zu verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "als Inspirationsquelle und zum Brainstorming,",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur Themenfindung bei schriftlichen Arbeiten",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Konkretisieren einer Fragestellung",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "bei der Recherche (wissenschaftlicher) Quellen",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur Aufbereitung von Daten (Transkription von Interviews, Visualisierung von Ergebnissen, Erstellung von Grafiken und Interpretation etc.)",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum selektiven Lesen",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Strukturieren und Gliedern",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Erstellen von Übersichten und Tabellen",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur inhaltlichen Überarbeitung und Prüfung der Argumentationsstruktur von Texten",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Übersetzen in diverse Sprachen",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum sprachlich-stilistischen Überarbeiten (z. B. bestimmte Stilebenen, nach Verständlichkeitskriterien) oder zur Grammatik- und Rechtschreibkorrektur",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "für Feedback auf Texte und andere Leistungen",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur Vorbereitung von Klausuren und mündlichen Prüfungen, indem der Chatbot etwa die Rolle eines persönlichen Tutors oder einer Prüferin erhält und mögliche Prüfungs- oder Quizfragen erstellt",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Klären von Verständnisfragen und als Einstieg zur Erklärung von Begriffen und Konzepten",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur Unterstützung von Programmierungen (inkl. Fehlersuche), Simulationen, Berechnungen und Problemlösungen",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zum Erstellen von Code für angepasste Funktionen",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "zur Unterstützung kollaborativen Arbeitens",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Das Team Digitale Lehre des Referats Lehrentwicklung berät Sie gern zur Nutzung und didaktischer Einbindung von generativer KI in Studium und Lehre und bietet zusätzlich Veranstaltungsangebote für Studierende und Lehrende an.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Auch die Wissenschaftliche Weiterbildung der CAU bietet Workshops zu Themen der generativen KI.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Stabsstelle Diversität unterstützt Sie darüber hinaus bei Fragen zu Unconscious Bias und Data Bias im Kontext generativer KI, insbesondere im Hinblick auf mögliche Diskriminierung durch algorithmische Verzerrungen und deren Auswirkungen auf Chancengleichheit im Sinne des Allgemeinen Gleichbehandlungsgesetzes (AGG).",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Zudem unterstützt und berät das Team Studieneingangsphase an der Universitätsbibliothek Kiel bei der Anwendung von KI im wissenschaftlichen Arbeiten, insbesondere im Hinblick auf Recherche und wissenschaftliches Schreiben.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Bei rechtlichen Fragen wenden Sie sich bitte an die Prüfungsämter. Diese veranlassen ggf. die weitere Prüfung durch das Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten (S11).",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Entscheidung darüber treffen, wie bei anderen Hilfsmitteln auch, die Lehrenden / Prüfenden auf Grundlage des Prüfungsziels.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird die Nutzung zugelassen, muss diese transparent gemacht werden, indem generierte Inhalte klar gekennzeichnet und folgende Angaben gemacht werden: das verwendete Tool, das Datum, der Prompt sowie ggf. weitere Details, die die Lehrenden vorgeben können. Auch die Nutzung als Hilfsmittel muss explizit angegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Ungekennzeichnete Textübernahmen oder die sinngemäße Übernahme von durch KI generierten Inhalten werden, soweit nachweisbar, als Täuschungsversuch gewertet. Gleiches gilt für die Nutzung generativer KI als Hilfsmittel entgegen eines ausdrücklichen Verbots oder bestehender Vorgaben.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Außerhalb von Prüfungen (z. B. bei der Prüfungsvorbereitung) kann die Nutzung von KI-Tools nicht generell untersagt werden. Die Übernahme von Texten oder Argumentationslinien in eigene Arbeiten ohne Kennzeichnung bleibt jedoch unzulässig und widerspricht den Grundsätzen wissenschaftlicher Redlichkeit.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative KI ist im klassischen Sinne nicht zitierfähig, da es keine identifizierbaren physischen Urheber*innen bzw. Autor*innen gibt.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dennoch kann mit den Ausgaben generativer KI wissenschaftlich gearbeitet werden, sofern die Nutzung transparent gemacht wird. Dazu gehören Angaben zum verwendeten Tool, zur Version, zum Zeitpunkt und zum Prompt. Generative KI kann somit als Hilfsmittel genutzt werden, wobei die Ergebnisse stets kritisch geprüft und korrekt deklariert werden müssen.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "In allen Fällen gilt, dass keine vertraulichen, personenbezogenen oder medizinischen Daten eingegeben werden dürfen.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In jedem Fall sollte im Vorfeld geklärt werden, ob und in welchem Umfang die Nutzung generativer KI erlaubt werden soll. Dies sollte in der Eigenständigkeitserklärung dokumentiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "In der Regel nicht. Da Systeme wie ChatGPT nicht DSGVO-konform betrieben werden, ist es nicht zulässig, Studierende zur Nutzung solcher Tools zu verpflichten, insbesondere nicht über persönliche Konten oder unter Angabe personenbezogener Daten. Zudem verfügen nicht alle Studierenden über die Voraussetzungen, um kommerzielle KI-Dienste nutzen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wenn der Einsatz generativer KI in einer Lehrveranstaltung vorgesehen ist, sollte dieser freiwillig, transparent und gut begründet erfolgen, idealerweise über datenschutzkonforme Schnittstellen. Deshalb ist bei der Konzipierung von Prüfungen darauf zu achten, dass die Nutzung nicht verpflichtend gemacht werden darf.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Ja, Lehrende können die Nutzung generativer KI-Tools im Rahmen ihrer Prüfungen untersagen.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um sicherzustellen, dass Prüfungsleistungen tatsächlich eigenständig erbracht werden, ist es sinnvoll, die Aufgaben so zu gestalten, dass sie eigenständiges Denken und die Anwendung von Wissen erfordern, anstatt sich leicht durch KI beantworten zu lassen.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Je nach Prüfungsziel können auch Aufsichtsprüfungen ohne Internetzugang ein geeignetes Format darstellen. Sie ermöglichen die gezielte Überprüfung von Transferleistungen, grundlegenden fachlichen Kenntnissen, argumentativen Fähigkeiten und strukturierten Problemlösungsprozessen.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Aus Gründen des Urheberrechts, des Datenschutzes sowie wegen der Gefahr unzuverlässiger Ergebnisse (false positives) ist der Einsatz von KI-Detektionstools, die nicht ausdrücklich von der CAU autorisiert wurden, nicht zulässig. Wenden Sie sich in Verdachtsfällen bitte an das zuständige Prüfungsamt, um das weitere Vorgehen abzustimmen.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Siehe auch die Frage „Kann die Nutzung von generativer KI rechtssicher identifiziert werden?“",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es gibt nach deutschem Recht kein Urheberrecht für KI generierte Inhalte, da dies nur physischen Autor*innen zugestanden wird. Verwertungsrechte sind ebenso nicht vorgesehen und weder vom Hersteller noch von den Nutzenden einforderbar.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Allerdings könnte es für die Schaffung von Prompts ab einer gewissen Schöpfungshöhe urheberrechtlichen Schutz geben (dazu gibt es bisher noch keine Rechtsprechung).",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wird generierter Text im Prüfungskontext als eigener ausgegeben, ist dies als Täuschung anzusehen.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wenn generative KI als Reflexionstool genutzt wird, um den eigenen Schreibstil zu verbessern, und Studierende weiterhin eigenständig schreiben, kann die Nutzung lernförderlich sein. Werden Texte 1:1 kopiert und ermöglichen Aufgaben, dass keine Zeit in die Entwicklung des eigenen Stils investiert werden muss, kann dies dazu führen, dass das Lernziel verfehlt wird.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Mit De-Skilling ist gemeint, dass bestimmte Fähigkeiten durch die dauerhafte Nutzung technischer Hilfsmittel nach und nach verloren gehen oder gar nicht erst aufgebaut werden. Ähnliche Diskussionen wurden bereits beim Einsatz von Taschenrechnern diskutiert.",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Grundwissen und Basiskompetenzen werden jedoch auch unabhängig von KI erworben. Entscheidend ist, diesen Aspekt didaktisch zu integrieren und ggf. durch alternative Prüfungsformate sicherzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lehrformate wie ‚Forschendes Lernen‘, problemorientiertes Lernen oder projektbasiertes Lernen unterstützen Studierende dabei, Basiskompetenzen eigenständig zu entwickeln und zu vertiefen. Durch die aktive Auseinandersetzung mit Inhalten und Prozessen können nachhaltige Lernergebnisse gefördert werden.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungen können so gestaltet werden, dass sie Eigenleistungen sichtbar machen. Neben geschlossenen, kontrollierten Prüfungssettings sind auch alternative Formate denkbar, die stärker an die oben genannten Lehr-Lernformate anschließen. Dazu zählen beispielsweise Portfolios, in denen der Arbeitsprozess und die Reflexion dokumentiert werden, mündliche Prüfungen oder Verteidigungen, projektorientierte Leistungsnachweise sowie Aufgabenstellungen, die Transferleistungen und eigenständige Problemlösungen erfordern und sich nicht ohne Weiteres durch KI bearbeiten lassen.",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Um diese Ansätze nachhaltig zu verankern, kann es erforderlich sein, entsprechende Anpassungen in den Prüfungsordnungen vorzunehmen.",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ob die gestellten Aufgaben durch generative KI gelöst werden können oder ob KI unerwünschte Hilfestellung bietet, lässt sich nur durch das direkte Testen der Fragestellungen oder Aufgaben in ChatGPT/HAWKI (oder ähnlichen Tools) feststellen.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Insbesondere für deutschsprachige und weniger kanonische Texte ist die Datenbasis in ChatGPT derzeit begrenzt. Es ist unwahrscheinlich, dass weniger bekannte, nicht digitalisierte oder urheberrechtlich geschützte wissenschaftsrelevante Werke in den Trainingsdaten enthalten sind. Implizite Literaturkenntnis stammt tendenziell eher aus frei verfügbaren Sekundärquellen wie Wikipedia. In den Trainingsdaten sind jedoch sehr wahrscheinlich offen zugängliche wissenschaftliche Publikationen oder ältere digitalisierte Bücher (nach Ablauf des Urheberrechts) enthalten.",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Fokus sollte nicht nur auf der Reproduktion von Faktenwissen liegen. Stattdessen sollten kompetenzorientierte Prüfungsformen gewählt werden, die empirische Forschung reflektieren, eigenständiges Denken und genuin Neues fördern sowie Erkenntnisse aus forschungsorientierten Lernprozessen mit wissenschaftlichem Anspruch bewerten. KI-Tools werden zunehmend ein fester Bestandteil der wissenschaftlichen Arbeit. Für die fachspezifische Integration von KI kann eine didaktische Beratung gezielt unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Es sollte eine Gleichbehandlung stattfinden, das heißt es muss ein einheitlicher Prüfungsmaßstab angewandt werden. Wenn die reflektierte und dokumentierte Nutzung generativer KI-Tools erlaubt ist, darf daraus keine Benachteiligung für die Nutzenden entstehen. Ebenso darf der Verzicht auf die Nutzung von KI nicht zu einer schlechteren Bewertung führen.",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Fehlerhafte Ergebnisse werden in beiden Fällen gleichermaßen abgewertet, unabhängig davon, ob sie mit oder ohne KI entstanden sind. Die unerlaubte Nutzung generativer KI ist als ein Täuschungsversuch zu bewerten.",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Da in ChatGPT ein Zufallsparameter (‚temperature‘) mitwirkt, folgt auf den gleichen Prompt niemals dieselbe Antwort. Es lässt sich also prinzipiell keine 1:1-Kopie nachweisen. Diese technische Besonderheit macht es umso wichtiger, mögliche Täuschungsabsichten ausschließlich auf Grundlage menschlicher Expertise sowie unter Berücksichtigung der rechtlichen Vorgaben der Prüfungsordnungen und ggf. der Prüfungsausschüsse zu beurteilen. Nur so können Entscheidungen rechtskonform, fair und verantwortungsvoll getroffen werden.",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Prüfungsdaten der Studierenden sind als personenbezogene Daten anzusehen. Aus Gründen des Datenschutzes und des Urheberrechts dürfen sie ohne die ausdrückliche Zustimmung der Studierenden oder eine klare Regelung in den Prüfungsordnungen nicht in KI-Detektionstools eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Da die meisten Detektionstools in den USA gehostet werden und dort Daten zwischengespeichert werden, steht der Einsatz solcher Systeme ohne ausdrückliche Einwilligung der Studierenden im Widerspruch zur DSGVO und zum Urheberrecht.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem gelten Detektionstools, die zur Aufdeckung möglicher Täuschungsabsichten genutzt werden, nach dem EU AI Act als Hochrisiko-Anwendungen. Für diese bestehen strenge Anforderungen an Dokumentation, KI-Kompetenzen und den Einbezug menschlicher Entscheidungen. Ab August 2026 sind diese Regelungen für alle Hochrisiko-KI-Anwendungen verbindlich.",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zwar existieren verschiedene Systeme (z. B. Quillbot AI Content Detector https://quillbot.com/ai-content-detector) zur stochastischen Detektion von KI-generierten Texten, jedoch sind sie in vielerlei Hinsicht weder zuverlässig noch rechtssicher. Die zur Detektion eingesetzten Methoden und Algorithmen sind häufig intransparent. Diese geben lediglich Wahrscheinlichkeiten an, ob ein Text von einer KI oder von Menschen verfasst wurde.",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zudem weisen KI-Detektionstools eine sehr hohe Fehlerquote (false positives) auf und dürfen nicht als alleinige Grundlage für Verdächtigungen oder Sanktionen dienen. Das oft genannte Detektionstool der FH Wedel wurde zudem auf ChatGPT-3.5 trainiert und ist, wie alle anderen Detektionstools, mit erheblichen Unsicherheiten verbunden. Für aktuelle ChatGPT Versionen ist es daher nicht mehr geeignet.",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Unbewusste Annahmen darüber, wie ‚gute wissenschaftliche Texte‘ auszusehen haben, können zusammen mit systematischen Verzerrungen (Bias) der Tools dazu führen, dass sprachliche Besonderheiten oder individuelle Schreibstile fälschlich als KI-generiert eingestuft werden. Dies kann unbeabsichtigt bestimmte Studierendengruppen benachteiligen und das Vertrauen in faire Prüfungen untergraben.",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lehrende sollten sich dieser Problemlagen bewusst sein und Aufgabenstellungen sowie Prüfungsformate so gestalten, dass eigenständiges Arbeiten und Reflexion im Mittelpunkt stehen. Wenn KI-Nutzung erlaubt ist, müssen Studierende dies transparent kennzeichnen. In Verdachtsfällen kann nur auf herkömmlichen Weg eine ausreichende Beweislage herbeigeführt werden.",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Hiermit zusammenhängende Fragen sind in der Rechtsprechung noch nicht hinreichend geklärt – bitte wenden Sie sich im Zweifelsfall an das Prüfungsamt, das den Sachverhalt bei Bedarf in Rücksprache mit dem Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten prüft.",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Wir empfehlen den Einsatz von Detektionstools ausschließlich zu Testzwecken und auf freiwilliger Basis mit eigenen Daten, um Erfahrungen mit der Qualität und Güte der Ergebnisse zu sammeln.",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Nein. Generative KI darf nicht eingesetzt werden, um Bewertungen oder Entscheidungen über Prüfungsleistungen zu treffen. Derartige Anwendungen gelten nach dem EU AI Act als Hochrisiko-Systeme und unterliegen strengen regulatorischen Anforderungen. Auch aus prüfungsrechtlicher Sicht muss in jedem Fall die abschließende Bewertung und Entscheidung durch eine verantwortliche Person erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ja, Lernmaterialien müssen in diesem Fall besonders sorgfältig auf inhaltliche Richtigkeit, mögliche Verzerrungen (Bias) und Stereotype Darstellungen geprüft werden. Zudem muss transparent gemacht werden, wenn Inhalte und Materialien mithilfe generativer KI produziert wurden.",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Freiheit von Lehre und Forschung ist ein hohes Gut, weshalb es keine allgemeinen Regelungen gibt, die diese einschränken. Allerdings gelten die Prüfungsordnungen der Fachbereiche und Fakultäten sowie die etablierten Kriterien für wissenschaftliches Arbeiten und Datenschutz.",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dazu zählen insbesondere die Eigenständigkeit der erbrachten Leistungen, die Angabe der verwendeten Hilfsmittel, die Überprüfung der Quellen und das Einhalten gängiger Zitationsregeln.",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Eine gute Empfehlung sind die Leitlinien der DFG: https://www.dfg.de/de/service/presse/pressemitteilungen/2023/pressemitteilung-nr-39",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Eine aktuelle Vorlage für die Eigenständigkeitserklärung mit KI-Hinweis steht Ihnen auf der Webseite Digitale Lehre zur Verfügung: https://www.digitale-lehre.uni-kiel.de/de/ki-anwendungen-pruefungen. Die Vorlage kann an die fachspezifischen Anforderungen angepasst werden. Eine Rücksprache mit dem Prüfungsamt insbesondere in Bezug auf fakultätsinterne Standards wird jedoch empfohlen.",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende sollten generative KI als Hilfsmittel nutzen dürfen, sofern Lehrende dies didaktisch sinnvoll eingebunden haben und explizit erlauben. Die Nutzung sollte stets dokumentiert, offengelegt, gekennzeichnet und reflektiert werden. Weder eine pauschale Erlaubnis noch ein generelles Verbot wäre sinnvoll.",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Empirische Studien zeigen, dass inzwischen circa 60–65 % der Studierenden generative KI-Tools wie ChatGPT oder GPT-4 regelmäßig im Studium einsetzen. Die quantitative Studie von Garrel, Mayer & Mühlfeld (2023) bestätigt diese hohe Nutzungsrate, ebenso wie eine ergänzende Umfrage von Hahn (2024) mit über 4000 Teilnehmenden.",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende setzen KI vor allem als Inspirationsquelle, zur Zeit- und Arbeitssparnis, zum Zusammenfassen von Literatur, für sprachliche Verbesserungen und zielbewusst für Teilhandlungen des wissenschaftlichen Arbeitens ein. Nur ein geringer Anteil nutzt sie entgegen guter wissenschaftlicher Praxis (vgl. Garrel et al., 2023).",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die beliebtesten Tools sind ChatGPT/GPT-4 und das Übersetzungstool DeepL, während bildgenerierende Anwendungen wie DALL-E oder Midjourney deutlich weniger verbreitet sind.",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ja, eigene Zugänge zu ChatGPT oder anderen generativen KI-Tools können genutzt werden, sofern dies mit den Lehrenden bzw. Prüfenden abgesprochen worden ist. Es sollte vorab geklärt werden, ob und welche anderen KI-Tools im Forschungs-, Lehr- und Prüfungskontext zulässig sind.",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wichtig: Privat genutzte KI-Tools unterliegen möglicherweise anderen Datenschutzbestimmungen. Daher dürfen keinesfalls Forschungsdaten, vertrauliche Informationen oder personenbezogene Daten in diese eingegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Open Source Sprachmodelle erfordern eine leistungsfähige Serverinfrastruktur und zusätzliche Personalmittel. Ihre Bereitstellung ist derzeit nicht kurzfristig umsetzbar.",
+      "repaired": false
+    },
+    {
+      "id": 113,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzen Sie lokale KI Modelle auf dem eigenen PC über das Tool GPT4All (https://www.nomic.ai/gpt4all) oder die Modelle, die der KI Campus des Stifterverbandes anbietet: https://chat.ki-campus.org/login.",
+      "repaired": false
+    },
+    {
+      "id": 114,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "## was passiert mit den daten, wenn ich webbasierte generative ki wie chatgpt nutze?",
+      "repaired": true
+    },
+    {
+      "id": 115,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "## was passiert mit den daten, wenn ich eine schnittstelle wie hawki nutze?",
+      "repaired": true
+    },
+    {
+      "id": 116,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "## welche daten sollten nicht eingegeben werden?",
+      "repaired": true
+    },
+    {
+      "id": 117,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## warum kann es sinnvoll sein, generative ki in die eigene lehre zu integrieren?",
+      "repaired": true
+    },
+    {
+      "id": 118,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## wie kann ich generative ki zum lernen und lehren einsetzen?",
+      "repaired": true
+    },
+    {
+      "id": 119,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "wie bekomme ich unterstützung bei der nutzung von generativer ki? wo finde ich materialien, beratungsangebote und workshops zur weiterbildung?",
+      "repaired": true
+    },
+    {
+      "id": 120,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## in welchen prüfungen ist generative ki erlaubt?",
+      "repaired": true
+    },
+    {
+      "id": 121,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## darf ich die verwendung von generativer ki in hausarbeiten erlauben?",
+      "repaired": true
+    },
+    {
+      "id": 122,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## darf ich von studierenden verlangen, generative ki zu nutzen?",
+      "repaired": true
+    },
+    {
+      "id": 123,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "## darf ich die nutzung von generativer ki im kontext meiner prüfungen verbieten?",
+      "repaired": true
+    },
+    {
+      "id": 124,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "## wer verfügt über das urheberrecht für ki generierten text? wann verletze ich ggf. das urheberrecht?",
+      "repaired": true
+    },
+    {
+      "id": 125,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "## studierende sollen weiterhin schreibkompetenzen erwerben. hindert sie die nutzung von generativer ki, wenn sie es ständig als hilfsmittel nutzen?",
+      "repaired": true
+    },
+    {
+      "id": 126,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "## was passiert mit basiskompetenzen und grundwissen, wenn zunehmend ki eingesetzt wird? (problem de-skilling)",
+      "repaired": true
+    },
+    {
+      "id": 127,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "1. generative ki für die lösung keine hilfe bietet?",
+      "repaired": true
+    },
+    {
+      "id": 128,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "2. generative ki so genutzt wird, dass sie zu besseren ergebnissen beiträgt und studierende trotz ki-nutzung die vorgesehenen wissensund kompetenzziele einer lehrveranstaltung oder eines studiengangs nachweislich erreichen können?",
+      "repaired": true
+    },
+    {
+      "id": 129,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "## soll die arbeit von studierenden, die generative ki nutzen, anders bewertet werden als die von studierenden, die keine ki verwenden?",
+      "repaired": true
+    },
+    {
+      "id": 130,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "## kann die nutzung von generativer ki rechtssicher identifiziert werden?",
+      "repaired": true
+    },
+    {
+      "id": 131,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "*dabei sind rechtliche vorgaben zu beachten:*",
+      "repaired": true
+    },
+    {
+      "id": 132,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "*neben den rechtlichen aspekten sind auch die technischen und methodischen grenzen von detektionstools zu berücksichtigen:*",
+      "repaired": true
+    },
+    {
+      "id": 133,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "*hinzu kommen ethische und didaktische fragestellungen:*",
+      "repaired": true
+    },
+    {
+      "id": 134,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "## darf ich generative ki nutzen, um prüfungsleistungen der studierenden zu bewerten?",
+      "repaired": true
+    },
+    {
+      "id": 135,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## darf ich als lehrende*r mit generativer ki lernmaterialien für studierende produzieren?",
+      "repaired": true
+    },
+    {
+      "id": 136,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## welche regelungen gibt es seitens der cau? dürfen studierende uneingeschränkt generative ki nutzen?",
+      "repaired": true
+    },
+    {
+      "id": 137,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "## wie nutzen studierende bisher generative ki und wofür?",
+      "repaired": true
+    },
+    {
+      "id": 138,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## dürfen eigene chatgpt-accounts genutzt werden?",
+      "repaired": true
+    },
+    {
+      "id": 139,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "## warum werden keine open source sprachmodelle angeboten?",
+      "repaired": true
+    },
+    {
+      "id": 140,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## sind webbasierte generative ki-tools dsgvo-konform?",
+      "repaired": true
+    },
+    {
+      "id": 141,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "## welche datenschutzkonformen alternativen sind für studium und lehre geeignet?",
+      "repaired": true
+    },
+    {
+      "id": 142,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## lässt sich generative ki lokal und ohne datenweitergabe einsetzen?",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 142,
+    "matched": 137,
+    "unmatched_count": 5,
+    "unmatched": [
+      {
+        "id": 104,
+        "B": "B6",
+        "matched_words": "8/9",
+        "text": "Eine gute Empfehlung sind die Leitlinien der DFG: https://www.dfg.de/de/service/presse/pressemitteilungen/2023/pressemitteilung-nr-39"
+      },
+      {
+        "id": 126,
+        "B": "B10",
+        "matched_words": "13/14",
+        "text": "## was passiert mit basiskompetenzen und grundwissen, wenn zunehmend ki eingesetzt wird? (problem de-skilling)"
+      },
+      {
+        "id": 128,
+        "B": "B6",
+        "matched_words": "15/28",
+        "text": "2. generative ki so genutzt wird, dass sie zu besseren ergebnissen beiträgt und studierende trotz ki-nutzung die vorgesehenen wissensund kompetenzziele einer lehrveranstaltung oder eines studiengangs nachweislich erreichen können?"
+      },
+      {
+        "id": 138,
+        "B": "B3",
+        "matched_words": "3/6",
+        "text": "## dürfen eigene chatgpt-accounts genutzt werden?"
+      },
+      {
+        "id": 140,
+        "B": "B3",
+        "matched_words": "4/6",
+        "text": "## sind webbasierte generative ki-tools dsgvo-konform?"
+      }
+    ],
+    "source_coverage": 0.903,
+    "uncovered_chars": 2865,
+    "uncovered_gaps": 12,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 323,
+        "length": 323,
+        "text": "# christian-albrechts-universität zu kiel # source: https://www.digitalelehre.unikiel.de/de/kianwendungenpruefungen/downloads/orientierungsleitfadenzurnutzunggenerativerkistandaugust-2025 # date: 2025-08 # category: guideline # orientierungsleitfaden zur nutzung generativer ki stand: august 2025 ## was ist generative ki?"
+      },
+      {
+        "char_start": 1723,
+        "char_end": 1780,
+        "length": 57,
+        "text": ". ## sind webbasierte generative ki-tools dsgvo-konform?"
+      },
+      {
+        "char_start": 2664,
+        "char_end": 2709,
+        "length": 45,
+        "text": ". **chatai über die academic cloud (gwdg):**"
+      },
+      {
+        "char_start": 3227,
+        "char_end": 3279,
+        "length": 52,
+        "text": ". ## hawki über den ki-campus: https://kicampus.org"
+      },
+      {
+        "char_start": 9055,
+        "char_end": 9084,
+        "length": 29,
+        "text": ". ## wer haftet bei fehlern?"
+      },
+      {
+        "char_start": 10841,
+        "char_end": 10871,
+        "length": 30,
+        "text": ". einsatzbereiche sind z. b.:"
+      },
+      {
+        "char_start": 12069,
+        "char_end": 12711,
+        "length": 642,
+        "text": "*vgl. quelle:* girgensohn, k., et al. (2024): forschendes lernen mit ki im sozialwissenschaftlichen ki-labor für forschendes lernen (skill) https://www.researchgate.net/publication/378012557_forschendes_lernen_mit_ki_im_sozialwissenschaftlichen_ki-labor_fur_forschendes_lernen_skill ergänzende literatur: garrel, j. v., & mayer, j. (2025). künstliche intelligenz im studium: eine quantitative längsschnittstudie zur nutzung ki-basierter tools durch studierende (2023 & 2025). hochschule darmstadt, fachbereich gesellschaftswissenschaften. https://opus.kobv.de/opus4-hda/frontdoor/deliver/index/docid/533/file/gptdokumentationfinaljvg.pdf ##"
+      },
+      {
+        "char_start": 18855,
+        "char_end": 18968,
+        "length": 113,
+        "text": ". ## was passiert mit basiskompetenzen und grundwissen, wenn zunehmend ki eingesetzt wird? (problem de-skilling)"
+      },
+      {
+        "char_start": 20429,
+        "char_end": 21067,
+        "length": 638,
+        "text": ". weiterführende literatur: kosmyna, n., hauptmann, e., yuan, y. t., situ, j., liao, x.-h., beresnitzky, a. v., braunstein, i. & maes, p. (2025). your brain on chatgpt: accumulation of cognitive debt when using an ai assistant for essay writing task. arxiv. https://arxiv.org/pdf/2506.08872v (paper draft, has not yet been peerreviewed). reinmann, g. (2023). diskussionspapier de-skilling. https://hochschulforumdigitalisierung.de/wpcontent/uploads/2023/10/hfd_dp_25_deskilling.pdf ## wie können unbeaufsichtigte prüfungen (oder aufgaben) wie hausarbeiten, take-home-klausuren, übungen oder laborberichte so gestaltet werden, dass... ###"
+      },
+      {
+        "char_start": 21923,
+        "char_end": 22160,
+        "length": 237,
+        "text": ". ### 2. generative ki so genutzt wird, dass sie zu besseren ergebnissen beiträgt und studierende trotz ki-nutzung die vorgesehenen wissensund kompetenzziele einer lehrveranstaltung oder eines studiengangs nachweislich erreichen können?"
+      },
+      {
+        "char_start": 28522,
+        "char_end": 28654,
+        "length": 132,
+        "text": ". eine gute empfehlung sind die leitlinien der dfg: https://www.dfg.de/de/service/presse/pressemitteilungen/2023/pressemitteilungnr-"
+      },
+      {
+        "char_start": 30225,
+        "char_end": 30792,
+        "length": 567,
+        "text": ". quellen: garrel, j., mayer, j., mühlfeld, m., (2023). künstliche intelligenz im studium - eine quantitative befragung von studierenden zur nutzung von chatgpt & co. https://opus.kobv.de/opus4-hda/frontdoor/index/index/docid/395 hahn, l. m. (2024). künstliche intelligenz in der hochschullehre: ergebnisse und erkenntnisse aus einer umfrage unter deutschen studierenden im jahr 2024. masterarbeit im fachbereich humanwissenschaften. technische universität darmstadt. https://csp.uber.space/phhd/hahnmasterarbeit.pdf ## dürfen eigene chatgpt-accounts genutzt werden?"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 337,
+      "text": "# Christian-Albrechts-Universität zu Kiel\n# Source: https://www.digitale-lehre.uni-kiel.de/de/ki-anwendungen-pruefungen/downloads/orientierungsleitfaden-zur-nutzung-generativer-ki-stand-august-2025\n# Date: 2025-08\n# Category: guideline\n\n# Orientierungsleitfaden zur Nutzung generativer KI\n\nStand: August 2025\n\n## Was ist generative KI?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 337,
+      "char_end": 504,
+      "text": "Generative KI bezeichnet eine Klasse von Systemen, die auf Grundlage umfangreicher Trainingsdaten neue Inhalte (z. B. Texte, Bilder, Code oder Videos) erzeugen können.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 505,
+      "char_end": 662,
+      "text": "Technisch basieren viele dieser Systeme auf sogenannten Large Language Models (LLMs) wie GPT (OpenAI), Claude (Anthropic), Llama (Meta) oder Gemini (Google).",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 663,
+      "char_end": 818,
+      "text": "Diese Sprachmodelle erzeugen ihre Textausgabe mit Hilfe eines künstlichen neuronalen Netzes, das Wahrscheinlichkeiten für mögliche Fortsetzungen ermittelt.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 819,
+      "char_end": 949,
+      "text": "Statt ganzer Wörter werden dabei sogenannte Token verwendet. Token sind kleine Spracheinheiten wie Wörter, Wortteile oder Zeichen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 951,
+      "char_end": 1447,
+      "text": "Die Fortsetzung der Texteingabe erfolgt stochastisch: Jedes Token wird gewichtet und beeinflusst, wie das nächste Token ausgewählt wird. Häufigere Token werden bevorzugt, doch auch weniger wahrscheinliche Token können gelegentlich ausgewählt werden. So entstehen Texte, die variabel und natürlich wirken. Daher kann dieselbe Eingabe zu unterschiedlichen Ausgaben führen, da das Modell die nächste Spracheinheit auf Grundlage von Wahrscheinlichkeiten und mit einem gewissen Zufallsanteil auswählt.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1449,
+      "char_end": 1551,
+      "text": "Obwohl diese Modelle kein wirkliches Sprachverständnis besitzen, können sie es überzeugend simulieren.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1552,
+      "char_end": 1740,
+      "text": "Durch gut strukturierte Aufgabenstellungen in den Texteingaben (Prompting) lassen sich zunehmend komplexere Aufgaben bearbeiten. Die Ergebnisse müssen jedoch stets kritisch geprüft werden.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1742,
+      "char_end": 1796,
+      "text": "## Sind webbasierte generative KI-Tools DSGVO-konform?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 140,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1798,
+      "char_end": 2171,
+      "text": "In der Regel nein. Die Nutzung großer generativer KI-Systeme ist datenschutzrechtlich problematisch, da personenbezogene Daten häufig an Anbieter außerhalb der EU (z. B. in die USA oder China) übermittelt werden können. Dabei besteht keine vollständige Kontrolle über die Datenverarbeitung. Die Anforderungen der DSGVO sind in diesen Fällen nicht vollständig gewährleistet.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2173,
+      "char_end": 2253,
+      "text": "## Welche datenschutzkonformen Alternativen sind für Studium und Lehre geeignet?",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 141,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2255,
+      "char_end": 2530,
+      "text": "Viele generative KI-Tools unterliegen Datenschutzbestimmungen, die nicht mit der DSGVO vereinbar sind. Für Studium und Lehre sollten daher bevorzugt datenschutzkonforme Zugänge genutzt werden, bei denen keine personenbezogenen Daten direkt an die Anbieter übermittelt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2532,
+      "char_end": 2686,
+      "text": "Für den Einsatz im Hochschulkontext empfehlen sich daher Plattformen, die einen geregelten und datenschutzkonformen Zugriff auf generative KI ermöglichen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2686,
+      "char_end": 2732,
+      "text": "\n\n**ChatAI über die Academic Cloud (GWDG):**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2732,
+      "char_end": 3162,
+      "text": "Mit ChatAI stellt die Academic Cloud eine Umgebung bereit, in der verschiedene aktuelle Sprachmodelle wie LLaMA, Qwen oder DeepSeek R1 datenschutzkonform getestet werden können. Der Zugang erfolgt über Single Sign-On auch für Hochschulangehörige der CAU. Nutzer*innen können System-Prompts definieren, die Kreativität bzw. Antwortvielfalt über sogenannte Temperature-Werte steuern und unterschiedliche Modelle gezielt vergleichen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3164,
+      "char_end": 3252,
+      "text": "Empfohlen für: Lehrende, die unterschiedliche LLMs ausprobieren und vergleichen möchten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3252,
+      "char_end": 3306,
+      "text": "\n\n## HAWKI über den KI-Campus: https://ki-campus.org\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3306,
+      "char_end": 3615,
+      "text": "HAWKI ist ein Open Source Tool, das im Hintergrund an ChatGPT von OpenAI angebunden ist und für akademische Bedarfe entwickelt wurde. Es ermöglicht den datenschutzkonformen Einsatz von ChatGPT, da keine Einzelpersonen identifizierbar sind. Sie loggen sich also nur im HAWKI-Interface ein und nicht bei OpenAI.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3617,
+      "char_end": 4153,
+      "text": "Der KI-Campus ist eine nationale Lernplattform, die kostenlose Weiterbildungsangebote im Bereich KI bereitstellt. In diesem Rahmen kann die Schnittstelle HAWKI genutzt werden. Die Nutzung erfolgt nach Registrierung auf der Plattform und ist an den jeweiligen didaktischen Kontext der Lernangebote gebunden. Die Nutzung von HAWKI über den KI-Campus dient in erster Linie der individuellen Weiterbildung und kann sinnvoll sein, um Funktionsweisen und Anwendungsmöglichkeiten generativer KI unter kontrollierten Bedingungen kennenzulernen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4155,
+      "char_end": 4224,
+      "text": "## Lässt sich generative KI lokal und ohne Datenweitergabe einsetzen?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 142,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4226,
+      "char_end": 4747,
+      "text": "Es gibt mittlerweile kleinere Sprachmodelle, die lokal auf dem eigenen Rechner installiert und genutzt werden können. Zu diesen sogenannten Open-Source-Modellen gehören beispielsweise Mistral (von Mistral AI) und Llama (von Meta). Empfehlenswert ist das Sprachmodell Teuken, eine Open-Source-Entwicklung des Fraunhofer IAIS im Rahmen des Forschungsprojekts OpenGPT-X. Es wurde mit Fokus auf europäische Datenschutzstandards entwickelt: https://www.iais.fraunhofer.de/de/branchen-themen/themen/generative-ki/opengpt-x.html",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4749,
+      "char_end": 4997,
+      "text": "Lokal installierte Sprachmodelle ermöglichen eine einfache Texterstellung, ohne dass Daten an externe Server übermittelt werden. Damit bieten sie eine datenschutzfreundliche Alternative zu webbasierten Lösungen, insbesondere bei sensiblen Inhalten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4999,
+      "char_end": 5320,
+      "text": "Zum Ausführen solcher Modelle können Tools wie GPT4All (https://www.nomic.ai/gpt4all) verwendet werden. GPT4All ist kein eigenständiges Sprachmodell, sondern eine Plattform, die es erleichtert, verschiedene kleinere Sprachmodelle lokal herunterzuladen, zu verwalten und über eine benutzerfreundliche Oberfläche zu nutzen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5322,
+      "char_end": 5503,
+      "text": "Es ist ein ausreichend leistungsfähiger Rechner erforderlich. Allerdings können bereits viele aktuelle Dienstrechner kleinere Sprachmodelle in akzeptabler Geschwindigkeit ausführen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5505,
+      "char_end": 5783,
+      "text": "Diese Modelle verfügen nicht über das umfassende Weltwissen großer Systeme wie ChatGPT, enthalten jedoch durchaus aktuelle Informationen. Aufgrund ihrer geringeren Größe sind sie im Funktionsumfang etwas eingeschränkt. Sie eignen sich dennoch gut für die Erzeugung kurzer Texte.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5784,
+      "char_end": 5994,
+      "text": "Typische Einsatzszenarien sind die Erstellung von Formulierungshilfen, Entwürfe für E-Mails, Veranstaltungsbeschreibungen, die Korrektur von Textpassagen oder das strukturierte Sammeln von Ideen und Argumenten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5996,
+      "char_end": 6080,
+      "text": "## Was passiert mit den Daten, wenn ich webbasierte generative KI wie ChatGPT nutze?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6082,
+      "char_end": 6401,
+      "text": "Viele frei zugängliche generative KI-Tools, z. B. ChatGPT (OpenAI), Claude (Anthropic) oder Gemini (Google), werden von kommerziellen Anbietern außerhalb der EU betrieben. Die Nutzung erfolgt in der Regel über ein persönliches Nutzerkonto. Die Verarbeitung der Daten unterliegt den Bedingungen des jeweiligen Anbieters.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6401,
+      "char_end": 6404,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6404,
+      "char_end": 6438,
+      "text": "Werden meine Eingaben gespeichert?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6438,
+      "char_end": 6441,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6441,
+      "char_end": 7046,
+      "text": "Ja. Bei den meisten Anbietern werden die Eingaben auf Servern gespeichert, die häufig in den USA oder anderen Drittstaaten stehen. Selbst wenn Chatverläufe gelöscht werden, werden sie bis zu 30 Tage zwischengespeichert. Aus datenschutzrechtlicher Perspektive kann nicht ausgeschlossen werden, dass eingegebene Daten analysiert, an Dritte weitergegeben oder langfristig gespeichert werden. Dies birgt insbesondere bei der Verarbeitung personenbezogener oder sensibler Informationen das Risiko, dass diese Daten in anderen Kontexten genutzt werden, beispielsweise durch Behörden in Ländern außerhalb der EU.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7046,
+      "char_end": 7049,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7049,
+      "char_end": 7091,
+      "text": "Werden meine Daten zum Training verwendet?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7091,
+      "char_end": 7094,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7094,
+      "char_end": 7591,
+      "text": "Standardmäßig ja. Es sei denn, Sie deaktivieren diese Funktion (sofern verfügbar). Bei ChatGPT können Sie dies unter Einstellungen → Datenkontrollen → „Das Modell für alle verbessern“ ausschalten. Wenn diese Option aktiv ist, können Ihre Eingaben zur Verbesserung zukünftiger Modelle verwendet werden. Es kann jedoch nicht vollständig garantiert werden, dass die Deaktivierung dieser Funktion technisch zuverlässig umgesetzt wird und die Daten tatsächlich nicht für Trainingszwecke genutzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7591,
+      "char_end": 7594,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7594,
+      "char_end": 7631,
+      "text": "Können Personen identifiziert werden?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7631,
+      "char_end": 7634,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7634,
+      "char_end": 7974,
+      "text": "Ja, potenziell. Die Anmeldung erfolgt meist über personenbezogene Daten wie E-Mail-Adresse oder Kreditkarte. Auch ohne direkte Angaben ist es nicht ausgeschlossen, dass einzelne Personen durch sprachliche Merkmale oder Inhalte der Texteingabe identifizierbar sind, insbesondere bei wiedererkennbaren Schreibstilen oder spezifischen Angaben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7976,
+      "char_end": 8051,
+      "text": "## Was passiert mit den Daten, wenn ich eine Schnittstelle wie HAWKI nutze?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8053,
+      "char_end": 8333,
+      "text": "Wenn Sie ChatGPT über eine Schnittstelle wie HAWKI nutzen, werden keine persönlichen Nutzungsdaten an OpenAI übermittelt. Die Nutzung erfolgt anonymisiert über eine zwischengeschaltete Infrastruktur, in der keine personenbezogenen Informationen übertragen oder gespeichert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8333,
+      "char_end": 8337,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8337,
+      "char_end": 8400,
+      "text": "Ihre Texteingaben werden nicht mit einem Nutzerkonto verknüpft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8400,
+      "char_end": 8403,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8403,
+      "char_end": 8459,
+      "text": "Die Daten dienen nicht dem Training zukünftiger Modelle.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8459,
+      "char_end": 8462,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8462,
+      "char_end": 8576,
+      "text": "Eine Identifizierung einzelner Personen ist kaum möglich, solange keine personenbezogenen Daten eingegeben werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8578,
+      "char_end": 8731,
+      "text": "Auch bei der Nutzung datenschutzfreundlicher Schnittstellen wie HAWKI sollten keine sensiblen oder personenbezogenen Daten in den Text eingegeben werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8733,
+      "char_end": 8781,
+      "text": "## Welche Daten sollten nicht eingegeben werden?",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8783,
+      "char_end": 9116,
+      "text": "Unabhängig davon, ob ein KI-System direkt oder über eine datenschutzkonforme Schnittstelle wie HAWKI genutzt wird: Keinesfalls sollten persönliche, vertrauliche, personenbezogene, forschungsbezogene oder medizinische Daten eingegeben werden. Für sensible und zu schützende Daten bieten sich lokale KI Modelle (z. B. über GPT4All) an.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9116,
+      "char_end": 9146,
+      "text": "\n\n## Wer haftet bei Fehlern?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9146,
+      "char_end": 9371,
+      "text": "Die Hersteller übernehmen keine Haftung für fehlerhafte Antworten. Die Nutzenden stehen in der vollen Verantwortung für die Antworten, wenn sie diese nutzen oder publizieren. Die Nutzenden stehen jederzeit in der Prüfpflicht.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9373,
+      "char_end": 9454,
+      "text": "## Warum kann es sinnvoll sein, generative KI in die eigene Lehre zu integrieren?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9456,
+      "char_end": 10039,
+      "text": "In der Lehre kann z.B. generative KI experimentell in Teilen einer Lehrveranstaltung im Kontext des Faches eingesetzt werden, indem typische fachliche Fragen oder Problemstellungen an das Tool gestellt werden. Anschließend kann über die Güte der Antworten kritisch reflektiert werden: Wie objektiv sind die Ergebnisse, welche Verzerrungen (Bias) ergeben sich durch die Auswahl von Qualität und Quantität spezifischer Trainingsdaten, inwieweit wird Diversität beachtet, wie wird mit ethischen Herausforderungen umgegangen, welche Grenzen hat das Tool, wann treten Halluzinationen auf?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10040,
+      "char_end": 10182,
+      "text": "Halluzinationen sind vom KI-System erzeugte Inhalte, die zwar plausibel klingen, aber inhaltlich falsch, erfunden oder nicht überprüfbar sind.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10183,
+      "char_end": 10315,
+      "text": "Ein reflektierter Umgang mit (generativer) KI wird zunehmend wichtiger für die Praxis von Wissenschaft, Gesellschaft und Wirtschaft.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10317,
+      "char_end": 10379,
+      "text": "## Wie kann ich generative KI zum Lernen und Lehren einsetzen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10381,
+      "char_end": 10910,
+      "text": "Generative KI kann vielseitig eingesetzt werden, insbesondere für Inspiration und Ideenfindung, Recherche und Datenaufbereitung, Textarbeit und Sprachunterstützung, Lernunterstützung und Prüfungsvorbereitung sowie technische und kollaborative Anwendungen. Möglich sind Ein- und Ausgaben von Medien wie PDF-Dateien, Bildern, Ton und Video. Es ist darauf zu achten, kein fremdes Material in einem Umfang hochzuladen, der gegen das Urheberrecht verstößt, und keine personenbezogenen Daten ohne ausdrückliche Zustimmung zu verwenden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10910,
+      "char_end": 10943,
+      "text": "\n\nEinsatzbereiche sind z. B.:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10943,
+      "char_end": 10988,
+      "text": "als Inspirationsquelle und zum Brainstorming,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10988,
+      "char_end": 10991,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10991,
+      "char_end": 11035,
+      "text": "zur Themenfindung bei schriftlichen Arbeiten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11035,
+      "char_end": 11038,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11038,
+      "char_end": 11076,
+      "text": "zum Konkretisieren einer Fragestellung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11076,
+      "char_end": 11079,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11079,
+      "char_end": 11125,
+      "text": "bei der Recherche (wissenschaftlicher) Quellen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11125,
+      "char_end": 11128,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11128,
+      "char_end": 11266,
+      "text": "zur Aufbereitung von Daten (Transkription von Interviews, Visualisierung von Ergebnissen, Erstellung von Grafiken und Interpretation etc.)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11266,
+      "char_end": 11269,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11269,
+      "char_end": 11289,
+      "text": "zum selektiven Lesen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11289,
+      "char_end": 11292,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11292,
+      "char_end": 11322,
+      "text": "zum Strukturieren und Gliedern",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11322,
+      "char_end": 11325,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11325,
+      "char_end": 11367,
+      "text": "zum Erstellen von Übersichten und Tabellen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11367,
+      "char_end": 11370,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11370,
+      "char_end": 11450,
+      "text": "zur inhaltlichen Überarbeitung und Prüfung der Argumentationsstruktur von Texten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11450,
+      "char_end": 11453,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11453,
+      "char_end": 11487,
+      "text": "zum Übersetzen in diverse Sprachen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11487,
+      "char_end": 11490,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11490,
+      "char_end": 11639,
+      "text": "zum sprachlich-stilistischen Überarbeiten (z. B. bestimmte Stilebenen, nach Verständlichkeitskriterien) oder zur Grammatik- und Rechtschreibkorrektur",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11639,
+      "char_end": 11642,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11642,
+      "char_end": 11686,
+      "text": "für Feedback auf Texte und andere Leistungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11686,
+      "char_end": 11689,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11689,
+      "char_end": 11879,
+      "text": "zur Vorbereitung von Klausuren und mündlichen Prüfungen, indem der Chatbot etwa die Rolle eines persönlichen Tutors oder einer Prüferin erhält und mögliche Prüfungs- oder Quizfragen erstellt",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11879,
+      "char_end": 11882,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11882,
+      "char_end": 11973,
+      "text": "zum Klären von Verständnisfragen und als Einstieg zur Erklärung von Begriffen und Konzepten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11973,
+      "char_end": 11976,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11976,
+      "char_end": 12082,
+      "text": "zur Unterstützung von Programmierungen (inkl. Fehlersuche), Simulationen, Berechnungen und Problemlösungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12082,
+      "char_end": 12085,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12085,
+      "char_end": 12133,
+      "text": "zum Erstellen von Code für angepasste Funktionen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12133,
+      "char_end": 12136,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12136,
+      "char_end": 12178,
+      "text": "zur Unterstützung kollaborativen Arbeitens",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12178,
+      "char_end": 12830,
+      "text": "\n\n*Vgl. Quelle:*\n\nGirgensohn, K., et al. (2024): Forschendes Lernen mit KI im Sozialwissenschaftlichen KI-Labor für Forschendes Lernen (SKILL)\nhttps://www.researchgate.net/publication/378012557_Forschendes_Lernen_mit_KI_im_Sozialwissenschaftlichen_KI-Labor_fur_Forschendes_Lernen_SKILL\n\nErgänzende Literatur:\n\nGarrel, J. v., & Mayer, J. (2025). Künstliche Intelligenz im Studium: Eine quantitative Längsschnittstudie zur Nutzung KI-basierter Tools durch Studierende (2023 & 2025). Hochschule Darmstadt, Fachbereich Gesellschaftswissenschaften.\nhttps://opus4.kobv.de/opus4-h-da/frontdoor/deliver/index/docId/533/file/gpt-dokumentation-final-jvg.pdf\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12830,
+      "char_end": 12972,
+      "text": "Wie bekomme ich Unterstützung bei der Nutzung von generativer KI? Wo finde ich Materialien, Beratungsangebote und Workshops zur Weiterbildung?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12974,
+      "char_end": 13199,
+      "text": "Das Team Digitale Lehre des Referats Lehrentwicklung berät Sie gern zur Nutzung und didaktischer Einbindung von generativer KI in Studium und Lehre und bietet zusätzlich Veranstaltungsangebote für Studierende und Lehrende an.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13200,
+      "char_end": 13295,
+      "text": "Auch die Wissenschaftliche Weiterbildung der CAU bietet Workshops zu Themen der generativen KI.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13296,
+      "char_end": 13616,
+      "text": "Die Stabsstelle Diversität unterstützt Sie darüber hinaus bei Fragen zu Unconscious Bias und Data Bias im Kontext generativer KI, insbesondere im Hinblick auf mögliche Diskriminierung durch algorithmische Verzerrungen und deren Auswirkungen auf Chancengleichheit im Sinne des Allgemeinen Gleichbehandlungsgesetzes (AGG).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13617,
+      "char_end": 13839,
+      "text": "Zudem unterstützt und berät das Team Studieneingangsphase an der Universitätsbibliothek Kiel bei der Anwendung von KI im wissenschaftlichen Arbeiten, insbesondere im Hinblick auf Recherche und wissenschaftliches Schreiben.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13840,
+      "char_end": 14032,
+      "text": "Bei rechtlichen Fragen wenden Sie sich bitte an die Prüfungsämter. Diese veranlassen ggf. die weitere Prüfung durch das Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten (S11).",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14034,
+      "char_end": 14084,
+      "text": "## In welchen Prüfungen ist generative KI erlaubt?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14086,
+      "char_end": 14213,
+      "text": "Die Entscheidung darüber treffen, wie bei anderen Hilfsmitteln auch, die Lehrenden / Prüfenden auf Grundlage des Prüfungsziels.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14214,
+      "char_end": 14534,
+      "text": "Wird die Nutzung zugelassen, muss diese transparent gemacht werden, indem generierte Inhalte klar gekennzeichnet und folgende Angaben gemacht werden: das verwendete Tool, das Datum, der Prompt sowie ggf. weitere Details, die die Lehrenden vorgeben können. Auch die Nutzung als Hilfsmittel muss explizit angegeben werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14536,
+      "char_end": 14818,
+      "text": "Ungekennzeichnete Textübernahmen oder die sinngemäße Übernahme von durch KI generierten Inhalten werden, soweit nachweisbar, als Täuschungsversuch gewertet. Gleiches gilt für die Nutzung generativer KI als Hilfsmittel entgegen eines ausdrücklichen Verbots oder bestehender Vorgaben.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14819,
+      "char_end": 15121,
+      "text": "Außerhalb von Prüfungen (z. B. bei der Prüfungsvorbereitung) kann die Nutzung von KI-Tools nicht generell untersagt werden. Die Übernahme von Texten oder Argumentationslinien in eigene Arbeiten ohne Kennzeichnung bleibt jedoch unzulässig und widerspricht den Grundsätzen wissenschaftlicher Redlichkeit.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15123,
+      "char_end": 15194,
+      "text": "## Darf ich die Verwendung von generativer KI in Hausarbeiten erlauben?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15196,
+      "char_end": 15331,
+      "text": "Generative KI ist im klassischen Sinne nicht zitierfähig, da es keine identifizierbaren physischen Urheber*innen bzw. Autor*innen gibt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15332,
+      "char_end": 15682,
+      "text": "Dennoch kann mit den Ausgaben generativer KI wissenschaftlich gearbeitet werden, sofern die Nutzung transparent gemacht wird. Dazu gehören Angaben zum verwendeten Tool, zur Version, zum Zeitpunkt und zum Prompt. Generative KI kann somit als Hilfsmittel genutzt werden, wobei die Ergebnisse stets kritisch geprüft und korrekt deklariert werden müssen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15683,
+      "char_end": 15799,
+      "text": "In allen Fällen gilt, dass keine vertraulichen, personenbezogenen oder medizinischen Daten eingegeben werden dürfen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15800,
+      "char_end": 15987,
+      "text": "In jedem Fall sollte im Vorfeld geklärt werden, ob und in welchem Umfang die Nutzung generativer KI erlaubt werden soll. Dies sollte in der Eigenständigkeitserklärung dokumentiert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15989,
+      "char_end": 16053,
+      "text": "## Darf ich von Studierenden verlangen, generative KI zu nutzen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16055,
+      "char_end": 16409,
+      "text": "In der Regel nicht. Da Systeme wie ChatGPT nicht DSGVO-konform betrieben werden, ist es nicht zulässig, Studierende zur Nutzung solcher Tools zu verpflichten, insbesondere nicht über persönliche Konten oder unter Angabe personenbezogener Daten. Zudem verfügen nicht alle Studierenden über die Voraussetzungen, um kommerzielle KI-Dienste nutzen zu können.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16411,
+      "char_end": 16728,
+      "text": "Wenn der Einsatz generativer KI in einer Lehrveranstaltung vorgesehen ist, sollte dieser freiwillig, transparent und gut begründet erfolgen, idealerweise über datenschutzkonforme Schnittstellen. Deshalb ist bei der Konzipierung von Prüfungen darauf zu achten, dass die Nutzung nicht verpflichtend gemacht werden darf.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16730,
+      "char_end": 16811,
+      "text": "## Darf ich die Nutzung von generativer KI im Kontext meiner Prüfungen verbieten?",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16813,
+      "char_end": 16903,
+      "text": "Ja, Lehrende können die Nutzung generativer KI-Tools im Rahmen ihrer Prüfungen untersagen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16904,
+      "char_end": 17159,
+      "text": "Um sicherzustellen, dass Prüfungsleistungen tatsächlich eigenständig erbracht werden, ist es sinnvoll, die Aufgaben so zu gestalten, dass sie eigenständiges Denken und die Anwendung von Wissen erfordern, anstatt sich leicht durch KI beantworten zu lassen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17160,
+      "char_end": 17439,
+      "text": "Je nach Prüfungsziel können auch Aufsichtsprüfungen ohne Internetzugang ein geeignetes Format darstellen. Sie ermöglichen die gezielte Überprüfung von Transferleistungen, grundlegenden fachlichen Kenntnissen, argumentativen Fähigkeiten und strukturierten Problemlösungsprozessen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17440,
+      "char_end": 17776,
+      "text": "Aus Gründen des Urheberrechts, des Datenschutzes sowie wegen der Gefahr unzuverlässiger Ergebnisse (false positives) ist der Einsatz von KI-Detektionstools, die nicht ausdrücklich von der CAU autorisiert wurden, nicht zulässig. Wenden Sie sich in Verdachtsfällen bitte an das zuständige Prüfungsamt, um das weitere Vorgehen abzustimmen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17777,
+      "char_end": 17870,
+      "text": "Siehe auch die Frage „Kann die Nutzung von generativer KI rechtssicher identifiziert werden?“",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17872,
+      "char_end": 17974,
+      "text": "## Wer verfügt über das Urheberrecht für KI generierten Text? Wann verletze ich ggf. das Urheberrecht?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17976,
+      "char_end": 18211,
+      "text": "Es gibt nach deutschem Recht kein Urheberrecht für KI generierte Inhalte, da dies nur physischen Autor*innen zugestanden wird. Verwertungsrechte sind ebenso nicht vorgesehen und weder vom Hersteller noch von den Nutzenden einforderbar.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18212,
+      "char_end": 18376,
+      "text": "Allerdings könnte es für die Schaffung von Prompts ab einer gewissen Schöpfungshöhe urheberrechtlichen Schutz geben (dazu gibt es bisher noch keine Rechtsprechung).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18378,
+      "char_end": 18476,
+      "text": "Wird generierter Text im Prüfungskontext als eigener ausgegeben, ist dies als Täuschung anzusehen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18478,
+      "char_end": 18626,
+      "text": "## Studierende sollen weiterhin Schreibkompetenzen erwerben. Hindert sie die Nutzung von generativer KI, wenn sie es ständig als Hilfsmittel nutzen?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 125,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18628,
+      "char_end": 18993,
+      "text": "Wenn generative KI als Reflexionstool genutzt wird, um den eigenen Schreibstil zu verbessern, und Studierende weiterhin eigenständig schreiben, kann die Nutzung lernförderlich sein. Werden Texte 1:1 kopiert und ermöglichen Aufgaben, dass keine Zeit in die Entwicklung des eigenen Stils investiert werden muss, kann dies dazu führen, dass das Lernziel verfehlt wird.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18995,
+      "char_end": 19105,
+      "text": "## Was passiert mit Basiskompetenzen und Grundwissen, wenn zunehmend KI eingesetzt wird? (Problem De-Skilling)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19107,
+      "char_end": 19364,
+      "text": "Mit De-Skilling ist gemeint, dass bestimmte Fähigkeiten durch die dauerhafte Nutzung technischer Hilfsmittel nach und nach verloren gehen oder gar nicht erst aufgebaut werden. Ähnliche Diskussionen wurden bereits beim Einsatz von Taschenrechnern diskutiert.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19366,
+      "char_end": 19563,
+      "text": "Grundwissen und Basiskompetenzen werden jedoch auch unabhängig von KI erworben. Entscheidend ist, diesen Aspekt didaktisch zu integrieren und ggf. durch alternative Prüfungsformate sicherzustellen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19565,
+      "char_end": 19867,
+      "text": "Lehrformate wie ‚Forschendes Lernen‘, problemorientiertes Lernen oder projektbasiertes Lernen unterstützen Studierende dabei, Basiskompetenzen eigenständig zu entwickeln und zu vertiefen. Durch die aktive Auseinandersetzung mit Inhalten und Prozessen können nachhaltige Lernergebnisse gefördert werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19869,
+      "char_end": 20439,
+      "text": "Prüfungen können so gestaltet werden, dass sie Eigenleistungen sichtbar machen. Neben geschlossenen, kontrollierten Prüfungssettings sind auch alternative Formate denkbar, die stärker an die oben genannten Lehr-Lernformate anschließen. Dazu zählen beispielsweise Portfolios, in denen der Arbeitsprozess und die Reflexion dokumentiert werden, mündliche Prüfungen oder Verteidigungen, projektorientierte Leistungsnachweise sowie Aufgabenstellungen, die Transferleistungen und eigenständige Problemlösungen erfordern und sich nicht ohne Weiteres durch KI bearbeiten lassen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20441,
+      "char_end": 20573,
+      "text": "Um diese Ansätze nachhaltig zu verankern, kann es erforderlich sein, entsprechende Anpassungen in den Prüfungsordnungen vorzunehmen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20573,
+      "char_end": 21218,
+      "text": "\n\nWeiterführende Literatur:\n\nKosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I. & Maes, P. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. arXiv. https://arxiv.org/pdf/2506.08872v1 (paper draft, has not yet been peer-reviewed).\n\nReinmann, G. (2023). Diskussionspapier De-Skilling. https://hochschulforumdigitalisierung.de/wp-content/uploads/2023/10/HFD_DP_25_Deskilling.pdf\n\n## Wie können unbeaufsichtigte Prüfungen (oder Aufgaben) wie Hausarbeiten, Take-Home-Klausuren, Übungen oder Laborberichte so gestaltet werden, dass...\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21218,
+      "char_end": 21269,
+      "text": "1. generative KI für die Lösung keine Hilfe bietet?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21271,
+      "char_end": 21511,
+      "text": "Ob die gestellten Aufgaben durch generative KI gelöst werden können oder ob KI unerwünschte Hilfestellung bietet, lässt sich nur durch das direkte Testen der Fragestellungen oder Aufgaben in ChatGPT/HAWKI (oder ähnlichen Tools) feststellen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21513,
+      "char_end": 22077,
+      "text": "Insbesondere für deutschsprachige und weniger kanonische Texte ist die Datenbasis in ChatGPT derzeit begrenzt. Es ist unwahrscheinlich, dass weniger bekannte, nicht digitalisierte oder urheberrechtlich geschützte wissenschaftsrelevante Werke in den Trainingsdaten enthalten sind. Implizite Literaturkenntnis stammt tendenziell eher aus frei verfügbaren Sekundärquellen wie Wikipedia. In den Trainingsdaten sind jedoch sehr wahrscheinlich offen zugängliche wissenschaftliche Publikationen oder ältere digitalisierte Bücher (nach Ablauf des Urheberrechts) enthalten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22077,
+      "char_end": 22317,
+      "text": "\n\n### 2. generative KI so genutzt wird, dass sie zu besseren Ergebnissen beiträgt und Studierende trotz KI-Nutzung die vorgesehenen Wissens- und Kompetenzziele einer Lehrveranstaltung oder eines Studiengangs nachweislich erreichen können?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22317,
+      "char_end": 22825,
+      "text": "Der Fokus sollte nicht nur auf der Reproduktion von Faktenwissen liegen. Stattdessen sollten kompetenzorientierte Prüfungsformen gewählt werden, die empirische Forschung reflektieren, eigenständiges Denken und genuin Neues fördern sowie Erkenntnisse aus forschungsorientierten Lernprozessen mit wissenschaftlichem Anspruch bewerten. KI-Tools werden zunehmend ein fester Bestandteil der wissenschaftlichen Arbeit. Für die fachspezifische Integration von KI kann eine didaktische Beratung gezielt unterstützen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22827,
+      "char_end": 22962,
+      "text": "## Soll die Arbeit von Studierenden, die generative KI nutzen, anders bewertet werden als die von Studierenden, die keine KI verwenden?",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 129,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22964,
+      "char_end": 23317,
+      "text": "Es sollte eine Gleichbehandlung stattfinden, das heißt es muss ein einheitlicher Prüfungsmaßstab angewandt werden. Wenn die reflektierte und dokumentierte Nutzung generativer KI-Tools erlaubt ist, darf daraus keine Benachteiligung für die Nutzenden entstehen. Ebenso darf der Verzicht auf die Nutzung von KI nicht zu einer schlechteren Bewertung führen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23318,
+      "char_end": 23530,
+      "text": "Fehlerhafte Ergebnisse werden in beiden Fällen gleichermaßen abgewertet, unabhängig davon, ob sie mit oder ohne KI entstanden sind. Die unerlaubte Nutzung generativer KI ist als ein Täuschungsversuch zu bewerten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23532,
+      "char_end": 23605,
+      "text": "## Kann die Nutzung von generativer KI rechtssicher identifiziert werden?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 130,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23607,
+      "char_end": 24131,
+      "text": "Da in ChatGPT ein Zufallsparameter (‚temperature‘) mitwirkt, folgt auf den gleichen Prompt niemals dieselbe Antwort. Es lässt sich also prinzipiell keine 1:1-Kopie nachweisen. Diese technische Besonderheit macht es umso wichtiger, mögliche Täuschungsabsichten ausschließlich auf Grundlage menschlicher Expertise sowie unter Berücksichtigung der rechtlichen Vorgaben der Prüfungsordnungen und ggf. der Prüfungsausschüsse zu beurteilen. Nur so können Entscheidungen rechtskonform, fair und verantwortungsvoll getroffen werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24133,
+      "char_end": 24178,
+      "text": "*Dabei sind rechtliche Vorgaben zu beachten:*",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 131,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24180,
+      "char_end": 24468,
+      "text": "Die Prüfungsdaten der Studierenden sind als personenbezogene Daten anzusehen. Aus Gründen des Datenschutzes und des Urheberrechts dürfen sie ohne die ausdrückliche Zustimmung der Studierenden oder eine klare Regelung in den Prüfungsordnungen nicht in KI-Detektionstools eingegeben werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24469,
+      "char_end": 24699,
+      "text": "Da die meisten Detektionstools in den USA gehostet werden und dort Daten zwischengespeichert werden, steht der Einsatz solcher Systeme ohne ausdrückliche Einwilligung der Studierenden im Widerspruch zur DSGVO und zum Urheberrecht.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24700,
+      "char_end": 25046,
+      "text": "Zudem gelten Detektionstools, die zur Aufdeckung möglicher Täuschungsabsichten genutzt werden, nach dem EU AI Act als Hochrisiko-Anwendungen. Für diese bestehen strenge Anforderungen an Dokumentation, KI-Kompetenzen und den Einbezug menschlicher Entscheidungen. Ab August 2026 sind diese Regelungen für alle Hochrisiko-KI-Anwendungen verbindlich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25048,
+      "char_end": 25171,
+      "text": "*Neben den rechtlichen Aspekten sind auch die technischen und methodischen Grenzen von Detektionstools zu berücksichtigen:*",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 132,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25173,
+      "char_end": 25607,
+      "text": "Zwar existieren verschiedene Systeme (z. B. Quillbot AI Content Detector https://quillbot.com/ai-content-detector) zur stochastischen Detektion von KI-generierten Texten, jedoch sind sie in vielerlei Hinsicht weder zuverlässig noch rechtssicher. Die zur Detektion eingesetzten Methoden und Algorithmen sind häufig intransparent. Diese geben lediglich Wahrscheinlichkeiten an, ob ein Text von einer KI oder von Menschen verfasst wurde.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25608,
+      "char_end": 26006,
+      "text": "Zudem weisen KI-Detektionstools eine sehr hohe Fehlerquote (false positives) auf und dürfen nicht als alleinige Grundlage für Verdächtigungen oder Sanktionen dienen. Das oft genannte Detektionstool der FH Wedel wurde zudem auf ChatGPT-3.5 trainiert und ist, wie alle anderen Detektionstools, mit erheblichen Unsicherheiten verbunden. Für aktuelle ChatGPT Versionen ist es daher nicht mehr geeignet.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26008,
+      "char_end": 26064,
+      "text": "*Hinzu kommen ethische und didaktische Fragestellungen:*",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 133,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26066,
+      "char_end": 26455,
+      "text": "Unbewusste Annahmen darüber, wie ‚gute wissenschaftliche Texte‘ auszusehen haben, können zusammen mit systematischen Verzerrungen (Bias) der Tools dazu führen, dass sprachliche Besonderheiten oder individuelle Schreibstile fälschlich als KI-generiert eingestuft werden. Dies kann unbeabsichtigt bestimmte Studierendengruppen benachteiligen und das Vertrauen in faire Prüfungen untergraben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26457,
+      "char_end": 26816,
+      "text": "Lehrende sollten sich dieser Problemlagen bewusst sein und Aufgabenstellungen sowie Prüfungsformate so gestalten, dass eigenständiges Arbeiten und Reflexion im Mittelpunkt stehen. Wenn KI-Nutzung erlaubt ist, müssen Studierende dies transparent kennzeichnen. In Verdachtsfällen kann nur auf herkömmlichen Weg eine ausreichende Beweislage herbeigeführt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26817,
+      "char_end": 27093,
+      "text": "Hiermit zusammenhängende Fragen sind in der Rechtsprechung noch nicht hinreichend geklärt – bitte wenden Sie sich im Zweifelsfall an das Prüfungsamt, das den Sachverhalt bei Bedarf in Rücksprache mit dem Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten prüft.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27095,
+      "char_end": 27284,
+      "text": "Wir empfehlen den Einsatz von Detektionstools ausschließlich zu Testzwecken und auf freiwilliger Basis mit eigenen Daten, um Erfahrungen mit der Qualität und Güte der Ergebnisse zu sammeln.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27286,
+      "char_end": 27371,
+      "text": "## Darf ich generative KI nutzen, um Prüfungsleistungen der Studierenden zu bewerten?",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 134,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27373,
+      "char_end": 27763,
+      "text": "Nein. Generative KI darf nicht eingesetzt werden, um Bewertungen oder Entscheidungen über Prüfungsleistungen zu treffen. Derartige Anwendungen gelten nach dem EU AI Act als Hochrisiko-Systeme und unterliegen strengen regulatorischen Anforderungen. Auch aus prüfungsrechtlicher Sicht muss in jedem Fall die abschließende Bewertung und Entscheidung durch eine verantwortliche Person erfolgen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27765,
+      "char_end": 27855,
+      "text": "## Darf ich als Lehrende*r mit generativer KI Lernmaterialien für Studierende produzieren?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 135,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27857,
+      "char_end": 28133,
+      "text": "Ja, Lernmaterialien müssen in diesem Fall besonders sorgfältig auf inhaltliche Richtigkeit, mögliche Verzerrungen (Bias) und Stereotype Darstellungen geprüft werden. Zudem muss transparent gemacht werden, wenn Inhalte und Materialien mithilfe generativer KI produziert wurden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28135,
+      "char_end": 28237,
+      "text": "## Welche Regelungen gibt es seitens der CAU? Dürfen Studierende uneingeschränkt generative KI nutzen?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 136,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28239,
+      "char_end": 28517,
+      "text": "Die Freiheit von Lehre und Forschung ist ein hohes Gut, weshalb es keine allgemeinen Regelungen gibt, die diese einschränken. Allerdings gelten die Prüfungsordnungen der Fachbereiche und Fakultäten sowie die etablierten Kriterien für wissenschaftliches Arbeiten und Datenschutz.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28518,
+      "char_end": 28702,
+      "text": "Dazu zählen insbesondere die Eigenständigkeit der erbrachten Leistungen, die Angabe der verwendeten Hilfsmittel, die Überprüfung der Quellen und das Einhalten gängiger Zitationsregeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28703,
+      "char_end": 28836,
+      "text": "Eine gute Empfehlung sind die Leitlinien der DFG: https://www.dfg.de/de/service/presse/pressemitteilungen/2023/pressemitteilung-nr-39",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28838,
+      "char_end": 29223,
+      "text": "Eine aktuelle Vorlage für die Eigenständigkeitserklärung mit KI-Hinweis steht Ihnen auf der Webseite Digitale Lehre zur Verfügung: https://www.digitale-lehre.uni-kiel.de/de/ki-anwendungen-pruefungen. Die Vorlage kann an die fachspezifischen Anforderungen angepasst werden. Eine Rücksprache mit dem Prüfungsamt insbesondere in Bezug auf fakultätsinterne Standards wird jedoch empfohlen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29225,
+      "char_end": 29535,
+      "text": "Studierende sollten generative KI als Hilfsmittel nutzen dürfen, sofern Lehrende dies didaktisch sinnvoll eingebunden haben und explizit erlauben. Die Nutzung sollte stets dokumentiert, offengelegt, gekennzeichnet und reflektiert werden. Weder eine pauschale Erlaubnis noch ein generelles Verbot wäre sinnvoll.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29537,
+      "char_end": 29594,
+      "text": "## Wie nutzen Studierende bisher generative KI und wofür?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 137,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29596,
+      "char_end": 29920,
+      "text": "Empirische Studien zeigen, dass inzwischen circa 60–65 % der Studierenden generative KI-Tools wie ChatGPT oder GPT-4 regelmäßig im Studium einsetzen. Die quantitative Studie von Garrel, Mayer & Mühlfeld (2023) bestätigt diese hohe Nutzungsrate, ebenso wie eine ergänzende Umfrage von Hahn (2024) mit über 4000 Teilnehmenden.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29921,
+      "char_end": 30247,
+      "text": "Studierende setzen KI vor allem als Inspirationsquelle, zur Zeit- und Arbeitssparnis, zum Zusammenfassen von Literatur, für sprachliche Verbesserungen und zielbewusst für Teilhandlungen des wissenschaftlichen Arbeitens ein. Nur ein geringer Anteil nutzt sie entgegen guter wissenschaftlicher Praxis (vgl. Garrel et al., 2023).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30249,
+      "char_end": 30420,
+      "text": "Die beliebtesten Tools sind ChatGPT/GPT-4 und das Übersetzungstool DeepL, während bildgenerierende Anwendungen wie DALL-E oder Midjourney deutlich weniger verbreitet sind.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30420,
+      "char_end": 30943,
+      "text": "\n\nQuellen:\n\nGarrel, J., Mayer, J., Mühlfeld, M., (2023). Künstliche Intelligenz im Studium - Eine quantitative Befragung von Studierenden zur Nutzung von ChatGPT & Co. https://opus4.kobv.de/opus4-h-da/frontdoor/index/index/docId/395\n\nHahn, L. M. (2024). Künstliche Intelligenz in der Hochschullehre: Ergebnisse und Erkenntnisse aus einer Umfrage unter deutschen Studierenden im Jahr 2024. Masterarbeit im Fachbereich Humanwissenschaften. Technische Universität Darmstadt. https://csp.uber.space/phhd/hahn-masterarbeit.pdf\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30943,
+      "char_end": 30992,
+      "text": "## Dürfen eigene ChatGPT-Accounts genutzt werden?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 138,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30994,
+      "char_end": 31270,
+      "text": "Ja, eigene Zugänge zu ChatGPT oder anderen generativen KI-Tools können genutzt werden, sofern dies mit den Lehrenden bzw. Prüfenden abgesprochen worden ist. Es sollte vorab geklärt werden, ob und welche anderen KI-Tools im Forschungs-, Lehr- und Prüfungskontext zulässig sind.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31272,
+      "char_end": 31490,
+      "text": "Wichtig: Privat genutzte KI-Tools unterliegen möglicherweise anderen Datenschutzbestimmungen. Daher dürfen keinesfalls Forschungsdaten, vertrauliche Informationen oder personenbezogene Daten in diese eingegeben werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31492,
+      "char_end": 31550,
+      "text": "## Warum werden keine Open Source Sprachmodelle angeboten?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 139,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31552,
+      "char_end": 31721,
+      "text": "Open Source Sprachmodelle erfordern eine leistungsfähige Serverinfrastruktur und zusätzliche Personalmittel. Ihre Bereitstellung ist derzeit nicht kurzfristig umsetzbar.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31722,
+      "char_end": 31923,
+      "text": "Nutzen Sie lokale KI Modelle auf dem eigenen PC über das Tool GPT4All (https://www.nomic.ai/gpt4all) oder die Modelle, die der KI Campus des Stifterverbandes anbietet: https://chat.ki-campus.org/login.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 113,
+      "match_type": "exact"
+    }
+  ]
+}

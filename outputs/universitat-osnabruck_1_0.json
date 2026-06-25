@@ -1,0 +1,3576 @@
+{
+  "doc_id": "universitat-osnabruck_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Lehrende, Studierende und Forschende nutzen seit jeher Werkzeuge, die sie in ihrem wissenschaftlichen Arbeiten unterstützen. Hierzu zählen mittlerweile auch Hilfsmittel, die auf künstlicher Intelligenz (KI) basieren. Inwiefern deren Einsatz in welchen Bereichen des universitären Alltags zulässig ist, ergibt sich in erster Linie aus rechtlichen Vorgaben und hochschulinternen Regelungen. Zu erwägen ist auch, wann der Einsatz von KI im gegebenen Kontext angemessen ist. Hierbei spielen u. a. Auswirkungen auf die Umwelt oder persönliche Fähigkeiten eine Rolle.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die vorliegenden Empfehlungen bieten Lehrenden, Studierenden sowie Forschenden grundlegende Informationen und sollen sie befähigen, Chancen und Risiken der Verwendung KI-basierter Hilfsmittel kompetent einzuschätzen und sich entsprechend ihres Bedarfs selbstständig fortzubilden.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Da das Thema komplex ist und der Kenntnisstand der Nutzenden stark variiert, handelt es sich um einen umfangreichen Text. Einzelne Kapitel können unabhängig voneinander gelesen und ggf. Querverweise zu anderen Kapiteln genutzt werden. Stichpunktlisten und hervorgehobene Hinweise erleichtern die Übersicht. Die Empfehlungen enthalten rechtliche Einschätzungen zum Umgang mit KI-basierten Hilfsmitteln, adressieren allgemeine Anforderungen an Eigenständigkeit, Sorgfalt und Transparenz, bieten Begriffseinordnungen sowie Mustervorlagen und verweisen auf weiterführende Informations- und Weiterbildungsangebote.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Im Fokus steht das Verfassen schriftlicher Arbeiten im Lehr-, Lern- und Prüfungskontext unter Zuhilfenahme generativer KI. Die Empfehlungen richten sich diesbezüglich sowohl an Lehrende als auch an Studierende. Lehrende erhalten zudem Hinweise zur Gestaltung von Rahmenbedingungen für Lehrveranstaltungen und Prüfungen. Didaktische Aspekte des KI-Einsatzes werden an anderer Stelle behandelt. Auf entsprechende Informationsquellen wird jeweils verwiesen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die technische Weiterentwicklung von KI-Systemen schreitet mit großer Dynamik voran und wird voraussichtlich immer wieder rechtliche Änderungen mit sich bringen. Aufgrund ihrer stetigen Anpassungsnotwendigkeit, sind die vorliegenden Empfehlungen als vorbehaltlich zu betrachten und werden regelmäßig hochschulintern aktualisiert. Fragen und Rückmeldungen können per E-Mail an den Sprecher des CIO-Gremiums der UOS gerichtet werden.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "KI-Systeme entwickeln sich zu einem festen Bestandteil in Alltag, Bildung und Berufsleben. Ein kompetenter Umgang mit diesen Hilfsmitteln ist daher auch in Studium und Lehre zu gewährleisten. Dies umfasst sowohl Grundkenntnisse der technischen und rechtlichen Rahmenbedingungen als auch die kompetente Beurteilung der Angemessenheit und der Auswirkungen einer KI-Nutzung.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Wie alle Werkzeuge, die der Unterstützung wissenschaftlichen Arbeitens dienen, sind KI-Systeme – im Sinne guter wissenschaftlicher Praxis – gewissenhaft, verantwortungsbewusst und transparent zu handhaben. Darauf aufbauend, setzt die Universität Osnabrück (UOS) auf eine kritisch-reflektierte sowie offene Haltung gegenüber dem Potential von KI und deren Einsatz in Studium, Lehre und Forschung. Die Handlungsempfehlungen bieten die hierfür in der Praxis notwendige Orientierung. Allgemeine Grundsätze für den Umgang mit generativer KI an der UOS, sind in der Leitlinie zum Einsatz generativer KI-basierter Anwendungen formuliert.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Folgende Begriffsbestimmungen basieren auf Definitionen, die im Bereich der Informatik gebräuchlich sind und erläutern die für die UOS vorgeschlagene Verwendung der jeweiligen Bezeichnungen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Künstliche Intelligenz (KI) bezeichnet laut Europäischem Parlament „die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren“. An der UOS umfasst die Verwendung des Begriffs „KI“ die Gesamtheit der von der Fach-Community akzeptierten Methoden und Software-Anwendungen. Beide Varianten haben ihren Nutzen und zeigen zugleich, dass der Begriff derzeit nicht trennscharf zu definieren ist.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Maschinelles Lernen (ML) beschreibt einen Teilbereich Künstlicher Intelligenz, der sich darauf konzentriert, Computern die Fähigkeit zu verleihen, aus Daten zu lernen, ohne fortlaufend programmiert zu werden. Während im Bereich der KI das übergeordnete Ziel verfolgt wird, Maschinen zu entwickeln, die menschenähnliche Intelligenz zeigen, ist ML ein Mittel, um dieses Ziel zu erreichen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "KI umfasst diverse Ansätze, während ML sich ausschließlich auf Algorithmen stützt, die Muster in Daten erkennen und daraus Vorhersagen oder Entscheidungen ableiten. Es verwendet Algorithmen, die sich anhand von Trainingsdaten verbessern und somit im Laufe der Zeit immer präzisere Ergebnisse liefern. Durch ML werden KI-Systeme in die Lage versetzt, sich an neue Situationen anzupassen und ihre Leistung kontinuierlich zu optimieren, was letztlich zum Erreichen der in der KI definierten Ziele beiträgt: der Imitation menschlicher Intelligenz und sogar deren Übertreffung in spezifischen Aufgaben.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Die KI-Verordnung der Europäischen Union definiert ein KI-System in Artikel 3, Absatz 1 als „ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist und das nach seiner Betriebsaufnahme anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie etwa Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erstellt werden, die physische oder virtuelle Umgebungen beeinflussen können“. In Erwägungsgrund 12 der KI-Verordnung heißt es zudem: „Die Fähigkeit eines KI-Systems, abzuleiten, geht über die einfache Datenverarbeitung hinaus, indem Lern-, Schlussfolgerungs- und Modellierungsprozesse ermöglicht werden.“",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Bezüglich der KI-Systeme differenziert die KI-Verordnung zwischen:",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- verbotenen KI-Systemen, z. B. Systemen zur Emotionserkennung am Arbeitsplatz oder in Bildungseinrichtungen",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- Hochrisiko-KI-Systemen, z. B. Systeme, die für die Bewertung von Lernergebnissen bestimmt sind",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- KI-Systemen mit allgemeinem Verwendungszweck",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Als KI-Modell wird der Teil eines KI-Systems bezeichnet, der anhand (statistisch) erlernter Muster die Ausgaben berechnet. Je nach Verwendungszweck, können verschiedene Modelle zum Einsatz kommen. ChatGPT ist z. B. ein KI-Dialogsystem der Firma OpenAI, das verschiedene KI-Sprachmodelle verwendet (z. B. GPT-4.1 mini für schnell bearbeitete alltägliche Aufgaben, oder o1 pro mode für langsamer bearbeitete aber komplexe Aufgaben).",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Der Begriff GPAI-Modell steht für ein KI-Modell mit allgemeinem Verwendungszweck (General Purpose Artificial Intelligence). Laut Artikel 3, Paragraph 63 der KI-Verordnung handelt es sich dabei um ein KI-Modell „das eine erhebliche Allgemeingültigkeit aufweist und in der Lage ist, unabhängig von der Art des Inverkehrbringens des Modells eine Vielzahl unterschiedlicher Aufgaben kompetent zu erfüllen und in eine Vielzahl von nachgelagerten Systemen oder Anwendungen integriert werden kann“.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Generative KI beschreibt Modelle, die mittels maschineller Lernverfahren und großer Datenmengen auf Eingaben reagieren und hierbei komplexe Inhalte erzeugen können. Am bekanntesten sind derzeit KI-Sprachmodelle, auch Large Language Models (LLMs) genannt. Diese können menschliche Sprache erkennen, verarbeiten und generieren. Generative KI kommt neben textgenerierenden KI-Systemen aber z. B. auch in bildgenerierenden KI-Systemen zum Einsatz, oder in KI-Systemen, die Videos, Programmiercode etc. erstellen. Daher wird für solche universell einsetzbaren Modelle statt ‚Large Language Model‘ eher die Bezeichnung ‚Foundation Model‘ verwendet.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "KI-basierte Anwendungen, auch als KI-Werkzeuge oder KI-Tools bezeichnet, sind im vorliegenden Kontext Software-Anwendungen, die eine komplexe Datenverarbeitung anhand zuvor trainierter Prozesse in hoher Geschwindigkeit ermöglichen. Auf Anfragen von Nutzenden können so situativ Ergebnisse erzeugt werden, die auf der Auswertung aller Daten beruhen, die der Anwendung durch Training sowie die Eingaben der Nutzenden zur Verfügung stehen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Beim Training können verschiedene Methoden und unterschiedliche Arten von Datensätzen zum Einsatz kommen. Einem KI-System ist es möglich, die Qualität der ausgegebenen Ergebnisse durch die Verwertung neu hinzukommender Daten zu verbessern, also zu „lernen“. Sie sind jedoch nicht in der Lage, die verarbeiteten Daten inhaltlich zu verstehen, da sie lediglich mit Wahrscheinlichkeiten arbeiten, um auf Basis der Lerndaten bestmögliche Ergebnisse vorauszusagen. Die Lerndaten umfassen im Regelfall nur Datensätze, die vor der Veröffentlichung der Anwendung für das Basistraining verwendet wurden. Es gibt jedoch auch Anwendungen, die fortlaufend trainiert werden und hierfür auch Inhalte verwenden, die Nutzende selbst eingeben. Bezüglich der verwendeten Trainingsdaten sind Anbieter von KI-Systemen unterschiedlich transparent (siehe European Open Source AI Index). Trainingsdaten erhalten u. U. auch Materialien, deren Verwendung die jeweiligen Rechteinhaber:innen nicht zugestimmt haben. Hierdurch könnten urheberrechtlich geschützte Inhalte als Teil KI-generierter Antworten ausgegeben werden (siehe Schutzfähigkeit und Urheberschaft). Die Qualität der Lerndaten hat also erheblichen Einfluss auf die Qualität der Ausgaben und kann z. B. zur Wiedergabe von Vorurteilen und falschen Aussagen sowie zu Rechtsverletzungen führen.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Ein Bias liegt vor, wenn Trainingsdaten Vorurteile bzw. Verzerrungen enthalten, die z. B. auf Hautfarbe, Geschlecht oder Religionszugehörigkeit beruhen. Diese in den Trainingsdaten enthaltenen Vorurteile beeinflussen auch die Qualität der KI-generierten Inhalte. Gleiches gilt für Korrelationen, die in den Trainingsdaten auftauchen. Wird z. B. der Begriff 'Professur' statistisch betrachtet häufiger mit männlichen Personenbezeichnungen kombiniert, enthalten auch die ausgegebenen Antworten eher eine derartige Kombination.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Von Halluzinieren ist manchmal die Rede, wenn KI-Systeme Ergebnisse produzieren, die keine Entsprechung in der Realität haben. Dies können Inhalte oder Quellenangaben sein, die aufgrund einer Anfrage ausgegeben werden und dem Muster entsprechen, mit dem ein KI-System trainiert wurde, die jedoch faktisch falsch sind. Eine KI-basierte Anwendung generiert Ergebnisse auf Basis von Wahrscheinlichkeiten, ohne dabei die Inhalte verstehen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Der Begriff Prompt bezeichnet die konkrete Anfrage von Nutzenden an ein generatives KI-System. Ein Prompt kann neben der zentralen Frage auch Quellenmaterial und Anweisungen zur Bearbeitung der Anfrage enthalten. Durch gezieltes Prompting, also genaue Anweisungen an ein KI-System, lässt sich die Ergebnisqualität maßgeblich beeinflussen.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Input bezeichnet alle Eingaben in ein KI-System. Das umfasst Prompts ebenso wie hochgeladene Dateien.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Als Output wird das ausgelieferte Ergebnis eines generativen KI-Systems auf eine Anfrage bezeichnet. Das Ergebnis baut auf einer wahrscheinlichkeitsbasierten Berechnung auf, weshalb sich die Antwort auf eine Anfrage ggf. nicht exakt reproduzieren lässt.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Mehr Informationen zum Thema ‚Was ist KI?‘ bietet das Infoportal Lehre der UOS.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die sachkundige Verwendung von KI-Systemen bringt gewisse Voraussetzungen mit sich. Artikel 3 des Artificial Intelligence Act der Europäischen Union (im Deutschen bekannt als KI-Verordnung oder kurz ‚KI-VO‘), definiert KI-Kompetenz als „die Fähigkeiten, die Kenntnisse und das Verständnis, die es Anbietern, Betreibern und Betroffenen unter Berücksichtigung ihrer jeweiligen Rechte und Pflichten im Rahmen dieser Verordnung ermöglichen, KI-Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen kann, bewusst zu werden.“",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Der Erwerb von KI-Kompetenz ist erforderlich für die sachkundige Nutzung von KI-Systemen. Die UOS bietet daher umfassende Informationen und Weiterbildungsoptionen zum selbstständigen Kompetenzerwerb.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Das Ziel ist es, eine kritisch-reflektierte Haltung im Umgang mit KI zu entwickeln: Es ist notwendig sich stets bewusst zu sein, dass z. B. textgenerierende KI-Systeme keine mitdenkenden Dialogpartner sind, die immer auf gesichertes Wissen aus qualitätsgeprüften Datenbanken zugreifen. Es handelt sich um leistungsstarke Text-Generatoren, die eine wahrscheinlichkeitsbasierte Berechnung von Wortkombinationen auf Basis von Trainingsdaten durchführen (siehe Begriffsbestimmungen).",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Unter welchen Voraussetzungen KI-Systeme verwendet werden können, ergibt sich aus rechtlichen Vorgaben, wie der KI-Verordnung und dem deutschen Urheberrechtsgesetz, aus hochschulinternen Vorgaben, wie der Allgemeinen Prüfungsordnung und der Leitlinie zum Einsatz generativer KI-basierter Anwendungen, sowie aus den Allgemeinen Geschäftsbedingungen der Anbieter bzw. den Nutzungsbedingungen der KI-Hilfsmittel.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Grundsätzlich gilt:",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Alle Eingaben von Nutzenden haben gemäß geltender gesetzlicher und hochschulinterner Vorgaben zu erfolgen (siehe Datenschutz).",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Alle KI-generierten Inhalte sind vor der weiteren Verwendung auf Korrektheit und Eignung zu prüfen und als KI-generiert zu kennzeichnen (siehe Sorgfaltspflicht und Kennzeichnungspflicht).",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Eine Checkliste kann dabei helfen, an wichtige Schritte zu denken.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Checkliste für die Nutzung generativer KI-Systeme",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Orientiert an der ‚Checkliste zum rechtskonformen Umgang mit Generativen KI-Systemen‘ der RWTH Aachen, in der Fassung vom 16.04.2024.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Allgemeine Voraussetzungen",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- KI-Kompetenz ist im für die Aufgabe erforderlichen Maße vorhanden (Kenntnisse der Funktionsweise von KI-Hilfsmitteln, rechtliche Regelungen und hochschulspezifische Vorgaben für deren Verwendung).",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Zusätzliche veranstaltungs- bzw. prüfungsspezifische Vorgaben sind bekannt.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vorbereitung",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Das Werkzeug wird entsprechend der Aufgabe ausgewählt.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Das Angebot der UOS wird auf ein geeignetes Werkzeug geprüft.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Die Nutzungsbedingungen des ausgewählten KI-Werkzeugs sind bekannt.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Während der Verwendung",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Es werden keine personenbezogenen Daten eingegeben.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Hochgeladene Inhalte enthalten keine personenbezogenen Daten.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Es wird kein urheberrechtlich geschütztes Material eingegeben.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Hochgeladene Inhalte enthalten kein urheberrechtlich geschütztes Material.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Es wird kein Material aus vertraulichen Quellen eingegeben.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Hochgeladene Inhalte enthalten kein Material aus vertraulichen Quellen.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine Ausnahme bilden entsprechend gekennzeichnete KI-Systeme, die an der UOS gehostet werden und keine Daten an Server außerhalb der UOS weitergeben. Hierdurch können auch personenbezogene Daten oder Material aus vertraulichen Quellen verarbeitet werden.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nach der Verwendung",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Entscheidungen und Bewertungen beruhen primär auf menschlicher Urteilsfindung.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Entscheidungen erfolgen nicht auf Basis von ungeprüftem KI-Output.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung auf personenbezogene Daten geprüft.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung auf urheberrechtlich geschützte Inhalte geprüft.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung verifiziert und ggf. als solcher gekennzeichnet.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Zum kompetenten Umgang mit KI-Systemen gehört auch ein Bewusstsein für die Risiken und Auswirkungen der Nutzung. Zu den Risiken einer unreflektierten Nutzung zählen, neben Verstößen gegen gesetzliche und hochschulinterne Vorgaben, auch ein Verlust persönlicher Fähigkeiten sowie negative Auswirkungen auf die Umwelt (siehe Chancen und Risiken). Beides kann jedoch reduziert werden, wenn KI-Systeme in zulässigem und angemessenem Umfang eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In rechtlicher Hinsicht gilt es, sich vor der Nutzung von KI-Systemen insbesondere mit Aspekten des Datenschutzes sowie des Schutzes von Urheber- und Persönlichkeitsrechten vertraut zu machen. Dies gilt gleichermaßen für Studierende, Lehrende, Prüfende und Forschende. Zusätzlich sind die Regeln guter wissenschaftlicher Praxis sowie die Allgemeinen Geschäftsbedingungen der Anbieter bzw. die Nutzungsbedingungen der gewählten KI-Hilfsmittel zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "In Deutschland bildet die europäische KI-Verordnung (KI-VO), zusammen mit der Datenschutz-Grundverordnung (DSGVO), dem Urheberrechtsgesetz (UrhG) sowie weiteren Richtlinien und Verordnungen den rechtlichen Rahmen für die KI-Nutzung in Studium, Lehre und Forschung. Diese Dokumente definieren u. a. die Schutzfähigkeit von Werken sowie die Verantwortung und Pflichten von Nutzenden. Hinzu kommen hochschulinterne Regelungen. An der UOS umfasst dies u. a. die Leitlinie zum Einsatz KI-basierter Anwendungen sowie die vorliegenden Handlungsempfehlungen. Weitere Regeln können z. B. innerhalb der Fachbereiche, Fächer etc. vorgegeben sein. Auch die Allgemeine Prüfungsordnung (APO), die Online-Prüfungsordnung (OPO) sowie fachspezifische Prüfungsordnungen sind zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Die hier wiedergegebenen rechtlichen Einschätzungen dienen der Orientierung und stellen keine Rechtsberatung dar. Sie basieren u. a. auf dem Dokument ‚Rechtliche Aspekte des Einsatzes von KI in Studium, Lehre und Prüfung‘ (2023) und dem Foliensatz ‚GKI in Prüfungen - Eine prüfungsrechtliche Herausforderung‘ (2025) von Dr. Janine Horn, dem Foliensatz ‚Überblick KI-Verordnung‘ (2024) von Theresia Rasche sowie dem Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung für Hochschulen (2025) von Prof. Dr. Thomas Hoeren. Trotz sorgfältiger Prüfung der hier wiedergegebenen Inhalte, besteht keine Gewähr für deren Korrektheit, Vollständigkeit und Aktualität.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Übersicht der Gesetze und Vorgaben",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Gesetzgebung hinsichtlich der Verwendung von KI-Systemen im Hochschulkontext bleibt auch nach Veröffentlichung der KI-Verordnung lückenhaft. Die folgende Übersicht bietet eine Zusammenstellung bestehender Gesetze und Vorgaben, aus denen zusätzliche Einschätzungen abgeleitet werden können.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Gesetze und Vorgaben | Was wird darin geregelt? |",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "|----------------------|--------------------------|",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Urheberrechtsgesetz (UrhG) | Urheberrechtsschutz, Nutzungsrechte an Input, Output und Trainingsdaten |",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| KI-Verordnung (KI-VO bzw. AI Act) | Verantwortung und Pflichten von Anbietern und Betreibern von KI-Systemen, Schutz der von KI-Systemen betroffenen Personen |",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| KI-Haftungsrichtlinie | verschuldungsabhängige Haftung von Anbietern und Nutzenden von KI-Systemen |",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Allgemeine Geschäftsbedingungen (AGB) der KI-Anbieter | Kennzeichnungspflichten, Einhaltung ethischer Grundlagen, Nutzungsrechte und Haftung bezüglich des Outputs |",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Datenschutz-Grundverordnung (DSGVO) | Verantwortung und Pflichten bei der Datenverarbeitung, Rechte betroffener Personen, wenn eine KI mit personenbezogenen Daten gespeist wird, wenn sie diese Daten verwendet oder wenn sie als Grundlage für personenbezogene Entscheidungen dient |",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Bundesdatenschutzgesetz (BDSG) | füllt Öffnungsklauseln der DSGVO, findet nur Anwendung, soweit die DSGVO nicht unmittelbar gilt |",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Niedersächsisches Datenschutzgesetz (NDSG) | gilt ergänzend zur DSGVO, erfasst alle Sachverhalte in denen personenbezogene Daten durch öffentliche Stellen des Landes Niedersachsen verarbeitet werden |",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Position der Landesbeauftragten für den Datenschutz (LfD) Niedersachsen | Verarbeitung personenbezogener Daten bei der Aufsicht elektronischer Präsenz- und Fernprüfungen, KI-basierte automatisierte Einzelfallentscheidungen |",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Niedersächsisches Hochschulgesetz (NHG) in Verbindung mit Hochschulordnungen | Eigenständigkeit der Prüfungsleistung, zulässige Prüfungsarten und -formen, elektronische Prüfungsformen und deren Aufsicht (elektronische Fernprüfungen), Erlaubnistatbestände zur Verarbeitung personenbezogener Daten zu Prüfungszwecken |",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "| Leitlinie zum Einsatz KI-basierter Anwendungen an der Universität Osnabrück | Grundsätze des Umgangs mit generativer KI |",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Für KI-generierte Inhalte gilt bislang, dass diese in der Regel nicht urheberrechtlich geschützt sind, da Werkschutz laut UrhG menschliche Schöpfung erfordert. Ob ein Werk über Schöpfungshöhe verfügt, hängt z. B. von dessen Originalität und Individualität ab.",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Systeme können rechtlich nicht als Urheber der durch sie generierten Inhalte gelten. Auch Anbieter generativer KI-Systeme haben in der Regel keine Rechteinhaberschaft nach dem UrhG oder verwandten Schutzrechten. Ebenso können Nutzende von KI-Systemen nicht als Urheber:innen KI-generierter Inhalte gelten, solange sie nicht hinreichend gestalterischen Einfluss auf das Werkschaffen haben. D. h. aber auch: Nutzende können Urheber:innen KI-generierter Inhalte sein, sofern sie innerhalb des Schaffensprozesses hinreichend Einfluss auf die generierten Inhalte haben. Dies gilt in gleicher Weise, wenn sie KI-generierte Inhalte in ausreichendem Maße weiterbearbeiten oder arrangieren. Unterschieden wird zwischen:",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- ausschließlich KI-generierten, nicht schutzfähigen Inhalten und",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- KI-gestützten, menschlichen, schutzfähigen Schöpfungen (bei denen KI nur als Hilfsmittel verwendet wird).",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Werden KI-Systeme zum Generieren von Texten, Bildern, Programmiercodes etc. verwendet, tragen die Nutzenden hierfür die Verantwortung. Die generierten Inhalte sind eigenständig von ihnen zu verifizieren sowie auf Fehlerhaftigkeit und z. B. hetzerische oder diskriminierende Aussagen zu überprüfen. Nutzende sind ebenso dafür verantwortlich, KI-generierte Inhalte hinsichtlich normativer Über- oder Unterrepräsentationen und Auslassungen zu prüfen. Das betrifft sowohl Personen bzw. Personengruppen als auch wissenschaftliche und anderweitige Inhalte.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nutzende, die KI-generierte Ergebnisse ungeprüft und ungekennzeichnet übernehmen, laufen Gefahr, Quellen nicht ausreichend zu kennzeichnen. Zwar besteht laut UrhG bislang keine Kennzeichnungspflicht für KI-generierte Inhalte, diese kann sich jedoch z. B. aus den Lizenz- oder Nutzungsbedingungen der Anbieter von KI-Systemen ergeben sowie aus internen Vorschriften der Hochschulen.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "An der UOS sind vollständig oder in Teilen von generativen KI-Werkzeugen geschaffene Inhalte immer als solche zu kennzeichnen (siehe Dokumentation).",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Veröffentlichung KI-generierter Inhalte, die urheberrechtlich geschütztes Material Dritter enthalten, stellt eine Rechtsverletzung dar. Auch wenn KI-generierte Inhalte grundsätzlich erlaubnisfrei weiterverwendet werden können, besteht die Möglichkeit, dass sie urheberrechtlich geschützte Materialien enthalten, auf Trainingsdaten basieren, die urheberrechtlich geschütztes Material beinhalten, oder falsche Informationen enthalten, ohne dass dies für die Nutzenden ersichtlich ist. Ohne die Zustimmung ggf. vorhandener Rechteinhaber:innen können aber auch KI-generierte Inhalte entsprechend der folgenden gesetzlichen Nutzungserlaubnisse weiterverwendet werden:",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Zitatrecht, § 51 UrhG",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Karikatur, Parodie und Pastiche, § 51a UrhG",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Kopieren und Teilen zu Lehrzwecken, § 60a UrhG",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Übernahme in Lehrmedien, § 60b UrhG",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Kopieren und Teilen zur wissenschaftlichen Forschung, § 60c UrhG",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Verwendung von Datenbankinhalten zu Lehr- und Forschungszwecken, § 87c Absatz 1 Nr. 2 und Nr. 3 UrhG.",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Eingabe von Daten in KI-Systeme erfordert besondere Sorgfalt hinsichtlich des Schutzes von personenbezogenen Daten und der Wahrung von Persönlichkeitsrechten. Dies betrifft sowohl das Verfassen von Prompts, als auch das Hochladen von Dateien. Laut Artikel 4 der DSGVO stellen \"alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche […] Person beziehen\" personenbezogene Daten dar. Dies schließt u. a. Namen und Vornamen, E-Mail-Adressen, die Vor- und Nachnamen enthalten, Privatanschriften sowie Gesundheitsinformationen ein.",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Personenbezogene Daten dürfen im Rahmen von Studium, Lehre und Forschung in KI-Systeme eingegeben werden, die von der Universität selbst betrieben (lokal gehostet) werden und keine personenbezogenen Daten an externe Anbieter weitergeben. Welche Systeme dies sind und welche datenschutzkonformen Einstellungen sie bieten, ist unter KI@UOS nachlesbar.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Auch wenn lokal gehostete KI-Systeme nicht in jeder Hinsicht mit den Diensten führender kommerzieller Anbieter vergleichbar sind, ist der Schutz personenbezogener Daten – einschließlich der eigenen – ein wichtiger Aspekt bei der Wahl des geeigneten Werkzeugs.",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Kommen im Rahmen von Studium, Lehre und Forschung dennoch KI-Systeme zum Einsatz, die nicht von der Universität selbst betrieben werden, ist eine datenschutzkonforme Verwendung zu sichern: Sobald personenbezogene Daten durch einen externen Dienst verarbeitet werden, bedarf es einem Auftragsverarbeitungsvertrag (AVV) nach Art. 28 der DSGVO, bei dem die Universität eine entsprechende Kontrolle vornimmt. Der Einsatz von KI-Systemen externer Anbieter ist davon abgesehen möglich, wenn",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- die Nutzung freiwillig erfolgt und keinerlei Nachteile für diejenigen entstehen, die sich gegen die Nutzung des Werkzeugs entscheiden, oder",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- sie keine Eingabe personenbezogener Daten der Nutzenden erfordern und per VPN der Universität genutzt werden können, um die eigene IP-Adresse zu maskieren.",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die UOS bestärkt Lehrende darin, KI offen zu begegnen und sie bei geeigneten Voraussetzungen in die Lehre zu integrieren. Dies kann je nach Fachdisziplin und Lehrveranstaltung auf unterschiedliche Weise erfolgen. KI kann z. B. als Lerngegenstand thematisiert, vor dem Hintergrund des Faches reflektiert oder als Werkzeug eingesetzt werden. Anregungen für konkrete Anwendungsszenarien bietet das Infoportal Lehre der UOS.",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Vor dem Einsatz von KI-Systemen in Studium und Lehre sind grundlegende Kenntnisse in folgenden Bereichen zu erwerben:",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Funktionsweise und Grenzen (siehe Begriffsbestimmungen)",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- zulässige Anwendungsbereiche (siehe Rechtliche Grundlagen)",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- potentielle Auswirkungen (siehe Chancen und Risiken)",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dürfen Studierende KI-Systeme im Kontext von Lehrveranstaltungen verwenden, sollen Lehrende zuvor sicherstellen, dass die Studierenden über entsprechende KI-Kompetenz verfügen. Der jeweilige Kompetenzgrad ergibt sich dabei aus der Art und dem Kontext der KI-Nutzung. Die folgende Abstufung dient der Orientierung:",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Erklären Lehrende die Nutzung von KI-Systemen als zulässig, sollen sie ihre Studierenden darauf hinweisen, welche grundlegende KI-Kompetenz sie benötigen und wie sie diese erwerben können (siehe Kompetenz und Verantwortung). Den Studierenden soll außerdem mitgeteilt werden, auf welche Art die Nutzung von KI als Hilfsmittel zu dokumentieren ist (siehe Dokumentation) und dass weder jene, die sich für die Nutzung entscheiden, noch jene, die sich gegen die Nutzung entscheiden, einen Nachteil bei der Leistungsbewertung erfahren.",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Ermöglichen Lehrende die Nutzung spezifischer KI-Systeme, indem sie diese z. B. in den Veranstaltungskontext integrieren, sind den Studierenden ggf. über die grundlegende KI-Kompetenz hinausgehende technische, rechtliche oder ethische Kompetenzen zu vermitteln. Zudem wird empfohlen, die Vermittlung der im Rahmen der Aufgabe erforderlichen KI-Kompetenz zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Verlangen Lehrende die Verwendung von KI im Rahmen der Leistungserbringung, sollen sie grundlegende KI-Kompetenz sowie ggf. erforderliche weitere Kompetenzen als Teil der Lehrveranstaltung vermitteln und deren Sicherstellung dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In manchen Fällen bieten Prüfungsordnungen und Modulhandbücher Informationen zum vorhandenen Kompetenzgrad der Studierenden. Andernfalls kann z. B. eine Selbstauskunft der Studierenden eingeholt oder ein Test durchgeführt werden. Ein Standard hinsichtlich der Sicherstellung von KI-Kompetenz durch Lehrende besteht derzeit nicht. Der Grad der Sicherstellung hängt z. B. davon ab,",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- ob KI-Nutzung aktiv zugelassen, ermöglicht oder verlangt wird (siehe oben),",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- in welchem Umfang sie erfolgt (z. B. einfache Texte, Bilder etc. generieren lassen oder einen Chatbot programmieren),",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- zu welchem Zweck sie erfolgt (z. B. veranstaltungsintern große Datenmengen analysieren oder für die Öffentlichkeit bestimmte Produkte erstellen) und",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- welche technischen, rechtlichen und ethischen Vorkenntnisse seitens der Studierenden bestehen.",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ermöglichen Lehrende die Nutzung von KI-Systemen für Studierende im Rahmen von Lehrveranstaltungen, ist diese Nutzung datenschutzkonform zu gestalten. Eine für Studierende verpflichtende Nutzung von KI-Systemen ist erlaubt, wenn",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- die Dienste von der UOS selbst bereitgestellt werden (siehe Datenschutz),",
+      "repaired": false
+    },
+    {
+      "id": 113,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- die Dienste keine Eingabe personenbezogener Daten der Nutzenden erfordern und per VPN der UOS genutzt werden, um die eigene IP-Adresse zu maskieren oder",
+      "repaired": false
+    },
+    {
+      "id": 114,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- die Dienste auf Grundlage eines Auftragsverarbeitungsvertrags (AVV) mit der UOS verwendet werden (siehe Datenschutz).",
+      "repaired": false
+    },
+    {
+      "id": 115,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende können die Aktivitäten ihrer Studierenden in den von der UOS bereitgestellten KI-Systemen nicht einsehen. Das heißt, sie sehen weder ob, noch wie Studierende diese KI-Systeme nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 116,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In welchem Umfang die KI-Nutzung im Rahmen einer Lehrveranstaltung erlaubt ist, wie sie zu dokumentieren ist und welche Konsequenzen bei Nichtbeachtung der Vorgaben möglich sind, sollte den Studierenden im Voraus schriftlich mitgeteilt werden. Lehrende können ihrer grundlegenden Informationspflicht gegenüber den Studierenden nachkommen, indem sie auf entsprechende Informationsmaterialien und Weiterbildungsformate der UOS zurückgreifen. Einige Angebote lassen sich direkt in Stud.IP-Veranstaltungen integrieren. Auch andere Hochschulen, Einrichtungen, Vereine etc. bieten weitere Informationsmöglichkeiten.",
+      "repaired": false
+    },
+    {
+      "id": 117,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Der Einsatz von KI-Systemen mit allgemeinem Verwendungszweck, wie z. B. einem KI-Chatsystem, zur automatisierten Bewertung von Lernergebnissen ist untersagt (siehe Chancen und Risiken).",
+      "repaired": false
+    },
+    {
+      "id": 118,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "An der UOS werden Studierende mit den Praktiken wissenschaftlichen Arbeitens vertraut gemacht und können diese einüben. Ein wesentlicher Bestandteil der Ausbildung ist das eigenständige Verfassen wissenschaftlicher Texte. Hierbei gilt, gemäß guter wissenschaftlicher Praxis rechtskonform und ethisch verantwortlich zu handeln.",
+      "repaired": false
+    },
+    {
+      "id": 119,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Systeme können sich als nützliche Hilfsmittel für das wissenschaftliche Arbeiten erweisen, sofern Nutzende sich möglicher Risiken bewusst sind und KI in zulässiger und angemessener Weise verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 120,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Laut Leitlinie zum Einsatz KI-basierter Anwendungen an der UOS, sind vollständig oder in Teilen von generativen KI-Werkzeugen geschaffene Inhalte stets als solche zu kennzeichnen. Welche KI-basierten Hilfsmittel eingesetzt wurden und in welchem Umfang, lässt sich auf verschiedene Arten dokumentieren. Insbesondere Listen und Tabellen bieten sich an. Bestehen keine spezifischen Vorgaben seitens des Fachbereichs oder Fachs, können die Lehrenden eigene Regeln vorgeben. Diese sollten den Studierenden im Vorfeld schriftlich zur Verfügung gestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 121,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine einfache Liste kann Auskunft darüber geben, ob KI-basierte Anwendungen genutzt wurden und falls dem so ist, zu welchem Zweck, z. B.:",
+      "repaired": false
+    },
+    {
+      "id": 122,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- für die Ideenfindung",
+      "repaired": false
+    },
+    {
+      "id": 123,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- für die Recherche",
+      "repaired": false
+    },
+    {
+      "id": 124,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- zur Übersetzung",
+      "repaired": false
+    },
+    {
+      "id": 125,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- zur Visualisierung",
+      "repaired": false
+    },
+    {
+      "id": 126,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- zum Generieren von Programmiercode",
+      "repaired": false
+    },
+    {
+      "id": 127,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- zur Bearbeitung von Bildern",
+      "repaired": false
+    },
+    {
+      "id": 128,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Diese Art des Nachweises bietet sich u. a. bei kürzeren schriftlichen Arbeiten oder Präsentationen an und kann von den Studierenden selbstständig angelegt werden.",
+      "repaired": false
+    },
+    {
+      "id": 129,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Mithilfe einer Tabelle können Art und Umfang der Nutzung KI-basierter Anwendung noch genauer festgehalten werden. Hierbei bietet es sich an, dass Lehrende die erforderlichen Angaben vorgeben.",
+      "repaired": false
+    },
+    {
+      "id": 130,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Arbeitsschritt | verwendete KI-basierte Anwendung(en) | Art und Umfang der Verwendung |",
+      "repaired": false
+    },
+    {
+      "id": 131,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "|----------------|--------------------------------------|-------------------------------|",
+      "repaired": false
+    },
+    {
+      "id": 132,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Ideenfindung | ChatGPT | Vergleich eigener Ideen mit anschließend KI-generierten Vorschlägen und Übernahme von zwei Aspekten (Chat-Verlauf im Anhang dokumentiert) |",
+      "repaired": false
+    },
+    {
+      "id": 133,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Recherche | Perplexity | Recherche zum geschichtlichen Hintergrund (Chat-Verlauf im Anhang dokumentiert) |",
+      "repaired": false
+    },
+    {
+      "id": 134,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Formulierung | ChatGPT | sprachliche Überarbeitung des gesamten Textes |",
+      "repaired": false
+    },
+    {
+      "id": 135,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Übersetzung | DeepL | Übersetzung des in Kapitel 3, Absatz 2 referenzierten Quellentextes |",
+      "repaired": false
+    },
+    {
+      "id": 136,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Visualisierung | Mindverse | Generieren einer Idee zur Visualisierung des in Kapitel 4, Abschnitt 5 beschriebenen Prozesses; intensive eigenständige Überarbeitung der Darstellung |",
+      "repaired": false
+    },
+    {
+      "id": 137,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "| Gliederung | ... | ... |",
+      "repaired": false
+    },
+    {
+      "id": 138,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Unterstützung bei Fragen zur Dokumentation bieten die Hinweise und Arbeitsmaterialien ‚KI-Gebrauch im Studienkontext dokumentieren‘, die in der Austauschrunde niedersächsischer Hochschulen zum Thema KI und Recht entwickelt wurden. Sie zeigen Möglichkeiten, wie die Verwendung KI-basierter Hilfsmittel im Bereich der Leistungserbringung reflektiert erfolgen, im Sinne einer Quelle kenntlich gemacht und dokumentiert werden kann.",
+      "repaired": false
+    },
+    {
+      "id": 139,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Modern Language Association of America (MLA) und die American Psychological Association (APA) geben Hinweise zur Kenntlichmachung KI-generierter Inhalte (in englischer Sprache). Diese oder vergleichbare Regeln können Lehrende ihren Studierenden ggf. zur Orientierung empfehlen.",
+      "repaired": false
+    },
+    {
+      "id": 140,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ein kompetenter, reflektierter Einsatz von KI-Systemen, bietet sowohl Lehrenden als auch Studierenden Möglichkeiten der Arbeitsentlastung und persönlichen Weiterbildung.",
+      "repaired": false
+    },
+    {
+      "id": 141,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die reflektierte Verwendung von KI-Systemen kann die Stärkung individueller Fähigkeiten unterstützen. So lässt sich etwa die Entwicklung von Problemlösungsstrategien oder eine Verbesserung der Ausdrucksfähigkeit erreichen, wenn mit Hilfe von KI-basierten Werkzeugen themenspezifische Aufgaben generiert werden, um die menschliche Intelligenz zu trainieren. Zudem kann die kritische Auseinandersetzung mit KI-generierten Inhalten dabei helfen, sich ihrer potentiellen Auswirkungen auf die menschliche Kompetenz- und Meinungsbildung bewusst zu werden. Dies betrifft z. B. die Identifikation und Einordnung bewusst verbreiteter Verzerrungen sowie fehlerhaft generierter Inhalte.",
+      "repaired": false
+    },
+    {
+      "id": 142,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Der KI-Campus, eine vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Lernplattform für Künstliche Intelligenz, bietet Lehrenden und Studierenden ein vielfältiges Angebot an kostenlosen Online-Kursen, Podcasts, Blogbeiträgen etc. zur Stärkung von KI- und Datenkompetenzen. Auch das Infoportal Lehre der UOS stellt KI-Werkzeuge und Nutzungsszenarien vor.",
+      "repaired": false
+    },
+    {
+      "id": 143,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Eine unreflektierte Nutzung von KI-Systemen kann sich negativ auf vorhandene Fähigkeiten auswirken bzw. den Erwerb neuer Kompetenzen verhindern, wofür auch die Begriffe ‚Deskilling‘ bzw. ‚Skill Skipping‘ verwendet werden. Diese Auswirkungen treten insbesondere dann auf, wenn KI-Systeme nicht mehr als Hilfsmittel eingesetzt werden, sondern Aufgaben anstelle der Nutzenden erledigen. Wird z. B. das Erstellen der Argumentationsstruktur und die wissenschaftliche Ausdrucksweise beim Verfassen einer Seminararbeit KI-Systemen überlassen, fehlt den Studierenden die Entwicklung eben dieser Kompetenzen.",
+      "repaired": false
+    },
+    {
+      "id": 144,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Welche Auswirkungen die Nutzung von KI-Chatsystemen auf das menschliche Gehirn haben kann, untersuchte eine US-Amerikanische Studie mit dem Titel ‚Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task‘. Eine Beobachtung daraus betrifft den Einfluss des Zeitpunkts der KI-Nutzung im Schreibprozess auf die neuronale Aktivität im menschlichen Gehirn: Wird KI im Anschluss an die eigene Schreibleistung zur weiteren Bearbeitung eingesetzt, kann dies positive Auswirkungen haben. Der Einsatz von KI vor der menschlichen Eigenleistung im Schreibprozess kann hingegen zu einer weniger koordinierten neuronalen Aktivität des Gehirns führen.",
+      "repaired": false
+    },
+    {
+      "id": 145,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Speziell Studierende sollten ihr Bewusstsein dafür stärken, welche Auswirkungen sowohl die unreflektierte als auch die reflektierte Nutzung von KI-Systemen auf den persönlichen Lernfortschritt und die Entwicklung eigener Fähigkeiten haben kann.",
+      "repaired": false
+    },
+    {
+      "id": 146,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Eine unreflektierte Nutzung von KI-Systemen kann auch rechtliche Folgen haben. Wird z. B. ein KI-System mit allgemeinem Verwendungszweck, das den Nutzenden über die UOS zugänglich ist, auf unzulässige Weise verwendet, kann dies eine Nutzung im Sinne eines Hochrisiko-Systems bedeuten.",
+      "repaired": false
+    },
+    {
+      "id": 147,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Systeme, die in der Bildung eingesetzt werden, um u. a. Lernergebnisse von Personen zu beurteilen oder verbotenes Verhalten von Personen in Prüfungssituationen zu erkennen, werden als Hochrisiko-Systeme eingestuft, da sie über den Verlauf des Bildungswegs und des Berufslebens einer Person entscheiden können. Artikel 16 der KI-VO beschreibt die umfassenden Pflichten der Anbieter von Hochrisiko-KI-Systemen, darunter z. B. Registrierungs- und Dokumentationspflichten sowie das Sicherstellen der Qualität von Trainingsdatensätzen. Würde ein von der UOS zugänglich gemachtes KI-System mit allgemeinem Verwendungszweck im Sinne eines Hochrisiko-Systems verwendet, unterläge die UOS ggf. den gleichen Pflichten. Vermeiden lässt sich dies jedoch, durch das Beachten grundlegender Regeln im Umgang mit KI-Systemen (siehe Datenschutz und Checkliste).",
+      "repaired": false
+    },
+    {
+      "id": 148,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Neben der rechtlichen Zulässigkeit und der persönlichen Kompetenzentwicklung, gilt es bei der Nutzung von KI-Systemen auch ökologische, soziale und wirtschaftliche Implikationen sowie ethische Standards im Blick zu haben. In welchem Verhältnis stehen z. B. der für ein KI-System erforderliche Ressourcenverbrauch und die zu erledigende Aufgabe? Ist ersichtlich, inwiefern Anbieter von generativen KI-Systemen Informationen ggf. zensieren oder verzerren? Fragen dieser Art werden Schritt für Schritt auch seitens der UOS adressiert. Dass der Leistungsumfang eines KI-Systems sowie der Umfang von Input und Output die Auswirkungen der Nutzung auf die Umwelt beeinflussen, ergab eine an der Hochschule München durchgeführte Studie zum Energieverbrauch von KI-Chats. Den Ergebnissen zufolge, macht es einen nachweisbaren Unterschied, wenn die Wahl des KI-Modells bewusst an die Anforderungen der Aufgabe angepasst wird. Auch die Anweisung an ein Chatsystem, den Output kurz und präzise zu formulieren, kann sich bereits positiv auf die CO2-Bilanz auswirken.",
+      "repaired": false
+    },
+    {
+      "id": 149,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Möglichkeit des Einsatzes von KI-Systemen in Prüfungen stellt alle Beteiligten vor komplexe Herausforderungen. Eine regelkonforme Nutzung erfordert entsprechendes Wissen und verantwortliches Handeln.",
+      "repaired": false
+    },
+    {
+      "id": 150,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird der Einsatz von KI-Systemen erlaubt, bedarf er einer Regelung. Prüfende sollten in diesem Fall schriftlich festlegen, in welchem Umfang den zu Prüfenden die Nutzung erlaubt ist, wie sie zu dokumentieren ist und welche Konsequenzen bei Nichtbeachtung der Vorgaben drohen (siehe KI-Einsatz in Studium und Lehre).",
+      "repaired": false
+    },
+    {
+      "id": 151,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Definition des zulässigen Nutzungsrahmens richtet sich nach den Vorgaben der entsprechenden Prüfungsordnungen sowie den Anforderungen an die jeweilige Prüfungsleistung und erfolgt i. d. R. auf Fach- oder Lehrveranstaltungsebene. Wird sie transparent kommuniziert, vermittelt sie den zu Prüfenden Sicherheit, beugt unbeabsichtigtem Fehlverhalten vor und wirkt sich positiv auf die Chancengleichheit aus.",
+      "repaired": false
+    },
+    {
+      "id": 152,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Prüfende können KI-Systeme mit allgemeinem Verwendungszweck zum Konzipieren von Prüfungen und Erstellen von Aufgaben verwenden, wenn der Input gemäß geltender gesetzlicher Vorgaben erfolgt (siehe Rechtliche Grundlagen) und der Output vor der weiteren Verwendung auf Richtigkeit und Eignung geprüft, sowie als KI-generiert gekennzeichnet wird (siehe Dokumentation).",
+      "repaired": false
+    },
+    {
+      "id": 153,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Im Rahmen der Leistungsbewertung dürfen KI-Systeme mit allgemeinem Verwendungszweck nur dann eingesetzt werden, wenn gewährleistet ist,",
+      "repaired": false
+    },
+    {
+      "id": 154,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- dass das genutzte KI-System keine Daten an Server außerhalb der UOS weitergibt (siehe Datenschutz) - andernfalls besteht die Gefahr, das Urheberrechtsgesetz oder die Datenschutzgrundverordnung zu verletzen - und",
+      "repaired": false
+    },
+    {
+      "id": 155,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- dass die Bewertung durch die Prüfenden selbst erfolgt und ihre Entscheidungsfindung nicht wesentlich beeinflusst wird - andernfalls besteht die Gefahr das KI-System im Sinne eines Hochrisiko-Systems zu verwenden (siehe Chancen und Risiken).",
+      "repaired": false
+    },
+    {
+      "id": 156,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Prüfende müssen sicherstellen, dass die Letztentscheidung von ihnen selbst getroffen wird und sie somit die Verantwortung für die Prüfungsbewertung tragen. Ein KI-System darf aber z. B. verwendet werden, um vorbereitende Aufgaben für die Bewertung durchzuführen, sofern die oben genannten Kriterien erfüllt sind und die KI-generierten Inhalte auf Korrektheit und Eignung geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 157,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Das Verfassen insbesondere schriftlicher Arbeiten ermöglicht die intensive Auseinandersetzung mit einer spezifischen fachlichen Thematik und erlaubt Studierenden das Einüben wissenschaftlicher Regularien. Zudem dient es mehrheitlich der Erbringung von Studiennachweisen oder Prüfungsleistungen, die wiederum Ergebnisse der jeweiligen Lern- bzw. Schreibprozesse darstellen. Diese Prozesse sind individuell und beinhalten unterschiedliche Herangehensweisen, Lösungswege und Hilfsmittel, deren Zulässigkeit den Prinzipien guter wissenschaftlicher Praxis unterliegt.",
+      "repaired": false
+    },
+    {
+      "id": 158,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Eine Arbeit in Gänze oder auch nur in Teilen durch Andere erstellen zu lassen, seien es Menschen oder KI-Systeme, ist nicht zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 159,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Legitim ist es hingegen, sich unter Gewährleistung der Schöpfungshöhe (siehe Schutzfähigkeit und Urheberschaft) Feedback zu Teilprozessen einzuholen, da sich diese Praxis positiv auf die Auseinandersetzung mit dem Inhalt auswirkt. Hierzu zählt z. B., sich durch ein KI-System Fragen generieren zu lassen, um das Formulieren von Antworten ohne Verwendung von Hilfsmitteln einzuüben.",
+      "repaired": false
+    },
+    {
+      "id": 160,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende sind dazu verpflichtet, ihre Prüfungsleistungen eigenständig zu erbringen und relevante Hilfsmittel sowie Quellen aller Art anzugeben (siehe Rechtliche Grundlagen). Welche (KI-)Hilfsmittel im gegebenen Kontext zulässig sind, in welchem Umfang sie genutzt werden dürfen, wie ihre Verwendung gekennzeichnet werden soll und welche Rolle der Lehrperson im Bearbeitungsprozess zukommt, sollte im Vorfeld seitens der Lehrenden bzw. der Fächer schriftlich festgelegt und kommuniziert werden.",
+      "repaired": false
+    },
+    {
+      "id": 161,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine standardisierte Vorlage für Eigenständigkeitserklärungen (verfügbar in deutscher und englischer Sprache) wurde in Abstimmung mit den Studiendekan:innen, der Koordinierungsstelle Prüfungsverwaltung und dem Justitiariat der UOS erstellt und ist für Bachelor- und Masterarbeiten in allen Fachbereichen verbindlich und unverändert zu verwenden. Studierende erhalten einen Link zum Download dieser Vorlagen zusammen mit dem Zulassungsbescheid zur jeweiligen Abschlussarbeit. Die Vorlage kann darüber hinaus für Seminararbeiten und andere Prüfungsformate verwendet werden, wobei in diesem Kontext der Verwendung auch individuelle Anpassungen möglich sind.",
+      "repaired": false
+    },
+    {
+      "id": 162,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die konkreten Eigenständigkeitserwartungen von Lehrenden können je nach Veranstaltungs- und Prüfungskontext variieren. Um ihren Anspruch an die Leistungen der Studierenden in Lehrveranstaltungen und Prüfungen transparent zu kommunizieren, können Lehrende im Vorfeld z. B. Lernziele definieren, erlaubte Hilfsmittel und deren Nutzungsumfang benennen und konkrete Erwartungen formulieren. Hierfür bieten sich verschiedene Optionen an, etwa eine Liste von Regeln oder eine Kursvereinbarung, die Lehrende den Studierenden veranstaltungsintern zur Verfügung stellen. Das Infoportal Lehre bietet Informationen zur konkreten Umsetzung.",
+      "repaired": false
+    },
+    {
+      "id": 163,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es gibt zahlreiche mögliche Verdachtsmomente für Täuschungsversuche, u. a. in Verbindung mit der Nutzung von KI-Hilfsmitteln. Ein Täuschungsversuch kann z. B. aufgrund einer bewussten oder grob fahrlässigen Nichtkennzeichnung von primär KI-generierten Inhalten oder einer nicht transparent gemachten Nutzung von KI-Systemen vorliegen. Die Eigenleistung einer zu prüfenden Person darf nicht durch Leistungen anderer Personen oder Leistungen von KI-Systemen ersetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 164,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Laut § 15, Absatz 4 der Allgemeinen Prüfungsordnung der UOS (Stand März 2025) gilt die betreffende Prüfungsleistung oder der Studiennachweis als mit „nicht bestanden“ (5,0) bewertet, wenn zu prüfende Personen das Ergebnis einer Prüfungsleistung oder eines Studiennachweises durch Täuschung oder Mitführen oder Nutzen nicht zugelassener Hilfsmittel zu beeinflussen versuchen.",
+      "repaired": false
+    },
+    {
+      "id": 165,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "In besonders schweren Fällen, kann die gesamte Bachelor- oder Masterprüfung als endgültig nicht bestanden bewertet werden. Gleiches gilt u. a., wenn eine zu prüfende Person Texte oder Textstellen Anderer ohne Kennzeichnung so verwertet, dass über die eigentliche Autorenschaft und die Eigenständigkeit der Leistung getäuscht wird.",
+      "repaired": false
+    },
+    {
+      "id": 166,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Besteht ein begründeter Täuschungsverdacht, sollte dieser auf einer multifaktoriellen Identifikation basieren (z. B. Stilbrüche im Text, nicht auffindbare Quellen oder von der zu prüfenden Person unbeantwortete Fragen zu Inhalt und Aufbau ihrer Prüfungsleistung), da die Beweislast für das Vorliegen eines Täuschungsversuchs bei den Prüfenden liegt. Hierfür können u. a. Erfahrungswerte und Vergleichsfälle herangezogen werden.",
+      "repaired": false
+    },
+    {
+      "id": 167,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die UOS stellt derzeit weder eine Plagiatserkennungs-Software zur Verfügung, noch KI-Detektoren, die eine nicht gekennzeichnete Verwendung von KI-Systemen sichtbar machen sollen. Gründe hierfür sind u. a. niedrige Erkennungsraten, teils falsche KI-Zuschreibungen sowie rechtliche Herausforderungen bei der Implementierung solcher Software. Eine durch den Digitale Lehre Hub Niedersachsen (DLHN) veröffentlichte Stellungnahme zum Einsatz von KI-Detektoren zur Überprüfung von Prüfungsleistungen erläutert die Problematik.",
+      "repaired": false
+    },
+    {
+      "id": 168,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Der Versuch seitens der Prüfenden, mit Hilfe von Plagiatserkennungs-Software ein Plagiat nachzuweisen, kann zudem in einem Gesetzesverstoß enden, wenn personenbezogene Daten ohne Genehmigung der Betroffenen in nicht an der Universität gehostete KI-Systeme oder nicht seitens der Universität zur Verfügung gestellte Plagiatserkennungs-Software eingegeben werden. Gleiches gilt für Werke, an denen Dritte Rechte halten. Hierzu können z. B. auch schriftliche Prüfungsleistungen von Studierenden zählen (siehe Schutzfähigkeit und Urheberschaft).",
+      "repaired": false
+    },
+    {
+      "id": 169,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ein sinnvolles Vorgehen zur Aufdeckung von Täuschungsversuchen - bestenfalls sogar zu ihrer Vermeidung -, stellt die Orientierung an bestehenden gesetzlichen Vorgaben (siehe KI-Einsatz in Studium und Lehre) sowie an den Regeln guter wissenschaftlicher Praxis dar, kombiniert mit einer fach- bzw. fachbereichsinternen Definition spezifischer Regelungen zur Nutzung generativer KI im Prüfungskontext. Hierbei können z. B. Vereinbarungen über die in einer Lehrveranstaltung erlaubten bzw. nicht erlaubten Werkzeuge und Vorgehensweisen zum Einsatz kommen (siehe KI-Einsatz in Studium und Lehre), oder angepasste Eigenständigkeitserklärungen für das Erbringen von Prüfungsleistungen (siehe Eigenständigkeit). Von großer Bedeutung ist dabei die transparente Kommunikation der Vorgaben gegenüber den zu prüfenden Personen.",
+      "repaired": false
+    },
+    {
+      "id": 170,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um einer unzulässigen Verwendung von KI-Systemen im Zusammenhang mit Prüfungen entgegenzuwirken, erscheint eine Anpassung der Prüfungskultur die wirksamste Maßnahme. Dies schließt die Bereitstellung von Informationen zum Umgang mit KI-Systemen sowie eine anforderungsgerechte Umgestaltung der Prüfungsformate ein. Lehrende sind daher aufgerufen, veranstaltungsbezogene Prüfungsanforderungen sowie die Gestaltung von Prüfungsaufgaben kritisch zu hinterfragen. Dies gilt sowohl in didaktischer Hinsicht als auch bezüglich formaler Aspekte. Anregungen zur praktischen Umsetzung erhalten Lehrende hierbei z. B. im Rahmen von Weiterbildungsangeboten der Hochschuldidaktik.",
+      "repaired": false
+    },
+    {
+      "id": 171,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Besteht Grund zur Annahme, dass die Eigenleistung von Studierenden im üblicherweise vorgesehenen Prüfungsformat nicht zu bewerten sein wird, weil eine Unterscheidung zwischen der Eigenleistung und der Leistung eines KI-Systems nicht mehr möglich scheint, kann der Einsatz von KI-Systemen ausgeschlossen werden. Falls möglich und sinnvoll, sollte die Verwendung jedoch Teil der Prüfung werden.",
+      "repaired": false
+    },
+    {
+      "id": 172,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-integriertes Prüfungsdesign kann zugleich",
+      "repaired": false
+    },
+    {
+      "id": 173,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- der Täuschung durch unerlaubte oder nicht gekennzeichnete erlaubte Verwendung von KI-Hilfsmittel entgegenwirken,",
+      "repaired": false
+    },
+    {
+      "id": 174,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- die Gewährleistung der Chancengleichheit durch Unterbindung von Täuschungsversuchen und Bereitstellung datenschutzkonformer, kostenloser KI-Hilfsmittel unterstützen,",
+      "repaired": false
+    },
+    {
+      "id": 175,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Studierenden Kompetenzen im Umgang mit KI-Hilfsmitteln vermitteln, die wertvoll für die persönliche wie auch für die Studien- und Berufslaufbahn sein können, sowie",
+      "repaired": false
+    },
+    {
+      "id": 176,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Studierenden die Möglichkeit bieten, die Grundsätze guter wissenschaftlicher Praxis einzuüben.",
+      "repaired": false
+    },
+    {
+      "id": 177,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Mehr Informationen zur Anpassung von Prüfungsformaten bieten z. B. das Infoportal Lehre der UOS und das vom Digitale Lehre Hub Niedersachen (DLHN) herausgegebene Dokument \"Prüfungsformate KI-resistent(er) gestalten\".",
+      "repaired": false
+    },
+    {
+      "id": 178,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Im Folgenden finden Sie Informationsquellen und Weiterbildungsangebote der UOS, weiterer Hochschulen sowie anderer Institutionen und Gruppen, die online oder offline bereitstehen. Die Auswahl bildet lediglich einen kleinen Teil der vielfältigen Möglichkeiten ab, um das eigene Wissen und die individuellen Kompetenzen selbstständig zu erweitern.",
+      "repaired": false
+    },
+    {
+      "id": 179,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Unterstützungsangebote für Studierende",
+      "repaired": false
+    },
+    {
+      "id": 180,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die im Zentrum für Digitale Lehre, Campus-Management und Hochschuldidaktik (virtUOS) erstellten Mikromodule (MiMos) stellen digitale Selbstlerneinheiten zu spezifischen Themen dar und informieren u. a. über Gefahren und Möglichkeiten bei der Verwendung von KI-Systemen. Das Mikromodul 'Willkommen im KI-Dschungel' richtet sich insbesondere an Personen ohne Vorkenntnisse, um diese zur effektiven und wissenschaftlichen Verwendung von KI-basierten Werkzeugen zu schulen und sie für Risiken sowie mögliche Fehlinterpretationen zu sensibilisieren. Das Aufbaumodul 'Expedition KI' beschäftigt sich speziell mit textgenerierender KI und der Frage, was Große Sprachmodelle tatsächlich leisten können.",
+      "repaired": false
+    },
+    {
+      "id": 181,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Schreibwerkstatt am Sprachenzentrum der UOS bietet eine Handreichung zur Nutzung von KI für universitäre Schreibaufgaben, die sich explizit an Studierende richtet. Zudem finden regelmäßig Workshops zum Thema 'KI und wissenschaftliches Schreiben' statt, die z. T. gemeinsam mit der Universitätsbibliothek angeboten werden, dann mit Informationen zur Nutzung von KI bei der Recherche. Die Nutzung von KI-basierten Anwendungen kann auch in individuellen Schreibberatungen thematisiert werden, sofern der grundsätzliche Umgang vorher geklärt wurde.",
+      "repaired": false
+    },
+    {
+      "id": 182,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die elan Academy bietet in ihren Online-Selbstlernmaterialien ‚EU AI Act - Gesetzliche Regulierungen von KI und ihre Auswirkungen auf Hochschulen und Lehre‘ eine Einführung in die Grundlagen von KI sowie Informationen zu rechtlichen Rahmenbedingungen. Auch die Lernplattform KI-Campus bietet u. a. kostenlose Online-Kurse zur Stärkung der persönlichen KI-Kompetenz.",
+      "repaired": false
+    },
+    {
+      "id": 183,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Weiterbildungsoptionen für Lehrende",
+      "repaired": false
+    },
+    {
+      "id": 184,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Im Rahmen der Hochschuldidaktischen Qualifizierung findet an der UOS in der Regel zweimal pro Jahr ein Workshop für Lehrende zum Thema „Kompetenzorientiert Prüfen – Lernfortschritte erfassen, reflektieren, bewerten“ statt. Die Teilnehmenden erhalten Unterstützung bei der Vorbereitung, Durchführung und Benotung kompetenzorientierter Prüfungen. Dabei wird auch auf Besonderheiten angesichts der Verwendung generativer KI-Tools eingegangen.",
+      "repaired": false
+    },
+    {
+      "id": 185,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "In Zusammenarbeit mit der Koordinierungsstelle Prüfungsverwaltung wird u. a. Lehrenden in regelmäßigen Abständen ein Inhouse-Seminar zum Thema \"Prüfungsrecht an der UOS\" angeboten. Das Seminar vermittelt einen Überblick der rechtlichen Grundlagen des hochschulischen Prüfungswesens anhand der Gesetzeslage und der aktuellen Rechtsprechung. Details zum Inhalt und zur Anmeldung stehen in Stud.IP zur Verfügung. Eine Dokumentation der vergangenen Veranstaltungen sowie weitere Informationen zu den Angeboten der Koordinierungsstelle Prüfungsverwaltung sind über das Intranet der UOS zugänglich.",
+      "repaired": false
+    },
+    {
+      "id": 186,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Veranstaltungsreihe KI.kompakt des Digitale Lehre Hub Niedersachsen (DLHN) behandelt aktuelle für die Hochschullehre relevante Themen in kompakter Form und bietet Raum für Fragen und Austausch. Informationen zu anstehenden Terminen bietet die Website des DLHN-Projekts ‚KI in Studium, Lehre und Prüfungen‘.",
+      "repaired": false
+    },
+    {
+      "id": 187,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Allgemeine Online-Informationsquellen",
+      "repaired": false
+    },
+    {
+      "id": 188,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Informationen zur KI-Verordnung der Europäischen Union erhalten Sie u. a. auf den Webseiten der Europäischen Union über das KI-Service Desk der Bundesnetzagentur.",
+      "repaired": false
+    },
+    {
+      "id": 189,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hinweise zum „Zitieren“ KI-generierter Inhalte bieten u. a.",
+      "repaired": false
+    },
+    {
+      "id": 190,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die Modern Language Association (MLA) in englischer Sprache: ‘Citing Generative AI’",
+      "repaired": false
+    },
+    {
+      "id": 191,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die American Psychological Association (APA) in englischer Sprache: ‘How to cite ChatGPT’",
+      "repaired": false
+    },
+    {
+      "id": 192,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die Handreichung ‚KI-Gebrauch im Studienkontext dokumentieren‘, entstanden in der Arbeitsgruppe ‚Rechtliches‘ der Austauschrunde niedersächsischer Hochschulen zum Thema Künstliche Intelligenz",
+      "repaired": false
+    },
+    {
+      "id": 193,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Diskussionen der Auswirkungen von KI-Nutzung finden Sie u. a.",
+      "repaired": false
+    },
+    {
+      "id": 194,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- in der Stellungnahme des Deutschen Ethikrats: ‚Mensch und Maschine - Herausforderungen durch künstliche Intelligenz‘ vom 20. März 2024",
+      "repaired": false
+    },
+    {
+      "id": 195,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- in dem Dokument ‚Diskussionspunkte zu ethischen Aspekten von generativer künstlicher Intelligenz in der Hochschullehre‘, das in der Untergruppe ‚KI und Ethik‘ der niedersächsischen Austauschgruppe zum Thema KI in Studium und Lehre entstand.",
+      "repaired": false
+    },
+    {
+      "id": 196,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- in dem im MIT Technology Review veröffentlichten Artikel ‚We did the math on AI’s energy footprint. Here’s the story you haven’t heard.‘ in englischer Sprache",
+      "repaired": false
+    },
+    {
+      "id": 197,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- im Diskussionspapier ‚Deskilling durch Künstliche Intelligenz?‘ des Hochschulforums Digitalisierung.",
+      "repaired": false
+    },
+    {
+      "id": 198,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hinweise zum KI-Einsatz im Lehr-/Lernkontext bieten u. a.",
+      "repaired": false
+    },
+    {
+      "id": 199,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- ein Interview mit Prof. Dr. Doris Weßels zum Thema 'ChatGPT in Hochschulen', dass sich u. a. mit der Frage nach der Anpassung von Prüfungssituationen befasst.",
+      "repaired": false
+    },
+    {
+      "id": 200,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die Blogbeiträge zum Thema Künstliche Intelligenz und ein Online-Kursangebot zum Erwerb und zur Stärkung von Digitalkompetenzen der Lernplattform KI-Campus.",
+      "repaired": false
+    },
+    {
+      "id": 201,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- der Webauftritt der Bundeszentrale für politische Bildung, der in der Rubrik 'Lernen' ein Angebot an didaktischen Bildungsmaterialien sowie Artikel und Interviews zum Thema KI zur Verfügung stellt, z. B. 'KI in der Hochschulbildung'",
+      "repaired": false
+    },
+    {
+      "id": 202,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Allgemeine Information zu den Grundsätzen wissenschaftlicher Praxis erhalten Sie u. a. in den Leitlinien zur Sicherung guter wissenschaftlicher Praxis der Deutschen Forschungsgemeinschaft (DFG).",
+      "repaired": false
+    },
+    {
+      "id": 203,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Erläuterungen zum Umgang mit personenbezogenen Daten bieten u. a.",
+      "repaired": false
+    },
+    {
+      "id": 204,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die Datenschutz-Grundverordnung",
+      "repaired": false
+    },
+    {
+      "id": 205,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- die Europäische Kommission in englischer Sprache",
+      "repaired": false
+    },
+    {
+      "id": 206,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Eine Übersetzung der Handlungsempfehlungen in die englische Sprache ist aktuell in Planung.",
+      "repaired": false
+    },
+    {
+      "id": 207,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "sorgfaltspflicht und kennzeichnungspflicht",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 207,
+    "matched": 207,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.982,
+    "uncovered_chars": 722,
+    "uncovered_gaps": 17,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 306,
+        "length": 306,
+        "text": "# universität osnabrück # source: https://www.uniosnabrueck.de/virtuos/lehrenundlernen/kiinstudiumundlehre/handlungsempfehlungenzumumgangmitkibasiertenanwendungen # date: 2025-11-17 # category: guideline handlungsempfehlungen zum umgang mit ki-basierten anwendungen ausgangslage und fokus der empfehlungen"
+      },
+      {
+        "char_start": 3641,
+        "char_end": 3664,
+        "length": 23,
+        "text": ". begriffsbestimmungen"
+      },
+      {
+        "char_start": 11394,
+        "char_end": 11424,
+        "length": 30,
+        "text": ". kompetenz und verantwortung"
+      },
+      {
+        "char_start": 15761,
+        "char_end": 15785,
+        "length": 24,
+        "text": ". rechtliche grundlagen"
+      },
+      {
+        "char_start": 19886,
+        "char_end": 19921,
+        "length": 35,
+        "text": "schutzfähigkeit und urheberschaft"
+      },
+      {
+        "char_start": 21063,
+        "char_end": 21108,
+        "length": 45,
+        "text": ". sorgfaltspflicht und kennzeichnungspflicht"
+      },
+      {
+        "char_start": 23159,
+        "char_end": 23173,
+        "length": 14,
+        "text": ". datenschutz"
+      },
+      {
+        "char_start": 25116,
+        "char_end": 25150,
+        "length": 34,
+        "text": ". ki-einsatz in studium und lehre"
+      },
+      {
+        "char_start": 29691,
+        "char_end": 29726,
+        "length": 35,
+        "text": ". dokumentation und referenzierung"
+      },
+      {
+        "char_start": 32898,
+        "char_end": 32920,
+        "length": 22,
+        "text": ". chancen und risiken"
+      },
+      {
+        "char_start": 37858,
+        "char_end": 37877,
+        "length": 19,
+        "text": ". ki und prüfungen"
+      },
+      {
+        "char_start": 40141,
+        "char_end": 40160,
+        "length": 19,
+        "text": ". eigenständigkeit"
+      },
+      {
+        "char_start": 43012,
+        "char_end": 43033,
+        "length": 21,
+        "text": ". täuschungsversuche"
+      },
+      {
+        "char_start": 44205,
+        "char_end": 44227,
+        "length": 22,
+        "text": ". täuschungsnachweise"
+      },
+      {
+        "char_start": 46530,
+        "char_end": 46561,
+        "length": 31,
+        "text": ". anpassung der prüfungskultur"
+      },
+      {
+        "char_start": 48418,
+        "char_end": 48449,
+        "length": 31,
+        "text": ". weiterführende informationen"
+      },
+      {
+        "char_start": 54188,
+        "char_end": 54199,
+        "length": 11,
+        "text": ". footnotes"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 322,
+      "text": "# Universität Osnabrück\n# Source: https://www.uni-osnabrueck.de/virtuos/lehren-und-lernen/ki-in-studium-und-lehre/handlungsempfehlungen-zum-umgang-mit-ki-basierten-anwendungen\n# Date: 2025-11-17\n# Category: guideline\n\nHandlungsempfehlungen zum Umgang mit KI-basierten Anwendungen\n\nAusgangslage und Fokus der Empfehlungen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 322,
+      "char_end": 883,
+      "text": "Lehrende, Studierende und Forschende nutzen seit jeher Werkzeuge, die sie in ihrem wissenschaftlichen Arbeiten unterstützen. Hierzu zählen mittlerweile auch Hilfsmittel, die auf künstlicher Intelligenz (KI) basieren. Inwiefern deren Einsatz in welchen Bereichen des universitären Alltags zulässig ist, ergibt sich in erster Linie aus rechtlichen Vorgaben und hochschulinternen Regelungen. Zu erwägen ist auch, wann der Einsatz von KI im gegebenen Kontext angemessen ist. Hierbei spielen u. a. Auswirkungen auf die Umwelt oder persönliche Fähigkeiten eine Rolle.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 885,
+      "char_end": 1164,
+      "text": "Die vorliegenden Empfehlungen bieten Lehrenden, Studierenden sowie Forschenden grundlegende Informationen und sollen sie befähigen, Chancen und Risiken der Verwendung KI-basierter Hilfsmittel kompetent einzuschätzen und sich entsprechend ihres Bedarfs selbstständig fortzubilden.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1166,
+      "char_end": 1775,
+      "text": "Da das Thema komplex ist und der Kenntnisstand der Nutzenden stark variiert, handelt es sich um einen umfangreichen Text. Einzelne Kapitel können unabhängig voneinander gelesen und ggf. Querverweise zu anderen Kapiteln genutzt werden. Stichpunktlisten und hervorgehobene Hinweise erleichtern die Übersicht. Die Empfehlungen enthalten rechtliche Einschätzungen zum Umgang mit KI-basierten Hilfsmitteln, adressieren allgemeine Anforderungen an Eigenständigkeit, Sorgfalt und Transparenz, bieten Begriffseinordnungen sowie Mustervorlagen und verweisen auf weiterführende Informations- und Weiterbildungsangebote.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1777,
+      "char_end": 2231,
+      "text": "Im Fokus steht das Verfassen schriftlicher Arbeiten im Lehr-, Lern- und Prüfungskontext unter Zuhilfenahme generativer KI. Die Empfehlungen richten sich diesbezüglich sowohl an Lehrende als auch an Studierende. Lehrende erhalten zudem Hinweise zur Gestaltung von Rahmenbedingungen für Lehrveranstaltungen und Prüfungen. Didaktische Aspekte des KI-Einsatzes werden an anderer Stelle behandelt. Auf entsprechende Informationsquellen wird jeweils verwiesen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2233,
+      "char_end": 2664,
+      "text": "Die technische Weiterentwicklung von KI-Systemen schreitet mit großer Dynamik voran und wird voraussichtlich immer wieder rechtliche Änderungen mit sich bringen. Aufgrund ihrer stetigen Anpassungsnotwendigkeit, sind die vorliegenden Empfehlungen als vorbehaltlich zu betrachten und werden regelmäßig hochschulintern aktualisiert. Fragen und Rückmeldungen können per E-Mail an den Sprecher des CIO-Gremiums der UOS gerichtet werden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2666,
+      "char_end": 3037,
+      "text": "KI-Systeme entwickeln sich zu einem festen Bestandteil in Alltag, Bildung und Berufsleben. Ein kompetenter Umgang mit diesen Hilfsmitteln ist daher auch in Studium und Lehre zu gewährleisten. Dies umfasst sowohl Grundkenntnisse der technischen und rechtlichen Rahmenbedingungen als auch die kompetente Beurteilung der Angemessenheit und der Auswirkungen einer KI-Nutzung.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3039,
+      "char_end": 3669,
+      "text": "Wie alle Werkzeuge, die der Unterstützung wissenschaftlichen Arbeitens dienen, sind KI-Systeme – im Sinne guter wissenschaftlicher Praxis – gewissenhaft, verantwortungsbewusst und transparent zu handhaben. Darauf aufbauend, setzt die Universität Osnabrück (UOS) auf eine kritisch-reflektierte sowie offene Haltung gegenüber dem Potential von KI und deren Einsatz in Studium, Lehre und Forschung. Die Handlungsempfehlungen bieten die hierfür in der Praxis notwendige Orientierung. Allgemeine Grundsätze für den Umgang mit generativer KI an der UOS, sind in der Leitlinie zum Einsatz generativer KI-basierter Anwendungen formuliert.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3669,
+      "char_end": 3693,
+      "text": "\n\nBegriffsbestimmungen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3693,
+      "char_end": 3883,
+      "text": "Folgende Begriffsbestimmungen basieren auf Definitionen, die im Bereich der Informatik gebräuchlich sind und erläutern die für die UOS vorgeschlagene Verwendung der jeweiligen Bezeichnungen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3885,
+      "char_end": 4334,
+      "text": "Künstliche Intelligenz (KI) bezeichnet laut Europäischem Parlament „die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren“. An der UOS umfasst die Verwendung des Begriffs „KI“ die Gesamtheit der von der Fach-Community akzeptierten Methoden und Software-Anwendungen. Beide Varianten haben ihren Nutzen und zeigen zugleich, dass der Begriff derzeit nicht trennscharf zu definieren ist.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4336,
+      "char_end": 4722,
+      "text": "Maschinelles Lernen (ML) beschreibt einen Teilbereich Künstlicher Intelligenz, der sich darauf konzentriert, Computern die Fähigkeit zu verleihen, aus Daten zu lernen, ohne fortlaufend programmiert zu werden. Während im Bereich der KI das übergeordnete Ziel verfolgt wird, Maschinen zu entwickeln, die menschenähnliche Intelligenz zeigen, ist ML ein Mittel, um dieses Ziel zu erreichen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4724,
+      "char_end": 5321,
+      "text": "KI umfasst diverse Ansätze, während ML sich ausschließlich auf Algorithmen stützt, die Muster in Daten erkennen und daraus Vorhersagen oder Entscheidungen ableiten. Es verwendet Algorithmen, die sich anhand von Trainingsdaten verbessern und somit im Laufe der Zeit immer präzisere Ergebnisse liefern. Durch ML werden KI-Systeme in die Lage versetzt, sich an neue Situationen anzupassen und ihre Leistung kontinuierlich zu optimieren, was letztlich zum Erreichen der in der KI definierten Ziele beiträgt: der Imitation menschlicher Intelligenz und sogar deren Übertreffung in spezifischen Aufgaben.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5323,
+      "char_end": 6047,
+      "text": "Die KI-Verordnung der Europäischen Union definiert ein KI-System in Artikel 3, Absatz 1 als „ein maschinengestütztes System, das für einen in unterschiedlichem Grade autonomen Betrieb ausgelegt ist und das nach seiner Betriebsaufnahme anpassungsfähig sein kann und das aus den erhaltenen Eingaben für explizite oder implizite Ziele ableitet, wie Ausgaben wie etwa Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erstellt werden, die physische oder virtuelle Umgebungen beeinflussen können“. In Erwägungsgrund 12 der KI-Verordnung heißt es zudem: „Die Fähigkeit eines KI-Systems, abzuleiten, geht über die einfache Datenverarbeitung hinaus, indem Lern-, Schlussfolgerungs- und Modellierungsprozesse ermöglicht werden.“",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6049,
+      "char_end": 6115,
+      "text": "Bezüglich der KI-Systeme differenziert die KI-Verordnung zwischen:",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6117,
+      "char_end": 6225,
+      "text": "- verbotenen KI-Systemen, z. B. Systemen zur Emotionserkennung am Arbeitsplatz oder in Bildungseinrichtungen",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6226,
+      "char_end": 6322,
+      "text": "- Hochrisiko-KI-Systemen, z. B. Systeme, die für die Bewertung von Lernergebnissen bestimmt sind",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6323,
+      "char_end": 6369,
+      "text": "- KI-Systemen mit allgemeinem Verwendungszweck",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6371,
+      "char_end": 6801,
+      "text": "Als KI-Modell wird der Teil eines KI-Systems bezeichnet, der anhand (statistisch) erlernter Muster die Ausgaben berechnet. Je nach Verwendungszweck, können verschiedene Modelle zum Einsatz kommen. ChatGPT ist z. B. ein KI-Dialogsystem der Firma OpenAI, das verschiedene KI-Sprachmodelle verwendet (z. B. GPT-4.1 mini für schnell bearbeitete alltägliche Aufgaben, oder o1 pro mode für langsamer bearbeitete aber komplexe Aufgaben).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6803,
+      "char_end": 7294,
+      "text": "Der Begriff GPAI-Modell steht für ein KI-Modell mit allgemeinem Verwendungszweck (General Purpose Artificial Intelligence). Laut Artikel 3, Paragraph 63 der KI-Verordnung handelt es sich dabei um ein KI-Modell „das eine erhebliche Allgemeingültigkeit aufweist und in der Lage ist, unabhängig von der Art des Inverkehrbringens des Modells eine Vielzahl unterschiedlicher Aufgaben kompetent zu erfüllen und in eine Vielzahl von nachgelagerten Systemen oder Anwendungen integriert werden kann“.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7296,
+      "char_end": 7938,
+      "text": "Generative KI beschreibt Modelle, die mittels maschineller Lernverfahren und großer Datenmengen auf Eingaben reagieren und hierbei komplexe Inhalte erzeugen können. Am bekanntesten sind derzeit KI-Sprachmodelle, auch Large Language Models (LLMs) genannt. Diese können menschliche Sprache erkennen, verarbeiten und generieren. Generative KI kommt neben textgenerierenden KI-Systemen aber z. B. auch in bildgenerierenden KI-Systemen zum Einsatz, oder in KI-Systemen, die Videos, Programmiercode etc. erstellen. Daher wird für solche universell einsetzbaren Modelle statt ‚Large Language Model‘ eher die Bezeichnung ‚Foundation Model‘ verwendet.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7940,
+      "char_end": 8376,
+      "text": "KI-basierte Anwendungen, auch als KI-Werkzeuge oder KI-Tools bezeichnet, sind im vorliegenden Kontext Software-Anwendungen, die eine komplexe Datenverarbeitung anhand zuvor trainierter Prozesse in hoher Geschwindigkeit ermöglichen. Auf Anfragen von Nutzenden können so situativ Ergebnisse erzeugt werden, die auf der Auswertung aller Daten beruhen, die der Anwendung durch Training sowie die Eingaben der Nutzenden zur Verfügung stehen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8378,
+      "char_end": 9706,
+      "text": "Beim Training können verschiedene Methoden und unterschiedliche Arten von Datensätzen zum Einsatz kommen. Einem KI-System ist es möglich, die Qualität der ausgegebenen Ergebnisse durch die Verwertung neu hinzukommender Daten zu verbessern, also zu „lernen“. Sie sind jedoch nicht in der Lage, die verarbeiteten Daten inhaltlich zu verstehen, da sie lediglich mit Wahrscheinlichkeiten arbeiten, um auf Basis der Lerndaten bestmögliche Ergebnisse vorauszusagen. Die Lerndaten umfassen im Regelfall nur Datensätze, die vor der Veröffentlichung der Anwendung für das Basistraining verwendet wurden. Es gibt jedoch auch Anwendungen, die fortlaufend trainiert werden und hierfür auch Inhalte verwenden, die Nutzende selbst eingeben. Bezüglich der verwendeten Trainingsdaten sind Anbieter von KI-Systemen unterschiedlich transparent (siehe European Open Source AI Index). Trainingsdaten erhalten u. U. auch Materialien, deren Verwendung die jeweiligen Rechteinhaber:innen nicht zugestimmt haben. Hierdurch könnten urheberrechtlich geschützte Inhalte als Teil KI-generierter Antworten ausgegeben werden (siehe Schutzfähigkeit und Urheberschaft). Die Qualität der Lerndaten hat also erheblichen Einfluss auf die Qualität der Ausgaben und kann z. B. zur Wiedergabe von Vorurteilen und falschen Aussagen sowie zu Rechtsverletzungen führen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9708,
+      "char_end": 10232,
+      "text": "Ein Bias liegt vor, wenn Trainingsdaten Vorurteile bzw. Verzerrungen enthalten, die z. B. auf Hautfarbe, Geschlecht oder Religionszugehörigkeit beruhen. Diese in den Trainingsdaten enthaltenen Vorurteile beeinflussen auch die Qualität der KI-generierten Inhalte. Gleiches gilt für Korrelationen, die in den Trainingsdaten auftauchen. Wird z. B. der Begriff 'Professur' statistisch betrachtet häufiger mit männlichen Personenbezeichnungen kombiniert, enthalten auch die ausgegebenen Antworten eher eine derartige Kombination.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10234,
+      "char_end": 10679,
+      "text": "Von Halluzinieren ist manchmal die Rede, wenn KI-Systeme Ergebnisse produzieren, die keine Entsprechung in der Realität haben. Dies können Inhalte oder Quellenangaben sein, die aufgrund einer Anfrage ausgegeben werden und dem Muster entsprechen, mit dem ein KI-System trainiert wurde, die jedoch faktisch falsch sind. Eine KI-basierte Anwendung generiert Ergebnisse auf Basis von Wahrscheinlichkeiten, ohne dabei die Inhalte verstehen zu können.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10681,
+      "char_end": 11019,
+      "text": "Der Begriff Prompt bezeichnet die konkrete Anfrage von Nutzenden an ein generatives KI-System. Ein Prompt kann neben der zentralen Frage auch Quellenmaterial und Anweisungen zur Bearbeitung der Anfrage enthalten. Durch gezieltes Prompting, also genaue Anweisungen an ein KI-System, lässt sich die Ergebnisqualität maßgeblich beeinflussen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11021,
+      "char_end": 11122,
+      "text": "Input bezeichnet alle Eingaben in ein KI-System. Das umfasst Prompts ebenso wie hochgeladene Dateien.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11124,
+      "char_end": 11377,
+      "text": "Als Output wird das ausgelieferte Ergebnis eines generativen KI-Systems auf eine Anfrage bezeichnet. Das Ergebnis baut auf einer wahrscheinlichkeitsbasierten Berechnung auf, weshalb sich die Antwort auf eine Anfrage ggf. nicht exakt reproduzieren lässt.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11379,
+      "char_end": 11458,
+      "text": "Mehr Informationen zum Thema ‚Was ist KI?‘ bietet das Infoportal Lehre der UOS.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11458,
+      "char_end": 11489,
+      "text": "\n\nKompetenz und Verantwortung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11489,
+      "char_end": 12070,
+      "text": "Die sachkundige Verwendung von KI-Systemen bringt gewisse Voraussetzungen mit sich. Artikel 3 des Artificial Intelligence Act der Europäischen Union (im Deutschen bekannt als KI-Verordnung oder kurz ‚KI-VO‘), definiert KI-Kompetenz als „die Fähigkeiten, die Kenntnisse und das Verständnis, die es Anbietern, Betreibern und Betroffenen unter Berücksichtigung ihrer jeweiligen Rechte und Pflichten im Rahmen dieser Verordnung ermöglichen, KI-Systeme sachkundig einzusetzen sowie sich der Chancen und Risiken von KI und möglicher Schäden, die sie verursachen kann, bewusst zu werden.“",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12072,
+      "char_end": 12271,
+      "text": "Der Erwerb von KI-Kompetenz ist erforderlich für die sachkundige Nutzung von KI-Systemen. Die UOS bietet daher umfassende Informationen und Weiterbildungsoptionen zum selbstständigen Kompetenzerwerb.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12273,
+      "char_end": 12752,
+      "text": "Das Ziel ist es, eine kritisch-reflektierte Haltung im Umgang mit KI zu entwickeln: Es ist notwendig sich stets bewusst zu sein, dass z. B. textgenerierende KI-Systeme keine mitdenkenden Dialogpartner sind, die immer auf gesichertes Wissen aus qualitätsgeprüften Datenbanken zugreifen. Es handelt sich um leistungsstarke Text-Generatoren, die eine wahrscheinlichkeitsbasierte Berechnung von Wortkombinationen auf Basis von Trainingsdaten durchführen (siehe Begriffsbestimmungen).",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12754,
+      "char_end": 13163,
+      "text": "Unter welchen Voraussetzungen KI-Systeme verwendet werden können, ergibt sich aus rechtlichen Vorgaben, wie der KI-Verordnung und dem deutschen Urheberrechtsgesetz, aus hochschulinternen Vorgaben, wie der Allgemeinen Prüfungsordnung und der Leitlinie zum Einsatz generativer KI-basierter Anwendungen, sowie aus den Allgemeinen Geschäftsbedingungen der Anbieter bzw. den Nutzungsbedingungen der KI-Hilfsmittel.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13165,
+      "char_end": 13184,
+      "text": "Grundsätzlich gilt:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13186,
+      "char_end": 13314,
+      "text": "- Alle Eingaben von Nutzenden haben gemäß geltender gesetzlicher und hochschulinterner Vorgaben zu erfolgen (siehe Datenschutz).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13315,
+      "char_end": 13504,
+      "text": "- Alle KI-generierten Inhalte sind vor der weiteren Verwendung auf Korrektheit und Eignung zu prüfen und als KI-generiert zu kennzeichnen (siehe Sorgfaltspflicht und Kennzeichnungspflicht).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13506,
+      "char_end": 13572,
+      "text": "Eine Checkliste kann dabei helfen, an wichtige Schritte zu denken.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13574,
+      "char_end": 13623,
+      "text": "Checkliste für die Nutzung generativer KI-Systeme",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13625,
+      "char_end": 13758,
+      "text": "Orientiert an der ‚Checkliste zum rechtskonformen Umgang mit Generativen KI-Systemen‘ der RWTH Aachen, in der Fassung vom 16.04.2024.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13760,
+      "char_end": 13786,
+      "text": "Allgemeine Voraussetzungen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13788,
+      "char_end": 13986,
+      "text": "- KI-Kompetenz ist im für die Aufgabe erforderlichen Maße vorhanden (Kenntnisse der Funktionsweise von KI-Hilfsmitteln, rechtliche Regelungen und hochschulspezifische Vorgaben für deren Verwendung).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13987,
+      "char_end": 14064,
+      "text": "- Zusätzliche veranstaltungs- bzw. prüfungsspezifische Vorgaben sind bekannt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14066,
+      "char_end": 14078,
+      "text": "Vorbereitung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14080,
+      "char_end": 14136,
+      "text": "- Das Werkzeug wird entsprechend der Aufgabe ausgewählt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14137,
+      "char_end": 14200,
+      "text": "- Das Angebot der UOS wird auf ein geeignetes Werkzeug geprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14201,
+      "char_end": 14270,
+      "text": "- Die Nutzungsbedingungen des ausgewählten KI-Werkzeugs sind bekannt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14272,
+      "char_end": 14294,
+      "text": "Während der Verwendung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14296,
+      "char_end": 14349,
+      "text": "- Es werden keine personenbezogenen Daten eingegeben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14350,
+      "char_end": 14413,
+      "text": "- Hochgeladene Inhalte enthalten keine personenbezogenen Daten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14414,
+      "char_end": 14478,
+      "text": "- Es wird kein urheberrechtlich geschütztes Material eingegeben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14479,
+      "char_end": 14555,
+      "text": "- Hochgeladene Inhalte enthalten kein urheberrechtlich geschütztes Material.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14556,
+      "char_end": 14617,
+      "text": "- Es wird kein Material aus vertraulichen Quellen eingegeben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14618,
+      "char_end": 14691,
+      "text": "- Hochgeladene Inhalte enthalten kein Material aus vertraulichen Quellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14693,
+      "char_end": 14947,
+      "text": "Eine Ausnahme bilden entsprechend gekennzeichnete KI-Systeme, die an der UOS gehostet werden und keine Daten an Server außerhalb der UOS weitergeben. Hierdurch können auch personenbezogene Daten oder Material aus vertraulichen Quellen verarbeitet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14949,
+      "char_end": 14968,
+      "text": "Nach der Verwendung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14970,
+      "char_end": 15050,
+      "text": "- Entscheidungen und Bewertungen beruhen primär auf menschlicher Urteilsfindung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15051,
+      "char_end": 15119,
+      "text": "- Entscheidungen erfolgen nicht auf Basis von ungeprüftem KI-Output.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15120,
+      "char_end": 15214,
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung auf personenbezogene Daten geprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15215,
+      "char_end": 15322,
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung auf urheberrechtlich geschützte Inhalte geprüft.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15323,
+      "char_end": 15430,
+      "text": "- KI-Output wird vor der Verbreitung oder Veröffentlichung verifiziert und ggf. als solcher gekennzeichnet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15432,
+      "char_end": 15886,
+      "text": "Zum kompetenten Umgang mit KI-Systemen gehört auch ein Bewusstsein für die Risiken und Auswirkungen der Nutzung. Zu den Risiken einer unreflektierten Nutzung zählen, neben Verstößen gegen gesetzliche und hochschulinterne Vorgaben, auch ein Verlust persönlicher Fähigkeiten sowie negative Auswirkungen auf die Umwelt (siehe Chancen und Risiken). Beides kann jedoch reduziert werden, wenn KI-Systeme in zulässigem und angemessenem Umfang eingesetzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15886,
+      "char_end": 15911,
+      "text": "\n\nRechtliche Grundlagen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15911,
+      "char_end": 16365,
+      "text": "In rechtlicher Hinsicht gilt es, sich vor der Nutzung von KI-Systemen insbesondere mit Aspekten des Datenschutzes sowie des Schutzes von Urheber- und Persönlichkeitsrechten vertraut zu machen. Dies gilt gleichermaßen für Studierende, Lehrende, Prüfende und Forschende. Zusätzlich sind die Regeln guter wissenschaftlicher Praxis sowie die Allgemeinen Geschäftsbedingungen der Anbieter bzw. die Nutzungsbedingungen der gewählten KI-Hilfsmittel zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16367,
+      "char_end": 17136,
+      "text": "In Deutschland bildet die europäische KI-Verordnung (KI-VO), zusammen mit der Datenschutz-Grundverordnung (DSGVO), dem Urheberrechtsgesetz (UrhG) sowie weiteren Richtlinien und Verordnungen den rechtlichen Rahmen für die KI-Nutzung in Studium, Lehre und Forschung. Diese Dokumente definieren u. a. die Schutzfähigkeit von Werken sowie die Verantwortung und Pflichten von Nutzenden. Hinzu kommen hochschulinterne Regelungen. An der UOS umfasst dies u. a. die Leitlinie zum Einsatz KI-basierter Anwendungen sowie die vorliegenden Handlungsempfehlungen. Weitere Regeln können z. B. innerhalb der Fachbereiche, Fächer etc. vorgegeben sein. Auch die Allgemeine Prüfungsordnung (APO), die Online-Prüfungsordnung (OPO) sowie fachspezifische Prüfungsordnungen sind zu beachten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17138,
+      "char_end": 17802,
+      "text": "Die hier wiedergegebenen rechtlichen Einschätzungen dienen der Orientierung und stellen keine Rechtsberatung dar. Sie basieren u. a. auf dem Dokument ‚Rechtliche Aspekte des Einsatzes von KI in Studium, Lehre und Prüfung‘ (2023) und dem Foliensatz ‚GKI in Prüfungen - Eine prüfungsrechtliche Herausforderung‘ (2025) von Dr. Janine Horn, dem Foliensatz ‚Überblick KI-Verordnung‘ (2024) von Theresia Rasche sowie dem Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung für Hochschulen (2025) von Prof. Dr. Thomas Hoeren. Trotz sorgfältiger Prüfung der hier wiedergegebenen Inhalte, besteht keine Gewähr für deren Korrektheit, Vollständigkeit und Aktualität.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17804,
+      "char_end": 17838,
+      "text": "Übersicht der Gesetze und Vorgaben",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17840,
+      "char_end": 18133,
+      "text": "Die Gesetzgebung hinsichtlich der Verwendung von KI-Systemen im Hochschulkontext bleibt auch nach Veröffentlichung der KI-Verordnung lückenhaft. Die folgende Übersicht bietet eine Zusammenstellung bestehender Gesetze und Vorgaben, aus denen zusätzliche Einschätzungen abgeleitet werden können.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18135,
+      "char_end": 18186,
+      "text": "| Gesetze und Vorgaben | Was wird darin geregelt? |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18187,
+      "char_end": 18238,
+      "text": "|----------------------|--------------------------|",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18239,
+      "char_end": 18343,
+      "text": "| Urheberrechtsgesetz (UrhG) | Urheberrechtsschutz, Nutzungsrechte an Input, Output und Trainingsdaten |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18344,
+      "char_end": 18505,
+      "text": "| KI-Verordnung (KI-VO bzw. AI Act) | Verantwortung und Pflichten von Anbietern und Betreibern von KI-Systemen, Schutz der von KI-Systemen betroffenen Personen |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18506,
+      "char_end": 18608,
+      "text": "| KI-Haftungsrichtlinie | verschuldungsabhängige Haftung von Anbietern und Nutzenden von KI-Systemen |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18609,
+      "char_end": 18775,
+      "text": "| Allgemeine Geschäftsbedingungen (AGB) der KI-Anbieter | Kennzeichnungspflichten, Einhaltung ethischer Grundlagen, Nutzungsrechte und Haftung bezüglich des Outputs |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18776,
+      "char_end": 19058,
+      "text": "| Datenschutz-Grundverordnung (DSGVO) | Verantwortung und Pflichten bei der Datenverarbeitung, Rechte betroffener Personen, wenn eine KI mit personenbezogenen Daten gespeist wird, wenn sie diese Daten verwendet oder wenn sie als Grundlage für personenbezogene Entscheidungen dient |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19059,
+      "char_end": 19191,
+      "text": "| Bundesdatenschutzgesetz (BDSG) | füllt Öffnungsklauseln der DSGVO, findet nur Anwendung, soweit die DSGVO nicht unmittelbar gilt |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19192,
+      "char_end": 19394,
+      "text": "| Niedersächsisches Datenschutzgesetz (NDSG) | gilt ergänzend zur DSGVO, erfasst alle Sachverhalte in denen personenbezogene Daten durch öffentliche Stellen des Landes Niedersachsen verarbeitet werden |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19395,
+      "char_end": 19621,
+      "text": "| Position der Landesbeauftragten für den Datenschutz (LfD) Niedersachsen | Verarbeitung personenbezogener Daten bei der Aufsicht elektronischer Präsenz- und Fernprüfungen, KI-basierte automatisierte Einzelfallentscheidungen |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19622,
+      "char_end": 19940,
+      "text": "| Niedersächsisches Hochschulgesetz (NHG) in Verbindung mit Hochschulordnungen | Eigenständigkeit der Prüfungsleistung, zulässige Prüfungsarten und -formen, elektronische Prüfungsformen und deren Aufsicht (elektronische Fernprüfungen), Erlaubnistatbestände zur Verarbeitung personenbezogener Daten zu Prüfungszwecken |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19941,
+      "char_end": 20064,
+      "text": "| Leitlinie zum Einsatz KI-basierter Anwendungen an der Universität Osnabrück | Grundsätze des Umgangs mit generativer KI |",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20064,
+      "char_end": 20101,
+      "text": "\n\nSchutzfähigkeit und Urheberschaft\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20101,
+      "char_end": 20360,
+      "text": "Für KI-generierte Inhalte gilt bislang, dass diese in der Regel nicht urheberrechtlich geschützt sind, da Werkschutz laut UrhG menschliche Schöpfung erfordert. Ob ein Werk über Schöpfungshöhe verfügt, hängt z. B. von dessen Originalität und Individualität ab.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20362,
+      "char_end": 21075,
+      "text": "KI-Systeme können rechtlich nicht als Urheber der durch sie generierten Inhalte gelten. Auch Anbieter generativer KI-Systeme haben in der Regel keine Rechteinhaberschaft nach dem UrhG oder verwandten Schutzrechten. Ebenso können Nutzende von KI-Systemen nicht als Urheber:innen KI-generierter Inhalte gelten, solange sie nicht hinreichend gestalterischen Einfluss auf das Werkschaffen haben. D. h. aber auch: Nutzende können Urheber:innen KI-generierter Inhalte sein, sofern sie innerhalb des Schaffensprozesses hinreichend Einfluss auf die generierten Inhalte haben. Dies gilt in gleicher Weise, wenn sie KI-generierte Inhalte in ausreichendem Maße weiterbearbeiten oder arrangieren. Unterschieden wird zwischen:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21077,
+      "char_end": 21142,
+      "text": "- ausschließlich KI-generierten, nicht schutzfähigen Inhalten und",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21143,
+      "char_end": 21250,
+      "text": "- KI-gestützten, menschlichen, schutzfähigen Schöpfungen (bei denen KI nur als Hilfsmittel verwendet wird).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21252,
+      "char_end": 21294,
+      "text": "Sorgfaltspflicht und Kennzeichnungspflicht",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 207,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21296,
+      "char_end": 21846,
+      "text": "Werden KI-Systeme zum Generieren von Texten, Bildern, Programmiercodes etc. verwendet, tragen die Nutzenden hierfür die Verantwortung. Die generierten Inhalte sind eigenständig von ihnen zu verifizieren sowie auf Fehlerhaftigkeit und z. B. hetzerische oder diskriminierende Aussagen zu überprüfen. Nutzende sind ebenso dafür verantwortlich, KI-generierte Inhalte hinsichtlich normativer Über- oder Unterrepräsentationen und Auslassungen zu prüfen. Das betrifft sowohl Personen bzw. Personengruppen als auch wissenschaftliche und anderweitige Inhalte.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21848,
+      "char_end": 22229,
+      "text": "Nutzende, die KI-generierte Ergebnisse ungeprüft und ungekennzeichnet übernehmen, laufen Gefahr, Quellen nicht ausreichend zu kennzeichnen. Zwar besteht laut UrhG bislang keine Kennzeichnungspflicht für KI-generierte Inhalte, diese kann sich jedoch z. B. aus den Lizenz- oder Nutzungsbedingungen der Anbieter von KI-Systemen ergeben sowie aus internen Vorschriften der Hochschulen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22231,
+      "char_end": 22379,
+      "text": "An der UOS sind vollständig oder in Teilen von generativen KI-Werkzeugen geschaffene Inhalte immer als solche zu kennzeichnen (siehe Dokumentation).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22381,
+      "char_end": 23047,
+      "text": "Die Veröffentlichung KI-generierter Inhalte, die urheberrechtlich geschütztes Material Dritter enthalten, stellt eine Rechtsverletzung dar. Auch wenn KI-generierte Inhalte grundsätzlich erlaubnisfrei weiterverwendet werden können, besteht die Möglichkeit, dass sie urheberrechtlich geschützte Materialien enthalten, auf Trainingsdaten basieren, die urheberrechtlich geschütztes Material beinhalten, oder falsche Informationen enthalten, ohne dass dies für die Nutzenden ersichtlich ist. Ohne die Zustimmung ggf. vorhandener Rechteinhaber:innen können aber auch KI-generierte Inhalte entsprechend der folgenden gesetzlichen Nutzungserlaubnisse weiterverwendet werden:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23049,
+      "char_end": 23072,
+      "text": "- Zitatrecht, § 51 UrhG",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23073,
+      "char_end": 23118,
+      "text": "- Karikatur, Parodie und Pastiche, § 51a UrhG",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23119,
+      "char_end": 23167,
+      "text": "- Kopieren und Teilen zu Lehrzwecken, § 60a UrhG",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23168,
+      "char_end": 23205,
+      "text": "- Übernahme in Lehrmedien, § 60b UrhG",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23206,
+      "char_end": 23272,
+      "text": "- Kopieren und Teilen zur wissenschaftlichen Forschung, § 60c UrhG",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23273,
+      "char_end": 23376,
+      "text": "- Verwendung von Datenbankinhalten zu Lehr- und Forschungszwecken, § 87c Absatz 1 Nr. 2 und Nr. 3 UrhG.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23376,
+      "char_end": 23391,
+      "text": "\n\nDatenschutz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23391,
+      "char_end": 23951,
+      "text": "Die Eingabe von Daten in KI-Systeme erfordert besondere Sorgfalt hinsichtlich des Schutzes von personenbezogenen Daten und der Wahrung von Persönlichkeitsrechten. Dies betrifft sowohl das Verfassen von Prompts, als auch das Hochladen von Dateien. Laut Artikel 4 der DSGVO stellen \"alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche […] Person beziehen\" personenbezogene Daten dar. Dies schließt u. a. Namen und Vornamen, E-Mail-Adressen, die Vor- und Nachnamen enthalten, Privatanschriften sowie Gesundheitsinformationen ein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23953,
+      "char_end": 24302,
+      "text": "Personenbezogene Daten dürfen im Rahmen von Studium, Lehre und Forschung in KI-Systeme eingegeben werden, die von der Universität selbst betrieben (lokal gehostet) werden und keine personenbezogenen Daten an externe Anbieter weitergeben. Welche Systeme dies sind und welche datenschutzkonformen Einstellungen sie bieten, ist unter KI@UOS nachlesbar.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24304,
+      "char_end": 24563,
+      "text": "Auch wenn lokal gehostete KI-Systeme nicht in jeder Hinsicht mit den Diensten führender kommerzieller Anbieter vergleichbar sind, ist der Schutz personenbezogener Daten – einschließlich der eigenen – ein wichtiger Aspekt bei der Wahl des geeigneten Werkzeugs.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24565,
+      "char_end": 25049,
+      "text": "Kommen im Rahmen von Studium, Lehre und Forschung dennoch KI-Systeme zum Einsatz, die nicht von der Universität selbst betrieben werden, ist eine datenschutzkonforme Verwendung zu sichern: Sobald personenbezogene Daten durch einen externen Dienst verarbeitet werden, bedarf es einem Auftragsverarbeitungsvertrag (AVV) nach Art. 28 der DSGVO, bei dem die Universität eine entsprechende Kontrolle vornimmt. Der Einsatz von KI-Systemen externer Anbieter ist davon abgesehen möglich, wenn",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25051,
+      "char_end": 25192,
+      "text": "- die Nutzung freiwillig erfolgt und keinerlei Nachteile für diejenigen entstehen, die sich gegen die Nutzung des Werkzeugs entscheiden, oder",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25193,
+      "char_end": 25350,
+      "text": "- sie keine Eingabe personenbezogener Daten der Nutzenden erfordern und per VPN der Universität genutzt werden können, um die eigene IP-Adresse zu maskieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25350,
+      "char_end": 25385,
+      "text": "\n\nKI-Einsatz in Studium und Lehre\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25385,
+      "char_end": 25805,
+      "text": "Die UOS bestärkt Lehrende darin, KI offen zu begegnen und sie bei geeigneten Voraussetzungen in die Lehre zu integrieren. Dies kann je nach Fachdisziplin und Lehrveranstaltung auf unterschiedliche Weise erfolgen. KI kann z. B. als Lerngegenstand thematisiert, vor dem Hintergrund des Faches reflektiert oder als Werkzeug eingesetzt werden. Anregungen für konkrete Anwendungsszenarien bietet das Infoportal Lehre der UOS.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25807,
+      "char_end": 25924,
+      "text": "Vor dem Einsatz von KI-Systemen in Studium und Lehre sind grundlegende Kenntnisse in folgenden Bereichen zu erwerben:",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25926,
+      "char_end": 25983,
+      "text": "- Funktionsweise und Grenzen (siehe Begriffsbestimmungen)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25984,
+      "char_end": 26044,
+      "text": "- zulässige Anwendungsbereiche (siehe Rechtliche Grundlagen)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26045,
+      "char_end": 26099,
+      "text": "- potentielle Auswirkungen (siehe Chancen und Risiken)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26101,
+      "char_end": 26414,
+      "text": "Dürfen Studierende KI-Systeme im Kontext von Lehrveranstaltungen verwenden, sollen Lehrende zuvor sicherstellen, dass die Studierenden über entsprechende KI-Kompetenz verfügen. Der jeweilige Kompetenzgrad ergibt sich dabei aus der Art und dem Kontext der KI-Nutzung. Die folgende Abstufung dient der Orientierung:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26416,
+      "char_end": 26947,
+      "text": "- Erklären Lehrende die Nutzung von KI-Systemen als zulässig, sollen sie ihre Studierenden darauf hinweisen, welche grundlegende KI-Kompetenz sie benötigen und wie sie diese erwerben können (siehe Kompetenz und Verantwortung). Den Studierenden soll außerdem mitgeteilt werden, auf welche Art die Nutzung von KI als Hilfsmittel zu dokumentieren ist (siehe Dokumentation) und dass weder jene, die sich für die Nutzung entscheiden, noch jene, die sich gegen die Nutzung entscheiden, einen Nachteil bei der Leistungsbewertung erfahren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26949,
+      "char_end": 27322,
+      "text": "- Ermöglichen Lehrende die Nutzung spezifischer KI-Systeme, indem sie diese z. B. in den Veranstaltungskontext integrieren, sind den Studierenden ggf. über die grundlegende KI-Kompetenz hinausgehende technische, rechtliche oder ethische Kompetenzen zu vermitteln. Zudem wird empfohlen, die Vermittlung der im Rahmen der Aufgabe erforderlichen KI-Kompetenz zu dokumentieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27324,
+      "char_end": 27565,
+      "text": "- Verlangen Lehrende die Verwendung von KI im Rahmen der Leistungserbringung, sollen sie grundlegende KI-Kompetenz sowie ggf. erforderliche weitere Kompetenzen als Teil der Lehrveranstaltung vermitteln und deren Sicherstellung dokumentieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27567,
+      "char_end": 27946,
+      "text": "In manchen Fällen bieten Prüfungsordnungen und Modulhandbücher Informationen zum vorhandenen Kompetenzgrad der Studierenden. Andernfalls kann z. B. eine Selbstauskunft der Studierenden eingeholt oder ein Test durchgeführt werden. Ein Standard hinsichtlich der Sicherstellung von KI-Kompetenz durch Lehrende besteht derzeit nicht. Der Grad der Sicherstellung hängt z. B. davon ab,",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27948,
+      "char_end": 28025,
+      "text": "- ob KI-Nutzung aktiv zugelassen, ermöglicht oder verlangt wird (siehe oben),",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28026,
+      "char_end": 28145,
+      "text": "- in welchem Umfang sie erfolgt (z. B. einfache Texte, Bilder etc. generieren lassen oder einen Chatbot programmieren),",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28146,
+      "char_end": 28296,
+      "text": "- zu welchem Zweck sie erfolgt (z. B. veranstaltungsintern große Datenmengen analysieren oder für die Öffentlichkeit bestimmte Produkte erstellen) und",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28297,
+      "char_end": 28393,
+      "text": "- welche technischen, rechtlichen und ethischen Vorkenntnisse seitens der Studierenden bestehen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28395,
+      "char_end": 28623,
+      "text": "Ermöglichen Lehrende die Nutzung von KI-Systemen für Studierende im Rahmen von Lehrveranstaltungen, ist diese Nutzung datenschutzkonform zu gestalten. Eine für Studierende verpflichtende Nutzung von KI-Systemen ist erlaubt, wenn",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28625,
+      "char_end": 28700,
+      "text": "- die Dienste von der UOS selbst bereitgestellt werden (siehe Datenschutz),",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28701,
+      "char_end": 28855,
+      "text": "- die Dienste keine Eingabe personenbezogener Daten der Nutzenden erfordern und per VPN der UOS genutzt werden, um die eigene IP-Adresse zu maskieren oder",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28856,
+      "char_end": 28975,
+      "text": "- die Dienste auf Grundlage eines Auftragsverarbeitungsvertrags (AVV) mit der UOS verwendet werden (siehe Datenschutz).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28977,
+      "char_end": 29168,
+      "text": "Lehrende können die Aktivitäten ihrer Studierenden in den von der UOS bereitgestellten KI-Systemen nicht einsehen. Das heißt, sie sehen weder ob, noch wie Studierende diese KI-Systeme nutzen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29170,
+      "char_end": 29779,
+      "text": "In welchem Umfang die KI-Nutzung im Rahmen einer Lehrveranstaltung erlaubt ist, wie sie zu dokumentieren ist und welche Konsequenzen bei Nichtbeachtung der Vorgaben möglich sind, sollte den Studierenden im Voraus schriftlich mitgeteilt werden. Lehrende können ihrer grundlegenden Informationspflicht gegenüber den Studierenden nachkommen, indem sie auf entsprechende Informationsmaterialien und Weiterbildungsformate der UOS zurückgreifen. Einige Angebote lassen sich direkt in Stud.IP-Veranstaltungen integrieren. Auch andere Hochschulen, Einrichtungen, Vereine etc. bieten weitere Informationsmöglichkeiten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29781,
+      "char_end": 29966,
+      "text": "Der Einsatz von KI-Systemen mit allgemeinem Verwendungszweck, wie z. B. einem KI-Chatsystem, zur automatisierten Bewertung von Lernergebnissen ist untersagt (siehe Chancen und Risiken).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29966,
+      "char_end": 30002,
+      "text": "\n\nDokumentation und Referenzierung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30002,
+      "char_end": 30328,
+      "text": "An der UOS werden Studierende mit den Praktiken wissenschaftlichen Arbeitens vertraut gemacht und können diese einüben. Ein wesentlicher Bestandteil der Ausbildung ist das eigenständige Verfassen wissenschaftlicher Texte. Hierbei gilt, gemäß guter wissenschaftlicher Praxis rechtskonform und ethisch verantwortlich zu handeln.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30330,
+      "char_end": 30530,
+      "text": "KI-Systeme können sich als nützliche Hilfsmittel für das wissenschaftliche Arbeiten erweisen, sofern Nutzende sich möglicher Risiken bewusst sind und KI in zulässiger und angemessener Weise verwenden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30532,
+      "char_end": 31086,
+      "text": "Laut Leitlinie zum Einsatz KI-basierter Anwendungen an der UOS, sind vollständig oder in Teilen von generativen KI-Werkzeugen geschaffene Inhalte stets als solche zu kennzeichnen. Welche KI-basierten Hilfsmittel eingesetzt wurden und in welchem Umfang, lässt sich auf verschiedene Arten dokumentieren. Insbesondere Listen und Tabellen bieten sich an. Bestehen keine spezifischen Vorgaben seitens des Fachbereichs oder Fachs, können die Lehrenden eigene Regeln vorgeben. Diese sollten den Studierenden im Vorfeld schriftlich zur Verfügung gestellt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31088,
+      "char_end": 31225,
+      "text": "Eine einfache Liste kann Auskunft darüber geben, ob KI-basierte Anwendungen genutzt wurden und falls dem so ist, zu welchem Zweck, z. B.:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31227,
+      "char_end": 31249,
+      "text": "- für die Ideenfindung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31250,
+      "char_end": 31269,
+      "text": "- für die Recherche",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31270,
+      "char_end": 31287,
+      "text": "- zur Übersetzung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31288,
+      "char_end": 31308,
+      "text": "- zur Visualisierung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 125,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31309,
+      "char_end": 31345,
+      "text": "- zum Generieren von Programmiercode",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31346,
+      "char_end": 31375,
+      "text": "- zur Bearbeitung von Bildern",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31377,
+      "char_end": 31539,
+      "text": "Diese Art des Nachweises bietet sich u. a. bei kürzeren schriftlichen Arbeiten oder Präsentationen an und kann von den Studierenden selbstständig angelegt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31541,
+      "char_end": 31732,
+      "text": "Mithilfe einer Tabelle können Art und Umfang der Nutzung KI-basierter Anwendung noch genauer festgehalten werden. Hierbei bietet es sich an, dass Lehrende die erforderlichen Angaben vorgeben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 129,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31734,
+      "char_end": 31823,
+      "text": "| Arbeitsschritt | verwendete KI-basierte Anwendung(en) | Art und Umfang der Verwendung |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 130,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31824,
+      "char_end": 31913,
+      "text": "|----------------|--------------------------------------|-------------------------------|",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 131,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31914,
+      "char_end": 32080,
+      "text": "| Ideenfindung | ChatGPT | Vergleich eigener Ideen mit anschließend KI-generierten Vorschlägen und Übernahme von zwei Aspekten (Chat-Verlauf im Anhang dokumentiert) |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 132,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32081,
+      "char_end": 32189,
+      "text": "| Recherche | Perplexity | Recherche zum geschichtlichen Hintergrund (Chat-Verlauf im Anhang dokumentiert) |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 133,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32190,
+      "char_end": 32264,
+      "text": "| Formulierung | ChatGPT | sprachliche Überarbeitung des gesamten Textes |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 134,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32265,
+      "char_end": 32358,
+      "text": "| Übersetzung | DeepL | Übersetzung des in Kapitel 3, Absatz 2 referenzierten Quellentextes |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 135,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32359,
+      "char_end": 32541,
+      "text": "| Visualisierung | Mindverse | Generieren einer Idee zur Visualisierung des in Kapitel 4, Abschnitt 5 beschriebenen Prozesses; intensive eigenständige Überarbeitung der Darstellung |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 136,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32542,
+      "char_end": 32568,
+      "text": "| Gliederung | ... | ... |",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 137,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32570,
+      "char_end": 32997,
+      "text": "Unterstützung bei Fragen zur Dokumentation bieten die Hinweise und Arbeitsmaterialien ‚KI-Gebrauch im Studienkontext dokumentieren‘, die in der Austauschrunde niedersächsischer Hochschulen zum Thema KI und Recht entwickelt wurden. Sie zeigen Möglichkeiten, wie die Verwendung KI-basierter Hilfsmittel im Bereich der Leistungserbringung reflektiert erfolgen, im Sinne einer Quelle kenntlich gemacht und dokumentiert werden kann.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 138,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32999,
+      "char_end": 33280,
+      "text": "Die Modern Language Association of America (MLA) und die American Psychological Association (APA) geben Hinweise zur Kenntlichmachung KI-generierter Inhalte (in englischer Sprache). Diese oder vergleichbare Regeln können Lehrende ihren Studierenden ggf. zur Orientierung empfehlen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 139,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33280,
+      "char_end": 33303,
+      "text": "\n\nChancen und Risiken\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 33303,
+      "char_end": 33472,
+      "text": "Ein kompetenter, reflektierter Einsatz von KI-Systemen, bietet sowohl Lehrenden als auch Studierenden Möglichkeiten der Arbeitsentlastung und persönlichen Weiterbildung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 140,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33474,
+      "char_end": 34149,
+      "text": "Die reflektierte Verwendung von KI-Systemen kann die Stärkung individueller Fähigkeiten unterstützen. So lässt sich etwa die Entwicklung von Problemlösungsstrategien oder eine Verbesserung der Ausdrucksfähigkeit erreichen, wenn mit Hilfe von KI-basierten Werkzeugen themenspezifische Aufgaben generiert werden, um die menschliche Intelligenz zu trainieren. Zudem kann die kritische Auseinandersetzung mit KI-generierten Inhalten dabei helfen, sich ihrer potentiellen Auswirkungen auf die menschliche Kompetenz- und Meinungsbildung bewusst zu werden. Dies betrifft z. B. die Identifikation und Einordnung bewusst verbreiteter Verzerrungen sowie fehlerhaft generierter Inhalte.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 141,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34151,
+      "char_end": 34536,
+      "text": "Der KI-Campus, eine vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Lernplattform für Künstliche Intelligenz, bietet Lehrenden und Studierenden ein vielfältiges Angebot an kostenlosen Online-Kursen, Podcasts, Blogbeiträgen etc. zur Stärkung von KI- und Datenkompetenzen. Auch das Infoportal Lehre der UOS stellt KI-Werkzeuge und Nutzungsszenarien vor.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 142,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34538,
+      "char_end": 35137,
+      "text": "Eine unreflektierte Nutzung von KI-Systemen kann sich negativ auf vorhandene Fähigkeiten auswirken bzw. den Erwerb neuer Kompetenzen verhindern, wofür auch die Begriffe ‚Deskilling‘ bzw. ‚Skill Skipping‘ verwendet werden. Diese Auswirkungen treten insbesondere dann auf, wenn KI-Systeme nicht mehr als Hilfsmittel eingesetzt werden, sondern Aufgaben anstelle der Nutzenden erledigen. Wird z. B. das Erstellen der Argumentationsstruktur und die wissenschaftliche Ausdrucksweise beim Verfassen einer Seminararbeit KI-Systemen überlassen, fehlt den Studierenden die Entwicklung eben dieser Kompetenzen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 143,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35139,
+      "char_end": 35822,
+      "text": "Welche Auswirkungen die Nutzung von KI-Chatsystemen auf das menschliche Gehirn haben kann, untersuchte eine US-Amerikanische Studie mit dem Titel ‚Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task‘. Eine Beobachtung daraus betrifft den Einfluss des Zeitpunkts der KI-Nutzung im Schreibprozess auf die neuronale Aktivität im menschlichen Gehirn: Wird KI im Anschluss an die eigene Schreibleistung zur weiteren Bearbeitung eingesetzt, kann dies positive Auswirkungen haben. Der Einsatz von KI vor der menschlichen Eigenleistung im Schreibprozess kann hingegen zu einer weniger koordinierten neuronalen Aktivität des Gehirns führen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 144,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35824,
+      "char_end": 36068,
+      "text": "Speziell Studierende sollten ihr Bewusstsein dafür stärken, welche Auswirkungen sowohl die unreflektierte als auch die reflektierte Nutzung von KI-Systemen auf den persönlichen Lernfortschritt und die Entwicklung eigener Fähigkeiten haben kann.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 145,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36070,
+      "char_end": 36354,
+      "text": "Eine unreflektierte Nutzung von KI-Systemen kann auch rechtliche Folgen haben. Wird z. B. ein KI-System mit allgemeinem Verwendungszweck, das den Nutzenden über die UOS zugänglich ist, auf unzulässige Weise verwendet, kann dies eine Nutzung im Sinne eines Hochrisiko-Systems bedeuten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 146,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36356,
+      "char_end": 37203,
+      "text": "KI-Systeme, die in der Bildung eingesetzt werden, um u. a. Lernergebnisse von Personen zu beurteilen oder verbotenes Verhalten von Personen in Prüfungssituationen zu erkennen, werden als Hochrisiko-Systeme eingestuft, da sie über den Verlauf des Bildungswegs und des Berufslebens einer Person entscheiden können. Artikel 16 der KI-VO beschreibt die umfassenden Pflichten der Anbieter von Hochrisiko-KI-Systemen, darunter z. B. Registrierungs- und Dokumentationspflichten sowie das Sicherstellen der Qualität von Trainingsdatensätzen. Würde ein von der UOS zugänglich gemachtes KI-System mit allgemeinem Verwendungszweck im Sinne eines Hochrisiko-Systems verwendet, unterläge die UOS ggf. den gleichen Pflichten. Vermeiden lässt sich dies jedoch, durch das Beachten grundlegender Regeln im Umgang mit KI-Systemen (siehe Datenschutz und Checkliste).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 147,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37205,
+      "char_end": 38258,
+      "text": "Neben der rechtlichen Zulässigkeit und der persönlichen Kompetenzentwicklung, gilt es bei der Nutzung von KI-Systemen auch ökologische, soziale und wirtschaftliche Implikationen sowie ethische Standards im Blick zu haben. In welchem Verhältnis stehen z. B. der für ein KI-System erforderliche Ressourcenverbrauch und die zu erledigende Aufgabe? Ist ersichtlich, inwiefern Anbieter von generativen KI-Systemen Informationen ggf. zensieren oder verzerren? Fragen dieser Art werden Schritt für Schritt auch seitens der UOS adressiert. Dass der Leistungsumfang eines KI-Systems sowie der Umfang von Input und Output die Auswirkungen der Nutzung auf die Umwelt beeinflussen, ergab eine an der Hochschule München durchgeführte Studie zum Energieverbrauch von KI-Chats. Den Ergebnissen zufolge, macht es einen nachweisbaren Unterschied, wenn die Wahl des KI-Modells bewusst an die Anforderungen der Aufgabe angepasst wird. Auch die Anweisung an ein Chatsystem, den Output kurz und präzise zu formulieren, kann sich bereits positiv auf die CO2-Bilanz auswirken.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 148,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38258,
+      "char_end": 38278,
+      "text": "\n\nKI und Prüfungen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 38278,
+      "char_end": 38481,
+      "text": "Die Möglichkeit des Einsatzes von KI-Systemen in Prüfungen stellt alle Beteiligten vor komplexe Herausforderungen. Eine regelkonforme Nutzung erfordert entsprechendes Wissen und verantwortliches Handeln.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 149,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38483,
+      "char_end": 38798,
+      "text": "Wird der Einsatz von KI-Systemen erlaubt, bedarf er einer Regelung. Prüfende sollten in diesem Fall schriftlich festlegen, in welchem Umfang den zu Prüfenden die Nutzung erlaubt ist, wie sie zu dokumentieren ist und welche Konsequenzen bei Nichtbeachtung der Vorgaben drohen (siehe KI-Einsatz in Studium und Lehre).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 150,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 38800,
+      "char_end": 39206,
+      "text": "Die Definition des zulässigen Nutzungsrahmens richtet sich nach den Vorgaben der entsprechenden Prüfungsordnungen sowie den Anforderungen an die jeweilige Prüfungsleistung und erfolgt i. d. R. auf Fach- oder Lehrveranstaltungsebene. Wird sie transparent kommuniziert, vermittelt sie den zu Prüfenden Sicherheit, beugt unbeabsichtigtem Fehlverhalten vor und wirkt sich positiv auf die Chancengleichheit aus.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 151,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 39208,
+      "char_end": 39572,
+      "text": "Prüfende können KI-Systeme mit allgemeinem Verwendungszweck zum Konzipieren von Prüfungen und Erstellen von Aufgaben verwenden, wenn der Input gemäß geltender gesetzlicher Vorgaben erfolgt (siehe Rechtliche Grundlagen) und der Output vor der weiteren Verwendung auf Richtigkeit und Eignung geprüft, sowie als KI-generiert gekennzeichnet wird (siehe Dokumentation).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 152,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 39574,
+      "char_end": 39709,
+      "text": "Im Rahmen der Leistungsbewertung dürfen KI-Systeme mit allgemeinem Verwendungszweck nur dann eingesetzt werden, wenn gewährleistet ist,",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 153,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 39711,
+      "char_end": 39924,
+      "text": "- dass das genutzte KI-System keine Daten an Server außerhalb der UOS weitergibt (siehe Datenschutz) - andernfalls besteht die Gefahr, das Urheberrechtsgesetz oder die Datenschutzgrundverordnung zu verletzen - und",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 154,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 39925,
+      "char_end": 40167,
+      "text": "- dass die Bewertung durch die Prüfenden selbst erfolgt und ihre Entscheidungsfindung nicht wesentlich beeinflusst wird - andernfalls besteht die Gefahr das KI-System im Sinne eines Hochrisiko-Systems zu verwenden (siehe Chancen und Risiken).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 155,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 40169,
+      "char_end": 40555,
+      "text": "Prüfende müssen sicherstellen, dass die Letztentscheidung von ihnen selbst getroffen wird und sie somit die Verantwortung für die Prüfungsbewertung tragen. Ein KI-System darf aber z. B. verwendet werden, um vorbereitende Aufgaben für die Bewertung durchzuführen, sofern die oben genannten Kriterien erfüllt sind und die KI-generierten Inhalte auf Korrektheit und Eignung geprüft werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 156,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 40555,
+      "char_end": 40575,
+      "text": "\n\nEigenständigkeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 40575,
+      "char_end": 41137,
+      "text": "Das Verfassen insbesondere schriftlicher Arbeiten ermöglicht die intensive Auseinandersetzung mit einer spezifischen fachlichen Thematik und erlaubt Studierenden das Einüben wissenschaftlicher Regularien. Zudem dient es mehrheitlich der Erbringung von Studiennachweisen oder Prüfungsleistungen, die wiederum Ergebnisse der jeweiligen Lern- bzw. Schreibprozesse darstellen. Diese Prozesse sind individuell und beinhalten unterschiedliche Herangehensweisen, Lösungswege und Hilfsmittel, deren Zulässigkeit den Prinzipien guter wissenschaftlicher Praxis unterliegt.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 157,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 41139,
+      "char_end": 41272,
+      "text": "Eine Arbeit in Gänze oder auch nur in Teilen durch Andere erstellen zu lassen, seien es Menschen oder KI-Systeme, ist nicht zulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 158,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 41274,
+      "char_end": 41655,
+      "text": "Legitim ist es hingegen, sich unter Gewährleistung der Schöpfungshöhe (siehe Schutzfähigkeit und Urheberschaft) Feedback zu Teilprozessen einzuholen, da sich diese Praxis positiv auf die Auseinandersetzung mit dem Inhalt auswirkt. Hierzu zählt z. B., sich durch ein KI-System Fragen generieren zu lassen, um das Formulieren von Antworten ohne Verwendung von Hilfsmitteln einzuüben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 159,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 41657,
+      "char_end": 42153,
+      "text": "Studierende sind dazu verpflichtet, ihre Prüfungsleistungen eigenständig zu erbringen und relevante Hilfsmittel sowie Quellen aller Art anzugeben (siehe Rechtliche Grundlagen). Welche (KI-)Hilfsmittel im gegebenen Kontext zulässig sind, in welchem Umfang sie genutzt werden dürfen, wie ihre Verwendung gekennzeichnet werden soll und welche Rolle der Lehrperson im Bearbeitungsprozess zukommt, sollte im Vorfeld seitens der Lehrenden bzw. der Fächer schriftlich festgelegt und kommuniziert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 160,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 42155,
+      "char_end": 42809,
+      "text": "Eine standardisierte Vorlage für Eigenständigkeitserklärungen (verfügbar in deutscher und englischer Sprache) wurde in Abstimmung mit den Studiendekan:innen, der Koordinierungsstelle Prüfungsverwaltung und dem Justitiariat der UOS erstellt und ist für Bachelor- und Masterarbeiten in allen Fachbereichen verbindlich und unverändert zu verwenden. Studierende erhalten einen Link zum Download dieser Vorlagen zusammen mit dem Zulassungsbescheid zur jeweiligen Abschlussarbeit. Die Vorlage kann darüber hinaus für Seminararbeiten und andere Prüfungsformate verwendet werden, wobei in diesem Kontext der Verwendung auch individuelle Anpassungen möglich sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 161,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 42811,
+      "char_end": 43439,
+      "text": "Die konkreten Eigenständigkeitserwartungen von Lehrenden können je nach Veranstaltungs- und Prüfungskontext variieren. Um ihren Anspruch an die Leistungen der Studierenden in Lehrveranstaltungen und Prüfungen transparent zu kommunizieren, können Lehrende im Vorfeld z. B. Lernziele definieren, erlaubte Hilfsmittel und deren Nutzungsumfang benennen und konkrete Erwartungen formulieren. Hierfür bieten sich verschiedene Optionen an, etwa eine Liste von Regeln oder eine Kursvereinbarung, die Lehrende den Studierenden veranstaltungsintern zur Verfügung stellen. Das Infoportal Lehre bietet Informationen zur konkreten Umsetzung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 162,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 43439,
+      "char_end": 43461,
+      "text": "\n\nTäuschungsversuche\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 43461,
+      "char_end": 43932,
+      "text": "Es gibt zahlreiche mögliche Verdachtsmomente für Täuschungsversuche, u. a. in Verbindung mit der Nutzung von KI-Hilfsmitteln. Ein Täuschungsversuch kann z. B. aufgrund einer bewussten oder grob fahrlässigen Nichtkennzeichnung von primär KI-generierten Inhalten oder einer nicht transparent gemachten Nutzung von KI-Systemen vorliegen. Die Eigenleistung einer zu prüfenden Person darf nicht durch Leistungen anderer Personen oder Leistungen von KI-Systemen ersetzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 163,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 43934,
+      "char_end": 44308,
+      "text": "Laut § 15, Absatz 4 der Allgemeinen Prüfungsordnung der UOS (Stand März 2025) gilt die betreffende Prüfungsleistung oder der Studiennachweis als mit „nicht bestanden“ (5,0) bewertet, wenn zu prüfende Personen das Ergebnis einer Prüfungsleistung oder eines Studiennachweises durch Täuschung oder Mitführen oder Nutzen nicht zugelassener Hilfsmittel zu beeinflussen versuchen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 164,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 44310,
+      "char_end": 44640,
+      "text": "In besonders schweren Fällen, kann die gesamte Bachelor- oder Masterprüfung als endgültig nicht bestanden bewertet werden. Gleiches gilt u. a., wenn eine zu prüfende Person Texte oder Textstellen Anderer ohne Kennzeichnung so verwertet, dass über die eigentliche Autorenschaft und die Eigenständigkeit der Leistung getäuscht wird.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 165,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 44640,
+      "char_end": 44663,
+      "text": "\n\nTäuschungsnachweise\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 44663,
+      "char_end": 45090,
+      "text": "Besteht ein begründeter Täuschungsverdacht, sollte dieser auf einer multifaktoriellen Identifikation basieren (z. B. Stilbrüche im Text, nicht auffindbare Quellen oder von der zu prüfenden Person unbeantwortete Fragen zu Inhalt und Aufbau ihrer Prüfungsleistung), da die Beweislast für das Vorliegen eines Täuschungsversuchs bei den Prüfenden liegt. Hierfür können u. a. Erfahrungswerte und Vergleichsfälle herangezogen werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 166,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 45092,
+      "char_end": 45612,
+      "text": "Die UOS stellt derzeit weder eine Plagiatserkennungs-Software zur Verfügung, noch KI-Detektoren, die eine nicht gekennzeichnete Verwendung von KI-Systemen sichtbar machen sollen. Gründe hierfür sind u. a. niedrige Erkennungsraten, teils falsche KI-Zuschreibungen sowie rechtliche Herausforderungen bei der Implementierung solcher Software. Eine durch den Digitale Lehre Hub Niedersachsen (DLHN) veröffentlichte Stellungnahme zum Einsatz von KI-Detektoren zur Überprüfung von Prüfungsleistungen erläutert die Problematik.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 167,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 45614,
+      "char_end": 46155,
+      "text": "Der Versuch seitens der Prüfenden, mit Hilfe von Plagiatserkennungs-Software ein Plagiat nachzuweisen, kann zudem in einem Gesetzesverstoß enden, wenn personenbezogene Daten ohne Genehmigung der Betroffenen in nicht an der Universität gehostete KI-Systeme oder nicht seitens der Universität zur Verfügung gestellte Plagiatserkennungs-Software eingegeben werden. Gleiches gilt für Werke, an denen Dritte Rechte halten. Hierzu können z. B. auch schriftliche Prüfungsleistungen von Studierenden zählen (siehe Schutzfähigkeit und Urheberschaft).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 168,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 46157,
+      "char_end": 46972,
+      "text": "Ein sinnvolles Vorgehen zur Aufdeckung von Täuschungsversuchen - bestenfalls sogar zu ihrer Vermeidung -, stellt die Orientierung an bestehenden gesetzlichen Vorgaben (siehe KI-Einsatz in Studium und Lehre) sowie an den Regeln guter wissenschaftlicher Praxis dar, kombiniert mit einer fach- bzw. fachbereichsinternen Definition spezifischer Regelungen zur Nutzung generativer KI im Prüfungskontext. Hierbei können z. B. Vereinbarungen über die in einer Lehrveranstaltung erlaubten bzw. nicht erlaubten Werkzeuge und Vorgehensweisen zum Einsatz kommen (siehe KI-Einsatz in Studium und Lehre), oder angepasste Eigenständigkeitserklärungen für das Erbringen von Prüfungsleistungen (siehe Eigenständigkeit). Von großer Bedeutung ist dabei die transparente Kommunikation der Vorgaben gegenüber den zu prüfenden Personen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 169,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 46972,
+      "char_end": 47004,
+      "text": "\n\nAnpassung der Prüfungskultur\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 47004,
+      "char_end": 47671,
+      "text": "Um einer unzulässigen Verwendung von KI-Systemen im Zusammenhang mit Prüfungen entgegenzuwirken, erscheint eine Anpassung der Prüfungskultur die wirksamste Maßnahme. Dies schließt die Bereitstellung von Informationen zum Umgang mit KI-Systemen sowie eine anforderungsgerechte Umgestaltung der Prüfungsformate ein. Lehrende sind daher aufgerufen, veranstaltungsbezogene Prüfungsanforderungen sowie die Gestaltung von Prüfungsaufgaben kritisch zu hinterfragen. Dies gilt sowohl in didaktischer Hinsicht als auch bezüglich formaler Aspekte. Anregungen zur praktischen Umsetzung erhalten Lehrende hierbei z. B. im Rahmen von Weiterbildungsangeboten der Hochschuldidaktik.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 170,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 47673,
+      "char_end": 48065,
+      "text": "Besteht Grund zur Annahme, dass die Eigenleistung von Studierenden im üblicherweise vorgesehenen Prüfungsformat nicht zu bewerten sein wird, weil eine Unterscheidung zwischen der Eigenleistung und der Leistung eines KI-Systems nicht mehr möglich scheint, kann der Einsatz von KI-Systemen ausgeschlossen werden. Falls möglich und sinnvoll, sollte die Verwendung jedoch Teil der Prüfung werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 171,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48067,
+      "char_end": 48111,
+      "text": "KI-integriertes Prüfungsdesign kann zugleich",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 172,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48113,
+      "char_end": 48227,
+      "text": "- der Täuschung durch unerlaubte oder nicht gekennzeichnete erlaubte Verwendung von KI-Hilfsmittel entgegenwirken,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 173,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48228,
+      "char_end": 48395,
+      "text": "- die Gewährleistung der Chancengleichheit durch Unterbindung von Täuschungsversuchen und Bereitstellung datenschutzkonformer, kostenloser KI-Hilfsmittel unterstützen,",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 174,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48396,
+      "char_end": 48561,
+      "text": "- Studierenden Kompetenzen im Umgang mit KI-Hilfsmitteln vermitteln, die wertvoll für die persönliche wie auch für die Studien- und Berufslaufbahn sein können, sowie",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 175,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48562,
+      "char_end": 48658,
+      "text": "- Studierenden die Möglichkeit bieten, die Grundsätze guter wissenschaftlicher Praxis einzuüben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 176,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48660,
+      "char_end": 48876,
+      "text": "Mehr Informationen zur Anpassung von Prüfungsformaten bieten z. B. das Infoportal Lehre der UOS und das vom Digitale Lehre Hub Niedersachen (DLHN) herausgegebene Dokument \"Prüfungsformate KI-resistent(er) gestalten\".",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 177,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 48876,
+      "char_end": 48908,
+      "text": "\n\nWeiterführende Informationen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 48908,
+      "char_end": 49253,
+      "text": "Im Folgenden finden Sie Informationsquellen und Weiterbildungsangebote der UOS, weiterer Hochschulen sowie anderer Institutionen und Gruppen, die online oder offline bereitstehen. Die Auswahl bildet lediglich einen kleinen Teil der vielfältigen Möglichkeiten ab, um das eigene Wissen und die individuellen Kompetenzen selbstständig zu erweitern.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 178,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 49255,
+      "char_end": 49293,
+      "text": "Unterstützungsangebote für Studierende",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 179,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 49295,
+      "char_end": 49989,
+      "text": "Die im Zentrum für Digitale Lehre, Campus-Management und Hochschuldidaktik (virtUOS) erstellten Mikromodule (MiMos) stellen digitale Selbstlerneinheiten zu spezifischen Themen dar und informieren u. a. über Gefahren und Möglichkeiten bei der Verwendung von KI-Systemen. Das Mikromodul 'Willkommen im KI-Dschungel' richtet sich insbesondere an Personen ohne Vorkenntnisse, um diese zur effektiven und wissenschaftlichen Verwendung von KI-basierten Werkzeugen zu schulen und sie für Risiken sowie mögliche Fehlinterpretationen zu sensibilisieren. Das Aufbaumodul 'Expedition KI' beschäftigt sich speziell mit textgenerierender KI und der Frage, was Große Sprachmodelle tatsächlich leisten können.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 180,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 49991,
+      "char_end": 50539,
+      "text": "Die Schreibwerkstatt am Sprachenzentrum der UOS bietet eine Handreichung zur Nutzung von KI für universitäre Schreibaufgaben, die sich explizit an Studierende richtet. Zudem finden regelmäßig Workshops zum Thema 'KI und wissenschaftliches Schreiben' statt, die z. T. gemeinsam mit der Universitätsbibliothek angeboten werden, dann mit Informationen zur Nutzung von KI bei der Recherche. Die Nutzung von KI-basierten Anwendungen kann auch in individuellen Schreibberatungen thematisiert werden, sofern der grundsätzliche Umgang vorher geklärt wurde.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 181,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 50541,
+      "char_end": 50906,
+      "text": "Die elan Academy bietet in ihren Online-Selbstlernmaterialien ‚EU AI Act - Gesetzliche Regulierungen von KI und ihre Auswirkungen auf Hochschulen und Lehre‘ eine Einführung in die Grundlagen von KI sowie Informationen zu rechtlichen Rahmenbedingungen. Auch die Lernplattform KI-Campus bietet u. a. kostenlose Online-Kurse zur Stärkung der persönlichen KI-Kompetenz.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 182,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 50908,
+      "char_end": 50943,
+      "text": "Weiterbildungsoptionen für Lehrende",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 183,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 50945,
+      "char_end": 51384,
+      "text": "Im Rahmen der Hochschuldidaktischen Qualifizierung findet an der UOS in der Regel zweimal pro Jahr ein Workshop für Lehrende zum Thema „Kompetenzorientiert Prüfen – Lernfortschritte erfassen, reflektieren, bewerten“ statt. Die Teilnehmenden erhalten Unterstützung bei der Vorbereitung, Durchführung und Benotung kompetenzorientierter Prüfungen. Dabei wird auch auf Besonderheiten angesichts der Verwendung generativer KI-Tools eingegangen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 184,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 51386,
+      "char_end": 51978,
+      "text": "In Zusammenarbeit mit der Koordinierungsstelle Prüfungsverwaltung wird u. a. Lehrenden in regelmäßigen Abständen ein Inhouse-Seminar zum Thema \"Prüfungsrecht an der UOS\" angeboten. Das Seminar vermittelt einen Überblick der rechtlichen Grundlagen des hochschulischen Prüfungswesens anhand der Gesetzeslage und der aktuellen Rechtsprechung. Details zum Inhalt und zur Anmeldung stehen in Stud.IP zur Verfügung. Eine Dokumentation der vergangenen Veranstaltungen sowie weitere Informationen zu den Angeboten der Koordinierungsstelle Prüfungsverwaltung sind über das Intranet der UOS zugänglich.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 185,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 51980,
+      "char_end": 52290,
+      "text": "Die Veranstaltungsreihe KI.kompakt des Digitale Lehre Hub Niedersachsen (DLHN) behandelt aktuelle für die Hochschullehre relevante Themen in kompakter Form und bietet Raum für Fragen und Austausch. Informationen zu anstehenden Terminen bietet die Website des DLHN-Projekts ‚KI in Studium, Lehre und Prüfungen‘.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 186,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52292,
+      "char_end": 52329,
+      "text": "Allgemeine Online-Informationsquellen",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 187,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52331,
+      "char_end": 52493,
+      "text": "Informationen zur KI-Verordnung der Europäischen Union erhalten Sie u. a. auf den Webseiten der Europäischen Union über das KI-Service Desk der Bundesnetzagentur.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 188,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52495,
+      "char_end": 52554,
+      "text": "Hinweise zum „Zitieren“ KI-generierter Inhalte bieten u. a.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 189,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52556,
+      "char_end": 52641,
+      "text": "- die Modern Language Association (MLA) in englischer Sprache: ‘Citing Generative AI’",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 190,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52642,
+      "char_end": 52733,
+      "text": "- die American Psychological Association (APA) in englischer Sprache: ‘How to cite ChatGPT’",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 191,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52734,
+      "char_end": 52927,
+      "text": "- die Handreichung ‚KI-Gebrauch im Studienkontext dokumentieren‘, entstanden in der Arbeitsgruppe ‚Rechtliches‘ der Austauschrunde niedersächsischer Hochschulen zum Thema Künstliche Intelligenz",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 192,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52929,
+      "char_end": 52990,
+      "text": "Diskussionen der Auswirkungen von KI-Nutzung finden Sie u. a.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 193,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 52992,
+      "char_end": 53128,
+      "text": "- in der Stellungnahme des Deutschen Ethikrats: ‚Mensch und Maschine - Herausforderungen durch künstliche Intelligenz‘ vom 20. März 2024",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 194,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53129,
+      "char_end": 53371,
+      "text": "- in dem Dokument ‚Diskussionspunkte zu ethischen Aspekten von generativer künstlicher Intelligenz in der Hochschullehre‘, das in der Untergruppe ‚KI und Ethik‘ der niedersächsischen Austauschgruppe zum Thema KI in Studium und Lehre entstand.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 195,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53372,
+      "char_end": 53532,
+      "text": "- in dem im MIT Technology Review veröffentlichten Artikel ‚We did the math on AI’s energy footprint. Here’s the story you haven’t heard.‘ in englischer Sprache",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 196,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53533,
+      "char_end": 53635,
+      "text": "- im Diskussionspapier ‚Deskilling durch Künstliche Intelligenz?‘ des Hochschulforums Digitalisierung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 197,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53637,
+      "char_end": 53694,
+      "text": "Hinweise zum KI-Einsatz im Lehr-/Lernkontext bieten u. a.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 198,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53696,
+      "char_end": 53856,
+      "text": "- ein Interview mit Prof. Dr. Doris Weßels zum Thema 'ChatGPT in Hochschulen', dass sich u. a. mit der Frage nach der Anpassung von Prüfungssituationen befasst.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 199,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 53857,
+      "char_end": 54015,
+      "text": "- die Blogbeiträge zum Thema Künstliche Intelligenz und ein Online-Kursangebot zum Erwerb und zur Stärkung von Digitalkompetenzen der Lernplattform KI-Campus.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 200,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54016,
+      "char_end": 54250,
+      "text": "- der Webauftritt der Bundeszentrale für politische Bildung, der in der Rubrik 'Lernen' ein Angebot an didaktischen Bildungsmaterialien sowie Artikel und Interviews zum Thema KI zur Verfügung stellt, z. B. 'KI in der Hochschulbildung'",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 201,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54252,
+      "char_end": 54446,
+      "text": "Allgemeine Information zu den Grundsätzen wissenschaftlicher Praxis erhalten Sie u. a. in den Leitlinien zur Sicherung guter wissenschaftlicher Praxis der Deutschen Forschungsgemeinschaft (DFG).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 202,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54448,
+      "char_end": 54513,
+      "text": "Erläuterungen zum Umgang mit personenbezogenen Daten bieten u. a.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 203,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54515,
+      "char_end": 54548,
+      "text": "- die Datenschutz-Grundverordnung",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 204,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54549,
+      "char_end": 54599,
+      "text": "- die Europäische Kommission in englischer Sprache",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 205,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54601,
+      "char_end": 54692,
+      "text": "Eine Übersetzung der Handlungsempfehlungen in die englische Sprache ist aktuell in Planung.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 206,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 54692,
+      "char_end": 54703,
+      "text": "\n\nFOOTNOTES",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

@@ -1,0 +1,1075 @@
+{
+  "doc_id": "fsu-jena_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Handreichung soll allen Universitätsangehörigen Orientierung bei der verantwortungsvollen Nutzung generativer Künstlicher Intelligenz bieten.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Handreichung bietet allen Studierenden, Beschäftigten und Externen an der Universität Jena Orientierung bei der verantwortungsvollen Nutzung generativer Künstlicher Intelligenz (KI) als Hilfsmittel im beruflichen Alltag sowie in Studium, Lehre und Forschung.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Um KI-Tools als Hilfsmittel zur Unterstützung der eigenen Arbeit sicher zu verwenden, sollen sich die Nutzerinnen und Nutzer dabei auch der Risiken bewusst sein.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Unter „generativer KI“ verstehen wir hier Computermodelle, die in der Lage sind, neue Inhalte wie Bilder, Texte oder Musik autonom unter Berücksichtigung einer durch Menschen oder maschinell erfolgten Eingabe zu generieren, nachdem sie Muster und Strukturen aus einem Trainingsdatensatz erlernt haben.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Unter welchen Voraussetzungen ist der Einsatz an der Universität möglich?",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-basierte Werkzeuge besitzen ein immenses Potential für die Steigerung der Effizienz und Effektivität unserer Arbeit. Dort wo generative KI gewinnbringend und ohne Risiken angewendet werden kann, soll eine Nutzung daher möglich sein.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Als Anleitung und Sensibilisierung zum verantwortungsbewussten, reflektierten und rechtskonformen Einsatz haben wir im Kapitel „Was muss bei der Nutzung von generativen KI-Tools beachtet werden?“ relevante Eckpunkte zusammengetragen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Nutzung müssen wir stets im Blick behalten, dass eine textgenerierende KI zwar anhand statistischer Wahrscheinlichkeiten wohlformulierte Texte erzeugen mag, dabei im Grunde jedoch nicht deren Bedeutung erkennt oder deren Sinn bzw. inhaltliche Richtigkeit bewertet.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Kreative Arbeit\n - Generierung neuer Ideen\n - Unterstützung beim Ausbau einer eigenen Idee",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Recherche\n - Auffinden neuer Quellen oder Sachverhalte zu bestimmten Themen\n - Zusammenfassen von Quellen für einen ersten Überblick",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Schreibprozess (z. B. Briefe, E-Mails, Protokolle, Publikationen, Anträge etc.)\n - Unterstützung bei einzelnen Formulierungen und Sätzen\n - Feedback zu Grammatik, Stil, Struktur zur Verbesserung eigener Texte\n - Unterstützung bei Schreibblockaden (KI als Sparringspartner)\n - Text-Analyse von Materialien, Literatursynthese oder Datenaufbereitung\n - Eigene Dokumente oder Texte zusammenfassen oder zusammenführen\n - Texte analysieren bzw. auf bestimmte Merkmale hin untersuchen\n - Unterstützung im Prozess der Datenaufbereitung, z. B. bei Transkriptionen",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Übersetzungen\n - Übersetzung einzelner Sätze oder Abschnitte zum Zweck der Übung oder des Verständnisses\n - Übersetzung von E-Mails oder anderer Korrespondenz zum Zwecke der Kommunikation",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Lehrmaterialien und Prüfungsaufgaben\n - Generierung von Ideen, Beispielen oder Textvorlagen für neue Prüfungsaufgaben\n - Unterstützung bei der Ausgestaltung von Lehrmaterial\n - Unterstützung bei der Individualisierung von Materialien\n - Gezielter Einsatz eines KI-Tools in der Lehre\n - Schulung des Umgangs mit KI, z. B. zum Üben des Schreibens eines Prompts\n - Digitale Assistenten zu Lernzwecken und Unterstützung des eigenen Lernprozesses (z. B. im Vorfeld einer Prüfung)",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Bildmaterial\n - Generieren von Bildmaterial, z. B. für interne Präsentationen, Berichte oder Referate",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Beurteilungen und Begutachtungen\n - Unterstützung bei der Vorbereitung von Beurteilungen, z. B. Auswahl und Formulierung von Kriterien\n - Unterstützung bei Formulierungen",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Verwaltungsaufgaben\n - Unterstützung bei Formulierungen, Zusammenfassungen oder Korrespondenz",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Verarbeitung personenbezogener Daten (außer es können die datenschutzrechtlichen Anforderungen eingehalten werden)",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Ungeprüfte Übernahme eines kompletten Ideenkonzepts oder dessen Ausarbeitung durch KI",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Ungeprüfte Übernahme einer Zusammenfassung oder Analyse in einen Bericht oder eine Publikation",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Vollständige und ungeprüfte Übernahme der Übersetzung ganzer Texte z. B. im Prüfungskontext oder in Berichten",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Einsatz beim Spracherwerb nach Rücksprache mit der lehrenden Person",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Einsatz bei Prüfungen ohne Nennung als Hilfsmittel und ohne Erlaubnis des Prüfenden",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Hinweis: Entscheidung zum KI-Einsatz bei Prüfungen erfolgt durch die prüfende Person",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Einsatz eines KI-Tools als Hilfsmittel in einer Lehrveranstaltung ohne vorherige Abstimmung mit der Lehrperson",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Bewertung von Prüfungen (Hausarbeit oder andere Prüfungsleistungen) oder Einschätzung von anderen Leistungen einer Person",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Bewertung von Bewerbern oder andere Auswahlentscheidungen, die sich auf Personen beziehen",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Erstellung eines Arbeitszeugnisses oder einer Mitarbeiterbeurteilung",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Analyse von Beschäftigtendaten, z. B. Fehlzeiten, Kranken- und Urlaubszeiten o.ä.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Analyse von Anträgen bzw. Begutachtungen",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In Studium und Lehre gelten die Vorgaben für die Erstellung wissenschaftlicher Arbeiten. Die Anfertigung einer wissenschaftlichen Arbeit oder die Durchführung einer Prüfung müssen eigenständig erbrachte Leistungen eines Studierenden darstellen. Ein KI-Einsatz darf daher in diesem Kontext nur als unterstützendes Hilfsmittel eingesetzt werden und nur nach Absprache mit dem Prüfenden.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der wissenschaftlichen Tätigkeit sind die „Prinzipien guter wissenschaftlicher Praxis“ auch beim Einsatz von generativer KI zugrunde zu legen. Insbesondere verweisen wir hier auf die Leitlinie der DFG zum Einsatz von Text- und Bildgeneratoren in der Wissenschaft und auf die Satzung zur Sicherung guter wissenschaftlicher Praxis der Universität.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Wissenschaftlerinnen und Wissenschaftler sollten sich stets ihrer eigenen Verantwortung für die Integrität der Inhalte, die von KI-Tools oder mit deren Hilfe erstellt wurden, bewusst sein.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Ergänzend ist hier der Leitfaden des ERA Forums zu empfehlen.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende sind dazu angehalten, Prüfungen so zu konzipieren, dass sie das angestrebte Lernziel angemessen widerspiegeln und aussagekräftig sind. Soll der Einsatz von KI ausgeschlossen werden, kann dies vor allem durch ein geeignetes Prüfungsformat erreicht werden.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hinweise dazu finden Sie auf den Seiten der Universität zum digitalen Prüfen und über das Beratungsangebot der Servicestelle LehreLernen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zur Nutzung von KI-Tools ist oftmals eine Registrierung mit einer E-Mail-Adresse beim Anbieter erforderlich. Grundsätzlich sollen für solche Registrierungen bei externen Anbietern im beruflichen Kontext dienstliche E-Mail-Adressen und Kontaktdaten verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Für die Registrierung eines Zugangs, den mehrere Nutzerinnen und Nutzer verwenden sollen (Team-Zugang, API-Zugang) kann durch das Universitätsrechenzentrum (URZ) ein Account für funktionsgebundene Zwecke bereitgestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei Verwendung Ihrer dienstlichen E-Mail-Adresse besteht die Möglichkeit, dass der externe Anbieter anhand des darin enthaltenen Namens ein Nutzungsprofil erstellt und mit der Person verknüpft.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das IT-Zentrum der Thüringer Hochschulen ermöglicht den Mitarbeitenden der Thüringer Hochschulen über ein Webportal die anonyme Nutzung von ChatGPT. Dabei werden keine personenbezogenen Daten der Mitarbeitenden an OpenAI übermittelt, lediglich der Chat wird an ChatGPT gesendet. Die Nutzung ist für Mitarbeitende nach Auswahl der Institution und Login mit dem URZ-Account möglich.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Zudem möchten wir auf das Tool Chat AI der AcademicCloud als Angebot der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) hinweisen. Bei diesem Dienst können sich Universitätsangehörige mit der Universitätsemailadresse anmelden und verschiedene KI-Modelle für einen Chat nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Eine weitere Möglichkeit zur kostenfreien Nutzung von KI-Chatmodellen (inklusive ChatGPT) bietet nach Registrierung der KI-Campus.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zur Beschaffung von kommerziellen KI-Tools wenden Sie sich per Serviceportal an den Software-Service des URZ.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für die Verwendung der Produkte von OpenAI (ChatGPT Plus und API) wird folgendes Vorgehen etabliert:\nDie Verrechnung der Kosten erfolgt durch Sammelbuchung auf das im Serviceportal angegebene PSP-Element. Die Kosten werden in der jeweiligen Abrechnungsperiode über alle Nutzerinnen und Nutzer gemittelt, um Wechselkursschwankungen und Fremdwährungsgebühren fair zu verteilen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um die Abrechnung durchführen zu können, muss das URZ die Abrechnungsinformationen aus dem OpenAI Webportal erhalten. Das genaue Vorgehen unterscheidet je nach Art des verwendeten Produkts.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "ChatGPT Plus\nFür die ChatGPT Plus Nutzerinnen und Nutzer wird ein Abonnement i. H. v. 20,00 $ pro Monat zuzüglich Transaktionskosten (Wechselkursschwankungen und Fremdwährungsgebühren i. H. v. ca. 4,00 $) abgeschlossen. Alle Nutzerinnen und Nutzer sind verpflichtet, die von OpenAI im Webportal für ihr Konto bereitgestellten Abrechnungsdokumente monatlich herunterzuladen und dem URZ zur Verfügung zu stellen (via Serviceportal im gleichen Vorgang, in dem der Zugang beantragt wurde).",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "ChatGPT API\nBei der API-Nutzung sind die Kosten in Abhängigkeit von der tatsächlichen Nutzung variabel. Für die Finanzbuchhaltung ist eine Schätzung der monatlich oder jährlich zu erwartenden Kosten hilfreich. In jedem API-Zugang (Organisation) können mehrere Mitglieder berechtigt werden („Mannschaft“). Um dem URZ Zugriff auf die Abrechnungsinformationen zu ermöglichen, muss softwarebeschaffung@uni-jena.de als Nutzender hinzugefügt und als Eigentümer berechtigt werden.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "1. Einstellungen im Tool vor der Nutzung prüfen.\nDaten bzw. Informationen, die im Kontext der beruflichen Tätigkeit verarbeitet werden, sollten nicht in das Training einer KI einfließen. Dies gilt insbesondere für urheberrechtlich geschützte Werke, z. B. wissenschaftliche Hausarbeiten von Studierenden, und personenbezogene Daten. Achten Sie vor einer Nutzung bitte auf die Einstellungen im KI-Tool. Meist gibt es eine Option, um der Verwendung zu Trainingszwecken zu widersprechen. Ist dies nicht der Fall raten wir von der Nutzung des Tools im universitären Kontext ab. Nach Möglichkeit sollte in den Einstellungen auch die Eingabe-Historie und, falls vorhanden, die Memory-Funktion abgewählt werden.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "2. Aufmerksam sein bei personenbezogenen Daten und sensiblen Informationen, Geschäftsgeheimnissen sowie urheberrechtlich geschützten Werken.\nBitte achten Sie bei Ihren Eingaben in ein KI-Tool darauf, dass keine Daten, die sich auf eine Person beziehen oder sensible Informationen der Universität darstellen, eingegeben oder hochgeladen werden. Dies betrifft auch urheberrechtlich geschützte Werke und als vertraulich deklarierte Unterlagen sowie Informationen, die gegebenenfalls über Umwege Rückschlüsse auf Personen erlauben. Es ist empfehlenswert, personenbezogene Daten vor der Eingabe zu verfremden (z. B. statt Verwendung des Namens ein Synonym verwenden).\nAuch bei Angaben zur eigenen Person in KI-Tools ist zu bedenken, dass ggf. Nutzerprofile mit persönlichen Informationen angelegt und Dritten überlassen werden.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "3. Entscheidungsfindung ohne KI.\nGenerative KI-Tools dürfen nicht als Grundlage oder gar Letztentscheidung für personenbezogene Entscheidungen herangezogen werden (vgl. Art. 22 Datenschutz-Grundverordnung). Zum Beispiel sollte keine KI zum Einsatz kommen bei der Auswahl von Bewerberinnen und Bewerbern, bei der Bewertung von Prüfungsleistungen von Studierenden oder Drittmittelanträgen von Forschenden. Die Verarbeitung von Daten in einer KI auf deren Grundlage bestimmte persönliche Aspekte „bewertet“ werden, darf nicht erfolgen.\nBitte behalten Sie hierbei stets im Blick, dass eine KI weder den Sinn bzw. die Bedeutung noch die Implikationen der von ihr erstellten Texte erkennt.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "4. Sorgfältiges und gewissenhaftes Prüfen der Ergebnisse.\nDas Ergebnis einer generativen KI sollte mit Vorsicht behandelt und genau evaluiert werden. Die vom System erzeugten Informationen können fehlerhaft sein, und Zusammenhänge werden möglicherweise nicht richtig dargestellt (Phänomen der Konfabulation). Auch Quellenangaben sollten von Nutzerinnen und Nutzern abschließend auf ihre Richtigkeit überprüft werden. Es sollte außerdem auf Diskriminierung und Ungleichheit im KI-generierten Werk geprüft werden, so dass keine Benachteiligung bestimmter Gruppen erfolgt und bestehende gesellschaftliche Ungerechtigkeiten nicht verstärkt werden, denn durch KI können Verzerrungen oder Voreingenommenheit (Bias) erzeugt bzw. verstärkt werden. Die Nutzerinnen und Nutzer tragen letztendlich die Verantwortung dafür, den generierten Inhalt kritisch zu hinterfragen und sicherzustellen, dass er korrekt und ethisch akzeptabel ist.\nBeachtet werden muss außerdem, dass es zu keiner Reproduktion geschützter Werke oder Teilen dieser kommt. Die Rechte des Urhebers oder der Urheberin bestehen fort, auch wenn die KI das Ergebnis daraus erzeugt hat.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "5. Einsatz von KI transparent gestalten.\nGehen Sie offen mit dem Einsatz einer generativen KI um. Der Einsatz sollte klar gekennzeichnet sein und deren Verwendung und die zugrundeliegenden Zwecke offen kommuniziert werden. Es ist zudem ratsam zum Beispiel bei der Arbeit an größeren Texten, eine Dokumentation über den Einsatz zu führen. Außerdem sollte bei KI-generierten Bildern die KI auch als Quelle benannt werden. Zum Beispiel kann im Multimediabereich unseres Contentmanagementsystems für Bilddokumente im Feld „Urheber“ auch der Wert „KI-generiert“ ausgewählt werden.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Insgesamt empfehlen wir die Verwendung von generativer KI im Hochschulkontext sorgfältig abzuwägen und kritisch zu reflektieren, wobei ethische, soziale und pädagogische Überlegungen berücksichtigt werden müssen, um sicherzustellen, dass sie die Ziele der Hochschultätigkeit unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Empfehlungen werden regelmäßig fortgeschrieben und den aktuellen Entwicklungen und der Rechtsprechung angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "was verstehen wir unter generativer künstlicher intelligenz?",
+      "repaired": true
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "beispiele für den einsatz von ki-tools",
+      "repaired": true
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "was muss bei der nutzung von generativen ki-tools beachtet werden?",
+      "repaired": true
+    },
+    {
+      "id": 57,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "konfabulation: das phänomen, bei dem eine ki falsche oder erfundene informationen als fakten darstellt, ohne dass dies beabsichtigt oder offensichtlich ist",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 57,
+    "matched": 55,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 55,
+        "B": "B6",
+        "matched_words": "5/6",
+        "text": "beispiele für den einsatz von ki-tools"
+      },
+      {
+        "id": 56,
+        "B": "B8",
+        "matched_words": "7/10",
+        "text": "was muss bei der nutzung von generativen ki-tools beachtet werden?"
+      }
+    ],
+    "source_coverage": 0.959,
+    "uncovered_chars": 507,
+    "uncovered_gaps": 10,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 218,
+        "length": 218,
+        "text": "# friedrich-schiller-universität jena # source: https://www.unijena.de/278883/umgangmitgenerativenkitoolsanderuniversitaetjena # date: none # category: guideline umgang mit generativen ki-tools an der universität jena"
+      },
+      {
+        "char_start": 1971,
+        "char_end": 2012,
+        "length": 41,
+        "text": ". beispiele für den einsatz von ki-tools"
+      },
+      {
+        "char_start": 3751,
+        "char_end": 3793,
+        "length": 42,
+        "text": "beispiele gegen den einsatz von ki-tools"
+      },
+      {
+        "char_start": 4198,
+        "char_end": 4208,
+        "length": 10,
+        "text": "hinweis:"
+      },
+      {
+        "char_start": 4957,
+        "char_end": 5021,
+        "length": 64,
+        "text": "allgemeine hinweise zum einsatz von ki in bestimmten bereichen"
+      },
+      {
+        "char_start": 6405,
+        "char_end": 6428,
+        "length": 23,
+        "text": ". zugang bzw. accounts"
+      },
+      {
+        "char_start": 7929,
+        "char_end": 7943,
+        "length": 14,
+        "text": ". beschaffung"
+      },
+      {
+        "char_start": 8051,
+        "char_end": 8065,
+        "length": 14,
+        "text": ". verrechnung"
+      },
+      {
+        "char_start": 9588,
+        "char_end": 9657,
+        "length": 69,
+        "text": ". was muss bei der nutzung von generativen ki-tools beachtet werden?"
+      },
+      {
+        "char_start": 13986,
+        "char_end": 13998,
+        "length": 12,
+        "text": ". footnotes"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 229,
+      "text": "# Friedrich-Schiller-Universität Jena\n# Source: https://www.uni-jena.de/278883/umgang-mit-generativen-ki-tools-an-der-universitaet-jena\n# Date: None\n# Category: guideline\n\nUmgang mit generativen KI-Tools an der Universität Jena\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 229,
+      "char_end": 376,
+      "text": "Diese Handreichung soll allen Universitätsangehörigen Orientierung bei der verantwortungsvollen Nutzung generativer Künstlicher Intelligenz bieten.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 378,
+      "char_end": 642,
+      "text": "Diese Handreichung bietet allen Studierenden, Beschäftigten und Externen an der Universität Jena Orientierung bei der verantwortungsvollen Nutzung generativer Künstlicher Intelligenz (KI) als Hilfsmittel im beruflichen Alltag sowie in Studium, Lehre und Forschung.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 643,
+      "char_end": 804,
+      "text": "Um KI-Tools als Hilfsmittel zur Unterstützung der eigenen Arbeit sicher zu verwenden, sollen sich die Nutzerinnen und Nutzer dabei auch der Risiken bewusst sein.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 806,
+      "char_end": 866,
+      "text": "Was verstehen wir unter generativer Künstlicher Intelligenz?",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 868,
+      "char_end": 1169,
+      "text": "Unter „generativer KI“ verstehen wir hier Computermodelle, die in der Lage sind, neue Inhalte wie Bilder, Texte oder Musik autonom unter Berücksichtigung einer durch Menschen oder maschinell erfolgten Eingabe zu generieren, nachdem sie Muster und Strukturen aus einem Trainingsdatensatz erlernt haben.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1171,
+      "char_end": 1244,
+      "text": "Unter welchen Voraussetzungen ist der Einsatz an der Universität möglich?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1246,
+      "char_end": 1481,
+      "text": "KI-basierte Werkzeuge besitzen ein immenses Potential für die Steigerung der Effizienz und Effektivität unserer Arbeit. Dort wo generative KI gewinnbringend und ohne Risiken angewendet werden kann, soll eine Nutzung daher möglich sein.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1483,
+      "char_end": 1716,
+      "text": "Als Anleitung und Sensibilisierung zum verantwortungsbewussten, reflektierten und rechtskonformen Einsatz haben wir im Kapitel „Was muss bei der Nutzung von generativen KI-Tools beachtet werden?“ relevante Eckpunkte zusammengetragen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1718,
+      "char_end": 1990,
+      "text": "Bei der Nutzung müssen wir stets im Blick behalten, dass eine textgenerierende KI zwar anhand statistischer Wahrscheinlichkeiten wohlformulierte Texte erzeugen mag, dabei im Grunde jedoch nicht deren Bedeutung erkennt oder deren Sinn bzw. inhaltliche Richtigkeit bewertet.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1992,
+      "char_end": 2030,
+      "text": "Beispiele für den Einsatz von KI-Tools",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2032,
+      "char_end": 2124,
+      "text": "- Kreative Arbeit\n - Generierung neuer Ideen\n - Unterstützung beim Ausbau einer eigenen Idee",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2126,
+      "char_end": 2260,
+      "text": "- Recherche\n - Auffinden neuer Quellen oder Sachverhalte zu bestimmten Themen\n - Zusammenfassen von Quellen für einen ersten Überblick",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2262,
+      "char_end": 2818,
+      "text": "- Schreibprozess (z. B. Briefe, E-Mails, Protokolle, Publikationen, Anträge etc.)\n - Unterstützung bei einzelnen Formulierungen und Sätzen\n - Feedback zu Grammatik, Stil, Struktur zur Verbesserung eigener Texte\n - Unterstützung bei Schreibblockaden (KI als Sparringspartner)\n - Text-Analyse von Materialien, Literatursynthese oder Datenaufbereitung\n - Eigene Dokumente oder Texte zusammenfassen oder zusammenführen\n - Texte analysieren bzw. auf bestimmte Merkmale hin untersuchen\n - Unterstützung im Prozess der Datenaufbereitung, z. B. bei Transkriptionen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2820,
+      "char_end": 3009,
+      "text": "- Übersetzungen\n - Übersetzung einzelner Sätze oder Abschnitte zum Zweck der Übung oder des Verständnisses\n - Übersetzung von E-Mails oder anderer Korrespondenz zum Zwecke der Kommunikation",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3011,
+      "char_end": 3487,
+      "text": "- Lehrmaterialien und Prüfungsaufgaben\n - Generierung von Ideen, Beispielen oder Textvorlagen für neue Prüfungsaufgaben\n - Unterstützung bei der Ausgestaltung von Lehrmaterial\n - Unterstützung bei der Individualisierung von Materialien\n - Gezielter Einsatz eines KI-Tools in der Lehre\n - Schulung des Umgangs mit KI, z. B. zum Üben des Schreibens eines Prompts\n - Digitale Assistenten zu Lernzwecken und Unterstützung des eigenen Lernprozesses (z. B. im Vorfeld einer Prüfung)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3489,
+      "char_end": 3592,
+      "text": "- Bildmaterial\n - Generieren von Bildmaterial, z. B. für interne Präsentationen, Berichte oder Referate",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3594,
+      "char_end": 3766,
+      "text": "- Beurteilungen und Begutachtungen\n - Unterstützung bei der Vorbereitung von Beurteilungen, z. B. Auswahl und Formulierung von Kriterien\n - Unterstützung bei Formulierungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3768,
+      "char_end": 3863,
+      "text": "- Verwaltungsaufgaben\n - Unterstützung bei Formulierungen, Zusammenfassungen oder Korrespondenz",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3863,
+      "char_end": 3907,
+      "text": "\n\nBeispiele gegen den Einsatz von KI-Tools\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3907,
+      "char_end": 4023,
+      "text": "- Verarbeitung personenbezogener Daten (außer es können die datenschutzrechtlichen Anforderungen eingehalten werden)",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4024,
+      "char_end": 4111,
+      "text": "- Ungeprüfte Übernahme eines kompletten Ideenkonzepts oder dessen Ausarbeitung durch KI",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4112,
+      "char_end": 4208,
+      "text": "- Ungeprüfte Übernahme einer Zusammenfassung oder Analyse in einen Bericht oder eine Publikation",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4209,
+      "char_end": 4320,
+      "text": "- Vollständige und ungeprüfte Übernahme der Übersetzung ganzer Texte z. B. im Prüfungskontext oder in Berichten",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4320,
+      "char_end": 4401,
+      "text": "\n\n Hinweis: Einsatz beim Spracherwerb nach Rücksprache mit der lehrenden Person\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4401,
+      "char_end": 4486,
+      "text": "- Einsatz bei Prüfungen ohne Nennung als Hilfsmittel und ohne Erlaubnis des Prüfenden",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4489,
+      "char_end": 4573,
+      "text": "Hinweis: Entscheidung zum KI-Einsatz bei Prüfungen erfolgt durch die prüfende Person",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4575,
+      "char_end": 4687,
+      "text": "- Einsatz eines KI-Tools als Hilfsmittel in einer Lehrveranstaltung ohne vorherige Abstimmung mit der Lehrperson",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4688,
+      "char_end": 4811,
+      "text": "- Bewertung von Prüfungen (Hausarbeit oder andere Prüfungsleistungen) oder Einschätzung von anderen Leistungen einer Person",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4812,
+      "char_end": 4903,
+      "text": "- Bewertung von Bewerbern oder andere Auswahlentscheidungen, die sich auf Personen beziehen",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4904,
+      "char_end": 4974,
+      "text": "- Erstellung eines Arbeitszeugnisses oder einer Mitarbeiterbeurteilung",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4975,
+      "char_end": 5058,
+      "text": "- Analyse von Beschäftigtendaten, z. B. Fehlzeiten, Kranken- und Urlaubszeiten o.ä.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5059,
+      "char_end": 5101,
+      "text": "- Analyse von Anträgen bzw. Begutachtungen",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5101,
+      "char_end": 5167,
+      "text": "\n\nAllgemeine Hinweise zum Einsatz von KI in bestimmten Bereichen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5167,
+      "char_end": 5551,
+      "text": "In Studium und Lehre gelten die Vorgaben für die Erstellung wissenschaftlicher Arbeiten. Die Anfertigung einer wissenschaftlichen Arbeit oder die Durchführung einer Prüfung müssen eigenständig erbrachte Leistungen eines Studierenden darstellen. Ein KI-Einsatz darf daher in diesem Kontext nur als unterstützendes Hilfsmittel eingesetzt werden und nur nach Absprache mit dem Prüfenden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5553,
+      "char_end": 5902,
+      "text": "Bei der wissenschaftlichen Tätigkeit sind die „Prinzipien guter wissenschaftlicher Praxis“ auch beim Einsatz von generativer KI zugrunde zu legen. Insbesondere verweisen wir hier auf die Leitlinie der DFG zum Einsatz von Text- und Bildgeneratoren in der Wissenschaft und auf die Satzung zur Sicherung guter wissenschaftlicher Praxis der Universität.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5903,
+      "char_end": 6091,
+      "text": "Wissenschaftlerinnen und Wissenschaftler sollten sich stets ihrer eigenen Verantwortung für die Integrität der Inhalte, die von KI-Tools oder mit deren Hilfe erstellt wurden, bewusst sein.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6092,
+      "char_end": 6153,
+      "text": "Ergänzend ist hier der Leitfaden des ERA Forums zu empfehlen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6155,
+      "char_end": 6418,
+      "text": "Lehrende sind dazu angehalten, Prüfungen so zu konzipieren, dass sie das angestrebte Lernziel angemessen widerspiegeln und aussagekräftig sind. Soll der Einsatz von KI ausgeschlossen werden, kann dies vor allem durch ein geeignetes Prüfungsformat erreicht werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6419,
+      "char_end": 6556,
+      "text": "Hinweise dazu finden Sie auf den Seiten der Universität zum digitalen Prüfen und über das Beratungsangebot der Servicestelle LehreLernen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6556,
+      "char_end": 6580,
+      "text": "\n\nZugang bzw. Accounts\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6580,
+      "char_end": 6845,
+      "text": "Zur Nutzung von KI-Tools ist oftmals eine Registrierung mit einer E-Mail-Adresse beim Anbieter erforderlich. Grundsätzlich sollen für solche Registrierungen bei externen Anbietern im beruflichen Kontext dienstliche E-Mail-Adressen und Kontaktdaten verwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6846,
+      "char_end": 7072,
+      "text": "Für die Registrierung eines Zugangs, den mehrere Nutzerinnen und Nutzer verwenden sollen (Team-Zugang, API-Zugang) kann durch das Universitätsrechenzentrum (URZ) ein Account für funktionsgebundene Zwecke bereitgestellt werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7074,
+      "char_end": 7267,
+      "text": "Bei Verwendung Ihrer dienstlichen E-Mail-Adresse besteht die Möglichkeit, dass der externe Anbieter anhand des darin enthaltenen Namens ein Nutzungsprofil erstellt und mit der Person verknüpft.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7268,
+      "char_end": 7648,
+      "text": "Das IT-Zentrum der Thüringer Hochschulen ermöglicht den Mitarbeitenden der Thüringer Hochschulen über ein Webportal die anonyme Nutzung von ChatGPT. Dabei werden keine personenbezogenen Daten der Mitarbeitenden an OpenAI übermittelt, lediglich der Chat wird an ChatGPT gesendet. Die Nutzung ist für Mitarbeitende nach Auswahl der Institution und Login mit dem URZ-Account möglich.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7650,
+      "char_end": 7953,
+      "text": "Zudem möchten wir auf das Tool Chat AI der AcademicCloud als Angebot der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) hinweisen. Bei diesem Dienst können sich Universitätsangehörige mit der Universitätsemailadresse anmelden und verschiedene KI-Modelle für einen Chat nutzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7955,
+      "char_end": 8085,
+      "text": "Eine weitere Möglichkeit zur kostenfreien Nutzung von KI-Chatmodellen (inklusive ChatGPT) bietet nach Registrierung der KI-Campus.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8085,
+      "char_end": 8100,
+      "text": "\n\nBeschaffung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8100,
+      "char_end": 8209,
+      "text": "Zur Beschaffung von kommerziellen KI-Tools wenden Sie sich per Serviceportal an den Software-Service des URZ.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8209,
+      "char_end": 8224,
+      "text": "\n\nVerrechnung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8224,
+      "char_end": 8599,
+      "text": "Für die Verwendung der Produkte von OpenAI (ChatGPT Plus und API) wird folgendes Vorgehen etabliert:\nDie Verrechnung der Kosten erfolgt durch Sammelbuchung auf das im Serviceportal angegebene PSP-Element. Die Kosten werden in der jeweiligen Abrechnungsperiode über alle Nutzerinnen und Nutzer gemittelt, um Wechselkursschwankungen und Fremdwährungsgebühren fair zu verteilen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8600,
+      "char_end": 8789,
+      "text": "Um die Abrechnung durchführen zu können, muss das URZ die Abrechnungsinformationen aus dem OpenAI Webportal erhalten. Das genaue Vorgehen unterscheidet je nach Art des verwendeten Produkts.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8791,
+      "char_end": 9276,
+      "text": "ChatGPT Plus\nFür die ChatGPT Plus Nutzerinnen und Nutzer wird ein Abonnement i. H. v. 20,00 $ pro Monat zuzüglich Transaktionskosten (Wechselkursschwankungen und Fremdwährungsgebühren i. H. v. ca. 4,00 $) abgeschlossen. Alle Nutzerinnen und Nutzer sind verpflichtet, die von OpenAI im Webportal für ihr Konto bereitgestellten Abrechnungsdokumente monatlich herunterzuladen und dem URZ zur Verfügung zu stellen (via Serviceportal im gleichen Vorgang, in dem der Zugang beantragt wurde).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9278,
+      "char_end": 9751,
+      "text": "ChatGPT API\nBei der API-Nutzung sind die Kosten in Abhängigkeit von der tatsächlichen Nutzung variabel. Für die Finanzbuchhaltung ist eine Schätzung der monatlich oder jährlich zu erwartenden Kosten hilfreich. In jedem API-Zugang (Organisation) können mehrere Mitglieder berechtigt werden („Mannschaft“). Um dem URZ Zugriff auf die Abrechnungsinformationen zu ermöglichen, muss softwarebeschaffung@uni-jena.de als Nutzender hinzugefügt und als Eigentümer berechtigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9751,
+      "char_end": 9821,
+      "text": "\n\nWas muss bei der Nutzung von generativen KI-Tools beachtet werden?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9821,
+      "char_end": 10524,
+      "text": "1. Einstellungen im Tool vor der Nutzung prüfen.\nDaten bzw. Informationen, die im Kontext der beruflichen Tätigkeit verarbeitet werden, sollten nicht in das Training einer KI einfließen. Dies gilt insbesondere für urheberrechtlich geschützte Werke, z. B. wissenschaftliche Hausarbeiten von Studierenden, und personenbezogene Daten. Achten Sie vor einer Nutzung bitte auf die Einstellungen im KI-Tool. Meist gibt es eine Option, um der Verwendung zu Trainingszwecken zu widersprechen. Ist dies nicht der Fall raten wir von der Nutzung des Tools im universitären Kontext ab. Nach Möglichkeit sollte in den Einstellungen auch die Eingabe-Historie und, falls vorhanden, die Memory-Funktion abgewählt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10526,
+      "char_end": 11348,
+      "text": "2. Aufmerksam sein bei personenbezogenen Daten und sensiblen Informationen, Geschäftsgeheimnissen sowie urheberrechtlich geschützten Werken.\nBitte achten Sie bei Ihren Eingaben in ein KI-Tool darauf, dass keine Daten, die sich auf eine Person beziehen oder sensible Informationen der Universität darstellen, eingegeben oder hochgeladen werden. Dies betrifft auch urheberrechtlich geschützte Werke und als vertraulich deklarierte Unterlagen sowie Informationen, die gegebenenfalls über Umwege Rückschlüsse auf Personen erlauben. Es ist empfehlenswert, personenbezogene Daten vor der Eingabe zu verfremden (z. B. statt Verwendung des Namens ein Synonym verwenden).\nAuch bei Angaben zur eigenen Person in KI-Tools ist zu bedenken, dass ggf. Nutzerprofile mit persönlichen Informationen angelegt und Dritten überlassen werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11350,
+      "char_end": 12033,
+      "text": "3. Entscheidungsfindung ohne KI.\nGenerative KI-Tools dürfen nicht als Grundlage oder gar Letztentscheidung für personenbezogene Entscheidungen herangezogen werden (vgl. Art. 22 Datenschutz-Grundverordnung). Zum Beispiel sollte keine KI zum Einsatz kommen bei der Auswahl von Bewerberinnen und Bewerbern, bei der Bewertung von Prüfungsleistungen von Studierenden oder Drittmittelanträgen von Forschenden. Die Verarbeitung von Daten in einer KI auf deren Grundlage bestimmte persönliche Aspekte „bewertet“ werden, darf nicht erfolgen.\nBitte behalten Sie hierbei stets im Blick, dass eine KI weder den Sinn bzw. die Bedeutung noch die Implikationen der von ihr erstellten Texte erkennt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12035,
+      "char_end": 13173,
+      "text": "4. Sorgfältiges und gewissenhaftes Prüfen der Ergebnisse.\nDas Ergebnis einer generativen KI sollte mit Vorsicht behandelt und genau evaluiert werden. Die vom System erzeugten Informationen können fehlerhaft sein, und Zusammenhänge werden möglicherweise nicht richtig dargestellt (Phänomen der Konfabulation). Auch Quellenangaben sollten von Nutzerinnen und Nutzern abschließend auf ihre Richtigkeit überprüft werden. Es sollte außerdem auf Diskriminierung und Ungleichheit im KI-generierten Werk geprüft werden, so dass keine Benachteiligung bestimmter Gruppen erfolgt und bestehende gesellschaftliche Ungerechtigkeiten nicht verstärkt werden, denn durch KI können Verzerrungen oder Voreingenommenheit (Bias) erzeugt bzw. verstärkt werden. Die Nutzerinnen und Nutzer tragen letztendlich die Verantwortung dafür, den generierten Inhalt kritisch zu hinterfragen und sicherzustellen, dass er korrekt und ethisch akzeptabel ist.\nBeachtet werden muss außerdem, dass es zu keiner Reproduktion geschützter Werke oder Teilen dieser kommt. Die Rechte des Urhebers oder der Urheberin bestehen fort, auch wenn die KI das Ergebnis daraus erzeugt hat.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13175,
+      "char_end": 13750,
+      "text": "5. Einsatz von KI transparent gestalten.\nGehen Sie offen mit dem Einsatz einer generativen KI um. Der Einsatz sollte klar gekennzeichnet sein und deren Verwendung und die zugrundeliegenden Zwecke offen kommuniziert werden. Es ist zudem ratsam zum Beispiel bei der Arbeit an größeren Texten, eine Dokumentation über den Einsatz zu führen. Außerdem sollte bei KI-generierten Bildern die KI auch als Quelle benannt werden. Zum Beispiel kann im Multimediabereich unseres Contentmanagementsystems für Bilddokumente im Feld „Urheber“ auch der Wert „KI-generiert“ ausgewählt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13752,
+      "char_end": 14040,
+      "text": "Insgesamt empfehlen wir die Verwendung von generativer KI im Hochschulkontext sorgfältig abzuwägen und kritisch zu reflektieren, wobei ethische, soziale und pädagogische Überlegungen berücksichtigt werden müssen, um sicherzustellen, dass sie die Ziele der Hochschultätigkeit unterstützen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14042,
+      "char_end": 14160,
+      "text": "Diese Empfehlungen werden regelmäßig fortgeschrieben und den aktuellen Entwicklungen und der Rechtsprechung angepasst.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14160,
+      "char_end": 14173,
+      "text": "\n\nFOOTNOTES\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14173,
+      "char_end": 14328,
+      "text": "Konfabulation: Das Phänomen, bei dem eine KI falsche oder erfundene Informationen als Fakten darstellt, ohne dass dies beabsichtigt oder offensichtlich ist",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14328,
+      "char_end": 14329,
+      "text": ".",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

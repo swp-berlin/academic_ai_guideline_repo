@@ -1,0 +1,1759 @@
+{
+  "doc_id": "hochschule-magdeburg-stendal_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Enacted by the Senate of the University in its session dated 11 June 2025",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Guidelines for the use of generative AI on study programmes at Magdeburg-Stendal University of Applied Sciences",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "GUIDELINES for lecturers",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative artificial intelligence (AI) tools are currently undergoing rapid development.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "In studies and teaching, AI tools may be used, for example, for brainstorming, for translating or editing texts and also for generating images, audio or video files.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "The applications are controlled via prompts, which are entered as text or spoken commands (an overview of useful links can be found in Appendix 1).",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In order to prepare students for their role as creators in society and the world of work, they should already be practising how to deal with AI-based tools during their studies in an open AND simultaneously critical fashion.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The use of AI tools also changes the way in which we teach, learn and study. Students should be able to utilise their benefits but also know when they should refrain from using them in order to achieve the best possible learning outcomes.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In this way they will learn how to use AI tools as an aid, to reflect upon the results produced and take responsibility for shaping the process and outcomes.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative AI tools are based on training with large datasets. Despite the fact that the answers generative AI provides may sound as if they are good quality, aspects and points of view may be lacking and/or the results generated may be wrong or only partially correct (“hallucinations”), they may feature a bias resulting from the training data used or it may be that the answers received only provide a response to the question at first glance.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Moreover, the input data are often used for training the AI models, which may represent a data protection or copyright problem (see report in Appendix 1).",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "AI tools are considered to be aids. As such, they - like other aids - are subject to the legal framework set out in the General Examination Regulations.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "The responsible lecturer shall decide whether or not the use of AI is permitted in the context of the course and assessment.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The use of AI as an aid must be in accordance with the basic rules of good scientific practice (see Appendix 1).",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Copyright and data protection laws must be followed. In particular in the case of data protection, compliance with the European regulations for the protection of personal data must be ensured.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "As the input data frequently go on to be used for the purposes of training AI models and to this end are processed in the United States, personal details (e.g. names, addresses etc.) may not be entered.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Written works, which are produced in collaboration with partners from professional practice (such as final theses or internship reports) may be excluded from the use of AI.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "If no information is available, the partner from professional practice and the supervising lecturer must be actively asked for guidance by the students.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "At Magdeburg-Stendal University of Applied Sciences, there is already extensive experience with the use of AI tools in the writing process, in programming, and/or the acquisition of specific skills (see Appendix 1).",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "The responsible lecturer will decide whether or not AI applications are permitted in examinations and assessments.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "A breach of any prohibition shall, in accordance with the General Examination Regulations, be considered to be attempted cheating.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "If the use of AI tools is prohibited for the production of an assessed piece of work, they will not be shown in the list of aids permitted by the lecturer.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In the case of written work such as projects or final theses, the declaration of originality must be supplemented by a passage stating that AI tools were not used.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lecturers must make it explicit, irrespective of the learning objective and teaching methodology, whether or not the AI tools may be used when producing an assessed piece of work and what, if any, are the restrictions.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "AI tools must then be included in the list of permitted aids. If no information is available, the lecturer must be specifically asked.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The lecturers specify how the use of AI tools must be documented.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In individual cases, it may be necessary to state the prompts used and their specifications.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "It is not permitted to leave all of the work associated with the production of a piece of assessed work to AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The independence of the work produced must be guaranteed.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Scientific work always entails the critical evaluation of the results and reflection upon one’s own methods and must be verified accordingly.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Reflecting upon the scientific research and thought process is part of oral teaching.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In accordance with the rules of good scientific practice, the scientifically relevant use of AI tools must be documented as part of a methodical process.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "A possible form of documentation in a written scientific work is an index of aids that is appended to the list of references and declaration of originality.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "This must document the AI-based tools used, their manufacturer, version, supplier, form and depth of use. In this connection, the following table is recommended:",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "| Column 1: Chapter / sections of the thesis | Column 2: Aids used | Column 3: Form of use (literature search, suggesting wording for individual passages of text, structuring of text, formulation of headings) | Column 4: Depth of use (or “threshold of originality”) (AI suggestion used, but adapted; AI suggestion heavily revised and sources added) | Column 5: Comments (self-reflection, notes for the lecturers) |\n|--------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| | | | | |",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "An example of use of the table can be found in Appendix 2.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Lecturers should refrain from using AI tools to automatically evaluate examination work, as this may place them in the so-called high-risk area as described in the European AI Act (law concerning artificial intelligence).",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Copyright: it is not permitted to upload student theses to generative AI applications unless it is certain that the data will not be used for training (see Appendix 1 - report).",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Equally, the use of tools to identify AI-generated content (so-called AI detectors) should be avoided. Currently available tools continue to exhibit a high level of susceptibility to mistakes, in that they frequently deliver false positive results (labelling texts produced by humans as AI-generated) or false negative results (failure to detect content that has actually been generated by AI).",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Moreover, the way they work and their results cannot be checked and do not satisfy the legal requirements of reliably providing evidence of cheating.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "If it is suspected that an assessed piece of work was produced by making prohibited use of generative AI tools, the incident should be documented and reported to the responsible Board of Examiners.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Useful links (last checked on 11.06.2025):",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- A statement on the question “What is generative AI?”\n https://portal.uni-koeln.de/digital-education/ki-in-der-bildung/was-ist-generative-kuenstliche-intelligenz-ki",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Information on the ZAKKI project (Central Contact for Innovative Teaching and Learning of Interdisciplinary Artificial Intelligence Skills):\n https://h2.de/zakki",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- https://ddoring.notion.site/Linkliste-Arbeit-mit-generativer-KI-1cad64ff8e8e412f98aa031ad1e3b446",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- An overview of AI tools in the context of academic reading and writing processes:\n https://www.vkkiwa.de/ki-ressourcen/",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Description of possible use cases when using AI by Justus Liebig University Giessen:\n https://ilias.uni-giessen.de/goto.php?target=cat_392292&client_id=JLUG",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Article from the Universities’ Digitalisation Forum on the integration of AI tools in teaching\n https://hochschulforumdigitalisierung.de/integration-von-ki-tools-in-die-lehre/",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Resource page of the Berlin Centre for University Teaching at TU Berlin:\n https://www.tu.berlin/bzhl/ressourcen-fuer-ihre-lehre/ressourcen-nach-themenbereichen/ki-in-der-hochschullehre",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Information from the Centre for Interdisciplinary Learning and Teaching at TU Dresden:\n https://tu-dresden.de/zill/materialien-und-tipps-fuer-die-lehre/digital-tools/einsatz-von-ki-in-der-lehre",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- AI Campus Prompt Laboratory:\n https://hochschulforumdigitalisierung.de/selbstlernmaterialien-prompt-labor/",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Report into “Didactic and legal perspectives on AI-assisted writing in higher education”:\n https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/9734",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- DFG Good Scientific Practice Code:\n https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/gwp",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Didactic guide on the practical use of AI in teaching created by the DGHD and GMW:\n https://www.gmw-online.de/wp-content/uploads/2024/10/KI-Handreichung-dghd_GMW_V01_21102024.pdf",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "- Statement by the Digital Teaching Hub of Lower Saxony on the use of AI detectors for checking assessed pieces of work:\n https://www.twillo.de/edu-sharing/components/render/6b2288cd-0232-4561-a252-bf8eef4dda49",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "A current overview of useful links can always be found on the AI & Me website: https://kiandme.h2.de/ki-lehren-und-lernen/leitfaeden-zur-nutzung-generativer-ki/",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Example table",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "| Column 1: Chapter / sections of the thesis | Column 2: Aids used | Column 3: Form of use (literature search, suggesting wording for individual passages of text, structuring of text, formulation of headings) | Column 4: Depth of use (or “threshold of originality”) (AI suggestion used, but adapted; AI suggestion heavily revised and sources added) | Column 5: Comments (self-reflection, notes for the lecturers) |\n|--------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| Structuring | Chat GPT 4o | Suggested structuring | Several structuring suggestions compared and used with adaptations | - |\n| Figure 1 | DALL:E (integrated in Chat GPT 4o) | Illustration generated | Adopted in full | |\n| Summary | Chat GPT (3.5) | Shortening and rewording (academic style) | Adopted in full | Checked for completeness |",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "### Performance, technical background, mode of operation, financing, technical development",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Many of the AI tools currently being tested are language-based chatbots which are based on linguistic models and generated “at the push of a button”.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "This means that a question is entered in an input box or a command is entered (known as a prompt) and an answer is received in a minimal period of time. If necessary, a further question can be asked and the tool’s response optimised.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The answers are mostly high quality and often sound highly plausible but are not always factually correct or scientifically substantiated (see above). The reason for this is that the programmes are trained that it is better to give a wrong answer than none at all.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Links to the internet and further training data and stages will, however, ensure that the quality of the answers is optimised.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Frequently, the programmes can produce not only natural language but also, for example, programming codes or image files.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "AI tools refer back to their respective training data but generate texts on the basis of probabilities. This means that these texts are not directly connected to the actual training data. If the same prompts are entered repeatedly, new answers will be generated every time.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Current AI tools are able to refer to external sources that have been made available by users or linked to via a search. This may allow a reference to be made to sources, however a critical evaluation and assessment of the citability is still the responsibility of the user.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Currently, there are several programmes on the market that are free to use. However, there are also paid-for versions that guarantee permanent availability. In addition to this, new functions are initially only being released with the paid-for versions. This means that consideration must be given to the ability to use (or access) and, linked to this, fairness (who is able to use which tools).",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "### Generative AI is a tool! The importance of a methodical approach",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The following examples show how important it is for the questions that are asked to be as specific as possible. The quality of the question is critical for the quality, scope and focus of the answer. This applies fundamentally to the use of all AI-based tools.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Understanding the importance of a good prompt also results in new skills which will become important in the world of work in future. There are already websites that give tips on prompting (e.g. https://learnprompting.org, https://prompts.chat).",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "The following are original answers from ChatGPT.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "#### 1. 'What is GPT?'",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "GPT stands for 'Generative Pre-trained Transformer' and refers to a class of neuronal networks that are used for natural linguistic processing (NLP). GPT models are specially developed for generating or completing text, on the basis of the context in which they are used.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "GPT models are generally trained with large numbers of texts in order to develop a deep understanding of the language and acquire extensive knowledge of how words and sentences are used, in order to express meaning. GPT models have proven to be very useful for a multitude of NLP tasks, including translation, summarisation, answering questions and generating text.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "#### 2. 'Explain to a 5-year-old child what GPT is.'",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Hello! GPT is like a super-clever robot that can help to understand things with language and also say new things itself. It knows a lot of words and sentences and can use them to invent new stories or answers to questions. GPT is like a very clever friend that you can talk and learn with.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "#### 3. 'Please explain GPT scientifically, your target group is first semester students studying neuroscience or computer science.'",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "GPT stands for 'Generative Pre-trained Transformer', which alludes to the features and functions of the model. It is a deep neuronal network that was developed for processing natural language (NLP). GPT is based on an architecture known as Transformer that makes it possible to analyse long sections of text and produce content summaries. The model is initially trained with a large number of texts in order to obtain a comprehensive linguistic understanding.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "GPT is a 'generative' model, which means that it is able to generate new texts on the basis of the linguistic understanding that it has acquired. For example, it can write stories, poems or articles and also provide answers to questions. The model is characterised as 'pre-trained,' because it is trained in specific applications before use with large amounts of text, in order to optimise its linguistic processing capabilities. This training is extremely important as it provides the model with a deep understanding of the language and its rules.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "In summary, GPT is an advanced model for natural language processing, which is based on a transformer architecture and acquires a deep understanding of language through extensive training with text data. The model can then be used to generate new texts on the basis of this knowledge.",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "#### 4. “Please give a scientific presentation about GPT. The presentation should be aimed at an expert scientific audience.”",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Ladies and Gentlemen,\n\nToday I would like to give you an insight into the topic of “Generative Pre-Trained Transformers” or GPT for short. GPT is a framework for artificial intelligence that makes it possible to conduct machine learning on a new level.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "GPT is a deep learning model that is based on an architecture known as Transformer. This architecture was first introduced by Google in 2017 and makes it possible to process natural language efficiently. The Transformer model consists of a layer of coders and a layer of decoders, which enable the model to process long sequences of data by capturing the meaning of words and sentences and contextualising them. GPT goes one step further by using a “pre-training” process. This means that the model is first trained on a large number of texts before being used on a certain task. This pre-training can be carried out in an unsupervised or supervised way, depending on whether the model has access to the actual answers to a task or not.",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "The pre-training occurs in several stages, whereby the model is repeatedly trained with texts in different contexts. Through this training the model learns to understand the meaning of words and sentences as well as the relationships between them and can then be used for a multitude of different tasks. One example of the use of GPT is the generation of texts. The model can be commanded to generate a new text based on a predetermined input. This can be useful in different applications, such as when generating automatic answers to customer queries or when producing automatically generated texts for marketing purposes.",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Overall, GPT is a high-performing tool for the processing of natural language and has the potential to revolutionise the way in which we deal with texts. It is important to stress that GPT is not an autonomous system and must still always be monitored by human developers in order to ensure that the texts generated are suitable and not discriminatory or misleading.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "I hope that this brief overview has given you an insight into the possibilities of GPT and I will be pleased to be answer any further questions that you may have. Thank you very much for your attention.",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "These guidelines issued by Magdeburg-Stendal University of Applied Sciences are based on the guide, “Use of AI-based tools in teaching for lecturers” issued by HTW Saar University of Applied Sciences, published by the Department of Studies and Teaching, issue date 21.07.2022. It was comprehensively revised by the Working Committee for Digitalisation in Teaching in the office of the Prorector for Academic and International Affairs at Magdeburg-Stendal University of Applied Sciences.",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "they have gained a foothold in our everyday reality and offer a wealth of new possible uses as well as areas of business.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 88,
+    "matched": 88,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.942,
+    "uncovered_chars": 965,
+    "uncovered_gaps": 21,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 192,
+        "length": 192,
+        "text": "# hochschule magdeburg-stendal # source: https://www.h.de/fileadmin/user_upload/ki-leitfaden_fuer_lehrende_beschlossen_vom_senat_am_11.05.25__e_.pdf # date: 2025-06-11 # category: guideline #"
+      },
+      {
+        "char_start": 403,
+        "char_end": 442,
+        "length": 39,
+        "text": "# 1. overview ## areas of application"
+      },
+      {
+        "char_start": 966,
+        "char_end": 992,
+        "length": 26,
+        "text": ". ## practising ai skills"
+      },
+      {
+        "char_start": 1612,
+        "char_end": 1639,
+        "length": 27,
+        "text": ". ## limitations and risks"
+      },
+      {
+        "char_start": 2239,
+        "char_end": 2293,
+        "length": 54,
+        "text": ". ## higher education legislation reference framework"
+      },
+      {
+        "char_start": 3078,
+        "char_end": 3142,
+        "length": 64,
+        "text": ". ### use when working with partners from professional practice"
+      },
+      {
+        "char_start": 3466,
+        "char_end": 3520,
+        "length": 54,
+        "text": ". ## 2. using ai tools as part of the study programme"
+      },
+      {
+        "char_start": 3734,
+        "char_end": 3778,
+        "length": 44,
+        "text": ". ## 3. use in examinations and assessments"
+      },
+      {
+        "char_start": 4022,
+        "char_end": 4094,
+        "length": 72,
+        "text": ". ### if ai-based tools are prohibited for examinations and assessments"
+      },
+      {
+        "char_start": 4412,
+        "char_end": 4483,
+        "length": 71,
+        "text": ". ### if ai-based tools are permitted for examinations and assessments"
+      },
+      {
+        "char_start": 6372,
+        "char_end": 6394,
+        "length": 22,
+        "text": ". ### exam evaluation"
+      },
+      {
+        "char_start": 6790,
+        "char_end": 6809,
+        "length": 19,
+        "text": ". ### ai detectors"
+      },
+      {
+        "char_start": 7351,
+        "char_end": 7404,
+        "length": 53,
+        "text": ". ## 4. procedure in the event of attempted cheating"
+      },
+      {
+        "char_start": 7600,
+        "char_end": 7616,
+        "length": 16,
+        "text": ". ## appendix 1"
+      },
+      {
+        "char_start": 9782,
+        "char_end": 9797,
+        "length": 15,
+        "text": "## appendix 2"
+      },
+      {
+        "char_start": 10581,
+        "char_end": 10596,
+        "length": 15,
+        "text": "## appendix 3"
+      },
+      {
+        "char_start": 10686,
+        "char_end": 10740,
+        "length": 54,
+        "text": "#### the importance of questions in scientific works"
+      },
+      {
+        "char_start": 11121,
+        "char_end": 11151,
+        "length": 30,
+        "text": ". #### the \"value\" of answers"
+      },
+      {
+        "char_start": 11663,
+        "char_end": 11693,
+        "length": 30,
+        "text": ". #### background information"
+      },
+      {
+        "char_start": 12240,
+        "char_end": 12292,
+        "length": 52,
+        "text": ". #### financing, aspects of usability and fairness"
+      },
+      {
+        "char_start": 12684,
+        "char_end": 12700,
+        "length": 16,
+        "text": ". ## appendix 4"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 194,
+      "text": "# Hochschule Magdeburg-Stendal\n# Source: https://www.h2.de/fileadmin/user_upload/KI-Leitfaden_fuer_Lehrende_beschlossen_vom_Senat_am_11.05.25__E_.pdf\n# Date: 2025-06-11\n# Category: guideline\n\n# ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 194,
+      "char_end": 305,
+      "text": "Guidelines for the use of generative AI on study programmes at Magdeburg-Stendal University of Applied Sciences",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 305,
+      "char_end": 309,
+      "text": "\n\n**",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 309,
+      "char_end": 333,
+      "text": "GUIDELINES for lecturers",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 333,
+      "char_end": 337,
+      "text": "**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 337,
+      "char_end": 410,
+      "text": "Enacted by the Senate of the University in its session dated 11 June 2025",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 410,
+      "char_end": 452,
+      "text": "\n\n# 1. Overview\n\n## Areas of application\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 452,
+      "char_end": 541,
+      "text": "Generative artificial intelligence (AI) tools are currently undergoing rapid development.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 542,
+      "char_end": 663,
+      "text": "They have gained a foothold in our everyday reality and offer a wealth of new possible uses as well as areas of business.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 664,
+      "char_end": 829,
+      "text": "In studies and teaching, AI tools may be used, for example, for brainstorming, for translating or editing texts and also for generating images, audio or video files.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 830,
+      "char_end": 977,
+      "text": "The applications are controlled via prompts, which are entered as text or spoken commands (an overview of useful links can be found in Appendix 1).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 977,
+      "char_end": 1004,
+      "text": "\n\n## Practising AI skills\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1004,
+      "char_end": 1228,
+      "text": "In order to prepare students for their role as creators in society and the world of work, they should already be practising how to deal with AI-based tools during their studies in an open AND simultaneously critical fashion.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1229,
+      "char_end": 1467,
+      "text": "The use of AI tools also changes the way in which we teach, learn and study. Students should be able to utilise their benefits but also know when they should refrain from using them in order to achieve the best possible learning outcomes.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1468,
+      "char_end": 1625,
+      "text": "In this way they will learn how to use AI tools as an aid, to reflect upon the results produced and take responsibility for shaping the process and outcomes.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1625,
+      "char_end": 1653,
+      "text": "\n\n## Limitations and risks\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1653,
+      "char_end": 2099,
+      "text": "Generative AI tools are based on training with large datasets. Despite the fact that the answers generative AI provides may sound as if they are good quality, aspects and points of view may be lacking and/or the results generated may be wrong or only partially correct (“hallucinations”), they may feature a bias resulting from the training data used or it may be that the answers received only provide a response to the question at first glance.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2101,
+      "char_end": 2255,
+      "text": "Moreover, the input data are often used for training the AI models, which may represent a data protection or copyright problem (see report in Appendix 1).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2255,
+      "char_end": 2310,
+      "text": "\n\n## Higher education legislation reference framework\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2310,
+      "char_end": 2462,
+      "text": "AI tools are considered to be aids. As such, they - like other aids - are subject to the legal framework set out in the General Examination Regulations.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2463,
+      "char_end": 2587,
+      "text": "The responsible lecturer shall decide whether or not the use of AI is permitted in the context of the course and assessment.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2589,
+      "char_end": 2701,
+      "text": "The use of AI as an aid must be in accordance with the basic rules of good scientific practice (see Appendix 1).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2702,
+      "char_end": 2894,
+      "text": "Copyright and data protection laws must be followed. In particular in the case of data protection, compliance with the European regulations for the protection of personal data must be ensured.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2895,
+      "char_end": 3097,
+      "text": "As the input data frequently go on to be used for the purposes of training AI models and to this end are processed in the United States, personal details (e.g. names, addresses etc.) may not be entered.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3097,
+      "char_end": 3162,
+      "text": "\n\n### Use when working with partners from professional practice\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3162,
+      "char_end": 3334,
+      "text": "Written works, which are produced in collaboration with partners from professional practice (such as final theses or internship reports) may be excluded from the use of AI.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3335,
+      "char_end": 3487,
+      "text": "If no information is available, the partner from professional practice and the supervising lecturer must be actively asked for guidance by the students.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3487,
+      "char_end": 3542,
+      "text": "\n\n## 2. Using AI tools as part of the study programme\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3542,
+      "char_end": 3757,
+      "text": "At Magdeburg-Stendal University of Applied Sciences, there is already extensive experience with the use of AI tools in the writing process, in programming, and/or the acquisition of specific skills (see Appendix 1).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3757,
+      "char_end": 3802,
+      "text": "\n\n## 3. Use in examinations and assessments\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3802,
+      "char_end": 3916,
+      "text": "The responsible lecturer will decide whether or not AI applications are permitted in examinations and assessments.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3917,
+      "char_end": 4047,
+      "text": "A breach of any prohibition shall, in accordance with the General Examination Regulations, be considered to be attempted cheating.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4047,
+      "char_end": 4120,
+      "text": "\n\n### If AI-based tools are prohibited for examinations and assessments\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4120,
+      "char_end": 4275,
+      "text": "If the use of AI tools is prohibited for the production of an assessed piece of work, they will not be shown in the list of aids permitted by the lecturer.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4276,
+      "char_end": 4439,
+      "text": "In the case of written work such as projects or final theses, the declaration of originality must be supplemented by a passage stating that AI tools were not used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4439,
+      "char_end": 4511,
+      "text": "\n\n### If AI-based tools are permitted for examinations and assessments\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4511,
+      "char_end": 4729,
+      "text": "Lecturers must make it explicit, irrespective of the learning objective and teaching methodology, whether or not the AI tools may be used when producing an assessed piece of work and what, if any, are the restrictions.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4730,
+      "char_end": 4864,
+      "text": "AI tools must then be included in the list of permitted aids. If no information is available, the lecturer must be specifically asked.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4866,
+      "char_end": 4931,
+      "text": "The lecturers specify how the use of AI tools must be documented.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4932,
+      "char_end": 5024,
+      "text": "In individual cases, it may be necessary to state the prompts used and their specifications.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5025,
+      "char_end": 5141,
+      "text": "It is not permitted to leave all of the work associated with the production of a piece of assessed work to AI tools.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5142,
+      "char_end": 5199,
+      "text": "The independence of the work produced must be guaranteed.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5201,
+      "char_end": 5342,
+      "text": "Scientific work always entails the critical evaluation of the results and reflection upon one’s own methods and must be verified accordingly.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5343,
+      "char_end": 5428,
+      "text": "Reflecting upon the scientific research and thought process is part of oral teaching.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5429,
+      "char_end": 5582,
+      "text": "In accordance with the rules of good scientific practice, the scientifically relevant use of AI tools must be documented as part of a methodical process.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5584,
+      "char_end": 5740,
+      "text": "A possible form of documentation in a written scientific work is an index of aids that is appended to the list of references and declaration of originality.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5742,
+      "char_end": 5903,
+      "text": "This must document the AI-based tools used, their manufacturer, version, supplier, form and depth of use. In this connection, the following table is recommended:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5905,
+      "char_end": 6805,
+      "text": "| Column 1: Chapter / sections of the thesis | Column 2: Aids used | Column 3: Form of use (literature search, suggesting wording for individual passages of text, structuring of text, formulation of headings) | Column 4: Depth of use (or “threshold of originality”) (AI suggestion used, but adapted; AI suggestion heavily revised and sources added) | Column 5: Comments (self-reflection, notes for the lecturers) |\n|--------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| | | | | |",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6807,
+      "char_end": 6865,
+      "text": "An example of use of the table can be found in Appendix 2.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6865,
+      "char_end": 6888,
+      "text": "\n\n### Exam evaluation\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6888,
+      "char_end": 7109,
+      "text": "Lecturers should refrain from using AI tools to automatically evaluate examination work, as this may place them in the so-called high-risk area as described in the European AI Act (law concerning artificial intelligence).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7111,
+      "char_end": 7288,
+      "text": "Copyright: it is not permitted to upload student theses to generative AI applications unless it is certain that the data will not be used for training (see Appendix 1 - report).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7288,
+      "char_end": 7308,
+      "text": "\n\n### AI detectors\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7308,
+      "char_end": 7702,
+      "text": "Equally, the use of tools to identify AI-generated content (so-called AI detectors) should be avoided. Currently available tools continue to exhibit a high level of susceptibility to mistakes, in that they frequently deliver false positive results (labelling texts produced by humans as AI-generated) or false negative results (failure to detect content that has actually been generated by AI).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7703,
+      "char_end": 7852,
+      "text": "Moreover, the way they work and their results cannot be checked and do not satisfy the legal requirements of reliably providing evidence of cheating.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7852,
+      "char_end": 7906,
+      "text": "\n\n## 4. Procedure in the event of attempted cheating\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7906,
+      "char_end": 8103,
+      "text": "If it is suspected that an assessed piece of work was produced by making prohibited use of generative AI tools, the incident should be documented and reported to the responsible Board of Examiners.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8103,
+      "char_end": 8120,
+      "text": "\n\n## APPENDIX 1\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8120,
+      "char_end": 8162,
+      "text": "Useful links (last checked on 11.06.2025):",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8164,
+      "char_end": 8329,
+      "text": "- A statement on the question “What is generative AI?”\n https://portal.uni-koeln.de/digital-education/ki-in-der-bildung/was-ist-generative-kuenstliche-intelligenz-ki",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8330,
+      "char_end": 8493,
+      "text": "- Information on the ZAKKI project (Central Contact for Innovative Teaching and Learning of Interdisciplinary Artificial Intelligence Skills):\n https://h2.de/zakki",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8494,
+      "char_end": 8592,
+      "text": "- https://ddoring.notion.site/Linkliste-Arbeit-mit-generativer-KI-1cad64ff8e8e412f98aa031ad1e3b446",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8593,
+      "char_end": 8714,
+      "text": "- An overview of AI tools in the context of academic reading and writing processes:\n https://www.vkkiwa.de/ki-ressourcen/",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8715,
+      "char_end": 8873,
+      "text": "- Description of possible use cases when using AI by Justus Liebig University Giessen:\n https://ilias.uni-giessen.de/goto.php?target=cat_392292&client_id=JLUG",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8874,
+      "char_end": 9051,
+      "text": "- Article from the Universities’ Digitalisation Forum on the integration of AI tools in teaching\n https://hochschulforumdigitalisierung.de/integration-von-ki-tools-in-die-lehre/",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9052,
+      "char_end": 9238,
+      "text": "- Resource page of the Berlin Centre for University Teaching at TU Berlin:\n https://www.tu.berlin/bzhl/ressourcen-fuer-ihre-lehre/ressourcen-nach-themenbereichen/ki-in-der-hochschullehre",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9239,
+      "char_end": 9434,
+      "text": "- Information from the Centre for Interdisciplinary Learning and Teaching at TU Dresden:\n https://tu-dresden.de/zill/materialien-und-tipps-fuer-die-lehre/digital-tools/einsatz-von-ki-in-der-lehre",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9435,
+      "char_end": 9543,
+      "text": "- AI Campus Prompt Laboratory:\n https://hochschulforumdigitalisierung.de/selbstlernmaterialien-prompt-labor/",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9544,
+      "char_end": 9714,
+      "text": "- Report into “Didactic and legal perspectives on AI-assisted writing in higher education”:\n https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/9734",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9715,
+      "char_end": 9837,
+      "text": "- DFG Good Scientific Practice Code:\n https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/gwp",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9838,
+      "char_end": 10018,
+      "text": "- Didactic guide on the practical use of AI in teaching created by the DGHD and GMW:\n https://www.gmw-online.de/wp-content/uploads/2024/10/KI-Handreichung-dghd_GMW_V01_21102024.pdf",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10019,
+      "char_end": 10229,
+      "text": "- Statement by the Digital Teaching Hub of Lower Saxony on the use of AI detectors for checking assessed pieces of work:\n https://www.twillo.de/edu-sharing/components/render/6b2288cd-0232-4561-a252-bf8eef4dda49",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10231,
+      "char_end": 10391,
+      "text": "A current overview of useful links can always be found on the AI & Me website: https://kiandme.h2.de/ki-lehren-und-lernen/leitfaeden-zur-nutzung-generativer-ki/",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10391,
+      "char_end": 10408,
+      "text": "\n\n## APPENDIX 2\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10408,
+      "char_end": 10421,
+      "text": "Example table",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10423,
+      "char_end": 11651,
+      "text": "| Column 1: Chapter / sections of the thesis | Column 2: Aids used | Column 3: Form of use (literature search, suggesting wording for individual passages of text, structuring of text, formulation of headings) | Column 4: Depth of use (or “threshold of originality”) (AI suggestion used, but adapted; AI suggestion heavily revised and sources added) | Column 5: Comments (self-reflection, notes for the lecturers) |\n|--------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| Structuring | Chat GPT 4o | Suggested structuring | Several structuring suggestions compared and used with adaptations | - |\n| Figure 1 | DALL:E (integrated in Chat GPT 4o) | Illustration generated | Adopted in full | |\n| Summary | Chat GPT (3.5) | Shortening and rewording (academic style) | Adopted in full | Checked for completeness |",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11651,
+      "char_end": 11668,
+      "text": "\n\n## APPENDIX 3\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11668,
+      "char_end": 11758,
+      "text": "### Performance, technical background, mode of operation, financing, technical development",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11758,
+      "char_end": 11814,
+      "text": "\n\n#### The importance of questions in scientific works\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11814,
+      "char_end": 11963,
+      "text": "Many of the AI tools currently being tested are language-based chatbots which are based on linguistic models and generated “at the push of a button”.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11964,
+      "char_end": 12197,
+      "text": "This means that a question is entered in an input box or a command is entered (known as a prompt) and an answer is received in a minimal period of time. If necessary, a further question can be asked and the tool’s response optimised.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12197,
+      "char_end": 12228,
+      "text": "\n\n#### The “value” of answers\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12228,
+      "char_end": 12492,
+      "text": "The answers are mostly high quality and often sound highly plausible but are not always factually correct or scientifically substantiated (see above). The reason for this is that the programmes are trained that it is better to give a wrong answer than none at all.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12493,
+      "char_end": 12619,
+      "text": "Links to the internet and further training data and stages will, however, ensure that the quality of the answers is optimised.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12620,
+      "char_end": 12741,
+      "text": "Frequently, the programmes can produce not only natural language but also, for example, programming codes or image files.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12741,
+      "char_end": 12772,
+      "text": "\n\n#### Background information\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12772,
+      "char_end": 13045,
+      "text": "AI tools refer back to their respective training data but generate texts on the basis of probabilities. This means that these texts are not directly connected to the actual training data. If the same prompts are entered repeatedly, new answers will be generated every time.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13046,
+      "char_end": 13320,
+      "text": "Current AI tools are able to refer to external sources that have been made available by users or linked to via a search. This may allow a reference to be made to sources, however a critical evaluation and assessment of the citability is still the responsibility of the user.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13320,
+      "char_end": 13373,
+      "text": "\n\n#### Financing, aspects of usability and fairness\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13373,
+      "char_end": 13768,
+      "text": "Currently, there are several programmes on the market that are free to use. However, there are also paid-for versions that guarantee permanent availability. In addition to this, new functions are initially only being released with the paid-for versions. This means that consideration must be given to the ability to use (or access) and, linked to this, fairness (who is able to use which tools).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13768,
+      "char_end": 13785,
+      "text": "\n\n## APPENDIX 4\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13785,
+      "char_end": 13853,
+      "text": "### Generative AI is a tool! The importance of a methodical approach",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13855,
+      "char_end": 14115,
+      "text": "The following examples show how important it is for the questions that are asked to be as specific as possible. The quality of the question is critical for the quality, scope and focus of the answer. This applies fundamentally to the use of all AI-based tools.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14117,
+      "char_end": 14361,
+      "text": "Understanding the importance of a good prompt also results in new skills which will become important in the world of work in future. There are already websites that give tips on prompting (e.g. https://learnprompting.org, https://prompts.chat).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14363,
+      "char_end": 14411,
+      "text": "The following are original answers from ChatGPT.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14413,
+      "char_end": 14435,
+      "text": "#### 1. 'What is GPT?'",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14437,
+      "char_end": 14708,
+      "text": "GPT stands for 'Generative Pre-trained Transformer' and refers to a class of neuronal networks that are used for natural linguistic processing (NLP). GPT models are specially developed for generating or completing text, on the basis of the context in which they are used.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14710,
+      "char_end": 15075,
+      "text": "GPT models are generally trained with large numbers of texts in order to develop a deep understanding of the language and acquire extensive knowledge of how words and sentences are used, in order to express meaning. GPT models have proven to be very useful for a multitude of NLP tasks, including translation, summarisation, answering questions and generating text.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15077,
+      "char_end": 15129,
+      "text": "#### 2. 'Explain to a 5-year-old child what GPT is.'",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15131,
+      "char_end": 15420,
+      "text": "Hello! GPT is like a super-clever robot that can help to understand things with language and also say new things itself. It knows a lot of words and sentences and can use them to invent new stories or answers to questions. GPT is like a very clever friend that you can talk and learn with.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15422,
+      "char_end": 15554,
+      "text": "#### 3. 'Please explain GPT scientifically, your target group is first semester students studying neuroscience or computer science.'",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15556,
+      "char_end": 16015,
+      "text": "GPT stands for 'Generative Pre-trained Transformer', which alludes to the features and functions of the model. It is a deep neuronal network that was developed for processing natural language (NLP). GPT is based on an architecture known as Transformer that makes it possible to analyse long sections of text and produce content summaries. The model is initially trained with a large number of texts in order to obtain a comprehensive linguistic understanding.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16017,
+      "char_end": 16565,
+      "text": "GPT is a 'generative' model, which means that it is able to generate new texts on the basis of the linguistic understanding that it has acquired. For example, it can write stories, poems or articles and also provide answers to questions. The model is characterised as 'pre-trained,' because it is trained in specific applications before use with large amounts of text, in order to optimise its linguistic processing capabilities. This training is extremely important as it provides the model with a deep understanding of the language and its rules.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16567,
+      "char_end": 16851,
+      "text": "In summary, GPT is an advanced model for natural language processing, which is based on a transformer architecture and acquires a deep understanding of language through extensive training with text data. The model can then be used to generate new texts on the basis of this knowledge.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16853,
+      "char_end": 16978,
+      "text": "#### 4. “Please give a scientific presentation about GPT. The presentation should be aimed at an expert scientific audience.”",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16980,
+      "char_end": 17232,
+      "text": "Ladies and Gentlemen,\n\nToday I would like to give you an insight into the topic of “Generative Pre-Trained Transformers” or GPT for short. GPT is a framework for artificial intelligence that makes it possible to conduct machine learning on a new level.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17234,
+      "char_end": 17970,
+      "text": "GPT is a deep learning model that is based on an architecture known as Transformer. This architecture was first introduced by Google in 2017 and makes it possible to process natural language efficiently. The Transformer model consists of a layer of coders and a layer of decoders, which enable the model to process long sequences of data by capturing the meaning of words and sentences and contextualising them. GPT goes one step further by using a “pre-training” process. This means that the model is first trained on a large number of texts before being used on a certain task. This pre-training can be carried out in an unsupervised or supervised way, depending on whether the model has access to the actual answers to a task or not.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17972,
+      "char_end": 18595,
+      "text": "The pre-training occurs in several stages, whereby the model is repeatedly trained with texts in different contexts. Through this training the model learns to understand the meaning of words and sentences as well as the relationships between them and can then be used for a multitude of different tasks. One example of the use of GPT is the generation of texts. The model can be commanded to generate a new text based on a predetermined input. This can be useful in different applications, such as when generating automatic answers to customer queries or when producing automatically generated texts for marketing purposes.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18597,
+      "char_end": 18963,
+      "text": "Overall, GPT is a high-performing tool for the processing of natural language and has the potential to revolutionise the way in which we deal with texts. It is important to stress that GPT is not an autonomous system and must still always be monitored by human developers in order to ensure that the texts generated are suitable and not discriminatory or misleading.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18965,
+      "char_end": 19167,
+      "text": "I hope that this brief overview has given you an insight into the possibilities of GPT and I will be pleased to be answer any further questions that you may have. Thank you very much for your attention.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19169,
+      "char_end": 19655,
+      "text": "These guidelines issued by Magdeburg-Stendal University of Applied Sciences are based on the guide, “Use of AI-based tools in teaching for lecturers” issued by HTW Saar University of Applied Sciences, published by the Department of Studies and Teaching, issue date 21.07.2022. It was comprehensively revised by the Working Committee for Digitalisation in Teaching in the office of the Prorector for Academic and International Affairs at Magdeburg-Stendal University of Applied Sciences.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 87,
+      "match_type": "exact"
+    }
+  ]
+}

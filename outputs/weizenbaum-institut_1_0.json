@@ -1,0 +1,764 @@
+{
+  "doc_id": "weizenbaum-institut_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der Einsatz von Werkzeugen der generativen Künstlichen Intelligenz (KI) verändert Arbeits- und Wissenschaftsprozesse. Das Weizenbaum-Institut e. V. (WI) möchte gemäß seinem Leitbild eine konstruktiv-kritische Auseinandersetzung mit den Möglichkeiten von KI ermöglichen, die sowohl praktische und rechtliche Aspekte berücksichtigt, als auch den technischen Fortschritt mit einer ethisch vertretbaren und nachhaltigen Nutzung in Einklang bringt.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Einsatz von KI-Werkzeugen am WI soll den wissenschaftlichen Prozess auf vielfältige Weise unterstützen und Routinetätigkeiten in Forschung und Verwaltung vereinfachen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Mit der Richtlinie werden der Kodex zur guten wissenschaftlichen Praxis am Weizenbaum-Institut und die Leitlinie zum Umgang mit Forschungsdaten ergänzt.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Richtlinie wird unter starker Einbeziehung der Mitarbeitenden und der Nutzungserfahrungen weiter überarbeitet und präzisiert.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Praktische und konkrete Anwendungshinweise und Anleitungen ergänzen die Richtlinie. Es werden Einschluss- und Ausschlusslisten veröffentlicht.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Systeme, die im Folgenden als „generative KI“ bezeichnet werden, sind in der Lage, Inhalte, seien es Bilder, Töne oder Texte, anhand von Vorgaben neu zu erstellen oder grundlegend umzugestalten.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Am WI werden Werkzeuge mit generativer KI in verschiedenen Formen eingesetzt, von Web Services über Code und technische APIs bis hin zur Integration in Programme wie Office.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Werkzeuge, die zwar auf ähnlichen Methoden basieren, aber ausschließlich formale Kriterien prüfen oder anpassen, sind auch Gegenstand dieser Richtlinie. Beispiele sind Übersetzungs- und Transkriptionsdienste.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Richtlinie richtet sich an alle Mitarbeiter:innen des WI sowie an externe Wissenschaftler:innen, sofern ihre Tätigkeit in Projekten des WI stattfindet oder direkt mit dem Institut assoziiert ist.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Darüber hinaus sind immer projektspezifische Vorgaben, Auflagen der jeweiligen Zuwendungsgeber, der Verlage sowie kooperierender Einrichtungen zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Richtlinie umfasst alle kommerziellen und nicht-kommerziellen Dienste und Modelle für generative KI.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Nutzung von privaten Accounts und Lizenzen bei Diensten der generativen KI für dienstliche Zwecke ist nicht gestattet.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Bei besonderem Bedarf ist die/der KI-Beauftragte ansprechbar.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Richtlinie berücksichtigt nicht die studentische Lehre und Aspekte des Studiums.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Den meisten von WI-Mitarbeiter:innen und Wissenschaftler:innen nutzbaren Diensten der generativen KI ist gemeinsam, dass die eigentliche Datenverarbeitung außerhalb der technischen Infrastruktur des Instituts stattfindet. Das bedeutet, dass die Eingaben z. B. in ein KI-System an den Dienstleister übermittelt werden, also das Institut verlassen.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Eingaben sind hier nicht nur Texteingaben („Prompts“), sondern können auch Dokumente oder Mediendateien sein. Dies ist aus Governance- und Datenschutzgründen nicht für alle Daten zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Lizenzen der meisten kommerziellen generativen KI-Modelle räumen den Betreibern das Recht ein, die Eingaben der Nutzenden für die eigenen Trainingsdaten, aus denen das eigentliche KI-Modell generiert und verbessert wird, zu verwenden. Dies ist problematisch, da im Extremfall die Eingaben ganz oder teilweise von Dritten wiederhergestellt werden können.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Enthält das Trainingsmaterial urheberrechtlich geschützte Werke, besteht die Gefahr, dass das Ergebnis einer generativen KI den geschützten Werken so nahekommt, dass bei Veröffentlichung eine Rechtsverletzung vorliegen kann. Fast alle Corpora kommerzieller Modelle enthalten solch geschützte Daten, nur wenige freie Modelle verzichten auf urheberrechtlich geschützte Werke und können dies auch garantieren.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Sensible Geschäftsdaten sowie personenbezogene Daten dürfen nur unter bestimmten Voraussetzungen extern verarbeitet werden. Da derzeit fast alle für WI-Mitarbeitende nutzbaren generativen KI-Dienste in externen Rechenzentren betrieben werden, kommt eine Nutzung in diesen Fällen einer Übermittlung an externe Stellen gleich.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es ist daher verboten, interne Dokumente des Instituts oder der Verbundpartner des Instituts wie E-Mails, Protokolle oder Berichte in eine generative KI einzuspeisen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Eingabe von Informationen über natürliche Personen in generative KI ist verboten, es sei denn, es gibt eine ausdrückliche Rechtsgrundlage und Garantien für die Verarbeitung.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beim Einsatz in Studien ist auf eine spezifische Information der Teilnehmenden zu achten (Einsatz und Zweck von KI-Systemen).",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Bei Unklarheiten über den Status einer geplanten Verarbeitung ist vor der Durchführung die Datenschutzbeauftragte zu konsultieren.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die eingesetzten Produkte und deren Nutzung müssen den ethischen und rechtlichen Standards des Instituts entsprechen.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Urheberschaft kann nur von Menschen beansprucht werden. Das bedeutet, dass auch bei einer gekennzeichneten Verwendung der Ergebnisse einer generativen KI die ausführende Person für den Inhalt und auch die Einhaltung der Grundsätze der guten wissenschaftlichen Praxis verantwortlich ist.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Bei der Nutzung von KI im Rahmen von Entscheidungsfindungsprozessen gilt es zwischen automatisierter, ausgelagerter Entscheidungsfindung und der Unterstützung von Entscheidungen zu unterscheiden. Nur die Unterstützung einer Entscheidungsfindung durch generative KI ist zulässig und sorgfältig abzuwägen.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Generative KI kann formal und sprachlich überzeugende Inhalte produzieren, arbeitet aber im Kern nicht logisch-deduktiv, sondern linguistisch-statistisch. Deshalb müssen alle von generativer KI produzierten Inhalte auf Richtigkeit geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dabei ist vor allem auf Erfindungen („Halluzinationen“), inhaltliche Inkonsistenzen sowie Verzerrungen und Vorurteile („bias“) in den ausgegebenen Daten der KI-Systeme zu achten.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei wissenschaftlichen Anträgen und Publikationen muss die Verwendung von KI-Systemen transparent gemacht und in Übereinstimmung mit den Vorgaben der Verlage und Zuwendungsgeber erfolgen.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Richtlinie wurde durch das Direktorium des Weizenbaum-Instituts e. V. verabschiedet am 13.01.2025.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die Richtlinie wird als lebendiges Dokument regelmäßig überprüft und inhaltlich aktualisiert.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "beispiele hierzu finden sich im abschnitt „ausschluss der nutzung\".",
+      "repaired": true
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "vorsicht und kontrolle",
+      "repaired": true
+    },
+    {
+      "id": 34,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## appendix weitere informationen und anwendungshinweise finden sich unter: https://wiki.intern.weizenbauminstitut.de/index.php?title=category:ki",
+      "repaired": true
+    },
+    {
+      "id": 35,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## footnotes",
+      "repaired": true
+    },
+    {
+      "id": 36,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "1 siehe: richtlinie zur nutzung von diensthandys und privater mobiler geräte am weizenbaum-institut.",
+      "repaired": true
+    },
+    {
+      "id": 37,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "kontakt eva grübel-hoffmann: datenschutz@weizenbauminstitut.de",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 37,
+    "matched": 35,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 36,
+        "B": "B13",
+        "matched_words": "12/13",
+        "text": "1 siehe: richtlinie zur nutzung von diensthandys und privater mobiler geräte am weizenbaum-institut."
+      },
+      {
+        "id": 37,
+        "B": "B13",
+        "matched_words": "2/4",
+        "text": "kontakt eva grübel-hoffmann: datenschutz@weizenbauminstitut.de"
+      }
+    ],
+    "source_coverage": 0.802,
+    "uncovered_chars": 1503,
+    "uncovered_gaps": 10,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 1120,
+        "length": 1120,
+        "text": "# weizenbaum-institut # source: https://zenodo.org/records/14844475/files/20250114_richtlinie%20zur%20nutzung%20generativer%20ki%20am%20wi_final_tp-1_public.pdf?download=1 # date: 2025 # category: guideline # nutzung von generativer ki am weizenbaum-institut richtlinie v. 1, 13.01.2025 ## impressum weizenbaum-institut e.v. hardenbergstrasse 32 10623 berlin info@weizenbauminstitut.de // weizenbauminstitut.de | version: | 1 | | datum der version: | 13.01.2025 | | autor:innen: | jochen knaus, sascha friesike, ricarda opitz, jan hase, dietmar kammerer, claudia oellers | | beteiligte forschungsgruppen / bereiche: | forschungsmanagement, vorstand | | beschlossen durch: | direktorium | | status: | beschlossen | ## änderungshistorie | datum | version | erstellt durch | beschreibung der änderungen | | 13.01.2025 | 1 | jochen knaus, sascha friesike, ricarda opitz, jan hase, dietmar kammerer, claudia oellers | / | dauerhafte verfügbarkeit: doi 10.5281/zenodo.14844475 die richtlinie ist lizenziert unter creative commons cc-by 4.0 attribution (https://creativecommons.org/licenses/by/4.0/) # richtlinie ## einleitung"
+      },
+      {
+        "char_start": 2157,
+        "char_end": 2178,
+        "length": 21,
+        "text": ". ## begrifflichkeit"
+      },
+      {
+        "char_start": 2752,
+        "char_end": 2773,
+        "length": 21,
+        "text": ". ## geltungsbereich"
+      },
+      {
+        "char_start": 3503,
+        "char_end": 3543,
+        "length": 40,
+        "text": ". ## risiken der nutzung generativer ki"
+      },
+      {
+        "char_start": 4908,
+        "char_end": 4936,
+        "length": 28,
+        "text": ". ## ausschluss der nutzung"
+      },
+      {
+        "char_start": 5979,
+        "char_end": 6003,
+        "length": 24,
+        "text": ". ## verantwortlichkeit"
+      },
+      {
+        "char_start": 6592,
+        "char_end": 6643,
+        "length": 51,
+        "text": ". ## prinzipien der nutzung von generativer ki ###"
+      },
+      {
+        "char_start": 7088,
+        "char_end": 7106,
+        "length": 18,
+        "text": ". ### transparenz"
+      },
+      {
+        "char_start": 7292,
+        "char_end": 7308,
+        "length": 16,
+        "text": ". ## gültigkeit"
+      },
+      {
+        "char_start": 7663,
+        "char_end": 7827,
+        "length": 164,
+        "text": "1 siehe: richtlinie zur nutzung von diensthandys und privater mobiler geräte am weizenbaum-institut. kontakt eva grübel-hoffmann: datenschutz@weizenbauminstitut.de"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 1138,
+      "text": "# Weizenbaum-Institut\n# Source: https://zenodo.org/records/14844475/files/20250114_Richtlinie%20zur%20Nutzung%20generativer%20KI%20am%20WI_final_tp-1_public.pdf?download=1\n# Date: 2025\n# Category: guideline\n\n# Nutzung von generativer KI am Weizenbaum-Institut\n\nRichtlinie\n\nV. 1, 13.01.2025\n\n## Impressum\n\nWeizenbaum-Institut e.V.\n\nHardenbergstrasse 32\n\n10623 Berlin\n\ninfo@weizenbaum-institut.de // weizenbaum-institut.de\n\n| Version: | 1 |\n| Datum der Version: | 13.01.2025 |\n| Autor:innen: | Jochen Knaus, Sascha Friesike, Ricarda Opitz, Jan Hase, Dietmar Kammerer, Claudia Oellers |\n| Beteiligte Forschungsgruppen / Bereiche: | Forschungsmanagement, Vorstand |\n| Beschlossen durch: | Direktorium |\n| Status: | Beschlossen |\n\n## Änderungshistorie\n\n| Datum | Version | Erstellt durch | Beschreibung der Änderungen |\n| 13.01.2025 | 1 | Jochen Knaus, Sascha Friesike, Ricarda Opitz, Jan Hase, Dietmar Kammerer, Claudia Oellers | / |\n\nDauerhafte Verfügbarkeit: DOI 10.5281/zenodo.14844475\n\nDie Richtlinie ist lizenziert unter Creative Commons CC-BY 4.0 Attribution (https://creativecommons.org/licenses/by/4.0/)\n\n# Richtlinie\n\n## Einleitung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1138,
+      "char_end": 1581,
+      "text": "Der Einsatz von Werkzeugen der generativen Künstlichen Intelligenz (KI) verändert Arbeits- und Wissenschaftsprozesse. Das Weizenbaum-Institut e. V. (WI) möchte gemäß seinem Leitbild eine konstruktiv-kritische Auseinandersetzung mit den Möglichkeiten von KI ermöglichen, die sowohl praktische und rechtliche Aspekte berücksichtigt, als auch den technischen Fortschritt mit einer ethisch vertretbaren und nachhaltigen Nutzung in Einklang bringt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1583,
+      "char_end": 1754,
+      "text": "Der Einsatz von KI-Werkzeugen am WI soll den wissenschaftlichen Prozess auf vielfältige Weise unterstützen und Routinetätigkeiten in Forschung und Verwaltung vereinfachen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1756,
+      "char_end": 1908,
+      "text": "Mit der Richtlinie werden der Kodex zur guten wissenschaftlichen Praxis am Weizenbaum-Institut und die Leitlinie zum Umgang mit Forschungsdaten ergänzt.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1910,
+      "char_end": 2041,
+      "text": "Diese Richtlinie wird unter starker Einbeziehung der Mitarbeitenden und der Nutzungserfahrungen weiter überarbeitet und präzisiert.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2043,
+      "char_end": 2185,
+      "text": "Praktische und konkrete Anwendungshinweise und Anleitungen ergänzen die Richtlinie. Es werden Einschluss- und Ausschlusslisten veröffentlicht.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2185,
+      "char_end": 2207,
+      "text": "\n\n## Begrifflichkeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2207,
+      "char_end": 2401,
+      "text": "Systeme, die im Folgenden als „generative KI“ bezeichnet werden, sind in der Lage, Inhalte, seien es Bilder, Töne oder Texte, anhand von Vorgaben neu zu erstellen oder grundlegend umzugestalten.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2402,
+      "char_end": 2575,
+      "text": "Am WI werden Werkzeuge mit generativer KI in verschiedenen Formen eingesetzt, von Web Services über Code und technische APIs bis hin zur Integration in Programme wie Office.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2577,
+      "char_end": 2785,
+      "text": "Werkzeuge, die zwar auf ähnlichen Methoden basieren, aber ausschließlich formale Kriterien prüfen oder anpassen, sind auch Gegenstand dieser Richtlinie. Beispiele sind Übersetzungs- und Transkriptionsdienste.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2785,
+      "char_end": 2807,
+      "text": "\n\n## Geltungsbereich\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2807,
+      "char_end": 3008,
+      "text": "Diese Richtlinie richtet sich an alle Mitarbeiter:innen des WI sowie an externe Wissenschaftler:innen, sofern ihre Tätigkeit in Projekten des WI stattfindet oder direkt mit dem Institut assoziiert ist.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3010,
+      "char_end": 3165,
+      "text": "Darüber hinaus sind immer projektspezifische Vorgaben, Auflagen der jeweiligen Zuwendungsgeber, der Verlage sowie kooperierender Einrichtungen zu beachten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3167,
+      "char_end": 3271,
+      "text": "Die Richtlinie umfasst alle kommerziellen und nicht-kommerziellen Dienste und Modelle für generative KI.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3273,
+      "char_end": 3395,
+      "text": "Die Nutzung von privaten Accounts und Lizenzen bei Diensten der generativen KI für dienstliche Zwecke ist nicht gestattet.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3396,
+      "char_end": 3457,
+      "text": "Bei besonderem Bedarf ist die/der KI-Beauftragte ansprechbar.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3459,
+      "char_end": 3543,
+      "text": "Die Richtlinie berücksichtigt nicht die studentische Lehre und Aspekte des Studiums.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3543,
+      "char_end": 3584,
+      "text": "\n\n## Risiken der Nutzung generativer KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3584,
+      "char_end": 3930,
+      "text": "Den meisten von WI-Mitarbeiter:innen und Wissenschaftler:innen nutzbaren Diensten der generativen KI ist gemeinsam, dass die eigentliche Datenverarbeitung außerhalb der technischen Infrastruktur des Instituts stattfindet. Das bedeutet, dass die Eingaben z. B. in ein KI-System an den Dienstleister übermittelt werden, also das Institut verlassen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3931,
+      "char_end": 4119,
+      "text": "Eingaben sind hier nicht nur Texteingaben („Prompts“), sondern können auch Dokumente oder Mediendateien sein. Dies ist aus Governance- und Datenschutzgründen nicht für alle Daten zulässig.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4119,
+      "char_end": 4189,
+      "text": " Beispiele hierzu finden sich im Abschnitt „Ausschluss der Nutzung“.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4189,
+      "char_end": 4546,
+      "text": "Die Lizenzen der meisten kommerziellen generativen KI-Modelle räumen den Betreibern das Recht ein, die Eingaben der Nutzenden für die eigenen Trainingsdaten, aus denen das eigentliche KI-Modell generiert und verbessert wird, zu verwenden. Dies ist problematisch, da im Extremfall die Eingaben ganz oder teilweise von Dritten wiederhergestellt werden können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4548,
+      "char_end": 4954,
+      "text": "Enthält das Trainingsmaterial urheberrechtlich geschützte Werke, besteht die Gefahr, dass das Ergebnis einer generativen KI den geschützten Werken so nahekommt, dass bei Veröffentlichung eine Rechtsverletzung vorliegen kann. Fast alle Corpora kommerzieller Modelle enthalten solch geschützte Daten, nur wenige freie Modelle verzichten auf urheberrechtlich geschützte Werke und können dies auch garantieren.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4954,
+      "char_end": 4983,
+      "text": "\n\n## Ausschluss der Nutzung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4983,
+      "char_end": 5307,
+      "text": "Sensible Geschäftsdaten sowie personenbezogene Daten dürfen nur unter bestimmten Voraussetzungen extern verarbeitet werden. Da derzeit fast alle für WI-Mitarbeitende nutzbaren generativen KI-Dienste in externen Rechenzentren betrieben werden, kommt eine Nutzung in diesen Fällen einer Übermittlung an externe Stellen gleich.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5309,
+      "char_end": 5475,
+      "text": "Es ist daher verboten, interne Dokumente des Instituts oder der Verbundpartner des Instituts wie E-Mails, Protokolle oder Berichte in eine generative KI einzuspeisen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5477,
+      "char_end": 5654,
+      "text": "Die Eingabe von Informationen über natürliche Personen in generative KI ist verboten, es sei denn, es gibt eine ausdrückliche Rechtsgrundlage und Garantien für die Verarbeitung.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5655,
+      "char_end": 5780,
+      "text": "Beim Einsatz in Studien ist auf eine spezifische Information der Teilnehmenden zu achten (Einsatz und Zweck von KI-Systemen).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5781,
+      "char_end": 5911,
+      "text": "Bei Unklarheiten über den Status einer geplanten Verarbeitung ist vor der Durchführung die Datenschutzbeauftragte zu konsultieren.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5913,
+      "char_end": 6030,
+      "text": "Die eingesetzten Produkte und deren Nutzung müssen den ethischen und rechtlichen Standards des Instituts entsprechen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6030,
+      "char_end": 6055,
+      "text": "\n\n## Verantwortlichkeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6055,
+      "char_end": 6341,
+      "text": "Urheberschaft kann nur von Menschen beansprucht werden. Das bedeutet, dass auch bei einer gekennzeichneten Verwendung der Ergebnisse einer generativen KI die ausführende Person für den Inhalt und auch die Einhaltung der Grundsätze der guten wissenschaftlichen Praxis verantwortlich ist.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6343,
+      "char_end": 6646,
+      "text": "Bei der Nutzung von KI im Rahmen von Entscheidungsfindungsprozessen gilt es zwischen automatisierter, ausgelagerter Entscheidungsfindung und der Unterstützung von Entscheidungen zu unterscheiden. Nur die Unterstützung einer Entscheidungsfindung durch generative KI ist zulässig und sorgfältig abzuwägen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6646,
+      "char_end": 6698,
+      "text": "\n\n## Prinzipien der Nutzung von generativer KI\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6698,
+      "char_end": 6720,
+      "text": "Vorsicht und Kontrolle",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6722,
+      "char_end": 6968,
+      "text": "Generative KI kann formal und sprachlich überzeugende Inhalte produzieren, arbeitet aber im Kern nicht logisch-deduktiv, sondern linguistisch-statistisch. Deshalb müssen alle von generativer KI produzierten Inhalte auf Richtigkeit geprüft werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6969,
+      "char_end": 7147,
+      "text": "Dabei ist vor allem auf Erfindungen („Halluzinationen“), inhaltliche Inkonsistenzen sowie Verzerrungen und Vorurteile („bias“) in den ausgegebenen Daten der KI-Systeme zu achten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7147,
+      "char_end": 7166,
+      "text": "\n\n### Transparenz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7166,
+      "char_end": 7353,
+      "text": "Bei wissenschaftlichen Anträgen und Publikationen muss die Verwendung von KI-Systemen transparent gemacht und in Übereinstimmung mit den Vorgaben der Verlage und Zuwendungsgeber erfolgen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7353,
+      "char_end": 7370,
+      "text": "\n\n## Gültigkeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7370,
+      "char_end": 7472,
+      "text": "Die Richtlinie wurde durch das Direktorium des Weizenbaum-Instituts e. V. verabschiedet am 13.01.2025.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7474,
+      "char_end": 7567,
+      "text": "Die Richtlinie wird als lebendiges Dokument regelmäßig überprüft und inhaltlich aktualisiert.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7567,
+      "char_end": 7718,
+      "text": "\n\n## Appendix\n\nWeitere Informationen und Anwendungshinweise finden sich unter: https://wiki.intern.weizenbaum-institut.de/index.php?title=Category:KI\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7718,
+      "char_end": 7730,
+      "text": "## FOOTNOTES",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7732,
+      "char_end": 7832,
+      "text": "1 Siehe: Richtlinie zur Nutzung von Diensthandys und privater mobiler Geräte am Weizenbaum-Institut.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7832,
+      "char_end": 7899,
+      "text": "\n\n2 Kontakt Eva Grübel-Hoffmann: datenschutz@weizenbaum-institut.de",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

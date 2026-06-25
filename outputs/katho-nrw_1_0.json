@@ -1,0 +1,1168 @@
+{
+  "doc_id": "katho-nrw_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Seit der Veröffentlichung von ChatGPT im November 2022 hat sich der Einsatz von Künstlicher Intelligenz (nachfolgend auch KI) in vielen gesellschaftlichen Lebensbereichen etabliert.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative KIs erzeugen Texte, Bilder, Audios und Videos auf der Basis statistischer Wahrscheinlichkeiten.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-basierte Datenanalysen werten große Datenmengen in kürzester Zeit aus, weisen auf unbekannte Muster hin und unterstützen Forschende.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Künstliche Intelligenz kann nutzbringend eingesetzt werden, sie kann Arbeitsvorgänge beschleunigen und Zeiten für subjektiv bedeutsame Tätigkeiten schaffen.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Künstliche Intelligenz soll einen Beitrag dazu leisten, Lebens- und Arbeitsbereiche sicherer, nachhaltiger und effizienter zu gestalten und Teilhabe zu fördern.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI trägt aber auch das Potential in sich, negative Veränderungen zu bewirken: Die Erstellung von authentisch wirkenden, aber falschen Nachrichten und deren Verbreitung in sozialen Netzwerken sind Szenarien, die gesellschaftliche Strukturen herausfordern werden.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wir stehen am Anfang von sozio-technischen Entwicklungen, deren Auswirkungen gesellschaftliche Systeme und die Wissenschaftslandschaft verändern werden.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Als Hochschule für angewandte Wissenschaften stehen wir vor den Herausforderungen, die mit Künstlicher Intelligenz einhergehenden Entwicklungen zu analysieren, zu reflektieren und unsere Hochschulmitglieder zu unterstützen, Anwendungs- und Reflexionskompetenzen entwickeln zu können.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Auf gesellschaftlicher Ebene soll die katho bei dem Themenkomplex KI im Gesundheits- und Sozialwesen und der Theologie ein relevanter Ansprechpartner werden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Künstliche Intelligenz wird als ein Werkzeug angesehen, das im Rahmen von Studium und Lehre zur Bewältigung anfallender Aufgaben eingesetzt werden kann, z.B. zu Recherchezwecken, zur Auswertung von Datenbeständen, zur Erstellung von Präsentationen, für die Zusammenfassung von Texten oder zur Erstellung von Medien.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wir sehen die Grenzen des Technikeinsatzes an den Punkten erreicht, die den zentralen Zielen des Hochschulstudiums entgegenlaufen, die Qualität des Studiums herabsetzen, wo gegen die Grundsätze guter wissenschaftlicher Praxis oder gegen die Grundwerte unserer Hochschule verstoßen wird.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Zum jetzigen Zeitpunkt bestehen wenige Best-Practices zur Integration von KIs in Lehrveranstaltungen im Gesundheits- und Sozialwesen sowie in der Theologie.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Wir erwarten von unseren Lehrenden und Studierenden keine abschließenden Antworten, sondern die Bereitschaft, die Möglichkeiten von KI innerhalb der Hochschullehre zu testen, zu evaluieren und die gesammelten Erfahrungen in den Fachbereichen und Hochschulgremien zu teilen.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "KI als Werkzeug sowie die veränderten gesellschaftlichen Realitäten und Möglichkeiten beeinflussen Lehre und Studium. Um einen vorläufigen Rahmen für diese Entwicklung zu bieten, wurden nachfolgende Leitlinien formuliert.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Aufgrund der hohen Geschwindigkeit der Entwicklung im Bereich KI werden diese in regelmäßigen Abständen von der K1 geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Allen Mitarbeitenden der katho ist ein bewusster und verantwortungsvoller Umgang mit den begrenzten Ressourcen unserer Erde bedeutsam. Deshalb sei an dieser Stelle auf die Energieintensität der neuen digitalen Möglichkeiten hingewiesen.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Verwendung von KI beim Lehren und Lernen ist grundsätzlich erlaubt.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Hochschule unterstützt die wissenschaftlich adäquate, verantwortungsbewusste und kompetente Nutzung von KI.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Hochschule arbeitet daran, allen Lehrenden und Studierenden eine datenschutzkonforme Nutzung von KI-Tools zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Für die Nutzung der ausgewählten KI-Tools werden systematisch Schulungen angeboten.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende dürfen die Nutzung von KI beschränken oder ausschließen.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies ist im Kontext von Prüfungen rechtzeitig aktiv zu kommunizieren.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende müssen transparent kenntlich machen, ob und wie sie KI verwendet haben, z.B. in bewerteten Hausarbeiten, Übungsaufgaben und Abschlussarbeiten.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Durch KI generierte Inhalte (Texte, Bilder, Videos etc.) müssen, unter der Angabe der benutzten KI-Tools und Prompts (entweder für die gesamte Arbeit oder die entsprechenden Teile/Kapitel), gekennzeichnet werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es wird empfohlen, den Einsatz von KI inklusive Art, Ziel und Umfang des Gebrauchs mit dem/der betreffenden Prüfer_in zu besprechen.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entsprechende Vorlagen werden durch die Hochschule bereitgestellt.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lehrende machen als Vorbild und im Sinne einer guten wissenschaftlichen Praxis transparent kenntlich, ob und wie sie KI einsetzen, z.B. bei der Erstellung von Lehrmaterialien.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Verstöße gegen die Regeln des vorgabengemäßen Einsatzes von KI sind möglicherweise Verstöße gegen die wissenschaftliche Integrität und als solche zu ahnden.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In diesem Zusammenhang ist zu bedenken, dass sich urheberrechtliche Fragen stellen können (z.B. Kopien von Texten und Bildern aus dem Internet).",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Im Studium bleibt das eigene Verfassen von schriftlichen Arbeiten o.ä. eine wichtige Kernkompetenz, die akademisch vermittelt werden muss.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungsformen sind zu überdenken und an die Möglichkeiten der KI anzupassen, um Lehrenden die Entwicklung anderer Prüfungsformate zu ermöglichen und Täuschungen so weit wie möglich zu verhindern.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Falls die Verwendung von KI-Tools Teil einer Prüfungsleistung ist, sind ausschließlich von der Hochschule zur Verfügung gestellte, datenschutzkonforme Tools zu verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Hochschule unterstützt bei der Entwicklung neuer Lehr-/Lernformate und Prüfungsformen.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Hochschule sieht die Notwendigkeit eines breit angelegten Diskurses in den Fachbereichen zum Einsatz und zu den Auswirkungen von KI, in den möglichst alle Statusgruppen einbezogen werden sollen.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Nutzung von KI-Tools im Rahmen von Studium und Lehre ist freiwillig.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Studierende und Lehrende können nicht zur Erstellung eines privaten Accounts und Nutzung von KI-Tools verpflichtet werden.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Bei der Nutzung von KI-Tools dürfen keine personenbezogenen Daten von Dritten, z.B. in Form von Forschungsdaten, Audio- oder Videoaufnahmen etc. eingegeben / verarbeitet werden, da diese Informationspflichten auslösen, die nicht zu erfüllen sind.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es dürfen ausschließlich die von der Hochschule zur Verfügung gestellten oder genehmigten KI-Tools eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Jede_r ist selbst verpflichtet, sich über die DSGVO/KDG-Konformität bei KI-Tools zu informieren.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erproben Sie die Möglichkeiten von KI für Ihr Studium und erweitern Sie Ihren Blick insbesondere auch auf zukünftige Arbeitsbereiche.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Möglicher Nutzen für Ihr Studium kann sein:",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Überprüfung Ihrer Lernziele und Strukturierung Ihres Lernverhaltens",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzung von KI als interaktiven Schreib- und Lernpartner",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zusammenfassung des Lernstoffes mit KI",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Hinterfragen und überprüfen Sie, ob die von KI gelieferten Ergebnisse korrekt sind und die wissenschaftlichen Erkenntnisse widerspiegeln.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Denken Sie darüber nach, ob der Einsatz von KI ein effizienter Zugewinn für Ihre Aufgaben ist.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Beim eigenständigen Bearbeiten von Aufgaben (bewusst ohne Verwendung von KI oder anderen Hilfsmitteln) erlernen Sie grundlegende Kompetenzen (z.B. wissenschaftliches Schreiben), die Sie langfristig weiterhin brauchen, um KI-Tools in Zukunft sinnvoll einsetzen und kritisch hinterfragen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beachten Sie die rechtlichen Bestimmungen, Prüfungsordnungen und Zitierrichtlinien.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Reflektieren Sie inwieweit der Einsatz von KI in Ihren Lehrveranstaltungen gewinnbringend und zielführend sein kann.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Informieren Sie Studierende über obenstehende Vorgaben zum Einsatz von KI-Tools und vereinbaren Sie ggf. Regelungen für den Einsatz in Ihren Lehrveranstaltungen.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ändern Sie ggfs. die Prüfungsformate (vermehrt mündliche, unter Aufsicht, in Gruppen, prozess- und lernbegleitend oder fokussiert auf kritisches Denken).",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Sprechen Sie das Thema KI an und zeigen Sie mögliche Einsatzszenarien auf. Ermutigen Sie die Studierenden, KI-Tools auszuprobieren und ihre Erfahrungen zu teilen.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## vi. quellen gimpel, h., hall, k., decker, s., eymann, t., lämmermann, l., mädche, a., röglinger, m., ruiner, c., schoch, m., schoop, m. and urbach, n., 2023. unlocking the power of generative ai models and systems such as gpt-4 and chatgpt for higher education. universität mannheim: chatgpt im studium - potenziale ausschöpfen, integrität wahren. 2023. christian spannagel: rules for tools. 2023. technische universität dortmund: zum umgang mit chatgpt in der lehre - eine aktualisierung der ersten handreichung der tu dortmund. 2023. fh dortmund: leitlinie ki in der lehre der fachhochschule dortmund.",
+      "repaired": true
+    },
+    {
+      "id": 54,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "ausgefertigt aufgrund des beschlusses des senats der katholischen hochschule nordrhein-westfalen am 14.10.2024. köln, den 14.10.2024 die rektorin der katholischen hochschule nordrhein-westfalen prof.in dr.in barbara schermaier-stöckl",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 54,
+    "matched": 53,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 54,
+        "B": "B13",
+        "matched_words": "9/25",
+        "text": "ausgefertigt aufgrund des beschlusses des senats der katholischen hochschule nordrhein-westfalen am 14.10.2024. köln, den 14.10.2024 die rektorin der katholischen hochschule nordrhein-westfalen prof.in dr.in barbara schermaier-stöckl"
+      }
+    ],
+    "source_coverage": 0.912,
+    "uncovered_chars": 705,
+    "uncovered_gaps": 6,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 352,
+        "length": 352,
+        "text": "# katholische hochschule nordrhein-westfalen # source: https://kathonrw.de/fileadmin/media/studium/innovative_lehre/2024_10_14_leitlinien_ki_in_der_lehre.pdf # date: 2024-10-14 # category: guideline # leitlinien „ki in der lehre\" katholische hochschule nordrhein-westfalen catholic university of applied sciences vom 14. september 2024 # i. einleitung"
+      },
+      {
+        "char_start": 3565,
+        "char_end": 3584,
+        "length": 19,
+        "text": ". # ii. grundsätze"
+      },
+      {
+        "char_start": 5955,
+        "char_end": 5985,
+        "length": 30,
+        "text": ". ## iii. datenschutzhinweise"
+      },
+      {
+        "char_start": 6639,
+        "char_end": 6675,
+        "length": 36,
+        "text": ". ## iv. empfehlung für studierende"
+      },
+      {
+        "char_start": 7627,
+        "char_end": 7659,
+        "length": 32,
+        "text": ". ## v. empfehlung für lehrende"
+      },
+      {
+        "char_start": 8858,
+        "char_end": 9094,
+        "length": 236,
+        "text": ".. ausgefertigt aufgrund des beschlusses des senats der katholischen hochschule nordrhein-westfalen am 14.10.2024. köln, den 14.10.2024 die rektorin der katholischen hochschule nordrhein-westfalen prof.in dr.in barbara schermaier-stöckl"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 358,
+      "text": "# Katholische Hochschule Nordrhein-Westfalen\n# Source: https://katho-nrw.de/fileadmin/media/studium/Innovative_Lehre/2024_10_14_Leitlinien_KI_in_der_Lehre.pdf\n# Date: 2024-10-14\n# Category: guideline\n\n# LEITLINIEN\n„KI IN DER LEHRE“\n\nKatholische Hochschule Nordrhein-Westfalen\nCatholic University of Applied Sciences\n\nvom 14. September 2024\n\n# I. Einleitung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 358,
+      "char_end": 539,
+      "text": "Seit der Veröffentlichung von ChatGPT im November 2022 hat sich der Einsatz von Künstlicher Intelligenz (nachfolgend auch KI) in vielen gesellschaftlichen Lebensbereichen etabliert.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 540,
+      "char_end": 646,
+      "text": "Generative KIs erzeugen Texte, Bilder, Audios und Videos auf der Basis statistischer Wahrscheinlichkeiten.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 647,
+      "char_end": 782,
+      "text": "KI-basierte Datenanalysen werten große Datenmengen in kürzester Zeit aus, weisen auf unbekannte Muster hin und unterstützen Forschende.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 783,
+      "char_end": 939,
+      "text": "Künstliche Intelligenz kann nutzbringend eingesetzt werden, sie kann Arbeitsvorgänge beschleunigen und Zeiten für subjektiv bedeutsame Tätigkeiten schaffen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 940,
+      "char_end": 1100,
+      "text": "Künstliche Intelligenz soll einen Beitrag dazu leisten, Lebens- und Arbeitsbereiche sicherer, nachhaltiger und effizienter zu gestalten und Teilhabe zu fördern.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1101,
+      "char_end": 1362,
+      "text": "KI trägt aber auch das Potential in sich, negative Veränderungen zu bewirken: Die Erstellung von authentisch wirkenden, aber falschen Nachrichten und deren Verbreitung in sozialen Netzwerken sind Szenarien, die gesellschaftliche Strukturen herausfordern werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1363,
+      "char_end": 1515,
+      "text": "Wir stehen am Anfang von sozio-technischen Entwicklungen, deren Auswirkungen gesellschaftliche Systeme und die Wissenschaftslandschaft verändern werden.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1516,
+      "char_end": 1799,
+      "text": "Als Hochschule für angewandte Wissenschaften stehen wir vor den Herausforderungen, die mit Künstlicher Intelligenz einhergehenden Entwicklungen zu analysieren, zu reflektieren und unsere Hochschulmitglieder zu unterstützen, Anwendungs- und Reflexionskompetenzen entwickeln zu können.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1800,
+      "char_end": 1957,
+      "text": "Auf gesellschaftlicher Ebene soll die katho bei dem Themenkomplex KI im Gesundheits- und Sozialwesen und der Theologie ein relevanter Ansprechpartner werden.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1959,
+      "char_end": 2274,
+      "text": "Künstliche Intelligenz wird als ein Werkzeug angesehen, das im Rahmen von Studium und Lehre zur Bewältigung anfallender Aufgaben eingesetzt werden kann, z.B. zu Recherchezwecken, zur Auswertung von Datenbeständen, zur Erstellung von Präsentationen, für die Zusammenfassung von Texten oder zur Erstellung von Medien.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2275,
+      "char_end": 2561,
+      "text": "Wir sehen die Grenzen des Technikeinsatzes an den Punkten erreicht, die den zentralen Zielen des Hochschulstudiums entgegenlaufen, die Qualität des Studiums herabsetzen, wo gegen die Grundsätze guter wissenschaftlicher Praxis oder gegen die Grundwerte unserer Hochschule verstoßen wird.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2562,
+      "char_end": 2718,
+      "text": "Zum jetzigen Zeitpunkt bestehen wenige Best-Practices zur Integration von KIs in Lehrveranstaltungen im Gesundheits- und Sozialwesen sowie in der Theologie.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2719,
+      "char_end": 2992,
+      "text": "Wir erwarten von unseren Lehrenden und Studierenden keine abschließenden Antworten, sondern die Bereitschaft, die Möglichkeiten von KI innerhalb der Hochschullehre zu testen, zu evaluieren und die gesammelten Erfahrungen in den Fachbereichen und Hochschulgremien zu teilen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2994,
+      "char_end": 3215,
+      "text": "KI als Werkzeug sowie die veränderten gesellschaftlichen Realitäten und Möglichkeiten beeinflussen Lehre und Studium. Um einen vorläufigen Rahmen für diese Entwicklung zu bieten, wurden nachfolgende Leitlinien formuliert.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3216,
+      "char_end": 3346,
+      "text": "Aufgrund der hohen Geschwindigkeit der Entwicklung im Bereich KI werden diese in regelmäßigen Abständen von der K1 geprüft werden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3348,
+      "char_end": 3584,
+      "text": "Allen Mitarbeitenden der katho ist ein bewusster und verantwortungsvoller Umgang mit den begrenzten Ressourcen unserer Erde bedeutsam. Deshalb sei an dieser Stelle auf die Energieintensität der neuen digitalen Möglichkeiten hingewiesen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3584,
+      "char_end": 3606,
+      "text": "\n\n# II. Grundsätze\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3606,
+      "char_end": 3677,
+      "text": "Die Verwendung von KI beim Lehren und Lernen ist grundsätzlich erlaubt.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3678,
+      "char_end": 3789,
+      "text": "Die Hochschule unterstützt die wissenschaftlich adäquate, verantwortungsbewusste und kompetente Nutzung von KI.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3789,
+      "char_end": 3792,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3792,
+      "char_end": 3917,
+      "text": "Die Hochschule arbeitet daran, allen Lehrenden und Studierenden eine datenschutzkonforme Nutzung von KI-Tools zu ermöglichen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3918,
+      "char_end": 4001,
+      "text": "Für die Nutzung der ausgewählten KI-Tools werden systematisch Schulungen angeboten.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4001,
+      "char_end": 4004,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4004,
+      "char_end": 4069,
+      "text": "Lehrende dürfen die Nutzung von KI beschränken oder ausschließen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4070,
+      "char_end": 4139,
+      "text": "Dies ist im Kontext von Prüfungen rechtzeitig aktiv zu kommunizieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4139,
+      "char_end": 4142,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4142,
+      "char_end": 4296,
+      "text": "Studierende müssen transparent kenntlich machen, ob und wie sie KI verwendet haben, z.B. in bewerteten Hausarbeiten, Übungsaufgaben und Abschlussarbeiten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4297,
+      "char_end": 4509,
+      "text": "Durch KI generierte Inhalte (Texte, Bilder, Videos etc.) müssen, unter der Angabe der benutzten KI-Tools und Prompts (entweder für die gesamte Arbeit oder die entsprechenden Teile/Kapitel), gekennzeichnet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4510,
+      "char_end": 4642,
+      "text": "Es wird empfohlen, den Einsatz von KI inklusive Art, Ziel und Umfang des Gebrauchs mit dem/der betreffenden Prüfer_in zu besprechen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4643,
+      "char_end": 4709,
+      "text": "Entsprechende Vorlagen werden durch die Hochschule bereitgestellt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4709,
+      "char_end": 4712,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4712,
+      "char_end": 4887,
+      "text": "Lehrende machen als Vorbild und im Sinne einer guten wissenschaftlichen Praxis transparent kenntlich, ob und wie sie KI einsetzen, z.B. bei der Erstellung von Lehrmaterialien.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4887,
+      "char_end": 4890,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4890,
+      "char_end": 5046,
+      "text": "Verstöße gegen die Regeln des vorgabengemäßen Einsatzes von KI sind möglicherweise Verstöße gegen die wissenschaftliche Integrität und als solche zu ahnden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5047,
+      "char_end": 5191,
+      "text": "In diesem Zusammenhang ist zu bedenken, dass sich urheberrechtliche Fragen stellen können (z.B. Kopien von Texten und Bildern aus dem Internet).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5191,
+      "char_end": 5194,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5194,
+      "char_end": 5332,
+      "text": "Im Studium bleibt das eigene Verfassen von schriftlichen Arbeiten o.ä. eine wichtige Kernkompetenz, die akademisch vermittelt werden muss.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5332,
+      "char_end": 5335,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5335,
+      "char_end": 5531,
+      "text": "Prüfungsformen sind zu überdenken und an die Möglichkeiten der KI anzupassen, um Lehrenden die Entwicklung anderer Prüfungsformate zu ermöglichen und Täuschungen so weit wie möglich zu verhindern.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5531,
+      "char_end": 5534,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5534,
+      "char_end": 5704,
+      "text": "Falls die Verwendung von KI-Tools Teil einer Prüfungsleistung ist, sind ausschließlich von der Hochschule zur Verfügung gestellte, datenschutzkonforme Tools zu verwenden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5704,
+      "char_end": 5707,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5707,
+      "char_end": 5797,
+      "text": "Die Hochschule unterstützt bei der Entwicklung neuer Lehr-/Lernformate und Prüfungsformen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5797,
+      "char_end": 5800,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5800,
+      "char_end": 5998,
+      "text": "Die Hochschule sieht die Notwendigkeit eines breit angelegten Diskurses in den Fachbereichen zum Einsatz und zu den Auswirkungen von KI, in den möglichst alle Statusgruppen einbezogen werden sollen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5998,
+      "char_end": 6031,
+      "text": "\n\n## III. Datenschutzhinweise\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6031,
+      "char_end": 6103,
+      "text": "Die Nutzung von KI-Tools im Rahmen von Studium und Lehre ist freiwillig.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6104,
+      "char_end": 6226,
+      "text": "Studierende und Lehrende können nicht zur Erstellung eines privaten Accounts und Nutzung von KI-Tools verpflichtet werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6226,
+      "char_end": 6229,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6229,
+      "char_end": 6475,
+      "text": "Bei der Nutzung von KI-Tools dürfen keine personenbezogenen Daten von Dritten, z.B. in Form von Forschungsdaten, Audio- oder Videoaufnahmen etc. eingegeben / verarbeitet werden, da diese Informationspflichten auslösen, die nicht zu erfüllen sind.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6475,
+      "char_end": 6478,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6478,
+      "char_end": 6595,
+      "text": "Es dürfen ausschließlich die von der Hochschule zur Verfügung gestellten oder genehmigten KI-Tools eingesetzt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6595,
+      "char_end": 6598,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6598,
+      "char_end": 6694,
+      "text": "Jede_r ist selbst verpflichtet, sich über die DSGVO/KDG-Konformität bei KI-Tools zu informieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6694,
+      "char_end": 6733,
+      "text": "\n\n## IV. Empfehlung für Studierende\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6733,
+      "char_end": 6866,
+      "text": "Erproben Sie die Möglichkeiten von KI für Ihr Studium und erweitern Sie Ihren Blick insbesondere auch auf zukünftige Arbeitsbereiche.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6867,
+      "char_end": 6910,
+      "text": "Möglicher Nutzen für Ihr Studium kann sein:",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6910,
+      "char_end": 6914,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6914,
+      "char_end": 6981,
+      "text": "Überprüfung Ihrer Lernziele und Strukturierung Ihres Lernverhaltens",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6981,
+      "char_end": 6985,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6985,
+      "char_end": 7041,
+      "text": "Nutzung von KI als interaktiven Schreib- und Lernpartner",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7041,
+      "char_end": 7045,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7045,
+      "char_end": 7083,
+      "text": "Zusammenfassung des Lernstoffes mit KI",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7083,
+      "char_end": 7086,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7086,
+      "char_end": 7223,
+      "text": "Hinterfragen und überprüfen Sie, ob die von KI gelieferten Ergebnisse korrekt sind und die wissenschaftlichen Erkenntnisse widerspiegeln.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7223,
+      "char_end": 7226,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7226,
+      "char_end": 7320,
+      "text": "Denken Sie darüber nach, ob der Einsatz von KI ein effizienter Zugewinn für Ihre Aufgaben ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7320,
+      "char_end": 7323,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7323,
+      "char_end": 7619,
+      "text": "Beim eigenständigen Bearbeiten von Aufgaben (bewusst ohne Verwendung von KI oder anderen Hilfsmitteln) erlernen Sie grundlegende Kompetenzen (z.B. wissenschaftliches Schreiben), die Sie langfristig weiterhin brauchen, um KI-Tools in Zukunft sinnvoll einsetzen und kritisch hinterfragen zu können.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7619,
+      "char_end": 7622,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7622,
+      "char_end": 7705,
+      "text": "Beachten Sie die rechtlichen Bestimmungen, Prüfungsordnungen und Zitierrichtlinien.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7705,
+      "char_end": 7740,
+      "text": "\n\n## V. Empfehlung für Lehrende\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7740,
+      "char_end": 7856,
+      "text": "Reflektieren Sie inwieweit der Einsatz von KI in Ihren Lehrveranstaltungen gewinnbringend und zielführend sein kann.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7856,
+      "char_end": 7859,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7859,
+      "char_end": 8020,
+      "text": "Informieren Sie Studierende über obenstehende Vorgaben zum Einsatz von KI-Tools und vereinbaren Sie ggf. Regelungen für den Einsatz in Ihren Lehrveranstaltungen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8020,
+      "char_end": 8023,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8023,
+      "char_end": 8176,
+      "text": "Ändern Sie ggfs. die Prüfungsformate (vermehrt mündliche, unter Aufsicht, in Gruppen, prozess- und lernbegleitend oder fokussiert auf kritisches Denken).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8176,
+      "char_end": 8179,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8179,
+      "char_end": 8341,
+      "text": "Sprechen Sie das Thema KI an und zeigen Sie mögliche Einsatzszenarien auf. Ermutigen Sie die Studierenden, KI-Tools auszuprobieren und ihre Erfahrungen zu teilen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8341,
+      "char_end": 9210,
+      "text": "\n\n## VI. Quellen\n\nGimpel, H., Hall, K., Decker, S., Eymann, T., Lämmermann, L., Mädche, A., Röglinger, M., Ruiner, C., Schoch, M., Schoop, M. and Urbach, N., 2023. Unlocking the power of generative AI models and systems such as GPT-4 and ChatGPT for higher education.\n\nUniversität Mannheim: ChatGPT im Studium - Potenziale ausschöpfen, Integrität wahren. 2023.\n\nChristian Spannagel: Rules for Tools. 2023.\n\nTechnische Universität Dortmund: Zum Umgang mit ChatGPT in der Lehre – eine Aktualisierung der ersten Handreichung der TU Dortmund. 2023.\n\nFH Dortmund: Leitlinie KI in der Lehre der Fachhochschule Dortmund. Stand 14.02.2024.\n\nAusgefertigt aufgrund des Beschlusses des Senats der Katholischen Hochschule Nordrhein-Westfalen am 14.10.2024.\n\nKöln, den 14.10.2024\n\nDie Rektorin\nder Katholischen Hochschule Nordrhein-Westfalen\n\nProf.in Dr.in Barbara Schermaier-Stöckl",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

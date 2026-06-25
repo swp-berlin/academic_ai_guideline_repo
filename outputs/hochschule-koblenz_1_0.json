@@ -1,0 +1,1301 @@
+{
+  "doc_id": "hochschule-koblenz_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Integration von Künstlicher Intelligenz (KI), insbesondere generativer KI, in Lehre, Forschung und Transfer, aber auch in die Verwaltung ist für Hochschulen heute unerlässlich.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In einer Welt, die zunehmend von digitaler Technologie und automatisierten Prozessen geprägt ist, wird der kompetente Umgang mit KI-Tools zu einer grundlegenden Berufskompetenz.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gleichsam nutzen Organisationen und Unternehmen selbst für die eigenen Prozesse KI.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Hochschule Koblenz positioniert sich als zukunftsfähige und innovative Hochschule, die Studierende optimal auf die Herausforderungen einer von KI geprägten Welt vorbereitet und KI-Systeme in Lehre, Forschung und Verwaltung ethisch und rechtlich verantwortungsvoll einsetzt.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Einsatz von KI-Tools für eine zeitgemäße Lehre",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Kompetenzvermittlung von Studierenden mit umfassenden Kenntnissen und praktischen Fähigkeiten in der Anwendung von KI",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Integration von KI-Tools in die Curricula aller Studiengänge, um digitale Kompetenz zu fördern",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Entwicklung von KI-Studiengängen",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Entwicklung und Einsatz von Tools zu Learning Analytics und prädikativer Analytik",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzung von KI-Tools in Prüfungen und Bewertungssituationen",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Diskussion ethischer Fragestellungen beim Einsatz von KI-Tools",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Schaffung von Anreizen für die Beantragung von Drittmitteln für KI-Forschung",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Initiierung von interdisziplinären Forschungsprojekten, die innovative KI-Anwendungen in verschiedene Disziplinen erforschen",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Förderung von Kooperationen mit anderen Forschungseinrichtungen",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Förderung von Kooperationen mit Unternehmen, um praxisorientierte Lösungen zu entwickeln",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Aufbau eines KI-Kontaktnetzes mit Unternehmen",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Weitergabe der Erfahrungen mit KI in der Lehre insbesondere an Schulen und Lehrer als Multiplikatoren",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzung vorhandener Transferformate für das Thema KI und Aufbau neuer Formate",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Implementierung von KI-basierten Systemen zur Prozessoptimierung in der Verwaltung",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Automatisierung von Routineaufgaben, um Ressourcen freizumachen und die Effizienz zu steigern",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Entwicklung eines digitalen Campus, der Studierenden und Mitarbeitern Zugang zu innovativen Werkzeugen bietet",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bereitstellung von Zugängen und hochschuleigener KI-Infrastruktur unter Beachtung rechtlicher und ethischer Implikationen",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Verantwortungsvoller Umgang mit Rechenressourcen und Anwendung von KI mit effizienten Algorithmen",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Betrachtung der Entwicklung und Anwendung von KI unter ethischen Gesichtspunkten, um negative soziale Auswirkungen zu minimieren",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Förderung eines Bewusstseins für die Verantwortung, die mit der Nutzung von KI einhergeht",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Einhaltung der rechtlichen Vorgaben, insbesondere Datenschutzgesetze und -vorschriften bei der Entwicklung und Anwendung von KI",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entwicklung von Richtlinien, um die Verantwortung bei der Nutzung von KI zu gewährleisten",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Einrichtung eines Prozesses zur Freigabe von KI-Systemen zum Einsatz in Lehre, Forschung und Verwaltung",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Einrichtung eines KI-Kompetenznetzwerks",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Benennung von KI-Experten in den Handlungsfeldern",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Erweiterung der Vorgaben für ethisches Verhalten",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bereitstellung KI-gestützter Lehrumgebung und KI-Zugang für die Lehre",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Investition in KI-Infrastruktur, einschließlich Hard- und Software, um Forschung und Lehre zu unterstützen",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bereitstellung von Mitteln für die Entwicklung von KI-Anwendungen in der Verwaltung",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Bereitstellung von Personal für die Infrastruktur (u.a. Umschichten von Aufgaben)",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Schulung der Lehrenden in",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "der Überarbeitung der Lehrformate",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "der Adaption von Inhalten und Prüfungen an ein KI-gesteuertes Lehrumfeld",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Integration von KI-Kenntnissen und Anwendungen in die Lehre",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Schulung der Mitarbeitenden in der Anwendung von KI-Tools",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Angebot von Weiterbildungsprogrammen, um KI-Kompetenzen zu stärken",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Überprüfung der Fortschritte bei der Integration von KI in Lehre, Forschung, Transfer und Verwaltung",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Anpassung der Strategie an neue Entwicklungen und Herausforderungen",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Befragung von Studierenden, Lehrenden und Mitarbeitenden, um deren Meinungen und Erfahrungen mit der KI-Integration zu sammeln",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Einbindung von externer Expertise, um die Strategie zu validieren und zu verbessern",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Jährliche Berichte über die Fortschritte und Erfolge der KI-Strategie",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Veröffentlichung von Ergebnissen und guten Praktiken",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "um die erfolgreiche umsetzung der ki-strategie zu gewährleisten, wird die hochschule koblenz regelmäßige evaluierungen durchführen:",
+      "repaired": true
+    },
+    {
+      "id": 49,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "zielüberprüfung:",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 49,
+    "matched": 48,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 48,
+        "B": "B12",
+        "matched_words": "5/15",
+        "text": "um die erfolgreiche umsetzung der ki-strategie zu gewährleisten, wird die hochschule koblenz regelmäßige evaluierungen durchführen:"
+      }
+    ],
+    "source_coverage": 0.84,
+    "uncovered_chars": 745,
+    "uncovered_gaps": 13,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 221,
+        "length": 221,
+        "text": "# hochschule koblenz # source: https://www.hskoblenz.de/fileadmin/media/hochschule/presse/leitbild_studium_und_lehre/ki-strategie.pdf # date: 2025-05 # category: guideline # ki-strategie der hochschule koblenz ## vision:"
+      },
+      {
+        "char_start": 940,
+        "char_end": 994,
+        "length": 54,
+        "text": ". # handlungsfelder ## 1. lehre/kompetenzvermittlung:"
+      },
+      {
+        "char_start": 1491,
+        "char_end": 1509,
+        "length": 18,
+        "text": "## 2. forschung:"
+      },
+      {
+        "char_start": 1774,
+        "char_end": 1790,
+        "length": 16,
+        "text": "## 3. transfer"
+      },
+      {
+        "char_start": 2104,
+        "char_end": 2135,
+        "length": 31,
+        "text": "## 4. verwaltungsoptimierung:"
+      },
+      {
+        "char_start": 2421,
+        "char_end": 2459,
+        "length": 38,
+        "text": "## 5. ressourcen und nachhaltigkeit:"
+      },
+      {
+        "char_start": 2678,
+        "char_end": 2715,
+        "length": 37,
+        "text": "## 6. ethik und rechtliche aspekte:"
+      },
+      {
+        "char_start": 3151,
+        "char_end": 3205,
+        "length": 54,
+        "text": "# umsetzungsmaßnahmen: ## 1. strukturelle maßnahmen:"
+      },
+      {
+        "char_start": 3447,
+        "char_end": 3480,
+        "length": 33,
+        "text": "## 2. ressourcenbereitstellung:"
+      },
+      {
+        "char_start": 3820,
+        "char_end": 3843,
+        "length": 23,
+        "text": "## 3. qualifizierung:"
+      },
+      {
+        "char_start": 4160,
+        "char_end": 4329,
+        "length": 169,
+        "text": "## monitoring und evaluation: um die erfolgreiche umsetzung der ki-strategie zu gewährleisten, wird die hochschule koblenz regelmäßige evaluierungen durchführen: ### 1"
+      },
+      {
+        "char_start": 4514,
+        "char_end": 4540,
+        "length": 26,
+        "text": "### 2 feedback einholen:"
+      },
+      {
+        "char_start": 4750,
+        "char_end": 4775,
+        "length": 25,
+        "text": "### 3 berichterstattung"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 225,
+      "text": "# Hochschule Koblenz\n# Source: https://www.hs-koblenz.de/fileadmin/media/hochschule/presse/Leitbild_Studium_und_Lehre/KI-Strategie.pdf\n# Date: 2025-05\n# Category: guideline\n\n# KI-Strategie der Hochschule Koblenz\n\n## Vision:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 225,
+      "char_end": 405,
+      "text": "Die Integration von Künstlicher Intelligenz (KI), insbesondere generativer KI, in Lehre, Forschung und Transfer, aber auch in die Verwaltung ist für Hochschulen heute unerlässlich.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 406,
+      "char_end": 583,
+      "text": "In einer Welt, die zunehmend von digitaler Technologie und automatisierten Prozessen geprägt ist, wird der kompetente Umgang mit KI-Tools zu einer grundlegenden Berufskompetenz.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 584,
+      "char_end": 667,
+      "text": "Gleichsam nutzen Organisationen und Unternehmen selbst für die eigenen Prozesse KI.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 669,
+      "char_end": 946,
+      "text": "Die Hochschule Koblenz positioniert sich als zukunftsfähige und innovative Hochschule, die Studierende optimal auf die Herausforderungen einer von KI geprägten Welt vorbereitet und KI-Systeme in Lehre, Forschung und Verwaltung ethisch und rechtlich verantwortungsvoll einsetzt.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 946,
+      "char_end": 1004,
+      "text": "\n\n# Handlungsfelder\n\n## 1. Lehre/Kompetenzvermittlung:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1004,
+      "char_end": 1050,
+      "text": "Einsatz von KI-Tools für eine zeitgemäße Lehre",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1050,
+      "char_end": 1053,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1053,
+      "char_end": 1170,
+      "text": "Kompetenzvermittlung von Studierenden mit umfassenden Kenntnissen und praktischen Fähigkeiten in der Anwendung von KI",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1170,
+      "char_end": 1173,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1173,
+      "char_end": 1267,
+      "text": "Integration von KI-Tools in die Curricula aller Studiengänge, um digitale Kompetenz zu fördern",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1267,
+      "char_end": 1270,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1270,
+      "char_end": 1302,
+      "text": "Entwicklung von KI-Studiengängen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1302,
+      "char_end": 1305,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1305,
+      "char_end": 1386,
+      "text": "Entwicklung und Einsatz von Tools zu Learning Analytics und prädikativer Analytik",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1386,
+      "char_end": 1389,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1389,
+      "char_end": 1448,
+      "text": "Nutzung von KI-Tools in Prüfungen und Bewertungssituationen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1448,
+      "char_end": 1451,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1451,
+      "char_end": 1513,
+      "text": "Diskussion ethischer Fragestellungen beim Einsatz von KI-Tools",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1513,
+      "char_end": 1535,
+      "text": "\n\n## 2. Forschung:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1535,
+      "char_end": 1611,
+      "text": "Schaffung von Anreizen für die Beantragung von Drittmitteln für KI-Forschung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1611,
+      "char_end": 1614,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1614,
+      "char_end": 1738,
+      "text": "Initiierung von interdisziplinären Forschungsprojekten, die innovative KI-Anwendungen in verschiedene Disziplinen erforschen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1738,
+      "char_end": 1741,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1741,
+      "char_end": 1804,
+      "text": "Förderung von Kooperationen mit anderen Forschungseinrichtungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1804,
+      "char_end": 1824,
+      "text": "\n\n## 3. Transfer\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1824,
+      "char_end": 1912,
+      "text": "Förderung von Kooperationen mit Unternehmen, um praxisorientierte Lösungen zu entwickeln",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1912,
+      "char_end": 1915,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1915,
+      "char_end": 1960,
+      "text": "Aufbau eines KI-Kontaktnetzes mit Unternehmen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1960,
+      "char_end": 1963,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1963,
+      "char_end": 2064,
+      "text": "Weitergabe der Erfahrungen mit KI in der Lehre insbesondere an Schulen und Lehrer als Multiplikatoren",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2064,
+      "char_end": 2067,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2067,
+      "char_end": 2144,
+      "text": "Nutzung vorhandener Transferformate für das Thema KI und Aufbau neuer Formate",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2144,
+      "char_end": 2179,
+      "text": "\n\n## 4. Verwaltungsoptimierung:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2179,
+      "char_end": 2261,
+      "text": "Implementierung von KI-basierten Systemen zur Prozessoptimierung in der Verwaltung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2261,
+      "char_end": 2264,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2264,
+      "char_end": 2357,
+      "text": "Automatisierung von Routineaufgaben, um Ressourcen freizumachen und die Effizienz zu steigern",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2357,
+      "char_end": 2360,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2360,
+      "char_end": 2469,
+      "text": "Entwicklung eines digitalen Campus, der Studierenden und Mitarbeitern Zugang zu innovativen Werkzeugen bietet",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2469,
+      "char_end": 2511,
+      "text": "\n\n## 5. Ressourcen und Nachhaltigkeit:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2511,
+      "char_end": 2632,
+      "text": "Bereitstellung von Zugängen und hochschuleigener KI-Infrastruktur unter Beachtung rechtlicher und ethischer Implikationen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2632,
+      "char_end": 2635,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2635,
+      "char_end": 2732,
+      "text": "Verantwortungsvoller Umgang mit Rechenressourcen und Anwendung von KI mit effizienten Algorithmen",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2732,
+      "char_end": 2773,
+      "text": "\n\n## 6. Ethik und rechtliche Aspekte:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2773,
+      "char_end": 2901,
+      "text": "Betrachtung der Entwicklung und Anwendung von KI unter ethischen Gesichtspunkten, um negative soziale Auswirkungen zu minimieren",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2901,
+      "char_end": 2904,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2904,
+      "char_end": 2993,
+      "text": "Förderung eines Bewusstseins für die Verantwortung, die mit der Nutzung von KI einhergeht",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2993,
+      "char_end": 2996,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2996,
+      "char_end": 3123,
+      "text": "Einhaltung der rechtlichen Vorgaben, insbesondere Datenschutzgesetze und -vorschriften bei der Entwicklung und Anwendung von KI",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3123,
+      "char_end": 3126,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3126,
+      "char_end": 3215,
+      "text": "Entwicklung von Richtlinien, um die Verantwortung bei der Nutzung von KI zu gewährleisten",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3215,
+      "char_end": 3274,
+      "text": "\n\n# Umsetzungsmaßnahmen:\n\n## 1. Strukturelle Maßnahmen:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3274,
+      "char_end": 3377,
+      "text": "Einrichtung eines Prozesses zur Freigabe von KI-Systemen zum Einsatz in Lehre, Forschung und Verwaltung",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3377,
+      "char_end": 3380,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3380,
+      "char_end": 3419,
+      "text": "Einrichtung eines KI-Kompetenznetzwerks",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3419,
+      "char_end": 3422,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3422,
+      "char_end": 3471,
+      "text": "Benennung von KI-Experten in den Handlungsfeldern",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3471,
+      "char_end": 3474,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3474,
+      "char_end": 3522,
+      "text": "Erweiterung der Vorgaben für ethisches Verhalten",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3522,
+      "char_end": 3559,
+      "text": "\n\n## 2. Ressourcenbereitstellung:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3559,
+      "char_end": 3628,
+      "text": "Bereitstellung KI-gestützter Lehrumgebung und KI-Zugang für die Lehre",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3628,
+      "char_end": 3631,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3631,
+      "char_end": 3737,
+      "text": "Investition in KI-Infrastruktur, einschließlich Hard- und Software, um Forschung und Lehre zu unterstützen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3737,
+      "char_end": 3740,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3740,
+      "char_end": 3823,
+      "text": "Bereitstellung von Mitteln für die Entwicklung von KI-Anwendungen in der Verwaltung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3823,
+      "char_end": 3826,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3826,
+      "char_end": 3907,
+      "text": "Bereitstellung von Personal für die Infrastruktur (u.a. Umschichten von Aufgaben)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3907,
+      "char_end": 3934,
+      "text": "\n\n## 3. Qualifizierung:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3934,
+      "char_end": 3959,
+      "text": "Schulung der Lehrenden in",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3959,
+      "char_end": 3963,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3963,
+      "char_end": 3996,
+      "text": "der Überarbeitung der Lehrformate",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3996,
+      "char_end": 4000,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4000,
+      "char_end": 4072,
+      "text": "der Adaption von Inhalten und Prüfungen an ein KI-gesteuertes Lehrumfeld",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4072,
+      "char_end": 4076,
+      "text": "\n - ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4076,
+      "char_end": 4135,
+      "text": "Integration von KI-Kenntnissen und Anwendungen in die Lehre",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4135,
+      "char_end": 4138,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4138,
+      "char_end": 4195,
+      "text": "Schulung der Mitarbeitenden in der Anwendung von KI-Tools",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4195,
+      "char_end": 4198,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4198,
+      "char_end": 4264,
+      "text": "Angebot von Weiterbildungsprogrammen, um KI-Kompetenzen zu stärken",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4264,
+      "char_end": 4297,
+      "text": "\n\n## Monitoring und Evaluation:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4297,
+      "char_end": 4428,
+      "text": "Um die erfolgreiche Umsetzung der KI-Strategie zu gewährleisten, wird die Hochschule Koblenz regelmäßige Evaluierungen durchführen:",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4428,
+      "char_end": 4436,
+      "text": "\n\n### 1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4436,
+      "char_end": 4452,
+      "text": "Zielüberprüfung:",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4452,
+      "char_end": 4456,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4456,
+      "char_end": 4556,
+      "text": "Überprüfung der Fortschritte bei der Integration von KI in Lehre, Forschung, Transfer und Verwaltung",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4556,
+      "char_end": 4559,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4559,
+      "char_end": 4626,
+      "text": "Anpassung der Strategie an neue Entwicklungen und Herausforderungen",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4626,
+      "char_end": 4656,
+      "text": "\n\n### 2 Feedback einholen:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4656,
+      "char_end": 4782,
+      "text": "Befragung von Studierenden, Lehrenden und Mitarbeitenden, um deren Meinungen und Erfahrungen mit der KI-Integration zu sammeln",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4782,
+      "char_end": 4785,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4785,
+      "char_end": 4868,
+      "text": "Einbindung von externer Expertise, um die Strategie zu validieren und zu verbessern",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4868,
+      "char_end": 4897,
+      "text": "\n\n### 3 Berichterstattung\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4897,
+      "char_end": 4966,
+      "text": "Jährliche Berichte über die Fortschritte und Erfolge der KI-Strategie",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4966,
+      "char_end": 4969,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4969,
+      "char_end": 5021,
+      "text": "Veröffentlichung von Ergebnissen und guten Praktiken",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 47,
+      "match_type": "exact"
+    }
+  ]
+}
