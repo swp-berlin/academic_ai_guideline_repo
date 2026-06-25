@@ -1,18 +1,16 @@
 # Table of Contents: weizenbaum-institut_1_0
 
-_Mode: generated_from_headings_
+_Mode: extracted_toc_
 
-- The Weizenbaum Institute for the Networked Society
-  - Richtlinie zur Nutzung von generativer KI am Weizenbaum-Institut
-    - Authors/Creators
-    - Description
-    - Files
-    - Additional details
-      - Additional titles
-    - Dates
-    - External resources
-    - DOI
-    - Languages
-    - Rights
-    - Citation
-    - Technical metadata
+- Richtlinie
+- Einleitung
+- Begrifflichkeit
+- Geltungsbereich
+- Risiken der Nutzung generativer KI
+- Ausschluss der Nutzung
+- Verantwortlichkeit
+- Prinzipien der Nutzung von generativer KI
+  - Vorsicht und Kontrolle
+  - Transparenz
+- Gültigkeit
+- Appendix

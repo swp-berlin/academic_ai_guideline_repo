@@ -1,7 +1,12 @@
 # Table of Contents: allea_1_0
 
-_Mode: generated_from_headings_
+_Mode: extracted_toc_
 
-- ALLEA – All European Academies
-- European Code of Conduct for Research Integrity
-  - 2023 Revised Edition
+- Preamble
+- 1 1. Principles
+- 2 2. Good Research Practices
+- 3 3. Violations of Research Integrity
+- Annex 1: Key Resources
+- Annex 2: Revision Process
+- Annex 3: List of Stakeholders
+- Annex 4: ALLEA Permanent Working Group on Science and Ethics

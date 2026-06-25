@@ -45,7 +45,7 @@ CLEAN_DIR = PROJECT_ROOT / "texts_clean"
 
 SYSTEM_PROMPT = "You are a careful text editor. Return only the cleaned text, no commentary."
 
-CLEANUP_PROMPT = """
+BASE_CLEANUP_PROMPT = """
 Clean up the following extracted document text. This text was extracted from a PDF
 or HTML page and contains various artifacts that need to be removed or fixed.
 
@@ -71,20 +71,59 @@ RULES — follow these exactly:
 
 4. PRESERVE footnote body text if it contains substantive definitions or explanations.
    Move it to a "FOOTNOTES" section at the end, clearly labeled.
+   Also keep introductory paragraphs from rektors or heads of institutions, if present. 
 
 5. DO NOT change, rephrase, summarize, or paraphrase ANY substantive content.
    Every sentence from the original that carries meaning must appear word-for-word
    in your output. You may only fix obvious OCR errors (e.g. "tbe" → "the") if
    you are very confident.
 
-6. PRESERVE section headings and their numbering (1., 2., a), b), I., II., etc.)
+6. PRESERVE section headings and their numbering (1., 2., a), b), I., II., etc.) as well as introductory paragraphs
 
 7. Output ONLY the cleaned text. No commentary, no explanations, no markdown fences.
+
+{chunk_context_block}
+
+{carried_footnotes_block}
 
 --- ORIGINAL TEXT ---
 {text}
 --- END ORIGINAL TEXT ---
 """.strip()
+
+
+def build_cleanup_prompt(
+    text: str,
+    *,
+    chunk_index: int | None = None,
+    total_chunks: int | None = None,
+    carried_footnotes: str = "",
+) -> str:
+    chunk_context_block = ""
+    if chunk_index is not None and total_chunks is not None:
+        chunk_context_block = (
+            "CHUNK CONTEXT:\n"
+            f"- You are cleaning chunk {chunk_index} of {total_chunks}.\n"
+            "- This chunk is intentionally cut at boundaries.\n"
+            "- The start and end may be incomplete fragments from a split document.\n"
+            "- Do NOT continue, complete, or infer missing text before/after this chunk.\n"
+            "- Only clean text that is explicitly present in this chunk.\n"
+        )
+
+    carried_footnotes_block = ""
+    if carried_footnotes.strip():
+        carried_footnotes_block = (
+            "FOOTNOTES FROM PREVIOUS CHUNKS (REFERENCE ONLY):\n"
+            "- Use these only to recognize and preserve continuity.\n"
+            "- Do not repeat them unless they actually appear in this chunk.\n"
+            f"{carried_footnotes.strip()}\n"
+        )
+
+    return BASE_CLEANUP_PROMPT.format(
+        text=text,
+        chunk_context_block=chunk_context_block,
+        carried_footnotes_block=carried_footnotes_block,
+    )
 
 # ── API call ──────────────────────────────────────────────────────────
 
@@ -93,7 +132,7 @@ def call_llm(
     base_url: str,
     api_key: str,
     model: str,
-    text: str,
+    prompt: str,
     max_retries: int = 2,
 ) -> str:
     headers = {
@@ -104,7 +143,7 @@ def call_llm(
         "model": model,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": CLEANUP_PROMPT.format(text=text)},
+            {"role": "user", "content": prompt},
         ],
         "temperature": 0.0,
         "max_tokens": 16_384,
@@ -184,19 +223,59 @@ def clean_document(
     chunks = chunk_text(text)
 
     if len(chunks) == 1:
-        return call_llm(client, base_url, api_key, model, text)
+        prompt = build_cleanup_prompt(chunks[0])
+        return call_llm(client, base_url, api_key, model, prompt)
 
-    cleaned_parts: list[str] = []
+    def split_footnotes(cleaned_chunk: str) -> tuple[str, str]:
+        """Return (body_without_footnotes, footnotes_text)."""
+        m = re.search(r"\n+(?:##\s*|\*\*)?FOOTNOTES\*?\*?\s*:?\s*\n", cleaned_chunk, flags=re.I)
+        if not m:
+            return cleaned_chunk, ""
+        body = cleaned_chunk[: m.start()].rstrip()
+        footnotes = cleaned_chunk[m.end() :].strip()
+        return body, footnotes
+
+    cleaned_bodies: list[str] = []
+    all_footnote_lines: list[str] = []
+    carried_footnotes_lines: list[str] = []
+    seen_footnotes: set[str] = set()
+
     for i, chunk in enumerate(chunks):
-        cleaned = call_llm(client, base_url, api_key, model, chunk)
+        carried_footnotes = "\n".join(carried_footnotes_lines)
+        prompt = build_cleanup_prompt(
+            chunk,
+            chunk_index=i + 1,
+            total_chunks=len(chunks),
+            carried_footnotes=carried_footnotes,
+        )
+        cleaned = call_llm(client, base_url, api_key, model, prompt)
         # Strip markdown fences per chunk
         cleaned = re.sub(r"^```\w*\s*", "", cleaned)
         cleaned = re.sub(r"\s*```$", "", cleaned)
-        cleaned_parts.append(cleaned)
+
+        body, footnotes_text = split_footnotes(cleaned)
+        cleaned_bodies.append(body)
+
+        if footnotes_text:
+            for ln in footnotes_text.splitlines():
+                key = re.sub(r"\s+", " ", ln).strip().lower()
+                if not key or key in seen_footnotes:
+                    continue
+                seen_footnotes.add(key)
+                all_footnote_lines.append(ln)
+                carried_footnotes_lines.append(ln)
+
+        # Keep prompt context bounded.
+        if len("\n".join(carried_footnotes_lines)) > 8_000:
+            carried_footnotes_lines = carried_footnotes_lines[-120:]
+
         if sleep_s > 0 and i < len(chunks) - 1:
             time.sleep(sleep_s)
 
-    return "\n\n".join(cleaned_parts)
+    result = "\n\n".join(cleaned_bodies)
+    if all_footnote_lines:
+        result += "\n\nFOOTNOTES\n\n" + "\n\n".join(all_footnote_lines)
+    return result
 
 
 # ── diff generation ───────────────────────────────────────────────────
