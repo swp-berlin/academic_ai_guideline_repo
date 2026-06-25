@@ -6,6 +6,14 @@
   notes: null
   category: guideline
   slug: berlin-universities-publishing
+- institution: AlgorithmWatch
+  url: https://algorithmwatch.org/en/generative-ai-guideline/
+  date: '2024-09-18'
+  version: '1_0'
+  superseded: null
+  notes: Organisation-wide guideline for the responsible use of generative AI in research, advocacy, journalism, communications, and operations.
+  category: guideline
+  slug: algorithmwatch
 - institution: Bundeszentrale für politische Bildung
   url: https://www.bpb.de/die-bpb/ueber-uns/service/571256/leitlinie-zum-redaktionellen-einsatz-von-ki-systemen-in-der-bpb/
   date: '2025-10-15'
@@ -375,7 +383,7 @@
   category: guideline
   slug: bmi
 - institution: ALLEA – All European Academies
-  url: https://doi.org/10.26356/ECOC
+  url: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/european-code-of-conduct-for-research-integrity_horizon_en.pdf
   date: '2023'
   version: '1_0'
   superseded: null
@@ -383,7 +391,7 @@
   category: guideline
   slug: allea
 - institution: Weizenbaum-Institut
-  url: https://zenodo.org/records/14844475
+  url: https://zenodo.org/records/14844475/files/20250114_Richtlinie%20zur%20Nutzung%20generativer%20KI%20am%20WI_final_tp-1_public.pdf?download=1
   date: '2025'
   version: '1_0'
   superseded: null
@@ -487,7 +495,7 @@
   category: guideline
   slug: universitat-greifswald
 - institution: Leibniz Universität Hannover
-  url: https://www.uni-hannover.de/fileadmin/luh/content/online-lehre/LUH_Richtlinie_Einsatz_KI_in_der_Hochschullehre_250602.pdf
+  url: https://www.uni-hannover.de/fileadmin/luh/content/online-lehre/LUH-Richtlinie_Einsatz_KI_in_der_Hochschullehre_260420.pdf
   date: null
   version: '1_0'
   superseded: null
@@ -646,3 +654,43 @@
   notes: null
   category: guideline
   slug: fsu-jena
+- institution: Institute for Public Relations
+  url: https://instituteforpr.org/ipr-ai-disclosure-policy/
+  date: '2026-01-05'
+  version: '1_0'
+  superseded: null
+  notes: Disclosure and labelling policy for generative-AI use in IPR research-related content; requires substantive-use disclosure and covers accuracy, bias, confidentiality, authorship, source responsibility, and labelling thresholds.
+  category: guideline
+  slug: institute-for-public-relations
+- institution: Reporters Without Borders
+  url: https://rsf.org/en/paris-charter-ai-and-journalism
+  date: '2023-11-10'
+  version: '1_0'
+  superseded: null
+  notes: Paris Charter on AI and Journalism; sector-wide ethical benchmark initiated by RSF with media-development and press-freedom partners, covering human agency, accountability, transparency, traceability, and synthetic content.
+  category: guideline
+  slug: reporters-without-borders
+- institution: Future of Privacy Forum
+  url: https://fpf.org/wp-content/uploads/2025/10/Generative-AI-Considerations-June-24.pdf
+  date: '2025-10-15'
+  version: '1_0'
+  superseded: null
+  notes: Template-style internal-policy considerations for responsible organisational use of generative AI; updated resource covers privacy, security, IP, consumer trust, high-risk uses, and compliance responsibilities.
+  category: template
+  slug: future-of-privacy-forum
+- institution: D-64
+  url: https://demokratische-ki.de/wp-content/uploads/2025/12/2025-12-Code-of-Conduct-Democratic-AI.pdf
+  date: 
+  version: '1_0'
+  superseded: null
+  notes: null
+  category: code-of-conduct
+  slug: d-64
+- institution: Institute for Government
+  url: https://www.instituteforgovernment.org.uk/ai-use
+  date: '2026-03'
+  version: '1_0'
+  superseded: null
+  notes: Organisation-level AI use statement for a UK government-policy think tank; sets red lines for research outputs, disclosure, visuals, recruitment, data security, and human responsibility for quality and integrity.
+  category: guideline
+  slug: institute-for-government
