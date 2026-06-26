@@ -1,0 +1,1223 @@
+{
+  "doc_id": "bertelsmann-stiftung_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Algorithmische Systeme werden in immer mehr Bereichen angewendet. Mit ihrer Hilfe werden Entscheidungen getroffen, die erhebliche Auswirkungen auf unser Leben haben. Sie bringen ebenso Chancen wie Risiken mit sich. Es liegt in unserer Hand, gemeinsam dafür zu sorgen, dass algorithmische Systeme zum Wohle der Gesellschaft gestaltet werden. Die in den Menschenrechten abgebildeten individuellen und kollektiven Freiheiten und Rechte sollen durch algorithmische Systeme gestärkt, nicht eingeschränkt werden. Regulierungen zum Schutz dieser Normen müssen durchsetzbar bleiben. Um das zu erreichen, haben wir gemeinsam mit Expert:innen und der interessierten Öffentlichkeit die vorliegenden Algo.Rules entwickelt.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Bei den Algo.Rules handelt es sich um einen Katalog an formalen Kriterien, die beachtet werden müssen, um eine gesellschaftlich förderliche Gestaltung und Überprüfung von algorithmischen Systemen zu ermöglichen und zu erleichtern. Sie legen eine Grundlage für ethische Erwägungen und für die Um- und Durchsetzung rechtlicher Rahmenbedingungen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Kriterien sollen bereits bei der Entwicklung der Systeme mitgedacht und „by design“ implementiert werden. Die einzelnen Algo.Rules sind interdependent und als Gesamtkomplex zu betrachten.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Interessierte sind dazu eingeladen, die Algo.Rules gemeinsam mit uns weiterzugestalten, sie zu übernehmen, anzupassen, zu erweitern und vor allem Wege zu suchen, sie in der Praxis anzuwenden. Die Algo.Rules sind dynamisch angelegt und sollen insbesondere hinsichtlich ihrer konkreten Umsetzung weiter verfeinert werden.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Algo.Rules richten sich an alle Personen, die einen wesentlichen Einfluss auf die Entstehung, die Entwicklung und Programmierung, den Einsatz und die Auswirkungen algorithmischer Systeme haben, sowie an Personen, die deren Entwicklung beauftragt haben.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Das sind insbesondere, aber nicht ausschließlich, Personen, die:",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "zur Entwicklung und zum Einsatz von algorithmischen Systemen forschen,",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Daten erheben und sammeln, kategorisieren, bündeln und pflegen,",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "über den Einsatz und die Ziele eines algorithmischen Systems entscheiden,",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "auf Leitungsebene in Institutionen oder Unternehmen arbeiten, welche algorithmische Systeme einsetzen oder entwickeln,",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "algorithmische Systeme programmieren,",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "algorithmische Systeme testen, weiterentwickeln und anpassen,",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "designen, wie Anwender:innen algorithmische Ergebnisse präsentiert bekommen, sowie",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "in ihrem Arbeitsalltag mithilfe von algorithmischen Systemen Entscheidungen treffen oder über die Art der Anwendung entscheiden.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines vorab definierten Problems. Ein algorithmisches System ist ein System einer oder mehrerer Algorithmen, die in Software implementiert wurden, um Daten zu erfassen, zu analysieren und Schlüsse zu ziehen, die zur Lösung eines vorher definierten Problems beitragen sollen. Das System kann dabei selbstlernend sein oder vorprogrammierten Entscheidungsregeln folgen.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Bewertung eines algorithmischen Systems im Rahmen der Algo.Rules umfasst auch den soziotechnischen Gesamtkontext, in den die Software eingebettet ist, wie zum Beispiel die Deutung und Interpretation des Ergebnisses und die Ableitung einer Entscheidung durch Anwender:innen des Systems. Der Geltungsanspruch der Algo.Rules umfasst den gesamten Prozess der Entwicklung und Einbettung algorithmischer Systeme in den jeweiligen sozialen Kontext.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Im Fokus der Algo.Rules stehen jene algorithmischen Systeme, die einen direkten oder mittelbaren, immer jedoch signifikanten Einfluss auf das Leben der Menschen oder die Gesellschaft haben. Es geht also nicht um Gestaltungsregeln für alle algorithmischen Systeme. Wohl aber für solche, die entsprechend relevant sind.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um zu bestimmen, ob ein algorithmisches System dieses Erfordernis erfüllt, sollte vor seiner Gestaltung eine Abschätzung über seine Wirkung getroffen werden. Je stärker der mögliche Einfluss eines algorithmischen Systems auf das Leben der Menschen oder die Gesellschaft ist, desto genauer sollte die Umsetzung der Algo.Rules geprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Funktionsweise und die möglichen Auswirkungen eines algorithmischen Systems müssen verstanden werden.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Diejenigen, die algorithmische Systeme entwickeln, betreiben und/oder über ihren Einsatz entscheiden, müssen über die erforderliche Fachkompetenz und ein entsprechend abgestuftes Verständnis der Funktionsweisen und potenziellen Auswirkungen der Technologie verfügen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Das Teilen von individuellem und institutionellem Wissen sowie der interdisziplinäre Austausch zwischen den Aufgabenbereichen sind dafür ebenso zentral wie qualifizierende Maßnahmen. Diese sind in die Ausbildung bzw. das Onboarding neuer Mitarbeiter:innen zu integrieren. Der interdisziplinäre Austausch sollte verstetigt werden und für andere Interessierte und/oder betroffene Akteure offenstehen.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Für die Auswirkungen des Einsatzes eines algorithmischen Systems muss stets eine natürliche oder juristische Person verantwortlich sein.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Verantwortung bedarf einer eindeutigen Zuteilung. Die damit verbundenen Aufgaben müssen der zuständigen Person bewusst sein. Dies gilt auch für geteilte Verantwortlichkeiten bei mehreren Personen oder Organisationen. Die Zuteilung muss lückenlos sowie nach innen und außen transparent dokumentiert werden. Die Verantwortung darf weder auf das algorithmische System noch auf die Anwender:innen oder betroffenen Personen abgewälzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Ziele und die erwartete Wirkung des Einsatzes eines algorithmischen Systems müssen vor dessen Einsatz dokumentiert und abgewogen werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Ziele des algorithmischen Systems müssen klar definiert und Informationen zu dessen Einsatz dokumentiert werden. Dazu zählen etwa die zugrunde liegenden Daten und Berechnungsmodelle.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vor dem Einsatz des algorithmischen Systems muss eine dokumentierte Folgenabschätzung durchgeführt werden. Insbesondere bei lernenden Systemen und in dynamischen Einsatzfeldern mit viel Veränderung ist die Folgenabschätzung in regelmäßigen Abständen zu wiederholen.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Hierbei sind Risiken für Diskriminierungen und weitere das Individuum und das Gemeinwohl berührende Folgen im Blick zu behalten.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Werteabwägungen bei der Zielsetzung und dem Einsatz von algorithmischen Systemen müssen festgehalten werden.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Sicherheit eines algorithmischen Systems muss vor dessen Einsatz getestet und fortlaufend gewährleistet werden.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zuverlässigkeit und Robustheit eines algorithmischen Systems und der zugrunde liegenden Daten gegenüber Angriffen, Zugriffen und Manipulationen sind unbedingt zu gewährleisten. Dafür muss Sicherheit von Anfang an festes Element der Gestaltung des algorithmischen Systems sein (Security by Design).",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das System ist vor seinem Einsatz in einer geschützten Umgebung zu testen. Die Sicherheitsvorkehrungen sind zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Einsatz eines algorithmischen Systems muss gekennzeichnet sein.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beim Einsatz algorithmischer Systeme muss durch eine entsprechende Kennzeichnung für Personen, die mit ihnen interagieren, erkennbar sein, dass der Entscheidung oder Prognose ein algorithmisches System zugrunde liegt. Das gilt besonders dann, wenn das System einen Menschen in Art und Weise der Interaktion (Sprache, Aussehen etc.) imitiert.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Entscheidungsfindung eines algorithmischen Systems muss stets nachvollziehbar sein.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ein algorithmisches System muss mit seinen direkten oder mittelbaren Wirkungen und seiner Funktionsweise für Menschen leicht verständlich gemacht werden, damit diese es hinterfragen und überprüfen können. Dafür müssen Informationen über die dem System zugrunde liegenden Daten und Modelle, seine Architektur sowie die möglichen Auswirkungen veröffentlicht und in leicht verständlicher Sprache dargestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es ist stets zu prüfen, ob sich ein Ziel ohne wesentliche Qualitätseinbußen auch mit einem algorithmischen System erreichen lässt, das weniger komplex und in seiner Funktionsweise leichter nachvollziehbar ist.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ein algorithmisches System muss während seines gesamten Einsatzes gestaltbar sein und bleiben.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Damit ein algorithmisches System gestaltbar bleibt, müssen alle Personen, die an seiner Entwicklung und seinem Einsatz beteiligt sind, gemeinsam stets die Kontrolle über das System behalten. Dabei muss sichergestellt werden, dass der Gesamtüberblick über das System stets gewahrt bleibt, auch wenn Aufgaben zwischen unterschiedlichen Personen und Arbeitsbereichen verteilt sind.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Arbeitsweise eines Systems darf niemals so komplex und undurchschaubar werden, dass es von Menschen nicht mehr beherrschbar ist oder nicht mehr geändert werden kann. Das gilt insbesondere für selbstlernende Systeme. Kann diese Beherrschbarkeit nicht sichergestellt werden, so ist auf den Einsatz eines algorithmischen Systems zu verzichten.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Auswirkungen eines algorithmischen Systems müssen regelmäßig überprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ein algorithmisches System muss einer aktiven Kontrolle unterliegen, ob die beabsichtigten Ziele tatsächlich verfolgt werden und der Einsatz des Systems bestehendes Recht nicht verletzt.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Externe Prüfstellen sollten unter Wahrung legitimer Geschäftsgeheimnisse durch entsprechende technische Vorkehrungen in die Lage versetzt werden, ein algorithmisches System tatsächlich und umfassend unabhängig prüfen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird eine negative Wirkung festgestellt, muss die Fehlerursache ermittelt und das algorithmische System entsprechend angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Fragwürdige oder die Rechte einer betroffenen Person beeinträchtigende Entscheidungen eines algorithmischen Systems müssen erklärt und gemeldet werden können.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die ein algorithmisches System einsetzende Stelle muss leicht zugängliche Wege zur Kontaktaufnahme zur Verfügung stellen.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Betroffene Personen müssen erstens eine qualifizierte und detaillierte Auskunft zur konkreten Entscheidung und der dahinter liegenden Abwägung einfordern können. Diese Möglichkeit sollte auch in ihrem Namen handelnden oder eigene legitime Interessen geltend machenden Organisationen eingeräumt sein.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zweitens muss eine einfache, niedrigschwellige und wirksame Beschwerdemöglichkeit zur Verfügung stehen. Beschwerden und eingeleitete Maßnahmen sind zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "Der Text dieser Publikation ist urheberrechtlich geschützt und lizenziert unter der Creative Commons Namensnennung 3.0 International (CC BY-SA 3.0) Lizenz (Namensnennung – Weitergabe unter gleichen Bedingungen). Sie dürfen das Material vervielfältigen und weiterverbreiten, solange Sie angemessene Urheber- und Rechteangaben machen. Sie müssen angeben, ob Änderungen vorgenommen wurden. Wenn Sie das Material verändern, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten. Den vollständigen Lizenztext finden Sie unter: https://creativecommons.org/licenses/by-sa/3.0/legalcode.de",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "an wen richten sich die algo.rules?",
+      "repaired": true
+    },
+    {
+      "id": 50,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "was ist ein „algorithmisches system\"?",
+      "repaired": true
+    },
+    {
+      "id": 51,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "kompetenz aufbauen",
+      "repaired": true
+    },
+    {
+      "id": 52,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "ziele und erwartete wirkung dokumentieren",
+      "repaired": true
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "nachvollziehbarkeit sicherstellen",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 53,
+    "matched": 53,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.942,
+    "uncovered_chars": 563,
+    "uncovered_gaps": 10,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 265,
+        "length": 265,
+        "text": "# bertelsmann stiftung # source: https://www.bertelsmannstiftung.de/fileadmin/files/bst/publikationen/grauepublikationen/algo.rules_de.pdf # date: 2019-07-03 # category: template # algo.rules regeln für die gestaltung algorithmischer systeme irights.lab # präambel"
+      },
+      {
+        "char_start": 974,
+        "char_end": 1004,
+        "length": 30,
+        "text": ". ## was sind die algo.rules?"
+      },
+      {
+        "char_start": 4439,
+        "char_end": 4508,
+        "length": 69,
+        "text": ". # algo.rules regeln für die gestaltung algorithmischer systeme # 1"
+      },
+      {
+        "char_start": 5299,
+        "char_end": 5331,
+        "length": 32,
+        "text": ". # 2 verantwortung definieren *"
+      },
+      {
+        "char_start": 6788,
+        "char_end": 6820,
+        "length": 32,
+        "text": ". # 4 sicherheit gewährleisten *"
+      },
+      {
+        "char_start": 7359,
+        "char_end": 7392,
+        "length": 33,
+        "text": ". # 5 kennzeichnung durchführen *"
+      },
+      {
+        "char_start": 8552,
+        "char_end": 8586,
+        "length": 34,
+        "text": ". # 7 beherrschbarkeit absichern *"
+      },
+      {
+        "char_start": 9404,
+        "char_end": 9430,
+        "length": 26,
+        "text": ". # 8 wirkung überprüfen *"
+      },
+      {
+        "char_start": 10062,
+        "char_end": 10093,
+        "length": 31,
+        "text": ". # 9 beschwerden ermöglichen *"
+      },
+      {
+        "char_start": 10839,
+        "char_end": 10850,
+        "length": 11,
+        "text": ". # lizenz"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 271,
+      "text": "# Bertelsmann Stiftung\n# Source: https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Algo.Rules_DE.pdf\n# Date: 2019-07-03\n# Category: template\n\n# Algo.Rules\n\nRegeln für die Gestaltung algorithmischer Systeme\n\niRights.Lab\n\n# Präambel\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 271,
+      "char_end": 981,
+      "text": "Algorithmische Systeme werden in immer mehr Bereichen angewendet. Mit ihrer Hilfe werden Entscheidungen getroffen, die erhebliche Auswirkungen auf unser Leben haben. Sie bringen ebenso Chancen wie Risiken mit sich. Es liegt in unserer Hand, gemeinsam dafür zu sorgen, dass algorithmische Systeme zum Wohle der Gesellschaft gestaltet werden. Die in den Menschenrechten abgebildeten individuellen und kollektiven Freiheiten und Rechte sollen durch algorithmische Systeme gestärkt, nicht eingeschränkt werden. Regulierungen zum Schutz dieser Normen müssen durchsetzbar bleiben. Um das zu erreichen, haben wir gemeinsam mit Expert:innen und der interessierten Öffentlichkeit die vorliegenden Algo.Rules entwickelt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 981,
+      "char_end": 1012,
+      "text": "\n\n## Was sind die Algo.Rules?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1012,
+      "char_end": 1355,
+      "text": "Bei den Algo.Rules handelt es sich um einen Katalog an formalen Kriterien, die beachtet werden müssen, um eine gesellschaftlich förderliche Gestaltung und Überprüfung von algorithmischen Systemen zu ermöglichen und zu erleichtern. Sie legen eine Grundlage für ethische Erwägungen und für die Um- und Durchsetzung rechtlicher Rahmenbedingungen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1356,
+      "char_end": 1549,
+      "text": "Diese Kriterien sollen bereits bei der Entwicklung der Systeme mitgedacht und „by design“ implementiert werden. Die einzelnen Algo.Rules sind interdependent und als Gesamtkomplex zu betrachten.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1550,
+      "char_end": 1869,
+      "text": "Interessierte sind dazu eingeladen, die Algo.Rules gemeinsam mit uns weiterzugestalten, sie zu übernehmen, anzupassen, zu erweitern und vor allem Wege zu suchen, sie in der Praxis anzuwenden. Die Algo.Rules sind dynamisch angelegt und sollen insbesondere hinsichtlich ihrer konkreten Umsetzung weiter verfeinert werden.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1869,
+      "char_end": 1874,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1874,
+      "char_end": 1909,
+      "text": "An wen richten sich die Algo.Rules?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1911,
+      "char_end": 2167,
+      "text": "Die Algo.Rules richten sich an alle Personen, die einen wesentlichen Einfluss auf die Entstehung, die Entwicklung und Programmierung, den Einsatz und die Auswirkungen algorithmischer Systeme haben, sowie an Personen, die deren Entwicklung beauftragt haben.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2168,
+      "char_end": 2232,
+      "text": "Das sind insbesondere, aber nicht ausschließlich, Personen, die:",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2232,
+      "char_end": 2236,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2236,
+      "char_end": 2306,
+      "text": "zur Entwicklung und zum Einsatz von algorithmischen Systemen forschen,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2306,
+      "char_end": 2309,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2309,
+      "char_end": 2372,
+      "text": "Daten erheben und sammeln, kategorisieren, bündeln und pflegen,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2372,
+      "char_end": 2375,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2375,
+      "char_end": 2448,
+      "text": "über den Einsatz und die Ziele eines algorithmischen Systems entscheiden,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2448,
+      "char_end": 2451,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2451,
+      "char_end": 2569,
+      "text": "auf Leitungsebene in Institutionen oder Unternehmen arbeiten, welche algorithmische Systeme einsetzen oder entwickeln,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2569,
+      "char_end": 2572,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2572,
+      "char_end": 2609,
+      "text": "algorithmische Systeme programmieren,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2609,
+      "char_end": 2612,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2612,
+      "char_end": 2673,
+      "text": "algorithmische Systeme testen, weiterentwickeln und anpassen,",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2673,
+      "char_end": 2676,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2676,
+      "char_end": 2758,
+      "text": "designen, wie Anwender:innen algorithmische Ergebnisse präsentiert bekommen, sowie",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2758,
+      "char_end": 2761,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2761,
+      "char_end": 2889,
+      "text": "in ihrem Arbeitsalltag mithilfe von algorithmischen Systemen Entscheidungen treffen oder über die Art der Anwendung entscheiden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2889,
+      "char_end": 2933,
+      "text": "\n\n## Was ist ein „algorithmisches System“?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2933,
+      "char_end": 3366,
+      "text": "Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines vorab definierten Problems. Ein algorithmisches System ist ein System einer oder mehrerer Algorithmen, die in Software implementiert wurden, um Daten zu erfassen, zu analysieren und Schlüsse zu ziehen, die zur Lösung eines vorher definierten Problems beitragen sollen. Das System kann dabei selbstlernend sein oder vorprogrammierten Entscheidungsregeln folgen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3367,
+      "char_end": 3812,
+      "text": "Die Bewertung eines algorithmischen Systems im Rahmen der Algo.Rules umfasst auch den soziotechnischen Gesamtkontext, in den die Software eingebettet ist, wie zum Beispiel die Deutung und Interpretation des Ergebnisses und die Ableitung einer Entscheidung durch Anwender:innen des Systems. Der Geltungsanspruch der Algo.Rules umfasst den gesamten Prozess der Entwicklung und Einbettung algorithmischer Systeme in den jeweiligen sozialen Kontext.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3814,
+      "char_end": 4131,
+      "text": "Im Fokus der Algo.Rules stehen jene algorithmischen Systeme, die einen direkten oder mittelbaren, immer jedoch signifikanten Einfluss auf das Leben der Menschen oder die Gesellschaft haben. Es geht also nicht um Gestaltungsregeln für alle algorithmischen Systeme. Wohl aber für solche, die entsprechend relevant sind.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4132,
+      "char_end": 4472,
+      "text": "Um zu bestimmen, ob ein algorithmisches System dieses Erfordernis erfüllt, sollte vor seiner Gestaltung eine Abschätzung über seine Wirkung getroffen werden. Je stärker der mögliche Einfluss eines algorithmischen Systems auf das Leben der Menschen oder die Gesellschaft ist, desto genauer sollte die Umsetzung der Algo.Rules geprüft werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4472,
+      "char_end": 4543,
+      "text": "\n\n# Algo.Rules\n\nRegeln für die Gestaltung algorithmischer Systeme\n\n# 1 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4543,
+      "char_end": 4561,
+      "text": "Kompetenz aufbauen",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4561,
+      "char_end": 4564,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4564,
+      "char_end": 4669,
+      "text": "Die Funktionsweise und die möglichen Auswirkungen eines algorithmischen Systems müssen verstanden werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4669,
+      "char_end": 4672,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4672,
+      "char_end": 4938,
+      "text": "Diejenigen, die algorithmische Systeme entwickeln, betreiben und/oder über ihren Einsatz entscheiden, müssen über die erforderliche Fachkompetenz und ein entsprechend abgestuftes Verständnis der Funktionsweisen und potenziellen Auswirkungen der Technologie verfügen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4939,
+      "char_end": 5337,
+      "text": "Das Teilen von individuellem und institutionellem Wissen sowie der interdisziplinäre Austausch zwischen den Aufgabenbereichen sind dafür ebenso zentral wie qualifizierende Maßnahmen. Diese sind in die Ausbildung bzw. das Onboarding neuer Mitarbeiter:innen zu integrieren. Der interdisziplinäre Austausch sollte verstetigt werden und für andere Interessierte und/oder betroffene Akteure offenstehen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5337,
+      "char_end": 5370,
+      "text": "\n\n# 2 Verantwortung definieren\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5370,
+      "char_end": 5506,
+      "text": "Für die Auswirkungen des Einsatzes eines algorithmischen Systems muss stets eine natürliche oder juristische Person verantwortlich sein.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5506,
+      "char_end": 5509,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5509,
+      "char_end": 5949,
+      "text": "Die Verantwortung bedarf einer eindeutigen Zuteilung. Die damit verbundenen Aufgaben müssen der zuständigen Person bewusst sein. Dies gilt auch für geteilte Verantwortlichkeiten bei mehreren Personen oder Organisationen. Die Zuteilung muss lückenlos sowie nach innen und außen transparent dokumentiert werden. Die Verantwortung darf weder auf das algorithmische System noch auf die Anwender:innen oder betroffenen Personen abgewälzt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5949,
+      "char_end": 5955,
+      "text": "\n\n# 3 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5955,
+      "char_end": 5996,
+      "text": "Ziele und erwartete Wirkung dokumentieren",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5996,
+      "char_end": 5999,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5999,
+      "char_end": 6139,
+      "text": "Die Ziele und die erwartete Wirkung des Einsatzes eines algorithmischen Systems müssen vor dessen Einsatz dokumentiert und abgewogen werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6139,
+      "char_end": 6142,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6142,
+      "char_end": 6328,
+      "text": "Die Ziele des algorithmischen Systems müssen klar definiert und Informationen zu dessen Einsatz dokumentiert werden. Dazu zählen etwa die zugrunde liegenden Daten und Berechnungsmodelle.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6329,
+      "char_end": 6594,
+      "text": "Vor dem Einsatz des algorithmischen Systems muss eine dokumentierte Folgenabschätzung durchgeführt werden. Insbesondere bei lernenden Systemen und in dynamischen Einsatzfeldern mit viel Veränderung ist die Folgenabschätzung in regelmäßigen Abständen zu wiederholen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6595,
+      "char_end": 6723,
+      "text": "Hierbei sind Risiken für Diskriminierungen und weitere das Individuum und das Gemeinwohl berührende Folgen im Blick zu behalten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6724,
+      "char_end": 6832,
+      "text": "Werteabwägungen bei der Zielsetzung und dem Einsatz von algorithmischen Systemen müssen festgehalten werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6832,
+      "char_end": 6865,
+      "text": "\n\n# 4 Sicherheit gewährleisten\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6865,
+      "char_end": 6980,
+      "text": "Die Sicherheit eines algorithmischen Systems muss vor dessen Einsatz getestet und fortlaufend gewährleistet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6980,
+      "char_end": 6983,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6983,
+      "char_end": 7280,
+      "text": "Zuverlässigkeit und Robustheit eines algorithmischen Systems und der zugrunde liegenden Daten gegenüber Angriffen, Zugriffen und Manipulationen sind unbedingt zu gewährleisten. Dafür muss Sicherheit von Anfang an festes Element der Gestaltung des algorithmischen Systems sein (Security by Design).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7281,
+      "char_end": 7406,
+      "text": "Das System ist vor seinem Einsatz in einer geschützten Umgebung zu testen. Die Sicherheitsvorkehrungen sind zu dokumentieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7406,
+      "char_end": 7440,
+      "text": "\n\n# 5 Kennzeichnung durchführen\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7440,
+      "char_end": 7507,
+      "text": "Der Einsatz eines algorithmischen Systems muss gekennzeichnet sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7507,
+      "char_end": 7510,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7510,
+      "char_end": 7851,
+      "text": "Beim Einsatz algorithmischer Systeme muss durch eine entsprechende Kennzeichnung für Personen, die mit ihnen interagieren, erkennbar sein, dass der Entscheidung oder Prognose ein algorithmisches System zugrunde liegt. Das gilt besonders dann, wenn das System einen Menschen in Art und Weise der Interaktion (Sprache, Aussehen etc.) imitiert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7851,
+      "char_end": 7857,
+      "text": "\n\n# 6 ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7857,
+      "char_end": 7890,
+      "text": "Nachvollziehbarkeit sicherstellen",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7890,
+      "char_end": 7893,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7893,
+      "char_end": 7980,
+      "text": "Die Entscheidungsfindung eines algorithmischen Systems muss stets nachvollziehbar sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7980,
+      "char_end": 7983,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7983,
+      "char_end": 8395,
+      "text": "Ein algorithmisches System muss mit seinen direkten oder mittelbaren Wirkungen und seiner Funktionsweise für Menschen leicht verständlich gemacht werden, damit diese es hinterfragen und überprüfen können. Dafür müssen Informationen über die dem System zugrunde liegenden Daten und Modelle, seine Architektur sowie die möglichen Auswirkungen veröffentlicht und in leicht verständlicher Sprache dargestellt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8396,
+      "char_end": 8605,
+      "text": "Es ist stets zu prüfen, ob sich ein Ziel ohne wesentliche Qualitätseinbußen auch mit einem algorithmischen System erreichen lässt, das weniger komplex und in seiner Funktionsweise leichter nachvollziehbar ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8605,
+      "char_end": 8640,
+      "text": "\n\n# 7 Beherrschbarkeit absichern\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8640,
+      "char_end": 8734,
+      "text": "Ein algorithmisches System muss während seines gesamten Einsatzes gestaltbar sein und bleiben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8734,
+      "char_end": 8737,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8737,
+      "char_end": 9115,
+      "text": "Damit ein algorithmisches System gestaltbar bleibt, müssen alle Personen, die an seiner Entwicklung und seinem Einsatz beteiligt sind, gemeinsam stets die Kontrolle über das System behalten. Dabei muss sichergestellt werden, dass der Gesamtüberblick über das System stets gewahrt bleibt, auch wenn Aufgaben zwischen unterschiedlichen Personen und Arbeitsbereichen verteilt sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9116,
+      "char_end": 9460,
+      "text": "Die Arbeitsweise eines Systems darf niemals so komplex und undurchschaubar werden, dass es von Menschen nicht mehr beherrschbar ist oder nicht mehr geändert werden kann. Das gilt insbesondere für selbstlernende Systeme. Kann diese Beherrschbarkeit nicht sichergestellt werden, so ist auf den Einsatz eines algorithmischen Systems zu verzichten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9460,
+      "char_end": 9487,
+      "text": "\n\n# 8 Wirkung überprüfen\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9487,
+      "char_end": 9569,
+      "text": "Die Auswirkungen eines algorithmischen Systems müssen regelmäßig überprüft werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9569,
+      "char_end": 9572,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9572,
+      "char_end": 9758,
+      "text": "Ein algorithmisches System muss einer aktiven Kontrolle unterliegen, ob die beabsichtigten Ziele tatsächlich verfolgt werden und der Einsatz des Systems bestehendes Recht nicht verletzt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9759,
+      "char_end": 9986,
+      "text": "Externe Prüfstellen sollten unter Wahrung legitimer Geschäftsgeheimnisse durch entsprechende technische Vorkehrungen in die Lage versetzt werden, ein algorithmisches System tatsächlich und umfassend unabhängig prüfen zu können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9987,
+      "char_end": 10121,
+      "text": "Wird eine negative Wirkung festgestellt, muss die Fehlerursache ermittelt und das algorithmische System entsprechend angepasst werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10121,
+      "char_end": 10153,
+      "text": "\n\n# 9 Beschwerden ermöglichen\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10153,
+      "char_end": 10311,
+      "text": "Fragwürdige oder die Rechte einer betroffenen Person beeinträchtigende Entscheidungen eines algorithmischen Systems müssen erklärt und gemeldet werden können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10311,
+      "char_end": 10314,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10314,
+      "char_end": 10435,
+      "text": "Die ein algorithmisches System einsetzende Stelle muss leicht zugängliche Wege zur Kontaktaufnahme zur Verfügung stellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10436,
+      "char_end": 10735,
+      "text": "Betroffene Personen müssen erstens eine qualifizierte und detaillierte Auskunft zur konkreten Entscheidung und der dahinter liegenden Abwägung einfordern können. Diese Möglichkeit sollte auch in ihrem Namen handelnden oder eigene legitime Interessen geltend machenden Organisationen eingeräumt sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10736,
+      "char_end": 10901,
+      "text": "Zweitens muss eine einfache, niedrigschwellige und wirksame Beschwerdemöglichkeit zur Verfügung stehen. Beschwerden und eingeleitete Maßnahmen sind zu dokumentieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10901,
+      "char_end": 10913,
+      "text": "\n\n# Lizenz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10913,
+      "char_end": 11520,
+      "text": "Der Text dieser Publikation ist urheberrechtlich geschützt und lizenziert unter der Creative Commons Namensnennung 3.0 International (CC BY-SA 3.0) Lizenz (Namensnennung – Weitergabe unter gleichen Bedingungen). Sie dürfen das Material vervielfältigen und weiterverbreiten, solange Sie angemessene Urheber- und Rechteangaben machen. Sie müssen angeben, ob Änderungen vorgenommen wurden. Wenn Sie das Material verändern, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten. Den vollständigen Lizenztext finden Sie unter: https://creativecommons.org/licenses/by-sa/3.0/legalcode.de",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 48,
+      "match_type": "exact"
+    }
+  ]
+}

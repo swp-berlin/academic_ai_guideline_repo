@@ -1,0 +1,1049 @@
+{
+  "doc_id": "algorithmwatch_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "AlgorithmWatch’s guidelines to use generative AI responsibly",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the energy and water consumption is enormous.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "At the same time, they have become an integral part of everyday life. AlgorithmWatch has developed guidelines to help use generative AI responsibly.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This publication introduces the principles and processes of our policy. We hope it may provide a useful model for other organizations considering how they should use generative AI responsibly, balancing useful cases with the risks of these technologies. Developing and implementing such a policy is challenging, given the range of use cases, risks/benefits, and views on generative AI – many of which change rapidly.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Our approach started with a survey of our staff to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work. We then developed a policy designed to guide individual staff members as they make decisions about whether, and how, to use generative AI in a way that aligns with our values and mission.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "This is based on 4 principles:\n- Proportionality\n- Security\n- Quality\n- Transparency",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "The policy also incorporates a structured process for collecting and discussing use cases and tools as well as updating the policy over time, which is necessary to address the range of uses and ongoing changes in the technology, its benefits, and its risks.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "If you plan to adopt a similar policy in your organization, we would be delighted if ours can provide support or a model. From our experiences and discussions so far, we can say…",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "it is good to begin with a survey of current uses and attitudes in your organization, followed by sharing these results (even as an aggregate) with your staff. This helps ensure your policy reflects the range of views and uses in your organization and to show that to everyone. We include the survey we used as an appendix in the below document.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "our policy provides guidelines for individual decisionmaking, which helps to be flexible and adapt to many use cases. However, this only works if you are confident that your staff are concerned about risks of generative AI and want to use it only in ways that balance risk and benefit. Otherwise, clearer and stricter rules may be a better approach.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "it is good to have a clear way to adapt over time as you implement it and as circumstances change.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Our guidelines on the use of generative AI",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "AlgorithmWatch has developed a policy on how we use generative AI. As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But many such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative AI is a class of tools that take user inputs and create new content. This includes generating text or other media outputs based on a “prompt” or translating between languages, writing styles, and media. In what follows, generative AI should be interpreted broadly – to include, for example, AI services that translate between languages or transcribe voice to text.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This document describes internal principles and current practices that we are in the process of implementing, relating to the use of generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "It is intended for informational purposes and does not constitute legally binding commitments or guarantees, nor does it replace or extend AlgorithmWatch’s other documentation (e.g., our privacy policy).",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This policy draws on a survey of our staff (May 2025) to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The resulting policy:\n- provides internal guidance to staff on how to use generative AI in a manner consistent with AlgorithmWatch's values, based on 4 principles: Transparency, Quality, Proportionality, and Security.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- specifies how we will monitor and update various aspects of this policy based on what we call the GUIDE document and process.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "- is published in a summary form (which you are currently reading) to indicate how we, as an organization particularly concerned with the challenges of deploying technologies responsibly, are considering our own usage of generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "The below text outlines the 4 principles and the GUIDE process for updating aspects of this policy. If you wish to adapt or adopt this policy, we welcome this and strongly advise beginning with surveying your staff to establish their current uses, needs, views, and concerns.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "It is also important to note: This policy is designed for organizations that want to use technology in a responsible and ethical way, even when this involves limiting the use of technology, where this is embedded in the organizations' values, and where staff are clearly aware of and follow these expectations.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The policy does not specify “hard rules” that constrain irresponsible behavior or staff members who wish to use tools with no or minimal safeguards. Rather, it supports staff in making individual decisions about their generative AI use in responsible ways by providing principles and a process for creating discussion, precedents, and ever-expanding guidance.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "We believe this is the most appropriate way for responsible organizations to respond effectively to the very broad range of use cases, user needs, and evolving situations around generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Principle 1: Proportionality**",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "We strongly discourage staff from using generative AI simply because it seems the easier option when other appropriate options are available.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Overuse of generative AI is associated with a series of systemic risks; from de-skilling of individuals, to reducing demand for jobs, to increasing energy demands, to companies' referring to high usage rates as justifications for reckless behavior.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "However, our survey also showed that staff members do find substantial benefits to generative AI in some use cases. Staff also noted the importance of being inclusive with our policies, and different staff members have different needs; some use cases that are “fairly useful” for one staff member may help another overcome significant barriers.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "“Proportionality” is a way to respond to this need for balance.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Proportionality means we encourage staff members to reflect on, and justify, why they are using generative AI for a given use case rather than a “non-generative AI” approach.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "We ask staff to internally reflect on their uses – and in some cases explicitly spell these out for discussion. These cases are:\n- When writing a Transparency Note (see the Transparency section later).\n- When encountering a use case that raises challenging personal decisions about whether this is proportional or not.\n- Any cases we believe are very hard to justify in general as “proportional” for AlgorithmWatch and should be avoided.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "The GUIDE document will be used to collect these cases for wider discussion. Over time this will develop into a series of agreed-upon precedents and guidance for staff in assessing the proportionality of their own use cases. Unless and until such discussion provides further guidance, staff should follow their own judgment and/or get input from their Team Lead.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Principle 2: Security**",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "What information we are comfortable inputting into generative AI tools was one of the major concerns expressed in our survey. Data input into generative AI tools may be stored and potentially used for further training of models, with associated privacy, confidentiality, and undue appropriation concerns. The use of data for training can also raise concerns about “leakage” of input data to other users, use of uncompensated labor for training, and other concerns.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Some tools promise increased security and/or not to use data for training, though sometimes only under certain conditions (e.g., paid-for versions). While these promises may provide some additional accountability, we should also be cautious of relying too heavily on these promises as a true safeguard of security, given the periodic failures of technology companies to protect data.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "We therefore describe three ‘Tiers’ of content that staff might input into generative AI tools.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- **Tier 1 (Low security)**: Content that does not raise any specific issues when being entered as an input into a generative AI tool, even with few/no safeguards.\n E.g., publicly available information.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- **Tier 2 (Medium security)**: Content that we feel comfortable about inputting into specific generative AI tools on the basis that they will apply sufficient privacy/confidentiality safeguards, but that if these safeguards were to fail, it would not raise high risks, e.g., exposing confidential or personal information.\n E.g., internal AlgorithmWatch strategy documents that do not contain sensitive information.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "- **Tier 3 (High security)**: Content that should not be input into generative AI tools, even if they promise safeguards.\n E.g., personally identifiable information",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Staff should consult internal records to see (i) what sort of content falls under what Tier, and (ii) what tools are recommended for Tier 2 information. They should then choose their tool and adjust input information accordingly (e.g., remove some material).",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Where there is not clear enough existing guidance, staff should flag this to a Team Lead who can, depending on the circumstance, provide a temporary decision or escalate to other Team Leads or other relevant expertise (e.g., the Data Protection Officer) as required. These temporary decisions are recorded in the GUIDE, discussed, and a firm decision is recorded as future guidance.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Staff questions, requests, and suggestions related to tools that may be (in)appropriate for Tier 2 content should likewise be recorded in the GUIDE.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Principle 3: Quality**",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Any generative AI output should be reviewed critically before use. Staff should expect the outputs to require editing or otherwise questioning in some form – accepting the outputs “as they come” is likely to show a lack of critical engagement, and if staff are doing this, we strongly encourage them to consider whether they are doing sufficient quality assessment.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Quality assurance should go beyond simple fact-checking and also consider, for example:\n- whether generative AI is “framing” the way we think about topics by directing our attention to some things and away from others;\n- whether certain perspectives are given too much/little weight or are missing outright from the generative AI outputs;\n- reading citations to check the generative AI has appropriately used them;\n- if the output aligns with previous AlgorithmWatch work on the topic, including in tone and writing style.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative AI should not be used to produce material on a topic without the author(s) and editor(s) having or gaining additional familiarity with that topic using other methods not involving generative AI. That may be through existing expertise, contacting relevant expert(s), and/or non-generative AI-assisted research.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Where practical, given resource constraints, try to involve at least one fellow staff member in this check process (even if as simple as explaining what steps you have taken).",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Staff are encouraged to (i) summarize safeguards used in specific cases in Transparency Notes and, as such, record them in the GUIDE and (ii) record broader ideas or reflections on quality assurance in the GUIDE.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Principle 4: Transparency**",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In order to hold ourselves accountable for the other principles in this policy, it is important that we are transparent with ourselves and others.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When we publish material in which generative AI played a substantial role in creating the product, we discuss whether to include a Transparency Note explaining how generative AI was used.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "At staff discretion, similar Transparency Notes may also be appended to work that is not published (such as documents for internal use or for partners or in documentation about systems used for internal operational purposes) if generative AI played a substantial role in their production.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "These notes should be copied into the GUIDE as they provide valuable insights into how the principles are being applied in practice.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Examples of what might count as “substantial”, or not, are listed in internal records and iterated over time via the GUIDE process. These are meant as guidance and precedents for individual decisions; again, hard-and-fast rules are extremely challenging to define given the range of possible use cases.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "For guidance, a couple of examples of “substantial” uses – i.e., those that should prompt a staff member to consider a Transparency Note – include:\n- Publications in which generative AI was used to draft large portions of the text (as a rough guide, entire paragraphs or more), even if this “base text” was subsequently edited. This should be considered in context and not applied to use cases such as, for example, short social media posts, or if the first version was written by a human in one language and generative AI was used just for translation – such outputs should still be checked for quality, but a Transparency Note would not be recommended.\n- Using generative AI for developing ideas or selecting research routes that informed the direction of sections of, or all of, a product or project. Finding or checking specific details would not generally be substantial enough (though it should still have quality assurance). For instance, prompts like “list all CEOs of the GAFAM companies with dates” are specific and can be easily checked, so this would not generally need a note. But using a chatbot in a back-and-forth discussion about “what are some key developments in the history of GAFAM” would need a note, as the chatbot’s selection of “key” points could shape the direction of the product.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The notes need not have a standard format, but referring to the other Proportionality, Security, and Quality Principles will usually be helpful. The note should be brief and need not be extensively detailed – you do not need to list your precise prompts, for example. But there should be an internal copy of the note with your name and contact information for anyone who wishes to know more (we do not include this personal information in material we publish).",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "**The GUIDE**",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "There is an internal GUIDE document, accessible to all staff, which contains:\n- Transparency Notes (which in turn also record decisions related to all the other 3 Principles: Proportionality, Security, Quality).\n- Examples related to Proportionality, in particular (i) common use cases that we consider generally inappropriate and (ii) difficult cases.\n- Decisions about Security (what Tier particular content fits into and/or how safe certain tools are).\n- Discussions of what does and does not count as “substantial use” and therefore require a Transparency Note.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Inspecting and discussing the GUIDE will be a standing item in the AlgorithmWatch Team Leads meeting, which happens approximately once per month. Decisions made by Team Leads can then be recorded in the GUIDE. Objections to decisions from staff will be taken back to Team Leads, either in the Team Leads meeting or (if more urgent) by discussion via internal messaging. In case of disputes among Team Leads that cannot be resolved by discussion, final decision-making falls to Executive Management. Documentation can also be supported by regular internal capacity building sessions on the application of our policy.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "whether you use chatgpt, claude or gemini, copilot or perplexity - generative ai poses massive problems: many results are inaccurate and politically problematic, the systems' energy and water consumption is enormous.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 61,
+    "matched": 60,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 2,
+        "B": "B10",
+        "matched_words": "24/30",
+        "text": "Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the energy and water consumption is enormous."
+      }
+    ],
+    "source_coverage": 0.984,
+    "uncovered_chars": 152,
+    "uncovered_gaps": 2,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 121,
+        "length": 121,
+        "text": "# algorithmwatch # source: https://algorithmwatch.org/en/generativeaiguideline/ # date: 2024-09-18 # category: guideline"
+      },
+      {
+        "char_start": 546,
+        "char_end": 577,
+        "length": 31,
+        "text": ". publication january 14, 2026"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 124,
+      "text": "# AlgorithmWatch\n# Source: https://algorithmwatch.org/en/generative-ai-guideline/\n# Date: 2024-09-18\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 124,
+      "char_end": 184,
+      "text": "AlgorithmWatch’s guidelines to use generative AI responsibly",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 185,
+      "char_end": 401,
+      "text": "Whether you use ChatGPT, Claude or Gemini, Copilot or Perplexity – generative AI poses massive problems: many results are inaccurate and politically problematic, the systems’ energy and water consumption is enormous.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 402,
+      "char_end": 550,
+      "text": "At the same time, they have become an integral part of everyday life. AlgorithmWatch has developed guidelines to help use generative AI responsibly.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 550,
+      "char_end": 582,
+      "text": "\n\nPublication\nJanuary 14, 2026\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 582,
+      "char_end": 927,
+      "text": "As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 929,
+      "char_end": 1345,
+      "text": "This publication introduces the principles and processes of our policy. We hope it may provide a useful model for other organizations considering how they should use generative AI responsibly, balancing useful cases with the risks of these technologies. Developing and implementing such a policy is challenging, given the range of use cases, risks/benefits, and views on generative AI – many of which change rapidly.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1347,
+      "char_end": 1745,
+      "text": "Our approach started with a survey of our staff to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work. We then developed a policy designed to guide individual staff members as they make decisions about whether, and how, to use generative AI in a way that aligns with our values and mission.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1747,
+      "char_end": 1831,
+      "text": "This is based on 4 principles:\n- Proportionality\n- Security\n- Quality\n- Transparency",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1833,
+      "char_end": 2090,
+      "text": "The policy also incorporates a structured process for collecting and discussing use cases and tools as well as updating the policy over time, which is necessary to address the range of uses and ongoing changes in the technology, its benefits, and its risks.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2092,
+      "char_end": 2270,
+      "text": "If you plan to adopt a similar policy in your organization, we would be delighted if ours can provide support or a model. From our experiences and discussions so far, we can say…",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2270,
+      "char_end": 2274,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2274,
+      "char_end": 2619,
+      "text": "it is good to begin with a survey of current uses and attitudes in your organization, followed by sharing these results (even as an aggregate) with your staff. This helps ensure your policy reflects the range of views and uses in your organization and to show that to everyone. We include the survey we used as an appendix in the below document.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2619,
+      "char_end": 2622,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2622,
+      "char_end": 2971,
+      "text": "our policy provides guidelines for individual decisionmaking, which helps to be flexible and adapt to many use cases. However, this only works if you are confident that your staff are concerned about risks of generative AI and want to use it only in ways that balance risk and benefit. Otherwise, clearer and stricter rules may be a better approach.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2971,
+      "char_end": 2974,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2974,
+      "char_end": 3072,
+      "text": "it is good to have a clear way to adapt over time as you implement it and as circumstances change.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3074,
+      "char_end": 3116,
+      "text": "Our guidelines on the use of generative AI",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3117,
+      "char_end": 3534,
+      "text": "AlgorithmWatch has developed a policy on how we use generative AI. As an organization, we fight against the irresponsible and unaccountable development, deployment, and use of digital technologies. But many such technologies can also, when used responsibly, aid us in this mission. Generative AI is a particularly important example, which raises questions of how we act responsibly and balance benefits against risks.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3536,
+      "char_end": 3911,
+      "text": "Generative AI is a class of tools that take user inputs and create new content. This includes generating text or other media outputs based on a “prompt” or translating between languages, writing styles, and media. In what follows, generative AI should be interpreted broadly – to include, for example, AI services that translate between languages or transcribe voice to text.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3913,
+      "char_end": 4060,
+      "text": "This document describes internal principles and current practices that we are in the process of implementing, relating to the use of generative AI.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4061,
+      "char_end": 4264,
+      "text": "It is intended for informational purposes and does not constitute legally binding commitments or guarantees, nor does it replace or extend AlgorithmWatch’s other documentation (e.g., our privacy policy).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4266,
+      "char_end": 4482,
+      "text": "This policy draws on a survey of our staff (May 2025) to establish (i) beneficial use cases they find from generative AI and (ii) concerns and risks they see around the use of generative AI for AlgorithmWatch’s work.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4483,
+      "char_end": 4700,
+      "text": "The resulting policy:\n- provides internal guidance to staff on how to use generative AI in a manner consistent with AlgorithmWatch's values, based on 4 principles: Transparency, Quality, Proportionality, and Security.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4701,
+      "char_end": 4828,
+      "text": "- specifies how we will monitor and update various aspects of this policy based on what we call the GUIDE document and process.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4829,
+      "char_end": 5064,
+      "text": "- is published in a summary form (which you are currently reading) to indicate how we, as an organization particularly concerned with the challenges of deploying technologies responsibly, are considering our own usage of generative AI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5066,
+      "char_end": 5341,
+      "text": "The below text outlines the 4 principles and the GUIDE process for updating aspects of this policy. If you wish to adapt or adopt this policy, we welcome this and strongly advise beginning with surveying your staff to establish their current uses, needs, views, and concerns.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5343,
+      "char_end": 5653,
+      "text": "It is also important to note: This policy is designed for organizations that want to use technology in a responsible and ethical way, even when this involves limiting the use of technology, where this is embedded in the organizations' values, and where staff are clearly aware of and follow these expectations.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5654,
+      "char_end": 6013,
+      "text": "The policy does not specify “hard rules” that constrain irresponsible behavior or staff members who wish to use tools with no or minimal safeguards. Rather, it supports staff in making individual decisions about their generative AI use in responsible ways by providing principles and a process for creating discussion, precedents, and ever-expanding guidance.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6014,
+      "char_end": 6206,
+      "text": "We believe this is the most appropriate way for responsible organizations to respond effectively to the very broad range of use cases, user needs, and evolving situations around generative AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6208,
+      "char_end": 6240,
+      "text": "**Principle 1: Proportionality**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6241,
+      "char_end": 6382,
+      "text": "We strongly discourage staff from using generative AI simply because it seems the easier option when other appropriate options are available.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6383,
+      "char_end": 6631,
+      "text": "Overuse of generative AI is associated with a series of systemic risks; from de-skilling of individuals, to reducing demand for jobs, to increasing energy demands, to companies' referring to high usage rates as justifications for reckless behavior.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6633,
+      "char_end": 6977,
+      "text": "However, our survey also showed that staff members do find substantial benefits to generative AI in some use cases. Staff also noted the importance of being inclusive with our policies, and different staff members have different needs; some use cases that are “fairly useful” for one staff member may help another overcome significant barriers.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6979,
+      "char_end": 7042,
+      "text": "“Proportionality” is a way to respond to this need for balance.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7044,
+      "char_end": 7218,
+      "text": "Proportionality means we encourage staff members to reflect on, and justify, why they are using generative AI for a given use case rather than a “non-generative AI” approach.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7220,
+      "char_end": 7657,
+      "text": "We ask staff to internally reflect on their uses – and in some cases explicitly spell these out for discussion. These cases are:\n- When writing a Transparency Note (see the Transparency section later).\n- When encountering a use case that raises challenging personal decisions about whether this is proportional or not.\n- Any cases we believe are very hard to justify in general as “proportional” for AlgorithmWatch and should be avoided.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7659,
+      "char_end": 8021,
+      "text": "The GUIDE document will be used to collect these cases for wider discussion. Over time this will develop into a series of agreed-upon precedents and guidance for staff in assessing the proportionality of their own use cases. Unless and until such discussion provides further guidance, staff should follow their own judgment and/or get input from their Team Lead.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8023,
+      "char_end": 8048,
+      "text": "**Principle 2: Security**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8049,
+      "char_end": 8513,
+      "text": "What information we are comfortable inputting into generative AI tools was one of the major concerns expressed in our survey. Data input into generative AI tools may be stored and potentially used for further training of models, with associated privacy, confidentiality, and undue appropriation concerns. The use of data for training can also raise concerns about “leakage” of input data to other users, use of uncompensated labor for training, and other concerns.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8515,
+      "char_end": 8898,
+      "text": "Some tools promise increased security and/or not to use data for training, though sometimes only under certain conditions (e.g., paid-for versions). While these promises may provide some additional accountability, we should also be cautious of relying too heavily on these promises as a true safeguard of security, given the periodic failures of technology companies to protect data.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8900,
+      "char_end": 8995,
+      "text": "We therefore describe three ‘Tiers’ of content that staff might input into generative AI tools.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8997,
+      "char_end": 9199,
+      "text": "- **Tier 1 (Low security)**: Content that does not raise any specific issues when being entered as an input into a generative AI tool, even with few/no safeguards.\n E.g., publicly available information.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9201,
+      "char_end": 9616,
+      "text": "- **Tier 2 (Medium security)**: Content that we feel comfortable about inputting into specific generative AI tools on the basis that they will apply sufficient privacy/confidentiality safeguards, but that if these safeguards were to fail, it would not raise high risks, e.g., exposing confidential or personal information.\n E.g., internal AlgorithmWatch strategy documents that do not contain sensitive information.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9618,
+      "char_end": 9782,
+      "text": "- **Tier 3 (High security)**: Content that should not be input into generative AI tools, even if they promise safeguards.\n E.g., personally identifiable information",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9784,
+      "char_end": 10042,
+      "text": "Staff should consult internal records to see (i) what sort of content falls under what Tier, and (ii) what tools are recommended for Tier 2 information. They should then choose their tool and adjust input information accordingly (e.g., remove some material).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10044,
+      "char_end": 10426,
+      "text": "Where there is not clear enough existing guidance, staff should flag this to a Team Lead who can, depending on the circumstance, provide a temporary decision or escalate to other Team Leads or other relevant expertise (e.g., the Data Protection Officer) as required. These temporary decisions are recorded in the GUIDE, discussed, and a firm decision is recorded as future guidance.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10428,
+      "char_end": 10576,
+      "text": "Staff questions, requests, and suggestions related to tools that may be (in)appropriate for Tier 2 content should likewise be recorded in the GUIDE.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10578,
+      "char_end": 10602,
+      "text": "**Principle 3: Quality**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10603,
+      "char_end": 10968,
+      "text": "Any generative AI output should be reviewed critically before use. Staff should expect the outputs to require editing or otherwise questioning in some form – accepting the outputs “as they come” is likely to show a lack of critical engagement, and if staff are doing this, we strongly encourage them to consider whether they are doing sufficient quality assessment.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10970,
+      "char_end": 11492,
+      "text": "Quality assurance should go beyond simple fact-checking and also consider, for example:\n- whether generative AI is “framing” the way we think about topics by directing our attention to some things and away from others;\n- whether certain perspectives are given too much/little weight or are missing outright from the generative AI outputs;\n- reading citations to check the generative AI has appropriately used them;\n- if the output aligns with previous AlgorithmWatch work on the topic, including in tone and writing style.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11494,
+      "char_end": 11814,
+      "text": "Generative AI should not be used to produce material on a topic without the author(s) and editor(s) having or gaining additional familiarity with that topic using other methods not involving generative AI. That may be through existing expertise, contacting relevant expert(s), and/or non-generative AI-assisted research.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11816,
+      "char_end": 11991,
+      "text": "Where practical, given resource constraints, try to involve at least one fellow staff member in this check process (even if as simple as explaining what steps you have taken).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11993,
+      "char_end": 12205,
+      "text": "Staff are encouraged to (i) summarize safeguards used in specific cases in Transparency Notes and, as such, record them in the GUIDE and (ii) record broader ideas or reflections on quality assurance in the GUIDE.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12207,
+      "char_end": 12236,
+      "text": "**Principle 4: Transparency**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12237,
+      "char_end": 12383,
+      "text": "In order to hold ourselves accountable for the other principles in this policy, it is important that we are transparent with ourselves and others.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12385,
+      "char_end": 12572,
+      "text": "When we publish material in which generative AI played a substantial role in creating the product, we discuss whether to include a Transparency Note explaining how generative AI was used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12574,
+      "char_end": 12862,
+      "text": "At staff discretion, similar Transparency Notes may also be appended to work that is not published (such as documents for internal use or for partners or in documentation about systems used for internal operational purposes) if generative AI played a substantial role in their production.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12864,
+      "char_end": 12996,
+      "text": "These notes should be copied into the GUIDE as they provide valuable insights into how the principles are being applied in practice.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12998,
+      "char_end": 13300,
+      "text": "Examples of what might count as “substantial”, or not, are listed in internal records and iterated over time via the GUIDE process. These are meant as guidance and precedents for individual decisions; again, hard-and-fast rules are extremely challenging to define given the range of possible use cases.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13302,
+      "char_end": 14609,
+      "text": "For guidance, a couple of examples of “substantial” uses – i.e., those that should prompt a staff member to consider a Transparency Note – include:\n- Publications in which generative AI was used to draft large portions of the text (as a rough guide, entire paragraphs or more), even if this “base text” was subsequently edited. This should be considered in context and not applied to use cases such as, for example, short social media posts, or if the first version was written by a human in one language and generative AI was used just for translation – such outputs should still be checked for quality, but a Transparency Note would not be recommended.\n- Using generative AI for developing ideas or selecting research routes that informed the direction of sections of, or all of, a product or project. Finding or checking specific details would not generally be substantial enough (though it should still have quality assurance). For instance, prompts like “list all CEOs of the GAFAM companies with dates” are specific and can be easily checked, so this would not generally need a note. But using a chatbot in a back-and-forth discussion about “what are some key developments in the history of GAFAM” would need a note, as the chatbot’s selection of “key” points could shape the direction of the product.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14611,
+      "char_end": 15071,
+      "text": "The notes need not have a standard format, but referring to the other Proportionality, Security, and Quality Principles will usually be helpful. The note should be brief and need not be extensively detailed – you do not need to list your precise prompts, for example. But there should be an internal copy of the note with your name and contact information for anyone who wishes to know more (we do not include this personal information in material we publish).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15073,
+      "char_end": 15086,
+      "text": "**The GUIDE**",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15087,
+      "char_end": 15652,
+      "text": "There is an internal GUIDE document, accessible to all staff, which contains:\n- Transparency Notes (which in turn also record decisions related to all the other 3 Principles: Proportionality, Security, Quality).\n- Examples related to Proportionality, in particular (i) common use cases that we consider generally inappropriate and (ii) difficult cases.\n- Decisions about Security (what Tier particular content fits into and/or how safe certain tools are).\n- Discussions of what does and does not count as “substantial use” and therefore require a Transparency Note.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15654,
+      "char_end": 16269,
+      "text": "Inspecting and discussing the GUIDE will be a standing item in the AlgorithmWatch Team Leads meeting, which happens approximately once per month. Decisions made by Team Leads can then be recorded in the GUIDE. Objections to decisions from staff will be taken back to Team Leads, either in the Team Leads meeting or (if more urgent) by discussion via internal messaging. In case of disputes among Team Leads that cannot be resolved by discussion, final decision-making falls to Executive Management. Documentation can also be supported by regular internal capacity building sessions on the application of our policy.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 60,
+      "match_type": "exact"
+    }
+  ]
+}

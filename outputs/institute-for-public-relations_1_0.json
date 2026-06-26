@@ -1,0 +1,1111 @@
+{
+  "doc_id": "institute-for-public-relations_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "With the increased use of generative AI and the potential for increased misinformation and decreased transparency in the research space, the Institute for Public Relations (IPR) has created a disclosure policy for labeling generative AI use in research-related content.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Content labels help prevent disinformation, allow transparency for material sources, and help prevent plagiarism.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This ensures openness, accountability, honesty, and rigor of the material that IPR creates and publishes.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative AI cannot verify the quality or accuracy of the work it draws upon and is prone to hallucinations (or making up content).",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative AI output may contain biased information.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative AI stops collecting information at a certain period of time, so it does not use the most updated research or material.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Confidential or proprietary information should not be uploaded or fed to generative AI (including the responses of participants who have requested confidentiality or anonymity).",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Therefore, IPR requires in-text disclosures of substantive generative AI use in its research-related materials.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "The research materials that require disclosure include:",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Blogs, blurbs, and research summaries",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "IPR Research Letter articles",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "IPR Signature Studies",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Public Relations Journal articles",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "IPR Deconstructing series articles",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Presentation materials at IPR events or programs",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Authors must disclose how generative AI was used and to what extent.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI should be used primarily for editorial assistance.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "AI should not be used as a co-author for a research paper, as it cannot take responsibility for the work.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Authors and creators must take full responsibility for all content created by generative AI, including the use of copyrighted material, and ensure the content is factual, credible, accurate, and supported by other reliable sources.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "AI should not be used as a primary or secondary source.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Instead, it is the author’s responsibility to track original content sources for proper attribution.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Each use of generative AI within a document should be addressed individually.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Authors are responsible for complying with relevant laws and regulations related to AI-generated content.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI use should be labeled or disclosed when used for:",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The research process, such as collecting or analyzing the data",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "New content generation (visual or written)",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Content a reader would assume to be human-created",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Language translation (content should also be checked by a fluent speaker)",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Editing that changes the style, voice, or composition of the writing",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI typically does not require a label or disclosure for:",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Idea or topic generation/brainstorming",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Grammatical changes or other minor edits that do not change the overall content, style, or voice of the piece",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Summarizing of material if it does not change the content",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Ways to disclose:",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In-text citation using APA style",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "A reference in a paragraph in the report",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Footnote",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Endnote",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "What should be included in the label or disclosure:",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The generative AI program used (e.g., ChatGPT 4.0)",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The prompt used (e.g., summarize these research findings in two paragraphs)",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The section where generative AI was applied (e.g., introduction)",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Who used the generative AI (e.g., Dr. Tina McCorkindale)",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The date, if applicable",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Here is an example of a footnote:\nThe introduction was created by inserting the bulk of the report written solely by Dr. McCorkindale, the primary author of this report, into ChatGPT 4 and then asking it to create two introductory paragraphs. Dr. McCorkindale checked the accuracy of the content and edited the introduction.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "For more information about content disclosure, please refer to Dr. Cayce Myers’s IPR article, “To disclose or not to disclose: That is the AI question.”",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "IPR suggests that if in doubt whether AI-generated content should be labeled, it’s best to over-disclose rather than under-disclose.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Please note: This policy will evolve to ensure it remains relevant and effective throughout changes in the AI disclosure landscape.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". considerations when using generative ai",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 49,
+    "matched": 49,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.894,
+    "uncovered_chars": 399,
+    "uncovered_gaps": 2,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 344,
+        "length": 344,
+        "text": "# institute for public relations # source: https://instituteforpr.org/ipraidisclosurepolicy/ # date: 2026-01-05 # category: guideline ipr ai disclosure and labeling policy posted on march 10, 2024 by institute for public relations updated january 5, 2026 thanks to the ipr digital media research center team for their considerations and input."
+      },
+      {
+        "char_start": 1739,
+        "char_end": 1794,
+        "length": 55,
+        "text": "rules and guidelines for ai use in ipr-published work"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 351,
+      "text": "# Institute for Public Relations\n# Source: https://instituteforpr.org/ipr-ai-disclosure-policy/\n# Date: 2026-01-05\n# Category: guideline\n\nIPR AI Disclosure and Labeling Policy\n\nPosted on March 10, 2024 by Institute for Public Relations\nUpdated January 5, 2026\n\nThanks to the IPR Digital Media Research Center team for their considerations and input.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 351,
+      "char_end": 620,
+      "text": "With the increased use of generative AI and the potential for increased misinformation and decreased transparency in the research space, the Institute for Public Relations (IPR) has created a disclosure policy for labeling generative AI use in research-related content.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 621,
+      "char_end": 734,
+      "text": "Content labels help prevent disinformation, allow transparency for material sources, and help prevent plagiarism.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 735,
+      "char_end": 840,
+      "text": "This ensures openness, accountability, honesty, and rigor of the material that IPR creates and publishes.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 840,
+      "char_end": 884,
+      "text": "\n\nConsiderations When Using Generative AI\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 884,
+      "char_end": 1016,
+      "text": "Generative AI cannot verify the quality or accuracy of the work it draws upon and is prone to hallucinations (or making up content).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1016,
+      "char_end": 1019,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1019,
+      "char_end": 1071,
+      "text": "Generative AI output may contain biased information.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1071,
+      "char_end": 1074,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1074,
+      "char_end": 1203,
+      "text": "Generative AI stops collecting information at a certain period of time, so it does not use the most updated research or material.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1203,
+      "char_end": 1206,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1206,
+      "char_end": 1383,
+      "text": "Confidential or proprietary information should not be uploaded or fed to generative AI (including the responses of participants who have requested confidentiality or anonymity).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1385,
+      "char_end": 1496,
+      "text": "Therefore, IPR requires in-text disclosures of substantive generative AI use in its research-related materials.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1497,
+      "char_end": 1552,
+      "text": "The research materials that require disclosure include:",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1552,
+      "char_end": 1555,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1555,
+      "char_end": 1592,
+      "text": "Blogs, blurbs, and research summaries",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1592,
+      "char_end": 1595,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1595,
+      "char_end": 1623,
+      "text": "IPR Research Letter articles",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1623,
+      "char_end": 1626,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1626,
+      "char_end": 1647,
+      "text": "IPR Signature Studies",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1647,
+      "char_end": 1650,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1650,
+      "char_end": 1683,
+      "text": "Public Relations Journal articles",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1683,
+      "char_end": 1686,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1686,
+      "char_end": 1720,
+      "text": "IPR Deconstructing series articles",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1720,
+      "char_end": 1723,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1723,
+      "char_end": 1771,
+      "text": "Presentation materials at IPR events or programs",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1771,
+      "char_end": 1829,
+      "text": "\n\nRules and Guidelines for AI Use in IPR-Published Work\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1829,
+      "char_end": 1897,
+      "text": "Authors must disclose how generative AI was used and to what extent.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1897,
+      "char_end": 1900,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1900,
+      "char_end": 1964,
+      "text": "Generative AI should be used primarily for editorial assistance.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1965,
+      "char_end": 2070,
+      "text": "AI should not be used as a co-author for a research paper, as it cannot take responsibility for the work.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2070,
+      "char_end": 2073,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2073,
+      "char_end": 2304,
+      "text": "Authors and creators must take full responsibility for all content created by generative AI, including the use of copyrighted material, and ensure the content is factual, credible, accurate, and supported by other reliable sources.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2304,
+      "char_end": 2307,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2307,
+      "char_end": 2362,
+      "text": "AI should not be used as a primary or secondary source.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2363,
+      "char_end": 2463,
+      "text": "Instead, it is the author’s responsibility to track original content sources for proper attribution.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2463,
+      "char_end": 2466,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2466,
+      "char_end": 2543,
+      "text": "Each use of generative AI within a document should be addressed individually.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2543,
+      "char_end": 2546,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2546,
+      "char_end": 2651,
+      "text": "Authors are responsible for complying with relevant laws and regulations related to AI-generated content.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2653,
+      "char_end": 2716,
+      "text": "Generative AI use should be labeled or disclosed when used for:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2716,
+      "char_end": 2719,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2719,
+      "char_end": 2781,
+      "text": "The research process, such as collecting or analyzing the data",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2781,
+      "char_end": 2784,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2784,
+      "char_end": 2826,
+      "text": "New content generation (visual or written)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2826,
+      "char_end": 2829,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2829,
+      "char_end": 2878,
+      "text": "Content a reader would assume to be human-created",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2878,
+      "char_end": 2881,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2881,
+      "char_end": 2954,
+      "text": "Language translation (content should also be checked by a fluent speaker)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2954,
+      "char_end": 2957,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2957,
+      "char_end": 3025,
+      "text": "Editing that changes the style, voice, or composition of the writing",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3027,
+      "char_end": 3094,
+      "text": "Generative AI typically does not require a label or disclosure for:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3094,
+      "char_end": 3097,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3097,
+      "char_end": 3135,
+      "text": "Idea or topic generation/brainstorming",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3135,
+      "char_end": 3138,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3138,
+      "char_end": 3247,
+      "text": "Grammatical changes or other minor edits that do not change the overall content, style, or voice of the piece",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3247,
+      "char_end": 3250,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3250,
+      "char_end": 3307,
+      "text": "Summarizing of material if it does not change the content",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3309,
+      "char_end": 3326,
+      "text": "Ways to disclose:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3326,
+      "char_end": 3329,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3329,
+      "char_end": 3361,
+      "text": "In-text citation using APA style",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3361,
+      "char_end": 3364,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3364,
+      "char_end": 3404,
+      "text": "A reference in a paragraph in the report",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3404,
+      "char_end": 3407,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3407,
+      "char_end": 3415,
+      "text": "Footnote",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3415,
+      "char_end": 3418,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3418,
+      "char_end": 3425,
+      "text": "Endnote",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3427,
+      "char_end": 3478,
+      "text": "What should be included in the label or disclosure:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3478,
+      "char_end": 3481,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3481,
+      "char_end": 3531,
+      "text": "The generative AI program used (e.g., ChatGPT 4.0)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3531,
+      "char_end": 3534,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3534,
+      "char_end": 3609,
+      "text": "The prompt used (e.g., summarize these research findings in two paragraphs)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3609,
+      "char_end": 3612,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3612,
+      "char_end": 3676,
+      "text": "The section where generative AI was applied (e.g., introduction)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3676,
+      "char_end": 3679,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3679,
+      "char_end": 3735,
+      "text": "Who used the generative AI (e.g., Dr. Tina McCorkindale)",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3735,
+      "char_end": 3738,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3738,
+      "char_end": 3761,
+      "text": "The date, if applicable",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3763,
+      "char_end": 4087,
+      "text": "Here is an example of a footnote:\nThe introduction was created by inserting the bulk of the report written solely by Dr. McCorkindale, the primary author of this report, into ChatGPT 4 and then asking it to create two introductory paragraphs. Dr. McCorkindale checked the accuracy of the content and edited the introduction.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4089,
+      "char_end": 4241,
+      "text": "For more information about content disclosure, please refer to Dr. Cayce Myers’s IPR article, “To disclose or not to disclose: That is the AI question.”",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4242,
+      "char_end": 4374,
+      "text": "IPR suggests that if in doubt whether AI-generated content should be labeled, it’s best to over-disclose rather than under-disclose.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4376,
+      "char_end": 4507,
+      "text": "Please note: This policy will evolve to ensure it remains relevant and effective throughout changes in the AI disclosure landscape.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 48,
+      "match_type": "exact"
+    }
+  ]
+}

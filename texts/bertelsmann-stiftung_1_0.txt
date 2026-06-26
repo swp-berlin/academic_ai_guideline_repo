@@ -1,0 +1,149 @@
+# Bertelsmann Stiftung
+# Source: https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/Algo.Rules_DE.pdf
+# Date: 2019-07-03
+# Category: template
+# Download file: bertelsmann-stiftung_1_0.pdf
+# Extraction: mistral-ocr
+
+# Algo.Rules
+
+Regeln für die Gestaltung
+algorithmischer Systeme
+
+iRights.Lab
+
+| BertelsmannStiftung
+
+---
+
+# Präambel
+
+Algorithmische Systeme werden in immer mehr Bereichen angewendet. Mit ihrer Hilfe werden Entscheidungen getroffen, die erhebliche Auswirkungen auf unser Leben haben. Sie bringen ebenso Chancen wie Risiken mit sich. Es liegt in unserer Hand, gemeinsam dafür zu sorgen, dass algorithmische Systeme zum Wohle der Gesellschaft gestaltet werden. Die in den Menschenrechten abgebildeten individuellen und kollektiven Freiheiten und Rechte sollen durch algorithmische Systeme gestärkt, nicht eingeschränkt werden. Regulierungen zum Schutz dieser Normen müssen durchsetzbar bleiben. Um das zu erreichen, haben wir gemeinsam mit Expert:innen und der interessierten Öffentlichkeit die vorliegenden Algo.Rules entwickelt.
+
+## Was sind die Algo.Rules?
+
+Bei den Algo.Rules handelt es sich um einen Katalog an formalen Kriterien, die beachtet werden müssen, um eine gesellschaftlich förderliche Gestaltung und Überprüfung von algorithmischen Systemen zu ermöglichen und zu erleichtern. Sie legen eine Grundlage für ethische Erwägungen und für die Um- und Durchsetzung rechtlicher Rahmenbedingungen. Diese Kriterien sollen bereits bei der Entwicklung der Systeme mitgedacht und „by design“ implementiert werden. Die einzelnen Algo.Rules sind interdependent und als Gesamtkomplex zu betrachten. Interessierte sind dazu eingeladen, die Algo.Rules gemeinsam mit uns weiterzugestalten, sie zu übernehmen, anzupassen, zu erweitern und vor allem Wege zu suchen, sie in der Praxis anzuwenden. Die Algo.Rules sind dynamisch angelegt und sollen insbesondere hinsichtlich ihrer konkreten Umsetzung weiter verfeinert werden.
+
+## An wen richten sich die Algo.Rules?
+
+Die Algo.Rules richten sie sich an alle Personen, die einen wesentlichen Einfluss auf die Entstehung, die Entwicklung und Programmierung, den Einsatz und die Auswirkungen algorithmischer Systeme haben, sowie an Personen, die deren Entwicklung beauftragt haben. Das sind insbesondere, aber nicht ausschließlich, Personen, die:
+
+- zur Entwicklung und zum Einsatz von algorithmischen Systemen forschen,
+- Daten erheben und sammeln, kategorisieren, bündeln und pflegen,
+- über den Einsatz und die Ziele eines algorithmischen Systems entscheiden,
+- auf Leitungsebene in Institutionen oder Unternehmen arbeiten, welche algorithmische Systeme einsetzen oder entwickeln,
+- algorithmische Systeme programmieren,
+- algorithmische Systeme testen, weiterentwickeln und anpassen,
+
+www.algorules.org
+
+---
+
+Algo.Rules
+
+Präambel
+
+- designen, wie Anwender:innen algorithmische Ergebnisse präsentiert bekommen, sowie
+- in ihrem Arbeitsalltag mithilfe von algorithmischen Systemen Entscheidungen treffen oder über die Art der Anwendung entscheiden.
+
+## Was ist ein „algorithmisches System“?
+
+Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines vorab definierten Problems. Ein algorithmisches System ist ein System einer oder mehrerer Algorithmen, die in Software implementiert wurden, um Daten zu erfassen, zu analysieren und Schlüsse zu ziehen, die zur Lösung eines vorher definierten Problems beitragen sollen. Das System kann dabei selbstlernend sein oder vorprogrammierten Entscheidungsregeln folgen. Die Bewertung eines algorithmischen Systems im Rahmen der Algo.Rules umfasst auch den soziotechnischen Gesamtkontext, in den die Software eingebettet ist, wie zum Beispiel die Deutung und Interpretation des Ergebnisses und die Ableitung einer Entscheidung durch Anwender:innen des Systems. Der Geltungsanspruch der Algo.Rules umfasst den gesamten Prozess der Entwicklung und Einbettung algorithmischer Systeme in den jeweiligen sozialen Kontext.
+
+Im Fokus der Algo.Rules stehen jene algorithmischen Systeme, die einen direkten oder mittelbaren, immer jedoch signifikanten Einfluss auf das Leben der Menschen oder die Gesellschaft haben. Es geht also nicht um Gestaltungsregeln für alle algorithmischen Systeme. Wohl aber für solche, die entsprechend relevant sind. Um zu bestimmen, ob ein algorithmisches System dieses Erfordernis erfüllt, sollte vor seiner Gestaltung eine Abschätzung über seine Wirkung getroffen werden. Je stärker der mögliche Einfluss eines algorithmischen Systems auf das Leben der Menschen oder die Gesellschaft ist, desto genauer sollte die Umsetzung der Algo.Rules geprüft werden.
+
+www.algorules.org
+
+---
+
+Algo.Rules
+
+Regeln für die Gestaltung algorithmischer Systeme
+
+# 1 Kompetenz aufbauen
+
+*Die Funktionsweise und die möglichen Auswirkungen eines algorithmischen Systems müssen verstanden werden.*
+
+Diejenigen, die algorithmische Systeme entwickeln, betreiben und/oder über ihren Einsatz entscheiden, müssen über die erforderliche Fachkompetenz und ein entsprechend abgestuftes Verständnis der Funktionsweisen und potenziellen Auswirkungen der Technologie verfügen. Das Teilen von individuellem und institutionellem Wissen sowie der interdisziplinäre Austausch zwischen den Aufgabenbereichen sind dafür ebenso zentral wie qualifizierende Maßnahmen. Diese sind in die Ausbildung bzw. das Onboarding neuer Mitarbeiter:innen zu integrieren. Der interdisziplinäre Austausch sollte verstetigt werden und für andere Interessierte und/oder betroffene Akteure offenstehen.
+
+# 2 Verantwortung definieren
+
+*Für die Auswirkungen des Einsatzes eines algorithmischen Systems muss stets eine natürliche oder juristische Person verantwortlich sein.*
+
+Die Verantwortung bedarf einer eindeutigen Zuteilung. Die damit verbundenen Aufgaben müssen der zuständigen Person bewusst sein. Dies gilt auch für geteilte Verantwortlichkeiten bei mehreren Personen oder Organisationen. Die Zuteilung muss lückenlos sowie nach innen und außen transparent dokumentiert werden. Die Verantwortung darf weder auf das algorithmische System noch auf die Anwender:innen oder betroffenen Personen abgewälzt werden.
+
+# 3 Ziele und erwartete Wirkung dokumentieren
+
+*Die Ziele und die erwartete Wirkung des Einsatzes eines algorithmischen Systems müssen vor dessen Einsatz dokumentiert und abgewogen werden.*
+
+Die Ziele des algorithmischen Systems müssen klar definiert und Informationen zu dessen Einsatz dokumentiert werden. Dazu zählen etwa die zugrunde liegenden Daten und Berechnungsmodelle. Vor dem Einsatz des algorithmischen Systems muss eine dokumentierte Folgenabschätzung durchgeführt werden. Insbesondere bei lernenden Systemen und in dynamischen Einsatzfeldern mit viel Veränderung ist die Folgenabschätzung in regelmäßigen Abständen zu wiederholen. Hierbei sind Risiken für Diskriminierungen und weitere das Individuum und das Gemeinwohl berührende Folgen im Blick zu behalten. Werteabwägungen bei der Zielsetzung und dem Einsatz von algorithmischen Systemen müssen festgehalten werden.
+
+www.algorules.org
+
+---
+
+Algo.Rules
+
+Regeln für die Gestaltung algorithmischer Systeme
+
+## 4 Sicherheit gewährleisten
+
+*Die Sicherheit eines algorithmischen Systems muss vor dessen Einsatz getestet und fortlaufend gewährleistet werden.*
+
+Zuverlässigkeit und Robustheit eines algorithmischen Systems und der zugrunde liegenden Daten gegenüber Angriffen, Zugriffen und Manipulationen sind unbedingt zu gewährleisten. Dafür muss Sicherheit von Anfang an festes Element der Gestaltung des algorithmischen Systems sein (Security by Design). Das System ist vor seinem Einsatz in einer geschützten Umgebung zu testen. Die Sicherheitsvorkehrungen sind zu dokumentieren.
+
+## 5 Kennzeichnung durchführen
+
+*Der Einsatz eines algorithmischen Systems muss gekennzeichnet sein.*
+
+Beim Einsatz algorithmischer Systeme muss durch eine entsprechende Kennzeichnung für Personen, die mit ihnen interagieren, erkennbar sein, dass der Entscheidung oder Prognose ein algorithmisches System zugrunde liegt. Das gilt besonders dann, wenn das System einen Menschen in Art und Weise der Interaktion (Sprache, Aussehen etc.) imitiert.
+
+## 6 Nachvollziehbarkeit sicherstellen
+
+*Die Entscheidungsfindung eines algorithmischen Systems muss stets nachvollziehbar sein.*
+
+Ein algorithmisches System muss mit seinen direkten oder mittelbaren Wirkungen und seiner Funktionsweise für Menschen leicht verständlich gemacht werden, damit diese es hinterfragen und überprüfen können. Dafür müssen Informationen über die dem System zugrunde liegenden Daten und Modelle, seine Architektur sowie die möglichen Auswirkungen veröffentlicht und in leicht verständlicher Sprache dargestellt werden. Es ist stets zu prüfen, ob sich ein Ziel ohne wesentliche Qualitätseinbußen auch mit einem algorithmischen System erreichen lässt, das weniger komplex und in seiner Funktionsweise leichter nachvollziehbar ist.
+
+www.algorules.org
+
+---
+
+Algo.Rules
+
+Regeln für die Gestaltung algorithmischer Systeme
+
+# 7 Beherrschbarkeit absichern
+
+*Ein algorithmisches System muss während seines gesamten Einsatzes gestaltbar sein und bleiben.*
+
+Damit ein algorithmisches System gestaltbar bleibt, müssen alle Personen, die an seiner Entwicklung und seinem Einsatz beteiligt sind, gemeinsam stets die Kontrolle über das System behalten. Dabei muss sichergestellt werden, dass der Gesamtüberblick über das System stets gewahrt bleibt, auch wenn Aufgaben zwischen unterschiedlichen Personen und Arbeitsbereichen verteilt sind. Die Arbeitsweise eines Systems darf niemals so komplex und undurchschaubar werden, dass es von Menschen nicht mehr beherrschbar ist oder nicht mehr geändert werden kann. Das gilt insbesondere für selbstlernende Systeme. Kann diese Beherrschbarkeit nicht sichergestellt werden, so ist auf den Einsatz eines algorithmischen Systems zu verzichten.
+
+# 8 Wirkung überprüfen
+
+*Die Auswirkungen eines algorithmischen Systems müssen regelmäßig überprüft werden.*
+
+Ein algorithmisches System muss einer aktiven Kontrolle unterliegen, ob die beabsichtigten Ziele tatsächlich verfolgt werden und der Einsatz des Systems bestehendes Recht nicht verletzt. Externe Prüfstellen sollten unter Wahrung legitimer Geschäftsgeheimnisse durch entsprechende technische Vorkehrungen in die Lage versetzt werden, ein algorithmisches System tatsächlich und umfassend unabhängig prüfen zu können. Wird eine negative Wirkung festgestellt, muss die Fehlerursache ermittelt und das algorithmische System entsprechend angepasst werden.
+
+# 9 Beschwerden ermöglichen
+
+*Fragwürdige oder die Rechte einer betroffenen Person beeinträchtigende Entscheidungen eines algorithmischen Systems müssen erklärt und gemeldet werden können.*
+
+Die ein algorithmisches System einsetzende Stelle muss leicht zugängliche Wege zur Kontaktaufnahme zur Verfügung stellen. Betroffene Personen müssen erstens eine qualifizierte und detaillierte Auskunft zur konkreten Entscheidung und der dahinter liegenden Abwägung einfordern können. Diese Möglichkeit sollte auch in ihrem Namen handelnden oder eigene legitime Interessen geltend machenden Organisationen eingeräumt sein. Zweitens muss eine einfache, niedrigschwellige und wirksame Beschwerdemöglichkeit zur Verfügung stehen. Beschwerden und eingeleitete Maßnahmen sind zu dokumentieren.
+
+Stand: 7. März 2019
+
+www.algorules.org
+
+---
+
+Algo.Rules
+
+Regeln für die Gestaltung algorithmischer Systeme
+
+# Lizenz
+
+Der Text dieser Publikation ist urheberrechtlich geschützt und lizenziert unter der Creative Commons Namensnennung 3.0 International (CC BY-SA 3.0) Lizenz (Namensnennung – Weitergabe unter gleichen Bedingungen). Sie dürfen das Material vervielfältigen und weiterverbreiten, solange Sie angemessene Urheber- und Rechteangaben machen. Sie müssen angeben, ob Änderungen vorgenommen wurden. Wenn Sie das Material verändern, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten. Den vollständigen Lizenztext finden Sie unter: https://creativecommons.org/licenses/by-sa/3.0/legalcode.de
+
+Stand: 7. März 2019
+
+www.algorules.org

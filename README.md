@@ -89,7 +89,7 @@ uv run scripts/download.py --all
 - HTML/HTM: BeautifulSoup extraction.
 
 ```powershell
-uv run scripts/extract_text.py --slug universitat-mannheim
+uv run scripts/extract_text.py --all
 ```
 
 ### 4) Clean Extracted Text (Optional but Recommended)
@@ -97,7 +97,7 @@ uv run scripts/extract_text.py --slug universitat-mannheim
 Creates cleaned text plus side-by-side HTML diffs for review. The side-by-side diffs are not uploaded to github, but we inspect them manually before continuing with the process of coding them. 
 
 ```powershell
-uv run scripts/clean_texts.py --slug universitat-mannheim
+uv run scripts/clean_texts.py --all
 ```
 
 ### 5) Run B-Code Segmentation/Coding

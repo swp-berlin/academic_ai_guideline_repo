@@ -1,0 +1,925 @@
+{
+  "doc_id": "reporters-without-borders_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Published on November 10, 2023, by Reporters Without Borders (RSF) and 16 partner organizations, this charter represents the first global ethical benchmark for AI and journalism.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "We, as representatives of the media and journalism community, acknowledge the transformative implications of artificial intelligence (AI) for humanity. We champion global cooperation to ensure AI upholds human rights, peace and democracy, and aligns with our shared aspirations and values.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The history of news and information is intertwined with technological progress. AI, spanning from basic automation to analytical and creative systems, introduces a new category of technologies with an unparalleled capacity to intersect with human thought, knowledge, and creativity. It represents a considerable shift in information gathering, truth seeking, storytelling, and the dissemination of ideas. As such, it will profoundly alter the technical, economic and social conditions of journalism and editorial practice.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "AI systems have the potential, depending on their design, governance and application, to revolutionize the global information landscape. However, they also present a structural challenge to the right to information. The right to information consists in the freedom to seek, receive and access reliable information. It is rooted in the international legal framework, including the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, and the International Partnership for Information and Democracy.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "This right underpins the fundamental freedoms of opinion and expression.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The social role of journalism and media outlets—serving as trustworthy intermediaries for society and individuals— is a cornerstone of democracy and enhances the right to information for all.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "AI systems can greatly assist media outlets in fulfilling this role, but only if they are used transparently, fairly and responsibly in an editorial environment that staunchly upholds journalistic ethics.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In affirming these principles, we uphold the right to information, champion independent journalism, and commit to trustworthy news and media outlets in the era of AI.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**JOURNALISM ETHICS GUIDE THE WAY MEDIA OUTLETS AND JOURNALISTS USE TECHNOLOGY.**",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Media outlets and journalists use technologies that enhance their capacity to fulfill their primary mission: ensuring everyone’s right to quality, trustworthy information.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The pursuit and achievement of this goal should drive their choices regarding technological tools.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The use and development of AI systems in journalism must uphold the core values of journalistic ethics, including truthfulness and accuracy, fairness, impartiality, independence, non-harm, non-discrimination, accountability, respect for privacy and for the confidentiality of sources.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**MEDIA OUTLETS PRIORITIZE HUMAN AGENCY**",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Human decision-making must remain central to both longterm strategies and daily editorial choices. The use of AI systems should be a deliberate and well informed decision made by humans.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Editorial teams must clearly define the goals, scope, and usage conditions for each AI system. They must ensure a cross-sectional and continuous oversight of the impacts of deployed AI systems, ensure their strict compliance with their usage framework, and retain the ability to deactivate them at any time.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**AI SYSTEMS USED IN JOURNALISM UNDERGO PRIOR, INDEPENDENT EVALUATION.**",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The AI systems used by the media and journalists should undergo an independent, comprehensive, and thorough evaluation involving journalism support groups.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "This evaluation must robustly demonstrate adherence to the core values of journalistic ethics. These systems must respect privacy, intellectual property and data protection laws.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "A clear accountability framework is established for any failure to meet these requirements. Systems that operate predictably and can be simply explained are preferred.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**MEDIA OUTLETS ARE ALWAYS ACCOUNTABLE FOR THE CONTENT THEY PUBLISH.**",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Media outlets assume editorial responsibility, including in their use of AI in gathering, processing, or disseminating information. They are liable and accountable for every piece of content they publish.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Responsibilities tied to the use of AI systems should be anticipated, outlined, and assigned to humans to ensure adherence to journalistic ethics and editorial guidelines.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**MEDIA OUTLETS MAINTAIN TRANSPARENCY IN THEIR USE OF AI SYSTEMS.**",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Any use of AI that has a significant impact on the production or distribution of journalistic content should be clearly disclosed and communicated to everyone receiving information alongside the relevant content.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Media outlets should maintain a public record of the AI systems they use and have used, detailing their purposes, scopes, and conditions of use.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**MEDIA OUTLETS ENSURE CONTENT ORIGIN AND TRACEABILITY.**",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Media outlets should, whenever possible, use state-of-the-art tools that guarantee the authenticity and provenance of published content, providing reliable details about its origin and any subsequent changes it may have undergone.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Any content not meeting these authenticity standards should be regarded as potentially misleading and should undergo thorough verification.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**JOURNALISM DRAWS A CLEAR LINE BETWEEN AUTHENTIC AND SYNTHETIC CONTENT.**",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Journalists and media outlets strive to ensure a clear and reliable distinction between content derived from the physical capture of the real world (such as photographs, and audio and video recordings) and that which is created or significantly altered using AI systems.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "They should favor the use of authentic footage and recordings to depict actual events.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Media outlets must avoid misleading the public in their use of AI technologies. In particular, they should refrain from creating or using AI-generated content mimicking real-world captures and recordings or realistically impersonating actual individuals.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**AI-DRIVEN CONTENT PERSONALIZATION AND RECOMMENDATION UPHOLDS THE DIVERSITY AND THE INTEGRITY OF INFORMATION.**",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In media outlets, the design and use of AI systems for automatic content personalization and recommendation should be guided by journalistic ethics. Such systems should respect information integrity and promote a shared understanding of relevant facts and viewpoints.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "They should highlight diverse and nuanced perspectives on various topics, fostering open-mindedness and democratic dialogue.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The use of such systems must be transparent, and users should whenever possible be given the option to disable them to ensure unfiltered access to editorial content.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**JOURNALISTS, MEDIA OUTLETS AND JOURNALISM SUPPORT GROUPS ENGAGE IN THE GOVERNANCE OF AI.**",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "As essential guardians of the right to information, journalists, media outlets and journalism support groups should play an active role in the governance of AI systems.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "They should be included in any global or international institutional oversight of AI governance and regulation.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "They should ensure that AI governance respects democratic values, and that diversity of people and cultures is reflected in the development of AI.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "They must remain at the forefront of knowledge in the field of AI. They are committed to examining and reporting on the impacts of AI with accuracy, nuance, and a critical mind.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**JOURNALISM UPHOLDS ITS ETHICAL AND ECONOMIC FOUNDATION IN ENGAGEMENTS WITH AI ORGANIZATIONS.**",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Access to journalistic content by AI systems should be governed by formal agreements that ensure the sustainability of journalism and uphold the long-term shared interests of the media and journalists.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "AI system owners must credit sources, respect intellectual property rights, and provide just compensation to rights holders. This compensation must be passed on to journalists through fair remuneration.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "AI system owners are also required to maintain a transparent and detailed record of the journalistic content utilized to train and feed their systems.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Rights holders must make the repurposing of their content by AI systems conditional on respect for the integrity of the information and the fundamental principles of journalistic ethics.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "They collectively call for AI systems to be designed and used in such a way as to guarantee high-quality, pluralistic and trustworthy information.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "**partners** **initiator:** reporters without borders (rsf) **partners:** asia-pacific broadcasting union (abu) collaboration on international ict policy in east and southern africa (cipesa) canadian journalism foundation (cjf) committee to protect journalists (cpj) dw akademie european federation of journalists (efj) european journalism centre (ejc) ethical journalism network (ejn) free press unlimited (fpu) global investigative journalism network (gijn) global forum for media development (gfmd) international consortium of investigative journalists (icij) international press institute (ipi) organized crime and corruption reporting project (occrp) pulitzer centre thomson foundation",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 48,
+    "matched": 47,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 48,
+        "B": "B13",
+        "matched_words": "7/82",
+        "text": "**partners** **initiator:** reporters without borders (rsf) **partners:** asia-pacific broadcasting union (abu) collaboration on international ict policy in east and southern africa (cipesa) canadian journalism foundation (cjf) committee to protect journalists (cpj) dw akademie european federation of journalists (efj) european journalism centre (ejc) ethical journalism network (ejn) free press unlimited (fpu) global investigative journalism network (gijn) global forum for media development (gfmd) international consortium of investigative journalists (icij) international press institute (ipi) organized crime and corruption reporting project (occrp) pulitzer centre thomson foundation"
+      }
+    ],
+    "source_coverage": 0.889,
+    "uncovered_chars": 912,
+    "uncovered_gaps": 4,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 177,
+        "length": 177,
+        "text": "# reporters without borders # source: https://rsf.org/en/parischarteraiandjournalism # date: 2023-11-10 # category: guideline **paris charter on ai and journalism** **summary**"
+      },
+      {
+        "char_start": 351,
+        "char_end": 366,
+        "length": 15,
+        "text": ". **preamble**"
+      },
+      {
+        "char_start": 2353,
+        "char_end": 2381,
+        "length": 28,
+        "text": ". **the ten principles** 1."
+      },
+      {
+        "char_start": 8496,
+        "char_end": 9188,
+        "length": 692,
+        "text": ". **partners** **initiator:** reporters without borders (rsf) **partners:** asia-pacific broadcasting union (abu) collaboration on international ict policy in east and southern africa (cipesa) canadian journalism foundation (cjf) committee to protect journalists (cpj) dw akademie european federation of journalists (efj) european journalism centre (ejc) ethical journalism network (ejn) free press unlimited (fpu) global investigative journalism network (gijn) global forum for media development (gfmd) international consortium of investigative journalists (icij) international press institute (ipi) organized crime and corruption reporting project (occrp) pulitzer centre thomson foundation"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 184,
+      "text": "# Reporters Without Borders\n# Source: https://rsf.org/en/paris-charter-ai-and-journalism\n# Date: 2023-11-10\n# Category: guideline\n\n**PARIS CHARTER ON AI AND JOURNALISM**\n\n**Summary**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 184,
+      "char_end": 362,
+      "text": "Published on November 10, 2023, by Reporters Without Borders (RSF) and 16 partner organizations, this charter represents the first global ethical benchmark for AI and journalism.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 362,
+      "char_end": 378,
+      "text": "\n\n**PREAMBLE**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 378,
+      "char_end": 667,
+      "text": "We, as representatives of the media and journalism community, acknowledge the transformative implications of artificial intelligence (AI) for humanity. We champion global cooperation to ensure AI upholds human rights, peace and democracy, and aligns with our shared aspirations and values.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 669,
+      "char_end": 1191,
+      "text": "The history of news and information is intertwined with technological progress. AI, spanning from basic automation to analytical and creative systems, introduces a new category of technologies with an unparalleled capacity to intersect with human thought, knowledge, and creativity. It represents a considerable shift in information gathering, truth seeking, storytelling, and the dissemination of ideas. As such, it will profoundly alter the technical, economic and social conditions of journalism and editorial practice.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1192,
+      "char_end": 1733,
+      "text": "AI systems have the potential, depending on their design, governance and application, to revolutionize the global information landscape. However, they also present a structural challenge to the right to information. The right to information consists in the freedom to seek, receive and access reliable information. It is rooted in the international legal framework, including the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, and the International Partnership for Information and Democracy.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1734,
+      "char_end": 1806,
+      "text": "This right underpins the fundamental freedoms of opinion and expression.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1808,
+      "char_end": 1999,
+      "text": "The social role of journalism and media outlets—serving as trustworthy intermediaries for society and individuals— is a cornerstone of democracy and enhances the right to information for all.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2000,
+      "char_end": 2204,
+      "text": "AI systems can greatly assist media outlets in fulfilling this role, but only if they are used transparently, fairly and responsibly in an editorial environment that staunchly upholds journalistic ethics.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2205,
+      "char_end": 2371,
+      "text": "In affirming these principles, we uphold the right to information, champion independent journalism, and commit to trustworthy news and media outlets in the era of AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2371,
+      "char_end": 2400,
+      "text": "\n\n**THE TEN PRINCIPLES**\n\n1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2400,
+      "char_end": 2481,
+      "text": "**JOURNALISM ETHICS GUIDE THE WAY MEDIA OUTLETS AND JOURNALISTS USE TECHNOLOGY.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2482,
+      "char_end": 2653,
+      "text": "Media outlets and journalists use technologies that enhance their capacity to fulfill their primary mission: ensuring everyone’s right to quality, trustworthy information.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2654,
+      "char_end": 2752,
+      "text": "The pursuit and achievement of this goal should drive their choices regarding technological tools.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2753,
+      "char_end": 3037,
+      "text": "The use and development of AI systems in journalism must uphold the core values of journalistic ethics, including truthfulness and accuracy, fairness, impartiality, independence, non-harm, non-discrimination, accountability, respect for privacy and for the confidentiality of sources.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3037,
+      "char_end": 3042,
+      "text": "\n\n2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3042,
+      "char_end": 3083,
+      "text": "**MEDIA OUTLETS PRIORITIZE HUMAN AGENCY**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3084,
+      "char_end": 3270,
+      "text": "Human decision-making must remain central to both longterm strategies and daily editorial choices. The use of AI systems should be a deliberate and well informed decision made by humans.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3271,
+      "char_end": 3578,
+      "text": "Editorial teams must clearly define the goals, scope, and usage conditions for each AI system. They must ensure a cross-sectional and continuous oversight of the impacts of deployed AI systems, ensure their strict compliance with their usage framework, and retain the ability to deactivate them at any time.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3578,
+      "char_end": 3583,
+      "text": "\n\n3. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3583,
+      "char_end": 3655,
+      "text": "**AI SYSTEMS USED IN JOURNALISM UNDERGO PRIOR, INDEPENDENT EVALUATION.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3656,
+      "char_end": 3811,
+      "text": "The AI systems used by the media and journalists should undergo an independent, comprehensive, and thorough evaluation involving journalism support groups.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3812,
+      "char_end": 3990,
+      "text": "This evaluation must robustly demonstrate adherence to the core values of journalistic ethics. These systems must respect privacy, intellectual property and data protection laws.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3991,
+      "char_end": 4158,
+      "text": "A clear accountability framework is established for any failure to meet these requirements. Systems that operate predictably and can be simply explained are preferred.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4158,
+      "char_end": 4163,
+      "text": "\n\n4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4163,
+      "char_end": 4233,
+      "text": "**MEDIA OUTLETS ARE ALWAYS ACCOUNTABLE FOR THE CONTENT THEY PUBLISH.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4234,
+      "char_end": 4438,
+      "text": "Media outlets assume editorial responsibility, including in their use of AI in gathering, processing, or disseminating information. They are liable and accountable for every piece of content they publish.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4439,
+      "char_end": 4610,
+      "text": "Responsibilities tied to the use of AI systems should be anticipated, outlined, and assigned to humans to ensure adherence to journalistic ethics and editorial guidelines.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4610,
+      "char_end": 4615,
+      "text": "\n\n5. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4615,
+      "char_end": 4682,
+      "text": "**MEDIA OUTLETS MAINTAIN TRANSPARENCY IN THEIR USE OF AI SYSTEMS.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4683,
+      "char_end": 4895,
+      "text": "Any use of AI that has a significant impact on the production or distribution of journalistic content should be clearly disclosed and communicated to everyone receiving information alongside the relevant content.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4896,
+      "char_end": 5040,
+      "text": "Media outlets should maintain a public record of the AI systems they use and have used, detailing their purposes, scopes, and conditions of use.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5040,
+      "char_end": 5045,
+      "text": "\n\n6. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5045,
+      "char_end": 5102,
+      "text": "**MEDIA OUTLETS ENSURE CONTENT ORIGIN AND TRACEABILITY.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5103,
+      "char_end": 5333,
+      "text": "Media outlets should, whenever possible, use state-of-the-art tools that guarantee the authenticity and provenance of published content, providing reliable details about its origin and any subsequent changes it may have undergone.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5334,
+      "char_end": 5473,
+      "text": "Any content not meeting these authenticity standards should be regarded as potentially misleading and should undergo thorough verification.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5473,
+      "char_end": 5478,
+      "text": "\n\n7. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5478,
+      "char_end": 5552,
+      "text": "**JOURNALISM DRAWS A CLEAR LINE BETWEEN AUTHENTIC AND SYNTHETIC CONTENT.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5553,
+      "char_end": 5823,
+      "text": "Journalists and media outlets strive to ensure a clear and reliable distinction between content derived from the physical capture of the real world (such as photographs, and audio and video recordings) and that which is created or significantly altered using AI systems.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5824,
+      "char_end": 5910,
+      "text": "They should favor the use of authentic footage and recordings to depict actual events.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5911,
+      "char_end": 6165,
+      "text": "Media outlets must avoid misleading the public in their use of AI technologies. In particular, they should refrain from creating or using AI-generated content mimicking real-world captures and recordings or realistically impersonating actual individuals.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6165,
+      "char_end": 6170,
+      "text": "\n\n8. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6170,
+      "char_end": 6282,
+      "text": "**AI-DRIVEN CONTENT PERSONALIZATION AND RECOMMENDATION UPHOLDS THE DIVERSITY AND THE INTEGRITY OF INFORMATION.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6283,
+      "char_end": 6550,
+      "text": "In media outlets, the design and use of AI systems for automatic content personalization and recommendation should be guided by journalistic ethics. Such systems should respect information integrity and promote a shared understanding of relevant facts and viewpoints.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6551,
+      "char_end": 6675,
+      "text": "They should highlight diverse and nuanced perspectives on various topics, fostering open-mindedness and democratic dialogue.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6676,
+      "char_end": 6841,
+      "text": "The use of such systems must be transparent, and users should whenever possible be given the option to disable them to ensure unfiltered access to editorial content.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6841,
+      "char_end": 6846,
+      "text": "\n\n9. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6846,
+      "char_end": 6938,
+      "text": "**JOURNALISTS, MEDIA OUTLETS AND JOURNALISM SUPPORT GROUPS ENGAGE IN THE GOVERNANCE OF AI.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6939,
+      "char_end": 7107,
+      "text": "As essential guardians of the right to information, journalists, media outlets and journalism support groups should play an active role in the governance of AI systems.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7108,
+      "char_end": 7219,
+      "text": "They should be included in any global or international institutional oversight of AI governance and regulation.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7220,
+      "char_end": 7366,
+      "text": "They should ensure that AI governance respects democratic values, and that diversity of people and cultures is reflected in the development of AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7367,
+      "char_end": 7544,
+      "text": "They must remain at the forefront of knowledge in the field of AI. They are committed to examining and reporting on the impacts of AI with accuracy, nuance, and a critical mind.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7544,
+      "char_end": 7550,
+      "text": "\n\n10. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7550,
+      "char_end": 7646,
+      "text": "**JOURNALISM UPHOLDS ITS ETHICAL AND ECONOMIC FOUNDATION IN ENGAGEMENTS WITH AI ORGANIZATIONS.**",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7647,
+      "char_end": 7848,
+      "text": "Access to journalistic content by AI systems should be governed by formal agreements that ensure the sustainability of journalism and uphold the long-term shared interests of the media and journalists.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7849,
+      "char_end": 8051,
+      "text": "AI system owners must credit sources, respect intellectual property rights, and provide just compensation to rights holders. This compensation must be passed on to journalists through fair remuneration.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8052,
+      "char_end": 8202,
+      "text": "AI system owners are also required to maintain a transparent and detailed record of the journalistic content utilized to train and feed their systems.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8203,
+      "char_end": 8389,
+      "text": "Rights holders must make the repurposing of their content by AI systems conditional on respect for the integrity of the information and the fundamental principles of journalistic ethics.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8390,
+      "char_end": 8536,
+      "text": "They collectively call for AI systems to be designed and used in such a way as to guarantee high-quality, pluralistic and trustworthy information.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8536,
+      "char_end": 9262,
+      "text": "\n\n**PARTNERS**\n\n**INITIATOR:**\nReporters Without Borders (RSF)\n\n**PARTNERS:**\n- Asia-Pacific Broadcasting Union (ABU)\n- Collaboration on International ICT Policy in East and Southern Africa (CIPESA)\n- Canadian Journalism Foundation (CJF)\n- Committee to Protect Journalists (CPJ)\n- DW Akademie\n- European Federation of Journalists (EFJ)\n- European Journalism Centre (EJC)\n- Ethical Journalism Network (EJN)\n- Free Press Unlimited (FPU)\n- Global Investigative Journalism Network (GIJN)\n- Global Forum for Media Development (GFMD)\n- International Consortium of Investigative Journalists (ICIJ)\n- International Press Institute (IPI)\n- Organized Crime and Corruption Reporting Project (OCCRP)\n- Pulitzer Centre\n- Thomson Foundation",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}
