@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <meta charset="UTF-8" />
+
+        <link rel="shortcut icon" href="images/favicon.png" />
+
+        <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <title>Chatbots, Generative AI, and Scholarly Manuscripts || WAME</title>
+
+        <link rel="stylesheet" href="wame-content/plugins/sitepress-multilingual-cms/res/css/language-selector-10589.css" type="text/css" media="all" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel="alternate" hreflang="en-US" href="index.html" />
+        <link rel="alternate" type="application/rss+xml" title="" href="feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="" href="comments/feed/index.html" />
+        <script type="text/javascript">
+            window._wpemojiSettings = {"baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/72x72\/", "ext": ".png", "source": {"concatemoji": "js/wp-emoji-release.min.js?ver=4.5.3"}};
+            !function (a, b, c) {
+                function d(a) {
+                    var c, d, e, f = b.createElement("canvas"), g = f.getContext && f.getContext("2d"), h = String.fromCharCode;
+                    if (!g || !g.fillText)
+                        return!1;
+                    switch (g.textBaseline = "top", g.font = "600 32px Arial", a) {
+                        case"flag":
+                            return g.fillText(h(55356, 56806, 55356, 56826), 0, 0), f.toDataURL().length > 3e3;
+                        case"diversity":
+                            return g.fillText(h(55356, 57221), 0, 0), c = g.getImageData(16, 16, 1, 1).data, d = c[0] + "," + c[1] + "," + c[2] + "," + c[3], g.fillText(h(55356, 57221, 55356, 57343), 0, 0), c = g.getImageData(16, 16, 1, 1).data, e = c[0] + "," + c[1] + "," + c[2] + "," + c[3], d !== e;
+                        case"simple":
+                            return g.fillText(h(55357, 56835), 0, 0), 0 !== g.getImageData(16, 16, 1, 1).data[0];
+                        case"unicode8":
+                            return g.fillText(h(55356, 57135), 0, 0), 0 !== g.getImageData(16, 16, 1, 1).data[0]
+                    }
+                    return!1
+                }
+                function e(a) {
+                    var c = b.createElement("script");
+                    c.src = a, c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c)
+                }
+                var f, g, h, i;
+                for (i = Array("simple", "flag", "unicode8", "diversity"), c.supports = {everything:!0, everythingExceptFlag:!0}, h = 0; h < i.length; h++)
+                    c.supports[i[h]] = d(i[h]), c.supports.everything = c.supports.everything && c.supports[i[h]], "flag" !== i[h] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[i[h]]);
+                c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () {
+                    c.DOMReady = !0
+                }, c.supports.everything || (g = function () {
+                    c.readyCallback()
+                }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", g, !1), a.addEventListener("load", g, !1)) : (a.attachEvent("onload", g), b.attachEvent("onreadystatechange", function () {
+                    "complete" === b.readyState && c.readyCallback()
+                })), f = c.source || {}, f.concatemoji ? e(f.concatemoji) : f.wpemoji && f.twemoji && (e(f.twemoji), e(f.wpemoji)))
+            }(window, document, window._wpemojiSettings);</script>
+        <style type="text/css">
+            img.wp-smiley,
+            img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 .07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+            }
+        </style>
+        <link rel='stylesheet' id='contact-form-7-css'  href='wame-content/plugins/contact-form-7/includes/css/styles-35705.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='rs-plugin-settings-css'  href='wame-content/plugins/revslider/public/assets/css/settings-54028.css' type='text/css' media='all' />
+        <style id='rs-plugin-settings-inline-css' type='text/css'>
+            @import url(https://fonts.googleapis.com/css?family=Roboto:500,300,400,700);.tp-caption.roundedimage img{
+                -webkit-border-radius:300px;
+                -moz-border-radius:300px;
+                border-radius:300px;
+                font-family:'Roboto',sans-serif;
+                font-size:14px
+            }
+            .tp-caption a{
+                color:#ff7302;
+                text-shadow:none;
+                -webkit-transition:all 0.2s ease-out;
+                -moz-transition:all 0.2s ease-out;
+                -o-transition:all 0.2s ease-out;
+                -ms-transition:all 0.2s ease-out
+            }
+            .tp-caption a:hover{
+                color:#ffa902
+            }
+        </style>
+        <link rel='stylesheet' id='style_css-css'  href='wame-content/themes/style-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='flexslider_css-css'  href='wame-content/themes/css/flexslider-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='bootstrap_css-css'  href='wame-content/themes/css/bootstrap-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='font-awesome_css-css'  href='wame-content/themes/css/font-awesome-44136.css' type='text/css' media='all' />
+
+        <link rel='stylesheet' id='widget_css-css'  href='wame-content/themes/css/widget-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='shortcode_css-css'  href='wame-content/themes/css/shortcode-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='mediaelement-css'  href='wame-includes/js/mediaelement/mediaelementplayer.min-63976.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='wp-mediaelement-css'  href='wame-includes/js/mediaelement/wp-mediaelement.min-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='responsive_css-css'  href='wame-content/themes/css/risponsive-44136.css' type='text/css' media='all' />
+        <link rel='stylesheet' id='shop_css-css'  href='wame-content/themes/css/shop-44136.css' type='text/css' media='all' />
+        <script type='text/javascript' src='https://s7.addthis.com/js/250/addthis_widget.js?ver=true#pubid=xa-4e4412d954dccc64'></script>
+        <script type='text/javascript' src='wame-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+        <script type='text/javascript' src='wame-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+        <script type='text/javascript' src='wame-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
+        <script type='text/javascript' src='wame-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+
+        <link rel='https://api.w.org/' href='wame-json/index.html' />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc-51008.php" />
+        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wame-includes/wlwmanifest.xml" /> 
+
+        <link rel="alternate" type="application/json+oembed" href="wame-json/oembed/1.0/embed/index-61827.html" />
+        <link rel="alternate" type="text/xml+oembed" href="wame-json/oembed/1.0/embed/index-57541.html" />
+        <meta name="generator" content="WPML ver:3.4.1 stt:1,4,3,2;" />
+
+
+        <style type="text/css">#lang_sel_list a.lang_sel_sel, #lang_sel_list a.lang_sel_sel:visited{
+            color:#444444;
+        }
+        #lang_sel_list a:hover, #lang_sel_list a.lang_sel_sel:hover{
+            color:#000000;
+        }
+        #lang_sel_list a.lang_sel_sel, #lang_sel_list a.lang_sel_sel:visited{
+            background-color:#ffffff;
+        }
+        #lang_sel_list a.lang_sel_sel:hover{
+            background-color:#eeeeee;
+        }
+        #lang_sel_list ul a.lang_sel_other, #lang_sel_list ul a.lang_sel_other:visited{
+            color:#444444;
+        }
+        #lang_sel_list ul a.lang_sel_other:hover{
+            color:#000000;
+        }
+        #lang_sel_list ul a.lang_sel_other, #lang_sel li ul a:link, #lang_sel_list ul a.lang_sel_other:visited{
+            background-color:#ffffff;
+        }
+        #lang_sel_list ul a.lang_sel_other:hover{
+            background-color:#eeeeee;
+        }
+        #lang_sel_list a, #lang_sel_list a:visited{
+            border-color:#cdcdcd;
+        }
+        #lang_sel_list  ul{
+            border-top:1px solid #cdcdcd;
+        }</style>
+
+    </head>
+
+    <body class="page page-id-6835 page-template-default" style="background: url()"  >
+
+
+        <style type="text/css" >
+
+            /* -- Theme Color -- */
+
+            .colr, .colrhvr:hover, .share-post a:hover, .colrhover:hover, .woocommerce-tabs ul.tabs li.active a,.services article:hover figure a,.services article:hover h5,.widget-recent-blog article .text h6 a:hover{
+
+                color:#29688a !important;
+
+            }
+
+            ul li.current-menu-parent ul li a{
+
+                background-color:none;
+
+            }
+
+            /* -- Theme Background Color -- */
+
+            .bgcolr, blockquote:after, .bgcolrhvr:hover,nav.navigation > ul > li:hover > a,.navigation ul  ul a:hover,.ticker-wrapp .flexslider .flex-direction-nav a:hover,
+
+            .widget_search input[type="submit"],
+
+            .widget_categories ul li:hover,
+
+            .widget_categories ul li:hover a,
+
+            .widget_categories ul li:hover a:before,
+
+            .widget_archive ul li:hover,
+
+            .widget_recent_entries ul li:hover,
+
+            .widget_recent_entries ul li:hover,
+
+            .widget_recent_comments ul li:hover,
+
+            .widget_links ul li:hover,
+
+            .widget_meta ul li:hover,
+
+            .widget_archive ul li:hover a,
+
+            .widget_recent_entries ul li:hover a,
+
+            .widget_recent_entries ul li:hover a,
+
+            .widget_recent_comments ul li:hover a,
+
+            .widget_links ul li:hover a,
+
+            .widget_meta ul li:hover a,
+
+            .widget_pages ul li a:hover,
+
+            .widget_nav_menu ul li a:hover,
+
+            #footer-widgets .widget_pages ul li a:hover,
+
+            #wp-calendar caption, .pagination ul li a.active:before, .woocommerce-pagination ul li .current:before, #undercontruction .countdownit span.countdown_section,
+
+            .dropcap:first-letter, .dropcap p:first-letter, .dropcaptwo:first-letter, .page-links span:hover, .gallerysec ul li:hover figure figcaption i, .breadcrumb,
+
+            .navigation ul > li.current-menu-item > a, .navigation ul > li.current_page_item > a, .navigation ul > li.current-menu-ancestor > a,
+
+            .password_protected form input[type="submit"],.cart-sec span.amount,
+
+            .woocommerce .button,
+
+            .widget_recent_comments ul li:hover,
+
+            .cart-secc span.amount,
+
+            .woocommerce-message:before,
+
+            .woocommerce-error:before,
+
+            .woocommerce-info:before, .rev_slider_wrapper, .mercy-style{
+
+                background-color:#29688a !important;
+
+            }
+
+
+
+            #wp-calendar tfoot a:hover, .widget_tag_cloud .tagcloud a:hover{
+
+                background:#29688a !important;
+
+            }
+
+
+
+            /* -- Theme Border Color -- */
+
+            .bdrcolr, .pagination ul li a.active, .woocommerce-pagination ul li .current,
+
+            .woocommerce-message, .woocommerce-error, .woocommerce-info, .woocommerce-pagination ul li .current:before{
+
+                border-color:#29688a !important;
+
+            }
+
+            /* -- Theme transparent Border Color -- */
+
+            .heart-active:before{
+
+                border-color: transparent #29688a transparent transparent;
+
+            }
+
+            blockquote:before{
+
+                border-left-color:#29688a !important;
+
+            }
+
+            .services article:hover figure a:before{
+
+                border-color: transparent  #29688a;
+
+            }
+
+        </style>
+
+
+        <!-- Wrapper Start -->
+
+        <div class="" id="wrappermain-pix">
+
+
+            <!-- Header Start -->
+
+
+<style>
+    body a{ text-decoration:none}
+    .breadcrumb.default-image{display:block}
+    
+    #logo.float-left img {
+	height: auto;
+	width: 200px;
+}
+
+
+nav.navigation > ul > li > a { 
+  padding: 0px 10px;}
+</style>
+
+<header id="header" class="headermain fullwidth">
+    <!---------- Top Header start ---------->
+    <div class="topmenu fullwidth">
+        <div class="container">
+
+            <div class="float-right">
+                
+                <div class="language-sec">
+                </div>
+                
+                <!----------- Login Menu section start  -------->
+                <div class="top_nav float-right ">
+
+                    <ul id="top-nav" >
+                                                    <li id="menu-item-6442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6442"><a href="register.php">Become a member</a></li>
+                            <li id="menu-item-6443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6443"><a href="login.php">Login</a></li>
+                                            </ul>
+                </div>
+                <!---------- Login Menu section end ---------->
+            </div>
+        </div>
+    </div>
+<!---------- Top Header end ---------->
+
+
+<!---------- Navigation section start ---------->
+    <div id="mainheader" class="fullwidth">
+
+        <div class="container">
+<!---------- logo start ---------->
+            <div id="logo" class="float-left">
+                <a href="index.php">
+                    <img src="wame-content/logo.png" width="187"  alt="WAME-LOGO" title="WAME" />
+                </a>
+            </div>
+<!---------- Logo end ---------->
+      
+
+            <div id="rightheader" class="flaot-right">
+                <!---------- Search section start ---------->
+               <form action="search.php" id="searchform" method="get" role="search">
+                    <div class="searcharea float-right">
+                        <a href="#searchbox" class="btnsearch"><em class="fa fa-search"></em></a>
+                        <div id="searchbox">
+                            <input type="text" name="q" placeholder="Search for:"><button type="submit" class="bgcolr"><em class="fa fa-search"></em></button>
+                        </div>
+                    </div>
+                </form>  
+                <!---------- Search section end ---------->
+
+                
+                <nav class="navigation float-right menu">
+                    <button type="button" class="toggle-button">
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                    </button>
+
+
+                    <ul id="menus" class="sea-menu">
+                        <li id="menu-item-6496" class="menu-item menu-item-type-post_type menu-item-object-page  page-item-6491  menu-item-6496"><a href="index.php"><i class="icon-home"></i>  Home</a></li>
+
+                        	  
+
+                        <li id="menu-item-6692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6692 "><a href="#">About Us</a>
+                            <ul class="sub-menu">
+                                                                        <li id="menu-item-6694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6694"><a 
+                                                                                                href="about"
+                                                                                                >About Us</a></li>
+                                                                                    <li id="menu-item-6695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6695"><a 
+                                                                                                href="wame-history"
+                                                                                                >WAME History</a></li>
+                                                                                    <li id="menu-item-6696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6696"><a 
+                                                                                                href="wame-executive-board-and-committees"
+                                                                                                >WAME Board of Directors and Committees</a></li>
+                                                                                    <li id="menu-item-6697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6697"><a 
+                                                                                                href="membership"
+                                                                                                >Membership</a></li>
+                                                                                    <li id="menu-item-6698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6698"><a 
+                                                                                                href="bylaws-of-the-world-association-of-medical-ed"
+                                                                                                >Bylaws of the World Association of Medical Editors</a></li>
+                                                                                    <li id="menu-item-6699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6699"><a 
+                                                                                                href="journals-whose-editors-belong-to-wame"
+                                                                                                >Journals of WAME Member Editors</a></li>
+                                                                        </ul>
+                        </li>
+
+
+
+                                                <li id="menu-item-669211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-669211 current-menu-item page_item current_page_item "><a href="policies">Policies</a>
+
+                            
+                                <ul class="sub-menu">
+                                                                                <li id="menu-item-669411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669411"><a 
+                                                                                                        href="policies"
+                                                                                                        >Policies </a></li>
+                                                                                            <li id="menu-item-669412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669412"><a 
+                                                                                                        href="recommendations-on-publication-ethics-policies-for-medical-journals"
+                                                                                                        >Recommendations on Publication Ethics Policies for Medical Journals</a></li>
+                                                                                            <li id="menu-item-669413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669413"><a 
+                                                                                                        href="principles-of-transparency-and-best-practice-in-scholarly-publishing"
+                                                                                                        >Principles of Transparency and Best Practice in Scholarly Publishing</a></li>
+                                                                                            <li id="menu-item-669414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669414"><a 
+                                                                                                        href="wame-professionalism-code-of-conduct"
+                                                                                                        >WAME Professionalism Code of Conduct</a></li>
+                                                                                            <li id="menu-item-669415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669415"><a 
+                                                                                                        href="conflict-of-interest-in-peer-reviewed-medical-journals"
+                                                                                                        >Conflict of Interest in Peer-Reviewed Medical Journals</a></li>
+                                                                                            <li id="menu-item-669416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669416"><a 
+                                                                                                        href="editorial-independence"
+                                                                                                        >The Relationship Between Journal Editors-in-Chief and Owners (formerly titled Editorial Independence)</a></li>
+                                                                                            <li id="menu-item-669417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669417"><a 
+                                                                                                        href="identifying-predatory-or-pseudo-journals"
+                                                                                                        >Identifying Predatory or Pseudo-Journals</a></li>
+                                                                                            <li id="menu-item-669418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669418"><a 
+                                                                                                        href="geopolitical-intrusion-on-editorial-decisions"
+                                                                                                        >Geopolitical Intrusion on Editorial Decisions</a></li>
+                                                                                            <li id="menu-item-669419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669419"><a 
+                                                                                                        href="promoting-global-health"
+                                                                                                        >Promoting Global Health</a></li>
+                                                                                            <li id="menu-item-669420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669420"><a 
+                                                                                                        href="authorship"
+                                                                                                        >Authorship</a></li>
+                                                                                            <li id="menu-item-669421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669421"><a 
+                                                                                                        href="ghost-writing-initiated-commercial-companies"
+                                                                                                        >Ghost Writing Initiated by Commercial Companies</a></li>
+                                                                                            <li id="menu-item-669422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669422"><a 
+                                                                                                        href="best-practices-for-peer-reviewer-selection-and-contact-to-prevent-peer-review-manipulation-by-authors"
+                                                                                                        >Best Practices for Peer Reviewer Selection and Contact to Prevent Peer Review Manipulation by Authors</a></li>
+                                                                                            <li id="menu-item-669423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669423"><a 
+                                                                                                        href="registration-clinical-trials"
+                                                                                                        >The Registration of Clinical Trials</a></li>
+                                                                                            <li id="menu-item-669424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669424"><a 
+                                                                                                        href="page2.php?id=106"
+                                                                                                        >Chatbots, Generative AI, and Scholarly Manuscripts</a></li>
+                                                                                            <li id="menu-item-669425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669425"><a 
+                                                                                                        href="definition-of-a-peer-reviewed-journal"
+                                                                                                        >Definition of a Peer-Reviewed Journal</a></li>
+                                                                                </ul>
+                                                    </li>
+
+
+                        
+                        <li id="menu-item-669211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-669211"><a href="resources">Resources</a>
+
+                            
+                                <ul class="sub-menu">
+                                                                                <li id="menu-item-669411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669411"><a 
+
+
+                                                                                                            href="syllabus-for-prospective-and-newly-appointed-editors"
+                                                    
+                                                    >Syllabus for Prospective and Newly Appointed Editors</a></li>
+                                                                                            <li id="menu-item-669412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669412"><a 
+
+
+                                                                                                            href="ethics-web-resources"
+                                                    
+                                                    >Ethics Web Resources</a></li>
+                                                                                            <li id="menu-item-669413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669413"><a 
+
+
+                                                                                                            href="other-organizations-for-medical-editors"
+                                                    
+                                                    >Other Organizations for Medical Journal Editors</a></li>
+                                                                                            <li id="menu-item-669414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669414"><a 
+
+
+                                                                                                            href="page2.php?id=76"
+                                                    
+                                                    >Covid-19 Resources</a></li>
+                                                                                            <li id="menu-item-669415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669415"><a 
+
+
+                                                                                                            href="manuscript-submission-checklist "
+                                                    
+                                                    >WAME Manuscript Submission Checklist </a></li>
+                                                                                            <li id="menu-item-669416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669416"><a 
+
+
+                                                                                                            href="page2.php?id=123"
+                                                    
+                                                    >WAME Newsletters 2020-2026 (Membership required to access)</a></li>
+                                                                                            <li id="menu-item-669417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669417"><a 
+
+
+                                                                                                            href="resources"
+                                                    
+                                                    >Resources for Medical Journal Editors </a></li>
+                                                                                </ul>
+
+
+                                                    </li>
+                        
+                        
+                        
+                        <li id="menu-item-6496" class="menu-item menu-item-type-post_type menu-item-object-page  page-item-6491  menu-item-6496"><a href="wame-elearning-program.php"><i class="icon-home"></i> eLP</a></li>
+                        
+                        
+                        
+                        
+                                                    <li id="menu-item-6233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6233 "><a
+
+                                                                            href="support-wame"
+                                                                        >Donate</a></li>
+                                
+
+                        
+
+
+
+
+
+
+
+
+
+                        <li id="menu-item-6252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6252 "><a href="#">News</a>
+                            <ul class="sub-menu">
+                            
+                               <li id="menu-item-78199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7890"><a href="news-listing.php">Latest News</a></li>
+                               
+                               
+                                    <li id="menu-item-78199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7890"><a href="announcement.php">Announcements</a></li>
+                            
+                                <!--<li id="menu-item-78199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7890"><a href="journal-announcements">Journal Announcements</a></li>-->
+
+
+
+                                                            </ul>
+                        </li>
+
+
+
+                        <li id="menu-item-6250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250 "><a href="#">Events</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-6251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250 "><a href="events-listing.php">Upcoming Events</a></li>
+                                <li id="menu-item-6252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250 "><a href="past-event-details.php">Past Events</a></li>
+
+                                                            </ul>
+                        </li>
+
+                        <li id="menu-item-6253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6253 "><a href="contactus.php">Contact Us</a>
+
+
+
+
+                            
+
+                        </li> 
+
+
+
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+    </div>
+<!---------- Navigation section end ---------->
+</header>
+
+<style>body{font-family: Sans-Serif !important;}</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
+
+<script>
+// menu toggle script
+    $(document).ready(function ()
+    {
+        $('.toggle-button').click(function ()
+        {
+            $('.sea-menu').toggle();
+            $('.menu').toggleClass('open');
+            $('.sea-menu').toggleClass('animated slideInRight');
+        });
+        $('.sea-menu li').find('ul').before('<span class="fa fa-plus"></span>');
+        $('.sea-menu li .fa-plus').click(function ()
+        {
+            $(this).next('ul').slideToggle();
+            $(this).toggleClass('fa-minus');
+        });
+
+        if ($('.sea-menu ul ul').find('li').length > 10)
+        {
+            $(this).parent('ul').addClass('moreli');
+        }
+    });
+
+</script>
+
+            <!-- Header Close -->
+
+
+            <script type="text/javascript">
+
+            jQuery(document).ready(function () {
+
+                cs_menu_sticky();
+            });
+            </script>
+
+
+
+            <div class="breadcrumb default-image backcolr">
+
+                <div class="container">
+                    <div class="breadcrumb-inner">
+                        <div class="subtitle"><h1 class="cs-page-title">Chatbots, Generative AI, and Scholarly Manuscripts</h1></div><div class="breadcrumbs"></div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="header_element"></div>
+            <div id="main" role="main">
+
+                <!-- Container Start -->
+
+                <div class="container">
+
+                    <!-- Row Start -->
+
+                    <div class="row">
+
+
+
+
+                        <div class="col-md-12 ">
+
+                            <div class="rich_editor_text"><h2>Chatbots, Generative AI, and Scholarly Manuscripts</h2>
+
+<p><span style="color:#000000"><strong><span style="font-size:13.5pt">W<span style="font-size:18px">AME Recommendations&nbsp;</span></span></strong></span><span style="font-size:18px"><strong>on Chatbots and Generative Artificial&nbsp;Intelligence in Relation to Scholarly Publications</strong></span></p>
+
+<p><a href="#Spanish"><em><span style="font-size:16px">See Spanish language version in&nbsp;</span></em><span style="font-size:16px"><em>Colombia M&eacute;dica</em></span></a></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">Revised May 31, 2023</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px"><span style="color:#000000">Chris Zielinski (1), Margaret A. Winker (2), Rakesh Aggarwal (3), Lorraine E. Ferris (4), Markus Heinemann (5), Jose Florencio Lape&ntilde;a, Jr (6), Sanjay A. Pai (7), Edsel Ing (8), Leslie Citrome (9), Murad Alam (10), Michael Voight (11), Farrokh Habibzadeh (12), on behalf of the WAME Board</span></span></p>
+
+<ol>
+	<li><span style="font-size:14px">Vice President, WAME; <span style="color:black">Centre for Global Health, University of Winchester, UK</span></span></li>
+	<li><span style="font-size:14px">Trustee, WAME; US</span></li>
+	<li><span style="font-size:14px">President, WAME; Associate Editor, <em>Journal of Gastroenterology and Hepatology</em>; Director, Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry, India</span></li>
+	<li><span style="font-size:14px">Trustee, WAME; Professor, Dalla Lana School of Public Health, University of Toronto, Canada</span></li>
+	<li><span style="font-size:14px">Treasurer, WAME; Editor<span style="color:black">-in-Chief, <em>The Thoracic and Cardiovascular Surgeon, </em>Professor, Universitaetsmedizin Mainz, Germany</span></span></li>
+	<li><span style="font-size:14px">Secretary, WAME; Editor-in-Chief, <em>Philippine Journal of Otolaryngology Head &amp; Neck Surgery; </em>Professor, University of the Philippines Manila</span></li>
+	<li><span style="font-size:14px">Director, WAME; Working Committee, <em>The National Medical Journal of India</em> </span></li>
+	<li><span style="font-size:14px">Director, WAME; Section Editor, <em>Canadian Journal of Ophthalmology</em>; Professor, University of Toronto and <span style="color:black">University of Alberta, Canada</span></span></li>
+	<li><span style="font-size:14px">Director, WAME<span style="color:black">; Editor-in-Chief, <em>Current Medical Research and Opinion</em>; </span>Topic Editor for Psychiatry for <em>Clinical Therapeutics</em>; <span style="color:black">Clinical Professor of Psychiatry &amp; Behavioral Sciences, New York Medical College, US</span></span></li>
+	<li><span style="font-size:14px"><span style="color:black">Director, WAME; Editor-in-Chief, <em>Archives of Dermatological Research; </em>Professor,<em> </em>Northwestern University, US</span></span></li>
+	<li><span style="font-size:14px"><span style="color:black">Director, WAME; Executive Editor-in-Chief; <em>International Journal of Sports Physical Therapy;</em> Professor, Belmont University School of Physical Therapy, US </span></span></li>
+	<li><span style="font-size:14px"><span style="color:black">Past President, WAME; Editorial Consultant, <em>The Lancet</em>; Associate Editor, <em>Frontiers in Epidemiology</em>; Iran </span></span></li>
+</ol>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>Introduction</strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><em>This statement revises our earlier &ldquo;<a href="https://wame.org/page3.php?id=110">WAME Recommendations on ChatGPT and Chatbots in Relation to Scholarly Publications</a>&rdquo; (January 20, 2023). The revision reflects the proliferation of chatbots and their expanding use in scholarly publishing over the last few months, as well as emerging concerns regarding lack of authenticity of content when using chatbots. These Recommendations are intended to inform editors and help them develop policies for the use of chatbots in papers published in their journals. They aim to help authors and reviewers understand how best to attribute the use of chatbots in their work, and to address the need for all journal editors to have access to manuscript screening tools. In this rapidly evolving field, we will continue to modify these recommendations as the software and its applications develop. </em></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">A <strong><em>chatbot</em></strong> is a tool &ldquo;[d]riven by [artificial intelligence], automated rules, natural-language processing (NLP), and machine learning (ML)&hellip;[to] process data to deliver responses to requests of all kinds.&rdquo; (1) Artificial intelligence (AI) is &ldquo;the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.&rdquo; (2) </span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">&ldquo;Generative modeling is an artificial intelligence technique that generates synthetic artifacts by analyzing training examples; learning their patterns and distribution; and then creating realistic facsimiles. <strong><em>Generative AI</em></strong> (GAI) uses generative modeling and advances in deep learning (DL) to produce diverse content at scale by utilizing existing media such as text, graphics, audio, and video.&rdquo; (3, 4)</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">Chatbots are activated by a plain-language instruction, or &ldquo;prompt,&rdquo; provided by the user. They generate responses using statistical and probability-based language models. (5) This output has some characteristic properties. It is usually linguistically accurate and fluent but, to date, it is often compromised in various ways. For example, chatbot output currently carries the risk of including biases, distortions, irrelevancies, misrepresentations, and plagiarism &ndash; many of which are caused by the algorithms governing its generation and heavily dependent on the contents of the materials used in its training. Consequently, there are concerns about the effects of chatbots on knowledge creation and dissemination &ndash; including their potential to spread and amplify mis- and disinformation (6) &ndash; and their broader impact on jobs and the economy, as well as the health of individuals and populations. New legal issues have also arisen in connection with chatbots and generative AI. (7)</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">Chatbots retain the information supplied to them, including content and prompts, and may use this information in future responses. (8) Therefore, scholarly content that is generated or edited using AI would be retained and as a result, could potentially appear in future responses, further increasing the risk of inadvertent plagiarism on the part of the user and any future users of the technology. Anyone who needs to maintain confidentiality of a document, including authors, editors, and reviewers, should be aware of this issue before considering using chatbots to edit or generate work. (9) </span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">Chatbots and their applications illustrate the powerful possibilities of generative AI, as well as the risks. These Recommendations seek to suggest a workable approach to valid concerns about the use of chatbots in scholarly publishing.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>A note on changes introduced since the previous WAME Recommendations</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:16px"><em>A new recommendation (#4) has been added to the four original principal recommendations: 1) Only humans can be authors; 2) Authors should acknowledge the sources of their materials; 3) Authors must take public responsibility for their work; 4) </em><em><span style="color:black">Editors and reviewers should specify, to authors and each other, any use of chatbots in evaluation of the manuscript and generation of reviews and correspondence;</span></em><em> and 5) Editors need appropriate digital tools to deal with the effects of chatbots on publishing.</em></span></li>
+	<li><span style="font-size:16px"><em>In addition, this revision acknowledges that chatbots are used to perform different functions in scholarly publications. Currently, individuals in scholarly publishing may use chatbots for: 1) simple word-processing tasks (analogous to, and an extension of, word-processing and grammar-checking software), 2) the generation of ideas and text, and 3) substantive research. The Recommendations have been tailored for application to these different uses.</em></span></li>
+</ul>
+
+<p style="text-align:center"><span style="font-size:18px"><span style="color:#000000"><strong>WAME Recommendations on</strong></span></span></p>
+
+<p style="text-align:center"><span style="font-size:18px"><span style="color:#000000"><strong>Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publication</strong></span></span></p>
+
+<p><strong>WAME Recommendation 1:<em> Chatbots cannot be authors.</em></strong><span style="color:#000000; font-size:16px"> Journals have begun to publish articles in which chatbots such as Bard, Bing and ChatGPT have been used, with some journals listing chatbots as co-authors. The legal status of an author differs from country to country but under most jurisdictions, an author must be a legal person. Chatbots do not meet the International Committee of Medical Journal Editors (ICMJE) authorship criteria, particularly that of being able to give &ldquo;final approval of the version to be published&rdquo; and &ldquo;to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.&rdquo; (10) No AI tool can &ldquo;understand&rdquo; a conflict-of-interest statement, and does not have the legal standing to sign a statement. Chatbots have no affiliation independent of their developers. Since authors submitting a manuscript must ensure that all those named as authors meet the authorship criteria, chatbots cannot be included as authors.</span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendation 2: <em>Authors should be transparent when chatbots are used and provide information about how they were used.</em></strong> The extent and type of use of chatbots in journal publications should be indicated.<strong><em> </em></strong>This is consistent with the ICMJE recommendation of acknowledging writing assistance (11) and providing in the Methods detailed information about how the study was conducted and the results generated. (12)</span></span></p>
+
+<p style="margin-left:0.25in"><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendations 2.1: <em>Authors submitting a paper in which a chatbot/AI was used to draft new text should note such use in the acknowledgment; all prompts used to generate new text, or to convert text or text prompts into tables or illustrations, should be specified. </em></strong></span></span></p>
+
+<p style="margin-left:0.25in"><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendation 2.2: <em>When an AI tool such as a chatbot is used to carry out or generate analytical work, help report results (</em>e.g.<em>, generating tables or figures), or write computer codes, this should be stated in the body of the paper, in both the Abstract and the Methods section. In the interests of enabling scientific scrutiny, including replication and identifying falsification, the full prompt used to generate the research results, the time and date of query, and the AI tool used and its version, should be provided.</em></strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendation 3: </strong><strong><em>Authors are responsible for material provided by a chatbot in their paper (including the accuracy of what is presented and the absence of plagiarism) and for appropriate attribution of all sources (including original sources for material generated by the chatbot). </em></strong>Authors of articles written with the help of a chatbot are responsible for the material generated by the chatbot, including its accuracy. Noting that plagiarism is &ldquo;the practice of taking someone else&#39;s work or ideas and passing them off as one&#39;s own&rdquo; (13), not just the verbatim repetition of previously published text. It is the author&rsquo;s responsibility to ensure that the content reflects the author&#39;s data and ideas and is not plagiarism, fabrication or falsification. Otherwise, it is potentially scientific misconduct to offer such material for publication, irrespective of how it was written. Similarly, authors must ensure that all quoted material is appropriately attributed, including full citations, and that the cited sources support the chatbot&rsquo;s statements. Since a chatbot may be designed to omit sources that oppose viewpoints expressed in its output, it is the authors&rsquo; responsibility to find, review and include such counterviews in their articles.&nbsp;</span>(Of course, such biases are also found in human authors.)&nbsp;<span style="color:#000000">Authors should identify the chatbot used and the specific prompt (query statement) used with the chatbot. They should specify what they have done to mitigate the risk of plagiarism, provide a balanced view, and ensure the accuracy of all their references.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendation 4:<em> </em></strong><strong><em>Editors and peer reviewers should specify, to authors and each other, any use of chatbots in the evaluation of the manuscript and generation of reviews and correspondence. If they use chatbots in their communications with authors and each other, they should explain how they were used.</em></strong><em> </em>Editors and reviewers are responsible for any content and citations generated by a chatbot. They should be aware that chatbots retain the prompts fed to them, including manuscript content, and supplying an author&#39;s manuscript to a chatbot breaches confidentiality of the submitted manuscript. <strong> </strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>WAME Recommendation 5:<em> Editors need appropriate tools to help them detect content generated or altered by AI. Such tools should be made available to editors regardless of ability to pay for them, for the good of science and the public, and to help ensure the integrity of healthcare information and reducing the risk of adverse health outcomes. </em></strong>Many medical journal editors use manuscript evaluation approaches that were not designed to deal with AI innovations and industries, including manipulated plagiarized text and images and papermill-generated documents. They have already been at a disadvantage when trying to differentiate the legitimate from the fabricated, and chatbots take this challenge to a new level. Editors need access to tools that will help them evaluate content efficiently and accurately. This is of particular importance to editors of medical journals where the adverse consequences of misinformation include potential harms to people.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><em>We encourage comments and feedback from WAME Members and other readers. Please contact us at &lt;</em><a href="/cdn-cgi/l/email-protection#1e7d766c776d5e7d766c776d64777b7277706d7577307d7173216d6b7c747b7d6a235d767f6a7c716a6d"><span class="__cf_email__" data-cfemail="04676c766d7744676c766d777e6d61686d6a776f6d2a676b69">[email&#160;protected]</span></a><em>&gt;.</em></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><em>Competing Interests:</em> All of the authors report that they have no competing interests aside from any affiliations as editors. </span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong>References </strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">1. What is a chatbot? Oracle Cloud Infrastructure. <a href="about:blank">https://www.oracle.com/chatbots/what-is-a-chatbot/</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">2. Copeland BJ (fact-checked by the Editors of Encyclopaedia Britannica). Artificial intelligence. <em>Britannica </em>Last Updated: May 26, 2023). <a href="https://www.britannica.com/technology/artificial-intelligence">https://www.britannica.com/technology/artificial-intelligence</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">3. Gui J, Sun Z, Wen Y, Tao D, and Ye J. A review on generative adversarial networks: Algorithms theory and applications. <em>IEEE Trans Knowl Data Eng</em>. 2023; 35:3313-3332. DOI: <a href="https://doi.ieeecomputersociety.org/10.1109/TKDE.2021.3130191"><span style="color:#00629b">10.1109/TKDE.2021.313019</span></a><span style="color:#00629b">1</span></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">4. Abukmeil M, Ferrari S, Genovese A, Piuri V, Scotti F. A survey of unsupervised generative models for exploratory data analysis and representation learning. <em>ACM Comput Surv</em>. 2021;54(5):1-40.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><span style="font-family:Arial,sans-serif">5. Wun STY, He SZ, Liu JP, Sun SQ, Liu K, Han QL, Tang Y. A brief overview of ChatGPT: The history, status quo and potential future development. </span><em><span style="font-family:Arial,sans-serif">IEEE/CAA J Autom Sinica</span></em><span style="font-family:Arial,sans-serif">.</span> 2023;10(5):1122&ndash;1136. DOI: <a href="https://dx.doi.org/10.1109/JAS.2023.123618" target="_blank"><span style="font-family:Arial,sans-serif"><span style="color:#00519c">10.1109/JAS.2023.123618</span></span></a></span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">6. Bhuiyan J. OpenAI CEO calls for laws to mitigate &lsquo;risks of increasingly powerful&rsquo; AI. <em>The Guardian</em>. May 16, 2023. <a href="https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations">https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">7. Appel G, Neelbauer J, Schweidel DA. Generative AI Has an Intellectual Property Problem. April 07, 2023. <em>Harvard Business Review</em>. https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">8. Thorbecke C. Don&rsquo;t tell anything to a chatbot you want to keep private. CNN Business. April 6, 2023.<a href="https://www.cnn.com/2023/04/06/tech/chatgpt-ai-privacy-concerns/index.html">https://www.cnn.com/2023/04/06/tech/chatgpt-ai-privacy-concerns/index.html</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">9. Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals. Updated May 2023. <a href="https://www.icmje.org/news-and-editorials/icmje-recommendations_annotated_may23.pdf">https://www.icmje.org/news-and-editorials/icmje-recommendations_annotated_may23.pdf</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">10. Who Is an Author? Defining the Role of Authors and Contributors. ICMJE. <a href="about:blank">https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html</a>. Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">11. Non-Author Contributors. Defining the Role of Authors and Contributors. ICMJE. <a href="https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html</a>. Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">12. Methods. Preparing a Manuscript for Submission to a Medical Journal. ICMJE. <a href="https://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html#d">https://www.icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html#d</a> Accessed May 27, 2023.</span></span></p>
+
+<p><span style="font-size:16px"><span style="color:#000000">13. Plagiarism. Oxford Reference, <a href="https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100329803;jsessionid=D1759DA0FD79ACB96407CDB4B7BC8FA0A">https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100329803;jsessionid=D1759DA0FD79ACB96407CDB4B7BC8FA0</a>&nbsp;Accessed May 27, 2023.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px"><span style="color:#000000"><strong><em>Cite as</em></strong>: Zielinski C, Winker MA, Aggarwal R, Ferris LE, Heinemann M, Lape&ntilde;a JF, Pai SA, Ing E, Citrome L, Alam M, Voight M, Habibzadeh F, for the WAME Board. Chatbots, Generative AI, and Scholarly Manuscripts. WAME Recommendations on Chatbots and Generative Artificial Intelligence in Relation to Scholarly Publications. WAME. May 31, 2023. <a href="https://wame.org/page3.php?id=106" target="_blank">https://wame.org/page3.php?id=106</a></span></span></p>
+
+<hr />
+<p><span style="font-size:16px"><span style="color:#000000"><strong><span style="color:green">WAME encourages WAME Members to republish this statement in their journals with attribution to the original publication on WAME.org. WAME will list journal citations and links to the re-publications on this page. Please contact Margaret Winker at </span></strong><a href="/cdn-cgi/l/email-protection#036e746a6d6866714374626e662d6c71643c707661696660773e51667376616f6a706b6a6d64263133406b6277445357"><strong><span class="__cf_email__" data-cfemail="2449534d4a4f415664534549410a4b5643">[email&#160;protected]</span></strong></a><strong><span style="color:green"> with any questions.</span></strong></span></span></p>
+
+<p><strong><span style="font-size:16px">This statement has been republished in the following journals:</span></strong></p>
+
+<p><span style="font-size:16px"><em>Philippine&nbsp;Journal of Otolaryngology Head and Neck Surgery</em>. 2023 Jun. 4;38(1):7-9. Available from:&nbsp;<a href="https://pjohns.pso-hns.org/index.php/pjohns/article/view/2135" target="_blank">https://pjohns.pso-hns.org/index.php/pjohns/article/view/2135</a></span></p>
+
+<p><span style="font-size:16px"><em>Global Journal of Medicine &amp; Public Health. </em>2023<em>; </em>12(2). &nbsp;<a href="https://www.gjmedph.com//Uploads/E1_Vol12_No2_2023.pdf">https://www.gjmedph.com//Uploads/E1_Vol12_No2_2023.pdf</a></span></p>
+
+<p><span style="font-size:16px"><em>Open Access Macedonian Journal of Medical Sciences</em>.&nbsp;2023;11(A):263-5.&nbsp;</span><span style="font-size:16px"><a href="https://doi.org/10.3889/oamjms.2023.11723" rel="nofollow" target="_blank">https://doi.org/10.3889/oamjms.2023.11723</a></span></p>
+
+<p><span style="font-size:16px"><em>Philippine Journal of Pathology</em>. 2023;&nbsp;</span><span style="font-size:16px">8(1),6&ndash;8.</span><span style="font-size:16px">&nbsp;</span><span style="font-size:16px">&nbsp;<a href="https://philippinejournalofpathology.org/index.php/PJP/article/view/405">https://philippinejournalofpathology.org/index.php/PJP/article/view/405</a></span></p>
+
+<p><span style="font-size:16px"><em>Journal of Postgraduate Medical Institute. </em>2023;&nbsp;37(3).&nbsp;<a href="https://doi.org/10.54079/jpmi.37.3.3284" target="_blank">https://doi.org/10.54079/jpmi.37.3.3284</a><a href="https://doi.org/10.54079/jpmi.37.3.3284https://jpmi.org.pk/index.php/jpmi/article/view/3284 ">https://jpmi.org.pk/index.php/jpmi/article/view/3284&nbsp;</a></span></p>
+
+<p><span style="font-size:16px"><em>National Medical Journal of India. </em>2023;&nbsp;36(1):1-4. doi: 10.25259/NMJI_365_23 </span><span style="font-size:16px">&nbsp;<a href="https://nmji.in/chatbots-chatgpt-and-scholarly-manuscripts-wame-recommendations-on-chatgpt-and-chatbots-in-relation-to-scholarly-publications/" id="m_2387203866205177023OWAbd4ff14e-3e01-bf92-4db4-c4663b9d929f" target="_blank">https://nmji.in/chatbots-chatgpt-and-scholarly-manuscripts-wame-recommendations-on-chatgpt-and-chatbots-in-relation-to-scholarly-publications/</a></span></p>
+
+<p><span style="font-size:16px"><em>Colombia M&eacute;dica (Cali).</em>&nbsp;2023;&nbsp;54(3):e1015868. <a href="https://doi.org/10.25100/cm.v54i3.5868">http://doi.org/10.25100/cm.v54i3.5868&nbsp;</a><a href="https://colombiamedica.univalle.edu.co/index.php/comedica/article/view/5868/5761">https://colombiamedica.univalle.edu.co/index.php/comedica/article/view/5868/5761</a></span></p>
+
+<p><span style="font-size:16px"><em>Afro-Egyptian Journal of Infectious and Endemic Diseases.</em> 2023;13(1):75-79.&nbsp;DOI:&nbsp;<a href="https://dx.doi.org/10.21608/aeji.2023.282936">10.21608/AEJI.2023.282936</a>&nbsp; &nbsp;</span><span style="font-size:16px"><a href="https://aeji.journals.ekb.eg/article_282936.html">https://aeji.journals.ekb.eg/article_282936.html</a></span></p>
+
+<p><span style="font-size:16px"><em>Current Medical Research and Opinion.</em>&nbsp;2024; 40:1,&nbsp;11-13,&nbsp;DOI:&nbsp;<a href="https://doi.org/10.1080/03007995.2023.2286102">10.1080/03007995.2023.2286102</a>&nbsp;<a href="https://www.tandfonline.com/doi/full/10.1080/03007995.2023.2286102">https://www.tandfonline.com/doi/full/10.1080/03007995.2023.2286102</a></span></p>
+
+<p><span style="font-size:16px"><strong><a id="Spanish" name="Spanish"><span style="color:#000000">Spanish</span></a>:</strong></span></p>
+
+<p><span style="font-size:16px">Recomendaciones de WAME sobre &ldquo;chatbots&rdquo; e inteligencia artificial generativa en relaci&oacute;n con las publicaciones acad&eacute;micas.&nbsp;<em>Colombia M&eacute;dica. </em>2023;54(3):e1015868.&nbsp;<a href="https://colombiamedica.univalle.edu.co/index.php/comedica/article/download/5868/5828/31631">https://colombiamedica.univalle.edu.co/index.php/comedica/article/download/5868/5828/31631</a></span></p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center">WAME (2023),&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/%C2%A0">Creative Commons BY-NC-ND</a></p>
+                                <div class="clear"></div>
+                                <p>&nbsp;<br />&nbsp;<br /></p>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                    </div>
+
+                    <!-- Row End -->
+
+                </div>
+
+                <div class="clear"></div>
+
+                <!-- Container End -->
+
+            </div>
+
+            <!-- Content Section End -->
+
+            <div class="clear"></div>
+
+
+
+
+
+            <div class="clear"></div>
+
+            <!-- Footer Widgets Start -->
+
+
+
+<div id="footer-widgets" class="fullwidth">
+
+    <div class="container">
+
+        <!------------------Footer column 1 section start--------------------->    
+        <div class="widget widget_categories">
+            <header class="cs-heading-title"><h2 class="cs-section-title">Quick Links</h2></header>		
+            <ul>
+
+                <li class="cat-item cat-item-6"><a href="index.php" >Home</a></li>
+
+                                    <li class="cat-item cat-item-6"><a href="page2.php?id=1" >About Us</a></li>
+                                        <li class="cat-item cat-item-6"><a href="page2.php?id=3" >WAME History</a></li>
+                                        <li class="cat-item cat-item-6"><a href="page2.php?id=6" >WAME Board of Directors and Committees</a></li>
+                                        <li class="cat-item cat-item-6"><a href="page2.php?id=66" >Membership</a></li>
+                                        <li class="cat-item cat-item-6"><a href="page2.php?id=7" >Bylaws of the World Association of Medical Editors</a></li>
+                                        <li class="cat-item cat-item-6"><a href="page2.php?id=9" >Journals of WAME Member Editors</a></li>
+                    
+                <li class="cat-item cat-item-10"><a href="support-wame" >Support</a></li>
+                <li class="cat-item cat-item-10"><a href="news-listing.php" >News</a></li>
+                <li class="cat-item cat-item-13"><a href="events-listing.php" >Events</a></li>
+                <li class="cat-item cat-item-11"><a href="contactus.php" >Contact us</a></li>
+            </ul>
+        </div>
+        <!------------------Footer column 1 section end--------------------->
+
+
+        
+        <!------------------Footer column 2 section start--------------------->
+        <div class="widget widget_gallery">
+            <header class="cs-heading-title">
+                <h2 class="cs-section-title">Our Address</h2>
+            </header>
+
+
+            <p style="color: white;">Jagdish Khubchandani, MBBS, PhD, MPH <br />
+                Secretary, WAME<br />
+                <a href="/cdn-cgi/l/email-protection#573d3630333e243f17393a242279323322"><span class="__cf_email__" data-cfemail="8be1eaecefe2f8e3cbe5e6f8fea5eeeffe">[email&#160;protected]</span></a></p>
+
+            <!---
+            <p style="color: white;">Rajeev Kumar, MD<br />                Secretary, WAME<br />
+                <a href="mailto:rajeev.urology@aiims.edu">rajeev.urology@aiims.edu</a>
+            </p>   
+            
+            <p style="color: white;">Jose Florencio Lape&ntilde;a Jr.,<br /> MD Secretary, WAME<br />
+                <a href="mailto:lapenajf@upm.edu.ph">lapenajf@upm.edu.ph</a>
+            </p>-->
+
+
+        </div>
+        <!------------------Footer column 2 section end--------------------->
+
+
+        <!------------------Footer column 3 section start--------------------->
+        <div class="widget widget_newsletter">
+            <header class="cs-heading-title"><h2 class="cs-section-title">Like us on Facebook</h2></header>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FWAMEmembers&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        </div>
+        <!------------------Footer column 3 section end--------------------->
+
+
+
+        
+    </div>
+
+    <!------------------Copywrite footer section start--------------------->
+    <footer id="footer">
+
+        <div class="container">
+
+            <p class="copright float-left">
+                &COPY;2026 WAME. All rights reserved.<a href="https://itindustries.com">Developed by ITindustries.com</a>
+            </p>
+
+            <div class="followus float-right">
+                <a title="" href="https://www.facebook.com/WAMEmembers" data-original-title="Facebook" data-placement="top"  class="colrhover"  target="_blank"> 
+                    <span class="fa-stack fa-lg">
+                        <em class="fa fa-square fa-stack-2x"></em>
+                        <em class="fa-facebook icon fa-stack-1x fa-inverse fa"></em>
+                    </span>
+                </a>
+
+                <a title="" href="https://twitter.com/wamededitors" data-original-title="Twitter" data-placement="top"  class="colrhover"  target="_blank"> 
+                    <span class="fa-stack fa-lg">
+                        <em class="fa fa-square fa-stack-2x"></em>
+                        <em class="fa-twitter icon fa-stack-1x fa-inverse fa"></em>
+                    </span>
+                </a>
+
+                <h3><a title="" href="https://wame.blog/" data-original-title="Tumblr" data-placement="top"  class="colrhover"  target="_blank"> WAME Blog </a></h3>
+
+            </div>
+        </div>
+
+    </footer>
+    <!------------------Copywrite footer section end--------------------->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-121100784-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-121100784-1');
+    </script>
+
+
+
+</div>
+            <!-- Footer Start -->
+
+            <div class="clear"></div>
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        <!-- Wrapper End -->
+
+
+
+        <link rel='stylesheet' id='prettyPhoto_css-css'  href='wame-content/themes/css/prettyphoto-44136.css' type='text/css' media='all' />
+        <script type='text/javascript' src='wame-includes/js/comment-reply.min.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+
+
+        <script type='text/javascript' src='wame-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/jquery.flexslider-min.js?ver=4.5.3'></script>
+
+        <script type='text/javascript' src='wame-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a'></script>
+        <script type='text/javascript' src='wame-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/bootstrap.min.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/modernizr.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/functions.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+
+
+        <script type='text/javascript' src='wame-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/jquery-scrolltofixed.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/lightbox.js?ver=4.5.3'></script>
+        <script type='text/javascript' src='wame-content/themes/scripts/frontend/jquery.prettyphoto.js?ver=4.5.3'></script>
+
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a105911619a66e5c',t:'MTc4MjIzOTQ1NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
+<!-- Columns End -->
+<!-- Localized -->

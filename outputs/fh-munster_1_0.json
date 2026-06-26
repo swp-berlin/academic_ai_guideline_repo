@@ -1,0 +1,2148 @@
+{
+  "doc_id": "fh-munster_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Leitlinie wurde von der Taskforce Künstliche Intelligenz der FH Münster erarbeitet und am 03.02.2025 vom Senat der Hochschule verabschiedet."
+    },
+    {
+      "id": 2,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Taskforce dankt den Mitgliedern der verschiedenen Gremien der Hochschule, die sich mit Text- oder Diskussionsbeiträgen in die Erarbeitung der Leitlinie eingebracht haben."
+    },
+    {
+      "id": 3,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die Leitlinie wird regelmäßig fortgeführt und an die dynamische Entwicklung im Bereich der Künstlichen Intelligenz angepasst."
+    },
+    {
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Welche KI-Strategie verfolgt die FH Münster?"
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die FH Münster strebt in allen Bereichen – Bildung, Forschung und Verwaltung – einen souveränen Umgang mit Künstlicher Intelligenz an."
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Unsere Strategie zielt darauf ab, die Potenziale von KI aktiv zu nutzen und dabei die Risiken, die mit KI verbunden sind, zu berücksichtigen."
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "In der Lehre fördern wir die KI-Kompetenz unserer Studierenden, damit sie KI-Tools kritisch und effektiv einsetzen können."
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unsere Forschung nutzt KI als Werkzeug zur Innovationsförderung, während wir in der Verwaltung KI zur Optimierung von Prozessen verwenden, ohne uns davon abhängig zu machen."
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "KI-Souveränität bedeutet für uns, dass wir die Kontrolle über unsere Daten und Entscheidungen behalten und KI dort einsetzen, wo sie einen echten Mehrwert bietet."
+    },
+    {
+      "id": 10,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Durch kontinuierliche Weiterbildung und ethische Reflexion gestalten wir den digitalen Wandel aktiv mit und bereiten unsere Hochschule auf eine Zukunft vor, in der KI eine immer größere Rolle spielen wird."
+    },
+    {
+      "id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die KI-Strategie der FH Münster schlägt sich als Teil des Hochschulentwicklungsplanes 2026–2030 (HEP VI) auch in einer KI-spezifischen Academic Scorecard (ASC Künstliche Intelligenz) nieder."
+    },
+    {
+      "id": 12,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Welche KI-Tools stellt die FH Münster bereit?"
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die FH Münster stellt den Hochschulangehörigen über ein webbasiertes Portal verschiedene KI-Tools zur Verfügung, darunter mit LibreChat einen zentralen Zugang zu ChatGPT."
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierenden, Lehrenden, Forschenden und Mitarbeiter*innen bietet sich so die Möglichkeit zur Nutzung eines einschlägigen KI-Sprachmodells."
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es ist nicht notwendig, einen eigenen ChatGPT-Account anzulegen, die vorhandenen Zugangsdaten für IT-Dienste der Hochschule reichen aus."
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei LibreChat werden somit keine personenbezogenen Daten der Nutzenden (wie Name, E-Mail-Adresse oder Telefonnummer) hinterlegt."
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzungsbedingungen von LibreChat sind zu berücksichtigen."
+    },
+    {
+      "id": 18,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Insbesondere dürfen keine personenbezogenen Daten – weder der Nutzenden selbst noch Dritter – eingegeben werden."
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Das Portal bietet auch ein Tool zur KI-gestützten Bildgenerierung und weitere Sprachmodelle."
+    },
+    {
+      "id": 20,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die Hochschule wird nach und nach weitere KI-Tools prüfen und gegebenenfalls den Hochschulangehörigen zur Nutzung bereitstellen."
+    },
+    {
+      "id": 21,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Welche weiteren KI-Tools oder -Plattformen gibt es außerhalb der FH Münster?"
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es existiert mittlerweile eine beinahe unüberschaubare Vielzahl an KI-Tools, die sich im hochschulischen Kontext einsetzen lassen."
+    },
+    {
+      "id": 23,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Eine gute Übersicht findet sich beim Berliner Zentrum für Hochschullehre."
+    },
+    {
+      "id": 24,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ist der Einsatz generativer KI an der FH Münster erlaubt?"
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Grundsätzlich ist der Einsatz generativer KI an der FH Münster erlaubt und wird in einigen Bereichen bereits praktiziert."
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Allerdings gibt es Einschränkungen: Bei Prüfungsleistungen müssen qualifizierte menschliche Prüfer*innen die finale Bewertung vornehmen, in der Forschung sind wissenschaftliche Standards einzuhalten, und beim Umgang mit personenbezogenen Daten gilt es datenschutzrechtliche Vorgaben einzuhalten."
+    },
+    {
+      "id": 27,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Unsere Hochschule hat die hier vorliegende Leitlinie entwickelt, um klare Grundsätze für einen verantwortungsvollen und kritisch-reflektierenden Einsatz von KI zu definieren."
+    },
+    {
+      "id": 28,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Wer ist Urheber*in eines KI-generierten Textes?"
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Grundsätzlich gilt: Weder die Entwickler*innen, die ein KI-Tool trainiert haben, noch das KI-Tool selbst verfügen über die Urheberschaft an einem KI-generierten Inhalt."
+    },
+    {
+      "id": 30,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Die Urheberschaft kann aber bei den Nutzenden liegen, sofern sie mit dem generierten Inhalt weiterarbeiten und dieser dadurch zum Produkt der geistigen Eigenleistung der Nutzenden wird."
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wann dies genau der Fall ist, kann – auch aufgrund der uneindeutigen Rechtslage – nicht pauschal beantwortet werden."
+    },
+    {
+      "id": 32,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Welche ethische Verantwortung ergibt sich aus dem Einsatz generativer KI?"
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die effektive und verantwortungsvolle Nutzung von KI-Tools setzt voraus, dass KI-generierte Inhalte nicht als Ersatz für den Einsatz und die Ausbildung eigenen kritischen Denkens und eigener ethischer Urteilskraft gesehen und genutzt werden, sondern umgekehrt diese Schlüsselkompetenzen in besonderer Weise herausfordern und stimulieren: Erst durch geistige Eigenleistungen des Überprüfens, Durchdenkens und kritischen Hinterfragens der KI-generierten Inhalte – einschließlich der kritischen Reflexion und Verfeinerung der an die KI herangetragenen Anfragen – wird aus KI-generierten Inhalten eine ethisch verantwortbare geistige Leistung, die sich im akademischen Diskurs vertreten lässt und vertreten werden muss."
+    },
+    {
+      "id": 34,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Vorspiegelung, dass es sich bei reinen KI-generierten Inhalten bereits um geistige Eigenleistungen handelt, stellt nicht nur in Prüfungssituationen eine Täuschung und Irreführung dar."
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Welche Vorkehrungen trifft die FH Münster im Zusammenhang mit KI beim Datenschutz?"
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die FH Münster legt höchsten Wert auf den Schutz personenbezogener Daten beim Einsatz von KI."
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wir nutzen ausschließlich sorgfältig geprüfte KI-Systeme, die den europäischen Datenschutzstandards entsprechen."
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Klare Richtlinien regeln, welche Daten mit KI verarbeitet werden dürfen und welche Systeme dafür zugelassen sind."
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beispielhaft sei auf die Nutzungsbedingungen von LibreChat verwiesen."
+    },
+    {
+      "id": 40,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Was bedeutet Artikel 4 der KI-Verordnung der EU im Hinblick auf KI-Kompetenz für die Hochschule?"
+    },
+    {
+      "id": 41,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Der Artikel betont die Bedeutung eines verantwortungsvollen Umgangs mit KI-Systemen."
+    },
+    {
+      "id": 42,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Für die Hochschule bedeutet das insbesondere, KI-Kompetenz bei Mitarbeitenden und Studierenden zu fördern."
+    },
+    {
+      "id": 43,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "KI-Kompetenz umfasst Kenntnisse über die Funktionsweise, Risiken und Einsatzgrenzen von KI sowie ein Verständnis der rechtlichen Rahmenbedingungen."
+    },
+    {
+      "id": 44,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "FH-Münster-interne und externe Schulungsangebote tragen zur Kompetenzförderung von Hochschulangehörigen im Sinne des Artikels 4 der KI-Verordnung bei."
+    },
+    {
+      "id": 45,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Eine bloße Zugangsmöglichkeit für Studierende zu einem KI-Werkzeug, ohne dass Lehrende von ihnen dessen Einsatz ausdrücklich verlangen, verpflichtet die Hochschule indes nicht zur Schulung der Studierenden in der Nutzung dieses KI-Werkzeuges."
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Ist der dienstliche Einsatz privat beschaffter und finanzierter KI-Werkzeuge zulässig?"
+    },
+    {
+      "id": 47,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Verwendung privat beschaffter und finanzierter KI-Werkzeuge mit hochschulinternen Daten, Informationen oder Dokumenten ist nicht zulässig."
+    },
+    {
+      "id": 48,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Dies gilt auch für die Bereitstellung von GPTs, Tools oder Agents zu dienstlichen Zwecken über private Accounts."
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die FH Münster legt beim Einsatz Künstlicher Intelligenz hohen Wert auf datenschutzrechtliche und ethische Standards."
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Sie stellt vor der offiziellen Bereitstellung von KI-Werkzeugen sicher, dass diese Standards erfüllt sind."
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dazu trifft unsere Hochschule zum Beispiel spezifische Vereinbarungen mit Anbietern und definiert Nutzungsrichtlinien."
+    },
+    {
+      "id": 52,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei privat beschafften KI-Werkzeugen dagegen ist eine Konformität mit solchen Standards nicht gewährleistet, auch dann nicht, wenn vermeintlich dieselben Tools derselben Anbieter wie an der Hochschule zum Einsatz kommen."
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzen Sie daher zu dienstlichen Zwecken die von der Hochschule freigegebenen Tools."
+    },
+    {
+      "id": 54,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie kann KI in die Lehre an der FH Münster integriert werden?"
+    },
+    {
+      "id": 55,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Der Zugang zu generativer KI in der Lehre orientiert sich an einem Grundansatz der Medienpädagogik: „Bildung mit Medien zur Bildung über Medien“."
+    },
+    {
+      "id": 56,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Während der Nutzen generativer KI bei eigenständig-experimenteller oder gezielt angeleiteter Anwendung in der Regel an der Qualität der Ergebnisse relativ schnell ersichtlich wird, bedarf die Auseinandersetzung mit Grenzen und Risiken einer vertieften gemeinsamen Reflexion, für die in Lehrveranstaltungen Zeit eingeräumt werden muss."
+    },
+    {
+      "id": 57,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI lässt sich in verschiedenen Bereichen der Hochschullehre einsetzen, etwa bei der Planung von Seminaren, der Entwicklung von Vorlesungs- und Praktikumsunterlagen oder der Erstellung von Texten für schriftliche Prüfungsleistungen."
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ein weiterer Anwendungsbereich ist die kritische Reflexion KI-generierter Inhalte (z. B. wissenschaftlicher Texte oder technischer Dokumentationen) durch Studierende, verbunden mit einem Abgleich der generierten Ergebnisse mit der Fachliteratur."
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI lässt sich auch in kreative Methoden wie Brainstorming oder Design Thinking integrieren, indem in Gruppen Prompts diskutiert, die generierten Ergebnisse kollaborativ verglichen und die zugrunde liegenden Prompts wiederum kritisch reflektiert werden."
+    },
+    {
+      "id": 60,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die schnellen und tiefgreifenden Innovationszyklen generativer KI erfordern einen engen Austausch von Lehrenden mit der beruflichen Praxis und die Wahrnehmung der gesellschaftlichen und hochschuldidaktischen Diskurse."
+    },
+    {
+      "id": 61,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Dies ist eine Aufgabe, die Lehrende nicht alleine bewältigen können, sondern die auch jene Expertise erfordert, die – im Sinne eines wechselseitigen Lernprozesses – die Studierenden in die Lehrveranstaltungen einbringen."
+    },
+    {
+      "id": 62,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie steht die FH Münster zu „Deskilling“ bzw. „Upskilling“ durch KI?"
+    },
+    {
+      "id": 63,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die FH Münster sieht KI als wichtiges Werkzeug, das die Arbeitswelt verändert, aber menschliche Expertise nicht ersetzt."
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unsere Hochschule unterstützt, dass KI-Tools aktiv in die Lehre integriert werden, damit Studierende lernen, sie effektiv und verantwortungsvoll zu nutzen („Upskilling“)."
+    },
+    {
+      "id": 65,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Gleichzeitig legen wir besonderen Wert auf die Entwicklung von Schlüsselkompetenzen wie kritisches Denken, Problemlösung und ethische Urteilskraft, die auch in Zukunft unverzichtbar bleiben."
+    },
+    {
+      "id": 66,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Unser Ziel in allen Studiengängen ist es, Absolvent*innen auszubilden, die KI als Ergänzung ihrer eigenen Fähigkeiten nutzen können, die für eine sich wandelnde Arbeitswelt gerüstet sind und die gleichzeitig über jene persönlichen und akademischen Skills verfügen, die dem Menschen gegenüber Künstlicher Intelligenz vorbehalten bleiben."
+    },
+    {
+      "id": 67,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie müssen KI-generierte Inhalte in Prüfungsleistungen gekennzeichnet werden?"
+    },
+    {
+      "id": 68,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zunächst entscheiden die Prüfenden, ob die Nutzung von KI-Tools in einer von ihnen gestellten Prüfung zulässig ist."
+    },
+    {
+      "id": 69,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Falls nein, stellt die Nutzung von KI-Tools einen Täuschungsversuch dar."
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Studierenden können verpflichtet werden, eine Eigenständigkeitserklärung zu unterschreiben."
+    },
+    {
+      "id": 71,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Soweit KI-Tools eingesetzt werden dürfen, sollten die Studierenden über die Eigenständigkeitserklärung hinaus im Methodenkapitel oder einem entsprechenden Abschnitt (z. B. „Verwendete Hilfsmittel“) einer Abschluss-, Projekt- oder Hausarbeit, oder auch in einer gesonderten Stellungnahme, detailliert beschreiben, ob und gegebenenfalls wie sie KI-Tools eingesetzt haben."
+    },
+    {
+      "id": 72,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Hierzu gehören Angaben zu der verwendeten Software, zu den Einsatzbereichen innerhalb der Arbeit und zu den konkreten Aufgaben der KI."
+    },
+    {
+      "id": 73,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zudem können die Studierenden subjektive Erfahrungen und erzielte Mehrwerte durch den KI-Einsatz schildern."
+    },
+    {
+      "id": 74,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In Absprache mit den Lehrenden sollen oder können sie sogar Links zu einzelnen Prompts und Screenshots der generierten Texte hinzufügen."
+    },
+    {
+      "id": 75,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Diese Offenlegung sorgt für eine Nachvollziehbarkeit des Vorgehens und stärkt das Vertrauen in die – je nach Disziplin unterschiedlich ausgestaltete – wissenschaftliche Arbeit."
+    },
+    {
+      "id": 76,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die so gewonnene Transparenz beim Einsatz von KI-Tools in schriftlichen Prüfungsleistungen ist für die wissenschaftliche Integrität der FH Münster essenziell."
+    },
+    {
+      "id": 77,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Dürfen Prüfungsleistungen mithilfe generativer KI bewertet werden?"
+    },
+    {
+      "id": 78,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Eine vollständig automatisierte Bewertung von Prüfungsleistungen durch KI ist nach aktuellem EU-Recht nicht zulässig."
+    },
+    {
+      "id": 79,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Prüfungsrechtliche Vorgaben erfordern, dass qualifizierte Prüfer*innen die Bewertung vornehmen und dafür persönlich Verantwortung übernehmen."
+    },
+    {
+      "id": 80,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zudem haben Prüfungskandidat*innen ein Recht auf Erläuterung der Bewertung und die Möglichkeit des Widerspruchs, was eine menschliche Beurteilung voraussetzt."
+    },
+    {
+      "id": 81,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI kann jedoch als unterstützendes Werkzeug eingesetzt werden, etwa für die Kontrolle formeller Anforderungen, für vorbereitende Analysen (z. B. der redaktionellen Qualität oder der inhaltlichen Kohärenz) oder für Plagiatsprüfungen."
+    },
+    {
+      "id": 82,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die finale Bewertung und Verantwortung müssen aber stets bei menschlichen Prüfer*innen liegen, die das notwendige fachliche Urteilsvermögen besitzen und rechtlich dafür einstehen können."
+    },
+    {
+      "id": 83,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie zuverlässig sind die Antworten von ChatGPT und anderer KI-Sprachmodelle?"
+    },
+    {
+      "id": 84,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Aktuelle KI-Sprachmodelle können sehr überzeugende und präzise Antworten generieren, sind aber nicht unfehlbar und können auch irreführende oder falsche Informationen ausgeben."
+    },
+    {
+      "id": 85,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ein bekanntes Problem sind sogenannte Halluzinationen: Hierbei erzeugt die KI zwar plausibel klingende, aber erfundene Inhalte, wie z. B. nicht existierende Literaturquellen oder fiktive Personen."
+    },
+    {
+      "id": 86,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die KI-Sprachmodelle können außerdem aufgrund ihrer begrenzten Trainingsdaten veraltete Informationen liefern oder bei speziellen Fachthemen wahrheitswidrige Behauptungen aufstellen."
+    },
+    {
+      "id": 87,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Aus diesen Gründen sollten die Antworten von KI-Tools grundsätzlich kritisch geprüft und wichtige Informationen durch verlässliche Quellen verifiziert werden."
+    },
+    {
+      "id": 88,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Das Übernehmen halluzinierter Quellen verstößt gegen die Grundsätze wissenschaftlicher Redlichkeit und kann je nach Ausmaß zur Abwertung einer Prüfungsleistung (z. B. durch Notenabzug, Nichtbestehen oder Anrechnung als Täuschungsversuch) führen."
+    },
+    {
+      "id": 89,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Lassen sich KI-generierte Texte durch KI-Detektoren erkennen?"
+    },
+    {
+      "id": 90,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Sogenannte KI-Detektoren sollen Texte, die mittels KI generiert wurden, als solche erkennen."
+    },
+    {
+      "id": 91,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gegenwärtig gelingt derartigen Werkzeugen die Unterscheidung zwischen Texten, die auf klassische Weise von Menschen verfasst wurden, und KI-generierten Texten jedoch nicht verlässlich."
+    },
+    {
+      "id": 92,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Detektion scheitert insbesondere dann, wenn die KI-generierten Texte noch von Menschen nachbearbeitet wurden oder wenn ihnen – wiederum werkzeugbasiert, nämlich durch sogenannte KI-Humanizer – nachträglich ein menschlicher Duktus verliehen wurde."
+    },
+    {
+      "id": 93,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Es ist deshalb dringend davon abzuraten, sich auf KI-Detektoren zu verlassen."
+    },
+    {
+      "id": 94,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Was bedeutet die Nutzung generativer KI für die Gestaltung zukunftsfähiger Prüfungsformate?"
+    },
+    {
+      "id": 95,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungsaufgaben und Abschlussarbeiten sind so zu gestalten, dass die Studierenden genug Spielraum erhalten, ihre Eigenleistung unter Beweis zu stellen."
+    },
+    {
+      "id": 96,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Zum Beispiel sind nicht überwachte Prüfungen, die auf reines Faktenwissen abzielen, ungeeignet."
+    },
+    {
+      "id": 97,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Stärker in den Vordergrund zu rücken sind hingegen Aufgaben, die auf Reflexions-, Beurteilungs- und Problemlösungskompetenzen abzielen."
+    },
+    {
+      "id": 98,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Beispiele für angepasste Prüfungsformate: Transfer- und Anwendungsaufgaben, Lerndokumentations- und Reflexionsaufgaben, projektbasierte Aufgaben, mündliche Prüfungen, die Eigenleistungen erfragen."
+    },
+    {
+      "id": 99,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI kann in Prüfungen ganz gezielt kompetenzorientiert eingesetzt werden."
+    },
+    {
+      "id": 100,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Können Forschungsdaten mit generativer KI bewertet oder erzeugt werden?"
+    },
+    {
+      "id": 101,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative KI kann als unterstützendes Werkzeug in der Forschung eingesetzt werden, jedoch mit Einschränkungen."
+    },
+    {
+      "id": 102,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Bewertung von Forschungsdaten kann sich zur schnellen Analyse großer Datenmengen und zur Mustererkennung der KI bedienen, aber die Ergebnisse müssen stets von Experten validiert werden."
+    },
+    {
+      "id": 103,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Erzeugung von Forschungsdaten durch KI ist für Simulationen und Testdatensätze möglich, aber generierte Daten müssen klar als solche gekennzeichnet werden, und ihre Validität muss durch reale Daten bestätigt werden."
+    },
+    {
+      "id": 104,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In beiden Fällen gilt: KI kann menschliche Expertise ergänzen, aber nicht ersetzen."
+    },
+    {
+      "id": 105,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entscheidend sind transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards."
+    },
+    {
+      "id": 106,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Forschende sollten einen Hybridansatz verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet."
+    },
+    {
+      "id": 107,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie verhält sich der Einsatz von KI-Tools zu den Prinzipien von Open Science?"
+    },
+    {
+      "id": 108,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit."
+    },
+    {
+      "id": 109,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Open Science-Gedanke verlangt, dass ein Einsatz von KI-Systemen im Forschungsprozess dokumentiert wird – von der Wahl des spezifischen Tools über die verwendeten Prompts bis zu den generierten Ergebnissen."
+    },
+    {
+      "id": 110,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dabei besteht eine Ambivalenz zwischen proprietären KI-Systemen wie ChatGPT und dem Open Science-Prinzip der Offenheit, denn die zugrundeliegenden Modelle und Trainingsdaten sind zumeist nicht öffentlich zugänglich."
+    },
+    {
+      "id": 111,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Gleichzeitig können KI-Tools die Ziele von Open Science unterstützen, indem sie die Aufbereitung von und den Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit erleichtern."
+    },
+    {
+      "id": 112,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind daher wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI in der Forschung."
+    },
+    {
+      "id": 113,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Sind durch KI Arbeitsplätze an der FH Münster gefährdet?"
+    },
+    {
+      "id": 114,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Nein. Die Einführung von KI-Systemen an unserer Hochschule zielt darauf ab, die Effizienz und Qualität der Arbeit zu steigern, nicht aber Arbeitsplätze zu ersetzen."
+    },
+    {
+      "id": 115,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Während KI-gestützte Werkzeuge bei Routineaufgaben wie Dateneingaben, Dokumentenerstellung und Terminkoordination unterstützen, können sich unsere Mitarbeitenden verstärkt anspruchsvollen, kreativen und kommunikativen Aufgaben sowie komplexen Entscheidungsprozessen widmen, die menschliches Urteilsvermögen erfordern."
+    },
+    {
+      "id": 116,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dies führt zu einer Aufwertung der Arbeit bei gleichzeitiger Entlastung von repetitiven Tätigkeiten."
+    },
+    {
+      "id": 117,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Kann KI zur Leistungskontrolle der Mitarbeitenden eingesetzt werden?"
+    },
+    {
+      "id": 118,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Wenn KI in der Hochschulverwaltung Verwendung findet, soll dies ausschließlich Serviceprozesse verbessern und wiederkehrende Standardaufgaben erleichtern."
+    },
+    {
+      "id": 119,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Sowohl das Hochschulgesetz als auch die DSGVO setzen einer Leistungskontrolle klare Grenzen."
+    },
+    {
+      "id": 120,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zudem wachen Personalräte und Datenschutzbeauftragte sehr genau über die Rechte der Beschäftigten."
+    },
+    {
+      "id": 121,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Eine Leistungskontrolle widerspricht nicht nur dem Selbstverständnis der FH Münster als Arbeitgeberin, sondern ist auch rechtlich unzulässig."
+    },
+    {
+      "id": 122,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Neue Technologien sollen das Arbeiten an unserer Hochschule unterstützen und effizienter gestalten, nicht kontrollieren."
+    },
+    {
+      "id": 123,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Der Einsatz konkreter KI-Anwendungen geschieht dabei stets in Abstimmung mit den Interessenvertretungen."
+    },
+    {
+      "id": 124,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie kann KI zur Nachhaltigkeit beitragen?"
+    },
+    {
+      "id": 125,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI kann Nachhaltigkeit fördern, indem sie Prozesse effizienter gestaltet, Ressourcen schont und die Entwicklung sauberer Technologien beschleunigt."
+    },
+    {
+      "id": 126,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "KI hat somit das Potenzial, zum Umwelt- und Klimaschutz beizutragen."
+    },
+    {
+      "id": 127,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Wie energieintensiv ist der Einsatz von KI?"
+    },
+    {
+      "id": 128,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Das Training von KI-Modellen ist sehr energieintensiv, denn es beansprucht insbesondere bei großen Modellen erhebliche Rechenressourcen."
+    },
+    {
+      "id": 129,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Doch auch der Einsatz von KI-Modellen und selbst einfache Interaktionen mit KI-Tools, wie das Erzeugen von Texten und Bildern, können durch Datentransfer und -verarbeitung mehr Strom verbrauchen als herkömmliche Suchanfragen im Web."
+    },
+    {
+      "id": 130,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Prognosen gehen davon aus, dass die Energieverbräuche von Rechenzentren für KI-Anwendungen in den kommenden Jahren stark ansteigen werden, und damit auch die CO2-Emissionen, da derzeit noch ein Großteil des Stroms für den Betrieb von Rechenzentren, einschließlich ihrer Kühlung, aus fossilen Brennstoffen stammt."
+    },
+    {
+      "id": 131,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Notwendigkeit von KI-Eingaben (Prompts) sollte daher auch kritisch hinterfragt werden."
+    },
+    {
+      "id": 132,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Wenden Sie sich bei Fragen oder Anregungen zur KI-Leitlinie der FH Münster gerne an Prof. Dr. Gernot Bauer (gernot.bauer@fh-muenster.de, Leiter der Taskforce Künstliche Intelligenz)."
+    }
+  ],
+  "validation": {
+    "total": 132,
+    "matched": 132,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.968,
+    "uncovered_chars": 421,
+    "uncovered_gaps": 10,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 156,
+        "length": 156,
+        "text": "# fh münster # source: https://www.fhmuenster.de/de/kuenstlicheintelligenz/leitlinieki # date: 2025-02-03 # category: guideline ki-leitlinie der fh münster"
+      },
+      {
+        "char_start": 600,
+        "char_end": 633,
+        "length": 33,
+        "text": ". ## ki-strategie der fh münster"
+      },
+      {
+        "char_start": 1810,
+        "char_end": 1842,
+        "length": 32,
+        "text": ". ## ki-tools an der fh münster"
+      },
+      {
+        "char_start": 3143,
+        "char_end": 3183,
+        "length": 40,
+        "text": ". ## rechtliches, ethik und datenschutz"
+      },
+      {
+        "char_start": 7622,
+        "char_end": 7643,
+        "length": 21,
+        "text": ". ## ki in der lehre"
+      },
+      {
+        "char_start": 10262,
+        "char_end": 10284,
+        "length": 22,
+        "text": ". ## ki und prüfungen"
+      },
+      {
+        "char_start": 15095,
+        "char_end": 15120,
+        "length": 25,
+        "text": ". ## ki in der forschung"
+      },
+      {
+        "char_start": 17122,
+        "char_end": 17148,
+        "length": 26,
+        "text": ". ## ki in der verwaltung"
+      },
+      {
+        "char_start": 18571,
+        "char_end": 18598,
+        "length": 27,
+        "text": ". ## ki und nachhaltigkeit"
+      },
+      {
+        "char_start": 19671,
+        "char_end": 19710,
+        "length": 39,
+        "text": ". ## weitere informationen und kontakt"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 161,
+      "text": "# FH Münster\n# Source: https://www.fh-muenster.de/de/kuenstliche-intelligenz/leitlinie-ki\n# Date: 2025-02-03\n# Category: guideline\n\nKI-Leitlinie der FH Münster\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 161,
+      "char_end": 307,
+      "text": "Diese Leitlinie wurde von der Taskforce Künstliche Intelligenz der FH Münster erarbeitet und am 03.02.2025 vom Senat der Hochschule verabschiedet.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 308,
+      "char_end": 482,
+      "text": "Die Taskforce dankt den Mitgliedern der verschiedenen Gremien der Hochschule, die sich mit Text- oder Diskussionsbeiträgen in die Erarbeitung der Leitlinie eingebracht haben.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 483,
+      "char_end": 608,
+      "text": "Die Leitlinie wird regelmäßig fortgeführt und an die dynamische Entwicklung im Bereich der Künstlichen Intelligenz angepasst.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 608,
+      "char_end": 642,
+      "text": "\n\n## KI-Strategie der FH Münster\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 642,
+      "char_end": 686,
+      "text": "Welche KI-Strategie verfolgt die FH Münster?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 688,
+      "char_end": 822,
+      "text": "Die FH Münster strebt in allen Bereichen – Bildung, Forschung und Verwaltung – einen souveränen Umgang mit Künstlicher Intelligenz an.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 823,
+      "char_end": 964,
+      "text": "Unsere Strategie zielt darauf ab, die Potenziale von KI aktiv zu nutzen und dabei die Risiken, die mit KI verbunden sind, zu berücksichtigen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 965,
+      "char_end": 1087,
+      "text": "In der Lehre fördern wir die KI-Kompetenz unserer Studierenden, damit sie KI-Tools kritisch und effektiv einsetzen können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1088,
+      "char_end": 1261,
+      "text": "Unsere Forschung nutzt KI als Werkzeug zur Innovationsförderung, während wir in der Verwaltung KI zur Optimierung von Prozessen verwenden, ohne uns davon abhängig zu machen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1262,
+      "char_end": 1424,
+      "text": "KI-Souveränität bedeutet für uns, dass wir die Kontrolle über unsere Daten und Entscheidungen behalten und KI dort einsetzen, wo sie einen echten Mehrwert bietet.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1425,
+      "char_end": 1630,
+      "text": "Durch kontinuierliche Weiterbildung und ethische Reflexion gestalten wir den digitalen Wandel aktiv mit und bereiten unsere Hochschule auf eine Zukunft vor, in der KI eine immer größere Rolle spielen wird.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1632,
+      "char_end": 1822,
+      "text": "Die KI-Strategie der FH Münster schlägt sich als Teil des Hochschulentwicklungsplanes 2026–2030 (HEP VI) auch in einer KI-spezifischen Academic Scorecard (ASC Künstliche Intelligenz) nieder.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1822,
+      "char_end": 1855,
+      "text": "\n\n## KI-Tools an der FH Münster\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1855,
+      "char_end": 1900,
+      "text": "Welche KI-Tools stellt die FH Münster bereit?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1902,
+      "char_end": 2072,
+      "text": "Die FH Münster stellt den Hochschulangehörigen über ein webbasiertes Portal verschiedene KI-Tools zur Verfügung, darunter mit LibreChat einen zentralen Zugang zu ChatGPT.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2073,
+      "char_end": 2212,
+      "text": "Studierenden, Lehrenden, Forschenden und Mitarbeiter*innen bietet sich so die Möglichkeit zur Nutzung eines einschlägigen KI-Sprachmodells.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2213,
+      "char_end": 2349,
+      "text": "Es ist nicht notwendig, einen eigenen ChatGPT-Account anzulegen, die vorhandenen Zugangsdaten für IT-Dienste der Hochschule reichen aus.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2350,
+      "char_end": 2478,
+      "text": "Bei LibreChat werden somit keine personenbezogenen Daten der Nutzenden (wie Name, E-Mail-Adresse oder Telefonnummer) hinterlegt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2479,
+      "char_end": 2541,
+      "text": "Die Nutzungsbedingungen von LibreChat sind zu berücksichtigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2542,
+      "char_end": 2654,
+      "text": "Insbesondere dürfen keine personenbezogenen Daten – weder der Nutzenden selbst noch Dritter – eingegeben werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2656,
+      "char_end": 2748,
+      "text": "Das Portal bietet auch ein Tool zur KI-gestützten Bildgenerierung und weitere Sprachmodelle.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2749,
+      "char_end": 2877,
+      "text": "Die Hochschule wird nach und nach weitere KI-Tools prüfen und gegebenenfalls den Hochschulangehörigen zur Nutzung bereitstellen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2879,
+      "char_end": 2955,
+      "text": "Welche weiteren KI-Tools oder -Plattformen gibt es außerhalb der FH Münster?",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2957,
+      "char_end": 3087,
+      "text": "Es existiert mittlerweile eine beinahe unüberschaubare Vielzahl an KI-Tools, die sich im hochschulischen Kontext einsetzen lassen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3088,
+      "char_end": 3161,
+      "text": "Eine gute Übersicht findet sich beim Berliner Zentrum für Hochschullehre.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3161,
+      "char_end": 3202,
+      "text": "\n\n## Rechtliches, Ethik und Datenschutz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3202,
+      "char_end": 3259,
+      "text": "Ist der Einsatz generativer KI an der FH Münster erlaubt?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3261,
+      "char_end": 3382,
+      "text": "Grundsätzlich ist der Einsatz generativer KI an der FH Münster erlaubt und wird in einigen Bereichen bereits praktiziert.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3383,
+      "char_end": 3678,
+      "text": "Allerdings gibt es Einschränkungen: Bei Prüfungsleistungen müssen qualifizierte menschliche Prüfer*innen die finale Bewertung vornehmen, in der Forschung sind wissenschaftliche Standards einzuhalten, und beim Umgang mit personenbezogenen Daten gilt es datenschutzrechtliche Vorgaben einzuhalten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3679,
+      "char_end": 3853,
+      "text": "Unsere Hochschule hat die hier vorliegende Leitlinie entwickelt, um klare Grundsätze für einen verantwortungsvollen und kritisch-reflektierenden Einsatz von KI zu definieren.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3855,
+      "char_end": 3902,
+      "text": "Wer ist Urheber*in eines KI-generierten Textes?",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3904,
+      "char_end": 4072,
+      "text": "Grundsätzlich gilt: Weder die Entwickler*innen, die ein KI-Tool trainiert haben, noch das KI-Tool selbst verfügen über die Urheberschaft an einem KI-generierten Inhalt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4073,
+      "char_end": 4258,
+      "text": "Die Urheberschaft kann aber bei den Nutzenden liegen, sofern sie mit dem generierten Inhalt weiterarbeiten und dieser dadurch zum Produkt der geistigen Eigenleistung der Nutzenden wird.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4259,
+      "char_end": 4375,
+      "text": "Wann dies genau der Fall ist, kann – auch aufgrund der uneindeutigen Rechtslage – nicht pauschal beantwortet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4377,
+      "char_end": 4450,
+      "text": "Welche ethische Verantwortung ergibt sich aus dem Einsatz generativer KI?",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4452,
+      "char_end": 5167,
+      "text": "Die effektive und verantwortungsvolle Nutzung von KI-Tools setzt voraus, dass KI-generierte Inhalte nicht als Ersatz für den Einsatz und die Ausbildung eigenen kritischen Denkens und eigener ethischer Urteilskraft gesehen und genutzt werden, sondern umgekehrt diese Schlüsselkompetenzen in besonderer Weise herausfordern und stimulieren: Erst durch geistige Eigenleistungen des Überprüfens, Durchdenkens und kritischen Hinterfragens der KI-generierten Inhalte – einschließlich der kritischen Reflexion und Verfeinerung der an die KI herangetragenen Anfragen – wird aus KI-generierten Inhalten eine ethisch verantwortbare geistige Leistung, die sich im akademischen Diskurs vertreten lässt und vertreten werden muss.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5168,
+      "char_end": 5355,
+      "text": "Die Vorspiegelung, dass es sich bei reinen KI-generierten Inhalten bereits um geistige Eigenleistungen handelt, stellt nicht nur in Prüfungssituationen eine Täuschung und Irreführung dar.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5357,
+      "char_end": 5439,
+      "text": "Welche Vorkehrungen trifft die FH Münster im Zusammenhang mit KI beim Datenschutz?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5441,
+      "char_end": 5534,
+      "text": "Die FH Münster legt höchsten Wert auf den Schutz personenbezogener Daten beim Einsatz von KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5535,
+      "char_end": 5647,
+      "text": "Wir nutzen ausschließlich sorgfältig geprüfte KI-Systeme, die den europäischen Datenschutzstandards entsprechen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5648,
+      "char_end": 5761,
+      "text": "Klare Richtlinien regeln, welche Daten mit KI verarbeitet werden dürfen und welche Systeme dafür zugelassen sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5762,
+      "char_end": 5831,
+      "text": "Beispielhaft sei auf die Nutzungsbedingungen von LibreChat verwiesen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5833,
+      "char_end": 5929,
+      "text": "Was bedeutet Artikel 4 der KI-Verordnung der EU im Hinblick auf KI-Kompetenz für die Hochschule?",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5931,
+      "char_end": 6015,
+      "text": "Der Artikel betont die Bedeutung eines verantwortungsvollen Umgangs mit KI-Systemen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6016,
+      "char_end": 6122,
+      "text": "Für die Hochschule bedeutet das insbesondere, KI-Kompetenz bei Mitarbeitenden und Studierenden zu fördern.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6123,
+      "char_end": 6270,
+      "text": "KI-Kompetenz umfasst Kenntnisse über die Funktionsweise, Risiken und Einsatzgrenzen von KI sowie ein Verständnis der rechtlichen Rahmenbedingungen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6272,
+      "char_end": 6422,
+      "text": "FH-Münster-interne und externe Schulungsangebote tragen zur Kompetenzförderung von Hochschulangehörigen im Sinne des Artikels 4 der KI-Verordnung bei.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6423,
+      "char_end": 6665,
+      "text": "Eine bloße Zugangsmöglichkeit für Studierende zu einem KI-Werkzeug, ohne dass Lehrende von ihnen dessen Einsatz ausdrücklich verlangen, verpflichtet die Hochschule indes nicht zur Schulung der Studierenden in der Nutzung dieses KI-Werkzeuges.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6667,
+      "char_end": 6753,
+      "text": "Ist der dienstliche Einsatz privat beschaffter und finanzierter KI-Werkzeuge zulässig?",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6755,
+      "char_end": 6897,
+      "text": "Die Verwendung privat beschaffter und finanzierter KI-Werkzeuge mit hochschulinternen Daten, Informationen oder Dokumenten ist nicht zulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6898,
+      "char_end": 7010,
+      "text": "Dies gilt auch für die Bereitstellung von GPTs, Tools oder Agents zu dienstlichen Zwecken über private Accounts.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7011,
+      "char_end": 7128,
+      "text": "Die FH Münster legt beim Einsatz Künstlicher Intelligenz hohen Wert auf datenschutzrechtliche und ethische Standards.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7129,
+      "char_end": 7235,
+      "text": "Sie stellt vor der offiziellen Bereitstellung von KI-Werkzeugen sicher, dass diese Standards erfüllt sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7236,
+      "char_end": 7354,
+      "text": "Dazu trifft unsere Hochschule zum Beispiel spezifische Vereinbarungen mit Anbietern und definiert Nutzungsrichtlinien.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7355,
+      "char_end": 7575,
+      "text": "Bei privat beschafften KI-Werkzeugen dagegen ist eine Konformität mit solchen Standards nicht gewährleistet, auch dann nicht, wenn vermeintlich dieselben Tools derselben Anbieter wie an der Hochschule zum Einsatz kommen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7576,
+      "char_end": 7660,
+      "text": "Nutzen Sie daher zu dienstlichen Zwecken die von der Hochschule freigegebenen Tools.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7660,
+      "char_end": 7682,
+      "text": "\n\n## KI in der Lehre\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7682,
+      "char_end": 7743,
+      "text": "Wie kann KI in die Lehre an der FH Münster integriert werden?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7745,
+      "char_end": 7890,
+      "text": "Der Zugang zu generativer KI in der Lehre orientiert sich an einem Grundansatz der Medienpädagogik: „Bildung mit Medien zur Bildung über Medien“.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7891,
+      "char_end": 8225,
+      "text": "Während der Nutzen generativer KI bei eigenständig-experimenteller oder gezielt angeleiteter Anwendung in der Regel an der Qualität der Ergebnisse relativ schnell ersichtlich wird, bedarf die Auseinandersetzung mit Grenzen und Risiken einer vertieften gemeinsamen Reflexion, für die in Lehrveranstaltungen Zeit eingeräumt werden muss.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8227,
+      "char_end": 8469,
+      "text": "Generative KI lässt sich in verschiedenen Bereichen der Hochschullehre einsetzen, etwa bei der Planung von Seminaren, der Entwicklung von Vorlesungs- und Praktikumsunterlagen oder der Erstellung von Texten für schriftliche Prüfungsleistungen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8470,
+      "char_end": 8715,
+      "text": "Ein weiterer Anwendungsbereich ist die kritische Reflexion KI-generierter Inhalte (z. B. wissenschaftlicher Texte oder technischer Dokumentationen) durch Studierende, verbunden mit einem Abgleich der generierten Ergebnisse mit der Fachliteratur.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8716,
+      "char_end": 8979,
+      "text": "Generative KI lässt sich auch in kreative Methoden wie Brainstorming oder Design Thinking integrieren, indem in Gruppen Prompts diskutiert, die generierten Ergebnisse kollaborativ verglichen und die zugrunde liegenden Prompts wiederum kritisch reflektiert werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8981,
+      "char_end": 9198,
+      "text": "Die schnellen und tiefgreifenden Innovationszyklen generativer KI erfordern einen engen Austausch von Lehrenden mit der beruflichen Praxis und die Wahrnehmung der gesellschaftlichen und hochschuldidaktischen Diskurse.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9199,
+      "char_end": 9419,
+      "text": "Dies ist eine Aufgabe, die Lehrende nicht alleine bewältigen können, sondern die auch jene Expertise erfordert, die – im Sinne eines wechselseitigen Lernprozesses – die Studierenden in die Lehrveranstaltungen einbringen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9421,
+      "char_end": 9489,
+      "text": "Wie steht die FH Münster zu „Deskilling“ bzw. „Upskilling“ durch KI?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9491,
+      "char_end": 9611,
+      "text": "Die FH Münster sieht KI als wichtiges Werkzeug, das die Arbeitswelt verändert, aber menschliche Expertise nicht ersetzt.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9612,
+      "char_end": 9782,
+      "text": "Unsere Hochschule unterstützt, dass KI-Tools aktiv in die Lehre integriert werden, damit Studierende lernen, sie effektiv und verantwortungsvoll zu nutzen („Upskilling“).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9783,
+      "char_end": 9973,
+      "text": "Gleichzeitig legen wir besonderen Wert auf die Entwicklung von Schlüsselkompetenzen wie kritisches Denken, Problemlösung und ethische Urteilskraft, die auch in Zukunft unverzichtbar bleiben.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9974,
+      "char_end": 10310,
+      "text": "Unser Ziel in allen Studiengängen ist es, Absolvent*innen auszubilden, die KI als Ergänzung ihrer eigenen Fähigkeiten nutzen können, die für eine sich wandelnde Arbeitswelt gerüstet sind und die gleichzeitig über jene persönlichen und akademischen Skills verfügen, die dem Menschen gegenüber Künstlicher Intelligenz vorbehalten bleiben.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10310,
+      "char_end": 10333,
+      "text": "\n\n## KI und Prüfungen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10333,
+      "char_end": 10410,
+      "text": "Wie müssen KI-generierte Inhalte in Prüfungsleistungen gekennzeichnet werden?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10412,
+      "char_end": 10527,
+      "text": "Zunächst entscheiden die Prüfenden, ob die Nutzung von KI-Tools in einer von ihnen gestellten Prüfung zulässig ist.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10528,
+      "char_end": 10600,
+      "text": "Falls nein, stellt die Nutzung von KI-Tools einen Täuschungsversuch dar.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10601,
+      "char_end": 10696,
+      "text": "Die Studierenden können verpflichtet werden, eine Eigenständigkeitserklärung zu unterschreiben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10697,
+      "char_end": 11066,
+      "text": "Soweit KI-Tools eingesetzt werden dürfen, sollten die Studierenden über die Eigenständigkeitserklärung hinaus im Methodenkapitel oder einem entsprechenden Abschnitt (z. B. „Verwendete Hilfsmittel“) einer Abschluss-, Projekt- oder Hausarbeit, oder auch in einer gesonderten Stellungnahme, detailliert beschreiben, ob und gegebenenfalls wie sie KI-Tools eingesetzt haben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11067,
+      "char_end": 11201,
+      "text": "Hierzu gehören Angaben zu der verwendeten Software, zu den Einsatzbereichen innerhalb der Arbeit und zu den konkreten Aufgaben der KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11202,
+      "char_end": 11309,
+      "text": "Zudem können die Studierenden subjektive Erfahrungen und erzielte Mehrwerte durch den KI-Einsatz schildern.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11310,
+      "char_end": 11446,
+      "text": "In Absprache mit den Lehrenden sollen oder können sie sogar Links zu einzelnen Prompts und Screenshots der generierten Texte hinzufügen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11447,
+      "char_end": 11623,
+      "text": "Diese Offenlegung sorgt für eine Nachvollziehbarkeit des Vorgehens und stärkt das Vertrauen in die – je nach Disziplin unterschiedlich ausgestaltete – wissenschaftliche Arbeit.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11624,
+      "char_end": 11782,
+      "text": "Die so gewonnene Transparenz beim Einsatz von KI-Tools in schriftlichen Prüfungsleistungen ist für die wissenschaftliche Integrität der FH Münster essenziell.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11784,
+      "char_end": 11850,
+      "text": "Dürfen Prüfungsleistungen mithilfe generativer KI bewertet werden?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11852,
+      "char_end": 11969,
+      "text": "Eine vollständig automatisierte Bewertung von Prüfungsleistungen durch KI ist nach aktuellem EU-Recht nicht zulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11970,
+      "char_end": 12111,
+      "text": "Prüfungsrechtliche Vorgaben erfordern, dass qualifizierte Prüfer*innen die Bewertung vornehmen und dafür persönlich Verantwortung übernehmen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12112,
+      "char_end": 12270,
+      "text": "Zudem haben Prüfungskandidat*innen ein Recht auf Erläuterung der Bewertung und die Möglichkeit des Widerspruchs, was eine menschliche Beurteilung voraussetzt.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12271,
+      "char_end": 12503,
+      "text": "KI kann jedoch als unterstützendes Werkzeug eingesetzt werden, etwa für die Kontrolle formeller Anforderungen, für vorbereitende Analysen (z. B. der redaktionellen Qualität oder der inhaltlichen Kohärenz) oder für Plagiatsprüfungen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12504,
+      "char_end": 12690,
+      "text": "Die finale Bewertung und Verantwortung müssen aber stets bei menschlichen Prüfer*innen liegen, die das notwendige fachliche Urteilsvermögen besitzen und rechtlich dafür einstehen können.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12692,
+      "char_end": 12768,
+      "text": "Wie zuverlässig sind die Antworten von ChatGPT und anderer KI-Sprachmodelle?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12770,
+      "char_end": 12946,
+      "text": "Aktuelle KI-Sprachmodelle können sehr überzeugende und präzise Antworten generieren, sind aber nicht unfehlbar und können auch irreführende oder falsche Informationen ausgeben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12947,
+      "char_end": 13143,
+      "text": "Ein bekanntes Problem sind sogenannte Halluzinationen: Hierbei erzeugt die KI zwar plausibel klingende, aber erfundene Inhalte, wie z. B. nicht existierende Literaturquellen oder fiktive Personen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13144,
+      "char_end": 13326,
+      "text": "Die KI-Sprachmodelle können außerdem aufgrund ihrer begrenzten Trainingsdaten veraltete Informationen liefern oder bei speziellen Fachthemen wahrheitswidrige Behauptungen aufstellen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13327,
+      "char_end": 13485,
+      "text": "Aus diesen Gründen sollten die Antworten von KI-Tools grundsätzlich kritisch geprüft und wichtige Informationen durch verlässliche Quellen verifiziert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13486,
+      "char_end": 13731,
+      "text": "Das Übernehmen halluzinierter Quellen verstößt gegen die Grundsätze wissenschaftlicher Redlichkeit und kann je nach Ausmaß zur Abwertung einer Prüfungsleistung (z. B. durch Notenabzug, Nichtbestehen oder Anrechnung als Täuschungsversuch) führen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13733,
+      "char_end": 13794,
+      "text": "Lassen sich KI-generierte Texte durch KI-Detektoren erkennen?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13796,
+      "char_end": 13888,
+      "text": "Sogenannte KI-Detektoren sollen Texte, die mittels KI generiert wurden, als solche erkennen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13889,
+      "char_end": 14073,
+      "text": "Gegenwärtig gelingt derartigen Werkzeugen die Unterscheidung zwischen Texten, die auf klassische Weise von Menschen verfasst wurden, und KI-generierten Texten jedoch nicht verlässlich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14074,
+      "char_end": 14324,
+      "text": "Die Detektion scheitert insbesondere dann, wenn die KI-generierten Texte noch von Menschen nachbearbeitet wurden oder wenn ihnen – wiederum werkzeugbasiert, nämlich durch sogenannte KI-Humanizer – nachträglich ein menschlicher Duktus verliehen wurde.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14325,
+      "char_end": 14402,
+      "text": "Es ist deshalb dringend davon abzuraten, sich auf KI-Detektoren zu verlassen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14404,
+      "char_end": 14495,
+      "text": "Was bedeutet die Nutzung generativer KI für die Gestaltung zukunftsfähiger Prüfungsformate?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14497,
+      "char_end": 14649,
+      "text": "Prüfungsaufgaben und Abschlussarbeiten sind so zu gestalten, dass die Studierenden genug Spielraum erhalten, ihre Eigenleistung unter Beweis zu stellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14650,
+      "char_end": 14745,
+      "text": "Zum Beispiel sind nicht überwachte Prüfungen, die auf reines Faktenwissen abzielen, ungeeignet.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14746,
+      "char_end": 14881,
+      "text": "Stärker in den Vordergrund zu rücken sind hingegen Aufgaben, die auf Reflexions-, Beurteilungs- und Problemlösungskompetenzen abzielen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14882,
+      "char_end": 15078,
+      "text": "Beispiele für angepasste Prüfungsformate: Transfer- und Anwendungsaufgaben, Lerndokumentations- und Reflexionsaufgaben, projektbasierte Aufgaben, mündliche Prüfungen, die Eigenleistungen erfragen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15079,
+      "char_end": 15162,
+      "text": "Generative KI kann in Prüfungen ganz gezielt kompetenzorientiert eingesetzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15162,
+      "char_end": 15188,
+      "text": "\n\n## KI in der Forschung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15188,
+      "char_end": 15259,
+      "text": "Können Forschungsdaten mit generativer KI bewertet oder erzeugt werden?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15261,
+      "char_end": 15372,
+      "text": "Generative KI kann als unterstützendes Werkzeug in der Forschung eingesetzt werden, jedoch mit Einschränkungen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15373,
+      "char_end": 15562,
+      "text": "Die Bewertung von Forschungsdaten kann sich zur schnellen Analyse großer Datenmengen und zur Mustererkennung der KI bedienen, aber die Ergebnisse müssen stets von Experten validiert werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15563,
+      "char_end": 15782,
+      "text": "Die Erzeugung von Forschungsdaten durch KI ist für Simulationen und Testdatensätze möglich, aber generierte Daten müssen klar als solche gekennzeichnet werden, und ihre Validität muss durch reale Daten bestätigt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15783,
+      "char_end": 15866,
+      "text": "In beiden Fällen gilt: KI kann menschliche Expertise ergänzen, aber nicht ersetzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15867,
+      "char_end": 16006,
+      "text": "Entscheidend sind transparente Dokumentation und sorgfältige Validierung der KI-Methoden sowie die Einhaltung wissenschaftlicher Standards.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16007,
+      "char_end": 16131,
+      "text": "Forschende sollten einen Hybridansatz verfolgen, der KI-Unterstützung mit klassischer wissenschaftlicher Sorgfalt verbindet.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16133,
+      "char_end": 16210,
+      "text": "Wie verhält sich der Einsatz von KI-Tools zu den Prinzipien von Open Science?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16212,
+      "char_end": 16373,
+      "text": "Die Nutzung von KI-Tools in der Forschung tangiert die Grundsätze von Open Science und erfordert besondere Aufmerksamkeit für Transparenz und Reproduzierbarkeit.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16374,
+      "char_end": 16583,
+      "text": "Der Open Science-Gedanke verlangt, dass ein Einsatz von KI-Systemen im Forschungsprozess dokumentiert wird – von der Wahl des spezifischen Tools über die verwendeten Prompts bis zu den generierten Ergebnissen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16584,
+      "char_end": 16799,
+      "text": "Dabei besteht eine Ambivalenz zwischen proprietären KI-Systemen wie ChatGPT und dem Open Science-Prinzip der Offenheit, denn die zugrundeliegenden Modelle und Trainingsdaten sind zumeist nicht öffentlich zugänglich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16800,
+      "char_end": 16984,
+      "text": "Gleichzeitig können KI-Tools die Ziele von Open Science unterstützen, indem sie die Aufbereitung von und den Zugang zu Forschungsergebnissen für eine breite Öffentlichkeit erleichtern.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16985,
+      "char_end": 17195,
+      "text": "Die konsequente Dokumentation des KI-Einsatzes und die Bereitstellung der damit verbundenen Forschungsdaten sind daher wesentliche Voraussetzungen für eine Open Science-konforme Nutzung von KI in der Forschung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17195,
+      "char_end": 17222,
+      "text": "\n\n## KI in der Verwaltung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17222,
+      "char_end": 17278,
+      "text": "Sind durch KI Arbeitsplätze an der FH Münster gefährdet?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17280,
+      "char_end": 17444,
+      "text": "Nein. Die Einführung von KI-Systemen an unserer Hochschule zielt darauf ab, die Effizienz und Qualität der Arbeit zu steigern, nicht aber Arbeitsplätze zu ersetzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17445,
+      "char_end": 17762,
+      "text": "Während KI-gestützte Werkzeuge bei Routineaufgaben wie Dateneingaben, Dokumentenerstellung und Terminkoordination unterstützen, können sich unsere Mitarbeitenden verstärkt anspruchsvollen, kreativen und kommunikativen Aufgaben sowie komplexen Entscheidungsprozessen widmen, die menschliches Urteilsvermögen erfordern.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17763,
+      "char_end": 17863,
+      "text": "Dies führt zu einer Aufwertung der Arbeit bei gleichzeitiger Entlastung von repetitiven Tätigkeiten.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17865,
+      "char_end": 17933,
+      "text": "Kann KI zur Leistungskontrolle der Mitarbeitenden eingesetzt werden?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17935,
+      "char_end": 18089,
+      "text": "Wenn KI in der Hochschulverwaltung Verwendung findet, soll dies ausschließlich Serviceprozesse verbessern und wiederkehrende Standardaufgaben erleichtern.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18090,
+      "char_end": 18182,
+      "text": "Sowohl das Hochschulgesetz als auch die DSGVO setzen einer Leistungskontrolle klare Grenzen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18183,
+      "char_end": 18281,
+      "text": "Zudem wachen Personalräte und Datenschutzbeauftragte sehr genau über die Rechte der Beschäftigten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18282,
+      "char_end": 18423,
+      "text": "Eine Leistungskontrolle widerspricht nicht nur dem Selbstverständnis der FH Münster als Arbeitgeberin, sondern ist auch rechtlich unzulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18424,
+      "char_end": 18544,
+      "text": "Neue Technologien sollen das Arbeiten an unserer Hochschule unterstützen und effizienter gestalten, nicht kontrollieren.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18545,
+      "char_end": 18649,
+      "text": "Der Einsatz konkreter KI-Anwendungen geschieht dabei stets in Abstimmung mit den Interessenvertretungen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18649,
+      "char_end": 18677,
+      "text": "\n\n## KI und Nachhaltigkeit\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18677,
+      "char_end": 18718,
+      "text": "Wie kann KI zur Nachhaltigkeit beitragen?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18720,
+      "char_end": 18867,
+      "text": "KI kann Nachhaltigkeit fördern, indem sie Prozesse effizienter gestaltet, Ressourcen schont und die Entwicklung sauberer Technologien beschleunigt.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 125,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18868,
+      "char_end": 18936,
+      "text": "KI hat somit das Potenzial, zum Umwelt- und Klimaschutz beizutragen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18938,
+      "char_end": 18981,
+      "text": "Wie energieintensiv ist der Einsatz von KI?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18983,
+      "char_end": 19119,
+      "text": "Das Training von KI-Modellen ist sehr energieintensiv, denn es beansprucht insbesondere bei großen Modellen erhebliche Rechenressourcen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19120,
+      "char_end": 19352,
+      "text": "Doch auch der Einsatz von KI-Modellen und selbst einfache Interaktionen mit KI-Tools, wie das Erzeugen von Texten und Bildern, können durch Datentransfer und -verarbeitung mehr Strom verbrauchen als herkömmliche Suchanfragen im Web.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 129,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19353,
+      "char_end": 19665,
+      "text": "Prognosen gehen davon aus, dass die Energieverbräuche von Rechenzentren für KI-Anwendungen in den kommenden Jahren stark ansteigen werden, und damit auch die CO2-Emissionen, da derzeit noch ein Großteil des Stroms für den Betrieb von Rechenzentren, einschließlich ihrer Kühlung, aus fossilen Brennstoffen stammt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 130,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19666,
+      "char_end": 19756,
+      "text": "Die Notwendigkeit von KI-Eingaben (Prompts) sollte daher auch kritisch hinterfragt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 131,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19756,
+      "char_end": 19796,
+      "text": "\n\n## Weitere Informationen und Kontakt\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19796,
+      "char_end": 19978,
+      "text": "Wenden Sie sich bei Fragen oder Anregungen zur KI-Leitlinie der FH Münster gerne an Prof. Dr. Gernot Bauer (gernot.bauer@fh-muenster.de, Leiter der Taskforce Künstliche Intelligenz).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 132,
+      "match_type": "exact"
+    }
+  ]
+}

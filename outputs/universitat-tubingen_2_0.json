@@ -1,0 +1,804 @@
+{
+  "doc_id": "universitat-tubingen_2_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Universität als Entwicklungsraum"
+    },
+    {
+      "id": 2,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Vielfältige Potenziale"
+    },
+    {
+      "id": 3,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Problematische Implikationen"
+    },
+    {
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziele und Leitlinien"
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Liebe Mitglieder und Angehörige der Universität,"
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "„ChatGPT“ und andere Tools aus dem Feld der generativen KI sind im öffentlichen Diskurs allgegenwärtig. Die Universität Tübingen nimmt sich der Verantwortung an, diese Debatten zu adressieren, mitzugestalten und Leitlinien zu entwickeln."
+    },
+    {
+      "id": 7,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zu diesem Zweck hat das Rektorat die „AG Generative KI“ eingerichtet, zusammengesetzt aus Mitgliedern aller Fakultäten, der zentralen Verwaltung und relevanter Einrichtungen. Die AG ist damit beauftragt, das Rektorat zum Einsatz generativer KI an der Universität Tübingen zu beraten."
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ihre Mitglieder vertreten eine kritisch-optimistische Haltung bezüglich der Möglichkeiten generativer KI."
+    },
+    {
+      "id": 9,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Gemeinsam haben Rektorat und AG Leitlinien diskutiert, die kontinuierlich weiterentwickelt werden. Diese zielen auf einen kritisch-reflexiven, transparenten und verantwortungsvollen Umgang mit generativer KI."
+    },
+    {
+      "id": 10,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Im Folgenden stellen wir Ihnen den Stand der Diskussion vor."
+    },
+    {
+      "id": 11,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Als zukunftsorientierte und progressive Universität erkennt die Universität Tübingen das transformative Potenzial generativer KI an."
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dieses Potenzial erfasst aktuell viele Bereiche der Gesellschaft und verändert sowohl die universitäre als auch die außeruniversitäre Arbeitswelt. Generative KI wird bereits mit rasanter Geschwindigkeit in unterschiedliche Berufsfelder eingebunden. Es wird keine Welt mehr ohne KI geben."
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zahllose Studierende der UT werden künftig in Berufsfeldern tätig sein, in denen der Umgang mit generativer KI zu ganz alltäglichen Arbeitsprozessen gehört."
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Genauso wird generative KI auch den Arbeitsalltag von Forschenden unterschiedlicher Disziplinen sowie von Mitarbeitenden der Verwaltung zunehmend verändern."
+    },
+    {
+      "id": 15,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Darin sieht die UT eine große Herausforderung, aber auch eine substanzielle Chance. Denn die Universität kann der Ort sein, an dem kritisch-reflexive, transparente und verantwortungsvolle Umgangsweisen mit generativer KI erarbeitet, ausgehandelt und vermittelt werden."
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "So trägt sie dazu bei, dass der gesellschaftliche Wandel im Kontext von KI problembewusst und zugleich konstruktiv gestaltet werden kann."
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Potenziale generativer KI im Bereich der Text- und Datenverarbeitung sind äußerst vielfältig."
+    },
+    {
+      "id": 18,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Für die Universität Tübingen erstrecken sie sich über alle relevanten Bereiche: Generative KI hat das Potenzial zu verändern, wie Studierende lernen und sich in einer von Daten gesättigten Wissenschaftswelt bewegen."
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Sie kann neue didaktische Ansätze in der digitalen Lehre ermöglichen, Forschenden veränderte Umgangsweisen mit Texten oder Bildern eröffnen, zur Erweiterung der Wissenschaftskommunikation beitragen und nicht zuletzt auf Ebene der Verwaltung unterstützen."
+    },
+    {
+      "id": 20,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Vielfalt der Möglichkeiten macht eine genaue Bestimmung von Potenzialen sowie die Entwicklung von Regelwerken besonders herausfordernd."
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Klar ist, dass generative KI für Studium, Lehre, Forschung und Wissenschaftskommunikation jeweils eigene Potenziale bietet und pauschale Einschätzungen wenig zielführend sind."
+    },
+    {
+      "id": 22,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Aktuell befindet sich die Universität in einer Phase der Exploration, in der Potenziale in allen genannten Feldern erkundet, getestet und kritisch diskutiert werden müssen."
+    },
+    {
+      "id": 23,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In Anbetracht der rasanten technischen Entwicklung und technologischer „Hypes“ gilt es, die Potenziale von generativer KI realistisch einzuschätzen, um sie für eine zukunftsorientierte Universität in einem definierten Rahmen nutzbar machen zu können."
+    },
+    {
+      "id": 24,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative KI hat neben vielfältigen Potenzialen auch zahlreiche problematische Implikationen."
+    },
+    {
+      "id": 25,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dazu gehören die Tatsache, dass viele urheberrechtliche sowie datenschutzrechtliche Fragen ungeklärt bleiben."
+    },
+    {
+      "id": 26,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generierte Texte können falsche, missverständliche oder irreführende Ergebnisse produzieren und Quellen 'halluzinieren'."
+    },
+    {
+      "id": 27,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Generative KI kann den bereits in die Trainingsdaten der Systeme eingeschriebenen Bias reproduzieren."
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Soziale, kulturelle und wissenschaftliche Vorannahmen können sich in die Systeme und die generierten Texte einschreiben."
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Entwicklerinnen und Entwickler können die generierten Texte zum Teil gezielt manipulieren."
+    },
+    {
+      "id": 30,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Darüber hinaus hat generative KI bei massenhafter Nutzung einen substanziellen ökologischen Fußabdruck, insbesondere durch Stromverbrauch, CO₂-Ausstoß, den Verschleiß von Mineralien und Wasserverbrauch."
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Außerdem können unterschiedliche Bezahlmodelle für stärkere und schwächere KI-Systeme ökonomische Ungleichheitsverhältnisse (bspw. zwischen Studierenden mit unterschiedlichen Einkommensverhältnissen) noch verschärfen."
+    },
+    {
+      "id": 32,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Zentrales Ziel der Universität Tübingen ist deshalb, die Potenziale generativer KI zu erproben und in den verschiedenen Bereichen der Universität produktiv einzusetzen, ohne die bereits erwähnten problematischen Implikationen aus dem Blick zu verlieren."
+    },
+    {
+      "id": 33,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Dafür müssen sowohl grundlegende als auch fachspezifische Lehrangebote erarbeitet und rechtliche Rahmenbedingungen z.B. für den Einsatz in Prüfungen geschaffen werden."
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Auch auf Ebene der Forschung, Wissenschaftskommunikation und Verwaltung braucht die Universität einen kritischen Diskurs zu den Potenzialen und Grenzen generativer KI."
+    },
+    {
+      "id": 35,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Das Erreichen dieser Ziele wird viel Arbeit und Aufmerksamkeit fordern. Allerdings zeigt sich bereits jetzt, dass zentrale Leitlinien unverzichtbar sind."
+    },
+    {
+      "id": 36,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Erstens sind die Mitglieder der Universität zu einem kritisch-reflexiven Umgang mit generativer KI aufgefordert."
+    },
+    {
+      "id": 37,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Viele der Probleme mit generativer KI entstehen (auch auf gesellschaftlicher Ebene) aufgrund einer unbedarften Haltung."
+    },
+    {
+      "id": 38,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Zur kritisch-reflexiven Haltung gehört sowohl die Entwicklung eines differenzierten Problembewusstseins als auch die Fähigkeit, die Potenziale und Limitationen generativer KI realistisch einschätzen zu können."
+    },
+    {
+      "id": 39,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Zweitens soll der Umgang mit generativer KI grundlegend transparent gestaltet werden."
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wird generative KI eingesetzt (sei es in Forschung, Studium, Verwaltung oder Wissenschaftskommunikation), ist das Vorgehen zu dokumentieren und im jeweiligen Format transparent sichtbar zu machen."
+    },
+    {
+      "id": 41,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Drittens sind alle Mitglieder der Universität zu einer verantwortungsvollen Nutzung generativer KI im Sinne der Regeln guter wissenschaftlicher Praxis angehalten."
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das heißt unter anderem, dass es auch bei der Arbeit mit generativer KI in der Eigenverantwortung der Verfasserinnen und Verfasser liegt, dass ihre Texte keine Plagiate enthalten und alle Quellen kritisch geprüft wurden."
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es heißt auch, dass die jeweiligen Nutzerinnen und Nutzer Verantwortung dafür übernehmen müssen, wie und zu welchem Zweck die zur Verfügung gestellten Daten durch KI-Systeme weiterverarbeitet werden."
+    },
+    {
+      "id": 44,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "In welcher Form diese Leitlinien umgesetzt werden, ist notwendigerweise in unterschiedlichen Arbeitsfeldern und Fachkulturen individuell zu handhaben."
+    },
+    {
+      "id": 45,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Fächer und Institutionen sind aufgefordert, eigene Richtlinien zu formulieren und zur Verfügung zu stellen."
+    },
+    {
+      "id": 46,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Zur Bearbeitung besonders dringlicher prüfungsrechtlicher Fragen entwickeln die AG Generative KI und das Rektorat aktuell grundlegende Lösungsansätze."
+    },
+    {
+      "id": 47,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese sollen als Basis für eine Weiterentwicklung in den Fakultäten und Einrichtungen dienen."
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Sind die grundlegenden Bedingungen eines kritisch-reflexiven, transparenten und verantwortungsvollen Umgangs erfüllt, kann generative KI Potenziale bieten, um Arbeitsprozesse an und jenseits der Universität zu bereichern."
+    },
+    {
+      "id": 49,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Worin diese Bereicherungen im Einzelnen bestehen und wie sie in einem kritischen Abwägungsprozess mit den problematischen Implikationen zu bewerten sind, wird in den kommenden Jahren Gegenstand kontinuierlicher Diskussionen an der Universität Tübingen sein."
+    }
+  ],
+  "validation": {
+    "total": 49,
+    "matched": 49,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.938,
+    "uncovered_chars": 392,
+    "uncovered_gaps": 1,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 392,
+        "length": 392,
+        "text": "# universität tübingen # source: https://unituebingen.de/lehrende/generativekiinlehreundforschung/leitliniederuniversitaettuebingen/ # date: none # category: guideline die leitlinie zum umgang mit generativen ki tools in lehre und forschung finden sie hier auf der website vollständig als text zum lesen oder als pdf zum download. diese repräsentiert die haltung der universität. **vorwort**"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 404,
+      "text": "# Universität Tübingen\n# Source: https://uni-tuebingen.de/lehrende/generative-ki-in-lehre-und-forschung/leitlinie-der-universitaet-tuebingen/\n# Date: None\n# Category: guideline\n\nDie Leitlinie zum Umgang mit generativen KI Tools in Lehre und Forschung finden Sie hier auf der Website vollständig als Text zum Lesen oder als PDF zum Download. Diese repräsentiert die Haltung der Universität.\n\n**Vorwort**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 404,
+      "char_end": 440,
+      "text": "Die Universität als Entwicklungsraum",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 440,
+      "char_end": 444,
+      "text": "\n\n**",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 444,
+      "char_end": 466,
+      "text": "Vielfältige Potenziale",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 466,
+      "char_end": 472,
+      "text": "**\n\n**",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 472,
+      "char_end": 500,
+      "text": "Problematische Implikationen",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 500,
+      "char_end": 506,
+      "text": "**\n\n**",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 506,
+      "char_end": 526,
+      "text": "Ziele und Leitlinien",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 526,
+      "char_end": 530,
+      "text": "**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 530,
+      "char_end": 578,
+      "text": "Liebe Mitglieder und Angehörige der Universität,",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 580,
+      "char_end": 817,
+      "text": "„ChatGPT“ und andere Tools aus dem Feld der generativen KI sind im öffentlichen Diskurs allgegenwärtig. Die Universität Tübingen nimmt sich der Verantwortung an, diese Debatten zu adressieren, mitzugestalten und Leitlinien zu entwickeln.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 818,
+      "char_end": 1101,
+      "text": "Zu diesem Zweck hat das Rektorat die „AG Generative KI“ eingerichtet, zusammengesetzt aus Mitgliedern aller Fakultäten, der zentralen Verwaltung und relevanter Einrichtungen. Die AG ist damit beauftragt, das Rektorat zum Einsatz generativer KI an der Universität Tübingen zu beraten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1102,
+      "char_end": 1207,
+      "text": "Ihre Mitglieder vertreten eine kritisch-optimistische Haltung bezüglich der Möglichkeiten generativer KI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1208,
+      "char_end": 1416,
+      "text": "Gemeinsam haben Rektorat und AG Leitlinien diskutiert, die kontinuierlich weiterentwickelt werden. Diese zielen auf einen kritisch-reflexiven, transparenten und verantwortungsvollen Umgang mit generativer KI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1417,
+      "char_end": 1477,
+      "text": "Im Folgenden stellen wir Ihnen den Stand der Diskussion vor.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1479,
+      "char_end": 1611,
+      "text": "Als zukunftsorientierte und progressive Universität erkennt die Universität Tübingen das transformative Potenzial generativer KI an.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1612,
+      "char_end": 1899,
+      "text": "Dieses Potenzial erfasst aktuell viele Bereiche der Gesellschaft und verändert sowohl die universitäre als auch die außeruniversitäre Arbeitswelt. Generative KI wird bereits mit rasanter Geschwindigkeit in unterschiedliche Berufsfelder eingebunden. Es wird keine Welt mehr ohne KI geben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1900,
+      "char_end": 2056,
+      "text": "Zahllose Studierende der UT werden künftig in Berufsfeldern tätig sein, in denen der Umgang mit generativer KI zu ganz alltäglichen Arbeitsprozessen gehört.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2057,
+      "char_end": 2213,
+      "text": "Genauso wird generative KI auch den Arbeitsalltag von Forschenden unterschiedlicher Disziplinen sowie von Mitarbeitenden der Verwaltung zunehmend verändern.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2214,
+      "char_end": 2482,
+      "text": "Darin sieht die UT eine große Herausforderung, aber auch eine substanzielle Chance. Denn die Universität kann der Ort sein, an dem kritisch-reflexive, transparente und verantwortungsvolle Umgangsweisen mit generativer KI erarbeitet, ausgehandelt und vermittelt werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2483,
+      "char_end": 2620,
+      "text": "So trägt sie dazu bei, dass der gesellschaftliche Wandel im Kontext von KI problembewusst und zugleich konstruktiv gestaltet werden kann.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2622,
+      "char_end": 2719,
+      "text": "Die Potenziale generativer KI im Bereich der Text- und Datenverarbeitung sind äußerst vielfältig.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2720,
+      "char_end": 2935,
+      "text": "Für die Universität Tübingen erstrecken sie sich über alle relevanten Bereiche: Generative KI hat das Potenzial zu verändern, wie Studierende lernen und sich in einer von Daten gesättigten Wissenschaftswelt bewegen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2936,
+      "char_end": 3190,
+      "text": "Sie kann neue didaktische Ansätze in der digitalen Lehre ermöglichen, Forschenden veränderte Umgangsweisen mit Texten oder Bildern eröffnen, zur Erweiterung der Wissenschaftskommunikation beitragen und nicht zuletzt auf Ebene der Verwaltung unterstützen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3191,
+      "char_end": 3330,
+      "text": "Die Vielfalt der Möglichkeiten macht eine genaue Bestimmung von Potenzialen sowie die Entwicklung von Regelwerken besonders herausfordernd.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3331,
+      "char_end": 3506,
+      "text": "Klar ist, dass generative KI für Studium, Lehre, Forschung und Wissenschaftskommunikation jeweils eigene Potenziale bietet und pauschale Einschätzungen wenig zielführend sind.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3507,
+      "char_end": 3679,
+      "text": "Aktuell befindet sich die Universität in einer Phase der Exploration, in der Potenziale in allen genannten Feldern erkundet, getestet und kritisch diskutiert werden müssen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3680,
+      "char_end": 3930,
+      "text": "In Anbetracht der rasanten technischen Entwicklung und technologischer „Hypes“ gilt es, die Potenziale von generativer KI realistisch einzuschätzen, um sie für eine zukunftsorientierte Universität in einem definierten Rahmen nutzbar machen zu können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3932,
+      "char_end": 4026,
+      "text": "Generative KI hat neben vielfältigen Potenzialen auch zahlreiche problematische Implikationen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4027,
+      "char_end": 4136,
+      "text": "Dazu gehören die Tatsache, dass viele urheberrechtliche sowie datenschutzrechtliche Fragen ungeklärt bleiben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4137,
+      "char_end": 4257,
+      "text": "Generierte Texte können falsche, missverständliche oder irreführende Ergebnisse produzieren und Quellen 'halluzinieren'.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4258,
+      "char_end": 4359,
+      "text": "Generative KI kann den bereits in die Trainingsdaten der Systeme eingeschriebenen Bias reproduzieren.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4360,
+      "char_end": 4480,
+      "text": "Soziale, kulturelle und wissenschaftliche Vorannahmen können sich in die Systeme und die generierten Texte einschreiben.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4481,
+      "char_end": 4571,
+      "text": "Entwicklerinnen und Entwickler können die generierten Texte zum Teil gezielt manipulieren.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4572,
+      "char_end": 4774,
+      "text": "Darüber hinaus hat generative KI bei massenhafter Nutzung einen substanziellen ökologischen Fußabdruck, insbesondere durch Stromverbrauch, CO₂-Ausstoß, den Verschleiß von Mineralien und Wasserverbrauch.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4775,
+      "char_end": 4992,
+      "text": "Außerdem können unterschiedliche Bezahlmodelle für stärkere und schwächere KI-Systeme ökonomische Ungleichheitsverhältnisse (bspw. zwischen Studierenden mit unterschiedlichen Einkommensverhältnissen) noch verschärfen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4994,
+      "char_end": 5247,
+      "text": "Zentrales Ziel der Universität Tübingen ist deshalb, die Potenziale generativer KI zu erproben und in den verschiedenen Bereichen der Universität produktiv einzusetzen, ohne die bereits erwähnten problematischen Implikationen aus dem Blick zu verlieren.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5248,
+      "char_end": 5415,
+      "text": "Dafür müssen sowohl grundlegende als auch fachspezifische Lehrangebote erarbeitet und rechtliche Rahmenbedingungen z.B. für den Einsatz in Prüfungen geschaffen werden.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5416,
+      "char_end": 5583,
+      "text": "Auch auf Ebene der Forschung, Wissenschaftskommunikation und Verwaltung braucht die Universität einen kritischen Diskurs zu den Potenzialen und Grenzen generativer KI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5584,
+      "char_end": 5737,
+      "text": "Das Erreichen dieser Ziele wird viel Arbeit und Aufmerksamkeit fordern. Allerdings zeigt sich bereits jetzt, dass zentrale Leitlinien unverzichtbar sind.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5739,
+      "char_end": 5851,
+      "text": "Erstens sind die Mitglieder der Universität zu einem kritisch-reflexiven Umgang mit generativer KI aufgefordert.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5852,
+      "char_end": 5971,
+      "text": "Viele der Probleme mit generativer KI entstehen (auch auf gesellschaftlicher Ebene) aufgrund einer unbedarften Haltung.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5972,
+      "char_end": 6181,
+      "text": "Zur kritisch-reflexiven Haltung gehört sowohl die Entwicklung eines differenzierten Problembewusstseins als auch die Fähigkeit, die Potenziale und Limitationen generativer KI realistisch einschätzen zu können.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6183,
+      "char_end": 6268,
+      "text": "Zweitens soll der Umgang mit generativer KI grundlegend transparent gestaltet werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6269,
+      "char_end": 6465,
+      "text": "Wird generative KI eingesetzt (sei es in Forschung, Studium, Verwaltung oder Wissenschaftskommunikation), ist das Vorgehen zu dokumentieren und im jeweiligen Format transparent sichtbar zu machen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6467,
+      "char_end": 6629,
+      "text": "Drittens sind alle Mitglieder der Universität zu einer verantwortungsvollen Nutzung generativer KI im Sinne der Regeln guter wissenschaftlicher Praxis angehalten.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6630,
+      "char_end": 6850,
+      "text": "Das heißt unter anderem, dass es auch bei der Arbeit mit generativer KI in der Eigenverantwortung der Verfasserinnen und Verfasser liegt, dass ihre Texte keine Plagiate enthalten und alle Quellen kritisch geprüft wurden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6851,
+      "char_end": 7050,
+      "text": "Es heißt auch, dass die jeweiligen Nutzerinnen und Nutzer Verantwortung dafür übernehmen müssen, wie und zu welchem Zweck die zur Verfügung gestellten Daten durch KI-Systeme weiterverarbeitet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7052,
+      "char_end": 7202,
+      "text": "In welcher Form diese Leitlinien umgesetzt werden, ist notwendigerweise in unterschiedlichen Arbeitsfeldern und Fachkulturen individuell zu handhaben.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7203,
+      "char_end": 7314,
+      "text": "Die Fächer und Institutionen sind aufgefordert, eigene Richtlinien zu formulieren und zur Verfügung zu stellen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7315,
+      "char_end": 7465,
+      "text": "Zur Bearbeitung besonders dringlicher prüfungsrechtlicher Fragen entwickeln die AG Generative KI und das Rektorat aktuell grundlegende Lösungsansätze.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7466,
+      "char_end": 7559,
+      "text": "Diese sollen als Basis für eine Weiterentwicklung in den Fakultäten und Einrichtungen dienen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7561,
+      "char_end": 7782,
+      "text": "Sind die grundlegenden Bedingungen eines kritisch-reflexiven, transparenten und verantwortungsvollen Umgangs erfüllt, kann generative KI Potenziale bieten, um Arbeitsprozesse an und jenseits der Universität zu bereichern.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7783,
+      "char_end": 8040,
+      "text": "Worin diese Bereicherungen im Einzelnen bestehen und wie sie in einem kritischen Abwägungsprozess mit den problematischen Implikationen zu bewerten sind, wird in den kommenden Jahren Gegenstand kontinuierlicher Diskussionen an der Universität Tübingen sein.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 49,
+      "match_type": "exact"
+    }
+  ]
+}

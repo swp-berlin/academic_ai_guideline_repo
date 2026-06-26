@@ -83,7 +83,7 @@ B CODES (primary function — what is the segment doing?):
 
 CODING GUIDANCE:
 - If a segment is about what the document IS, why it exists, who it is for, prefer B1/B2/B3/B4 over operational codes.
-- Prefer B10 when describing a risk or concern; prefer B8 when prescribing a concrete safeguard in response.
+- Prefer B10 when describing a risk or concern; prefer B8 when prescribing a concrete safeguard or action a person can take in response.
 - Use B5 for high-level values or principles that don't prescribe a concrete action.
 - Use B9 when the segment assigns responsibility, accountability, or oversight roles.
 
@@ -567,8 +567,9 @@ def _find_in_source(
     if idx >= 0 and not _overlaps(idx, idx + len(seg_lower), used_ranges):
         return idx, idx + len(seg_lower)
 
-    # Strategy 3: use first and last ~30 chars as anchors
-    # This handles cases where the model slightly modified the middle
+    # Strategy 3: use first and last anchors, but only accept the candidate
+    # if the entire extracted span equals the segment in normalized space.
+    # This prevents "correct start/end with hallucinated middle" matches.
     anchor_len = min(30, len(seg_lower) // 2)
     if anchor_len < 10:
         return None
@@ -576,19 +577,31 @@ def _find_in_source(
     start_anchor = seg_lower[:anchor_len]
     end_anchor = seg_lower[-anchor_len:]
 
-    start_idx = source_lower.find(start_anchor)
-    if start_idx < 0:
+    seg_norm = _normalize_for_matching(seg_text)
+    if not seg_norm:
         return None
 
-    # search for end anchor after start
-    end_search_start = start_idx + anchor_len
-    end_idx = source_lower.find(end_anchor, end_search_start)
-    if end_idx < 0:
-        return None
+    start_search = 0
+    while True:
+        start_idx = source_lower.find(start_anchor, start_search)
+        if start_idx < 0:
+            break
 
-    span_end = end_idx + len(end_anchor)
-    if not _overlaps(start_idx, span_end, used_ranges):
-        return start_idx, span_end
+        end_search = start_idx + anchor_len
+        while True:
+            end_idx = source_lower.find(end_anchor, end_search)
+            if end_idx < 0:
+                break
+
+            span_end = end_idx + len(end_anchor)
+            if not _overlaps(start_idx, span_end, used_ranges):
+                candidate = source[start_idx:span_end]
+                if _normalize_for_matching(candidate) == seg_norm:
+                    return start_idx, span_end
+
+            end_search = end_idx + 1
+
+        start_search = start_idx + 1
 
     return None
 
@@ -745,6 +758,11 @@ def main() -> int:
     group.add_argument("--file", type=Path, help="Process a single .txt file")
     group.add_argument("--dir", type=Path, help="Process all .txt files in directory")
     parser.add_argument("--output", type=Path, default=None, help="Output directory")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-code even if the output JSON for a document already exists",
+    )
     args = parser.parse_args()
 
     api_key = os.environ.get("MISTRAL_API_KEY", "")
@@ -774,6 +792,10 @@ def main() -> int:
 
     with httpx.Client(timeout=6400.0) as client:
         for i, text_path in enumerate(files):
+            out_path = out_dir / f"{text_path.stem}.json"
+            if out_path.exists() and not args.force:
+                print(f"  exists, skipping {out_path.name} (use --force to re-code)")
+                continue
             try:
                 process_file(
                     client=client,

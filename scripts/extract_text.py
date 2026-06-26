@@ -63,10 +63,16 @@ def load_guidelines() -> list[dict]:
 
 
 
-def find_downloaded_file(slug: str) -> Path | None:
+def version_tag(entry: dict) -> str:
+    return str(entry.get("version") or "1_0").replace(".", "_")
+
+
+def find_downloaded_file(slug: str, version: str) -> Path | None:
+    """Locate the download for an exact (slug, version): downloads/{slug}_{version}.*"""
+    stem = f"{slug}_{version}"
     candidates = sorted(
         p
-        for p in DOWNLOADS_DIR.glob(f"{slug}.*")
+        for p in DOWNLOADS_DIR.glob(f"{stem}.*")
         if p.is_file() and p.suffix.lower() in SUPPORTED_INPUT_EXTENSIONS
     )
     if not candidates:
@@ -74,7 +80,7 @@ def find_downloaded_file(slug: str) -> Path | None:
     if len(candidates) > 1:
         names = ", ".join(c.name for c in candidates)
         raise RuntimeError(
-            f"multiple downloaded files for '{slug}': {names}; clean up downloads/ first"
+            f"multiple downloaded files for '{stem}': {names}; clean up downloads/ first"
         )
     return candidates[0]
 
@@ -85,7 +91,6 @@ def find_downloaded_file(slug: str) -> Path | None:
 def get_api_key() -> str:
     return (
         os.getenv("MISTRAL_API_KEY")
-        or os.getenv("mistral_api_key")
         or ""
     ).strip()
 
@@ -119,8 +124,7 @@ def should_retry_exception(exc: Exception) -> bool:
 
 def backoff_seconds(attempt: int) -> float:
     base = min(5 * (2 ** attempt), 60)
-    jitter = random.uniform(0, 1.0)
-    return base + jitter
+    return base
 
 
 
@@ -203,8 +207,6 @@ def pages_to_markdown(payload: dict[str, Any]) -> str:
 
 def extract_pdf_ocr(path: Path, api_key: str, max_retries: int = 4) -> str:
     """Extract text from PDF using Mistral OCR API via direct HTTP.
-
-    This uses the current upload -> file_id -> OCR flow instead of signed URLs.
     Retries transient HTTP/network failures with exponential backoff.
     """
     last_err: Exception | None = None
@@ -332,16 +334,21 @@ def main() -> int:
 
     for entry in tqdm(guidelines, desc="Extracting"):
         slug = entry["slug"]
-        txt_path = TEXTS_DIR / f"{slug}.txt"
-
-        if txt_path.exists() and not args.force:
-            results["exists"] += 1
-            continue
 
         try:
-            download_path = find_downloaded_file(slug)
+            download_path = find_downloaded_file(slug, version_tag(entry))
             if download_path is None:
                 results["missing"] += 1
+                continue
+
+            # The version rides along from the download filename:
+            # downloads/{slug}_1_0.pdf -> texts/{slug}_1_0.txt. Each entry
+            # resolves its own version exactly, so 1_0 and 2_0 never collide and
+            # a missing version's text is a visible "rerun this one" signal.
+            txt_path = TEXTS_DIR / f"{download_path.stem}.txt"
+
+            if txt_path.exists() and not args.force:
+                results["exists"] += 1
                 continue
 
             text, used_fallback = extract_file(download_path, api_key)

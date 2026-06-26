@@ -1,0 +1,368 @@
+# Christian-Albrechts-Universität zu Kiel
+# Source: https://www.digitale-lehre.uni-kiel.de/de/ki-anwendungen-pruefungen/downloads/orientierungsleitfaden-zur-nutzung-generativer-ki-stand-august-2025
+# Date: 2025-08
+# Category: guideline
+# Download file: cau-kiel_1_0.pdf
+# Extraction: mistral-ocr
+
+C | A | U
+
+Christian-Albrechts-Universität zu Kiel
+
+Geschäftsbereich Qualitätsentwicklung
+
+# Orientierungsleitfaden zur Nutzung generativer KI
+
+Stand: August 2025
+
+## Inhalt
+
+Was ist generative KI? ... 3
+Sind webbasierte generative KI-Tools DSGVO-konform? ... 3
+Welche datenschutzkonformen Alternativen sind für Studium und Lehre geeignet? ... 3
+Lässt sich generative KI lokal und ohne Datenweitergabe einsetzen? ... 4
+Was passiert mit den Daten, wenn ich webbasierte generative KI wie ChatGPT nutze? ... 4
+Was passiert mit den Daten, wenn ich eine Schnittstelle wie HAWKI nutze? ... 5
+Welche Daten sollten nicht eingegeben werden? ... 5
+Wer haftet bei Fehlern? ... 6
+Warum kann es sinnvoll sein, generative KI in die eigene Lehre zu integrieren? ... 6
+Wie kann ich generative KI zum Lernen und Lehren einsetzen? ... 6
+Wie bekomme ich Unterstützung bei der Nutzung von generativer KI? Wo finde ich Materialien,
+Beratungsangebote und Workshops zur Weiterbildung? ... 7
+In welchen Prüfungen ist generative KI erlaubt? ... 7
+Darf ich die Verwendung von generativer KI in Hausarbeiten erlauben? ... 8
+Darf ich von Studierenden verlangen, generative KI zu nutzen? ... 8
+Darf ich die Nutzung von generativer KI im Kontext meiner Prüfungen verbieten? ... 8
+Wer verfügt über das Urheberrecht für KI generierten Text? Wann verletze ich ggf. das Urheberrecht? ... 9
+Studierende sollen weiterhin Schreibkompetenzen erwerben. Hindert sie die Nutzung von generativer KI, wenn
+sie es ständig als Hilfsmittel nutzen? ... 9
+
+Geschäftsbereich Qualitätsentwicklung, http://www.ge.uni-kiel.de/
+
+---
+
+Was passiert mit Basiskompetenzen und Grundwissen, wenn zunehmend KI eingesetzt wird? (Problem De-Skilling)... 9
+Wie können unbeaufsichtigte Prüfungen (oder Aufgaben) wie Hausarbeiten, Take-Home-Klausuren, Übungen oder Laborberichte so gestaltet werden, dass... 10
+Darf ich generative KI nutzen, um Prüfungsleistungen der Studierenden zu bewerten?... 12
+Darf ich als Lehrende*r mit generativer KI Lernmaterialien für Studierende produzieren?... 12
+Welche Regelungen gibt es seitens der CAU? Dürfen Studierende uneingeschränkt generative KI nutzen?... 12
+Wie nutzen Studierende bisher generative KI (GPT) und wofür?... 12
+Dürfen eigene ChatGPT-Accounts genutzt werden?... 13
+Warum werden keine Open Source Sprachmodelle angeboten?... 13
+
+2
+
+Stand: August 2025
+
+---
+
+## Was ist generative KI?
+
+Generative KI bezeichnet eine Klasse von Systemen, die auf Grundlage umfangreicher Trainingsdaten neue Inhalte (z. B. Texte, Bilder, Code oder Videos) erzeugen können. Technisch basieren viele dieser Systeme auf sogenannten Large Language Models (LLMs) wie GPT (OpenAI), Claude (Anthropic), Llama (Meta) oder Gemini (Google). Diese Sprachmodelle erzeugen ihre Textausgabe mit Hilfe eines künstlichen neuronalen Netzes, das Wahrscheinlichkeiten für mögliche Fortsetzungen ermittelt. Statt ganzer Wörter werden dabei sogenannte Token verwendet. Token sind kleine Spracheinheiten wie Wörter, Wortteile oder Zeichen.
+
+Die Fortsetzung der Texteingabe erfolgt stochastisch: Jedes Token wird gewichtet und beeinflusst, wie das nächste Token ausgewählt wird. Häufigere Token werden bevorzugt, doch auch weniger wahrscheinliche Token können gelegentlich ausgewählt werden. So entstehen Texte, die variabel und natürlich wirken. Daher kann dieselbe Eingabe zu unterschiedlichen Ausgaben führen, da das Modell die nächste Spracheinheit auf Grundlage von Wahrscheinlichkeiten und mit einem gewissen Zufallsanteil auswählt.
+
+Obwohl diese Modelle kein wirkliches Sprachverständnis besitzen, können sie es überzeugend simulieren. Durch gut strukturierte Aufgabenstellungen in den Texteingaben (Prompting) lassen sich zunehmend komplexere Aufgaben bearbeiten. Die Ergebnisse müssen jedoch stets kritisch geprüft werden.
+
+## Sind webbasierte generative KI-Tools DSGVO-konform?
+
+In der Regel nein. Die Nutzung großer generativer KI-Systeme ist datenschutzrechtlich problematisch, da personenbezogene Daten häufig an Anbieter außerhalb der EU (z. B. in die USA oder China) übermittelt werden können. Dabei besteht keine vollständige Kontrolle über die Datenverarbeitung. Die Anforderungen der DSGVO sind in diesen Fällen nicht vollständig gewährleistet.
+
+## Welche datenschutzkonformen Alternativen sind für Studium und Lehre geeignet?
+
+Viele generative KI-Tools unterliegen Datenschutzbestimmungen, die nicht mit der DSGVO vereinbar sind. Für Studium und Lehre sollten daher bevorzugt datenschutzkonforme Zugänge genutzt werden, bei denen keine personenbezogenen Daten direkt an die Anbieter übermittelt werden.
+
+Für den Einsatz im Hochschulkontext empfehlen sich daher Plattformen, die einen geregelten und datenschutzkonformen Zugriff auf generative KI ermöglichen.
+
+**ChatAI über die Academic Cloud (GWDG):**
+
+Mit ChatAI stellt die Academic Cloud eine Umgebung bereit, in der verschiedene aktuelle Sprachmodelle wie LLaMA, Qwen oder DeepSeek R1 datenschutzkonform getestet werden können. Der Zugang erfolgt über Single Sign-On auch für Hochschulangehörige der CAU. Nutzer*innen können System-Prompts definieren, die Kreativität bzw. Antwortvielfalt über sogenannte Temperature-Werte steuern und unterschiedliche Modelle gezielt vergleichen.
+
+Empfohlen für: Lehrende, die unterschiedliche LLMs ausprobieren und vergleichen möchten.
+
+Stand: August 2025
+
+3
+
+---
+
+## HAWKI über den KI-Campus: https://ki-campus.org
+
+HAWKI ist ein Open Source Tool, das im Hintergrund an ChatGPT von OpenAI angebunden ist und für akademische Bedarfe entwickelt wurde. Es ermöglicht den datenschutzkonformen Einsatz von ChatGPT, da keine Einzelpersonen identifizierbar sind. Sie loggen sich also nur im HAWKI-Interface ein und nicht bei OpenAI.
+
+Der KI-Campus ist eine nationale Lernplattform, die kostenlose Weiterbildungsangebote im Bereich KI bereitstellt. In diesem Rahmen kann die Schnittstelle HAWKI genutzt werden. Die Nutzung erfolgt nach Registrierung auf der Plattform und ist an den jeweiligen didaktischen Kontext der Lernangebote gebunden. Die Nutzung von HAWKI über den KI-Campus dient in erster Linie der individuellen Weiterbildung und kann sinnvoll sein, um Funktionsweisen und Anwendungsmöglichkeiten generativer KI unter kontrollierten Bedingungen kennenzulernen.
+
+## Lässt sich generative KI lokal und ohne Datenweitergabe einsetzen?
+
+Es gibt mittlerweile kleinere Sprachmodelle, die lokal auf dem eigenen Rechner installiert und genutzt werden können. Zu diesen sogenannten Open-Source-Modellen gehören beispielsweise Mistral (von Mistral AI) und Llama (von Meta). Empfehlenswert ist das Sprachmodell Teuken, eine Open-Source-Entwicklung des Fraunhofer IAIS im Rahmen des Forschungsprojekts OpenGPT-X. Es wurde mit Fokus auf europäische Datenschutzstandards entwickelt: https://www.iais.fraunhofer.de/de/branchen-themen/themen/generative-ki/opengpt-x.html
+
+Lokal installierte Sprachmodelle ermöglichen eine einfache Texterstellung, ohne dass Daten an externe Server übermittelt werden. Damit bieten sie eine datenschutzfreundliche Alternative zu webbasierten Lösungen, insbesondere bei sensiblen Inhalten.
+
+Zum Ausführen solcher Modelle können Tools wie GPT4All (https://www.nomic.ai/gpt4all) verwendet werden. GPT4All ist kein eigenständiges Sprachmodell, sondern eine Plattform, die es erleichtert, verschiedene kleinere Sprachmodelle lokal herunterzuladen, zu verwalten und über eine benutzerfreundliche Oberfläche zu nutzen.
+
+Es ist ein ausreichend leistungsfähiger Rechner erforderlich. Allerdings können bereits viele aktuelle Dienstrechner kleinere Sprachmodelle in akzeptabler Geschwindigkeit ausführen.
+
+Diese Modelle verfügen nicht über das umfassende Weltwissen großer Systeme wie ChatGPT, enthalten jedoch durchaus aktuelle Informationen. Aufgrund ihrer geringeren Größe sind sie im Funktionsumfang etwas eingeschränkt. Sie eignen sich dennoch gut für die Erzeugung kurzer Texte. Typische Einsatzszenarien sind die Erstellung von Formulierungshilfen, Entwürfe für E-Mails, Veranstaltungsbeschreibungen, die Korrektur von Textpassagen oder das strukturierte Sammeln von Ideen und Argumenten.
+
+## Was passiert mit den Daten, wenn ich webbasierte generative KI wie ChatGPT nutze?
+
+Viele frei zugängliche generative KI-Tools, z. B. ChatGPT (OpenAI), Claude (Anthropic) oder Gemini (Google), werden von kommerziellen Anbietern außerhalb der EU betrieben. Die Nutzung erfolgt in der Regel über ein persönliches Nutzerkonto. Die Verarbeitung der Daten unterliegt den Bedingungen des jeweiligen Anbieters.
+
+*Werden meine Eingaben gespeichert?*
+
+4
+
+Stand: August 2025
+
+---
+
+Ja. Bei den meisten Anbietern werden die Eingaben auf Servern gespeichert, die häufig in den USA oder anderen Drittstaaten stehen. Selbst wenn Chatverläufe gelöscht werden, werden sie bis zu 30 Tage zwischengespeichert. Aus datenschutzrechtlicher Perspektive kann nicht ausgeschlossen werden, dass eingegebene Daten analysiert, an Dritte weitergegeben oder langfristig gespeichert werden. Dies birgt insbesondere bei der Verarbeitung personenbezogener oder sensibler Informationen das Risiko, dass diese Daten in anderen Kontexten genutzt werden, beispielsweise durch Behörden in Ländern außerhalb der EU.
+
+Werden meine Daten zum Training verwendet?
+
+Standardmäßig ja. Es sei denn, Sie deaktivieren diese Funktion (sofern verfügbar). Bei ChatGPT können Sie dies unter Einstellungen → Datenkontrollen → „Das Modell für alle verbessern“ ausschalten. Wenn diese Option aktiv ist, können Ihre Eingaben zur Verbesserung zukünftiger Modelle verwendet werden. Es kann jedoch nicht vollständig garantiert werden, dass die Deaktivierung dieser Funktion technisch zuverlässig umgesetzt wird und die Daten tatsächlich nicht für Trainingszwecke genutzt werden.
+
+Können Personen identifiziert werden?
+
+Ja, potenziell. Die Anmeldung erfolgt meist über personenbezogene Daten wie E-Mail-Adresse oder Kreditkarte. Auch ohne direkte Angaben ist es nicht ausgeschlossen, dass einzelne Personen durch sprachliche Merkmale oder Inhalte der Texteingabe identifizierbar sind, insbesondere bei wiedererkennbaren Schreibstilen oder spezifischen Angaben.
+
+# Was passiert mit den Daten, wenn ich eine Schnittstelle wie HAWKI nutze?
+
+Wenn Sie ChatGPT über eine Schnittstelle wie HAWKI nutzen, werden keine persönlichen Nutzungsdaten an OpenAI übermittelt. Die Nutzung erfolgt anonymisiert über eine zwischengeschaltete Infrastruktur, in der keine personenbezogenen Informationen übertragen oder gespeichert werden.
+
+- Ihre Texteingaben werden nicht mit einem Nutzerkonto verknüpft.
+- Die Daten dienen nicht dem Training zukünftiger Modelle.
+- Eine Identifizierung einzelner Personen ist kaum möglich, solange keine personenbezogenen Daten eingegeben werden.
+
+Auch bei der Nutzung datenschutzfreundlicher Schnittstellen wie HAWKI sollten keine sensiblen oder personenbezogenen Daten in den Text eingegeben werden.
+
+# Welche Daten sollten nicht eingegeben werden?
+
+Unabhängig davon, ob ein KI-System direkt oder über eine datenschutzkonforme Schnittstelle wie HAWKI genutzt wird: Keinesfalls sollten persönliche, vertrauliche, personenbezogene, forschungsbezogene oder medizinische Daten eingegeben werden. Für sensible und zu schützende Daten bieten sich lokale KI Modelle (z. B. über GPT4All) an.
+
+5
+
+Stand: August 2025
+
+---
+
+## Wer haftet bei Fehlern?
+
+Die Hersteller übernehmen keine Haftung für fehlerhafte Antworten. Die Nutzenden stehen in der vollen Verantwortung für die Antworten, wenn sie diese nutzen oder publizieren. Die Nutzenden stehen jederzeit in der Prüfpflicht.
+
+## Warum kann es sinnvoll sein, generative KI in die eigene Lehre zu integrieren?
+
+In der Lehre kann z.B. generative KI experimentell in Teilen einer Lehrveranstaltung im Kontext des Faches eingesetzt werden, indem typische fachliche Fragen oder Problemstellungen an das Tool gestellt werden. Anschließend kann über die Güte der Antworten kritisch reflektiert werden: Wie objektiv sind die Ergebnisse, welche Verzerrungen (Bias) ergeben sich durch die Auswahl von Qualität und Quantität spezifischer Trainingsdaten, inwieweit wird Diversität beachtet, wie wird mit ethischen Herausforderungen umgegangen, welche Grenzen hat das Tool, wann treten Halluzinationen auf? Halluzinationen sind vom KI-System erzeugte Inhalte, die zwar plausibel klingen, aber inhaltlich falsch, erfunden oder nicht überprüfbar sind. Ein reflektierter Umgang mit (generativer) KI wird zunehmend wichtiger für die Praxis von Wissenschaft, Gesellschaft und Wirtschaft.
+
+## Wie kann ich generative KI zum Lernen und Lehren einsetzen?
+
+Generative KI kann vielseitig eingesetzt werden, insbesondere für Inspiration und Ideenfindung, Recherche und Datenaufbereitung, Textarbeit und Sprachunterstützung, Lernunterstützung und Prüfungsvorbereitung sowie technische und kollaborative Anwendungen. Möglich sind Ein- und Ausgaben von Medien wie PDF-Dateien, Bildern, Ton und Video. Es ist darauf zu achten, kein fremdes Material in einem Umfang hochzuladen, der gegen das Urheberrecht verstößt, und keine personenbezogenen Daten ohne ausdrückliche Zustimmung zu verwenden.
+
+Einsatzbereiche sind z. B.: *
+
+- als Inspirationsquelle und zum Brainstorming,
+- zur Themenfindung bei schriftlichen Arbeiten
+- zum Konkretisieren einer Fragestellung
+- bei der Recherche (wissenschaftlicher) Quellen
+- zur Aufbereitung von Daten (Transkription von Interviews, Visualisierung von Ergebnissen, Erstellung von Grafiken und Interpretation etc.)
+- zum selektiven Lesen
+- zum Strukturieren und Gliedern
+- zum Erstellen von Übersichten und Tabellen
+- zur inhaltlichen Überarbeitung und Prüfung der Argumentationsstruktur von Texten
+- zum Übersetzen in diverse Sprachen
+- zum sprachlich-stilistischen Überarbeiten (z. B. bestimmte Stilebenen, nach Verständlichkeitskriterien) oder zur Grammatik- und Rechtschreibkorrektur
+- für Feedback auf Texte und andere Leistungen
+- zur Vorbereitung von Klausuren und mündlichen Prüfungen, indem der Chatbot etwa die Rolle eines persönlichen Tutors oder einer Prüferin erhält und mögliche Prüfungs- oder Quizfragen erstellt
+- zum Klären von Verständnisfragen und als Einstieg zur Erklärung von Begriffen und Konzepten
+
+6
+
+Stand: August 2025
+
+---
+
+- zur Unterstützung von Programmierungen (inkl. Fehlersuche), Simulationen, Berechnungen und Problemlösungen
+- zum Erstellen von Code für angepasste Funktionen
+- zur Unterstützung kollaborativen Arbeitens
+
+*Vgl. Quelle:
+
+Girgensohn, K., et al. (2024): Forschendes Lernen mit KI im Sozialwissenschaftlichen KI-Labor für Forschendes Lernen (SKILL)
+https://www.researchgate.net/publication/378012557_Forschendes_Lernen_mit_KI_im_Sozialwissenschaftlichen_KI-Labor_fur_Forschendes_Lernen_SKILL
+
+Ergänzende Literatur:
+
+Garrel, J. v., & Mayer, J. (2025). Künstliche Intelligenz im Studium: Eine quantitative Längsschnittstudie zur Nutzung KI-basierter Tools durch Studierende (2023 & 2025). Hochschule Darmstadt, Fachbereich Gesellschaftswissenschaften.
+https://opus4.kobv.de/opus4-h-da/frontdoor/deliver/index/docId/533/file/gpt-dokumentation-final-jvg.pdf
+
+## Wie bekomme ich Unterstützung bei der Nutzung von generativer KI? Wo finde ich Materialien, Beratungsangebote und Workshops zur Weiterbildung?
+
+Das Team Digitale Lehre des Referats Lehrentwicklung berät Sie gern zur Nutzung und didaktischer Einbindung von generativer KI in Studium und Lehre und bietet zusätzlich Veranstaltungsangebote für Studierende und Lehrende an. Auch die Wissenschaftliche Weiterbildung der CAU bietet Workshops zu Themen der generativen KI. Die Stabsstelle Diversität unterstützt Sie darüber hinaus bei Fragen zu Unconscious Bias und Data Bias im Kontext generativer KI, insbesondere im Hinblick auf mögliche Diskriminierung durch algorithmische Verzerrungen und deren Auswirkungen auf Chancengleichheit im Sinne des Allgemeinen Gleichbehandlungsgesetzes (AGG). Zudem unterstützt und berät das Team Studieneingangsphase an der Universitätsbibliothek Kiel bei der Anwendung von KI im wissenschaftlichen Arbeiten, insbesondere im Hinblick auf Recherche und wissenschaftliches Schreiben. Bei rechtlichen Fragen wenden Sie sich bitte an die Prüfungsämter. Diese veranlassen ggf. die weitere Prüfung durch das Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten (S11).
+
+## In welchen Prüfungen ist generative KI erlaubt?
+
+Die Entscheidung darüber treffen, wie bei anderen Hilfsmitteln auch, die Lehrenden / Prüfenden auf Grundlage des Prüfungsziels. Wird die Nutzung zugelassen, muss diese transparent gemacht werden, indem generierte Inhalte klar gekennzeichnet und folgende Angaben gemacht werden: das verwendete Tool, das Datum, der Prompt sowie ggf. weitere Details, die die Lehrenden vorgeben können. Auch die Nutzung als Hilfsmittel muss explizit angegeben werden.
+
+Ungekennzeichnete Textübernahmen oder die sinngemäße Übernahme von durch KI generierten Inhalten werden, soweit nachweisbar, als Täuschungsversuch gewertet. Gleiches gilt für die Nutzung generativer KI als Hilfsmittel entgegen eines ausdrücklichen Verbots oder
+
+Stand: August 2025
+
+7
+
+---
+
+bestehender Vorgaben. Außerhalb von Prüfungen (z. B. bei der Prüfungsvorbereitung) kann die Nutzung von KI-Tools nicht generell untersagt werden. Die Übernahme von Texten oder Argumentationslinien in eigene Arbeiten ohne Kennzeichnung bleibt jedoch unzulässig und widerspricht den Grundsätzen wissenschaftlicher Redlichkeit.
+
+## Darf ich die Verwendung von generativer KI in Hausarbeiten erlauben?
+
+Generative KI ist im klassischen Sinne nicht zitierfähig, da es keine identifizierbaren physischen Urheber*innen bzw. Autor*innen gibt. Dennoch kann mit den Ausgaben generativer KI wissenschaftlich gearbeitet werden, sofern die Nutzung transparent gemacht wird. Dazu gehören Angaben zum verwendeten Tool, zur Version, zum Zeitpunkt und zum Prompt. Generative KI kann somit als Hilfsmittel genutzt werden, wobei die Ergebnisse stets kritisch geprüft und korrekt deklariert werden müssen. In allen Fällen gilt, dass keine vertraulichen, personenbezogenen oder medizinischen Daten eingegeben werden dürfen. In jedem Fall sollte im Vorfeld geklärt werden, ob und in welchem Umfang die Nutzung generativer KI erlaubt werden soll. Dies sollte in der Eigenständigkeitserklärung dokumentiert werden.
+
+## Darf ich von Studierenden verlangen, generative KI zu nutzen?
+
+In der Regel nicht. Da Systeme wie ChatGPT nicht DSGVO-konform betrieben werden, ist es nicht zulässig, Studierende zur Nutzung solcher Tools zu verpflichten, insbesondere nicht über persönliche Konten oder unter Angabe personenbezogener Daten. Zudem verfügen nicht alle Studierenden über die Voraussetzungen, um kommerzielle KI-Dienste nutzen zu können.
+
+Wenn der Einsatz generativer KI in einer Lehrveranstaltung vorgesehen ist, sollte dieser freiwillig, transparent und gut begründet erfolgen, idealerweise über datenschutzkonforme Schnittstellen. Deshalb ist bei der Konzipierung von Prüfungen darauf zu achten, dass die Nutzung nicht verpflichtend gemacht werden darf.
+
+## Darf ich die Nutzung von generativer KI im Kontext meiner Prüfungen verbieten?
+
+Ja, Lehrende können die Nutzung generativer KI-Tools im Rahmen ihrer Prüfungen untersagen. Um sicherzustellen, dass Prüfungsleistungen tatsächlich eigenständig erbracht werden, ist es sinnvoll, die Aufgaben so zu gestalten, dass sie eigenständiges Denken und die Anwendung von Wissen erfordern, anstatt sich leicht durch KI beantworten zu lassen. Je nach Prüfungsziel können auch Aufsichtsprüfungen ohne Internetzugang ein geeignetes Format darstellen. Sie ermöglichen die gezielte Überprüfung von Transferleistungen, grundlegenden fachlichen Kenntnissen, argumentativen Fähigkeiten und strukturierten Problemlösungsprozessen. Aus Gründen des Urheberrechts, des Datenschutzes sowie wegen der Gefahr unzuverlässiger Ergebnisse (false positives) ist der Einsatz von KI-Detektionstools, die nicht ausdrücklich von der CAU autorisiert wurden, nicht zulässig. Wenden Sie sich in Verdachtsfällen bitte an das zuständige Prüfungsamt, um das weitere Vorgehen abzustimmen. Siehe auch die Frage „Kann die Nutzung von generativer KI rechtssicher identifiziert werden?“
+
+8
+
+Stand: August 2025
+
+---
+
+## Wer verfügt über das Urheberrecht für KI generierten Text? Wann verletze ich ggf. das Urheberrecht?
+
+Es gibt nach deutschem Recht kein Urheberrecht für KI generierte Inhalte, da dies nur physischen Autor*innen zugestanden wird. Verwertungsrechte sind ebenso nicht vorgesehen und weder vom Hersteller noch von den Nutzenden einforderbar. Allerdings könnte es für die Schaffung von Prompts ab einer gewissen Schöpfungshöhe urheberrechtlichen Schutz geben (dazu gibt es bisher noch keine Rechtsprechung).
+
+Wird generierter Text im Prüfungskontext als eigener ausgegeben, ist dies als Täuschung anzusehen.
+
+## Studierende sollen weiterhin Schreibkompetenzen erwerben. Hindert sie die Nutzung von generativer KI, wenn sie es ständig als Hilfsmittel nutzen?
+
+Wenn generative KI als Reflexionstool genutzt wird, um den eigenen Schreibstil zu verbessern, und Studierende weiterhin eigenständig schreiben, kann die Nutzung lernförderlich sein. Werden Texte 1:1 kopiert und ermöglichen Aufgaben, dass keine Zeit in die Entwicklung des eigenen Stils investiert werden muss, kann dies dazu führen, dass das Lernziel verfehlt wird.
+
+## Was passiert mit Basiskompetenzen und Grundwissen, wenn zunehmend KI eingesetzt wird? (Problem De-Skilling)
+
+Mit De-Skilling ist gemeint, dass bestimmte Fähigkeiten durch die dauerhafte Nutzung technischer Hilfsmittel nach und nach verloren gehen oder gar nicht erst aufgebaut werden. Ähnliche Diskussionen wurden bereits beim Einsatz von Taschenrechnern diskutiert.
+
+Grundwissen und Basiskompetenzen werden jedoch auch unabhängig von KI erworben. Entscheidend ist, diesen Aspekt didaktisch zu integrieren und ggf. durch alternative Prüfungsformate sicherzustellen.
+
+Lehrformate wie ‚Forschendes Lernen‘, problemorientiertes Lernen oder projektbasiertes Lernen unterstützen Studierende dabei, Basiskompetenzen eigenständig zu entwickeln und zu vertiefen. Durch die aktive Auseinandersetzung mit Inhalten und Prozessen können nachhaltige Lernergebnisse gefördert werden.
+
+Prüfungen können so gestaltet werden, dass sie Eigenleistungen sichtbar machen. Neben geschlossenen, kontrollierten Prüfungssettings sind auch alternative Formate denkbar, die stärker an die oben genannten Lehr-Lernformate anschließen. Dazu zählen beispielsweise Portfolios, in denen der Arbeitsprozess und die Reflexion dokumentiert werden, mündliche Prüfungen oder Verteidigungen, projektorientierte Leistungsnachweise sowie Aufgabenstellungen, die Transferleistungen und eigenständige Problemlösungen erfordern und sich nicht ohne Weiteres durch KI bearbeiten lassen.
+
+Um diese Ansätze nachhaltig zu verankern, kann es erforderlich sein, entsprechende Anpassungen in den Prüfungsordnungen vorzunehmen.
+
+Weiterführende Literatur:
+
+Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I. & Maes, P. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI
+
+Stand: August 2025
+
+9
+
+---
+
+Assistant for Essay Writing Task. arXiv. https://arxiv.org/pdf/2506.08872v1 (paper draft, has not yet been peer-reviewed).
+
+Reinmann, G. (2023). Diskussionspapier De-Skilling. https://hochschulforumdigitalisierung.de/wp-content/uploads/2023/10/HFD_DP_25_Deskilling.pdf
+
+## Wie können unbeaufsichtigte Prüfungen (oder Aufgaben) wie Hausarbeiten, Take-Home-Klausuren, Übungen oder Laborberichte so gestaltet werden, dass...
+
+### 1. generative KI für die Lösung keine Hilfe bietet?
+
+Ob die gestellten Aufgaben durch generative KI gelöst werden können oder ob KI unerwünschte Hilfestellung bietet, lässt sich nur durch das direkte Testen der Fragestellungen oder Aufgaben in ChatGPT/HAWKI (oder ähnlichen Tools) feststellen.
+
+Insbesondere für deutschsprachige und weniger kanonische Texte ist die Datenbasis in ChatGPT derzeit begrenzt. Es ist unwahrscheinlich, dass weniger bekannte, nicht digitalisierte oder urheberrechtlich geschützte wissenschaftsrelevante Werke in den Trainingsdaten enthalten sind. Implizite Literaturkenntnis stammt tendenziell eher aus frei verfügbaren Sekundärquellen wie Wikipedia. In den Trainingsdaten sind jedoch sehr wahrscheinlich offen zugängliche wissenschaftliche Publikationen oder ältere digitalisierte Bücher (nach Ablauf des Urheberrechts) enthalten.
+
+### 2. generative KI so genutzt wird, dass sie zu besseren Ergebnissen beiträgt und Studierende trotz KI-Nutzung die vorgesehenen Wissens- und Kompetenzziele einer Lehrveranstaltung oder eines Studiengangs nachweislich erreichen können?
+
+Der Fokus sollte nicht nur auf der Reproduktion von Faktenwissen liegen. Stattdessen sollten kompetenzorientierte Prüfungsformen gewählt werden, die empirische Forschung reflektieren, eigenständiges Denken und genuin Neues fördern sowie Erkenntnisse aus forschungsorientierten Lernprozessen mit wissenschaftlichem Anspruch bewerten. KI-Tools werden zunehmend ein fester Bestandteil der wissenschaftlichen Arbeit. Für die fachspezifische Integration von KI kann eine didaktische Beratung gezielt unterstützen.
+
+## Soll die Arbeit von Studierenden, die generative KI nutzen, anders bewertet werden als die von Studierenden, die keine KI verwenden?
+
+Es sollte eine Gleichbehandlung stattfinden, das heißt es muss ein einheitlicher Prüfungsmaßstab angewandt werden. Wenn die reflektierte und dokumentierte Nutzung generativer KI-Tools erlaubt ist, darf daraus keine Benachteiligung für die Nutzenden entstehen. Ebenso darf der Verzicht auf die Nutzung von KI nicht zu einer schlechteren Bewertung führen. Fehlerhafte Ergebnisse werden in beiden Fällen gleichermaßen abgewertet, unabhängig davon, ob sie mit oder ohne KI entstanden sind. Die unerlaubte Nutzung generativer KI ist als ein Täuschungsversuch zu bewerten.
+
+10
+
+Stand: August 2025
+
+---
+
+## Kann die Nutzung von generativer KI rechtssicher identifiziert werden?
+
+Da in ChatGPT ein Zufallsparameter (‚temperature‘) mitwirkt, folgt auf den gleichen Prompt niemals dieselbe Antwort. Es lässt sich also prinzipiell keine 1:1-Kopie nachweisen. Diese technische Besonderheit macht es umso wichtiger, mögliche Täuschungsabsichten ausschließlich auf Grundlage menschlicher Expertise sowie unter Berücksichtigung der rechtlichen Vorgaben der Prüfungsordnungen und ggf. der Prüfungsausschüsse zu beurteilen. Nur so können Entscheidungen rechtskonform, fair und verantwortungsvoll getroffen werden.
+
+*Dabei sind rechtliche Vorgaben zu beachten:*
+
+Die Prüfungsdaten der Studierenden sind als personenbezogene Daten anzusehen. Aus Gründen des Datenschutzes und des Urheberrechts dürfen sie ohne die ausdrückliche Zustimmung der Studierenden oder eine klare Regelung in den Prüfungsordnungen nicht in KI-Detektionstools eingegeben werden. Da die meisten Detektionstools in den USA gehostet werden und dort Daten zwischengespeichert werden, steht der Einsatz solcher Systeme ohne ausdrückliche Einwilligung der Studierenden im Widerspruch zur DSGVO und zum Urheberrecht. Zudem gelten Detektionstools, die zur Aufdeckung möglicher Täuschungsabsichten genutzt werden, nach dem EU AI Act als Hochrisiko-Anwendungen. Für diese bestehen strenge Anforderungen an Dokumentation, KI-Kompetenzen und den Einbezug menschlicher Entscheidungen. Ab August 2026 sind diese Regelungen für alle Hochrisiko-KI-Anwendungen verbindlich.
+
+*Neben den rechtlichen Aspekten sind auch die technischen und methodischen Grenzen von Detektionstools zu berücksichtigen:*
+
+Zwar existieren verschiedene Systeme (z. B. Quillbot AI Content Detector https://quillbot.com/ai-content-detector) zur stochastischen Detektion von KI-generierten Texten, jedoch sind sie in vielerlei Hinsicht weder zuverlässig noch rechtssicher. Die zur Detektion eingesetzten Methoden und Algorithmen sind häufig intransparent. Diese geben lediglich Wahrscheinlichkeiten an, ob ein Text von einer KI oder von Menschen verfasst wurde. Zudem weisen KI-Detektionstools eine sehr hohe Fehlerquote (false positives) auf und dürfen nicht als alleinige Grundlage für Verdächtigungen oder Sanktionen dienen. Das oft genannte Detektionstool der FH Wedel wurde zudem auf ChatGPT-3.5 trainiert und ist, wie alle anderen Detektionstools, mit erheblichen Unsicherheiten verbunden. Für aktuelle ChatGPT Versionen ist es daher nicht mehr geeignet.
+
+*Hinzu kommen ethische und didaktische Fragestellungen:*
+
+Unbewusste Annahmen darüber, wie ‚gute wissenschaftliche Texte‘ auszusehen haben, können zusammen mit systematischen Verzerrungen (Bias) der Tools dazu führen, dass sprachliche Besonderheiten oder individuelle Schreibstile fälschlich als KI-generiert eingestuft werden. Dies kann unbeabsichtigt bestimmte Studierendengruppen benachteiligen und das Vertrauen in faire Prüfungen untergraben.
+
+Lehrende sollten sich dieser Problemlagen bewusst sein und Aufgabenstellungen sowie Prüfungsformate so gestalten, dass eigenständiges Arbeiten und Reflexion im Mittelpunkt stehen. Wenn KI-Nutzung erlaubt ist, müssen Studierende dies transparent kennzeichnen. In Verdachtsfällen kann nur auf herkömmlichen Weg eine ausreichende Beweislage herbeigeführt werden. Hiermit zusammenhängende Fragen sind in der Rechtsprechung noch nicht hinreichend geklärt – bitte wenden Sie sich im Zweifelsfall an das Prüfungsamt, das den Sachverhalt bei Bedarf in Rücksprache mit dem Referat für Studienreform-, Kapazitäts- und Rechtsangelegenheiten prüft.
+
+11
+
+Stand: August 2025
+
+---
+
+Wir empfehlen den Einsatz von Detektionstools ausschließlich zu Testzwecken und auf freiwilliger Basis mit eigenen Daten, um Erfahrungen mit der Qualität und Güte der Ergebnisse zu sammeln.
+
+## Darf ich generative KI nutzen, um Prüfungsleistungen der Studierenden zu bewerten?
+
+Nein. Generative KI darf nicht eingesetzt werden, um Bewertungen oder Entscheidungen über Prüfungsleistungen zu treffen. Derartige Anwendungen gelten nach dem EU AI Act als Hochrisiko-Systeme und unterliegen strengen regulatorischen Anforderungen. Auch aus prüfungsrechtlicher Sicht muss in jedem Fall die abschließende Bewertung und Entscheidung durch eine verantwortliche Person erfolgen.
+
+## Darf ich als Lehrende*r mit generativer KI Lernmaterialien für Studierende produzieren?
+
+Ja, Lernmaterialien müssen in diesem Fall besonders sorgfältig auf inhaltliche Richtigkeit, mögliche Verzerrungen (Bias) und Stereotype Darstellungen geprüft werden. Zudem muss transparent gemacht werden, wenn Inhalte und Materialien mithilfe generativer KI produziert wurden.
+
+## Welche Regelungen gibt es seitens der CAU? Dürfen Studierende uneingeschränkt generative KI nutzen?
+
+Die Freiheit von Lehre und Forschung ist ein hohes Gut, weshalb es keine allgemeinen Regelungen gibt, die diese einschränken. Allerdings gelten die Prüfungsordnungen der Fachbereiche und Fakultäten sowie die etablierten Kriterien für wissenschaftliches Arbeiten und Datenschutz. Dazu zählen insbesondere die Eigenständigkeit der erbrachten Leistungen, die Angabe der verwendeten Hilfsmittel, die Überprüfung der Quellen und das Einhalten gängiger Zitationsregeln. Eine gute Empfehlung sind die Leitlinien der DFG: https://www.dfg.de/de/service/presse/pressemitteilungen/2023/pressemitteilung-nr-39
+
+Eine aktuelle Vorlage für die Eigenständigkeitserklärung mit KI-Hinweis steht Ihnen auf der Webseite Digitale Lehre zur Verfügung: https://www.digitale-lehre.uni-kiel.de/de/ki-anwendungen-pruefungen. Die Vorlage kann an die fachspezifischen Anforderungen angepasst werden. Eine Rücksprache mit dem Prüfungsamt insbesondere in Bezug auf fakultätsinterne Standards wird jedoch empfohlen.
+
+Studierende sollten generative KI als Hilfsmittel nutzen dürfen, sofern Lehrende dies didaktisch sinnvoll eingebunden haben und explizit erlauben. Die Nutzung sollte stets dokumentiert, offengelegt, gekennzeichnet und reflektiert werden. Weder eine pauschale Erlaubnis noch ein generelles Verbot wäre sinnvoll.
+
+## Wie nutzen Studierende bisher generative KI und wofür?
+
+Empirische Studien zeigen, dass inzwischen circa 60–65 % der Studierenden generative KI-Tools wie ChatGPT oder GPT-4 regelmäßig im Studium einsetzen. Die quantitative Studie von Garrel, Mayer & Mühlfeld (2023) bestätigt diese hohe Nutzungsrate, ebenso wie eine
+
+Stand: August 2025
+
+12
+
+---
+
+ergänzende Umfrage von Hahn (2024) mit über 4000 Teilnehmenden. Studierende setzen KI vor allem als Inspirationsquelle, zur Zeit- und Arbeitssparnis, zum Zusammenfassen von Literatur, für sprachliche Verbesserungen und zielbewusst für Teilhandlungen des wissenschaftlichen Arbeitens ein. Nur ein geringer Anteil nutzt sie entgegen guter wissenschaftlicher Praxis (vgl. Garrel et al., 2023).
+
+Die beliebtesten Tools sind ChatGPT/GPT-4 und das Übersetzungstool DeepL, während bildgenerierende Anwendungen wie DALL-E oder Midjourney deutlich weniger verbreitet sind.
+
+Quellen:
+
+Garrel, J., Mayer, J., Mühlfeld, M., (2023). Künstliche Intelligenz im Studium - Eine quantitative Befragung von Studierenden zur Nutzung von ChatGPT & Co. https://opus4.kobv.de/opus4-h-da/frontdoor/index/index/docId/395
+
+Hahn, L. M. (2024). Künstliche Intelligenz in der Hochschullehre: Ergebnisse und Erkenntnisse aus einer Umfrage unter deutschen Studierenden im Jahr 2024. Masterarbeit im Fachbereich Humanwissenschaften. Technische Universität Darmstadt. https://csp.uber.space/phhd/hahn-masterarbeit.pdf
+
+## Dürfen eigene ChatGPT-Accounts genutzt werden?
+
+Ja, eigene Zugänge zu ChatGPT oder anderen generativen KI-Tools können genutzt werden, sofern dies mit den Lehrenden bzw. Prüfenden abgesprochen worden ist. Es sollte vorab geklärt werden, ob und welche anderen KI-Tools im Forschungs-, Lehr- und Prüfungskontext zulässig sind.
+
+Wichtig: Privat genutzte KI-Tools unterliegen möglicherweise anderen Datenschutzbestimmungen. Daher dürfen keinesfalls Forschungsdaten, vertrauliche Informationen oder personenbezogene Daten in diese eingegeben werden.
+
+## Warum werden keine Open Source Sprachmodelle angeboten?
+
+Open Source Sprachmodelle erfordern eine leistungsfähige Serverinfrastruktur und zusätzliche Personalmittel. Ihre Bereitstellung ist derzeit nicht kurzfristig umsetzbar. Nutzen Sie lokale KI Modelle auf dem eigenen PC über das Tool GPT4All (https://www.nomic.ai/gpt4all) oder die Modelle, die der KI Campus des Stifterverbandes anbietet: https://chat.ki-campus.org/login.
+
+13
+
+Stand: August 2025

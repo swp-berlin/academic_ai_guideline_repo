@@ -1,0 +1,1536 @@
+{
+  "doc_id": "rptu-kaiserslautern-landau_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Künstliche Intelligenz (KI) verändert die Hochschullandschaft rasant und bietet sowohl Chancen als auch Herausforderungen für Forschung, Lehre und Verwaltung. Dieses Positionspapier stellt einen Rahmen für den verantwortungsvollen Einsatz von KI in Studium und Lehre dar.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Dieses Positionspapier ist ein Dokument, das den dynamischen KI-Entwicklungen Rechnung trägt und kontinuierlich Anpassungen erfährt.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die rasante Entwicklung generativer Künstlicher Intelligenz (KI) bietet neue Möglichkeiten und Herausforderungen für die Wissenschaft. Die RPTU muss einen strategischen Rahmen schaffen, um die Potenziale von KI in der Lehre und insbesondere in Prüfungssituationen verantwortungsvoll zu nutzen, wissenschaftliche Integrität zu gewährleisten und ethische sowie rechtliche Anforderungen zu erfüllen.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Durch die Nutzung von generativen KI-Systemen werden Technikfolgen in sozialen Prozessen entstehen, die bisher nur ansatzweise erkennbar sind. So weist u.a. der Deutsche Ethikrat darauf hin, dass „alle technologischen Möglichkeiten der Gestaltung der Bildungsprozesse [...] daraufhin zu überprüfen (sind), ob sie dem [...] Verständnis des Menschen als einer zur Selbstbestimmung und Verantwortung fähigen Person entsprechen oder ob sie diesem Verständnis entgegenstehen“ (Deutscher Ethikrat, 2023).",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "KI durchdringt bereits heute viele Bereiche unseres Lebens – von der Art, wie wir kommunizieren und arbeiten, bis hin zu den Produkten und Dienstleistungen, die wir nutzen. Als Querschnittstechnologie findet sie in nahezu allen Disziplinen Anwendung. Diese Entwicklung wird sich in Zukunft weiter beschleunigen und KI-Kompetenzen werden in nahezu allen Berufsfeldern und Lebensbereichen immer wichtiger.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Es ist daher von entscheidender Bedeutung, dass Universitäten es sich zur Aufgabe machen, allen in Studium und Lehre beteiligten Akteuren unabhängig von ihrem Studienfach grundlegende Kompetenzen in Bezug auf KI und den verantwortungsvollen Umgang mit KI zu vermitteln.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Studierende und Lehrende, die sich frühzeitig mit den ethischen, sozialen und technischen Aspekten von KI auseinandersetzen, verfügen über ein fundiertes Wissen, um Potenziale der Technologie zu nutzen und die Risiken zu erkennen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Gestaltung von Lehre und das Abprüfen von Kompetenzen verändert sich durch die Nutzung von KI-Systemen und die rechtlichen Rahmenbedingungen zum Umgang mit KI-Technologien, wie z. B. durch die KI-Verordnung (Artificial Intelligence Act (Regulation (EU) 2024/1689), 2024, siehe hierzu auch weitere Informationen in (Heckmann & Rachut, 2024) und (Möhring, Nehlsen, & Rehlfeld, 2025), entscheidend. KI-Systeme werden eingesetzt werden können, aber die Anforderungen an Transparenz, Nachvollziehbarkeit, menschliche Aufsicht und Diskriminierungsfreiheit werden steigen.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Universitäten müssen sich auf diese Veränderungen einstellen und sicherstellen, dass der Einsatz von KI den Anforderungen der Verordnung entspricht.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Da KI-Technologien in nahezu allen Wissenschaftsdisziplinen an Bedeutung gewinnen und Wissensgenerierung verändern, ist ein Umdenken und Neudenken in vielen Bereichen von Studium und Lehre erforderlich. So verändert sich nicht nur die Rolle der Lehrenden an Universitäten, sondern auch die Aneignung von Wissen bzw. die Generierung von Wissen an sich.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dies impliziert auch die Integration von KI-bezogenen Kompetenzen in den jeweiligen Fächern und betrifft nicht nur technische Studiengänge, sondern auch Geistes- und Sozialwissenschaften. Alle Disziplinen sind gefordert, technologische ethische, philosophische und gesellschaftliche Fragen der KI zu adressieren.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Während KI einerseits neue Möglichkeiten zur Unterstützung von Lehr- und Lernprozessen eröffnet, stellt sie andererseits traditionelle Lehrmethoden und Prüfungsformate vor große Herausforderungen.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Darüber hinaus verändert sich die Art und Weise, wie Wissen vermittelt und wie gelernt wird. Intelligente Tutorensysteme und automatisierte Feedback-Mechanismen können Lehrende bei Routineaufgaben entlasten, so dass mehr Zeit für persönliche Betreuung und Begleitung der Lehre bleibt. Lernende können KI-Tools als individuelle Lernbegleitung nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Doch mit den Vorteilen gehen auch Herausforderungen einher, die es kritisch zu reflektieren gilt. Die RPTU reagiert darauf mit diesem Positionspapier und zahlreichen Unterstützungsangeboten.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Ein entscheidender Aspekt ist daher die fortlaufende Weiterbildung der Lehrenden. Um das Potenzial der KI optimal auszuschöpfen, sind kontinuierliche Angebote zur Weiterentwicklung sowie der fachliche Austausch unerlässlich.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Gleichzeitig bedarf es einer kontinuierlichen Medienkompetenzentwicklung für Studierende und klarer Richtlinien für den Einsatz von KI in der Lehre, um Chancen gezielt zu nutzen und mit Risiken verantwortungsvoll umzugehen.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "KI-basierte Anwendungen können für die wissenschaftliche Arbeit nützlich sein, wenn sich die Nutzenden der möglichen Risiken bewusst sind und die Werkzeuge angemessen eingesetzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dafür ist es essenziell, dass die Beteiligten über grundlegende Kenntnisse der Funktionsweise, Einsatzmöglichkeiten und der Grenzen dieser Werkzeuge verfügen.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Lehrende und Studierende sollten nicht nur in der Lage sein, KI-Systeme zu bedienen, sondern auch deren Funktionsweise zu verstehen und kritisch zu hinterfragen. Sie sollten sich der potenziellen Risiken von KI, wie Diskriminierung, Überwachung oder Autonomieverlust, bewusst sein. Gleichzeitig sollten sie aber auch die Chancen erkennen, die KI bietet.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die RPTU versteht sich als Ort des offenen und verantwortungsvollen Umgangs mit KI in Studium und Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Um unsere Studierenden bestmöglich auf die Zukunft vorzubereiten, bieten wir ihnen fächer- und studiengangübergreifend die Möglichkeit, Kompetenzen im Umgang mit generativer KI zu erwerben.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Zudem bietet die RPTU ihren Lehrenden Formate zur kontinuierlichen Weiterentwicklung ihrer KI-Kompetenzen und unterstützt sie dabei, Lehr- und Prüfungsinhalte sowie -formate an aktuelle technologische Entwicklungen anzupassen.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Wir ermutigen Studierende und Lehrende, sich aktiv mit KI auseinanderzusetzen und ihre Auswirkungen kritisch zu reflektieren, dem Umgang mit KI-Werkzeugen offen zu begegnen und sie bei geeigneten Voraussetzungen aktiv in die Lehre zu integrieren.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "(Pädagogik vor Technik) KI kann Lehre bereichern, darf jedoch die persönliche Interaktion zwischen Lehrenden und Studierenden nicht ersetzen. Der Einsatz von KI soll didaktisch sinnvoll erfolgen und den Lernprozess unterstützen, darf aber Lehre nicht automatisieren. Lern-/Kompetenzziele und Persönlichkeitsbildung sind stets zu berücksichtigen.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "(Transparenz) Der Einsatz generativer KI sollte generell zulässig sein, sofern er nicht im Widerspruch zu den Lernzielen der jeweiligen Veranstaltung steht. Die Dozierenden können entscheiden, ob sie die Nutzung von generativer KI vollständig ausschließen, die Nutzung auf bestimmte Arten von generativer KI beschränken, die Art und Weise der Verwendung von KI einschränken oder keine Einschränkungen bei der Nutzung von KI vorgeben.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "(Transparenz) Wenn die Nutzung generativer KI-Systeme in Veranstaltungen untersagt wird, sollten die Studierenden über die Gründe (z.B. didaktische Gründe zur Erreichung der Lernziele) informiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "(Kennzeichnung) Lehrende und Studierende sind verpflichtet, den Einsatz von KI-gestützten Werkzeugen kenntlich zu machen.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "(Eigenverantwortung) Der Einsatz von KI muss mit wissenschaftlicher Integrität vereinbar sein. Studierende und Lehrende sind für die von ihnen eingereichten Inhalte verantwortlich, unabhängig davon, ob generative KI-Systeme eingesetzt wurden oder nicht.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "(Reflexion) Der Einsatz von KI sollte nicht unkritisch erfolgen, sondern bewusst in den didaktischen Kontext eingebunden werden.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "(Chancengleichheit) Der Zugang zu KI-gestützten Werkzeugen sollte allen Studierenden und Dozierenden möglich sein, um ungleiche Voraussetzungen zu vermeiden.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "(Datenschutz) Der Einsatz von KI-Systemen muss im Einklang mit den geltenden Datenschutzbestimmungen erfolgen. Personenbezogene Daten dürfen nur mit Einwilligung der Betroffenen verarbeitet werden.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "(Infrastruktur) Die RPTU stellt eine datenschutzkonforme KI-Infrastruktur zur Verfügung und unterstützt die Lehrenden, Lernenden und Mitarbeitenden bei der Kompetenzentwicklung und der Überarbeitung ihrer Lehr- und Prüfungsformate.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "(Bewertung) Die RPTU lehnt den Einsatz von KI-Detektoren zur Überprüfung studentischer Arbeiten ab, da diese keine validen Ergebnisse garantieren können.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Ebenso lehnt sie die Automatisierung von Bewertungsprozessen durch KI ab, um die Qualität und Fairness der akademischen Beurteilung zu gewährleisten.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Im Folgenden finden sich ergänzend zu den allgemeinen Grundsätzen aus dem letzten Abschnitt detailliertere Beschreibungen der Verantwortlichkeiten für Lehrende und Studierende an der RPTU.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Alle weiteren Festlegungen zum Umgang mit KI-Werkzeugen, insbesondere für Prüfungsformate, werden nicht zentral vorgegeben, da der Nutzungskontext und die genaue Kenntlichmachung von KI-Werkzeugen fach- und disziplinbezogen in Abhängigkeit von den jeweiligen Lernzielen und Prüfungsinhalten variieren. Die Festlegung erfolgt jeweils durch die Prüfenden und Modulverantwortlichen der Fachbereiche.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende informieren zu Beginn einer Lehrveranstaltung deutlich, in welchem Umfang generative KI im Rahmen der Veranstaltung eingesetzt und genutzt werden darf. Sofern der Einsatz von generativer KI nicht explizit ausgeschlossen wird, kann diese unter Berücksichtigung der Grundsätze im letzten Abschnitt verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Es liegt in der Verantwortung der Lehrenden, transparent zu machen, wie und in welchem Umfang der Einsatz von KI-Systemen in ihren Lehrveranstaltungen gestattet ist. Diese Informationen sind den Studierenden spätestens bei der Ausgabe von Übungsaufgaben bzw. bei der Ausgabe der Anforderungen an die Leistungsnachweise zusammen mit klaren Angaben zu den erlaubten Hilfsmitteln bekannt zu geben.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "In Lehrveranstaltungen, die auf den Erwerb grundlegender Fähigkeiten (wie wissenschaftliches Schreiben oder Programmieren) ausgerichtet sind, dürfen generative KI-Systeme für die inhaltliche Bearbeitung von Aufgaben nur in fachlich begründeten Ausnahmefällen und mit Einwilligung des bzw. der Lehrenden verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Lehrenden legen fest, ob und in welchem Umfang sprachliche oder stilistische Überarbeitungen der eingereichten Arbeiten zulässig sind.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende müssen mit Unterstützung von KI generierte Inhalte (Lehrmaterialien, Aufgaben etc.) auf ihre Angemessenheit hin überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Bewertung von Abschlussarbeiten durch Betreuende und Gutachtende umfasst die Beurteilung der Eigenleistung der Studierenden, insbesondere im Hinblick auf die Fähigkeit zur selbständigen wissenschaftlichen Problemlösung. Der Einsatz generativer KI und die entsprechende Dokumentation sind dabei relevante Faktoren.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die inhaltliche Bewertung von studentischen Leistungen durch KI-Systeme ist nicht zugelassen, erlaubt sind Hilfsmittel zur Plagiatsüberprüfung.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Studierende sind verpflichtet, sich vor der Nutzung generativer KI-Systeme über die für die Lehrveranstaltung geltenden Bestimmungen zu informieren. In Lehrveranstaltungen mit individueller Betreuung (z. B. Seminare, Praktika und Abschlussarbeiten) ist die Auslegung der Regeln mit den Betreuenden abzustimmen.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende müssen den Einsatz von generativer KI und die Verwendung KI-basierter Hilfsmittel in ihren Studien- und Prüfungsleistungen kenntlich machen. Die Kennzeichnung muss Angaben zum Zweck des KI-Einsatzes, zu den von der KI generierten oder beeinflussten Abschnitten der Arbeit sowie zu den verwendeten KI-Modellen enthalten.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Von Studierenden wird erwartet, dass sie alle durch KI generierten oder veränderten Elemente ihrer Arbeit nachvollziehbar erklären können. Davon ausgenommen sind lediglich Korrekturen von Rechtschreibung, Grammatik und Stil.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Sofern KI-Technologien als Hilfsmittel zugelassen sind, sind Studierende verpflichtet, den Einsatz bzw. deren Nutzung transparent darzulegen und zu dokumentieren. Betreuende und Gutachtende nutzen diese Dokumentation, um den Eigenanteil der Studierenden zu bewerten und festzustellen, ob die Arbeit die Fähigkeit zur selbstständigen wissenschaftlichen Bearbeitung einer Aufgabenstellung widerspiegelt.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Studierende klären die Dokumentation des KI-Einsatzes in ihrer Abschlussarbeit individuell mit ihren Betreuenden.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Studierenden sind für alle Inhalte, die in der Abschlussarbeit enthalten sind, verantwortlich. Dies schließt explizit auch diejenigen Teile ein, die von generativen KI-Systemen erzeugt oder von diesen übernommen wurden. Die Erklärung zur Eigenständigkeit der Arbeit ist in der Abschlussarbeit zu kennzeichnen.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "„Ich erkläre hiermit, die vorliegende [Abschlussarbeit] selbstständig verfasst zu haben. Die verwendeten Quellen und Hilfsmittel (auch generative KI-Systeme) sind im Text kenntlich gemacht und im Anhang vollständig (d.h. mit Angabe von Version und Nutzungszweck) aufgeführt. Sofern der Einsatz über eine reine Grammatikprüfung und Stilverbesserung hinausgeht, ist der Einsatz nachvollziehbar kenntlich gemacht. Für Fehler, auch bei Übernahme aus generativen KI-Systemen, bin ich verantwortlich.“",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "„Generative KI-Anwendungen habe ich zur Informationsgewinnung und/oder zur Überarbeitung der [Arbeit] verwendet. Die mittels KI-Anwendung gefundenen Ergebnisse habe ich eigenständig überprüft und mir zu eigen gemacht. Textstellen, die mittels generativer KI-Anwendungen erstellt oder verändert wurden, habe ich entsprechend gekennzeichnet.“",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "„Hiermit versichere ich, dass ich die vorliegende [Arbeit] in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und Hilfsmittel benutzt habe, und dass die [Arbeit] in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate, sowie alle Abschnitte, die mithilfe von KI-basierten Tools entworfen, verfasst und/oder bearbeitet wurden, sind kenntlich gemacht und nachgewiesen. Im Anhang meiner Arbeit habe ich sämtliche KI-basierte Hilfsmittel angegeben. Diese sind mit Produktnamen und formulierten Eingaben (Prompts) in einem KI-Verzeichnis ausgewiesen.“",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "„Hiermit versichere ich, dass ich die vorliegende Arbeit in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und zur Angabe verpflichteten Hilfsmittel benutzt habe, und dass die Arbeit in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate sind kenntlich gemacht und nachgewiesen. Ich versichere, dass ich keine KI-basierten Tools verwendet habe, deren Nutzung der Prüfer / die Prüferin explizit schriftlich ausgeschlossen hat. Ich bin mir bewusst, dass die Verwendung von Texten oder anderen Inhalten und Produkten, die durch KI-basierte Tools generiert wurden, keine Garantie für deren Qualität darstellt. Ich verantworte die Übernahme jeglicher von mir verwendeter maschinell generierter Passagen vollumfänglich selbst und trage die Verantwortung für eventuell durch die KI generierte fehlerhafte oder verzerrte Inhalte, fehlerhafte Referenzen, Verstöße gegen das Datenschutz und Urheberrecht oder Plagiate. Ich versichere zudem, dass in der vorliegenden Arbeit mein gestalterischer Einfluss überwiegt.“",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "„Hiermit versichere ich, dass ich die vorliegende Arbeit in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und Hilfsmittel benutzt habe, und dass die Arbeit in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate sind kenntlich gemacht und nachgewiesen. Ich habe in der Arbeit keine KI-generierten Textpassagen oder Inhalte verwendet. Zudem versichere ich, dass ich keine anderen KI-basierten Tools verwendet habe, deren Nutzung der Prüfer / die Prüferin explizit schriftlich ausgeschlossen hat.“",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Webseite „KI in Studium und Lehre an der RPTU“: rptu.de/ki-lehre",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Verfügbare datenschutzkonforme Tools: rptu.de/ki-lehre/ki-tools",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "ki kann lehre bereichern, darf jedoch die persönliche interaktion zwischen lehrenden und studierenden nicht ersetzen.",
+      "repaired": true
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "der einsatz von ki soll didaktisch sinnvoll erfolgen und den lernprozess unterstützen, darf aber lehre nicht automatisieren.",
+      "repaired": true
+    },
+    {
+      "id": 59,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "lern-/kompetenzziele und persönlichkeitsbildung sind stets zu berücksichtigen.",
+      "repaired": true
+    },
+    {
+      "id": 60,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "der einsatz generativer ki sollte generell zulässig sein, sofern er nicht im widerspruch zu den lernzielen der jeweiligen veranstaltung steht.",
+      "repaired": true
+    },
+    {
+      "id": 61,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "die dozierenden können entscheiden, ob sie die nutzung von generativer ki vollständig ausschließen, die nutzung auf bestimmte arten von generativer ki beschränken, die art und weise der verwendung von ki einschränken oder keine einschränkungen bei der nutzung von ki vorgeben.",
+      "repaired": true
+    },
+    {
+      "id": 62,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "wenn die nutzung generativer ki-systeme in veranstaltungen untersagt wird, sollten die studierenden über die gründe (z.b. didaktische gründe zur erreichung der lernziele) informiert werden.",
+      "repaired": true
+    },
+    {
+      "id": 63,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "lehrende und studierende sind verpflichtet, den einsatz von ki-gestützten werkzeugen kenntlich zu machen.",
+      "repaired": true
+    },
+    {
+      "id": 64,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "der einsatz von ki muss mit wissenschaftlicher integrität vereinbar sein.",
+      "repaired": true
+    },
+    {
+      "id": 65,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "studierende und lehrende sind für die von ihnen eingereichten inhalte verantwortlich, unabhängig davon, ob generative ki-systeme eingesetzt wurden oder nicht.",
+      "repaired": true
+    },
+    {
+      "id": 66,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "der einsatz von ki sollte nicht unkritisch erfolgen, sondern bewusst in den didaktischen kontext eingebunden werden.",
+      "repaired": true
+    },
+    {
+      "id": 67,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "der zugang zu ki-gestützten werkzeugen sollte allen studierenden und dozierenden möglich sein, um ungleiche voraussetzungen zu vermeiden.",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "der einsatz von ki-systemen muss im einklang mit den geltenden datenschutzbestimmungen erfolgen.",
+      "repaired": true
+    },
+    {
+      "id": 69,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "personenbezogene daten dürfen nur mit einwilligung der betroffenen verarbeitet werden.",
+      "repaired": true
+    },
+    {
+      "id": 70,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "die rptu stellt eine datenschutzkonforme ki-infrastruktur zur verfügung und unterstützt die lehrenden, lernenden und mitarbeitenden bei der kompetenzentwicklung und der überarbeitung ihrer lehr- und prüfungsformate.",
+      "repaired": true
+    },
+    {
+      "id": 71,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "die rptu lehnt den einsatz von ki-detektoren zur überprüfung studentischer arbeiten ab, da diese keine validen ergebnisse garantieren können.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 71,
+    "matched": 54,
+    "unmatched_count": 17,
+    "unmatched": [
+      {
+        "id": 24,
+        "B": "B5",
+        "matched_words": "3/42",
+        "text": "(Pädagogik vor Technik) KI kann Lehre bereichern, darf jedoch die persönliche Interaktion zwischen Lehrenden und Studierenden nicht ersetzen. Der Einsatz von KI soll didaktisch sinnvoll erfolgen und den Lernprozess unterstützen, darf aber Lehre nicht automatisieren. Lern-/Kompetenzziele und Persönlichkeitsbildung sind stets zu berücksichtigen."
+      },
+      {
+        "id": 25,
+        "B": "B6",
+        "matched_words": "1/61",
+        "text": "(Transparenz) Der Einsatz generativer KI sollte generell zulässig sein, sofern er nicht im Widerspruch zu den Lernzielen der jeweiligen Veranstaltung steht. Die Dozierenden können entscheiden, ob sie die Nutzung von generativer KI vollständig ausschließen, die Nutzung auf bestimmte Arten von generativer KI beschränken, die Art und Weise der Verwendung von KI einschränken oder keine Einschränkungen bei der Nutzung von KI vorgeben."
+      },
+      {
+        "id": 26,
+        "B": "B8",
+        "matched_words": "1/25",
+        "text": "(Transparenz) Wenn die Nutzung generativer KI-Systeme in Veranstaltungen untersagt wird, sollten die Studierenden über die Gründe (z.B. didaktische Gründe zur Erreichung der Lernziele) informiert werden."
+      },
+      {
+        "id": 27,
+        "B": "B8",
+        "matched_words": "1/14",
+        "text": "(Kennzeichnung) Lehrende und Studierende sind verpflichtet, den Einsatz von KI-gestützten Werkzeugen kenntlich zu machen."
+      },
+      {
+        "id": 28,
+        "B": "B9",
+        "matched_words": "1/31",
+        "text": "(Eigenverantwortung) Der Einsatz von KI muss mit wissenschaftlicher Integrität vereinbar sein. Studierende und Lehrende sind für die von ihnen eingereichten Inhalte verantwortlich, unabhängig davon, ob generative KI-Systeme eingesetzt wurden oder nicht."
+      },
+      {
+        "id": 29,
+        "B": "B5",
+        "matched_words": "1/17",
+        "text": "(Reflexion) Der Einsatz von KI sollte nicht unkritisch erfolgen, sondern bewusst in den didaktischen Kontext eingebunden werden."
+      },
+      {
+        "id": 30,
+        "B": "B5",
+        "matched_words": "1/18",
+        "text": "(Chancengleichheit) Der Zugang zu KI-gestützten Werkzeugen sollte allen Studierenden und Dozierenden möglich sein, um ungleiche Voraussetzungen zu vermeiden."
+      },
+      {
+        "id": 31,
+        "B": "B8",
+        "matched_words": "1/23",
+        "text": "(Datenschutz) Der Einsatz von KI-Systemen muss im Einklang mit den geltenden Datenschutzbestimmungen erfolgen. Personenbezogene Daten dürfen nur mit Einwilligung der Betroffenen verarbeitet werden."
+      },
+      {
+        "id": 32,
+        "B": "B8",
+        "matched_words": "1/25",
+        "text": "(Infrastruktur) Die RPTU stellt eine datenschutzkonforme KI-Infrastruktur zur Verfügung und unterstützt die Lehrenden, Lernenden und Mitarbeitenden bei der Kompetenzentwicklung und der Überarbeitung ihrer Lehr- und Prüfungsformate."
+      },
+      {
+        "id": 33,
+        "B": "B7",
+        "matched_words": "1/20",
+        "text": "(Bewertung) Die RPTU lehnt den Einsatz von KI-Detektoren zur Überprüfung studentischer Arbeiten ab, da diese keine validen Ergebnisse garantieren können."
+      },
+      {
+        "id": 62,
+        "B": "B8",
+        "matched_words": "4/24",
+        "text": "wenn die nutzung generativer ki-systeme in veranstaltungen untersagt wird, sollten die studierenden über die gründe (z.b. didaktische gründe zur erreichung der lernziele) informiert werden."
+      },
+      {
+        "id": 63,
+        "B": "B8",
+        "matched_words": "8/13",
+        "text": "lehrende und studierende sind verpflichtet, den einsatz von ki-gestützten werkzeugen kenntlich zu machen."
+      },
+      {
+        "id": 65,
+        "B": "B9",
+        "matched_words": "15/20",
+        "text": "studierende und lehrende sind für die von ihnen eingereichten inhalte verantwortlich, unabhängig davon, ob generative ki-systeme eingesetzt wurden oder nicht."
+      },
+      {
+        "id": 67,
+        "B": "B5",
+        "matched_words": "3/17",
+        "text": "der zugang zu ki-gestützten werkzeugen sollte allen studierenden und dozierenden möglich sein, um ungleiche voraussetzungen zu vermeiden."
+      },
+      {
+        "id": 68,
+        "B": "B8",
+        "matched_words": "3/12",
+        "text": "der einsatz von ki-systemen muss im einklang mit den geltenden datenschutzbestimmungen erfolgen."
+      },
+      {
+        "id": 70,
+        "B": "B11",
+        "matched_words": "5/24",
+        "text": "die rptu stellt eine datenschutzkonforme ki-infrastruktur zur verfügung und unterstützt die lehrenden, lernenden und mitarbeitenden bei der kompetenzentwicklung und der überarbeitung ihrer lehr- und prüfungsformate."
+      },
+      {
+        "id": 71,
+        "B": "B7",
+        "matched_words": "6/19",
+        "text": "die rptu lehnt den einsatz von ki-detektoren zur überprüfung studentischer arbeiten ab, da diese keine validen ergebnisse garantieren können."
+      }
+    ],
+    "source_coverage": 0.809,
+    "uncovered_chars": 3413,
+    "uncovered_gaps": 18,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 276,
+        "length": 276,
+        "text": "# rheinland-pfälzische technische universität kaiserslautern-landau (rptu) # source: https://rptu.de/fileadmin/ki_lehre/dokumente/2025-04-07-rptu_ki_in_studium_und_lehre_v.9.pdf # date: 2025-04-07 # category: guideline # ki in studium und lehre positionspapier v0.9 # vorwort"
+      },
+      {
+        "char_start": 679,
+        "char_end": 696,
+        "length": 17,
+        "text": ". # 1 einleitung"
+      },
+      {
+        "char_start": 3214,
+        "char_end": 3234,
+        "length": 20,
+        "text": ". ## 2 ausgangslage"
+      },
+      {
+        "char_start": 5080,
+        "char_end": 5172,
+        "length": 92,
+        "text": ". ## 3 positionierung der rptu: grundlagen zum einsatz von ki-systemen in studium und lehre"
+      },
+      {
+        "char_start": 6634,
+        "char_end": 6709,
+        "length": 75,
+        "text": ". dazu gelten an der rptu folgende grundsätze: **(pädagogik vor technik)**"
+      },
+      {
+        "char_start": 7029,
+        "char_end": 7049,
+        "length": 20,
+        "text": ". **(transparenz)**"
+      },
+      {
+        "char_start": 7467,
+        "char_end": 7810,
+        "length": 343,
+        "text": ". wenn die nutzung generativer ki-systeme in veranstaltungen untersagt wird, sollten die studierenden über die gründe (z.b. didaktische gründe zur erreichung der lernziele) informiert werden. **(kennzeichnung)** lehrende und studierende sind verpflichtet, den einsatz von ki-gestützten werkzeugen kenntlich zu machen. **(eigenverantwortung)**"
+      },
+      {
+        "char_start": 7882,
+        "char_end": 8059,
+        "length": 177,
+        "text": ". studierende und lehrende sind für die von ihnen eingereichten inhalte verantwortlich, unabhängig davon, ob generative ki-systeme eingesetzt wurden oder nicht. **(reflexion)**"
+      },
+      {
+        "char_start": 8174,
+        "char_end": 8453,
+        "length": 279,
+        "text": ". **(chancengleichheit)** der zugang zu ki-gestützten werkzeugen sollte allen studierenden und dozierenden möglich sein, um ungleiche voraussetzungen zu vermeiden. **(datenschutz)** der einsatz von ki-systemen muss im einklang mit den geltenden datenschutzbestimmungen erfolgen."
+      },
+      {
+        "char_start": 8538,
+        "char_end": 8932,
+        "length": 394,
+        "text": ". **(infrastruktur)** die rptu stellt eine datenschutzkonforme ki-infrastruktur zur verfügung und unterstützt die lehrenden, lernenden und mitarbeitenden bei der kompetenzentwicklung und der überarbeitung ihrer lehrund prüfungsformate. **(bewertung)** die rptu lehnt den einsatz von ki-detektoren zur überprüfung studentischer arbeiten ab, da diese keine validen ergebnisse garantieren können."
+      },
+      {
+        "char_start": 9080,
+        "char_end": 9123,
+        "length": 43,
+        "text": ". ## 4 verantwortlichkeiten und leitlinien"
+      },
+      {
+        "char_start": 9705,
+        "char_end": 9724,
+        "length": 19,
+        "text": ". ### 4.1 lehrende"
+      },
+      {
+        "char_start": 11495,
+        "char_end": 11517,
+        "length": 22,
+        "text": ". ### 4.2 studierende"
+      },
+      {
+        "char_start": 13211,
+        "char_end": 13724,
+        "length": 513,
+        "text": ". beispiele für eigenständigkeitserklärungen finden sich im anhang. ## 5 anhang: beispiele für eigenständigkeitserklärungen die folgenden formulierungsvorschläge sollen dabei helfen, für den jeweiligen einzelfall eine geeignete eigenständigkeitserklärung zu verfassen. weitere informationen und beispiele, auch zu eigenständigkeitserklärungen mit lernzielorientierung finden sich unter anderem in (generative ki in der hochschullehre, 2023) ### 5.1 beispiel für die nutzung von ki-tools mit kennzeichnungspflicht"
+      },
+      {
+        "char_start": 15241,
+        "char_end": 15315,
+        "length": 74,
+        "text": "### 5.2 beispiel für die nutzung von ki-tools ohne kennzeichnungspflicht"
+      },
+      {
+        "char_start": 16455,
+        "char_end": 16505,
+        "length": 50,
+        "text": "### 5.3 beispiel für den ausschluss von ki-tools"
+      },
+      {
+        "char_start": 17136,
+        "char_end": 17177,
+        "length": 41,
+        "text": "## 6 unterstützungsangebote an der rptu"
+      },
+      {
+        "char_start": 17302,
+        "char_end": 18260,
+        "length": 958,
+        "text": "## 7 literaturverzeichnis artificial intelligence act (regulation (eu) 2024/1689). (2024). official journal of the european union. deutscher ethikrat. (2023). mensch und maschine - herausforderungen durch künstliche intelligenz. https://www.ethikrat.org/publikationen/stellungnahmen/menschundmaschine generative ki in der hochschullehre. (2023). https://blog.hwrberlin.de/elerner/informationenzuchatgptundanderenkitools heckmann, d., & rachut, s. (2024). rechtssichere hochschulprüfungen mit und trotz generativer ki. ordnung der wissenschaft(2), s. 85-100. möhring, nehlsen, & rehlfeld. (2025). rptu. (2025). ki in studium und lehre an der rptu. https://rptu.de/kilehre ## footnotes ¹ siehe anhang sowie (rptu, 2025) ² https://www.htwberlin.de/fileadmin/htw/zentral/lsc/formulare/eigenstaendigkeitserklaerung_ki_htw_20230823_lsc_oer.pdf ³ https://www.htwberlin.de/fileadmin/htw/zentral/lsc/formulare/eigenstaendigkeitserklaerung_ki_htw_20230823_lsc_oer.pdf"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 281,
+      "text": "# Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)\n# Source: https://rptu.de/fileadmin/ki_lehre/Dokumente/2025-04-07-RPTU_KI_in_Studium_und_Lehre_v0.9.pdf\n# Date: 2025-04-07\n# Category: guideline\n\n# KI IN STUDIUM UND LEHRE\n\nPositionspapier V0.9\n\n# Vorwort\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 281,
+      "char_end": 552,
+      "text": "Künstliche Intelligenz (KI) verändert die Hochschullandschaft rasant und bietet sowohl Chancen als auch Herausforderungen für Forschung, Lehre und Verwaltung. Dieses Positionspapier stellt einen Rahmen für den verantwortungsvollen Einsatz von KI in Studium und Lehre dar.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 554,
+      "char_end": 686,
+      "text": "Dieses Positionspapier ist ein Dokument, das den dynamischen KI-Entwicklungen Rechnung trägt und kontinuierlich Anpassungen erfährt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 686,
+      "char_end": 704,
+      "text": "\n\n# 1 Einleitung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 704,
+      "char_end": 1100,
+      "text": "Die rasante Entwicklung generativer Künstlicher Intelligenz (KI) bietet neue Möglichkeiten und Herausforderungen für die Wissenschaft. Die RPTU muss einen strategischen Rahmen schaffen, um die Potenziale von KI in der Lehre und insbesondere in Prüfungssituationen verantwortungsvoll zu nutzen, wissenschaftliche Integrität zu gewährleisten und ethische sowie rechtliche Anforderungen zu erfüllen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1101,
+      "char_end": 1599,
+      "text": "Durch die Nutzung von generativen KI-Systemen werden Technikfolgen in sozialen Prozessen entstehen, die bisher nur ansatzweise erkennbar sind. So weist u.a. der Deutsche Ethikrat darauf hin, dass „alle technologischen Möglichkeiten der Gestaltung der Bildungsprozesse [...] daraufhin zu überprüfen (sind), ob sie dem [...] Verständnis des Menschen als einer zur Selbstbestimmung und Verantwortung fähigen Person entsprechen oder ob sie diesem Verständnis entgegenstehen“ (Deutscher Ethikrat, 2023).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1601,
+      "char_end": 2004,
+      "text": "KI durchdringt bereits heute viele Bereiche unseres Lebens – von der Art, wie wir kommunizieren und arbeiten, bis hin zu den Produkten und Dienstleistungen, die wir nutzen. Als Querschnittstechnologie findet sie in nahezu allen Disziplinen Anwendung. Diese Entwicklung wird sich in Zukunft weiter beschleunigen und KI-Kompetenzen werden in nahezu allen Berufsfeldern und Lebensbereichen immer wichtiger.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2006,
+      "char_end": 2275,
+      "text": "Es ist daher von entscheidender Bedeutung, dass Universitäten es sich zur Aufgabe machen, allen in Studium und Lehre beteiligten Akteuren unabhängig von ihrem Studienfach grundlegende Kompetenzen in Bezug auf KI und den verantwortungsvollen Umgang mit KI zu vermitteln.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2276,
+      "char_end": 2506,
+      "text": "Studierende und Lehrende, die sich frühzeitig mit den ethischen, sozialen und technischen Aspekten von KI auseinandersetzen, verfügen über ein fundiertes Wissen, um Potenziale der Technologie zu nutzen und die Risiken zu erkennen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2508,
+      "char_end": 3077,
+      "text": "Die Gestaltung von Lehre und das Abprüfen von Kompetenzen verändert sich durch die Nutzung von KI-Systemen und die rechtlichen Rahmenbedingungen zum Umgang mit KI-Technologien, wie z. B. durch die KI-Verordnung (Artificial Intelligence Act (Regulation (EU) 2024/1689), 2024, siehe hierzu auch weitere Informationen in (Heckmann & Rachut, 2024) und (Möhring, Nehlsen, & Rehlfeld, 2025), entscheidend. KI-Systeme werden eingesetzt werden können, aber die Anforderungen an Transparenz, Nachvollziehbarkeit, menschliche Aufsicht und Diskriminierungsfreiheit werden steigen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3078,
+      "char_end": 3226,
+      "text": "Universitäten müssen sich auf diese Veränderungen einstellen und sicherstellen, dass der Einsatz von KI den Anforderungen der Verordnung entspricht.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3226,
+      "char_end": 3247,
+      "text": "\n\n## 2 Ausgangslage\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3247,
+      "char_end": 3598,
+      "text": "Da KI-Technologien in nahezu allen Wissenschaftsdisziplinen an Bedeutung gewinnen und Wissensgenerierung verändern, ist ein Umdenken und Neudenken in vielen Bereichen von Studium und Lehre erforderlich. So verändert sich nicht nur die Rolle der Lehrenden an Universitäten, sondern auch die Aneignung von Wissen bzw. die Generierung von Wissen an sich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3599,
+      "char_end": 3911,
+      "text": "Dies impliziert auch die Integration von KI-bezogenen Kompetenzen in den jeweiligen Fächern und betrifft nicht nur technische Studiengänge, sondern auch Geistes- und Sozialwissenschaften. Alle Disziplinen sind gefordert, technologische ethische, philosophische und gesellschaftliche Fragen der KI zu adressieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3912,
+      "char_end": 4108,
+      "text": "Während KI einerseits neue Möglichkeiten zur Unterstützung von Lehr- und Lernprozessen eröffnet, stellt sie andererseits traditionelle Lehrmethoden und Prüfungsformate vor große Herausforderungen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4110,
+      "char_end": 4459,
+      "text": "Darüber hinaus verändert sich die Art und Weise, wie Wissen vermittelt und wie gelernt wird. Intelligente Tutorensysteme und automatisierte Feedback-Mechanismen können Lehrende bei Routineaufgaben entlasten, so dass mehr Zeit für persönliche Betreuung und Begleitung der Lehre bleibt. Lernende können KI-Tools als individuelle Lernbegleitung nutzen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4460,
+      "char_end": 4650,
+      "text": "Doch mit den Vorteilen gehen auch Herausforderungen einher, die es kritisch zu reflektieren gilt. Die RPTU reagiert darauf mit diesem Positionspapier und zahlreichen Unterstützungsangeboten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4652,
+      "char_end": 4876,
+      "text": "Ein entscheidender Aspekt ist daher die fortlaufende Weiterbildung der Lehrenden. Um das Potenzial der KI optimal auszuschöpfen, sind kontinuierliche Angebote zur Weiterentwicklung sowie der fachliche Austausch unerlässlich.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4877,
+      "char_end": 5100,
+      "text": "Gleichzeitig bedarf es einer kontinuierlichen Medienkompetenzentwicklung für Studierende und klarer Richtlinien für den Einsatz von KI in der Lehre, um Chancen gezielt zu nutzen und mit Risiken verantwortungsvoll umzugehen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5100,
+      "char_end": 5193,
+      "text": "\n\n## 3 Positionierung der RPTU: Grundlagen zum Einsatz von KI-Systemen in Studium und Lehre\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5193,
+      "char_end": 5378,
+      "text": "KI-basierte Anwendungen können für die wissenschaftliche Arbeit nützlich sein, wenn sich die Nutzenden der möglichen Risiken bewusst sind und die Werkzeuge angemessen eingesetzt werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5379,
+      "char_end": 5537,
+      "text": "Dafür ist es essenziell, dass die Beteiligten über grundlegende Kenntnisse der Funktionsweise, Einsatzmöglichkeiten und der Grenzen dieser Werkzeuge verfügen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5539,
+      "char_end": 5892,
+      "text": "Lehrende und Studierende sollten nicht nur in der Lage sein, KI-Systeme zu bedienen, sondern auch deren Funktionsweise zu verstehen und kritisch zu hinterfragen. Sie sollten sich der potenziellen Risiken von KI, wie Diskriminierung, Überwachung oder Autonomieverlust, bewusst sein. Gleichzeitig sollten sie aber auch die Chancen erkennen, die KI bietet.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5894,
+      "char_end": 5998,
+      "text": "Die RPTU versteht sich als Ort des offenen und verantwortungsvollen Umgangs mit KI in Studium und Lehre.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5999,
+      "char_end": 6188,
+      "text": "Um unsere Studierenden bestmöglich auf die Zukunft vorzubereiten, bieten wir ihnen fächer- und studiengangübergreifend die Möglichkeit, Kompetenzen im Umgang mit generativer KI zu erwerben.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6189,
+      "char_end": 6415,
+      "text": "Zudem bietet die RPTU ihren Lehrenden Formate zur kontinuierlichen Weiterentwicklung ihrer KI-Kompetenzen und unterstützt sie dabei, Lehr- und Prüfungsinhalte sowie -formate an aktuelle technologische Entwicklungen anzupassen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6417,
+      "char_end": 6663,
+      "text": "Wir ermutigen Studierende und Lehrende, sich aktiv mit KI auseinanderzusetzen und ihre Auswirkungen kritisch zu reflektieren, dem Umgang mit KI-Werkzeugen offen zu begegnen und sie bei geeigneten Voraussetzungen aktiv in die Lehre zu integrieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6663,
+      "char_end": 6740,
+      "text": " Dazu gelten an der RPTU folgende Grundsätze:\n\n- **(Pädagogik vor Technik)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6740,
+      "char_end": 6857,
+      "text": "KI kann Lehre bereichern, darf jedoch die persönliche Interaktion zwischen Lehrenden und Studierenden nicht ersetzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6858,
+      "char_end": 6982,
+      "text": "Der Einsatz von KI soll didaktisch sinnvoll erfolgen und den Lernprozess unterstützen, darf aber Lehre nicht automatisieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6983,
+      "char_end": 7061,
+      "text": "Lern-/Kompetenzziele und Persönlichkeitsbildung sind stets zu berücksichtigen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7061,
+      "char_end": 7082,
+      "text": "\n- **(Transparenz)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7082,
+      "char_end": 7224,
+      "text": "Der Einsatz generativer KI sollte generell zulässig sein, sofern er nicht im Widerspruch zu den Lernzielen der jeweiligen Veranstaltung steht.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7225,
+      "char_end": 7501,
+      "text": "Die Dozierenden können entscheiden, ob sie die Nutzung von generativer KI vollständig ausschließen, die Nutzung auf bestimmte Arten von generativer KI beschränken, die Art und Weise der Verwendung von KI einschränken oder keine Einschränkungen bei der Nutzung von KI vorgeben.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7502,
+      "char_end": 7691,
+      "text": "Wenn die Nutzung generativer KI-Systeme in Veranstaltungen untersagt wird, sollten die Studierenden über die Gründe (z.B. didaktische Gründe zur Erreichung der Lernziele) informiert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7691,
+      "char_end": 7714,
+      "text": "\n- **(Kennzeichnung)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7714,
+      "char_end": 7819,
+      "text": "Lehrende und Studierende sind verpflichtet, den Einsatz von KI-gestützten Werkzeugen kenntlich zu machen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7819,
+      "char_end": 7847,
+      "text": "\n- **(Eigenverantwortung)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7847,
+      "char_end": 7920,
+      "text": "Der Einsatz von KI muss mit wissenschaftlicher Integrität vereinbar sein.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7921,
+      "char_end": 8079,
+      "text": "Studierende und Lehrende sind für die von ihnen eingereichten Inhalte verantwortlich, unabhängig davon, ob generative KI-Systeme eingesetzt wurden oder nicht.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8079,
+      "char_end": 8098,
+      "text": "\n- **(Reflexion)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8098,
+      "char_end": 8214,
+      "text": "Der Einsatz von KI sollte nicht unkritisch erfolgen, sondern bewusst in den didaktischen Kontext eingebunden werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8214,
+      "char_end": 8241,
+      "text": "\n- **(Chancengleichheit)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8241,
+      "char_end": 8378,
+      "text": "Der Zugang zu KI-gestützten Werkzeugen sollte allen Studierenden und Dozierenden möglich sein, um ungleiche Voraussetzungen zu vermeiden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8378,
+      "char_end": 8399,
+      "text": "\n- **(Datenschutz)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8399,
+      "char_end": 8495,
+      "text": "Der Einsatz von KI-Systemen muss im Einklang mit den geltenden Datenschutzbestimmungen erfolgen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8496,
+      "char_end": 8582,
+      "text": "Personenbezogene Daten dürfen nur mit Einwilligung der Betroffenen verarbeitet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8582,
+      "char_end": 8605,
+      "text": "\n- **(Infrastruktur)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8605,
+      "char_end": 8820,
+      "text": "Die RPTU stellt eine datenschutzkonforme KI-Infrastruktur zur Verfügung und unterstützt die Lehrenden, Lernenden und Mitarbeitenden bei der Kompetenzentwicklung und der Überarbeitung ihrer Lehr- und Prüfungsformate.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8820,
+      "char_end": 8839,
+      "text": "\n- **(Bewertung)** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8839,
+      "char_end": 8980,
+      "text": "Die RPTU lehnt den Einsatz von KI-Detektoren zur Überprüfung studentischer Arbeiten ab, da diese keine validen Ergebnisse garantieren können.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8981,
+      "char_end": 9130,
+      "text": "Ebenso lehnt sie die Automatisierung von Bewertungsprozessen durch KI ab, um die Qualität und Fairness der akademischen Beurteilung zu gewährleisten.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9130,
+      "char_end": 9174,
+      "text": "\n\n## 4 Verantwortlichkeiten und Leitlinien\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9174,
+      "char_end": 9362,
+      "text": "Im Folgenden finden sich ergänzend zu den allgemeinen Grundsätzen aus dem letzten Abschnitt detailliertere Beschreibungen der Verantwortlichkeiten für Lehrende und Studierende an der RPTU.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9364,
+      "char_end": 9760,
+      "text": "Alle weiteren Festlegungen zum Umgang mit KI-Werkzeugen, insbesondere für Prüfungsformate, werden nicht zentral vorgegeben, da der Nutzungskontext und die genaue Kenntlichmachung von KI-Werkzeugen fach- und disziplinbezogen in Abhängigkeit von den jeweiligen Lernzielen und Prüfungsinhalten variieren. Die Festlegung erfolgt jeweils durch die Prüfenden und Modulverantwortlichen der Fachbereiche.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9760,
+      "char_end": 9782,
+      "text": "\n\n### 4.1 Lehrende\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9782,
+      "char_end": 10104,
+      "text": "Lehrende informieren zu Beginn einer Lehrveranstaltung deutlich, in welchem Umfang generative KI im Rahmen der Veranstaltung eingesetzt und genutzt werden darf. Sofern der Einsatz von generativer KI nicht explizit ausgeschlossen wird, kann diese unter Berücksichtigung der Grundsätze im letzten Abschnitt verwendet werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10105,
+      "char_end": 10499,
+      "text": "Es liegt in der Verantwortung der Lehrenden, transparent zu machen, wie und in welchem Umfang der Einsatz von KI-Systemen in ihren Lehrveranstaltungen gestattet ist. Diese Informationen sind den Studierenden spätestens bei der Ausgabe von Übungsaufgaben bzw. bei der Ausgabe der Anforderungen an die Leistungsnachweise zusammen mit klaren Angaben zu den erlaubten Hilfsmitteln bekannt zu geben.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10499,
+      "char_end": 10502,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10502,
+      "char_end": 10822,
+      "text": "In Lehrveranstaltungen, die auf den Erwerb grundlegender Fähigkeiten (wie wissenschaftliches Schreiben oder Programmieren) ausgerichtet sind, dürfen generative KI-Systeme für die inhaltliche Bearbeitung von Aufgaben nur in fachlich begründeten Ausnahmefällen und mit Einwilligung des bzw. der Lehrenden verwendet werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10823,
+      "char_end": 10961,
+      "text": "Die Lehrenden legen fest, ob und in welchem Umfang sprachliche oder stilistische Überarbeitungen der eingereichten Arbeiten zulässig sind.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10961,
+      "char_end": 10964,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10964,
+      "char_end": 11096,
+      "text": "Lehrende müssen mit Unterstützung von KI generierte Inhalte (Lehrmaterialien, Aufgaben etc.) auf ihre Angemessenheit hin überprüfen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11096,
+      "char_end": 11099,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11099,
+      "char_end": 11416,
+      "text": "Die Bewertung von Abschlussarbeiten durch Betreuende und Gutachtende umfasst die Beurteilung der Eigenleistung der Studierenden, insbesondere im Hinblick auf die Fähigkeit zur selbständigen wissenschaftlichen Problemlösung. Der Einsatz generativer KI und die entsprechende Dokumentation sind dabei relevante Faktoren.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11416,
+      "char_end": 11419,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11419,
+      "char_end": 11562,
+      "text": "Die inhaltliche Bewertung von studentischen Leistungen durch KI-Systeme ist nicht zugelassen, erlaubt sind Hilfsmittel zur Plagiatsüberprüfung.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11562,
+      "char_end": 11587,
+      "text": "\n\n### 4.2 Studierende\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11587,
+      "char_end": 11897,
+      "text": "Studierende sind verpflichtet, sich vor der Nutzung generativer KI-Systeme über die für die Lehrveranstaltung geltenden Bestimmungen zu informieren. In Lehrveranstaltungen mit individueller Betreuung (z. B. Seminare, Praktika und Abschlussarbeiten) ist die Auslegung der Regeln mit den Betreuenden abzustimmen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11897,
+      "char_end": 11900,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11900,
+      "char_end": 12231,
+      "text": "Studierende müssen den Einsatz von generativer KI und die Verwendung KI-basierter Hilfsmittel in ihren Studien- und Prüfungsleistungen kenntlich machen. Die Kennzeichnung muss Angaben zum Zweck des KI-Einsatzes, zu den von der KI generierten oder beeinflussten Abschnitten der Arbeit sowie zu den verwendeten KI-Modellen enthalten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12231,
+      "char_end": 12234,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12234,
+      "char_end": 12458,
+      "text": "Von Studierenden wird erwartet, dass sie alle durch KI generierten oder veränderten Elemente ihrer Arbeit nachvollziehbar erklären können. Davon ausgenommen sind lediglich Korrekturen von Rechtschreibung, Grammatik und Stil.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12458,
+      "char_end": 12461,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12461,
+      "char_end": 12862,
+      "text": "Sofern KI-Technologien als Hilfsmittel zugelassen sind, sind Studierende verpflichtet, den Einsatz bzw. deren Nutzung transparent darzulegen und zu dokumentieren. Betreuende und Gutachtende nutzen diese Dokumentation, um den Eigenanteil der Studierenden zu bewerten und festzustellen, ob die Arbeit die Fähigkeit zur selbstständigen wissenschaftlichen Bearbeitung einer Aufgabenstellung widerspiegelt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12863,
+      "char_end": 12976,
+      "text": "Studierende klären die Dokumentation des KI-Einsatzes in ihrer Abschlussarbeit individuell mit ihren Betreuenden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12978,
+      "char_end": 13291,
+      "text": "Die Studierenden sind für alle Inhalte, die in der Abschlussarbeit enthalten sind, verantwortlich. Dies schließt explizit auch diejenigen Teile ein, die von generativen KI-Systemen erzeugt oder von diesen übernommen wurden. Die Erklärung zur Eigenständigkeit der Arbeit ist in der Abschlussarbeit zu kennzeichnen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13291,
+      "char_end": 13807,
+      "text": " Beispiele für Eigenständigkeitserklärungen finden sich im Anhang.\n\n## 5 Anhang: Beispiele für Eigenständigkeitserklärungen\n\nDie folgenden Formulierungsvorschläge sollen dabei helfen, für den jeweiligen Einzelfall eine geeignete Eigenständigkeitserklärung zu verfassen. Weitere Informationen und Beispiele, auch zu Eigenständigkeitserklärungen mit Lernzielorientierung finden sich unter anderem in (Generative KI in der Hochschullehre, 2023)\n\n### 5.1 Beispiel für die Nutzung von KI-Tools mit Kennzeichnungspflicht\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13807,
+      "char_end": 14302,
+      "text": "„Ich erkläre hiermit, die vorliegende [Abschlussarbeit] selbstständig verfasst zu haben. Die verwendeten Quellen und Hilfsmittel (auch generative KI-Systeme) sind im Text kenntlich gemacht und im Anhang vollständig (d.h. mit Angabe von Version und Nutzungszweck) aufgeführt. Sofern der Einsatz über eine reine Grammatikprüfung und Stilverbesserung hinausgeht, ist der Einsatz nachvollziehbar kenntlich gemacht. Für Fehler, auch bei Übernahme aus generativen KI-Systemen, bin ich verantwortlich.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14304,
+      "char_end": 14644,
+      "text": "„Generative KI-Anwendungen habe ich zur Informationsgewinnung und/oder zur Überarbeitung der [Arbeit] verwendet. Die mittels KI-Anwendung gefundenen Ergebnisse habe ich eigenständig überprüft und mir zu eigen gemacht. Textstellen, die mittels generativer KI-Anwendungen erstellt oder verändert wurden, habe ich entsprechend gekennzeichnet.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14646,
+      "char_end": 15326,
+      "text": "„Hiermit versichere ich, dass ich die vorliegende [Arbeit] in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und Hilfsmittel benutzt habe, und dass die [Arbeit] in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate, sowie alle Abschnitte, die mithilfe von KI-basierten Tools entworfen, verfasst und/oder bearbeitet wurden, sind kenntlich gemacht und nachgewiesen. Im Anhang meiner Arbeit habe ich sämtliche KI-basierte Hilfsmittel angegeben. Diese sind mit Produktnamen und formulierten Eingaben (Prompts) in einem KI-Verzeichnis ausgewiesen.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15326,
+      "char_end": 15402,
+      "text": "\n\n### 5.2 Beispiel für die Nutzung von KI-Tools ohne Kennzeichnungspflicht\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15402,
+      "char_end": 16542,
+      "text": "„Hiermit versichere ich, dass ich die vorliegende Arbeit in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und zur Angabe verpflichteten Hilfsmittel benutzt habe, und dass die Arbeit in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate sind kenntlich gemacht und nachgewiesen. Ich versichere, dass ich keine KI-basierten Tools verwendet habe, deren Nutzung der Prüfer / die Prüferin explizit schriftlich ausgeschlossen hat. Ich bin mir bewusst, dass die Verwendung von Texten oder anderen Inhalten und Produkten, die durch KI-basierte Tools generiert wurden, keine Garantie für deren Qualität darstellt. Ich verantworte die Übernahme jeglicher von mir verwendeter maschinell generierter Passagen vollumfänglich selbst und trage die Verantwortung für eventuell durch die KI generierte fehlerhafte oder verzerrte Inhalte, fehlerhafte Referenzen, Verstöße gegen das Datenschutz und Urheberrecht oder Plagiate. Ich versichere zudem, dass in der vorliegenden Arbeit mein gestalterischer Einfluss überwiegt.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16542,
+      "char_end": 16594,
+      "text": "\n\n### 5.3 Beispiel für den Ausschluss von KI-Tools\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16594,
+      "char_end": 17225,
+      "text": "„Hiermit versichere ich, dass ich die vorliegende Arbeit in allen Teilen selbstständig angefertigt und keine anderen als die in der Arbeit angegebenen Quellen und Hilfsmittel benutzt habe, und dass die Arbeit in gleicher oder ähnlicher Form in noch keiner anderen Prüfung vorgelegen hat. Sämtliche wörtlichen oder sinngemäßen Übernahmen und Zitate sind kenntlich gemacht und nachgewiesen. Ich habe in der Arbeit keine KI-generierten Textpassagen oder Inhalte verwendet. Zudem versichere ich, dass ich keine anderen KI-basierten Tools verwendet habe, deren Nutzung der Prüfer / die Prüferin explizit schriftlich ausgeschlossen hat.“",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17225,
+      "char_end": 17270,
+      "text": "\n\n## 6 Unterstützungsangebote an der RPTU\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17270,
+      "char_end": 17334,
+      "text": "Webseite „KI in Studium und Lehre an der RPTU“: rptu.de/ki-lehre",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17334,
+      "char_end": 17337,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17337,
+      "char_end": 17400,
+      "text": "Verfügbare datenschutzkonforme Tools: rptu.de/ki-lehre/ki-tools",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17400,
+      "char_end": 18376,
+      "text": "\n\n## 7 Literaturverzeichnis\n\nArtificial Intelligence Act (Regulation (EU) 2024/1689). (2024). Official Journal of the European Union.\nDeutscher Ethikrat. (2023). Mensch und Maschine - Herausforderungen durch Künstliche Intelligenz. https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine\nGenerative KI in der Hochschullehre. (2023). https://blog.hwr-berlin.de/elerner/informationen-zu-chatgpt-und-anderen-ki-tools\nHeckmann, D., & Rachut, S. (2024). Rechtssichere Hochschulprüfungen mit und trotz generativer KI. Ordnung der Wissenschaft(2), S. 85-100.\nMöhring, Nehlsen, & Rehlfeld. (2025).\nRPTU. (2025). KI in Studium und Lehre an der RPTU. https://rptu.de/ki-lehre\n\n## FOOTNOTES\n\n¹ Siehe Anhang sowie (RPTU, 2025)\n\n² https://www.htw-berlin.de/fileadmin/HTW/Zentral/LSC/Formulare/Eigenstaendigkeitserklaerung_KI_HTW_20230823_LSC_OER.pdf\n\n³ https://www.htw-berlin.de/fileadmin/HTW/Zentral/LSC/Formulare/Eigenstaendigkeitserklaerung_KI_HTW_20230823_LSC_OER.pdf",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

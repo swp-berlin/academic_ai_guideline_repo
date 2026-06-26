@@ -1,0 +1,2119 @@
+{
+  "doc_id": "fernuni-hagen_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Grundsätze und Orientierungshilfen für die Nutzung von Künstlicher Intelligenz in Lehre und Studium",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "2. Auflage, aktualisierte Fassung, April 2025",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Leitfaden",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "*Die Fernstudierende Petra hat schon viel von ChatGPT gehört und daher diesen Chatbot als Brainstorming-Tool und Impulsgeber mit Begeisterung und vielen Prompts ausprobiert. Sie stellt fest, dass das Tool Vorschläge zu Texten, Strukturen, Formaten u.v.m. machen kann, auf die sie selbst nicht gekommen wäre. Nun steht ihre Hausarbeit an und sie setzt ChatGPT ein, um sich einen Text zu einem Schwerpunktthema, sowie eine Gliederung und Quellen vorschlagen zu lassen. Bis ihr dann siedend heiß einfällt, dass sie das wahrscheinlich im Rahmen ihrer Hausarbeit in ihrem Studiengang an der FernUni gar nicht darf. Oder doch?*",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Mit der emergenten Entwicklung und Verbreitung von Künstlicher Intelligenz (KI), zu der generative KI-Anwendungen wie ChatGPT gehören, ergibt sich die Frage, ob und in welchem Umfang Lehrende und Studierende KI-Anwendungen nutzen dürfen.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Als generative KI werden KI-Systeme bezeichnet, die auf Anfrage mittels Prompts selbstständig neue Inhalte erstellen, aus Daten lernen, die sie während ihrer Trainingsphase erhalten haben, und dieses Wissen nutzen, um Ausgaben z. B. in Textform zu erzeugen, Bilder zu generieren, Musik zu komponieren oder Programmcodes zur Entwicklung von Anwendungen zu produzieren.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Als textgenerierende KI simulieren solche Anwendungen menschliche Konversation und lernen aus menschlichem Feedback. Die Antworten lassen sich kaum mehr von menschlichen Antworten unterscheiden. Durch diese Potentiale beeinflusst und verändert KI den Umgang mit Texten, wissenschaftliche Arbeitsweisen und bisherige Prüfungsleistungen, wobei zunehmend auch multimodale KI ins Spiel kommt. Für Lehrende gehen damit rechtliche Fragen einher, es ergeben sich aber auch didaktische und ethische Herausforderungen.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Insbesondere für die FernUniversität in Hagen als Hochschule mit hohem Digitalisierungsgrad in Lehre und Studium sind diese Zukunftstechnologien von großer Bedeutung. Sie bieten innovative Möglichkeiten in Lehre und im Studium.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Für die FernUniversität in Hagen ist dabei entscheidend, auf der Grundlage rechtlicher Rahmenbedingungen (wie Datenschutzgrundverordnung (DSGVO), Urheberrecht und EU KI-Verordnung) einen verantwortungsvollen Umgang mit Daten zu fördern und ein Bewusstsein aller Hochschulangehörigen für das transformative Potential dieser Technologien zu schaffen.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Dieses Papier enthält allgemeine Grundsätze und Orientierungshilfen für die Nutzung von KI in Lehre und Studium an der FernUniversität in Hagen und soll insbesondere Lehrenden helfen, Unsicherheiten zu minimieren und einen verantwortungsvollen Umgang mit und Einsatz von KI-Anwendungen in der Hochschulbildung zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ergänzt wird das Papier durch Handlungsempfehlungen für den didaktischen Einsatz von generativer KI in der Hochschullehre. Es ist das Ergebnis einer Zusammenarbeit des Rektorats, des Zentrums für Lernen und Innovation (ZLI), der Fachmedidaktiker*innen und den KI-Forschenden aus der Bildungswissenschaft und des Forschungszentrums CATALPA, dem Justitiariat sowie der Stabsstelle Datenschutz der FernUniversität in Hagen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## 01 – Grundsätze für die Nutzung von KI in Lehre und Studium",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die FernUniversität in Hagen fördert die Digitalisierung in der Hochschulbildung und damit auch den Einsatz von Künstlicher Intelligenz und Trusted Learning Analytics (Hansen et al., 2020) in Studium, Lehre und Weiterbildung.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Mit diesem Leitsatz geht einher, dass sie sich gegen ein grundsätzliches Verbot von generativen KI-Anwendungen in Studienarbeiten und Prüfungen ausspricht.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Textgenerierende KI, automatisierte Empfehlungs- und Feedbacksysteme, personalisierte Prognosen oder KI-basierte Systeme z. B. in der (Studien-)Beratung stehen für nur einige der möglichen Einsatzszenarien.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Einsatz von KI ist – die folgenden Grundsätze beachtend – prinzipiell erlaubt, wenn rechtliche Rahmenbedingungen, insbesondere Datenschutz und Urheberrecht, gewahrt werden.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ziel der FernUniversität in Hagen ist es, eine Ermöglichungskultur zur technologieoffenen Nutzung von KI für die Hochschule zu unterstützen und umzusetzen.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Nicht immer sind die Konsequenzen oder „Nebenwirkungen“, die mit der Nutzung von KI einhergehen, in komplexen Situationen eindeutig absehbar. Das grundlegende Anliegen der FernUniversität in Hagen besteht jedoch darin, den Nutzen von KI zu gesellschaftlich, ökologisch und wissenschaftlich relevanten Zwecken zu unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "In den meisten Fällen ist unklar, auf welche Daten KI-Anwendungen zugreifen, welche Quellen genutzt werden oder wie die in die Anwendung eingegebenen Texte nachgenutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daher empfiehlt die FernUniversität in Hagen Lehrenden wie Studierenden, keine urheberrechtlich schützenswerten Texte in externe Anwendungen zu übertragen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Auch sollten KI-generierte Texte nicht ungeprüft übernommen werden, um fehlerhafte Aussagen zu vermeiden.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Sie fördert mit offenen Informations- und Bildungsangeboten für Lehrende, Studierende, Mitarbeitende und Forschende den kompetenten und verantwortungsvollen Umgang mit und den Einsatz von KI.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die folgenden **Grundsätze** zielen darauf ab, dass KI-Anwendungen rechtlich und ethisch reflektiert wie auch transparent an der FernUniversität in Hagen eingesetzt werden. Sie bilden die Basis für den Einsatz und die Nutzung von KI in Lehre und Studium, reichen aber auch in die Bereiche des Forschens und Arbeitens hinein.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Verbesserung der Bedingungen für Lernen, Lehren, Forschen und Arbeiten",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI soll an der FernUniversität in Hagen mit dem Ziel der Verbesserung der Bedingungen des Lernens und Lehrens, des wissenschaftlichen Erkenntnisgewinns und des Arbeitens an der Hochschule zum Einsatz kommen.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "KI-Anwendungen dürfen keinesfalls zur Überwachung von Studierenden oder anderen Hochschulangehörigen genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Auch die Weitergabe von Daten und rechtlich geschützten Inhalten an Dritte sowie jede Nutzung zu kommerziellen Zwecken schließt die FernUniversität in Hagen aus.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Technologieoffene Unterstützung für alle",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Nutzung von KI steht generell allen offen und ist darauf ausgerichtet, alle gleichermaßen profitieren zu lassen.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die nachhaltige Problemlöseintention bildet daher ein wesentliches Merkmal für den Nutzen von KI an unserer Hochschule.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI soll als Hilfsmittel verstanden werden, das – rechtskonform und ethisch reflektiert – eingesetzt werden kann, um Ziele und Aufgaben im institutionellen Kontext zu erreichen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dabei sollten immer positive und negative Implikationen herangezogen werden, um reflektiert über eine Nutzung von KI zu entscheiden.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Insbesondere Aspekte der Teilhabe im Sinne der Barrierefreiheit und Bildungsgerechtigkeit sollen durch den Einsatz von KI verbessert werden.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Transparenter Umgang mit Anwendungen und Daten",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Im Umgang mit externen Anwendungen erfolgt der Einsatz transparent und konform zu den rechtlichen Rahmungen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beteiligte informieren sich vor der Nutzung darüber, welche Daten zu welchem Zweck verwendet werden und wer darauf Zugriff hat.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In Fällen, in denen der Schutz personenbezogener Daten und der Datennutzung und -erhebung rechtlich nicht eindeutig ist, müssen Bedingungen des Datenschutzes selbstverständlich und proaktiv umgesetzt und dokumentiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies bezieht die Einwilligung wie auch die Möglichkeit des Widerspruchs, eine ausreichende Informiertheit, und Transparenz zu Datenspeicherung und Speicherfristen mit ein.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Entwicklung und Anwendung eigener KI-Tools an der FernUniversität in Hagen werden die Anforderungen an KI-Systeme des EU-Rechtsrahmens für menschliche und vertrauenswürdige KI („EU KI-Verordnung“) berücksichtigt.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Kritischer Umgang mit Anwendungen und Daten",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Daten bilden nie ein vollständiges Bild der Realität oder der Erfolgsaussichten ab.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Mögliche negative Auswirkungen von KI, wie Halluzinationen oder Bias, sind zu identifizieren und Lehrende wie Studierende dafür zu sensibilisieren.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Bei Unklarheiten hilft die Orientierung an der Ordnung zur Sicherung guter wissenschaftlicher Praxis an der FernUniversität in Hagen.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Menschliche Kontrolle",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzung von KI an der FernUniversität in Hagen darf niemals zu Entscheidungen ohne menschliche Kontrolle führen.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Insbesondere die Bewertung von Studienleistungen verantworten die Lehrenden und prüfungsberechtigte Personen.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Genutzte KI-Anwendungen sollten immer die menschliche Entscheidungsfreiheit respektieren und Menschen in ihren Handlungen unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Mensch sollte immer die Kontrolle beim Einsatz der KI-Anwendung behalten.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Vorbild und Verantwortung",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI soll nach den hier beschriebenen Grundsätzen genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Daher ist ein verantwortungsvoller Umgang für alle verpflichtend, alle Nutzungsszenarien sowie deren Daten und Datengrundlagen sind regelmäßig auf ihre Konformität zu diesen Grundsätzen hin zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Verantwortung für wissenschaftliche Texte oder andere (wissenschaftliche) Artefakte liegt immer beim Autor bzw. bei der Autorin.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Richtigkeit von KI-generierten Outputs ist zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "### Angebot und Nutzung von Weiterbildungsangeboten",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Um einen verantwortungsvollen Umgang zu gewährleisten, bietet die FernUniversität in Hagen regelmäßig Weiterbildungsangebote und Austauschformate für Hochschulangehörige an.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Vermittlung von KI-Kompetenzen sieht sie als einen besonders relevanten Schwerpunkt an.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hochschulangehörige sollten sich eigenständig über diese Angebote informieren und diese nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## 02 – Orientierungshilfen",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Orientierungshilfen haben Empfehlungscharakter, da letztlich die Fakultäten der FernUniversität in Hagen für die Studienarbeiten und Prüfungen zuständig sind und die verbindlichen Entscheidungen darüber treffen.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Auch kann die Nutzung von KI durch Studierende von Lehrenden eingeschränkt oder untersagt werden, wenn es die jeweiligen Anforderungen an die Leistungen ergeben.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die FernUniversität in Hagen verfolgt fortlaufend die technologischen, didaktischen und ethisch-rechtlichen Entwicklungen und wird ihre Empfehlungen auf den Webseiten des ZLI entsprechend anpassen.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "### Einsatz von KI-Tools in der Lehre\nWer sollte die Tools nutzen können?",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Um gemeinsam mit Studierenden die Möglichkeiten und Grenzen von generativen KI-Anwendungen als akademisches Werkzeug kennenzulernen, spricht sich die FernUniversität dafür aus, generative KI-Anwendungen zur Bearbeitung von Aufgaben zu verwenden, um den grundsätzlichen Nutzen und Vorteile, aber auch Nachteile, Bias und das Phänomen der Halluzination zu explorieren.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Deshalb dürfen KI-Anwendungen prinzipiell von allen Lehrenden und allen Studierenden in allen Phasen der Bachelor- und Masterstudiengängen genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "### Voraussetzungen für den Einsatz von KI in Lehr-Lernszenarien\nIn welchen Szenarien dürfen KI-Tools genutzt werden?",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "An der FernUniversität dürfen KI-Anwendungen – unter Einhaltung der ethischen Grundsätze, des Urheberrechts und des Datenschutzes – grundsätzlich in allen Lehrszenarien genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Darunter fallen alle Formen von Lehrveranstaltungen, formative Studienleistungen und summative Prüfungen.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Es obliegt den Lehrenden festzulegen, ob sie den Einsatz von KI in ihren Veranstaltungen und für ihre Prüfungen für sinnvoll halten.",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Da KI auch durch bereits etablierte Arbeitssoftware in die Anwendung kommt, sind für die Beurteilung der akademischen Eigenleistungen von Studierenden alternative Prüfungskombinationen (schriftliche, mündliche und praktische Prüfungsformen) oder weitere anrechenbare Leistungen wie einen verschriftlichen Reflexionsprozess in Betracht zu ziehen und in den Studien- und Prüfungsordnungen festzuhalten.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Anregungen für einen didaktischen Einsatz von KI in ihre Lehre finden die Lehrenden zukünftig in den Use Cases für KI-Anwendungen in der Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "### Thematisierung der Nutzung von und kritischer Umgang mit KI-Anwendungen\nGibt es eine generelle Regelung zur Nutzung von generativen Tools in der Lehre oder ist es Lehrenden freigestellt, generative Tools und deren Nutzung zu thematisieren?",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Thematisierung von generativer KI in der Lehre ist wünschenswert, um den Nutzen der Anwendungen für ein Fach zu erkunden, aber auch um den kritischen und transparenten Umgang mit der Technologie zu vermitteln.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generell steht es Lehrenden daher frei, generative KI-Anwendungen in die Lehre mit einzubeziehen.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Regelungen zur Nutzung von generativer KI ergeben sich zunächst aus den allgemeinen Regelungen zu Datenschutz und Urheberrecht.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "### Nutzung von generativen KI-Anwendungen für Prüfungsleistungen\nGibt es eine generelle Regelung zur Nutzung von generativen KI-Anwendungen für Prüfungsleistungen (insb. Hausarbeiten) oder sind Lehrende frei darin, die Nutzung zu erlauben?",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Generell gibt es keine einheitliche Regelung für die FernUniversität in Hagen. Fakultäten, Studiengänge und Lehrende können eigenständig entscheiden, wie der Umgang mit Hilfsmitteln und KI geregelt wird.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Eine der größten Herausforderungen für Lehrende bei Prüfungen besteht darin, die Eigenleistung zu bewerten, besonders dann, wenn es keine Restriktionen in der Nutzung von KI im Rahmen einer Prüfungsleistung gibt.",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daher ist es sinnvoll, für Prüfungen erlaubte oder nicht erlaubte Hilfsmittel, deren Nutzung und Dokumentationspflicht auszuweisen.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Darunter fällt die Art von KI (ggf. inklusive der Nennung konkreter KI-Anwendungen, des Zwecks und der eigenen Ergebnisüberprüfung) und die Anforderungen an die Dokumentation der Nutzung.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Orientierung gibt die Berücksichtigung der guten wissenschaftlichen Praxis und die Wahrung von Urheberschaft und Datenschutz.",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Insgesamt kann die Nutzung von KI eine Qualitätssteigerung bedeuten.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Um die mögliche Gefahr der Übernahme von KI-generierten Halluzinationen zu vermeiden, sollte dem Prüfling immer bewusst gemacht werden, dass er oder sie die Verantwortung für den Text und die Richtigkeit der Angaben hat und jede KI-generierte Aussage spätestens vor Abgabe der Prüfungsleistung überprüft werden muss.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "### Umgang mit KI-Anwendungen in Prüfungen\nWelche Implikationen hat die Nutzung von KI-Anwendungen in Prüfungen und wie können Lehrende damit umgehen?",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Welche Implikationen die (gewollte oder ungewollte) Verfügbarkeit von KI-Anwendungen in Prüfungen hat, hängt von der Prüfungsform und den zu prüfenden Kompetenzen ab.",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vor einer Prüfung, bei der Studierende möglicherweise KI-Anwendungen nutzen, sollten sich Lehrende einerseits die Lernziele ihres Moduls vergegenwärtigen und andererseits die Erwartungen an die wesentlichen Werte wie akademische Integrität und Vertrauen und die Konsequenzen bei Verstößen deutlich an die Studierenden kommunizieren.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Zweck der Prüfung – die Prüfung einer bestimmten Kompetenz – muss bei der Implementation von Maßnahmen zum Umgang mit KI stets gewahrt bleiben.",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "In Prüfungen können KI-Outputs als Beispiele kritisch diskutiert, beurteilt werden und weiterentwickelt werden.",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Lehrende können KI-Anwendungen kreativ nutzen, um Schritte in der Prüfungsgestaltung (Erzeugung von Fragen, Beispielen, Formulierungen, Kriterien, Operationalisierungen etc.) zu begleiten.",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Lehrende sollten klar festlegen, welche Anwendungen Studierende während ihrer Prüfungsleistung nutzen können und wie die Verwendung im Sinne eines wissenschaftlichen Arbeitens gekennzeichnet werden muss.",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Soll KI gänzlich ausgeschlossen werden, so sind geeignete Prüfungsformen zu nutzen wie z.B. Präsenzklausur, mündliche Prüfung oder Seminarvortrag mit Erörterung.",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Einsatz von KI kann dazu beitragen, schriftliche Arbeiten zu strukturieren, sprachlich zu verbessern und korrekte Zitierweisen zu verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dadurch bleibt mehr Zeit für vertiefte Arbeit in anderen Bereichen.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wesentlich ist jedoch eine gründliche kritische Analyse. Lehrende sollten beispielsweise Studierende ausdrücklich auffordern, ihre Arbeit mit Theorien oder Fällen zu verknüpfen, die im Modul bzw. während des Semesters behandelt worden sind, um Texte jenseits der allgemein formulierten Outputs von KI hervorzulocken.",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei schriftlichen Prüfungen (ohne Aufsicht), z. B. Hausarbeiten oder Abschlussarbeiten, kann nicht rechtssicher nachgewiesen werden, ob KI einen Text generiert hat.",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Studierenden sollten darüber aufgeklärt werden, dass sie auch bei einer KI-Nutzung für die Qualität ihrer Arbeiten immer voll verantwortlich sind.",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Klausuren können technische, organisatorische und didaktische Maßnahmen Täuschungsversuche erschweren:",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungsfragen können didaktisch modifiziert werden, um sie gegenüber KI-Antworten weniger angreifbar zu gestalten. Tendenziell sind Fragen, die auf niedrigere Taxonomiestufen abzielen und vor dem Kontext allgemeinen und allgemein verfügbaren Wissens beantwortet werden können, eher gefährdet, korrekt von einer KI beantwortet zu werden.",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Technisch kann der Zugriff auf eine KI durch eine Videoaufsicht oder Sperroptionen erschwert werden. Hierbei ist der Datenschutz zu wahren.",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Technische Maßnahmen erschweren lediglich die Nutzung unerlaubter Hilfsmittel und können sie nicht gänzlich verhindern. Der Einsatz technischer Maßnahmen kann die zu prüfenden Kompetenzen ungewollt verändern.",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Klausur kann zu einem Präsenzformat mit Aufsicht wechseln.",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei mündlichen Prüfungen werden Studierende automatisch beaufsichtigt. Die Fragedichte und die direkte Interaktion mit den Prüfenden machen den unerlaubten Einsatz von KI-Anwendungen ineffizient und augenscheinlich.",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Für Lehrende ist eine alleinige Nutzung von KI zur Bewertung von Prüfungsleistungen nicht rechtens.",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Details und konkrete Maßnahmen finden Sie bei Salden und Leschke (2023).",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "### Eigenständigkeitserklärung\nGibt es eine besondere Eigenständigkeitserklärung zur Regelung der Nutzung von KI in Prüfungen?",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die FernUniversität in Hagen verpflichtet sich zur Schaffung möglichst klarer rechtlicher Rahmenbedingungen. Dies geschieht etwa durch zentrale Richtlinien und Empfehlungen zu KI-gestützten Tools, aber auch durch eine angepasste Eigenständigkeitserklärung.",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die finale Ausgestaltung von Eigenständigkeitserklärungen obliegt den Prüfungsämtern der Fakultäten.",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Studierende, die keine KI-Tools verwenden, sollten dies ebenfalls in der Eigenständigkeitserklärung bestätigen. Diese Regelungen sollten Lehrende frühzeitig kommunizieren.",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "### Schulungen und Weiterbildungen\nGibt es (verpflichtende) Schulungen und Weiterbildungen?",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die FernUniversität in Hagen setzt grundsätzlich voraus, dass sowohl Lehrende als auch Studierende Kenntnisse über die KI-Anwendungen haben, die sie selbst einsetzen.",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Im Rahmen des Anspruchs, vertrauenswürdige KI und Learning Analytics einzusetzen, verpflichtet sich die FernUniversität in Hagen zudem, Weiterbildungen für Lehrende zum ethischen und datenschutzrechtlichen Umgang und Einsatz von KI-Anwendungen anzubieten.",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Für die Studierenden der FernUniversität stehen offene Weiterbildungsangebote über studyFIT zur Verfügung (z. B. Lernen mit KI, Data Literacy).",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "derfernuniversitaetinhagen-042025.pdf # date: 2025-04 # category: guideline # ki-leitfaden der fernuniversität in hagen",
+      "repaired": true
+    },
+    {
+      "id": 113,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "buck, i., jost, c. kreis-hoyer, p., limburg, a. (2023): ki-induzierte transformation an hochschulen. berlin: hochschulforum digitalisierung.",
+      "repaired": true
+    },
+    {
+      "id": 114,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "dfg (2023). stellungnahme des präsidiums der deutschen forschungsgemeinschaft (dfg) zum einfluss generativer modelle für die textund bilderstellung auf die wissenschaften und das förderhandeln der dfg. september 2023.",
+      "repaired": true
+    },
+    {
+      "id": 115,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "european commission (2018). ethics guidelines for trustworthy ai | shaping europe's digital future.",
+      "repaired": true
+    },
+    {
+      "id": 116,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "fernuni.ch (2023). a teacher's guide to chatgpt and remote assessments.",
+      "repaired": true
+    },
+    {
+      "id": 117,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "gesellschaft für informatik (2023). positionspapier der gesellschaft für informatik e.v. (gi). künstliche intelligenz in der bildung.",
+      "repaired": true
+    },
+    {
+      "id": 118,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "hansen, j., rensing, c., herrmann, o., & drachsler, h. (2020). verhaltenskodex für trusted learning analytics. version 1.0. entwurf für die hessischen hochschulen.",
+      "repaired": true
+    },
+    {
+      "id": 119,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "mcadoo, th. (2023). how to cite chatgpt.",
+      "repaired": true
+    },
+    {
+      "id": 120,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "ordnung zur sicherung guter wissenschaftlicher praxis an der fernuniversität in hagen vom 02. november 2022.",
+      "repaired": true
+    },
+    {
+      "id": 121,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "salden, p., leschke, j.,(2023). didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung. ruhr-universität bochum.",
+      "repaired": true
+    },
+    {
+      "id": 122,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "simis, ch. (2024). digitale technologien an hochschulen. ethische orientierung für die praxis. teil i: grundlagen. ki:edu.nrw.",
+      "repaired": true
+    },
+    {
+      "id": 123,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "universität basel (2023). leitfaden „aus ki zitieren\".",
+      "repaired": true
+    },
+    {
+      "id": 124,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## empfehlenswerte quellen",
+      "repaired": true
+    },
+    {
+      "id": 125,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## die autorinnen und autoren des orientierungspapiers",
+      "repaired": true
+    },
+    {
+      "id": 126,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "andré biederbeck (zli), annabell bils (zli), andreas giesbert (fachmediendidaktiker fakultät ksw), uwe hofmann (stabsstelle datenschutz), heike karolyi (catalpa), andreas kempka (zli), simone opel (fachmediendidaktikerin fakultät mi), alexander sperl (zli), claudia de witt (lehrgebiet bildungstheorie und medienpädagogik, catalpa)",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 126,
+    "matched": 123,
+    "unmatched_count": 3,
+    "unmatched": [
+      {
+        "id": 112,
+        "B": "B13",
+        "matched_words": "8/13",
+        "text": "derfernuniversitaetinhagen-042025.pdf # date: 2025-04 # category: guideline # ki-leitfaden der fernuniversität in hagen"
+      },
+      {
+        "id": 113,
+        "B": "B11",
+        "matched_words": "4/16",
+        "text": "buck, i., jost, c. kreis-hoyer, p., limburg, a. (2023): ki-induzierte transformation an hochschulen. berlin: hochschulforum digitalisierung."
+      },
+      {
+        "id": 121,
+        "B": "B11",
+        "matched_words": "9/16",
+        "text": "salden, p., leschke, j.,(2023). didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung. ruhr-universität bochum."
+      }
+    ],
+    "source_coverage": 0.965,
+    "uncovered_chars": 501,
+    "uncovered_gaps": 5,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 76,
+        "length": 76,
+        "text": "# fernuniversität in hagen # source: https://www.fernunihagen.de/zli/docs/ki"
+      },
+      {
+        "char_start": 85,
+        "char_end": 205,
+        "length": 120,
+        "text": "derfernuniversitaetinhagen-042025.pdf # date: 2025-04 # category: guideline # ki-leitfaden der fernuniversität in hagen"
+      },
+      {
+        "char_start": 350,
+        "char_end": 361,
+        "length": 11,
+        "text": "leitfaden"
+      },
+      {
+        "char_start": 19031,
+        "char_end": 19173,
+        "length": 142,
+        "text": "buck, i., jost, c. kreis-hoyer, p., limburg, a. (2023): ki-induzierte transformation an hochschulen. berlin: hochschulforum digitalisierung."
+      },
+      {
+        "char_start": 20009,
+        "char_end": 20161,
+        "length": 152,
+        "text": ". salden, p., leschke, j.,(2023). didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung. ruhr-universität bochum."
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 173,
+      "text": "# FernUniversität in Hagen\n# Source: https://www.fernuni-hagen.de/zli/docs/ki-leitfaden-der-fernuniversitaet-in-hagen-042025.pdf\n# Date: 2025-04\n# Category: guideline\n\n# KI-",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 173,
+      "char_end": 182,
+      "text": "Leitfaden",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 182,
+      "char_end": 213,
+      "text": " der FernUniversität in Hagen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 213,
+      "char_end": 312,
+      "text": "Grundsätze und Orientierungshilfen für die Nutzung von Künstlicher Intelligenz in Lehre und Studium",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 314,
+      "char_end": 359,
+      "text": "2. Auflage, aktualisierte Fassung, April 2025",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 359,
+      "char_end": 372,
+      "text": "\n\nLeitfaden\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 372,
+      "char_end": 993,
+      "text": "*Die Fernstudierende Petra hat schon viel von ChatGPT gehört und daher diesen Chatbot als Brainstorming-Tool und Impulsgeber mit Begeisterung und vielen Prompts ausprobiert. Sie stellt fest, dass das Tool Vorschläge zu Texten, Strukturen, Formaten u.v.m. machen kann, auf die sie selbst nicht gekommen wäre. Nun steht ihre Hausarbeit an und sie setzt ChatGPT ein, um sich einen Text zu einem Schwerpunktthema, sowie eine Gliederung und Quellen vorschlagen zu lassen. Bis ihr dann siedend heiß einfällt, dass sie das wahrscheinlich im Rahmen ihrer Hausarbeit in ihrem Studiengang an der FernUni gar nicht darf. Oder doch?*",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 995,
+      "char_end": 1232,
+      "text": "Mit der emergenten Entwicklung und Verbreitung von Künstlicher Intelligenz (KI), zu der generative KI-Anwendungen wie ChatGPT gehören, ergibt sich die Frage, ob und in welchem Umfang Lehrende und Studierende KI-Anwendungen nutzen dürfen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1233,
+      "char_end": 1600,
+      "text": "Als generative KI werden KI-Systeme bezeichnet, die auf Anfrage mittels Prompts selbstständig neue Inhalte erstellen, aus Daten lernen, die sie während ihrer Trainingsphase erhalten haben, und dieses Wissen nutzen, um Ausgaben z. B. in Textform zu erzeugen, Bilder zu generieren, Musik zu komponieren oder Programmcodes zur Entwicklung von Anwendungen zu produzieren.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1601,
+      "char_end": 2110,
+      "text": "Als textgenerierende KI simulieren solche Anwendungen menschliche Konversation und lernen aus menschlichem Feedback. Die Antworten lassen sich kaum mehr von menschlichen Antworten unterscheiden. Durch diese Potentiale beeinflusst und verändert KI den Umgang mit Texten, wissenschaftliche Arbeitsweisen und bisherige Prüfungsleistungen, wobei zunehmend auch multimodale KI ins Spiel kommt. Für Lehrende gehen damit rechtliche Fragen einher, es ergeben sich aber auch didaktische und ethische Herausforderungen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2112,
+      "char_end": 2339,
+      "text": "Insbesondere für die FernUniversität in Hagen als Hochschule mit hohem Digitalisierungsgrad in Lehre und Studium sind diese Zukunftstechnologien von großer Bedeutung. Sie bieten innovative Möglichkeiten in Lehre und im Studium.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2340,
+      "char_end": 2688,
+      "text": "Für die FernUniversität in Hagen ist dabei entscheidend, auf der Grundlage rechtlicher Rahmenbedingungen (wie Datenschutzgrundverordnung (DSGVO), Urheberrecht und EU KI-Verordnung) einen verantwortungsvollen Umgang mit Daten zu fördern und ein Bewusstsein aller Hochschulangehörigen für das transformative Potential dieser Technologien zu schaffen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2690,
+      "char_end": 3015,
+      "text": "Dieses Papier enthält allgemeine Grundsätze und Orientierungshilfen für die Nutzung von KI in Lehre und Studium an der FernUniversität in Hagen und soll insbesondere Lehrenden helfen, Unsicherheiten zu minimieren und einen verantwortungsvollen Umgang mit und Einsatz von KI-Anwendungen in der Hochschulbildung zu ermöglichen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3016,
+      "char_end": 3436,
+      "text": "Ergänzt wird das Papier durch Handlungsempfehlungen für den didaktischen Einsatz von generativer KI in der Hochschullehre. Es ist das Ergebnis einer Zusammenarbeit des Rektorats, des Zentrums für Lernen und Innovation (ZLI), der Fachmedidaktiker*innen und den KI-Forschenden aus der Bildungswissenschaft und des Forschungszentrums CATALPA, dem Justitiariat sowie der Stabsstelle Datenschutz der FernUniversität in Hagen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3438,
+      "char_end": 3500,
+      "text": "## 01 – Grundsätze für die Nutzung von KI in Lehre und Studium",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3502,
+      "char_end": 3727,
+      "text": "Die FernUniversität in Hagen fördert die Digitalisierung in der Hochschulbildung und damit auch den Einsatz von Künstlicher Intelligenz und Trusted Learning Analytics (Hansen et al., 2020) in Studium, Lehre und Weiterbildung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3728,
+      "char_end": 3883,
+      "text": "Mit diesem Leitsatz geht einher, dass sie sich gegen ein grundsätzliches Verbot von generativen KI-Anwendungen in Studienarbeiten und Prüfungen ausspricht.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3884,
+      "char_end": 4090,
+      "text": "Textgenerierende KI, automatisierte Empfehlungs- und Feedbacksysteme, personalisierte Prognosen oder KI-basierte Systeme z. B. in der (Studien-)Beratung stehen für nur einige der möglichen Einsatzszenarien.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4092,
+      "char_end": 4268,
+      "text": "Der Einsatz von KI ist – die folgenden Grundsätze beachtend – prinzipiell erlaubt, wenn rechtliche Rahmenbedingungen, insbesondere Datenschutz und Urheberrecht, gewahrt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4269,
+      "char_end": 4424,
+      "text": "Ziel der FernUniversität in Hagen ist es, eine Ermöglichungskultur zur technologieoffenen Nutzung von KI für die Hochschule zu unterstützen und umzusetzen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4425,
+      "char_end": 4750,
+      "text": "Nicht immer sind die Konsequenzen oder „Nebenwirkungen“, die mit der Nutzung von KI einhergehen, in komplexen Situationen eindeutig absehbar. Das grundlegende Anliegen der FernUniversität in Hagen besteht jedoch darin, den Nutzen von KI zu gesellschaftlich, ökologisch und wissenschaftlich relevanten Zwecken zu unterstützen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4752,
+      "char_end": 4927,
+      "text": "In den meisten Fällen ist unklar, auf welche Daten KI-Anwendungen zugreifen, welche Quellen genutzt werden oder wie die in die Anwendung eingegebenen Texte nachgenutzt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4928,
+      "char_end": 5083,
+      "text": "Daher empfiehlt die FernUniversität in Hagen Lehrenden wie Studierenden, keine urheberrechtlich schützenswerten Texte in externe Anwendungen zu übertragen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5084,
+      "char_end": 5189,
+      "text": "Auch sollten KI-generierte Texte nicht ungeprüft übernommen werden, um fehlerhafte Aussagen zu vermeiden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5190,
+      "char_end": 5381,
+      "text": "Sie fördert mit offenen Informations- und Bildungsangeboten für Lehrende, Studierende, Mitarbeitende und Forschende den kompetenten und verantwortungsvollen Umgang mit und den Einsatz von KI.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5383,
+      "char_end": 5707,
+      "text": "Die folgenden **Grundsätze** zielen darauf ab, dass KI-Anwendungen rechtlich und ethisch reflektiert wie auch transparent an der FernUniversität in Hagen eingesetzt werden. Sie bilden die Basis für den Einsatz und die Nutzung von KI in Lehre und Studium, reichen aber auch in die Bereiche des Forschens und Arbeitens hinein.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5709,
+      "char_end": 5783,
+      "text": "### Verbesserung der Bedingungen für Lernen, Lehren, Forschen und Arbeiten",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5785,
+      "char_end": 5992,
+      "text": "KI soll an der FernUniversität in Hagen mit dem Ziel der Verbesserung der Bedingungen des Lernens und Lehrens, des wissenschaftlichen Erkenntnisgewinns und des Arbeitens an der Hochschule zum Einsatz kommen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5993,
+      "char_end": 6109,
+      "text": "KI-Anwendungen dürfen keinesfalls zur Überwachung von Studierenden oder anderen Hochschulangehörigen genutzt werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6110,
+      "char_end": 6271,
+      "text": "Auch die Weitergabe von Daten und rechtlich geschützten Inhalten an Dritte sowie jede Nutzung zu kommerziellen Zwecken schließt die FernUniversität in Hagen aus.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6273,
+      "char_end": 6317,
+      "text": "### Technologieoffene Unterstützung für alle",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6319,
+      "char_end": 6435,
+      "text": "Die Nutzung von KI steht generell allen offen und ist darauf ausgerichtet, alle gleichermaßen profitieren zu lassen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6436,
+      "char_end": 6555,
+      "text": "Die nachhaltige Problemlöseintention bildet daher ein wesentliches Merkmal für den Nutzen von KI an unserer Hochschule.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6556,
+      "char_end": 6732,
+      "text": "KI soll als Hilfsmittel verstanden werden, das – rechtskonform und ethisch reflektiert – eingesetzt werden kann, um Ziele und Aufgaben im institutionellen Kontext zu erreichen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6733,
+      "char_end": 6865,
+      "text": "Dabei sollten immer positive und negative Implikationen herangezogen werden, um reflektiert über eine Nutzung von KI zu entscheiden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6866,
+      "char_end": 7006,
+      "text": "Insbesondere Aspekte der Teilhabe im Sinne der Barrierefreiheit und Bildungsgerechtigkeit sollen durch den Einsatz von KI verbessert werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7008,
+      "char_end": 7058,
+      "text": "### Transparenter Umgang mit Anwendungen und Daten",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7060,
+      "char_end": 7168,
+      "text": "Im Umgang mit externen Anwendungen erfolgt der Einsatz transparent und konform zu den rechtlichen Rahmungen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7169,
+      "char_end": 7296,
+      "text": "Beteiligte informieren sich vor der Nutzung darüber, welche Daten zu welchem Zweck verwendet werden und wer darauf Zugriff hat.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7297,
+      "char_end": 7521,
+      "text": "In Fällen, in denen der Schutz personenbezogener Daten und der Datennutzung und -erhebung rechtlich nicht eindeutig ist, müssen Bedingungen des Datenschutzes selbstverständlich und proaktiv umgesetzt und dokumentiert werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7522,
+      "char_end": 7693,
+      "text": "Dies bezieht die Einwilligung wie auch die Möglichkeit des Widerspruchs, eine ausreichende Informiertheit, und Transparenz zu Datenspeicherung und Speicherfristen mit ein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7694,
+      "char_end": 7914,
+      "text": "Bei der Entwicklung und Anwendung eigener KI-Tools an der FernUniversität in Hagen werden die Anforderungen an KI-Systeme des EU-Rechtsrahmens für menschliche und vertrauenswürdige KI („EU KI-Verordnung“) berücksichtigt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7916,
+      "char_end": 7963,
+      "text": "### Kritischer Umgang mit Anwendungen und Daten",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7965,
+      "char_end": 8048,
+      "text": "Daten bilden nie ein vollständiges Bild der Realität oder der Erfolgsaussichten ab.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8049,
+      "char_end": 8196,
+      "text": "Mögliche negative Auswirkungen von KI, wie Halluzinationen oder Bias, sind zu identifizieren und Lehrende wie Studierende dafür zu sensibilisieren.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8197,
+      "char_end": 8330,
+      "text": "Bei Unklarheiten hilft die Orientierung an der Ordnung zur Sicherung guter wissenschaftlicher Praxis an der FernUniversität in Hagen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8332,
+      "char_end": 8357,
+      "text": "### Menschliche Kontrolle",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8359,
+      "char_end": 8475,
+      "text": "Die Nutzung von KI an der FernUniversität in Hagen darf niemals zu Entscheidungen ohne menschliche Kontrolle führen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8476,
+      "char_end": 8585,
+      "text": "Insbesondere die Bewertung von Studienleistungen verantworten die Lehrenden und prüfungsberechtigte Personen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8586,
+      "char_end": 8721,
+      "text": "Genutzte KI-Anwendungen sollten immer die menschliche Entscheidungsfreiheit respektieren und Menschen in ihren Handlungen unterstützen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8722,
+      "char_end": 8799,
+      "text": "Der Mensch sollte immer die Kontrolle beim Einsatz der KI-Anwendung behalten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8801,
+      "char_end": 8830,
+      "text": "### Vorbild und Verantwortung",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8832,
+      "char_end": 8895,
+      "text": "KI soll nach den hier beschriebenen Grundsätzen genutzt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8896,
+      "char_end": 9100,
+      "text": "Daher ist ein verantwortungsvoller Umgang für alle verpflichtend, alle Nutzungsszenarien sowie deren Daten und Datengrundlagen sind regelmäßig auf ihre Konformität zu diesen Grundsätzen hin zu überprüfen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9101,
+      "char_end": 9233,
+      "text": "Die Verantwortung für wissenschaftliche Texte oder andere (wissenschaftliche) Artefakte liegt immer beim Autor bzw. bei der Autorin.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9234,
+      "char_end": 9295,
+      "text": "Die Richtigkeit von KI-generierten Outputs ist zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9297,
+      "char_end": 9348,
+      "text": "### Angebot und Nutzung von Weiterbildungsangeboten",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9350,
+      "char_end": 9523,
+      "text": "Um einen verantwortungsvollen Umgang zu gewährleisten, bietet die FernUniversität in Hagen regelmäßig Weiterbildungsangebote und Austauschformate für Hochschulangehörige an.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9524,
+      "char_end": 9615,
+      "text": "Die Vermittlung von KI-Kompetenzen sieht sie als einen besonders relevanten Schwerpunkt an.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9616,
+      "char_end": 9711,
+      "text": "Hochschulangehörige sollten sich eigenständig über diese Angebote informieren und diese nutzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9713,
+      "char_end": 9740,
+      "text": "## 02 – Orientierungshilfen",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9742,
+      "char_end": 9957,
+      "text": "Die Orientierungshilfen haben Empfehlungscharakter, da letztlich die Fakultäten der FernUniversität in Hagen für die Studienarbeiten und Prüfungen zuständig sind und die verbindlichen Entscheidungen darüber treffen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9958,
+      "char_end": 10119,
+      "text": "Auch kann die Nutzung von KI durch Studierende von Lehrenden eingeschränkt oder untersagt werden, wenn es die jeweiligen Anforderungen an die Leistungen ergeben.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10121,
+      "char_end": 10318,
+      "text": "Die FernUniversität in Hagen verfolgt fortlaufend die technologischen, didaktischen und ethisch-rechtlichen Entwicklungen und wird ihre Empfehlungen auf den Webseiten des ZLI entsprechend anpassen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10320,
+      "char_end": 10393,
+      "text": "### Einsatz von KI-Tools in der Lehre\nWer sollte die Tools nutzen können?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10395,
+      "char_end": 10761,
+      "text": "Um gemeinsam mit Studierenden die Möglichkeiten und Grenzen von generativen KI-Anwendungen als akademisches Werkzeug kennenzulernen, spricht sich die FernUniversität dafür aus, generative KI-Anwendungen zur Bearbeitung von Aufgaben zu verwenden, um den grundsätzlichen Nutzen und Vorteile, aber auch Nachteile, Bias und das Phänomen der Halluzination zu explorieren.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10762,
+      "char_end": 10916,
+      "text": "Deshalb dürfen KI-Anwendungen prinzipiell von allen Lehrenden und allen Studierenden in allen Phasen der Bachelor- und Masterstudiengängen genutzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10918,
+      "char_end": 11035,
+      "text": "### Voraussetzungen für den Einsatz von KI in Lehr-Lernszenarien\nIn welchen Szenarien dürfen KI-Tools genutzt werden?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11037,
+      "char_end": 11221,
+      "text": "An der FernUniversität dürfen KI-Anwendungen – unter Einhaltung der ethischen Grundsätze, des Urheberrechts und des Datenschutzes – grundsätzlich in allen Lehrszenarien genutzt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11222,
+      "char_end": 11327,
+      "text": "Darunter fallen alle Formen von Lehrveranstaltungen, formative Studienleistungen und summative Prüfungen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11328,
+      "char_end": 11460,
+      "text": "Es obliegt den Lehrenden festzulegen, ob sie den Einsatz von KI in ihren Veranstaltungen und für ihre Prüfungen für sinnvoll halten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11461,
+      "char_end": 11861,
+      "text": "Da KI auch durch bereits etablierte Arbeitssoftware in die Anwendung kommt, sind für die Beurteilung der akademischen Eigenleistungen von Studierenden alternative Prüfungskombinationen (schriftliche, mündliche und praktische Prüfungsformen) oder weitere anrechenbare Leistungen wie einen verschriftlichen Reflexionsprozess in Betracht zu ziehen und in den Studien- und Prüfungsordnungen festzuhalten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11863,
+      "char_end": 12006,
+      "text": "Anregungen für einen didaktischen Einsatz von KI in ihre Lehre finden die Lehrenden zukünftig in den Use Cases für KI-Anwendungen in der Lehre.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12008,
+      "char_end": 12251,
+      "text": "### Thematisierung der Nutzung von und kritischer Umgang mit KI-Anwendungen\nGibt es eine generelle Regelung zur Nutzung von generativen Tools in der Lehre oder ist es Lehrenden freigestellt, generative Tools und deren Nutzung zu thematisieren?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12253,
+      "char_end": 12466,
+      "text": "Die Thematisierung von generativer KI in der Lehre ist wünschenswert, um den Nutzen der Anwendungen für ein Fach zu erkunden, aber auch um den kritischen und transparenten Umgang mit der Technologie zu vermitteln.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12467,
+      "char_end": 12564,
+      "text": "Generell steht es Lehrenden daher frei, generative KI-Anwendungen in die Lehre mit einzubeziehen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12565,
+      "char_end": 12692,
+      "text": "Regelungen zur Nutzung von generativer KI ergeben sich zunächst aus den allgemeinen Regelungen zu Datenschutz und Urheberrecht.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12694,
+      "char_end": 12934,
+      "text": "### Nutzung von generativen KI-Anwendungen für Prüfungsleistungen\nGibt es eine generelle Regelung zur Nutzung von generativen KI-Anwendungen für Prüfungsleistungen (insb. Hausarbeiten) oder sind Lehrende frei darin, die Nutzung zu erlauben?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12936,
+      "char_end": 13139,
+      "text": "Generell gibt es keine einheitliche Regelung für die FernUniversität in Hagen. Fakultäten, Studiengänge und Lehrende können eigenständig entscheiden, wie der Umgang mit Hilfsmitteln und KI geregelt wird.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13140,
+      "char_end": 13352,
+      "text": "Eine der größten Herausforderungen für Lehrende bei Prüfungen besteht darin, die Eigenleistung zu bewerten, besonders dann, wenn es keine Restriktionen in der Nutzung von KI im Rahmen einer Prüfungsleistung gibt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13353,
+      "char_end": 13484,
+      "text": "Daher ist es sinnvoll, für Prüfungen erlaubte oder nicht erlaubte Hilfsmittel, deren Nutzung und Dokumentationspflicht auszuweisen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13485,
+      "char_end": 13672,
+      "text": "Darunter fällt die Art von KI (ggf. inklusive der Nennung konkreter KI-Anwendungen, des Zwecks und der eigenen Ergebnisüberprüfung) und die Anforderungen an die Dokumentation der Nutzung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13673,
+      "char_end": 13798,
+      "text": "Orientierung gibt die Berücksichtigung der guten wissenschaftlichen Praxis und die Wahrung von Urheberschaft und Datenschutz.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13800,
+      "char_end": 13868,
+      "text": "Insgesamt kann die Nutzung von KI eine Qualitätssteigerung bedeuten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13869,
+      "char_end": 14185,
+      "text": "Um die mögliche Gefahr der Übernahme von KI-generierten Halluzinationen zu vermeiden, sollte dem Prüfling immer bewusst gemacht werden, dass er oder sie die Verantwortung für den Text und die Richtigkeit der Angaben hat und jede KI-generierte Aussage spätestens vor Abgabe der Prüfungsleistung überprüft werden muss.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14187,
+      "char_end": 14337,
+      "text": "### Umgang mit KI-Anwendungen in Prüfungen\nWelche Implikationen hat die Nutzung von KI-Anwendungen in Prüfungen und wie können Lehrende damit umgehen?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14339,
+      "char_end": 14505,
+      "text": "Welche Implikationen die (gewollte oder ungewollte) Verfügbarkeit von KI-Anwendungen in Prüfungen hat, hängt von der Prüfungsform und den zu prüfenden Kompetenzen ab.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14506,
+      "char_end": 14838,
+      "text": "Vor einer Prüfung, bei der Studierende möglicherweise KI-Anwendungen nutzen, sollten sich Lehrende einerseits die Lernziele ihres Moduls vergegenwärtigen und andererseits die Erwartungen an die wesentlichen Werte wie akademische Integrität und Vertrauen und die Konsequenzen bei Verstößen deutlich an die Studierenden kommunizieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14840,
+      "char_end": 14987,
+      "text": "Der Zweck der Prüfung – die Prüfung einer bestimmten Kompetenz – muss bei der Implementation von Maßnahmen zum Umgang mit KI stets gewahrt bleiben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14988,
+      "char_end": 15099,
+      "text": "In Prüfungen können KI-Outputs als Beispiele kritisch diskutiert, beurteilt werden und weiterentwickelt werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15100,
+      "char_end": 15288,
+      "text": "Lehrende können KI-Anwendungen kreativ nutzen, um Schritte in der Prüfungsgestaltung (Erzeugung von Fragen, Beispielen, Formulierungen, Kriterien, Operationalisierungen etc.) zu begleiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15290,
+      "char_end": 15493,
+      "text": "Lehrende sollten klar festlegen, welche Anwendungen Studierende während ihrer Prüfungsleistung nutzen können und wie die Verwendung im Sinne eines wissenschaftlichen Arbeitens gekennzeichnet werden muss.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15494,
+      "char_end": 15655,
+      "text": "Soll KI gänzlich ausgeschlossen werden, so sind geeignete Prüfungsformen zu nutzen wie z.B. Präsenzklausur, mündliche Prüfung oder Seminarvortrag mit Erörterung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15656,
+      "char_end": 15800,
+      "text": "Der Einsatz von KI kann dazu beitragen, schriftliche Arbeiten zu strukturieren, sprachlich zu verbessern und korrekte Zitierweisen zu verwenden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15801,
+      "char_end": 15868,
+      "text": "Dadurch bleibt mehr Zeit für vertiefte Arbeit in anderen Bereichen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15869,
+      "char_end": 16185,
+      "text": "Wesentlich ist jedoch eine gründliche kritische Analyse. Lehrende sollten beispielsweise Studierende ausdrücklich auffordern, ihre Arbeit mit Theorien oder Fällen zu verknüpfen, die im Modul bzw. während des Semesters behandelt worden sind, um Texte jenseits der allgemein formulierten Outputs von KI hervorzulocken.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16187,
+      "char_end": 16351,
+      "text": "Bei schriftlichen Prüfungen (ohne Aufsicht), z. B. Hausarbeiten oder Abschlussarbeiten, kann nicht rechtssicher nachgewiesen werden, ob KI einen Text generiert hat.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16352,
+      "char_end": 16502,
+      "text": "Die Studierenden sollten darüber aufgeklärt werden, dass sie auch bei einer KI-Nutzung für die Qualität ihrer Arbeiten immer voll verantwortlich sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16503,
+      "char_end": 16609,
+      "text": "Bei Klausuren können technische, organisatorische und didaktische Maßnahmen Täuschungsversuche erschweren:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16609,
+      "char_end": 16613,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16613,
+      "char_end": 16950,
+      "text": "Prüfungsfragen können didaktisch modifiziert werden, um sie gegenüber KI-Antworten weniger angreifbar zu gestalten. Tendenziell sind Fragen, die auf niedrigere Taxonomiestufen abzielen und vor dem Kontext allgemeinen und allgemein verfügbaren Wissens beantwortet werden können, eher gefährdet, korrekt von einer KI beantwortet zu werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16950,
+      "char_end": 16953,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16953,
+      "char_end": 17092,
+      "text": "Technisch kann der Zugriff auf eine KI durch eine Videoaufsicht oder Sperroptionen erschwert werden. Hierbei ist der Datenschutz zu wahren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17093,
+      "char_end": 17301,
+      "text": "Technische Maßnahmen erschweren lediglich die Nutzung unerlaubter Hilfsmittel und können sie nicht gänzlich verhindern. Der Einsatz technischer Maßnahmen kann die zu prüfenden Kompetenzen ungewollt verändern.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17301,
+      "char_end": 17304,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17304,
+      "char_end": 17366,
+      "text": "Die Klausur kann zu einem Präsenzformat mit Aufsicht wechseln.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17368,
+      "char_end": 17583,
+      "text": "Bei mündlichen Prüfungen werden Studierende automatisch beaufsichtigt. Die Fragedichte und die direkte Interaktion mit den Prüfenden machen den unerlaubten Einsatz von KI-Anwendungen ineffizient und augenscheinlich.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17585,
+      "char_end": 17684,
+      "text": "Für Lehrende ist eine alleinige Nutzung von KI zur Bewertung von Prüfungsleistungen nicht rechtens.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17685,
+      "char_end": 17757,
+      "text": "Details und konkrete Maßnahmen finden Sie bei Salden und Leschke (2023).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17759,
+      "char_end": 17885,
+      "text": "### Eigenständigkeitserklärung\nGibt es eine besondere Eigenständigkeitserklärung zur Regelung der Nutzung von KI in Prüfungen?",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17887,
+      "char_end": 18143,
+      "text": "Die FernUniversität in Hagen verpflichtet sich zur Schaffung möglichst klarer rechtlicher Rahmenbedingungen. Dies geschieht etwa durch zentrale Richtlinien und Empfehlungen zu KI-gestützten Tools, aber auch durch eine angepasste Eigenständigkeitserklärung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18145,
+      "char_end": 18245,
+      "text": "Die finale Ausgestaltung von Eigenständigkeitserklärungen obliegt den Prüfungsämtern der Fakultäten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18246,
+      "char_end": 18417,
+      "text": "Studierende, die keine KI-Tools verwenden, sollten dies ebenfalls in der Eigenständigkeitserklärung bestätigen. Diese Regelungen sollten Lehrende frühzeitig kommunizieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18419,
+      "char_end": 18510,
+      "text": "### Schulungen und Weiterbildungen\nGibt es (verpflichtende) Schulungen und Weiterbildungen?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18512,
+      "char_end": 18678,
+      "text": "Die FernUniversität in Hagen setzt grundsätzlich voraus, dass sowohl Lehrende als auch Studierende Kenntnisse über die KI-Anwendungen haben, die sie selbst einsetzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18679,
+      "char_end": 18934,
+      "text": "Im Rahmen des Anspruchs, vertrauenswürdige KI und Learning Analytics einzusetzen, verpflichtet sich die FernUniversität in Hagen zudem, Weiterbildungen für Lehrende zum ethischen und datenschutzrechtlichen Umgang und Einsatz von KI-Anwendungen anzubieten.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18935,
+      "char_end": 19078,
+      "text": "Für die Studierenden der FernUniversität stehen offene Weiterbildungsangebote über studyFIT zur Verfügung (z. B. Lernen mit KI, Data Literacy).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19080,
+      "char_end": 19106,
+      "text": "## Empfehlenswerte Quellen",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19108,
+      "char_end": 19248,
+      "text": "Buck, I., Jost, C. Kreis-Hoyer, P., Limburg, A. (2023): KI-induzierte Transformation an Hochschulen. Berlin: Hochschulforum Digitalisierung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19250,
+      "char_end": 19469,
+      "text": "DFG (2023). Stellungnahme des Präsidiums der Deutschen Forschungsgemeinschaft (DFG) zum Einfluss generativer Modelle für die Text- und Bilderstellung auf die Wissenschaften und das Förderhandeln der DFG. September 2023.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19469,
+      "char_end": 19645,
+      "text": "\n\nEuropean Commission (2018). Ethics guidelines for trustworthy AI | Shaping Europe’s digital future.\n\nFernUni.ch (2023). A teacher’s guide to ChatGPT and remote assessments.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19645,
+      "char_end": 19778,
+      "text": "Gesellschaft für Informatik (2023). Positionspapier der Gesellschaft für Informatik e.V. (GI). Künstliche Intelligenz in der Bildung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19780,
+      "char_end": 19943,
+      "text": "Hansen, J., Rensing, C., Herrmann, O., & Drachsler, H. (2020). Verhaltenskodex für Trusted Learning Analytics. Version 1.0. Entwurf für die hessischen Hochschulen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19945,
+      "char_end": 19985,
+      "text": "McAdoo, Th. (2023). How to cite ChatGPT.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19987,
+      "char_end": 20095,
+      "text": "Ordnung zur Sicherung guter wissenschaftlicher Praxis an der FernUniversität in Hagen vom 02. November 2022.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20097,
+      "char_end": 20246,
+      "text": "Salden, P., Leschke, J.,(2023). Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung. Ruhr-Universität Bochum.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20248,
+      "char_end": 20374,
+      "text": "Simis, Ch. (2024). Digitale Technologien an Hochschulen. Ethische Orientierung für die Praxis. Teil I: Grundlagen. KI:edu.nrw.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20374,
+      "char_end": 20432,
+      "text": "\n\nUniversität Basel (2023). Leitfaden „Aus KI zitieren“.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20432,
+      "char_end": 20486,
+      "text": "## Die Autorinnen und Autoren des Orientierungspapiers",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 125,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20488,
+      "char_end": 20819,
+      "text": "André Biederbeck (ZLI), Annabell Bils (ZLI), Andreas Giesbert (Fachmediendidaktiker Fakultät KSW), Uwe Hofmann (Stabsstelle Datenschutz), Heike Karolyi (CATALPA), Andreas Kempka (ZLI), Simone Opel (Fachmediendidaktikerin Fakultät MI), Alexander Sperl (ZLI), Claudia de Witt (Lehrgebiet Bildungstheorie und Medienpädagogik, CATALPA)",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 126,
+      "match_type": "exact"
+    }
+  ]
+}

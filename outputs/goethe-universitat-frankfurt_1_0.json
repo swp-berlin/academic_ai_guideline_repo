@@ -1,0 +1,800 @@
+{
+  "doc_id": "goethe-universitat-frankfurt_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Der Einsatz generativer KI (GKI) wie ChatGPT hat das Potenzial, akademische Arbeits- und Bildungsprozesse umfänglich und nachhaltig zu verändern. Sie kann personalisiertes Lernen ermöglichen, die Lehre unterstützen und Forschung fördern. Aus diesem Grund befürwortet die Goethe-Universität grundsätzlich die Erprobung und Anwendung von GKI in Studium und Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Nutzung von GKI sind jedoch sowohl ethische, rechtliche und natürlich auch didaktische Aspekte zu berücksichtigen, weshalb mit einer speziell zu dem Thema eingerichteten, interdisziplinären Arbeitsgruppe unterschiedlicher Statusgruppen zielgruppenspezifische Handlungsempfehlungen erarbeitet wurden, die Ihnen, ausgehend von dieser allgemeinen Einführung zum Thema GKI, zur Verfügung stehen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Mit sorgfältiger Planung und Vorbereitung sowie einem klaren Handlungsrahmen kann generative KI ein wertvolles Werkzeug in der Hochschullehre sein.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Handreichung ist die zentrale Einstiegsseite allgemein zu dem Thema generative KI in Studium und Lehre.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Konkrete Handlungsempfehlungen speziell für Studierende bzw. Lehrende finden Sie in zwei weiterführenden Artikeln:\n- Handlungsempfehlungen für Lehrende: Einsatz von generativer KI in der Lehre\n- Handlungsempfehlungen für Studierende: Einsatz von generativer KI im Studium",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Konkrete Antworten auf Fragen rundum den Themenkomplex finden Sie in der Fragensammlung (FAQ) am Ende dieser Seite.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Fehlen Ihnen Informationen? Gibt es Fragen die unbeantwortet bleiben? Haben Sie Vorschläge für Ergänzungen oder weitere Ausführungen. Dann wenden Sie sich gerne per Mail an die AG zur Generativen KI in der Lehre (ag-gki@studiumdigitale.uni-frankfurt.de) und wir versuchen Ihre Perspektive mit in die Handreichungen einzuarbeiten. Wir freuen uns auf Ihr Feedback.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bitte beachten Sie die folgenden grundsätzlichen Hinweise im Umgang mit Tools der generativen Künstlichen Intelligenz (GKI) und den nachfolgenden Handreichungen:",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Kritische Reflektion:**\nReflektieren Sie die Ergebnisse der KI grundsätzlich kritisch, da es sich bei generativen KIs um statistische Modelle handelt, die häufig vorkommende Aussagen und Einstellungen aus vorab verarbeiteten Trainingsdaten reproduzieren. Sind z.B. Biases in den Trainingsdaten enthalten (z.B. einseitige oder verzerrte Darstellungen), so werden diese auch in den generierten Ergebnissen reproduziert. Je nach Fachgebiet und Fragestellung können die Ergebnisse sehr nützlich und korrekt oder aber falsch und irreführend sein.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Geistiges Eigentum:**\nBitte beachten Sie, dass generative KIs Inhalte erstellen können, die auf bestehenden Daten basieren und entsprechend geistiges Eigentum eine wichtige Rolle spielt. So können z.B. in den Trainingsdaten der KI urheberrechtlich geschützte Inhalte vorhanden sein, wodurch generierte Inhalte problematisch sein könnten. Auch Daten, die man z.B. zur Überprüfung an eine KI gibt, können urheberrechtlich geschützt sein. Stellen Sie sicher, dass die Informationen, die Sie eingeben, und die Ergebnisse, die Sie erhalten, keine Urheberrechtsverletzungen darstellen. Zum jetzigen Stand können KI-Programme selbst keine Urheberschaft innehaben. Je nachdem wie stark die Einflussnahme der Nutzer in an dem generierten Text war, ist entweder er oder sie die Urheber*in oder das Ergebnis ist nach dem Urheberrecht gemeinfrei.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Persönliche Daten:**\nGeben Sie keine persönlichen oder sensiblen Informationen ein, wenn Sie KI-Tools nutzen. In den meisten Fällen liegt der Sitz der Betreiber der Tools aktuell noch in den Vereinigten Staaten und es lässt sich nicht kontrollieren, was mit den eingegebenen Daten passiert (Schrems II-Urteil des EuGHs). Selbst mit einer Einwilligung der betroffenen Personen lassen sich Rechte wie den Abruf aller erfassten Daten oder deren Löschung nicht oder nur sehr eingeschränkt wahrnehmen. Dies ist mit der Datenschutz-Grundverordnung (DS-GVO) nicht vereinbar.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "**Aktualität:**\nVieles rund um KI-Technologien befindet sich im Moment noch in einer Aushandlungsphase. Daher können sich die Möglichkeiten, Risiken und rechtlichen Rahmenbedingungen jederzeit ändern. Wir bemühen uns, die Informationen auf dieser Seite auf dem neuesten Stand zu halten, können jedoch keine Garantie für die Aktualität geben. Korrekturen und Hinweise nehmen wir gerne entgegen.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "## Was ist generative Künstliche Intelligenz (GKI)?\n\nDer Begriff “Generative KI” beschreibt KI-Systeme, die in der Lage sind, auf Anfrage neuartige Inhalte selbstständig zu erstellen. Diese Systeme lernen aus Daten, die sie während ihrer Trainingsphase erhalten haben, und nutzen dieses Wissen, um Ausgaben z.B. in Textform zu erzeugen. Neben der Textgenerierung gibt es auch andere Beispiele für generative KI wie Bildgenerierung, Musikkomposition und die Erzeugung von Programmcode zur Entwicklung von Anwendungen.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Language Models (LM) oder Sprachmodelle sind eine Unterklasse der generativen KI. Diese Modelle lernen die Wahrscheinlichkeit von Sequenzen von Wörtern in einer bestimmten Sprache. Large Language Models (LLM) sind sehr große Sprachmodelle, die auf enormen Mengen von Textdaten trainiert wurden. Dadurch sind sie in der Lage, menschenähnliche Texte zu generieren, und können für eine Vielzahl von Aufgaben eingesetzt werden. Mit dem richtigen Training können sie Aufgaben wie maschinelles Übersetzen, Frage-Antwort-Systeme, Textzusammenfassung und mehr bewältigen.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "So beeindruckend die Ergebnisse sind, die mit LLMs erzielt werden können, sollten sie nicht mit Wissensdatenbanken verwechselt werden. Die Texte, die beim Trainieren der Modelle verarbeitet werden, sind im Endprodukt nicht mehr wörtlich enthalten. Man darf sich Programme wie ChatGPT deshalb nicht als Suchmaschinen vorstellen, die in Textkorpora nach relevanten Stellen suchen und Antworten durch Copy & Paste zusammenstellen. Stattdessen handelt es sich um rein statistische Modelle, die Aussagen und Einstellungen reproduzieren, die häufig in ihren Trainingsdaten vorkommen.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Friedrich Wolf – Über, mit und von KI lernen? – Ein pädagogischer Rundgang (Video, 1:26 h)",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "## Welche Anwendungen und Dienste gibt es?\n\nDa sich die verfügbaren Tools aktuell sehr schnell weiterentwickeln, versuchen wir hier einen Überblick über bestehende Tool-Kategorien zu geben, die im weiteren Verlauf der Handreichung immer wieder aufgegriffen werden.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Kategorie | Beschreibung der Kategorie |\n|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Literaturrecherche | Tools dieser Kategorie bieten eine Vielzahl von Funktionen zur Unterstützung der Literaturrecherche in der Hochschullehre. Sie ermöglichen es den Studierenden, wissenschaftliche Literatur effizient zu finden, zu organisieren und relevante Artikel oder Autor*innen zu identifizieren. Mithilfe dieser Tools können Studierende Literaturdatenbanken durchsuchen, Literaturlisten erstellen oder sich einen Überblick über aktuelle Forschungsergebnisse zu bestimmten Themen verschaffen. Durch die Integration in Literaturverwaltungsprogramme wie Citavi oder Zotero können gefundene Artikel auch direkt in die persönliche Bibliothek importiert werden. Ein Beispiel für ein Tool dieser Kategorie ist Researchrabbit. Die Universitätsbibliothek bietet eine Übersicht verschiedener Tools für die Literaturrecherche. |",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Textproduktion | Tools dieser Kategorie unterstützen Studierende aktiv bei der Schreibpraxis in der Hochschullehre. Mit Funktionen wie KI-Autovervollständigung, automatische Zitation, Formatierung nach verschiedenen Schreibstilen und Plagiatsprüfung assistieren sie beim Verfassen von wissenschaftlichen Arbeiten. Diese Tools können den Schreibprozess beschleunigen, indem sie beim Formulieren komplexer Sätze oder beim Finden passender Referenzen helfen. Sie ermöglichen Studierenden, ihre Schreibkompetenzen weiterzuentwickeln und wissenschaftliche Standards einzuhalten. Ein Beispiel für ein Tool dieser Kategorie ist JenniAI. |",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Textverständnis | Tools dieser Kategorie unterstützen das Textverständnis von Studierenden, indem sie ihnen ermöglichen, Texte interaktiv zu erkunden und besser zu verstehen. Durch das Markieren von Begriffen, Passagen oder wichtigen Informationen in einem Text und der anschließenden Nutzung eines integrierten Chatbots können Studierende Erklärungen, Definitionen oder zusätzliche Informationen erhalten. Diese Tools können auch Fragen beantworten oder weiterführende Quellen empfehlen, um das Verständnis eines bestimmten Textes zu vertiefen. Diese Tools sind besonders nützlich, wenn Studierende komplexe wissenschaftliche Texte lesen und analysieren müssen. Sie können dazu beitragen, dass Studierende bedeutungsvolle Verbindungen und Zusammenhänge in einem Text erkennen und das Verständnis vertiefen. Durch die Interaktion mit einem Chatbot erhalten Studierende individuelle Unterstützung und können ihr Textverständnis weiterentwickeln. Ein Beispiel für ein solches Tool ist Explainpaper. |",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Plagiatserkennung | Tools dieser Kategorie sind speziell darauf ausgerichtet, Plagiate in wissenschaftlichen Arbeiten aufzudecken. Sie ermöglichen Dozierenden und Studierenden, alle eingereichten Texte auf potenzielle Ähnlichkeiten mit anderen Quellen oder bereits veröffentlichten Arbeiten zu überprüfen. Diese Tools durchsuchen umfangreiche Datenbanken und nutzen fortschrittliche Algorithmen, um verdächtige Übereinstimmungen zu identifizieren. Sie helfen dabei, die Integrität der akademischen Arbeit zu wahren und Studierende zu ermutigen, eigenständig zu arbeiten und ihre eigenen Ideen zu entwickeln. Ein Beispiel für ein Tool dieser Kategorie ist Turnitin. |",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Bildgenerierung | Tools dieser Kategorie nutzen Deep-Learning-Algorithmen, um aus Texteingaben Bilder zu generieren oder bestehende Bilder zu verändern. Sie ermöglichen es Studierenden, mithilfe von Beschreibungen oder Anweisungen hochqualitative, visuelle Inhalte zu erstellen. Diese Tools sind besonders nützlich für die Erstellung von Bildern oder Diagrammen für Präsentationen, Poster, Webseiten oder Berichte. Ein Einsatz solcher Tools kann Zeit und Ressourcen bei der Materialerstellung sparen sowie Studierende oder Lehrende, welche nicht über ausgeprägte künstlerische Fähigkeiten oder umfangreiche Designkenntnisse und Software verfügen, dazu befähigen, visuell ansprechendes Material zu erstellen. Ein Beispiel für ein Tool dieser Kategorie ist DreamStudio welches das StableDiffusion Modell zur Bildgenerierung verwendet. |",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "| Präsentationserstellung | Tools dieser Kategorie ermöglichen es Studierenden und Lehrenden, auf einfache Weise ansprechende Präsentationen zu erstellen. Sie basieren auf Texteingaben, die bereitgestellt werden müssen, und generieren daraus automatisch Folien mit relevanten Inhalten. Diese Tools bieten verschiedene Designvorlagen, Animationsmöglichkeiten und die Möglichkeit, multimediale Elemente wie Bilder oder Videos einzufügen. Sie erleichtern die Erstellung von visuell ansprechenden Präsentationen und sparen Zeit. Studierende und Lehrende müssen sich weniger mit dem Gestalten der Folien beschäftigen, sondern können sich mehr auf den Inhalt ihrer Präsentationen konzentrieren. Diese Tools ermöglichen es, professionell aussehende Präsentationen zu erstellen und ihre Informationen auf eine zugängliche und ansprechende Weise zu präsentieren. Ein Beispiel für ein Tool dieser Kategorie ist SlidesAI. |",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die in der Tabelle genannten Beispiele sind nur exemplarisch und dienen ausschließlich der Veranschaulichung, was zum Zeitpunkt der Erstellung dieser Handreichung aktuell mit GKIs möglich ist. Sie stellen keine Empfehlungen dar und da es sich um eigenständige Dienste außerhalb der Universität handelt, müssen Sie bei einer eventuellen Nutzung selbst darauf achten, dass Sie alle rechtlichen Bestimmungen (Datenschutz, IT-Sicherheit, Urheberrecht, Barrierefreiheit, …) einhalten! Weitere Informationen dazu finden Sie in den weiteren Kapiteln dieser Handreichung. Gleiches gilt für die nachfolgende Sammlung von KI-Tool Datenbanken.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "## Bestehende Sammlungen und Datenbanken zu KI-Tools\n\n- Sammlung von Tools mit dem Fokus auf Textverarbeitung: VK:KIWA\n- Umfassende Toolliste zu verschiedensten Kategorien: AI Tools Directory\n- Datenbank mit über 50 Kategorien und 3000 Tools: AI Tools Update\n- Umfangreiche Datenbank und Community zu KI-Tools: FUTUREPEDIA\n- Datenbank zu KI-Tools: Future Tools\n- Umfangreiche Sammlung von KI-Tools mit Erklärvideos: Miroboard von Jan Foelsing\n- sehr umfassende und aktuelle KI-Sammlung: The Generative AI Landscape\n- KI-Tools nach Erscheinungsdatum sortiert: There’s An AI For That",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "## Nutzung von generativer KI in Studium und Lehre\n\nErgänzend zu dieser allgemeinen Einführung zum Thema generativer KI (inkl. Toolkategorien und -sammlung) gibt es zwei weitere Handlungsempfehlungen speziell für Lehrende und Studierende.\n\n- Einsatz von KI in der Lehre (Zielgruppe Lehrende)\n- Einsatz von KI im Studium (Zielgruppe Studierende)",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Weitere Unterstützungsangebote zu dem Thema KI in der Lehre an der Goethe-Universität sind:\n- „Über, mit und von KI lernen? – Ein pädagogischer Rundgang“ (studiumdigitale)\n- „Einsatzmöglichkeiten von KI-Tools in der Lehre“ (studiumdigitale)\n- „Was machen wir mit KI und was macht KI mit uns? Ethische Aspekte im Umgang mit KI-Tools in der Hochschullehre“ (studiumdigitale)\n- „KI-Anwendungen wie ChatGPT in Lehre und Prüfungen“ (IKH)\n- „KI-gestütztes Schreiben vermitteln“ (IKH & Schreibzentrum)\n- Online Lehrlabor „ChatGPT als Herausforderung und Chance. Was macht die KI mit dem Schreiben?“ (Schreibzentrum)\n- Tipps zur Nutzung von KI-Schreibtools in der Lehre (Schreibzentrum)\n- Impulsreihe im Rahmen des Verbundprojekts HessenHub",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Wie kann man sicherstellen, dass alle Studierenden/Lehrende Zugang zu einem Tool haben?**\nstudiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.\nDas AI-ToolLab ist aktuell eine experimentelle Lösung der Goethe-Universität und kein offizieller Service. Es dient als Experimentierraum, um den Bedarf an KI-Tools zu evaluieren und datenschutzkonforme Alternativen zu entwickeln. Ziel ist es, perspektivisch zentrale Services für die gesamte Universität bereitzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "**Was tut man, wenn Studierende/Lehrende sich z. B. keinen Account bei ChatGPT erstellen möchten?**\nDas AI-ToolLab bietet eine Alternative zu externen Tools wie ChatGPT, da die Daten über die Infrastruktur der Universität laufen und kein persönlicher Account bei kommerziellen Anbietern erforderlich ist.\nLobeChat unterstützt eine Vielzahl von KI-Modellen, wodurch es flexibel und anpassbar für verschiedene Anwendungsfälle ist. Nutzer können je nach ihren Anforderungen das passende Modell auswählen und einsetzen.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Grundsätzliche Bedenken über die Nutzung von KI sollten im Rahmen der Lehrveranstaltungen thematisiert werden, beispielsweise durch Diskussionen über ethische Aspekte oder datenschutzrechtliche Fragen. Sollten Studierende KI-Tools ablehnen, sind Lehrende dazu angehalten, gleichwertige Aufgaben ohne KI-Nutzung bereitzustellen. Die Nutzung generativer KI in Lehrveranstaltungen ist freiwillig und darf nicht zu Benachteiligungen führen.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "**Ist von Seiten der Universität geplant, für bestimmte Tools so etwas wie Campus-Lizenzen zu erwerben?**\nstudiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.\nDas AI-ToolLab ist aktuell eine experimentelle Lösung der Goethe-Universität und kein offizieller Service. Es dient als Experimentierraum, um den Bedarf an KI-Tools zu evaluieren und datenschutzkonforme Alternativen zu entwickeln. Ziel ist es, perspektivisch zentrale Services für die gesamte Universität bereitzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Gibt es Vorgaben und Bedingungen für die Korrektur und Bewertung von Hausarbeiten/schriftlichen Prüfungsleistungen?**\nGenerative KI kann bei der Bewertung von Übungsaufgaben oder auch von Hausarbeiten Studierender unterstützen. Wichtig ist aber, dass hier eigene Bewertungskriterien angelegt und die Ergebnisse der KI besonders kritisch hinterfragt werden, um eine systematische Ungleichbehandlung Studierender zu vermeiden (siehe Wo kann ich KI in der Lehre einsetzen?).",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Geht es um die Bewertung von Arbeiten, bei denen KI zum Einsatz kommt, dann empfiehlt es sich, vorab ganz klar zu kommunizieren, was erlaubt ist und unter welchen Bedingungen (siehe Gute wissenschaftliche Praxis, Kennzeichnungspflichten und Eigenständigkeitserklärung und Was sollte ich meinen Studierenden bzgl. der Nutzung von KI mitteilen?).",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "**Kann man KI-Tools oder Kategorien von KI-Tools für die eigene Lehre verbieten? Wenn ja, wie?**\nDas Aussprechen von Verboten kann immer dazu führen, dass diese nicht eingehalten werden. Es ist immer zu hinterfragen, welches Lernziel verfolgt wird und inwiefern Tools das Erreichen dieses Ziels unterstützen, aber nicht ersetzen können. Ein transparenter Umgang mit Tools und klare Regeln im Unterrichtskontext sorgen für einen vertrauensvollen, kreativen und konstruktiven Umgang miteinander. Grundsätzlich liegt es aber in der Verantwortung der Lehrenden, ob und wofür KI-Tools genutzt werden dürfen.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "**Kann ich KI-generierte Texte software-assistiert erkennen (lassen)?**\nDer Nachweis der Täuschung bei der Verwendung von generativen KI-Tools ist derzeit noch überaus schwierig, da bis dato keine zuverlässige Erkennungssoftware erhältlich und eine KI-Nutzung damit nicht ohne weiteres überprüfbar ist. Zwar gibt es auf dem Markt bereits Programme wie AI Text Classifier oder ChatGPT Zero. Diese sind jedoch sehr fehlerbehaftet und dürften allein noch keinen ausreichenden Beleg der Täuschung darstellen.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "**Gibt es eine Möglichkeit, KI-Tools auszuprobieren, ohne sich selbst anzumelden?**\nDas kommt auf den Dienst und das KI-Tool an. Manche Dienste bieten die Möglichkeit, ein Tool ggf. auch ohne Anmeldung uneingeschränkt auszuprobieren zu können. Oft ist aber eine Anmeldung obligatorisch, oder eine Nutzung sogar nur durch Bezahlung möglich. Erfahrungsgemäß sinken die Anforderungen der Nutzung mit dem Entwicklungsstand und der „Professionalität“ der Dienste. Experimentelle Angebote sind meist kostenlos und manchmal auch ohne Anmeldung testbar. Große, fertiggestellte Produkte mit großem Funktionsumfang kosten meist etwas und fordern mindestens eine Registrierung. Dies hat den Hintergrund, dass die Bereitstellung von KI-Diensten für die Betreiber einen hohen finanziellen Aufwand darstellt. KI-Server mit der benötigten Rechenkraft sind teuer und diese Kosten müssen von den Anbietern erwirtschaftet oder die Nutzung bei kostenlosen Angeboten limitiert werden. Wirkungsvoll geht dies leider mit dem Zwang einer Anmeldung der Nutzer*innen.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "studiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "**Gibt es Kurse zum Thema Umgang mit KI, z.B. studium generale?**\nFür Lehrende der Goethe-Universität gibt es verschiedene Angebote des IKH, des Schreibzentrums und von studiumdigitale. Die Angebote finden Sie unter Nutzung von generativer KI in Studium und Lehre. Weitere sehr gute, kostenfreie Selbstlernangebote außerhalb der Universität finden Sie z.B. unter ki-campus.org.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Wie zitiere ich korrekt bzw. wie gebe ich die Nutzung von KIs korrekt an?**\nEinen Vorschlag für ein mögliches Zitieren von KI-generierten Texten finden Sie unter Gute wissenschaftliche Praxis und Kennzeichnungspflichten und Eigenständigkeitserklärung.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "**Wie viel Prozent einer Arbeit muss Eigenleistung sein, damit es noch als eigene Arbeit gewertet werden kann?**\nEine Täuschungshandlung liegt trotz Angabe von KI-Tools als Hilfsmittel vor, wenn die gesamte Prüfung oder bedeutende Teile durch KI-Tools generiert werden, da dann eine eigenständige Leistung nicht mehr vorliegt. Eine einheitliche Prozentzahl gibt es jedoch nicht und es muss jeweils von Fall zu Fall entschieden werden.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "**Gibt es KI-Tools, die naturwissenschaftliche Artikel zitieren können?**\nDiese gibt es und entsprechende Beispiele finden Sie unter Welche Anwendungen und Dienste gibt es?. Da es sich jedoch um eigenständige Dienste außerhalb der Universität handelt, stellen sie keine Empfehlungen dar und Sie müssen Sie bei einer eventuellen Nutzung selbst darauf achten, dass Sie alle rechtlichen Bestimmungen (Datenschutz, IT-Sicherheit, Urheberrecht, Barrierefreiheit, …) einhalten! Beachten Sie dabei auch die Allgemeinen Empfehlungen und Hinweise zu Generativer KI.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Handreichungen wurden von der AG: Generative KI mit dem Fokus auf Studium und Lehre erstellt. Hinweise und Feedback nehmen wir gerne über folgende Adresse entgegen:\nag-gki@studiumdigitale.uni-frankfurt.de",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "studiumdigitale stellt für die goethe-universität über das ai-toollab eine lösung bereit, die kostenfreien und datenschutzkonformen zugang zu ki-tools für alle lehrenden und studierenden ermöglicht.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 43,
+    "matched": 42,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 43,
+        "B": "B3",
+        "matched_words": "4/24",
+        "text": "studiumdigitale stellt für die goethe-universität über das ai-toollab eine lösung bereit, die kostenfreien und datenschutzkonformen zugang zu ki-tools für alle lehrenden und studierenden ermöglicht."
+      }
+    ],
+    "source_coverage": 0.977,
+    "uncovered_chars": 612,
+    "uncovered_gaps": 7,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 195,
+        "length": 195,
+        "text": "# goethe-universität frankfurt am main # source: https://lehrevirtuell.unifrankfurt.de/knowhow/allgemeineempfehlungenimumgangmitgenerativerkiinstudiumundlehre/ # date: none # category: guideline"
+      },
+      {
+        "char_start": 1956,
+        "char_end": 1998,
+        "length": 42,
+        "text": ". ## allgemeine empfehlungen und hinweise"
+      },
+      {
+        "char_start": 6161,
+        "char_end": 6195,
+        "length": 34,
+        "text": ". ## weiterführende informationen"
+      },
+      {
+        "char_start": 13732,
+        "char_end": 13769,
+        "length": 37,
+        "text": "## frequently asked questions (faq)"
+      },
+      {
+        "char_start": 18929,
+        "char_end": 19130,
+        "length": 201,
+        "text": ". studiumdigitale stellt für die goethe-universität über das ai-toollab eine lösung bereit, die kostenfreien und datenschutzkonformen zugang zu ki-tools für alle lehrenden und studierenden ermöglicht."
+      },
+      {
+        "char_start": 20751,
+        "char_end": 20764,
+        "length": 13,
+        "text": ". ## kontakt"
+      },
+      {
+        "char_start": 20970,
+        "char_end": 21060,
+        "length": 90,
+        "text": "aktualisiert am 27. april 2026 tagged: ai chatgpt generative ki ki künstliche intelligenz"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 208,
+      "text": "# Goethe-Universität Frankfurt am Main\n# Source: https://lehre-virtuell.uni-frankfurt.de/knowhow/allgemeine-empfehlungen-im-umgang-mit-generativer-ki-in-studium-und-lehre/\n# Date: None\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 208,
+      "char_end": 569,
+      "text": "Der Einsatz generativer KI (GKI) wie ChatGPT hat das Potenzial, akademische Arbeits- und Bildungsprozesse umfänglich und nachhaltig zu verändern. Sie kann personalisiertes Lernen ermöglichen, die Lehre unterstützen und Forschung fördern. Aus diesem Grund befürwortet die Goethe-Universität grundsätzlich die Erprobung und Anwendung von GKI in Studium und Lehre.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 570,
+      "char_end": 969,
+      "text": "Bei der Nutzung von GKI sind jedoch sowohl ethische, rechtliche und natürlich auch didaktische Aspekte zu berücksichtigen, weshalb mit einer speziell zu dem Thema eingerichteten, interdisziplinären Arbeitsgruppe unterschiedlicher Statusgruppen zielgruppenspezifische Handlungsempfehlungen erarbeitet wurden, die Ihnen, ausgehend von dieser allgemeinen Einführung zum Thema GKI, zur Verfügung stehen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 970,
+      "char_end": 1117,
+      "text": "Mit sorgfältiger Planung und Vorbereitung sowie einem klaren Handlungsrahmen kann generative KI ein wertvolles Werkzeug in der Hochschullehre sein.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1119,
+      "char_end": 1228,
+      "text": "Diese Handreichung ist die zentrale Einstiegsseite allgemein zu dem Thema generative KI in Studium und Lehre.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1229,
+      "char_end": 1500,
+      "text": "Konkrete Handlungsempfehlungen speziell für Studierende bzw. Lehrende finden Sie in zwei weiterführenden Artikeln:\n- Handlungsempfehlungen für Lehrende: Einsatz von generativer KI in der Lehre\n- Handlungsempfehlungen für Studierende: Einsatz von generativer KI im Studium",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1502,
+      "char_end": 1617,
+      "text": "Konkrete Antworten auf Fragen rundum den Themenkomplex finden Sie in der Fragensammlung (FAQ) am Ende dieser Seite.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1619,
+      "char_end": 1981,
+      "text": "Fehlen Ihnen Informationen? Gibt es Fragen die unbeantwortet bleiben? Haben Sie Vorschläge für Ergänzungen oder weitere Ausführungen. Dann wenden Sie sich gerne per Mail an die AG zur Generativen KI in der Lehre (ag-gki@studiumdigitale.uni-frankfurt.de) und wir versuchen Ihre Perspektive mit in die Handreichungen einzuarbeiten. Wir freuen uns auf Ihr Feedback.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1981,
+      "char_end": 2024,
+      "text": "\n\n## Allgemeine Empfehlungen und Hinweise\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2024,
+      "char_end": 2185,
+      "text": "Bitte beachten Sie die folgenden grundsätzlichen Hinweise im Umgang mit Tools der generativen Künstlichen Intelligenz (GKI) und den nachfolgenden Handreichungen:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2187,
+      "char_end": 2730,
+      "text": "**Kritische Reflektion:**\nReflektieren Sie die Ergebnisse der KI grundsätzlich kritisch, da es sich bei generativen KIs um statistische Modelle handelt, die häufig vorkommende Aussagen und Einstellungen aus vorab verarbeiteten Trainingsdaten reproduzieren. Sind z.B. Biases in den Trainingsdaten enthalten (z.B. einseitige oder verzerrte Darstellungen), so werden diese auch in den generierten Ergebnissen reproduziert. Je nach Fachgebiet und Fragestellung können die Ergebnisse sehr nützlich und korrekt oder aber falsch und irreführend sein.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2732,
+      "char_end": 3568,
+      "text": "**Geistiges Eigentum:**\nBitte beachten Sie, dass generative KIs Inhalte erstellen können, die auf bestehenden Daten basieren und entsprechend geistiges Eigentum eine wichtige Rolle spielt. So können z.B. in den Trainingsdaten der KI urheberrechtlich geschützte Inhalte vorhanden sein, wodurch generierte Inhalte problematisch sein könnten. Auch Daten, die man z.B. zur Überprüfung an eine KI gibt, können urheberrechtlich geschützt sein. Stellen Sie sicher, dass die Informationen, die Sie eingeben, und die Ergebnisse, die Sie erhalten, keine Urheberrechtsverletzungen darstellen. Zum jetzigen Stand können KI-Programme selbst keine Urheberschaft innehaben. Je nachdem wie stark die Einflussnahme der Nutzer in an dem generierten Text war, ist entweder er oder sie die Urheber*in oder das Ergebnis ist nach dem Urheberrecht gemeinfrei.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3570,
+      "char_end": 4139,
+      "text": "**Persönliche Daten:**\nGeben Sie keine persönlichen oder sensiblen Informationen ein, wenn Sie KI-Tools nutzen. In den meisten Fällen liegt der Sitz der Betreiber der Tools aktuell noch in den Vereinigten Staaten und es lässt sich nicht kontrollieren, was mit den eingegebenen Daten passiert (Schrems II-Urteil des EuGHs). Selbst mit einer Einwilligung der betroffenen Personen lassen sich Rechte wie den Abruf aller erfassten Daten oder deren Löschung nicht oder nur sehr eingeschränkt wahrnehmen. Dies ist mit der Datenschutz-Grundverordnung (DS-GVO) nicht vereinbar.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4141,
+      "char_end": 4534,
+      "text": "**Aktualität:**\nVieles rund um KI-Technologien befindet sich im Moment noch in einer Aushandlungsphase. Daher können sich die Möglichkeiten, Risiken und rechtlichen Rahmenbedingungen jederzeit ändern. Wir bemühen uns, die Informationen auf dieser Seite auf dem neuesten Stand zu halten, können jedoch keine Garantie für die Aktualität geben. Korrekturen und Hinweise nehmen wir gerne entgegen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4536,
+      "char_end": 5052,
+      "text": "## Was ist generative Künstliche Intelligenz (GKI)?\n\nDer Begriff “Generative KI” beschreibt KI-Systeme, die in der Lage sind, auf Anfrage neuartige Inhalte selbstständig zu erstellen. Diese Systeme lernen aus Daten, die sie während ihrer Trainingsphase erhalten haben, und nutzen dieses Wissen, um Ausgaben z.B. in Textform zu erzeugen. Neben der Textgenerierung gibt es auch andere Beispiele für generative KI wie Bildgenerierung, Musikkomposition und die Erzeugung von Programmcode zur Entwicklung von Anwendungen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5054,
+      "char_end": 5617,
+      "text": "Language Models (LM) oder Sprachmodelle sind eine Unterklasse der generativen KI. Diese Modelle lernen die Wahrscheinlichkeit von Sequenzen von Wörtern in einer bestimmten Sprache. Large Language Models (LLM) sind sehr große Sprachmodelle, die auf enormen Mengen von Textdaten trainiert wurden. Dadurch sind sie in der Lage, menschenähnliche Texte zu generieren, und können für eine Vielzahl von Aufgaben eingesetzt werden. Mit dem richtigen Training können sie Aufgaben wie maschinelles Übersetzen, Frage-Antwort-Systeme, Textzusammenfassung und mehr bewältigen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5619,
+      "char_end": 6196,
+      "text": "So beeindruckend die Ergebnisse sind, die mit LLMs erzielt werden können, sollten sie nicht mit Wissensdatenbanken verwechselt werden. Die Texte, die beim Trainieren der Modelle verarbeitet werden, sind im Endprodukt nicht mehr wörtlich enthalten. Man darf sich Programme wie ChatGPT deshalb nicht als Suchmaschinen vorstellen, die in Textkorpora nach relevanten Stellen suchen und Antworten durch Copy & Paste zusammenstellen. Stattdessen handelt es sich um rein statistische Modelle, die Aussagen und Einstellungen reproduzieren, die häufig in ihren Trainingsdaten vorkommen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6196,
+      "char_end": 6231,
+      "text": "\n\n## Weiterführende Informationen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6231,
+      "char_end": 6321,
+      "text": "Friedrich Wolf – Über, mit und von KI lernen? – Ein pädagogischer Rundgang (Video, 1:26 h)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6323,
+      "char_end": 6587,
+      "text": "## Welche Anwendungen und Dienste gibt es?\n\nDa sich die verfügbaren Tools aktuell sehr schnell weiterentwickeln, versuchen wir hier einen Überblick über bestehende Tool-Kategorien zu geben, die im weiteren Verlauf der Handreichung immer wieder aufgegriffen werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6589,
+      "char_end": 7965,
+      "text": "| Kategorie | Beschreibung der Kategorie |\n|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Literaturrecherche | Tools dieser Kategorie bieten eine Vielzahl von Funktionen zur Unterstützung der Literaturrecherche in der Hochschullehre. Sie ermöglichen es den Studierenden, wissenschaftliche Literatur effizient zu finden, zu organisieren und relevante Artikel oder Autor*innen zu identifizieren. Mithilfe dieser Tools können Studierende Literaturdatenbanken durchsuchen, Literaturlisten erstellen oder sich einen Überblick über aktuelle Forschungsergebnisse zu bestimmten Themen verschaffen. Durch die Integration in Literaturverwaltungsprogramme wie Citavi oder Zotero können gefundene Artikel auch direkt in die persönliche Bibliothek importiert werden. Ein Beispiel für ein Tool dieser Kategorie ist Researchrabbit. Die Universitätsbibliothek bietet eine Übersicht verschiedener Tools für die Literaturrecherche. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7966,
+      "char_end": 8599,
+      "text": "| Textproduktion | Tools dieser Kategorie unterstützen Studierende aktiv bei der Schreibpraxis in der Hochschullehre. Mit Funktionen wie KI-Autovervollständigung, automatische Zitation, Formatierung nach verschiedenen Schreibstilen und Plagiatsprüfung assistieren sie beim Verfassen von wissenschaftlichen Arbeiten. Diese Tools können den Schreibprozess beschleunigen, indem sie beim Formulieren komplexer Sätze oder beim Finden passender Referenzen helfen. Sie ermöglichen Studierenden, ihre Schreibkompetenzen weiterzuentwickeln und wissenschaftliche Standards einzuhalten. Ein Beispiel für ein Tool dieser Kategorie ist JenniAI. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8600,
+      "char_end": 9600,
+      "text": "| Textverständnis | Tools dieser Kategorie unterstützen das Textverständnis von Studierenden, indem sie ihnen ermöglichen, Texte interaktiv zu erkunden und besser zu verstehen. Durch das Markieren von Begriffen, Passagen oder wichtigen Informationen in einem Text und der anschließenden Nutzung eines integrierten Chatbots können Studierende Erklärungen, Definitionen oder zusätzliche Informationen erhalten. Diese Tools können auch Fragen beantworten oder weiterführende Quellen empfehlen, um das Verständnis eines bestimmten Textes zu vertiefen. Diese Tools sind besonders nützlich, wenn Studierende komplexe wissenschaftliche Texte lesen und analysieren müssen. Sie können dazu beitragen, dass Studierende bedeutungsvolle Verbindungen und Zusammenhänge in einem Text erkennen und das Verständnis vertiefen. Durch die Interaktion mit einem Chatbot erhalten Studierende individuelle Unterstützung und können ihr Textverständnis weiterentwickeln. Ein Beispiel für ein solches Tool ist Explainpaper. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9601,
+      "char_end": 10269,
+      "text": "| Plagiatserkennung | Tools dieser Kategorie sind speziell darauf ausgerichtet, Plagiate in wissenschaftlichen Arbeiten aufzudecken. Sie ermöglichen Dozierenden und Studierenden, alle eingereichten Texte auf potenzielle Ähnlichkeiten mit anderen Quellen oder bereits veröffentlichten Arbeiten zu überprüfen. Diese Tools durchsuchen umfangreiche Datenbanken und nutzen fortschrittliche Algorithmen, um verdächtige Übereinstimmungen zu identifizieren. Sie helfen dabei, die Integrität der akademischen Arbeit zu wahren und Studierende zu ermutigen, eigenständig zu arbeiten und ihre eigenen Ideen zu entwickeln. Ein Beispiel für ein Tool dieser Kategorie ist Turnitin. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10270,
+      "char_end": 11106,
+      "text": "| Bildgenerierung | Tools dieser Kategorie nutzen Deep-Learning-Algorithmen, um aus Texteingaben Bilder zu generieren oder bestehende Bilder zu verändern. Sie ermöglichen es Studierenden, mithilfe von Beschreibungen oder Anweisungen hochqualitative, visuelle Inhalte zu erstellen. Diese Tools sind besonders nützlich für die Erstellung von Bildern oder Diagrammen für Präsentationen, Poster, Webseiten oder Berichte. Ein Einsatz solcher Tools kann Zeit und Ressourcen bei der Materialerstellung sparen sowie Studierende oder Lehrende, welche nicht über ausgeprägte künstlerische Fähigkeiten oder umfangreiche Designkenntnisse und Software verfügen, dazu befähigen, visuell ansprechendes Material zu erstellen. Ein Beispiel für ein Tool dieser Kategorie ist DreamStudio welches das StableDiffusion Modell zur Bildgenerierung verwendet. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11107,
+      "char_end": 12019,
+      "text": "| Präsentationserstellung | Tools dieser Kategorie ermöglichen es Studierenden und Lehrenden, auf einfache Weise ansprechende Präsentationen zu erstellen. Sie basieren auf Texteingaben, die bereitgestellt werden müssen, und generieren daraus automatisch Folien mit relevanten Inhalten. Diese Tools bieten verschiedene Designvorlagen, Animationsmöglichkeiten und die Möglichkeit, multimediale Elemente wie Bilder oder Videos einzufügen. Sie erleichtern die Erstellung von visuell ansprechenden Präsentationen und sparen Zeit. Studierende und Lehrende müssen sich weniger mit dem Gestalten der Folien beschäftigen, sondern können sich mehr auf den Inhalt ihrer Präsentationen konzentrieren. Diese Tools ermöglichen es, professionell aussehende Präsentationen zu erstellen und ihre Informationen auf eine zugängliche und ansprechende Weise zu präsentieren. Ein Beispiel für ein Tool dieser Kategorie ist SlidesAI. |",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12021,
+      "char_end": 12653,
+      "text": "Die in der Tabelle genannten Beispiele sind nur exemplarisch und dienen ausschließlich der Veranschaulichung, was zum Zeitpunkt der Erstellung dieser Handreichung aktuell mit GKIs möglich ist. Sie stellen keine Empfehlungen dar und da es sich um eigenständige Dienste außerhalb der Universität handelt, müssen Sie bei einer eventuellen Nutzung selbst darauf achten, dass Sie alle rechtlichen Bestimmungen (Datenschutz, IT-Sicherheit, Urheberrecht, Barrierefreiheit, …) einhalten! Weitere Informationen dazu finden Sie in den weiteren Kapiteln dieser Handreichung. Gleiches gilt für die nachfolgende Sammlung von KI-Tool Datenbanken.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12655,
+      "char_end": 13236,
+      "text": "## Bestehende Sammlungen und Datenbanken zu KI-Tools\n\n- Sammlung von Tools mit dem Fokus auf Textverarbeitung: VK:KIWA\n- Umfassende Toolliste zu verschiedensten Kategorien: AI Tools Directory\n- Datenbank mit über 50 Kategorien und 3000 Tools: AI Tools Update\n- Umfangreiche Datenbank und Community zu KI-Tools: FUTUREPEDIA\n- Datenbank zu KI-Tools: Future Tools\n- Umfangreiche Sammlung von KI-Tools mit Erklärvideos: Miroboard von Jan Foelsing\n- sehr umfassende und aktuelle KI-Sammlung: The Generative AI Landscape\n- KI-Tools nach Erscheinungsdatum sortiert: There’s An AI For That",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13238,
+      "char_end": 13582,
+      "text": "## Nutzung von generativer KI in Studium und Lehre\n\nErgänzend zu dieser allgemeinen Einführung zum Thema generativer KI (inkl. Toolkategorien und -sammlung) gibt es zwei weitere Handlungsempfehlungen speziell für Lehrende und Studierende.\n\n- Einsatz von KI in der Lehre (Zielgruppe Lehrende)\n- Einsatz von KI im Studium (Zielgruppe Studierende)",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13584,
+      "char_end": 14316,
+      "text": "Weitere Unterstützungsangebote zu dem Thema KI in der Lehre an der Goethe-Universität sind:\n- „Über, mit und von KI lernen? – Ein pädagogischer Rundgang“ (studiumdigitale)\n- „Einsatzmöglichkeiten von KI-Tools in der Lehre“ (studiumdigitale)\n- „Was machen wir mit KI und was macht KI mit uns? Ethische Aspekte im Umgang mit KI-Tools in der Hochschullehre“ (studiumdigitale)\n- „KI-Anwendungen wie ChatGPT in Lehre und Prüfungen“ (IKH)\n- „KI-gestütztes Schreiben vermitteln“ (IKH & Schreibzentrum)\n- Online Lehrlabor „ChatGPT als Herausforderung und Chance. Was macht die KI mit dem Schreiben?“ (Schreibzentrum)\n- Tipps zur Nutzung von KI-Schreibtools in der Lehre (Schreibzentrum)\n- Impulsreihe im Rahmen des Verbundprojekts HessenHub",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14316,
+      "char_end": 14355,
+      "text": "\n\n## Frequently Asked Questions (FAQ)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14355,
+      "char_end": 14967,
+      "text": "**Wie kann man sicherstellen, dass alle Studierenden/Lehrende Zugang zu einem Tool haben?**\nstudiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.\nDas AI-ToolLab ist aktuell eine experimentelle Lösung der Goethe-Universität und kein offizieller Service. Es dient als Experimentierraum, um den Bedarf an KI-Tools zu evaluieren und datenschutzkonforme Alternativen zu entwickeln. Ziel ist es, perspektivisch zentrale Services für die gesamte Universität bereitzustellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14969,
+      "char_end": 15484,
+      "text": "**Was tut man, wenn Studierende/Lehrende sich z. B. keinen Account bei ChatGPT erstellen möchten?**\nDas AI-ToolLab bietet eine Alternative zu externen Tools wie ChatGPT, da die Daten über die Infrastruktur der Universität laufen und kein persönlicher Account bei kommerziellen Anbietern erforderlich ist.\nLobeChat unterstützt eine Vielzahl von KI-Modellen, wodurch es flexibel und anpassbar für verschiedene Anwendungsfälle ist. Nutzer können je nach ihren Anforderungen das passende Modell auswählen und einsetzen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15485,
+      "char_end": 15921,
+      "text": "Grundsätzliche Bedenken über die Nutzung von KI sollten im Rahmen der Lehrveranstaltungen thematisiert werden, beispielsweise durch Diskussionen über ethische Aspekte oder datenschutzrechtliche Fragen. Sollten Studierende KI-Tools ablehnen, sind Lehrende dazu angehalten, gleichwertige Aufgaben ohne KI-Nutzung bereitzustellen. Die Nutzung generativer KI in Lehrveranstaltungen ist freiwillig und darf nicht zu Benachteiligungen führen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15923,
+      "char_end": 16549,
+      "text": "**Ist von Seiten der Universität geplant, für bestimmte Tools so etwas wie Campus-Lizenzen zu erwerben?**\nstudiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.\nDas AI-ToolLab ist aktuell eine experimentelle Lösung der Goethe-Universität und kein offizieller Service. Es dient als Experimentierraum, um den Bedarf an KI-Tools zu evaluieren und datenschutzkonforme Alternativen zu entwickeln. Ziel ist es, perspektivisch zentrale Services für die gesamte Universität bereitzustellen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16551,
+      "char_end": 17024,
+      "text": "**Gibt es Vorgaben und Bedingungen für die Korrektur und Bewertung von Hausarbeiten/schriftlichen Prüfungsleistungen?**\nGenerative KI kann bei der Bewertung von Übungsaufgaben oder auch von Hausarbeiten Studierender unterstützen. Wichtig ist aber, dass hier eigene Bewertungskriterien angelegt und die Ergebnisse der KI besonders kritisch hinterfragt werden, um eine systematische Ungleichbehandlung Studierender zu vermeiden (siehe Wo kann ich KI in der Lehre einsetzen?).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17025,
+      "char_end": 17369,
+      "text": "Geht es um die Bewertung von Arbeiten, bei denen KI zum Einsatz kommt, dann empfiehlt es sich, vorab ganz klar zu kommunizieren, was erlaubt ist und unter welchen Bedingungen (siehe Gute wissenschaftliche Praxis, Kennzeichnungspflichten und Eigenständigkeitserklärung und Was sollte ich meinen Studierenden bzgl. der Nutzung von KI mitteilen?).",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17371,
+      "char_end": 17973,
+      "text": "**Kann man KI-Tools oder Kategorien von KI-Tools für die eigene Lehre verbieten? Wenn ja, wie?**\nDas Aussprechen von Verboten kann immer dazu führen, dass diese nicht eingehalten werden. Es ist immer zu hinterfragen, welches Lernziel verfolgt wird und inwiefern Tools das Erreichen dieses Ziels unterstützen, aber nicht ersetzen können. Ein transparenter Umgang mit Tools und klare Regeln im Unterrichtskontext sorgen für einen vertrauensvollen, kreativen und konstruktiven Umgang miteinander. Grundsätzlich liegt es aber in der Verantwortung der Lehrenden, ob und wofür KI-Tools genutzt werden dürfen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17975,
+      "char_end": 18479,
+      "text": "**Kann ich KI-generierte Texte software-assistiert erkennen (lassen)?**\nDer Nachweis der Täuschung bei der Verwendung von generativen KI-Tools ist derzeit noch überaus schwierig, da bis dato keine zuverlässige Erkennungssoftware erhältlich und eine KI-Nutzung damit nicht ohne weiteres überprüfbar ist. Zwar gibt es auf dem Markt bereits Programme wie AI Text Classifier oder ChatGPT Zero. Diese sind jedoch sehr fehlerbehaftet und dürften allein noch keinen ausreichenden Beleg der Täuschung darstellen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18481,
+      "char_end": 19523,
+      "text": "**Gibt es eine Möglichkeit, KI-Tools auszuprobieren, ohne sich selbst anzumelden?**\nDas kommt auf den Dienst und das KI-Tool an. Manche Dienste bieten die Möglichkeit, ein Tool ggf. auch ohne Anmeldung uneingeschränkt auszuprobieren zu können. Oft ist aber eine Anmeldung obligatorisch, oder eine Nutzung sogar nur durch Bezahlung möglich. Erfahrungsgemäß sinken die Anforderungen der Nutzung mit dem Entwicklungsstand und der „Professionalität“ der Dienste. Experimentelle Angebote sind meist kostenlos und manchmal auch ohne Anmeldung testbar. Große, fertiggestellte Produkte mit großem Funktionsumfang kosten meist etwas und fordern mindestens eine Registrierung. Dies hat den Hintergrund, dass die Bereitstellung von KI-Diensten für die Betreiber einen hohen finanziellen Aufwand darstellt. KI-Server mit der benötigten Rechenkraft sind teuer und diese Kosten müssen von den Anbietern erwirtschaftet oder die Nutzung bei kostenlosen Angeboten limitiert werden. Wirkungsvoll geht dies leider mit dem Zwang einer Anmeldung der Nutzer*innen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19524,
+      "char_end": 19722,
+      "text": "studiumdigitale stellt für die Goethe-Universität über das AI-ToolLab eine Lösung bereit, die kostenfreien und datenschutzkonformen Zugang zu KI-Tools für alle Lehrenden und Studierenden ermöglicht.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19724,
+      "char_end": 20101,
+      "text": "**Gibt es Kurse zum Thema Umgang mit KI, z.B. studium generale?**\nFür Lehrende der Goethe-Universität gibt es verschiedene Angebote des IKH, des Schreibzentrums und von studiumdigitale. Die Angebote finden Sie unter Nutzung von generativer KI in Studium und Lehre. Weitere sehr gute, kostenfreie Selbstlernangebote außerhalb der Universität finden Sie z.B. unter ki-campus.org.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20103,
+      "char_end": 20356,
+      "text": "**Wie zitiere ich korrekt bzw. wie gebe ich die Nutzung von KIs korrekt an?**\nEinen Vorschlag für ein mögliches Zitieren von KI-generierten Texten finden Sie unter Gute wissenschaftliche Praxis und Kennzeichnungspflichten und Eigenständigkeitserklärung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20358,
+      "char_end": 20792,
+      "text": "**Wie viel Prozent einer Arbeit muss Eigenleistung sein, damit es noch als eigene Arbeit gewertet werden kann?**\nEine Täuschungshandlung liegt trotz Angabe von KI-Tools als Hilfsmittel vor, wenn die gesamte Prüfung oder bedeutende Teile durch KI-Tools generiert werden, da dann eine eigenständige Leistung nicht mehr vorliegt. Eine einheitliche Prozentzahl gibt es jedoch nicht und es muss jeweils von Fall zu Fall entschieden werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20794,
+      "char_end": 21350,
+      "text": "**Gibt es KI-Tools, die naturwissenschaftliche Artikel zitieren können?**\nDiese gibt es und entsprechende Beispiele finden Sie unter Welche Anwendungen und Dienste gibt es?. Da es sich jedoch um eigenständige Dienste außerhalb der Universität handelt, stellen sie keine Empfehlungen dar und Sie müssen Sie bei einer eventuellen Nutzung selbst darauf achten, dass Sie alle rechtlichen Bestimmungen (Datenschutz, IT-Sicherheit, Urheberrecht, Barrierefreiheit, …) einhalten! Beachten Sie dabei auch die Allgemeinen Empfehlungen und Hinweise zu Generativer KI.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21350,
+      "char_end": 21364,
+      "text": "\n\n## Kontakt\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21364,
+      "char_end": 21572,
+      "text": "Die Handreichungen wurden von der AG: Generative KI mit dem Fokus auf Studium und Lehre erstellt. Hinweise und Feedback nehmen wir gerne über folgende Adresse entgegen:\nag-gki@studiumdigitale.uni-frankfurt.de",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21572,
+      "char_end": 21664,
+      "text": "\n\nAktualisiert am 27. April 2026\n\nTagged:\nAI\nChatGPT\nGenerative KI\nKI\nKünstliche Intelligenz",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

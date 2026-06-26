@@ -1,0 +1,3520 @@
+{
+  "doc_id": "hochschule-zittau-gorlitz_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die folgende Übersicht zu den KI-Anwendungen hat reinen informativen Charakter!",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Bitte beachten Sie das Rundschreiben 2025/10 vom 01.09.2025 und den darin enthaltenen Hinweis zur \"KI-Richtlinie\" der HSZG.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Mit der Verfügbarkeit von ChatGPT im November 2022 ist das Thema KI in der Allgemeinheit angekommen und inzwischen Teil der wissenschaftlichen, beruflichen und gesellschaftlichen Praxis.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Bei ChatGPT handelt es sich um einen Assistenten, der auf der Basis eines zugrundeliegenden Sprachmodells Fragen und Anfragen beantworten und Informationen bereitstellen kann.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bitte beachten Sie, dass bei der Nutzung von KI-Anwendungen personenbezogene Daten wie z.B. Namen, E-Mail-Adressen, IP-Adressen durch die KI-Anbieter verarbeitet werden können.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Auch von Ihnen in KI-Anwendungen eingegebene Informationen können von KI-Anbietern ausgewertet bzw. zum Training der KI verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "ChatGPT steht für „Generative Pre-trained Transformer“ und ist ein KI-Sprachmodell, das ähnlich wie ein neuronales Netzwerk funktioniert und auf die Generierung von Texten trainiert wurde.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Es handelt sich um einen textbasierten Chatbot, der mit Menschen interagieren kann und darauf trainiert ist, möglichst natürliche Sprache zu produzieren.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Anhand statistischer Wahrscheinlichkeiten wird das Auftreten von Wörtern in bestimmten Kontexten berechnet.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Mittels sog. \"Prompts\" (konkrete Fragen bzw. Fragestellungen an die KI), werden von ChatGPT Antworten generiert.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Über den Chat-Verlauf kann jederzeit auf den konkreten Kontext Bezug genommen werden.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Gib mir 5 Ideen für ein studentisches Projekt im Bereich XYZ.\"",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Formuliere drei Aufgaben zu dem folgenden Text.\"",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Individualisiertes Feedback: Ich habe einen Python-Code geschrieben für XYZ, leider funktioniert der Code aber nicht. Wo ist der Fehler?\"",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Entwürfe für Feedback: Beurteile die Korrektheit und Vollständigkeit der Antwort (Antwort muss zuerst eingegeben werden) auf die folgende Klausurfrage.\"",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Bewerte den Text und achte dabei insbesondere auf...\"",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"E-Assessment-Aufgaben erstellen: Ich benötige eine Multiple-Choice-Aufgabe zum Thema XYZ. Gib mir 5 Fragen mit jeweils 4 Antworten, von denen jeweils nur eine richtig ist.\"",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Prüfungsfragen erstellen: Generiere mir 5 Prüfungsaufgaben zu folgendem Text: [URL einfügen].\"",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Übungsaufgaben generieren: Die Studierenden meiner Lehrveranstaltung XYZ sollen sich mit dem Thema XYZ auseinandersetzen. Schlage mir drei Aufgaben für Studierende mit unterschiedlichem Schwierigkeitsgrad vor (leicht, mittel, schwierig).\"",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Lösungen erklären lassen: Bitte erkläre mir die folgende Gleichung a^2+b^2=c^2.\"",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Gliederungen: Wie könnte eine Gliederung zu einer Präsentation zum Thema xy aussehen?\"",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Texte zusammenfassen und vereinfachen: Was sind die Kernaussagen des folgenden Textes?\"",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"oder Schreibe eine Zusammenfassung von Goethes Faust mit max. 1000 Zeichen.\"",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Quellen zusammenfassen (Webseiten): Fasse den folgenden Text in 5 Sätzen zusammen: [URL einfügen].\"",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Python oder HTML schreiben: Erstelle ein Grundgerüst für eine Standard HTML-Seite\"",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"oder Schreibe den HTML-Quellcode für eine Webseite im 2-spaltigen Design.\"",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Modul-/Veranstaltungsbeschreibungen verfassen: Formuliere mir eine Modulbeschreibung zur Vorlesung XYZ.\"",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Dokumentation für Prompts in KI-Anwendungen wie ChatGPT (in englischer Sprache): Alan D. Thompson: The ChatGPT Prompt Book",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Beispiele für den Einsatz von ChatGPT von Andrew Herft (deutsche Übersetzung von Alexander König): \"A Teacher's Prompt Guide to ChatGPT\" (EN) / \"Leitfaden für Lehrkräfte zur Nutzung von ChatGPT\" (DE)",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "\"Offener Prompt-Katalog\" des KI-Campus (Hochschulforum Digitalisierung)",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Anwendungen wie ChatGPT verwendet z.T. veraltete oder nicht-wissenschaftliche Quellen, was zu unvollständigen oder fehlerhaften Antworten führen kann.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es besteht auch die Möglichkeit, dass relevante wissenschaftliche Studien, die nicht frei zugänglich sind, nicht berücksichtigt werden.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "KI-Anwendungen wie ChatGPT können Fehlinformationen generieren, insbesondere in Bezug auf wissenschaftliche Konzepte.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dies kann zu Fehlvorstellungen bei Studierenden führen, z.B. wenn es um inhaltliche Feinheiten oder komplexe Zusammenhänge geht.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es ist unklar, ob KI-Anwendungen wie ChatGPT möglicherweise Urheberrechte verletzt, wenn es auf geschützte Materialien zugreift und diese in seinen Ausgaben verwendet.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Zur Vertiefung: Rechtsgutachten zu ChatGPT & Co.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-gestützte Programme sind keine Autoren/Urheber der von ihnen erzeugten Texte im Sinne des Urheberrechtsschutzgesetzes (UrhG).",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Verwenden Nutzer KI-Tools als Hilfsmittel für ihre eigene gestalterische Tätigkeit, dann können diese die Urheberschaft an den erzeugten Texten beanspruchen (ein signifikanter Anteil an geistiger Eigenleistung vorausgesetzt).",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Abhängig von den jeweils geltenden Prüfungsordnungen bzw. Nutzungsbedingungen einer Software kann sich eine Kennzeichnungspflicht für KI-generierte Inhalte im akademischen Kontext ergeben (ein Beispiel für eine Erklärung findet sich beim Hochschulforum Digitalisierung).",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die gekennzeichnete Übernahme von KI-generierten Inhalten stellt in der Regel keinen formalen Verstoß gegen die Regeln guter wissenschaftlicher Praxis dar.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Bei der Verwendung ungekennzeichneter Inhalte kommt es darauf an, wie der generelle Umgang mit Hilfsmitteln und Quellen geregelt ist (z.B. ob eine ungekennzeichnete Übernahme als Verstoß bzw. Täuschungsversuch zu werten ist).",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Alternativ kann die Verwendung von KI-Werkzeugen auch erlaubt sein (z.B. über Eigenständigkeitserklärungen), in diesem Fall ist nicht von einem wissenschaftlichen Fehlverhalten auszugehen.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "1) Prüfungsrecht: Bei einer Bewertung können KI-Tools nur als Hilfsmittel verwendet werden, da eine Bewertung durch den Prüfer selbst und nicht durch eine Software zu erfolgen hat.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "2) Urheberrecht: Prüfungsleistungen sind urheberrechtlich geschützt. Eine Eingabe in eine KI-Anwendung ist mindestens dann nicht zulässig, wenn die KI die eingegebenen Daten zu Trainingszwecken weiterverwendet oder anderweitig nutzt.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Quelle: Weitere Hinweise können dem Rechtsgutachten zu ChatGPT & Co „Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung“ entnommen werden.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziel beim Einsatz von KI-Anwendungen wie ChatGPT in Lehre und Studium sollte ein offenes Thematisieren von KI-Tools für das Lehren und Lernen sein.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ziel ist eine verantwortungsvolle und gewinnbringende Verwendung und das Aufzeigen von Möglichkeiten und Grenzen KI-generierter Inhalte.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Studierenden sollten sich über folgende Aspekte im Klaren sein:",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Funktionsweise von KI-Anwendungen wie ChatGPT: Die Studierenden sollten verstehen, wie KI funktioniert, woher die Daten stammen und sich der Möglichkeiten und Grenzen bewusst sein. Zum Beispiel, dass KI-Anwendungen wie ChatGPT keine (verlässlichen) Quellen angeben kann.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Verwendung von KI-Anwendungen wie ChatGPT in Einklang mit akademischen Werten und Normen: Es ist ratsam, mit den Studierenden über wissenschaftliche Standards wie Objektivität und Quellenangaben im Zusammenhang mit ChatGPT zu sprechen.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Datenqualität: Studierenden muss verdeutlicht werden, dass von einer KI generierte Informationen nicht ohne Prüfung übernommen werden dürfen. Fragen der Vertrauenswürdigkeit und Datenqualität sind zu thematisieren.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- Datenschutz: Die Studierenden sollten verstehen, wie ihre Daten bei der Nutzung von ChatGPT gesammelt, gespeichert und verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- KI als Lehr-Lerninstrument (KI als Assistent/Lernbegleiter): KI-Anwendungen wie ChatGPT können auch als Lern- und Lehrmethode in Lehrveranstaltungen integriert werden. Die Studierenden erarbeiten sich das Wissen anhand von KI-Technologien und werden vom Lehrenden im Prozess des Problemlösens unterstützt und fachlich begleitet.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Leistungsüberprüfungen: Die klassische Textproduktion als Leistungsnachweis (z.B. in Form von Belegarbeiten, Hausarbeiten) ist aufgrund der KI-Funktionalitäten zukünftig weniger geeignet.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Erkennung von KI-generierten Texten erweist sich in der Praxis als schwierig.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Der Fokus sollte daher in Zukunft auf formativen und lernbegleitenden Leistungsnachweisen liegen, die nicht das fertige Endprodukt, sondern den Prozess dorthin zum Ziel haben.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Regeln zum Umgang mit KI für das Ablegen der Prüfungsleistung: Lehrende sollten zu Beginn der Lehrveranstaltung transparent darlegen, inwieweit Studierende KI in der Lehrveranstaltung und ggf. in der Prüfungsleistung einsetzen dürfen.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Vorschläge für die Erstellung von Quiz-Fragen (Audience-Response)",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Ideen für die Erstellung von Argumenten für eine Pro-Contra-Diskussion",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Impulse für Rollenspielszenarien auf der Basis vorgegebener Texte",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellung individualisierten Materials",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Vorschläge für Aufgabenstellungen für Studierende, je nach Leistungsniveau und Interessen",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Beantworten von Fragestellungen durch ChatGPT, die danach an Studierende gestellt werden",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Codegenerierung bzw. Prüfen von selbsterstellten Code",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellung von Aufgaben (z.B. Multiple Choice) mit unterschiedlichen Schwierigkeitsgraden",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Nutzung bestehender Inhalte für neue Material-Formate",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Skripte für Podcasts oder Erklärvideos für Studierende",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Fälle oder Beispiele zur Nutzung in Vorlesungen/Seminaren",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Formulieren von Fragestellung anhand vorhandener Texte",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellen von Zusammenfassungen eigener Texte, z.B. um zu prüfen, ob die Kernaussagen erkennbar sind",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Optimieren von Instruktionen, Übersichten etc.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Formulierung von Lehr-Lernzielen",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Anleitungen für die Bearbeitung von Aufgaben",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Prüfen der Verständlichkeit von Aufgabenstellungen",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellen standardisierter Texte",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Veranstaltungsbeschreibungen zur Orientierung für Studierende",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Nachrichten an Studierende (z.B. Erinnerung an Abgabetermine, Begrüßung zur Veranstaltung)",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Anleitungen zum Verfassen schriftlicher Arbeiten",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Bedienungsanleitungen bzgl. verwendeter digitaler Tools",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Bewertung von Prüfungsfragen",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Prüfung der Formulierung von Prüfungsfragen hinsichtlich Verständlichkeit und Ergebnis",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Generieren von Testfragen zu einem Thema",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Diskussion über Ergebnisse aus KI",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Ergebnisse durch die KI generieren und von Studierenden bewerten und einordnen lassen (z.B. auch in Prüfungen)",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Förderung kritischen Denkens durch kritisches Hinterfragen von KI-Ergebnissen",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Unterstützung im Schreibprozess",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Schreibblockaden lösen",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Literatur/Quellen durchforsten",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- eigene Texte zusammenfassen (z.B. sind die Kernaussagen enthalten?)",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Kritisches Hinterfragen von Texten (Argumentationsstruktur analysieren)",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- \"Critical Friend\" - den eigenen Text mit von ChatGPT definierten Bewertungskriterien beurteilen lassen",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Verbessern der Textqualität (Grammatik, Ausdruck)",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Ideen generieren",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Inspirationen einholen (z.B. Fragestellungen für ein Thema ausgeben lassen)",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Generieren von Code (als Grundlage für die Weiterentwicklung)",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Auseinandersetzung mit dem Lernstoff",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Kritisches Hinterfragen von Fragestellungen / Texten",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Individualisiertes Feedback",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Unterstützung beim Lernen",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Eigene Texte und KI generierte Inhalte vergleichen",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Finden von Fehlern in eigenen Texten",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Gemeinsames Diskutieren über Texte",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Lösungen erklären lassen (z.B. Mathematikaufgaben)",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Individualisierte Lernmaterialien erstellen (z.B. eigene Lernpfade)",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Wissenschaftliches Arbeiten / Recherchen",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellen / Zusammenstellen von Suchbegriffe für die Recherche",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellen von Zusammenfassungen von Texten",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Weitere Hinweise zur Verwendung von KI im Rahmen der Literaturrecherche finden Sie auf den Seiten der Hochschulbibliothek: \"Literaturrecherche mit KI\".",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Die neue Generation von Sprachmodellen richtet sich gezielt an die Bearbeitung komplexer Aufgaben. Dafür werden von der KI Schritt für Schritt Lösungsstrategien erarbeitet.",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Sollte das Modell dabei nicht weiterkommen, d.h. in eine “Sackgasse” geraten, kehrt es zur Ausgangsfrage zurück und bearbeitet die Aufgabe erneut.",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Mit diesem sog. \"Reasoning\" sollen Aufgaben noch genauer gelöst werden können.",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Im Gegensatz zu dem bisherigen Ansatz, nach Eingabe eines Prompts das Ergebnis auszugeben (Frage-Antwort-Dialog), wird beim Reasoning-Ansatz ein Lösungsweg formuliert und Schritt für Schritt abgearbeitet (Grundlage: Reinforcement Learning).",
+      "repaired": false
+    },
+    {
+      "id": 113,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Reasoning-Modelle (Stand Mai 2025):\n- Ai2 OLMo 2 (USA)\n- Google Gemini (USA)\n- OpenAI ChatGPT o3 (USA)\n- Perplexity (USA)\n- DeepSeek R1 (China)\n- Qwen3 (China)",
+      "repaired": false
+    },
+    {
+      "id": 114,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die Arbeitsgruppe Digitale Medien und Hochschuldidaktik der Deutschen Gesellschaft für Hochschuldidaktik (dghd) hat in Kooperation mit der Gesellschaft für Medien in der Wissenschaft (GMW) eine \"Didaktische Handreichung zur praktischen Nutzung von KI in der Lehre\" erarbeitet. Das Dokument wird fortlaufend ergänzt.",
+      "repaired": false
+    },
+    {
+      "id": 115,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Folgende Themen werden aktuell behandelt:\n- Kompetenzen von Lehrenden und Studierenden für den Einsatz von KI\n- Einsatz generativer KI in der Lehre inkl. Use Cases und Beispiele\n- Einfluss der Verwendung generativer KI auf Prüfungsformate",
+      "repaired": false
+    },
+    {
+      "id": 116,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Im Jahr 2024 hat die Europäische Union eine Verordnung zum Thema KI erlassen. Darin wird u.a. der Umgang mit KI und deren Nutzung geregelt.",
+      "repaired": false
+    },
+    {
+      "id": 117,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Auch für den KI-Einsatz an Hochschulen ergibt sich daraus Handlungsbedarf.",
+      "repaired": false
+    },
+    {
+      "id": 118,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "KI-Verordnung\nEmpfehlungen der ZKI e.V. (Zentren für Kommunikation und Informationsverarbeitung in Lehre und Forschung):\n- Handlungsempfehlungen (PDF)\n- Merkblatt für Nutzer (PDF)",
+      "repaired": false
+    },
+    {
+      "id": 119,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Rechtsgutachten (Ruhr-Universität Bochum): „Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung“",
+      "repaired": false
+    },
+    {
+      "id": 120,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Weitere Informationen:\n- BSI-Broschüre zum Thema KI\n- Bundesbeauftragter für den Datenschutz und die Informationsfreiheit\n- Forschung und Lehre\n- KI-Campus",
+      "repaired": false
+    },
+    {
+      "id": 121,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hinweis: Pflichtschulung\nIn OPAL steht der Selbstlernkurs „AI Act: Einführung und Sensibilisierung für Hochschulmitarbeiter“ zur Verfügung.",
+      "repaired": false
+    },
+    {
+      "id": 122,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bitte beachten Sie die im Rundschreiben 2025/05 (07.04.2025) hinterlegten Informationen zur Pflichtschulung für Mitarbeiter der HSZG.",
+      "repaired": false
+    },
+    {
+      "id": 123,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "WICHTIG: Zum Erwerb des Zertifikats müssen Sie sich mit Ihrem HSZG-Login in OPAL anmelden und die Tests bearbeiten!",
+      "repaired": false
+    },
+    {
+      "id": 124,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Neben den rechtlichen Rahmenbedingungen sieht die KI-Verordnung auch grundlegenden KI-Kompetenzen als zentrale Voraussetzung für den Einsatz von KI.",
+      "repaired": false
+    },
+    {
+      "id": 125,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Hochschulen haben damit einen klaren Auftrag, Lehrende und aber auch Studierende für einen rechtskonformen, didaktisch sinnvollen und reflektierten Einsatz von KI zu qualifizieren.",
+      "repaired": false
+    },
+    {
+      "id": 126,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "KI-Kompetenzen (AI Literacy) werden als Fähigkeit verstanden, Chancen und Risiken von KI zu erkennen, KI sachkundig zu nutzen und fundierte Entscheidungen unter Beachtung rechtlicher Rahmenbedingungen zu treffen.",
+      "repaired": false
+    },
+    {
+      "id": 127,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Technologische Basiskompetenzen\nTechnologische Kompetenzen bilden die Grundlage, um Funktionsweisen, Potenziale und Risiken von KI-Systemen einordnen und praktisch nutzen zu können. Dazu gehören:\n- Wissen über alltägliche KI-Anwendungen, zentrale Begriffe und Funktionsweisen generativer KI (etwa Training, Sprachmodell, Prompt, Token) sowie ein Verständnis der Unterschiede zwischen menschlichem Verstehen und KI-Systemen.\n- Handlungsbezogen sollen Teilnehmer geeignete KI-Tools für spezifische Einsatzszenarien auswählen, grundlegende Prompting-Strategien anwenden und KI-Outputs kritisch auf Plausibilität und typische Fehlerphänomene wie Halluzinationen oder fehlenden Kontext prüfen können.",
+      "repaired": false
+    },
+    {
+      "id": 128,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Rechtliche Kompetenzen\nDer rechtliche Kompetenzbereich umfasst sowohl KI-spezifische Regelungen (insbesondere den EU AI Act / KI-Verordnung) als auch allgemeine Rechtsgrundlagen wie Urheberrecht, Datenschutz, Datensicherheit und institutionelle Vorgaben. Teilnehmer sollen diese Grundlagen benennen, ihre Bedeutung für den praktischen KI-Einsatz erläutern und die für die eigene Hochschule geltenden Regeln (z.B. erlaubte Tools, Kennzeichnungspflichten, Prüfungsrecht) kennen. Ziel ist, dass sie daraus konkrete Konsequenzen für ihr eigenes Handeln ableiten können, etwa welche Tools sie nutzen dürfen und wie KI-Einsatz transparent gemacht werden muss.",
+      "repaired": false
+    },
+    {
+      "id": 129,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Ethische Kompetenzen\nEthische Kompetenzen fokussieren eine verantwortungsvolle, selbstbestimmte und reflektierte Nutzung von KI, die technische, soziale und gesellschaftliche Dimensionen einbezieht. Dazu gehört das Bewusstsein für eigene Verantwortung, das Benennen relevanter ethischer Dimensionen (z.B. Fairness, Verantwortung, gute wissenschaftliche Praxis) sowie die Sensibilisierung für Ressourcenverbrauch und Nachhaltigkeit. Teilnehmer sollen verstehen, dass KI-Outputs von Stereotypen in Trainingsdaten und Entwicklungsentscheidungen geprägt sein können und soziale Auswirkungen wie Veränderungen von Berufsbildern, Up-/Deskilling oder neue Abhängigkeiten von Technologiekonzernen benennen können.",
+      "repaired": false
+    },
+    {
+      "id": 130,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Detaillierte Informationen: „Die KI-Verordnung der EU als Impuls für die Entwicklung von AI Literacy an Hochschulen“ der Deutschen Gesellschaft für Hochschuldidaktik (DGHD).",
+      "repaired": false
+    },
+    {
+      "id": 131,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "KI-Agenten sind Systeme oder Programme, die in der Lage sind, konkrete Handlungen auszuführen oder sogar eigenständig Entscheidungen zu treffen.",
+      "repaired": false
+    },
+    {
+      "id": 132,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Dazu zählen u.a. das Ausführen von Befehlen, das Lesen und Schreiben von Dateien oder das Beantworten von E-Mails.",
+      "repaired": false
+    },
+    {
+      "id": 133,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Der Nutzer erteilt dem KI-Agenten Berechtigungen, so dass das System autonom oder semiautonom agieren kann und die Aufgaben mit weniger direkter menschlicher Steuerung die Aufgaben erfüllt.",
+      "repaired": false
+    },
+    {
+      "id": 134,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Ein klassisches Beispiel ist ein KI-Agent, der per Sprachverarbeitung mit Menschen chatten kann, ihre Anweisungen versteht und entsprechend handelt, z.B. Terminplanung, das Suchen von Informationen oder das Führen von Gesprächen.",
+      "repaired": false
+    },
+    {
+      "id": 135,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Aktuelle KI-Agenten sind z.B. OpenClaw oder Moltbook.",
+      "repaired": false
+    },
+    {
+      "id": 136,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Der Einsatz von KI-Agenten ist jedoch nicht ohne Risiko, so sind sie z.B. anfällig für Prompt Injections, d.h. den Versuch, KI-Modelle durch kreative oder manipulative Eingabe-Prompts zu beeinflussen.",
+      "repaired": false
+    },
+    {
+      "id": 137,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Texte\n- Elicit | Literaturrecherche\n- Consensus | Literaturrecherche\n- Litmaps | Literaturrecherche\n- Perplexity | Literaturrecherche\n- Explainpaper | Textverständnis\n- SciSpace | Textverständnis\n- Aomni | Textverständnis\n- Afforai | Textverständnis\n- Jenni | Textproduktion\n- YouChat | Textproduktion\n- Neuroflash | Textproduktion\n- Alpa | Textproduktion\n- WriteSonic | Textproduktion\n- DeepL Write | Textoptimierung\n- DeepL | Textübersetzung",
+      "repaired": false
+    },
+    {
+      "id": 138,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Medien\n- Dall-E-2 | Bilderzeugung\n- Midjourney | Bilderzeugung\n- Leonardo.AI | Bilderzeugung\n- Firefly | Bilderzeugung\n- HeyGen | Videoerzeugung\n- Fliki | Videoerzeugung\n- Synthesia | Videoerzeugung\n- Kaiber | Animationen\n- Arena.AI | KI-Vergleich\n- AI Collection | Sammlung von KI-Tools",
+      "repaired": false
+    },
+    {
+      "id": 139,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Bing mit ChatGPT\nMicrosoft hat ChatGPT in seine Suchmaschine \"Bing\" integriert. Die Funktion kann unter Verwendung des Edge-Browsers genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 140,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "ChatGPT\nChatGPT ausprobieren: ChatGPT kann in einer freien Version getestet werden (Pro-Version gegen Bezahlung). Voraussetzung ist eine Registrierung.",
+      "repaired": false
+    },
+    {
+      "id": 141,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "OpenAI\nNeben ChatGPT bietet OpenAI weitere KI-Werkzeuge bzw. Produkte an, z.B. auch Tools zur Bilderzeugung oder 3D-Modellierung.",
+      "repaired": false
+    },
+    {
+      "id": 142,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Claude\nSprachmodell von Anthropic u.a. für Mathematik, Programmiercode und die Verarbeitung umfangreicher Texte.",
+      "repaired": false
+    },
+    {
+      "id": 143,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Gemini\nSprachmodell von Google ähnlich zu ChatGPT u.a. zur Produktion von Texten. Die Nutzung ist nach Anmeldung mit einem Google-Konto möglich.",
+      "repaired": false
+    },
+    {
+      "id": 144,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Consensus\nConsensus ist eine auf ChatGPT basierende KI zur Suche und Analyse wissenschaftlicher Studien und Forschungsergebnisse.",
+      "repaired": false
+    },
+    {
+      "id": 145,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die HAWKI-Schnittstelle ermöglicht Studierenden und Lehrenden der HSZG eine einfache technische Möglichkeit, auf generative KI-Systeme zuzugreifen, ohne sich selbst bei Anbietern registrieren zu müssen.",
+      "repaired": false
+    },
+    {
+      "id": 146,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Das HSZG-Login genügt, um u.a. ChatGPT nutzen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 147,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Somit können alle Mitglieder der HSZG generative KI testen und ihre KI-Kompetenzen erweitern.",
+      "repaired": false
+    },
+    {
+      "id": 148,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Weitere Informationen, u.a. zu den Nutzungsvoraussetzungen, finden Sie unter „Details zur HAWKI-Schnittstelle“.",
+      "repaired": false
+    },
+    {
+      "id": 149,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Eingaben (Prompts) an die HAWKI-Schnittstelle werden über eine API (Application Programming Interface) an OpenAI übermittelt, wodurch keine direkte Zuordnung zu einzelnen Nutzern möglich ist.",
+      "repaired": false
+    },
+    {
+      "id": 150,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Chatinhalte werden auch nicht als Trainingsdaten für das Large Language Model (LLM) verwendet.",
+      "repaired": false
+    },
+    {
+      "id": 151,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hinweis: Es ist auch möglich, den HAWKI-Zugang an der HSZG zu nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 152,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "\"Academic Cloud\"\nAlternativ zu den kommerziellen Anbietern kann auf freie Sprachmodelle über das Portal der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG-LLM-Service) zugegriffen werden (\"Academic Cloud\"). Zur Verfügung stehen u.a. \"Meta LLaMA\", \"DeepSeek\".",
+      "repaired": false
+    },
+    {
+      "id": 153,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Inzwischen gibt es die Möglichkeit, auch lokale KI-Anwendungen (LLMs, Large Language Models) zu nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 154,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Dafür wird ein Programm mit einem KI-Modell lokal auf einem PC ausgeführt.",
+      "repaired": false
+    },
+    {
+      "id": 155,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Alle eingegebenen Daten verbleiben auf dem lokalen PC, ein Vorteil in Bezug auf den Datenschutz.",
+      "repaired": false
+    },
+    {
+      "id": 156,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Hinweis: Für die Ausführung lokaler KI-Anwendungen ist eine aktuelle und leistungsstarke Prozessor-Hardware (idealerweise ein Prozessor mit einer NPU) und eine dedizierte Grafikkarte erforderlich.",
+      "repaired": false
+    },
+    {
+      "id": 157,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Je mehr Arbeitsspeicher die Grafikkarte (VRAM) verfügt, desto leistungsstärkere KI-Modelle können ausgeführt werden (selbst für kleinere KI-Modelle sind mind. 10GB VRAM erforderlich, Grundsatz: je mehr VRAM, desto besser).",
+      "repaired": false
+    },
+    {
+      "id": 158,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "- LM-Studio: https://lmstudio.ai/\n- AnythingLLM (Desktop): https://anythingllm.com/\n- GPT4All: https://www.nomic.ai/gpt4all/\n- Msty: https://msty.app/\n- Pinokio: https://pinokio.co/",
+      "repaired": false
+    },
+    {
+      "id": 159,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Übersicht zu den aktuellen KI-Modellen, die auch lokal ausgeführt werden können: https://huggingface.co",
+      "repaired": false
+    },
+    {
+      "id": 160,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Aktuelle Fortbildungsangebote zum Thema KI\n\nKI-Campus\nDer KI-Campus stellt eine Vielzahl von Selbstlerneinheiten zum Thema KI zur Verfügung. Die Angebote sind kostenlos nutzbar (Stand Mai 2023). Eine Registrierung via E-Mail genügt, um auf die Online-Module zugreifen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 161,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Tipp: Das Lernangebot „Sprachassistenzen als Chance für die Hochschullehre“ gibt einen Einstieg in das Thema ChatGPT.",
+      "repaired": false
+    },
+    {
+      "id": 162,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Hochschuldidaktik Sachsen\nDie Hochschuldidaktik Sachsen bietet in ihrem Portfolio ein reichhaltiges Kursprogramm zum Thema „KI in der Hochschullehre“.",
+      "repaired": false
+    },
+    {
+      "id": 163,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "was ist ki?",
+      "repaired": true
+    },
+    {
+      "id": 164,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "einsatz von ki",
+      "repaired": true
+    },
+    {
+      "id": 165,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "grenzen von ki",
+      "repaired": true
+    },
+    {
+      "id": 166,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ki in der lehre",
+      "repaired": true
+    },
+    {
+      "id": 167,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "reasoning ki & didaktik",
+      "repaired": true
+    },
+    {
+      "id": 168,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "ki-verordnung",
+      "repaired": true
+    },
+    {
+      "id": 169,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "ki-kompetenzen",
+      "repaired": true
+    },
+    {
+      "id": 170,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ki-agenten",
+      "repaired": true
+    },
+    {
+      "id": 171,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ki-tools",
+      "repaired": true
+    },
+    {
+      "id": 172,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "lokale ki-anwendungen",
+      "repaired": true
+    },
+    {
+      "id": 173,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "fortbildungsangebote",
+      "repaired": true
+    },
+    {
+      "id": 174,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "was ist chatgpt und wie funktioniert es? - und welche ähnlichen tools gibt es?",
+      "repaired": true
+    },
+    {
+      "id": 175,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "allgemeiner einstieg in das thema: vortrag von fr. prof. weßels (fh kiel) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)",
+      "repaired": true
+    },
+    {
+      "id": 176,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "chatgpt für nicht-informatiker*innen technischer einstieg in das thema: vortrag von hrn. dr. arnold (tu darmstadt) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)",
+      "repaired": true
+    },
+    {
+      "id": 177,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "wozu sind wir hier? eine wertebasierte reflexion und diskussion zu #chatgpt in #forschung und #lehre ethischer einstieg in das thema: vortrag von fr. prof. reinmann (universität hamburg) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)",
+      "repaired": true
+    },
+    {
+      "id": 178,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "potenziale und anwendungsmöglichkeiten von ki-generatoren in hochschullehre praktischer & didaktischer einstieg in das thema: vortrag von hrn. prof. spannagel (ph heidelberg) im rahmen der reihe \"ki-generatoren in der hochschullehre\"",
+      "repaired": true
+    },
+    {
+      "id": 179,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "haftungsund urheberrechtliche herausforderungen bei der verwendung von ki-generatoren rechtlicher einstieg in das thema: vortrag von fr. dr. horn (elan/souver@n) im rahmen der reihe \"ki-generatoren in der hochschullehre\"",
+      "repaired": true
+    },
+    {
+      "id": 180,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "examen mit oder trotz chatgpt? ideen für einen rechtssicheren prüfungskulturwandel prüfungsrechtlicher einstieg in das thema: vortrag von hrn. prof. heckmann (tu münchen) im rahmen der reihe \"ki-generatoren in der hochschullehre\"",
+      "repaired": true
+    },
+    {
+      "id": 181,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ki wie chatgpt kann von lehrenden wie studierenden für lehre und studium genutzt werden: ideensammlung:",
+      "repaired": true
+    },
+    {
+      "id": 182,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "e-assessment-aufgaben erstellen: \"ich benötige eine multiple-choice-aufgabe zum thema xyz. gib mir fragen mit jeweils antworten, von denen jeweils nur eine richtig ist.\"",
+      "repaired": true
+    },
+    {
+      "id": 183,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "prüfungsfragen erstellen: \"generiere mir prüfungsaufgaben zu folgendem text: [url einfügen].\"",
+      "repaired": true
+    },
+    {
+      "id": 184,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "übungsaufgaben generieren: \"die studierenden meiner lehrveranstaltung xyz sollen sich mit dem thema xyz auseinandersetzen. schlage mir drei aufgaben für studierende mit unterschiedlichem schwierigkeitsgrad vor (leicht, mittel, schwierig).\"",
+      "repaired": true
+    },
+    {
+      "id": 185,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "lösungen erklären lassen: \"bitte erkläre mir die folgende gleichung a^2+b^2=c^2.\"",
+      "repaired": true
+    },
+    {
+      "id": 186,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "gliederungen: \"wie könnte eine gliederung zu einer präsentation zum thema xy aussehen?\"",
+      "repaired": true
+    },
+    {
+      "id": 187,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "texte zusammenfassen und vereinfachen: \"was sind die kernaussagen des folgenden textes?\" oder \"schreibe eine zusammenfassung von goethes faust mit max. 1000 zeichen.\"",
+      "repaired": true
+    },
+    {
+      "id": 188,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "quellen zusammenfassen (webseiten): \"fasse den folgenden text in sätzen zusammen: [url einfügen].\"",
+      "repaired": true
+    },
+    {
+      "id": 189,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "python oder html schreiben: \"erstelle ein grundgerüst für eine standard html-seite\" oder \"schreibe den html-quellcode für eine webseite im 2-spaltigen design.\"",
+      "repaired": true
+    },
+    {
+      "id": 190,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "modul-/veranstaltungsbeschreibungen verfassen: \"formuliere mir eine modulbeschreibung zur vorlesung xyz.\"",
+      "repaired": true
+    },
+    {
+      "id": 191,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "eingaben (\"prompts\")",
+      "repaired": true
+    },
+    {
+      "id": 192,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "rechtliche fragen & kennzeichnungspflichten urheberschaft an ki-generierten texten:",
+      "repaired": true
+    },
+    {
+      "id": 193,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "kennzeichnungspflichten im akademischen kontext:",
+      "repaired": true
+    },
+    {
+      "id": 194,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "gute wissenschaftliche praxis/täuschungsversuche:",
+      "repaired": true
+    },
+    {
+      "id": 195,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "einsatzmöglichkeiten für lehrende anregungen für die gestaltung der eigenen lehre",
+      "repaired": true
+    },
+    {
+      "id": 196,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "einsatzmöglichkeiten für studierende",
+      "repaired": true
+    },
+    {
+      "id": 197,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "ki & wissenschaftliches arbeiten - hinweise zum umgang mit auf ki-tools beim verfassen wissenschaftlicher arbeiten",
+      "repaired": true
+    },
+    {
+      "id": 198,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "zugang zu hawki: https://hawki.hszg.de hawki via ki-campus über die plattform des ki-campus ist eine datenschutzkonforme nutzung u.a. von chatgpt möglich. erforderlich ist eine registrierung mit einer e-mail-adresse.",
+      "repaired": true
+    },
+    {
+      "id": 199,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "tipp: hinweise der hochschulbibliothek - \"literaturrecherche mit ki\"",
+      "repaired": true
+    },
+    {
+      "id": 200,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "linksammlung des hochschulforums digitalisierung \"chatgpt im hochschulkontext\": https://hochschulforumdigitalisierung.de/de/blog/chatgptimhochschulkontext-%e2%80%93-einekommentiertelinksammlung",
+      "repaired": true
+    },
+    {
+      "id": 201,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "dghd-themenreihe ki in der hochschullehre: www.dghd.de/praxis/veranstaltungskalender/dghdthemenreihekiinderhochschullehre/",
+      "repaired": true
+    },
+    {
+      "id": 202,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "dossier generative ki (hochschulforum digitalisierung): https://hochschulforumdigitalisierung.de/de/dossiers/generativeki",
+      "repaired": true
+    },
+    {
+      "id": 203,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "fakten, fakes und fiktion. die wahre herausforderung nach corona (prof. dr. weßels | fh kiel): https://hochschulforumdigitalisierung.de/de/blog/faktenfakesundfiktiondiewahreherausforderungnachcorona",
+      "repaired": true
+    },
+    {
+      "id": 204,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "chatgpt: five priorities for research (eva a. m. van dis, johan bollen, willem zuidema, robert van rooij & claudi l. bockting): https://www.nature.com/articles/d41586-023-00288-7",
+      "repaired": true
+    },
+    {
+      "id": 205,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "chatgpt news, ratgeber und tipps bei heise online: https://www.heise.de/thema/chatgpt",
+      "repaired": true
+    },
+    {
+      "id": 206,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "rechtsgutachten zu chatgpt & co: didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung",
+      "repaired": true
+    },
+    {
+      "id": 207,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "stellungnahme des deutschen ethikrates zum thema künstliche intelligenz (pdf): \"mensch und maschine - herausforderungen durch künstliche intelligenz\"",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 207,
+    "matched": 176,
+    "unmatched_count": 31,
+    "unmatched": [
+      {
+        "id": 14,
+        "B": "B6",
+        "matched_words": "0/19",
+        "text": "\"Individualisiertes Feedback: Ich habe einen Python-Code geschrieben für XYZ, leider funktioniert der Code aber nicht. Wo ist der Fehler?\""
+      },
+      {
+        "id": 15,
+        "B": "B6",
+        "matched_words": "0/19",
+        "text": "\"Entwürfe für Feedback: Beurteile die Korrektheit und Vollständigkeit der Antwort (Antwort muss zuerst eingegeben werden) auf die folgende Klausurfrage.\""
+      },
+      {
+        "id": 17,
+        "B": "B6",
+        "matched_words": "0/22",
+        "text": "\"E-Assessment-Aufgaben erstellen: Ich benötige eine Multiple-Choice-Aufgabe zum Thema XYZ. Gib mir 5 Fragen mit jeweils 4 Antworten, von denen jeweils nur eine richtig ist.\""
+      },
+      {
+        "id": 18,
+        "B": "B6",
+        "matched_words": "0/10",
+        "text": "\"Prüfungsfragen erstellen: Generiere mir 5 Prüfungsaufgaben zu folgendem Text: [URL einfügen].\""
+      },
+      {
+        "id": 19,
+        "B": "B6",
+        "matched_words": "0/27",
+        "text": "\"Übungsaufgaben generieren: Die Studierenden meiner Lehrveranstaltung XYZ sollen sich mit dem Thema XYZ auseinandersetzen. Schlage mir drei Aufgaben für Studierende mit unterschiedlichem Schwierigkeitsgrad vor (leicht, mittel, schwierig).\""
+      },
+      {
+        "id": 20,
+        "B": "B6",
+        "matched_words": "0/10",
+        "text": "\"Lösungen erklären lassen: Bitte erkläre mir die folgende Gleichung a^2+b^2=c^2.\""
+      },
+      {
+        "id": 21,
+        "B": "B6",
+        "matched_words": "0/12",
+        "text": "\"Gliederungen: Wie könnte eine Gliederung zu einer Präsentation zum Thema xy aussehen?\""
+      },
+      {
+        "id": 22,
+        "B": "B6",
+        "matched_words": "0/11",
+        "text": "\"Texte zusammenfassen und vereinfachen: Was sind die Kernaussagen des folgenden Textes?\""
+      },
+      {
+        "id": 23,
+        "B": "B6",
+        "matched_words": "0/11",
+        "text": "\"oder Schreibe eine Zusammenfassung von Goethes Faust mit max. 1000 Zeichen.\""
+      },
+      {
+        "id": 24,
+        "B": "B6",
+        "matched_words": "0/12",
+        "text": "\"Quellen zusammenfassen (Webseiten): Fasse den folgenden Text in 5 Sätzen zusammen: [URL einfügen].\""
+      },
+      {
+        "id": 25,
+        "B": "B6",
+        "matched_words": "0/11",
+        "text": "\"Python oder HTML schreiben: Erstelle ein Grundgerüst für eine Standard HTML-Seite\""
+      },
+      {
+        "id": 26,
+        "B": "B6",
+        "matched_words": "0/10",
+        "text": "\"oder Schreibe den HTML-Quellcode für eine Webseite im 2-spaltigen Design.\""
+      },
+      {
+        "id": 27,
+        "B": "B6",
+        "matched_words": "0/9",
+        "text": "\"Modul-/Veranstaltungsbeschreibungen verfassen: Formuliere mir eine Modulbeschreibung zur Vorlesung XYZ.\""
+      },
+      {
+        "id": 168,
+        "B": "B8",
+        "matched_words": "0/1",
+        "text": "ki-verordnung"
+      },
+      {
+        "id": 169,
+        "B": "B11",
+        "matched_words": "0/1",
+        "text": "ki-kompetenzen"
+      },
+      {
+        "id": 170,
+        "B": "B6",
+        "matched_words": "0/1",
+        "text": "ki-agenten"
+      },
+      {
+        "id": 171,
+        "B": "B6",
+        "matched_words": "0/1",
+        "text": "ki-tools"
+      },
+      {
+        "id": 172,
+        "B": "B6",
+        "matched_words": "1/2",
+        "text": "lokale ki-anwendungen"
+      },
+      {
+        "id": 175,
+        "B": "B11",
+        "matched_words": "15/21",
+        "text": "allgemeiner einstieg in das thema: vortrag von fr. prof. weßels (fh kiel) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)"
+      },
+      {
+        "id": 176,
+        "B": "B11",
+        "matched_words": "2/24",
+        "text": "chatgpt für nicht-informatiker*innen technischer einstieg in das thema: vortrag von hrn. dr. arnold (tu darmstadt) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)"
+      },
+      {
+        "id": 177,
+        "B": "B5",
+        "matched_words": "30/36",
+        "text": "wozu sind wir hier? eine wertebasierte reflexion und diskussion zu #chatgpt in #forschung und #lehre ethischer einstieg in das thema: vortrag von fr. prof. reinmann (universität hamburg) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video)"
+      },
+      {
+        "id": 178,
+        "B": "B6",
+        "matched_words": "4/29",
+        "text": "potenziale und anwendungsmöglichkeiten von ki-generatoren in hochschullehre praktischer & didaktischer einstieg in das thema: vortrag von hrn. prof. spannagel (ph heidelberg) im rahmen der reihe \"ki-generatoren in der hochschullehre\""
+      },
+      {
+        "id": 179,
+        "B": "B7",
+        "matched_words": "7/27",
+        "text": "haftungsund urheberrechtliche herausforderungen bei der verwendung von ki-generatoren rechtlicher einstieg in das thema: vortrag von fr. dr. horn (elan/souver@n) im rahmen der reihe \"ki-generatoren in der hochschullehre\""
+      },
+      {
+        "id": 180,
+        "B": "B8",
+        "matched_words": "26/30",
+        "text": "examen mit oder trotz chatgpt? ideen für einen rechtssicheren prüfungskulturwandel prüfungsrechtlicher einstieg in das thema: vortrag von hrn. prof. heckmann (tu münchen) im rahmen der reihe \"ki-generatoren in der hochschullehre\""
+      },
+      {
+        "id": 182,
+        "B": "B6",
+        "matched_words": "0/22",
+        "text": "e-assessment-aufgaben erstellen: \"ich benötige eine multiple-choice-aufgabe zum thema xyz. gib mir fragen mit jeweils antworten, von denen jeweils nur eine richtig ist.\""
+      },
+      {
+        "id": 189,
+        "B": "B6",
+        "matched_words": "10/21",
+        "text": "python oder html schreiben: \"erstelle ein grundgerüst für eine standard html-seite\" oder \"schreibe den html-quellcode für eine webseite im 2-spaltigen design.\""
+      },
+      {
+        "id": 192,
+        "B": "B7",
+        "matched_words": "6/8",
+        "text": "rechtliche fragen & kennzeichnungspflichten urheberschaft an ki-generierten texten:"
+      },
+      {
+        "id": 197,
+        "B": "B10",
+        "matched_words": "10/15",
+        "text": "ki & wissenschaftliches arbeiten - hinweise zum umgang mit auf ki-tools beim verfassen wissenschaftlicher arbeiten"
+      },
+      {
+        "id": 198,
+        "B": "B8",
+        "matched_words": "6/27",
+        "text": "zugang zu hawki: https://hawki.hszg.de hawki via ki-campus über die plattform des ki-campus ist eine datenschutzkonforme nutzung u.a. von chatgpt möglich. erforderlich ist eine registrierung mit einer e-mail-adresse."
+      },
+      {
+        "id": 201,
+        "B": "B11",
+        "matched_words": "1/6",
+        "text": "dghd-themenreihe ki in der hochschullehre: www.dghd.de/praxis/veranstaltungskalender/dghdthemenreihekiinderhochschullehre/"
+      },
+      {
+        "id": 206,
+        "B": "B7",
+        "matched_words": "10/15",
+        "text": "rechtsgutachten zu chatgpt & co: didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung"
+      }
+    ],
+    "source_coverage": 0.866,
+    "uncovered_chars": 3192,
+    "uncovered_gaps": 20,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 181,
+        "length": 181,
+        "text": "# hochschule zittau/görlitz # source: https://zfe.hszg.de/elearningtutorial/kiinderhochschullehre # date: none # category: guideline ki in der hochschullehre ki-richtlinie der hszg"
+      },
+      {
+        "char_start": 746,
+        "char_end": 788,
+        "length": 42,
+        "text": ". hinweise zur nutzung von ki-anwendungen"
+      },
+      {
+        "char_start": 1184,
+        "char_end": 1256,
+        "length": 72,
+        "text": "ki-verordnung ki-kompetenzen ki-agenten ki-tools lokale ki-anwendungen"
+      },
+      {
+        "char_start": 2004,
+        "char_end": 3345,
+        "length": 1341,
+        "text": "allgemeiner einstieg in das thema: vortrag von fr. prof. weßels (fh kiel) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video) chatgpt für nicht-informatiker*innen technischer einstieg in das thema: vortrag von hrn. dr. arnold (tu darmstadt) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video) wozu sind wir hier? eine wertebasierte reflexion und diskussion zu #chatgpt in #forschung und #lehre ethischer einstieg in das thema: vortrag von fr. prof. reinmann (universität hamburg) im rahmen der dghd-reihe \"ki in der hochschullehre\" (youtube-video) potenziale und anwendungsmöglichkeiten von ki-generatoren in hochschullehre praktischer & didaktischer einstieg in das thema: vortrag von hrn. prof. spannagel (ph heidelberg) im rahmen der reihe \"ki-generatoren in der hochschullehre\" haftungsund urheberrechtliche herausforderungen bei der verwendung von ki-generatoren rechtlicher einstieg in das thema: vortrag von fr. dr. horn (elan/souver@n) im rahmen der reihe \"ki-generatoren in der hochschullehre\" examen mit oder trotz chatgpt? ideen für einen rechtssicheren prüfungskulturwandel prüfungsrechtlicher einstieg in das thema: vortrag von hrn. prof. heckmann (tu münchen) im rahmen der reihe \"ki-generatoren in der hochschullehre\" übersicht zu chatgpt im kontext hochschullehre (pdf / universität hamburg)"
+      },
+      {
+        "char_start": 3510,
+        "char_end": 3554,
+        "length": 44,
+        "text": "vorschläge für aufgaben / wissensabfragen:"
+      },
+      {
+        "char_start": 3631,
+        "char_end": 3897,
+        "length": 266,
+        "text": ": \"ich habe einen python-code geschrieben für xyz, leider funktioniert der code aber nicht. wo ist der fehler?\" entwürfe für feedback: \"beurteile die korrektheit und vollständigkeit der antwort (antwort muss zuerst eingegeben werden) auf die folgende klausurfrage.\""
+      },
+      {
+        "char_start": 3951,
+        "char_end": 4122,
+        "length": 171,
+        "text": "e-assessment-aufgaben erstellen: \"ich benötige eine multiple-choice-aufgabe zum thema xyz. gib mir fragen mit jeweils antworten, von denen jeweils nur eine richtig ist.\""
+      },
+      {
+        "char_start": 4891,
+        "char_end": 5052,
+        "length": 161,
+        "text": "python oder html schreiben: \"erstelle ein grundgerüst für eine standard html-seite\" oder \"schreibe den html-quellcode für eine webseite im 2-spaltigen design.\""
+      },
+      {
+        "char_start": 6325,
+        "char_end": 6411,
+        "length": 86,
+        "text": ". rechtliche fragen & kennzeichnungspflichten urheberschaft an ki-generierten texten:"
+      },
+      {
+        "char_start": 7705,
+        "char_end": 7744,
+        "length": 39,
+        "text": ". einsatz von ki-tools durch lehrende:"
+      },
+      {
+        "char_start": 12372,
+        "char_end": 12450,
+        "length": 78,
+        "text": "quelle: übersicht zu chatgpt im kontext hochschullehre (universität hamburg)"
+      },
+      {
+        "char_start": 13110,
+        "char_end": 13139,
+        "length": 29,
+        "text": "individualisiertes feedback"
+      },
+      {
+        "char_start": 13704,
+        "char_end": 13821,
+        "length": 117,
+        "text": ". ki & wissenschaftliches arbeiten - hinweise zum umgang mit auf ki-tools beim verfassen wissenschaftlicher arbeiten"
+      },
+      {
+        "char_start": 19890,
+        "char_end": 19922,
+        "length": 32,
+        "text": ". ki-tools für lehre und lernen"
+      },
+      {
+        "char_start": 21421,
+        "char_end": 21434,
+        "length": 13,
+        "text": ". hawki.hszg"
+      },
+      {
+        "char_start": 21898,
+        "char_end": 22117,
+        "length": 219,
+        "text": ". zugang zu hawki: https://hawki.hszg.de hawki via ki-campus über die plattform des ki-campus ist eine datenschutzkonforme nutzung u.a. von chatgpt möglich. erforderlich ist eine registrierung mit einer e-mail-adresse."
+      },
+      {
+        "char_start": 22480,
+        "char_end": 22508,
+        "length": 28,
+        "text": ". zugang: chat.kicampus.org"
+      },
+      {
+        "char_start": 24310,
+        "char_end": 24333,
+        "length": 23,
+        "text": ". weiterführende links"
+      },
+      {
+        "char_start": 24595,
+        "char_end": 24719,
+        "length": 124,
+        "text": "dghd-themenreihe ki in der hochschullehre: www.dghd.de/praxis/veranstaltungskalender/dghdthemenreihekiinderhochschullehre/"
+      },
+      {
+        "char_start": 25304,
+        "char_end": 25430,
+        "length": 126,
+        "text": "rechtsgutachten zu chatgpt & co: didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 188,
+      "text": "# Hochschule Zittau/Görlitz\n# Source: https://zfe.hszg.de/e-learning-tutorial/ki-in-der-hochschullehre\n# Date: None\n# Category: guideline\n\nKI in der Hochschullehre\n\nKI-Richtlinie der HSZG\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 188,
+      "char_end": 267,
+      "text": "Die folgende Übersicht zu den KI-Anwendungen hat reinen informativen Charakter!",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 268,
+      "char_end": 391,
+      "text": "Bitte beachten Sie das Rundschreiben 2025/10 vom 01.09.2025 und den darin enthaltenen Hinweis zur \"KI-Richtlinie\" der HSZG.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 393,
+      "char_end": 579,
+      "text": "Mit der Verfügbarkeit von ChatGPT im November 2022 ist das Thema KI in der Allgemeinheit angekommen und inzwischen Teil der wissenschaftlichen, beruflichen und gesellschaftlichen Praxis.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 580,
+      "char_end": 755,
+      "text": "Bei ChatGPT handelt es sich um einen Assistenten, der auf der Basis eines zugrundeliegenden Sprachmodells Fragen und Anfragen beantworten und Informationen bereitstellen kann.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 755,
+      "char_end": 797,
+      "text": "\n\nHinweise zur Nutzung von KI-Anwendungen\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 797,
+      "char_end": 973,
+      "text": "Bitte beachten Sie, dass bei der Nutzung von KI-Anwendungen personenbezogene Daten wie z.B. Namen, E-Mail-Adressen, IP-Adressen durch die KI-Anbieter verarbeitet werden können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 974,
+      "char_end": 1111,
+      "text": "Auch von Ihnen in KI-Anwendungen eingegebene Informationen können von KI-Anbietern ausgewertet bzw. zum Training der KI verwendet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1113,
+      "char_end": 1124,
+      "text": "Was ist KI?",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 163,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1125,
+      "char_end": 1139,
+      "text": "Einsatz von KI",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 164,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1140,
+      "char_end": 1154,
+      "text": "Grenzen von KI",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 165,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1155,
+      "char_end": 1170,
+      "text": "KI in der Lehre",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 166,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1170,
+      "char_end": 1195,
+      "text": "\nReasoning\nKI & Didaktik\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1195,
+      "char_end": 1208,
+      "text": "KI-Verordnung",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 168,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1209,
+      "char_end": 1223,
+      "text": "KI-Kompetenzen",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 169,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1224,
+      "char_end": 1234,
+      "text": "KI-Agenten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 170,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1235,
+      "char_end": 1243,
+      "text": "KI-Tools",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 171,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1244,
+      "char_end": 1265,
+      "text": "Lokale KI-Anwendungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 172,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1266,
+      "char_end": 1286,
+      "text": "Fortbildungsangebote",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 173,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1288,
+      "char_end": 1476,
+      "text": "ChatGPT steht für „Generative Pre-trained Transformer“ und ist ein KI-Sprachmodell, das ähnlich wie ein neuronales Netzwerk funktioniert und auf die Generierung von Texten trainiert wurde.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1477,
+      "char_end": 1630,
+      "text": "Es handelt sich um einen textbasierten Chatbot, der mit Menschen interagieren kann und darauf trainiert ist, möglichst natürliche Sprache zu produzieren.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1631,
+      "char_end": 1738,
+      "text": "Anhand statistischer Wahrscheinlichkeiten wird das Auftreten von Wörtern in bestimmten Kontexten berechnet.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1739,
+      "char_end": 1851,
+      "text": "Mittels sog. \"Prompts\" (konkrete Fragen bzw. Fragestellungen an die KI), werden von ChatGPT Antworten generiert.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1852,
+      "char_end": 1937,
+      "text": "Über den Chat-Verlauf kann jederzeit auf den konkreten Kontext Bezug genommen werden.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1939,
+      "char_end": 2017,
+      "text": "Was ist ChatGPT und wie funktioniert es? – Und welche ähnlichen Tools gibt es?",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 174,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2018,
+      "char_end": 2159,
+      "text": "Allgemeiner Einstieg in das Thema: Vortrag von Fr. Prof. Weßels (FH Kiel) im Rahmen der dghd-Reihe \"KI in der Hochschullehre\" (Youtube-Video)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 175,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2159,
+      "char_end": 3472,
+      "text": "\n\nChatGPT für Nicht-Informatiker*innen\nTechnischer Einstieg in das Thema: Vortrag von Hrn. Dr. Arnold (TU Darmstadt) im Rahmen der dghd-Reihe \"KI in der Hochschullehre\" (Youtube-Video)\n\nWozu sind wir hier? Eine wertebasierte Reflexion und Diskussion zu #ChatGPT in #Forschung und #Lehre\nEthischer Einstieg in das Thema: Vortrag von Fr. Prof. Reinmann (Universität Hamburg) im Rahmen der dghd-Reihe \"KI in der Hochschullehre\" (Youtube-Video)\n\nPotenziale und Anwendungsmöglichkeiten von KI-Generatoren in Hochschullehre\nPraktischer & Didaktischer Einstieg in das Thema: Vortrag von Hrn. Prof. Spannagel (PH Heidelberg) im Rahmen der Reihe \"KI-Generatoren in der Hochschullehre\"\n\nHaftungs- und urheberrechtliche Herausforderungen bei der Verwendung von KI-Generatoren\nRechtlicher Einstieg in das Thema: Vortrag von Fr. Dr. Horn (ELAN/SOUVER@N) im Rahmen der Reihe \"KI-Generatoren in der Hochschullehre\"\n\nExamen mit oder trotz ChatGPT? Ideen für einen rechtssicheren Prüfungskulturwandel\nPrüfungsrechtlicher Einstieg in das Thema: Vortrag von Hrn. Prof. Heckmann (TU München) im Rahmen der Reihe \"KI-Generatoren in der Hochschullehre\"\n\nÜbersicht zu ChatGPT im Kontext Hochschullehre (PDF / Universität Hamburg)\n\nKI wie ChatGPT kann von Lehrenden wie Studierenden für Lehre und Studium genutzt werden:\n\nIdeensammlung:\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3472,
+      "char_end": 3535,
+      "text": "\"Gib mir 5 Ideen für ein studentisches Projekt im Bereich XYZ.\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3535,
+      "char_end": 3580,
+      "text": "\n\nVorschläge für Aufgaben / Wissensabfragen:\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3580,
+      "char_end": 3629,
+      "text": "\"Formuliere drei Aufgaben zu dem folgenden Text.\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3629,
+      "char_end": 3925,
+      "text": "\n\nIndividualisiertes Feedback:\n\"Ich habe einen Python-Code geschrieben für XYZ, leider funktioniert der Code aber nicht. Wo ist der Fehler?\"\n\nEntwürfe für Feedback:\n\"Beurteile die Korrektheit und Vollständigkeit der Antwort (Antwort muss zuerst eingegeben werden) auf die folgende Klausurfrage.\"\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3925,
+      "char_end": 3979,
+      "text": "\"Bewerte den Text und achte dabei insbesondere auf...\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3979,
+      "char_end": 4666,
+      "text": "\n\nE-Assessment-Aufgaben erstellen:\n\"Ich benötige eine Multiple-Choice-Aufgabe zum Thema XYZ. Gib mir 5 Fragen mit jeweils 4 Antworten, von denen jeweils nur eine richtig ist.\"\n\nPrüfungsfragen erstellen:\n\"Generiere mir 5 Prüfungsaufgaben zu folgendem Text: [URL einfügen].\"\n\nÜbungsaufgaben generieren:\n\"Die Studierenden meiner Lehrveranstaltung XYZ sollen sich mit dem Thema XYZ auseinandersetzen. Schlage mir drei Aufgaben für Studierende mit unterschiedlichem Schwierigkeitsgrad vor (leicht, mittel, schwierig).\"\n\nLösungen erklären lassen:\n\"Bitte erkläre mir die folgende Gleichung a^2+b^2=c^2.\"\n\nGliederungen:\n\"Wie könnte eine Gliederung zu einer Präsentation zum Thema xy aussehen?\"\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4666,
+      "char_end": 4832,
+      "text": "Texte zusammenfassen und vereinfachen:\n\"Was sind die Kernaussagen des folgenden Textes?\"\noder\n\"Schreibe eine Zusammenfassung von Goethes Faust mit max. 1000 Zeichen.\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 187,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4834,
+      "char_end": 4934,
+      "text": "Quellen zusammenfassen (Webseiten):\n\"Fasse den folgenden Text in 5 Sätzen zusammen: [URL einfügen].\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 188,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4934,
+      "char_end": 5097,
+      "text": "\n\nPython oder HTML schreiben:\n\"Erstelle ein Grundgerüst für eine Standard HTML-Seite\"\noder\n\"Schreibe den HTML-Quellcode für eine Webseite im 2-spaltigen Design.\"\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5097,
+      "char_end": 5202,
+      "text": "Modul-/Veranstaltungsbeschreibungen verfassen:\n\"Formuliere mir eine Modulbeschreibung zur Vorlesung XYZ.\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 190,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5204,
+      "char_end": 5224,
+      "text": "Eingaben (\"Prompts\")",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 191,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5225,
+      "char_end": 5347,
+      "text": "Dokumentation für Prompts in KI-Anwendungen wie ChatGPT (in englischer Sprache):\nAlan D. Thompson: The ChatGPT Prompt Book",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5349,
+      "char_end": 5548,
+      "text": "Beispiele für den Einsatz von ChatGPT von Andrew Herft (deutsche Übersetzung von Alexander König):\n\"A Teacher's Prompt Guide to ChatGPT\" (EN) / \"Leitfaden für Lehrkräfte zur Nutzung von ChatGPT\" (DE)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5550,
+      "char_end": 5621,
+      "text": "\"Offener Prompt-Katalog\" des KI-Campus (Hochschulforum Digitalisierung)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5623,
+      "char_end": 5776,
+      "text": "KI-Anwendungen wie ChatGPT verwendet z.T. veraltete oder nicht-wissenschaftliche Quellen, was zu unvollständigen oder fehlerhaften Antworten führen kann.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5777,
+      "char_end": 5912,
+      "text": "Es besteht auch die Möglichkeit, dass relevante wissenschaftliche Studien, die nicht frei zugänglich sind, nicht berücksichtigt werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5914,
+      "char_end": 6031,
+      "text": "KI-Anwendungen wie ChatGPT können Fehlinformationen generieren, insbesondere in Bezug auf wissenschaftliche Konzepte.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6032,
+      "char_end": 6160,
+      "text": "Dies kann zu Fehlvorstellungen bei Studierenden führen, z.B. wenn es um inhaltliche Feinheiten oder komplexe Zusammenhänge geht.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6162,
+      "char_end": 6329,
+      "text": "Es ist unklar, ob KI-Anwendungen wie ChatGPT möglicherweise Urheberrechte verletzt, wenn es auf geschützte Materialien zugreift und diese in seinen Ausgaben verwendet.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6329,
+      "char_end": 6464,
+      "text": " Zur Vertiefung:\nRechtsgutachten zu ChatGPT & Co.\n\nRechtliche Fragen & Kennzeichnungspflichten\nUrheberschaft an KI-generierten Texten:\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6464,
+      "char_end": 6592,
+      "text": "KI-gestützte Programme sind keine Autoren/Urheber der von ihnen erzeugten Texte im Sinne des Urheberrechtsschutzgesetzes (UrhG).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6593,
+      "char_end": 6818,
+      "text": "Verwenden Nutzer KI-Tools als Hilfsmittel für ihre eigene gestalterische Tätigkeit, dann können diese die Urheberschaft an den erzeugten Texten beanspruchen (ein signifikanter Anteil an geistiger Eigenleistung vorausgesetzt).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6820,
+      "char_end": 6868,
+      "text": "Kennzeichnungspflichten im akademischen Kontext:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 193,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6869,
+      "char_end": 7139,
+      "text": "Abhängig von den jeweils geltenden Prüfungsordnungen bzw. Nutzungsbedingungen einer Software kann sich eine Kennzeichnungspflicht für KI-generierte Inhalte im akademischen Kontext ergeben (ein Beispiel für eine Erklärung findet sich beim Hochschulforum Digitalisierung).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7141,
+      "char_end": 7190,
+      "text": "Gute wissenschaftliche Praxis/Täuschungsversuche:",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 194,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7191,
+      "char_end": 7346,
+      "text": "Die gekennzeichnete Übernahme von KI-generierten Inhalten stellt in der Regel keinen formalen Verstoß gegen die Regeln guter wissenschaftlicher Praxis dar.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7347,
+      "char_end": 7572,
+      "text": "Bei der Verwendung ungekennzeichneter Inhalte kommt es darauf an, wie der generelle Umgang mit Hilfsmitteln und Quellen geregelt ist (z.B. ob eine ungekennzeichnete Übernahme als Verstoß bzw. Täuschungsversuch zu werten ist).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7573,
+      "char_end": 7761,
+      "text": "Alternativ kann die Verwendung von KI-Werkzeugen auch erlaubt sein (z.B. über Eigenständigkeitserklärungen), in diesem Fall ist nicht von einem wissenschaftlichen Fehlverhalten auszugehen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7761,
+      "char_end": 7800,
+      "text": "\n\nEinsatz von KI-Tools durch Lehrende:\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7800,
+      "char_end": 7980,
+      "text": "1) Prüfungsrecht: Bei einer Bewertung können KI-Tools nur als Hilfsmittel verwendet werden, da eine Bewertung durch den Prüfer selbst und nicht durch eine Software zu erfolgen hat.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7981,
+      "char_end": 8214,
+      "text": "2) Urheberrecht: Prüfungsleistungen sind urheberrechtlich geschützt. Eine Eingabe in eine KI-Anwendung ist mindestens dann nicht zulässig, wenn die KI die eingegebenen Daten zu Trainingszwecken weiterverwendet oder anderweitig nutzt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8216,
+      "char_end": 8395,
+      "text": "Quelle: Weitere Hinweise können dem Rechtsgutachten zu ChatGPT & Co „Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung“ entnommen werden.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8397,
+      "char_end": 8544,
+      "text": "Ziel beim Einsatz von KI-Anwendungen wie ChatGPT in Lehre und Studium sollte ein offenes Thematisieren von KI-Tools für das Lehren und Lernen sein.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8545,
+      "char_end": 8681,
+      "text": "Ziel ist eine verantwortungsvolle und gewinnbringende Verwendung und das Aufzeigen von Möglichkeiten und Grenzen KI-generierter Inhalte.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8682,
+      "char_end": 8745,
+      "text": "Studierenden sollten sich über folgende Aspekte im Klaren sein:",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8747,
+      "char_end": 9019,
+      "text": "- Funktionsweise von KI-Anwendungen wie ChatGPT: Die Studierenden sollten verstehen, wie KI funktioniert, woher die Daten stammen und sich der Möglichkeiten und Grenzen bewusst sein. Zum Beispiel, dass KI-Anwendungen wie ChatGPT keine (verlässlichen) Quellen angeben kann.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9020,
+      "char_end": 9257,
+      "text": "- Verwendung von KI-Anwendungen wie ChatGPT in Einklang mit akademischen Werten und Normen: Es ist ratsam, mit den Studierenden über wissenschaftliche Standards wie Objektivität und Quellenangaben im Zusammenhang mit ChatGPT zu sprechen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9258,
+      "char_end": 9474,
+      "text": "- Datenqualität: Studierenden muss verdeutlicht werden, dass von einer KI generierte Informationen nicht ohne Prüfung übernommen werden dürfen. Fragen der Vertrauenswürdigkeit und Datenqualität sind zu thematisieren.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9475,
+      "char_end": 9613,
+      "text": "- Datenschutz: Die Studierenden sollten verstehen, wie ihre Daten bei der Nutzung von ChatGPT gesammelt, gespeichert und verwendet werden.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9614,
+      "char_end": 9944,
+      "text": "- KI als Lehr-Lerninstrument (KI als Assistent/Lernbegleiter): KI-Anwendungen wie ChatGPT können auch als Lern- und Lehrmethode in Lehrveranstaltungen integriert werden. Die Studierenden erarbeiten sich das Wissen anhand von KI-Technologien und werden vom Lehrenden im Prozess des Problemlösens unterstützt und fachlich begleitet.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9945,
+      "char_end": 10134,
+      "text": "- Leistungsüberprüfungen: Die klassische Textproduktion als Leistungsnachweis (z.B. in Form von Belegarbeiten, Hausarbeiten) ist aufgrund der KI-Funktionalitäten zukünftig weniger geeignet.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10135,
+      "char_end": 10216,
+      "text": "Die Erkennung von KI-generierten Texten erweist sich in der Praxis als schwierig.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10217,
+      "char_end": 10392,
+      "text": "Der Fokus sollte daher in Zukunft auf formativen und lernbegleitenden Leistungsnachweisen liegen, die nicht das fertige Endprodukt, sondern den Prozess dorthin zum Ziel haben.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10393,
+      "char_end": 10629,
+      "text": "- Regeln zum Umgang mit KI für das Ablegen der Prüfungsleistung: Lehrende sollten zu Beginn der Lehrveranstaltung transparent darlegen, inwieweit Studierende KI in der Lehrveranstaltung und ggf. in der Prüfungsleistung einsetzen dürfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10631,
+      "char_end": 10712,
+      "text": "Einsatzmöglichkeiten für Lehrende\nAnregungen für die Gestaltung der eigenen Lehre",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 195,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10714,
+      "char_end": 10781,
+      "text": "- Vorschläge für die Erstellung von Quiz-Fragen (Audience-Response)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10782,
+      "char_end": 10854,
+      "text": "- Ideen für die Erstellung von Argumenten für eine Pro-Contra-Diskussion",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10855,
+      "char_end": 10922,
+      "text": "- Impulse für Rollenspielszenarien auf der Basis vorgegebener Texte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10923,
+      "char_end": 10964,
+      "text": "- Erstellung individualisierten Materials",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10965,
+      "char_end": 11056,
+      "text": "- Vorschläge für Aufgabenstellungen für Studierende, je nach Leistungsniveau und Interessen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11057,
+      "char_end": 11147,
+      "text": "- Beantworten von Fragestellungen durch ChatGPT, die danach an Studierende gestellt werden",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11148,
+      "char_end": 11203,
+      "text": "- Codegenerierung bzw. Prüfen von selbsterstellten Code",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11204,
+      "char_end": 11295,
+      "text": "- Erstellung von Aufgaben (z.B. Multiple Choice) mit unterschiedlichen Schwierigkeitsgraden",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11296,
+      "char_end": 11351,
+      "text": "- Nutzung bestehender Inhalte für neue Material-Formate",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11352,
+      "char_end": 11408,
+      "text": "- Skripte für Podcasts oder Erklärvideos für Studierende",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11409,
+      "char_end": 11468,
+      "text": "- Fälle oder Beispiele zur Nutzung in Vorlesungen/Seminaren",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11469,
+      "char_end": 11525,
+      "text": "- Formulieren von Fragestellung anhand vorhandener Texte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11526,
+      "char_end": 11628,
+      "text": "- Erstellen von Zusammenfassungen eigener Texte, z.B. um zu prüfen, ob die Kernaussagen erkennbar sind",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11629,
+      "char_end": 11677,
+      "text": "- Optimieren von Instruktionen, Übersichten etc.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11678,
+      "char_end": 11712,
+      "text": "- Formulierung von Lehr-Lernzielen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11713,
+      "char_end": 11759,
+      "text": "- Anleitungen für die Bearbeitung von Aufgaben",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11760,
+      "char_end": 11812,
+      "text": "- Prüfen der Verständlichkeit von Aufgabenstellungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11813,
+      "char_end": 11847,
+      "text": "- Erstellen standardisierter Texte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11848,
+      "char_end": 11911,
+      "text": "- Veranstaltungsbeschreibungen zur Orientierung für Studierende",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11912,
+      "char_end": 12004,
+      "text": "- Nachrichten an Studierende (z.B. Erinnerung an Abgabetermine, Begrüßung zur Veranstaltung)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12005,
+      "char_end": 12055,
+      "text": "- Anleitungen zum Verfassen schriftlicher Arbeiten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12056,
+      "char_end": 12113,
+      "text": "- Bedienungsanleitungen bzgl. verwendeter digitaler Tools",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12114,
+      "char_end": 12144,
+      "text": "- Bewertung von Prüfungsfragen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12145,
+      "char_end": 12233,
+      "text": "- Prüfung der Formulierung von Prüfungsfragen hinsichtlich Verständlichkeit und Ergebnis",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12234,
+      "char_end": 12276,
+      "text": "- Generieren von Testfragen zu einem Thema",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12277,
+      "char_end": 12312,
+      "text": "- Diskussion über Ergebnisse aus KI",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12313,
+      "char_end": 12425,
+      "text": "- Ergebnisse durch die KI generieren und von Studierenden bewerten und einordnen lassen (z.B. auch in Prüfungen)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12426,
+      "char_end": 12505,
+      "text": "- Förderung kritischen Denkens durch kritisches Hinterfragen von KI-Ergebnissen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12505,
+      "char_end": 12585,
+      "text": "\n\nQuelle: Übersicht zu ChatGPT im Kontext HochschulLehre (Universität Hamburg)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12585,
+      "char_end": 12621,
+      "text": "Einsatzmöglichkeiten für Studierende",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 196,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12623,
+      "char_end": 12656,
+      "text": "- Unterstützung im Schreibprozess",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12658,
+      "char_end": 12682,
+      "text": "- Schreibblockaden lösen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12684,
+      "char_end": 12716,
+      "text": "- Literatur/Quellen durchforsten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12718,
+      "char_end": 12787,
+      "text": "- eigene Texte zusammenfassen (z.B. sind die Kernaussagen enthalten?)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12789,
+      "char_end": 12862,
+      "text": "- Kritisches Hinterfragen von Texten (Argumentationsstruktur analysieren)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12864,
+      "char_end": 12968,
+      "text": "- \"Critical Friend\" - den eigenen Text mit von ChatGPT definierten Bewertungskriterien beurteilen lassen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12970,
+      "char_end": 13021,
+      "text": "- Verbessern der Textqualität (Grammatik, Ausdruck)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13022,
+      "char_end": 13040,
+      "text": "- Ideen generieren",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13042,
+      "char_end": 13119,
+      "text": "- Inspirationen einholen (z.B. Fragestellungen für ein Thema ausgeben lassen)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13121,
+      "char_end": 13184,
+      "text": "- Generieren von Code (als Grundlage für die Weiterentwicklung)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13185,
+      "char_end": 13223,
+      "text": "- Auseinandersetzung mit dem Lernstoff",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13225,
+      "char_end": 13279,
+      "text": "- Kritisches Hinterfragen von Fragestellungen / Texten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13281,
+      "char_end": 13310,
+      "text": "- Individualisiertes Feedback",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13312,
+      "char_end": 13339,
+      "text": "- Unterstützung beim Lernen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13341,
+      "char_end": 13393,
+      "text": "- Eigene Texte und KI generierte Inhalte vergleichen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13395,
+      "char_end": 13433,
+      "text": "- Finden von Fehlern in eigenen Texten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13435,
+      "char_end": 13471,
+      "text": "- Gemeinsames Diskutieren über Texte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13473,
+      "char_end": 13525,
+      "text": "- Lösungen erklären lassen (z.B. Mathematikaufgaben)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13527,
+      "char_end": 13596,
+      "text": "- Individualisierte Lernmaterialien erstellen (z.B. eigene Lernpfade)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13597,
+      "char_end": 13639,
+      "text": "- Wissenschaftliches Arbeiten / Recherchen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13641,
+      "char_end": 13705,
+      "text": "- Erstellen / Zusammenstellen von Suchbegriffe für die Recherche",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13707,
+      "char_end": 13751,
+      "text": "- Erstellen von Zusammenfassungen von Texten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13753,
+      "char_end": 13904,
+      "text": "Weitere Hinweise zur Verwendung von KI im Rahmen der Literaturrecherche finden Sie auf den Seiten der Hochschulbibliothek: \"Literaturrecherche mit KI\".",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 108,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13906,
+      "char_end": 14020,
+      "text": "KI & Wissenschaftliches Arbeiten - Hinweise zum Umgang mit auf KI-Tools beim Verfassen wissenschaftlicher Arbeiten",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 197,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14021,
+      "char_end": 14193,
+      "text": "Die neue Generation von Sprachmodellen richtet sich gezielt an die Bearbeitung komplexer Aufgaben. Dafür werden von der KI Schritt für Schritt Lösungsstrategien erarbeitet.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14194,
+      "char_end": 14340,
+      "text": "Sollte das Modell dabei nicht weiterkommen, d.h. in eine “Sackgasse” geraten, kehrt es zur Ausgangsfrage zurück und bearbeitet die Aufgabe erneut.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14341,
+      "char_end": 14419,
+      "text": "Mit diesem sog. \"Reasoning\" sollen Aufgaben noch genauer gelöst werden können.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14421,
+      "char_end": 14661,
+      "text": "Im Gegensatz zu dem bisherigen Ansatz, nach Eingabe eines Prompts das Ergebnis auszugeben (Frage-Antwort-Dialog), wird beim Reasoning-Ansatz ein Lösungsweg formuliert und Schritt für Schritt abgearbeitet (Grundlage: Reinforcement Learning).",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14663,
+      "char_end": 14822,
+      "text": "Reasoning-Modelle (Stand Mai 2025):\n- Ai2 OLMo 2 (USA)\n- Google Gemini (USA)\n- OpenAI ChatGPT o3 (USA)\n- Perplexity (USA)\n- DeepSeek R1 (China)\n- Qwen3 (China)",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14824,
+      "char_end": 15139,
+      "text": "Die Arbeitsgruppe Digitale Medien und Hochschuldidaktik der Deutschen Gesellschaft für Hochschuldidaktik (dghd) hat in Kooperation mit der Gesellschaft für Medien in der Wissenschaft (GMW) eine \"Didaktische Handreichung zur praktischen Nutzung von KI in der Lehre\" erarbeitet. Das Dokument wird fortlaufend ergänzt.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15141,
+      "char_end": 15379,
+      "text": "Folgende Themen werden aktuell behandelt:\n- Kompetenzen von Lehrenden und Studierenden für den Einsatz von KI\n- Einsatz generativer KI in der Lehre inkl. Use Cases und Beispiele\n- Einfluss der Verwendung generativer KI auf Prüfungsformate",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15381,
+      "char_end": 15520,
+      "text": "Im Jahr 2024 hat die Europäische Union eine Verordnung zum Thema KI erlassen. Darin wird u.a. der Umgang mit KI und deren Nutzung geregelt.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15521,
+      "char_end": 15595,
+      "text": "Auch für den KI-Einsatz an Hochschulen ergibt sich daraus Handlungsbedarf.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15597,
+      "char_end": 15776,
+      "text": "KI-Verordnung\nEmpfehlungen der ZKI e.V. (Zentren für Kommunikation und Informationsverarbeitung in Lehre und Forschung):\n- Handlungsempfehlungen (PDF)\n- Merkblatt für Nutzer (PDF)",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15778,
+      "char_end": 15883,
+      "text": "Rechtsgutachten (Ruhr-Universität Bochum): „Rechtsgutachten zur Bedeutung der europäischen KI-Verordnung“",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15885,
+      "char_end": 16040,
+      "text": "Weitere Informationen:\n- BSI-Broschüre zum Thema KI\n- Bundesbeauftragter für den Datenschutz und die Informationsfreiheit\n- Forschung und Lehre\n- KI-Campus",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16042,
+      "char_end": 16181,
+      "text": "Hinweis: Pflichtschulung\nIn OPAL steht der Selbstlernkurs „AI Act: Einführung und Sensibilisierung für Hochschulmitarbeiter“ zur Verfügung.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16182,
+      "char_end": 16315,
+      "text": "Bitte beachten Sie die im Rundschreiben 2025/05 (07.04.2025) hinterlegten Informationen zur Pflichtschulung für Mitarbeiter der HSZG.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16317,
+      "char_end": 16432,
+      "text": "WICHTIG: Zum Erwerb des Zertifikats müssen Sie sich mit Ihrem HSZG-Login in OPAL anmelden und die Tests bearbeiten!",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16434,
+      "char_end": 16582,
+      "text": "Neben den rechtlichen Rahmenbedingungen sieht die KI-Verordnung auch grundlegenden KI-Kompetenzen als zentrale Voraussetzung für den Einsatz von KI.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16583,
+      "char_end": 16763,
+      "text": "Hochschulen haben damit einen klaren Auftrag, Lehrende und aber auch Studierende für einen rechtskonformen, didaktisch sinnvollen und reflektierten Einsatz von KI zu qualifizieren.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 125,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16765,
+      "char_end": 16977,
+      "text": "KI-Kompetenzen (AI Literacy) werden als Fähigkeit verstanden, Chancen und Risiken von KI zu erkennen, KI sachkundig zu nutzen und fundierte Entscheidungen unter Beachtung rechtlicher Rahmenbedingungen zu treffen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16979,
+      "char_end": 17674,
+      "text": "Technologische Basiskompetenzen\nTechnologische Kompetenzen bilden die Grundlage, um Funktionsweisen, Potenziale und Risiken von KI-Systemen einordnen und praktisch nutzen zu können. Dazu gehören:\n- Wissen über alltägliche KI-Anwendungen, zentrale Begriffe und Funktionsweisen generativer KI (etwa Training, Sprachmodell, Prompt, Token) sowie ein Verständnis der Unterschiede zwischen menschlichem Verstehen und KI-Systemen.\n- Handlungsbezogen sollen Teilnehmer geeignete KI-Tools für spezifische Einsatzszenarien auswählen, grundlegende Prompting-Strategien anwenden und KI-Outputs kritisch auf Plausibilität und typische Fehlerphänomene wie Halluzinationen oder fehlenden Kontext prüfen können.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17676,
+      "char_end": 18329,
+      "text": "Rechtliche Kompetenzen\nDer rechtliche Kompetenzbereich umfasst sowohl KI-spezifische Regelungen (insbesondere den EU AI Act / KI-Verordnung) als auch allgemeine Rechtsgrundlagen wie Urheberrecht, Datenschutz, Datensicherheit und institutionelle Vorgaben. Teilnehmer sollen diese Grundlagen benennen, ihre Bedeutung für den praktischen KI-Einsatz erläutern und die für die eigene Hochschule geltenden Regeln (z.B. erlaubte Tools, Kennzeichnungspflichten, Prüfungsrecht) kennen. Ziel ist, dass sie daraus konkrete Konsequenzen für ihr eigenes Handeln ableiten können, etwa welche Tools sie nutzen dürfen und wie KI-Einsatz transparent gemacht werden muss.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18331,
+      "char_end": 19036,
+      "text": "Ethische Kompetenzen\nEthische Kompetenzen fokussieren eine verantwortungsvolle, selbstbestimmte und reflektierte Nutzung von KI, die technische, soziale und gesellschaftliche Dimensionen einbezieht. Dazu gehört das Bewusstsein für eigene Verantwortung, das Benennen relevanter ethischer Dimensionen (z.B. Fairness, Verantwortung, gute wissenschaftliche Praxis) sowie die Sensibilisierung für Ressourcenverbrauch und Nachhaltigkeit. Teilnehmer sollen verstehen, dass KI-Outputs von Stereotypen in Trainingsdaten und Entwicklungsentscheidungen geprägt sein können und soziale Auswirkungen wie Veränderungen von Berufsbildern, Up-/Deskilling oder neue Abhängigkeiten von Technologiekonzernen benennen können.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 129,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19038,
+      "char_end": 19211,
+      "text": "Detaillierte Informationen: „Die KI-Verordnung der EU als Impuls für die Entwicklung von AI Literacy an Hochschulen“ der Deutschen Gesellschaft für Hochschuldidaktik (DGHD).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 130,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19213,
+      "char_end": 19357,
+      "text": "KI-Agenten sind Systeme oder Programme, die in der Lage sind, konkrete Handlungen auszuführen oder sogar eigenständig Entscheidungen zu treffen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 131,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19358,
+      "char_end": 19472,
+      "text": "Dazu zählen u.a. das Ausführen von Befehlen, das Lesen und Schreiben von Dateien oder das Beantworten von E-Mails.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 132,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19473,
+      "char_end": 19662,
+      "text": "Der Nutzer erteilt dem KI-Agenten Berechtigungen, so dass das System autonom oder semiautonom agieren kann und die Aufgaben mit weniger direkter menschlicher Steuerung die Aufgaben erfüllt.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 133,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19663,
+      "char_end": 19892,
+      "text": "Ein klassisches Beispiel ist ein KI-Agent, der per Sprachverarbeitung mit Menschen chatten kann, ihre Anweisungen versteht und entsprechend handelt, z.B. Terminplanung, das Suchen von Informationen oder das Führen von Gesprächen.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 134,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19894,
+      "char_end": 19947,
+      "text": "Aktuelle KI-Agenten sind z.B. OpenClaw oder Moltbook.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 135,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19949,
+      "char_end": 20149,
+      "text": "Der Einsatz von KI-Agenten ist jedoch nicht ohne Risiko, so sind sie z.B. anfällig für Prompt Injections, d.h. den Versuch, KI-Modelle durch kreative oder manipulative Eingabe-Prompts zu beeinflussen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 136,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20149,
+      "char_end": 20182,
+      "text": "\n\nKI-Tools für Lehre und Lernen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20182,
+      "char_end": 20625,
+      "text": "Texte\n- Elicit | Literaturrecherche\n- Consensus | Literaturrecherche\n- Litmaps | Literaturrecherche\n- Perplexity | Literaturrecherche\n- Explainpaper | Textverständnis\n- SciSpace | Textverständnis\n- Aomni | Textverständnis\n- Afforai | Textverständnis\n- Jenni | Textproduktion\n- YouChat | Textproduktion\n- Neuroflash | Textproduktion\n- Alpa | Textproduktion\n- WriteSonic | Textproduktion\n- DeepL Write | Textoptimierung\n- DeepL | Textübersetzung",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 137,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20627,
+      "char_end": 20914,
+      "text": "Medien\n- Dall-E-2 | Bilderzeugung\n- Midjourney | Bilderzeugung\n- Leonardo.AI | Bilderzeugung\n- Firefly | Bilderzeugung\n- HeyGen | Videoerzeugung\n- Fliki | Videoerzeugung\n- Synthesia | Videoerzeugung\n- Kaiber | Animationen\n- Arena.AI | KI-Vergleich\n- AI Collection | Sammlung von KI-Tools",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 138,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20916,
+      "char_end": 21064,
+      "text": "Bing mit ChatGPT\nMicrosoft hat ChatGPT in seine Suchmaschine \"Bing\" integriert. Die Funktion kann unter Verwendung des Edge-Browsers genutzt werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 139,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21066,
+      "char_end": 21217,
+      "text": "ChatGPT\nChatGPT ausprobieren: ChatGPT kann in einer freien Version getestet werden (Pro-Version gegen Bezahlung). Voraussetzung ist eine Registrierung.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 140,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21219,
+      "char_end": 21348,
+      "text": "OpenAI\nNeben ChatGPT bietet OpenAI weitere KI-Werkzeuge bzw. Produkte an, z.B. auch Tools zur Bilderzeugung oder 3D-Modellierung.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 141,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21350,
+      "char_end": 21462,
+      "text": "Claude\nSprachmodell von Anthropic u.a. für Mathematik, Programmiercode und die Verarbeitung umfangreicher Texte.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 142,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21464,
+      "char_end": 21608,
+      "text": "Gemini\nSprachmodell von Google ähnlich zu ChatGPT u.a. zur Produktion von Texten. Die Nutzung ist nach Anmeldung mit einem Google-Konto möglich.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 143,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21610,
+      "char_end": 21739,
+      "text": "Consensus\nConsensus ist eine auf ChatGPT basierende KI zur Suche und Analyse wissenschaftlicher Studien und Forschungsergebnisse.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 144,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21739,
+      "char_end": 21752,
+      "text": "\n\nHAWKI.HSZG\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21752,
+      "char_end": 21954,
+      "text": "Die HAWKI-Schnittstelle ermöglicht Studierenden und Lehrenden der HSZG eine einfache technische Möglichkeit, auf generative KI-Systeme zuzugreifen, ohne sich selbst bei Anbietern registrieren zu müssen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 145,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21955,
+      "char_end": 22011,
+      "text": "Das HSZG-Login genügt, um u.a. ChatGPT nutzen zu können.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 146,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22012,
+      "char_end": 22105,
+      "text": "Somit können alle Mitglieder der HSZG generative KI testen und ihre KI-Kompetenzen erweitern.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 147,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22106,
+      "char_end": 22217,
+      "text": "Weitere Informationen, u.a. zu den Nutzungsvoraussetzungen, finden Sie unter „Details zur HAWKI-Schnittstelle“.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 148,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22217,
+      "char_end": 22438,
+      "text": "\n\nZugang zu HAWKI: https://hawki.hszg.de\n\nHAWKI via KI-Campus\nÜber die Plattform des KI-Campus ist eine datenschutzkonforme Nutzung u.a. von ChatGPT möglich. Erforderlich ist eine Registrierung mit einer E-Mail-Adresse.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22438,
+      "char_end": 22633,
+      "text": "Die Eingaben (Prompts) an die HAWKI-Schnittstelle werden über eine API (Application Programming Interface) an OpenAI übermittelt, wodurch keine direkte Zuordnung zu einzelnen Nutzern möglich ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 149,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22634,
+      "char_end": 22732,
+      "text": "Die Chatinhalte werden auch nicht als Trainingsdaten für das Large Language Model (LLM) verwendet.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 150,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22734,
+      "char_end": 22803,
+      "text": "Hinweis: Es ist auch möglich, den HAWKI-Zugang an der HSZG zu nutzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 151,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22803,
+      "char_end": 22833,
+      "text": "\n\nZugang: chat.ki-campus.org\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22833,
+      "char_end": 23117,
+      "text": "\"Academic Cloud\"\nAlternativ zu den kommerziellen Anbietern kann auf freie Sprachmodelle über das Portal der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG-LLM-Service) zugegriffen werden (\"Academic Cloud\"). Zur Verfügung stehen u.a. \"Meta LLaMA\", \"DeepSeek\".",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 152,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23119,
+      "char_end": 23222,
+      "text": "Inzwischen gibt es die Möglichkeit, auch lokale KI-Anwendungen (LLMs, Large Language Models) zu nutzen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 153,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23223,
+      "char_end": 23297,
+      "text": "Dafür wird ein Programm mit einem KI-Modell lokal auf einem PC ausgeführt.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 154,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23298,
+      "char_end": 23394,
+      "text": "Alle eingegebenen Daten verbleiben auf dem lokalen PC, ein Vorteil in Bezug auf den Datenschutz.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 155,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23396,
+      "char_end": 23592,
+      "text": "Hinweis: Für die Ausführung lokaler KI-Anwendungen ist eine aktuelle und leistungsstarke Prozessor-Hardware (idealerweise ein Prozessor mit einer NPU) und eine dedizierte Grafikkarte erforderlich.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 156,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23593,
+      "char_end": 23815,
+      "text": "Je mehr Arbeitsspeicher die Grafikkarte (VRAM) verfügt, desto leistungsstärkere KI-Modelle können ausgeführt werden (selbst für kleinere KI-Modelle sind mind. 10GB VRAM erforderlich, Grundsatz: je mehr VRAM, desto besser).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 157,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23817,
+      "char_end": 23998,
+      "text": "- LM-Studio: https://lmstudio.ai/\n- AnythingLLM (Desktop): https://anythingllm.com/\n- GPT4All: https://www.nomic.ai/gpt4all/\n- Msty: https://msty.app/\n- Pinokio: https://pinokio.co/",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 158,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24000,
+      "char_end": 24103,
+      "text": "Übersicht zu den aktuellen KI-Modellen, die auch lokal ausgeführt werden können: https://huggingface.co",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 159,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24105,
+      "char_end": 24383,
+      "text": "Aktuelle Fortbildungsangebote zum Thema KI\n\nKI-Campus\nDer KI-Campus stellt eine Vielzahl von Selbstlerneinheiten zum Thema KI zur Verfügung. Die Angebote sind kostenlos nutzbar (Stand Mai 2023). Eine Registrierung via E-Mail genügt, um auf die Online-Module zugreifen zu können.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 160,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24385,
+      "char_end": 24502,
+      "text": "Tipp: Das Lernangebot „Sprachassistenzen als Chance für die Hochschullehre“ gibt einen Einstieg in das Thema ChatGPT.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 161,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24504,
+      "char_end": 24654,
+      "text": "Hochschuldidaktik Sachsen\nDie Hochschuldidaktik Sachsen bietet in ihrem Portfolio ein reichhaltiges Kursprogramm zum Thema „KI in der Hochschullehre“.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 162,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24654,
+      "char_end": 24679,
+      "text": "\n\nweiterführende Links\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24679,
+      "char_end": 24747,
+      "text": "Tipp: Hinweise der Hochschulbibliothek - \"Literaturrecherche mit KI\"",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 199,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24747,
+      "char_end": 25414,
+      "text": "\n- Linksammlung des Hochschulforums Digitalisierung \"ChatGPT im Hochschulkontext\": https://hochschulforumdigitalisierung.de/de/blog/chatgpt-im-hochschulkontext-%E2%80%93-eine-kommentierte-linksammlung\n- dghd-Themenreihe KI in der Hochschullehre: www.dghd.de/praxis/veranstaltungskalender/dghd-themenreihe-ki-in-der-hochschullehre/\n- Dossier Generative KI (Hochschulforum Digitalisierung): https://hochschulforumdigitalisierung.de/de/dossiers/generative-ki\n- Fakten, Fakes und Fiktion. Die wahre Herausforderung nach Corona (Prof. Dr. Weßels | FH Kiel): https://hochschulforumdigitalisierung.de/de/blog/fakten-fakes-und-fiktion-die-wahre-herausforderung-nach-corona\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25414,
+      "char_end": 25592,
+      "text": "ChatGPT: five priorities for research (Eva A. M. van Dis, Johan Bollen, Willem Zuidema, Robert van Rooij & Claudi L. Bockting): https://www.nature.com/articles/d41586-023-00288-7",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 204,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25592,
+      "char_end": 25595,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25595,
+      "char_end": 25680,
+      "text": "ChatGPT News, Ratgeber und Tipps bei heise online: https://www.heise.de/thema/ChatGPT",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 205,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25680,
+      "char_end": 25683,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25683,
+      "char_end": 25807,
+      "text": "Rechtsgutachten zu ChatGPT & Co: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 206,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25807,
+      "char_end": 25810,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25810,
+      "char_end": 25959,
+      "text": "Stellungnahme des Deutschen Ethikrates zum Thema Künstliche Intelligenz (PDF): \"Mensch und Maschine – Herausforderungen durch Künstliche Intelligenz\"",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 207,
+      "match_type": "exact"
+    }
+  ]
+}

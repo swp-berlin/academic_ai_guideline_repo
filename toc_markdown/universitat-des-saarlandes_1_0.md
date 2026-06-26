@@ -1,0 +1,41 @@
+# Table of Contents: universitat-des-saarlandes_1_0
+
+_Mode: extracted_toc_
+
+- Inhalt
+  - Was kann ich von diesem Dokument erwarten?
+  - Was gibt es beim Einsatz generativer KI-Tools zu beachten?
+  - Und wie klingt es, wenn ChatGPT (Version 3.5) eine „innovative und kreative“ Zusammenfassung schreibt, die „Lust auf mehr“ machen soll?
+- 1 Welche Bedeutung haben Kompetenzen und Lernziele für meine Lehre?
+- 2 Wie kann ich generative KI-Tools wie ChatGPT in meiner Lehre effektiv einsetzen?
+    - Erinnern (Wissen)
+    - Verstehen
+    - Anwenden
+    - Analysieren
+    - Beurteilen
+    - (Er-)Schaffen
+      - Lernzielebene Erinnern (Wissen)
+        - Erkennen
+        - Erinnern
+      - Lernzielebene Verstehen
+        - Interpretieren
+        - Vergleichen
+        - Erklären
+      - Lernzielebene Anwenden
+        - Ausführen
+        - Implementieren
+        - Anwenden
+      - Lernzielebene Analysieren
+        - Differenzieren
+        - Organisieren
+        - Zuordnen
+      - Lernzielebene Beurteilen
+        - Überprüfen
+        - Bewerten
+      - Lernzielebene (Er-)Schaffen
+        - Generieren
+        - Planen
+        - Entwickeln
+- 3 Literatur
+- 4 Ressourcen
+- 5 Links

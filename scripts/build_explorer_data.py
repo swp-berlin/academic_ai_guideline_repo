@@ -26,6 +26,12 @@ GUIDELINES_FILE = ROOT / "guidelines.yaml"
 OUTPUTS_DIR = ROOT / "outputs"
 
 
+def find_coding_file(slug: str, version: str) -> Path | None:
+    """Exact (slug, version) coding output: outputs/{slug}_{version}.json"""
+    p = OUTPUTS_DIR / f"{slug}_{version}.json"
+    return p if p.is_file() else None
+
+
 B_CODEBOOK = {
     "B1": "definition of AI",
     "B2": "other definitions/terminology",
@@ -56,9 +62,10 @@ def main() -> int:
 
     for entry in guidelines:
         slug = entry["slug"]
-        coding_path = OUTPUTS_DIR / f"{slug}.json"
+        version = str(entry.get("version") or "1_0").replace(".", "_")
+        coding_path = find_coding_file(slug, version)
 
-        if not coding_path.exists():
+        if coding_path is None:
             skipped += 1
             continue
 
@@ -81,8 +88,9 @@ def main() -> int:
             continue
 
         docs.append({
-            "doc_id": slug,
+            "doc_id": f"{slug}_{version}",
             "institution": entry["institution"],
+            "version": version,
             "category": entry.get("category", ""),
             "date": entry.get("date", ""),
             "language": entry.get("language", ""),

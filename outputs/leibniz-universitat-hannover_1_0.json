@@ -1,0 +1,780 @@
+{
+  "doc_id": "leibniz-universitat-hannover_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Diese Richtlinie regelt den Einsatz von Künstlicher Intelligenz (KI) in der Lehre an der LUH mit dem Ziel, die Anforderungen der Verordnung (EU) 2024/1689 über Künstliche Intelligenz (KI-VO) umzusetzen und eine sichere und verantwortungsvolle Nutzung von KI-Systemen sicherzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Richtlinie ist verbindlich für alle Lehrenden und Anwendenden an der LUH, die KI-Systeme in der Lehre einsetzen.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende sind verantwortlich für die Einhaltung dieser Richtlinie bei der Nutzung von KI-Systemen in ihren Lehrveranstaltungen.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Anwendende sind verpflichtet, die in dieser Richtlinie festgelegten Bestimmungen bei der Nutzung von KI-Systemen zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Die LUH bietet Schulungen zur Förderung der KI-Kompetenz für alle Anwendenden an.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Teilnahme an Schulungsmaßnahmen gemäß Absatz 1 ist zu dokumentieren.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Lehrende, die KI-Systeme in einer Lehrveranstaltung einsetzen, sind verpflichtet, Schulungsmaterialien in Lehrveranstaltungen zu integrieren oder für die Anwendenden entsprechende Schulungen anzubieten.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Dies gilt insbesondere für den Einsatz dezentraler KI-Systeme in Lehrveranstaltungen. Sofern es sich um ein durch die LUH zentral bereitgestelltes KI-System handelt, ist ein Verweis auf das zentrale Schulungsangebot der LUH ausreichend.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die von der LUH zentral bereitgestellten KI-Systeme sind vorrangig zu nutzen. Die verpflichtende Nutzung solcher Systeme in Lehrveranstaltungen ist zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Der verpflichtende Einsatz dezentraler KI-Systeme in Lehrveranstaltungen bedarf der Zustimmung des KI-Rats der LUH (ki-rat@uni-hannover.de) und ist nur dann zulässig, wenn keine personenbezogenen Daten verarbeitet werden.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Einsätze dezentraler Systeme sind zu dokumentieren und soweit keine Zustimmung des KI-Rats erforderlich ist, diesem anzuzeigen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-Systeme dürfen nur in Übereinstimmung mit den vom Anbieter und Betreiber bereitgestellten Nutzungsbedingungen verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Zweckänderungen bei der Nutzung der KI-Systeme sind untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Verarbeitung personenbezogener Daten in KI-Systemen ist ohne ausdrückliche Genehmigung des KI-Rats unzulässig.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Eingabe von Geschäftsgeheimnissen und sensiblen Forschungsdaten in KI-Systeme ist untersagt, um die unzulässige Nutzung oder Offenlegung solcher Geheimnisse zu vermeiden.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Eingabe urheberrechtlich geschützter Texte in KI-Systeme sind die geltenden Urheberrechtsbestimmungen zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ergebnisse von KI-Systemen gelten als gemeinfrei, es sei denn, sie wurden durch ein signifikantes Maß an geistiger Eigenleistung des Anwendenden weiterentwickelt.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Eine verpflichtende Nutzung von KI-Systemen in einer Prüfung darf sich ausschließlich auf zentral bereitgestellte KI-Systeme der LUH beschränken.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Für selbstständig verfasste schriftliche Arbeiten können Studierende auch andere KI-Systeme ihrer Wahl anwenden und nutzen, sofern der Einsatz mit der Prüfungsordnung vereinbar ist und KI-generierte Inhalte gekennzeichnet werden.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Prüfungsform muss den Grundsatz der Chancengleichheit wahren und mit der Prüfungsordnung vereinbar sein.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Prüfungsleistungen sind individuell zu bewerten. Eine automatisierte Korrektur von Prüfungsleistungen sowie die ganz- oder teilweise Eingabe von Prüfungsleistungen in ein KI-System sind unzulässig.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Die Nutzung von KI-Systemen ist ausschließlich in unterstützender Funktion, insbesondere zur sprachlichen Ausformulierung von Gutachten und Bewertungsbegründungen, zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Vertraulichkeit ist dadurch sicherzustellen, dass ausschließlich zentral bereitgestellte KI-Systeme der LUH genutzt werden.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn bei der Bewertung einer Prüfungsleistung ein KI-System unterstützend verwendet wird, muss dies unter Nennung der spezifischen Einsatzzwecke offengelegt werden.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Praktiken, die gemäß Art. 5 KI-VO als verboten gelten, sind an der LUH untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Weitere unzulässige Nutzungsszenarien umfassen insbesondere die Eingabe persönlicher Daten Dritter und die automatisierte Auswertung und Bewertung von Prüfungen.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Der Einsatz von Hochrisiko-KI-Systemen in der Lehre ist untersagt, es sei denn, der KI-Rat genehmigt Ausnahmen unter Einhaltung der KI-VO.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Diese Richtlinie tritt am Tag nach Beschluss durch das Präsidium in Kraft.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Die Richtlinie wird regelmäßig überprüft und an technische und rechtliche Entwicklungen angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". § 4 einsatz zentraler und dezentraler ki-systeme (1)",
+      "repaired": true
+    },
+    {
+      "id": 31,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". ## § 6 datenschutz und persönlichkeitsrechte (1)",
+      "repaired": true
+    },
+    {
+      "id": 32,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". ## § 11 inkrafttreten und überprüfung (1)",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 32,
+    "matched": 31,
+    "unmatched_count": 1,
+    "unmatched": [
+      {
+        "id": 30,
+        "B": "B13",
+        "matched_words": "7/9",
+        "text": ". § 4 einsatz zentraler und dezentraler ki-systeme (1)"
+      }
+    ],
+    "source_coverage": 0.855,
+    "uncovered_chars": 633,
+    "uncovered_gaps": 9,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 353,
+        "length": 353,
+        "text": "# leibniz universität hannover # source: https://www.unihannover.de/fileadmin/luh/content/onlinelehre/luh-richtlinie_einsatz_ki_in_der_hochschullehre_260420.pdf # date: none # category: guideline # richtlinie für den einsatz von künstlicher intelligenz in der hochschullehre an der leibniz universität hannover (luh) § 1 zweck und anwendungsbereich (1)"
+      },
+      {
+        "char_start": 756,
+        "char_end": 787,
+        "length": 31,
+        "text": ". § 2 verantwortlichkeiten (1)"
+      },
+      {
+        "char_start": 1043,
+        "char_end": 1082,
+        "length": 39,
+        "text": ". § 3 vermittlung von ki-kompetenz (1)"
+      },
+      {
+        "char_start": 1681,
+        "char_end": 1736,
+        "length": 55,
+        "text": ". § 4 einsatz zentraler und dezentraler ki-systeme (1)"
+      },
+      {
+        "char_start": 2248,
+        "char_end": 2278,
+        "length": 30,
+        "text": ". § 5 nutzungsbedingungen (1)"
+      },
+      {
+        "char_start": 2817,
+        "char_end": 2843,
+        "length": 26,
+        "text": ". ## § 7 urheberrecht (1)"
+      },
+      {
+        "char_start": 3131,
+        "char_end": 3165,
+        "length": 34,
+        "text": ". ## § 8 einsatz in prüfungen (1)"
+      },
+      {
+        "char_start": 4319,
+        "char_end": 4352,
+        "length": 33,
+        "text": ". ## § 9 unzulässige nutzung (1)"
+      },
+      {
+        "char_start": 4596,
+        "char_end": 4628,
+        "length": 32,
+        "text": ". ## § 10 hochrisiko-ki-systeme"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 358,
+      "text": "# Leibniz Universität Hannover\n# Source: https://www.uni-hannover.de/fileadmin/luh/content/online-lehre/LUH-Richtlinie_Einsatz_KI_in_der_Hochschullehre_260420.pdf\n# Date: None\n# Category: guideline\n\n# Richtlinie für den Einsatz von Künstlicher Intelligenz in der Hochschullehre an der Leibniz Universität Hannover (LUH)\n\n§ 1 Zweck und Anwendungsbereich\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 358,
+      "char_end": 641,
+      "text": "Diese Richtlinie regelt den Einsatz von Künstlicher Intelligenz (KI) in der Lehre an der LUH mit dem Ziel, die Anforderungen der Verordnung (EU) 2024/1689 über Künstliche Intelligenz (KI-VO) umzusetzen und eine sichere und verantwortungsvolle Nutzung von KI-Systemen sicherzustellen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 641,
+      "char_end": 646,
+      "text": "\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 646,
+      "char_end": 762,
+      "text": "Die Richtlinie ist verbindlich für alle Lehrenden und Anwendenden an der LUH, die KI-Systeme in der Lehre einsetzen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 762,
+      "char_end": 794,
+      "text": "\n\n§ 2 Verantwortlichkeiten\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 794,
+      "char_end": 921,
+      "text": "Lehrende sind verantwortlich für die Einhaltung dieser Richtlinie bei der Nutzung von KI-Systemen in ihren Lehrveranstaltungen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 921,
+      "char_end": 926,
+      "text": "\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 926,
+      "char_end": 1051,
+      "text": "Anwendende sind verpflichtet, die in dieser Richtlinie festgelegten Bestimmungen bei der Nutzung von KI-Systemen zu beachten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1051,
+      "char_end": 1091,
+      "text": "\n\n§ 3 Vermittlung von KI-Kompetenz\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1091,
+      "char_end": 1172,
+      "text": "Die LUH bietet Schulungen zur Förderung der KI-Kompetenz für alle Anwendenden an.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1172,
+      "char_end": 1177,
+      "text": "\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1177,
+      "char_end": 1249,
+      "text": "Die Teilnahme an Schulungsmaßnahmen gemäß Absatz 1 ist zu dokumentieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1249,
+      "char_end": 1254,
+      "text": "\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1254,
+      "char_end": 1456,
+      "text": "Lehrende, die KI-Systeme in einer Lehrveranstaltung einsetzen, sind verpflichtet, Schulungsmaterialien in Lehrveranstaltungen zu integrieren oder für die Anwendenden entsprechende Schulungen anzubieten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1457,
+      "char_end": 1693,
+      "text": "Dies gilt insbesondere für den Einsatz dezentraler KI-Systeme in Lehrveranstaltungen. Sofern es sich um ein durch die LUH zentral bereitgestelltes KI-System handelt, ist ein Verweis auf das zentrale Schulungsangebot der LUH ausreichend.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1693,
+      "char_end": 1749,
+      "text": "\n\n§ 4 Einsatz zentraler und dezentraler KI-Systeme\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1749,
+      "char_end": 1906,
+      "text": "Die von der LUH zentral bereitgestellten KI-Systeme sind vorrangig zu nutzen. Die verpflichtende Nutzung solcher Systeme in Lehrveranstaltungen ist zulässig.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1906,
+      "char_end": 1911,
+      "text": "\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1911,
+      "char_end": 2132,
+      "text": "Der verpflichtende Einsatz dezentraler KI-Systeme in Lehrveranstaltungen bedarf der Zustimmung des KI-Rats der LUH (ki-rat@uni-hannover.de) und ist nur dann zulässig, wenn keine personenbezogenen Daten verarbeitet werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2132,
+      "char_end": 2137,
+      "text": "\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2137,
+      "char_end": 2264,
+      "text": "Einsätze dezentraler Systeme sind zu dokumentieren und soweit keine Zustimmung des KI-Rats erforderlich ist, diesem anzuzeigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2264,
+      "char_end": 2295,
+      "text": "\n\n§ 5 Nutzungsbedingungen\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2295,
+      "char_end": 2425,
+      "text": "KI-Systeme dürfen nur in Übereinstimmung mit den vom Anbieter und Betreiber bereitgestellten Nutzungsbedingungen verwendet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2425,
+      "char_end": 2430,
+      "text": "\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2430,
+      "char_end": 2492,
+      "text": "Zweckänderungen bei der Nutzung der KI-Systeme sind untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2492,
+      "char_end": 2544,
+      "text": "\n\n## § 6 Datenschutz und Persönlichkeitsrechte\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2544,
+      "char_end": 2658,
+      "text": "Die Verarbeitung personenbezogener Daten in KI-Systemen ist ohne ausdrückliche Genehmigung des KI-Rats unzulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2658,
+      "char_end": 2664,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2664,
+      "char_end": 2838,
+      "text": "Die Eingabe von Geschäftsgeheimnissen und sensiblen Forschungsdaten in KI-Systeme ist untersagt, um die unzulässige Nutzung oder Offenlegung solcher Geheimnisse zu vermeiden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2838,
+      "char_end": 2865,
+      "text": "\n\n## § 7 Urheberrecht\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2865,
+      "char_end": 2987,
+      "text": "Bei der Eingabe urheberrechtlich geschützter Texte in KI-Systeme sind die geltenden Urheberrechtsbestimmungen zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2987,
+      "char_end": 2993,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2993,
+      "char_end": 3155,
+      "text": "Ergebnisse von KI-Systemen gelten als gemeinfrei, es sei denn, sie wurden durch ein signifikantes Maß an geistiger Eigenleistung des Anwendenden weiterentwickelt.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3155,
+      "char_end": 3190,
+      "text": "\n\n## § 8 Einsatz in Prüfungen\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3190,
+      "char_end": 3335,
+      "text": "Eine verpflichtende Nutzung von KI-Systemen in einer Prüfung darf sich ausschließlich auf zentral bereitgestellte KI-Systeme der LUH beschränken.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3336,
+      "char_end": 3565,
+      "text": "Für selbstständig verfasste schriftliche Arbeiten können Studierende auch andere KI-Systeme ihrer Wahl anwenden und nutzen, sofern der Einsatz mit der Prüfungsordnung vereinbar ist und KI-generierte Inhalte gekennzeichnet werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3565,
+      "char_end": 3571,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3571,
+      "char_end": 3679,
+      "text": "Die Prüfungsform muss den Grundsatz der Chancengleichheit wahren und mit der Prüfungsordnung vereinbar sein.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3679,
+      "char_end": 3685,
+      "text": "\n\n(3) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3685,
+      "char_end": 3882,
+      "text": "Prüfungsleistungen sind individuell zu bewerten. Eine automatisierte Korrektur von Prüfungsleistungen sowie die ganz- oder teilweise Eingabe von Prüfungsleistungen in ein KI-System sind unzulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3883,
+      "char_end": 4056,
+      "text": "Die Nutzung von KI-Systemen ist ausschließlich in unterstützender Funktion, insbesondere zur sprachlichen Ausformulierung von Gutachten und Bewertungsbegründungen, zulässig.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4057,
+      "char_end": 4184,
+      "text": "Die Vertraulichkeit ist dadurch sicherzustellen, dass ausschließlich zentral bereitgestellte KI-Systeme der LUH genutzt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4185,
+      "char_end": 4349,
+      "text": "Wenn bei der Bewertung einer Prüfungsleistung ein KI-System unterstützend verwendet wird, muss dies unter Nennung der spezifischen Einsatzzwecke offengelegt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4349,
+      "char_end": 4383,
+      "text": "\n\n## § 9 Unzulässige Nutzung\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4383,
+      "char_end": 4464,
+      "text": "Praktiken, die gemäß Art. 5 KI-VO als verboten gelten, sind an der LUH untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4464,
+      "char_end": 4470,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4470,
+      "char_end": 4631,
+      "text": "Weitere unzulässige Nutzungsszenarien umfassen insbesondere die Eingabe persönlicher Daten Dritter und die automatisierte Auswertung und Bewertung von Prüfungen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4631,
+      "char_end": 4664,
+      "text": "\n\n## § 10 Hochrisiko-KI-Systeme\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4664,
+      "char_end": 4802,
+      "text": "Der Einsatz von Hochrisiko-KI-Systemen in der Lehre ist untersagt, es sei denn, der KI-Rat genehmigt Ausnahmen unter Einhaltung der KI-VO.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4802,
+      "char_end": 4847,
+      "text": "\n\n## § 11 Inkrafttreten und Überprüfung\n\n(1) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4847,
+      "char_end": 4921,
+      "text": "Diese Richtlinie tritt am Tag nach Beschluss durch das Präsidium in Kraft.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4921,
+      "char_end": 4927,
+      "text": "\n\n(2) ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4927,
+      "char_end": 5025,
+      "text": "Die Richtlinie wird regelmäßig überprüft und an technische und rechtliche Entwicklungen angepasst.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 29,
+      "match_type": "exact"
+    }
+  ]
+}

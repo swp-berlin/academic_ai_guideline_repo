@@ -1,0 +1,88 @@
+# Table of Contents: lmu-munchen_1_0
+
+_Mode: extracted_toc_
+
+- Inhalt
+  - Vorwort
+  - Einleitung
+- 1 Kapitel 1
+  - 1 Grundlegendes zu großen Sprachmodellen
+    - 1.1 Um welche Modelle handelt es sich und was tun sie?
+    - 1.2 Wie werden solche Modelle trainiert?
+    - 1.3 Warum „halluzinieren“ diese Modelle und was folgt daraus?
+- 2 Kapitel 2
+  - 2 Einsatz von Sprachmodellen in der Lehre
+    - 2.1 Sprachmodelle in der Konzeptionsphase
+      - 2.1.1 Lernziele formulieren
+      - 2.1.2 Ausschreibungstexte verfassen
+      - 2.1.3 Referatsthemen generieren
+      - 2.1.4 Präsentationen erstellen
+      - 2.1.5 Fragen generieren
+      - 2.1.6 Lerntransferbeispiele
+    - 2.2 KI bei der Erstellung von Lernmaterialien
+      - 2.2.1 Übungsaufträge erstellen
+      - 2.2.2 Sprechtexte als Grundlage für Lernvideos erarbeiten
+      - 2.2.3 Textverständnis verbessern
+      - 2.2.4 Lernkarten generieren
+    - 2.3 Lehr-/Lernmethoden mit ChatGPT
+      - 2.3.1 Kennenlernmethode
+      - 2.3.2 Fragen und Antworten für Tests und Quiz
+      - 2.3.3 Wissenschaftliche Diskussionen
+      - 2.3.4 Think-KI-Pair
+      - 2.3.5 Mindmaps, Glossare und Wikieinträge
+    - 2.4 Fallstricke bei der Verwendung von LLMs im Lehrkontext
+- 3 Kapitel 3
+  - 3 Verwendung von LLMs in der akademischen Schreibpraxis
+    - 3.1 Funktionen des akademischen Schreibens
+    - 3.2 Annäherung an eine sinnvolle Integration von LLMs in die Prozesse des wissenschaftlichen Schreibens
+    - 3.3 Anwendungspotenziale von Sprach-KIs im akademischen Schreiben
+      - 3.3.1 Iterative Abfragen
+      - 3.3.2 Basis-Recherche
+      - 3.3.3 Strukturierung
+      - 3.3.4 Argumentprüfung im Dialog
+      - 3.3.5 Redaktions- und Editionsassistenz
+    - 3.4 Hilfreiche Einsatzmöglichkeiten im Überblick
+    - 3.5 Anwendungsgrenzen und Fallstricke
+      - Fehlende Faktentreue:
+      - Interpretationsfehler:
+      - Fehlende Quellentransparenz:
+      - „Garbage in, garbage out“:
+      - Systeminhärenter Bias und Anwendungsschranken:
+      - Verlust wichtiger Inhalte durch das KI-Lektorat:
+    - 3.6 Sechs goldene Regeln der Nutzung von Sprach-KIs im Kontext des wissenschaftlichen Schreibens
+- 4 Kapitel 4
+  - 4 Betreuung wissenschaftlicher Haus- und Abschlussarbeiten in Zeiten von KI-Sprachmodellen
+    - 4.1 Baustein 1: Reflexion der eigenen Rolle und Haltung im Betreuungsprozess
+    - 4.2 Baustein 2: Sich mit ChatGPT et al. vertraut machen
+    - 4.3 Baustein 3: Studierende über Einsatz, Chancen und Risiken von ChatGPT et al. aufklären
+    - 4.4 Baustein 4: Regeln im Umgang mit ChatGPT et al. aufstellen und klar kommunizieren
+    - 4.5 Baustein 5: Schreiben mit ChatGPT in die Lehre integrieren
+    - 4.6 Baustein 6: Den Betreuungsprozess an die neuen Gegebenheiten anpassen
+      - 4.6.1 Kontinuierliche Feedbackschleifen durch Meilensteine durchführen
+      - 4.6.2 Selbstfeedback und Peer-to-Peer-Feedback fördern
+      - 4.6.3 Reflexionsdokumentationen erstellen lassen
+    - 4.7 Baustein 7: Den Bewertungsprozess an die neuen Gegebenheiten anpassen
+    - 4.8 Fazit
+- 5 Kapitel 5
+  - 5 KI und Hochschulprüfungen: wie wir trotz KI weiterhin gelungen prüfen können
+    - 5.1 Unterschiedliche Betroffenheit von Prüfungsformaten
+    - 5.2 ChatGPT in der Prüfungsvorbereitungsphase
+    - 5.3 Constructive Alignment: Veränderte Lernziele
+    - 5.4 Umgang mit ChatGPT bei E-Klausuren
+    - 5.5 Umgang mit ChatGPT bei Hausaufgaben und wissenschaftlichen Arbeiten
+      - 5.5.1 Den Einsatz von ChatGPT erschweren
+      - 5.5.2 Den Einsatz von ChatGPT zulassen und fordern
+    - 5.6 Fazit
+- 6 Kapitel 6
+  - 6 Abschließender Überblick zu Entwicklungen bezüglich der Nutzung von LLMs in der Hochschullehre
+    - 6.1 Welche Texte sind in den Modellen?
+    - 6.2 Einsatzbereiche von KI-gestützten Tools
+      - 6.2.1 Iterativ und angeleitet Texte erstellen
+      - 6.2.2 Sprachbarrieren verringern und Barrierefreiheit herstellen
+      - 6.2.3 Texte analysieren und Antworten finden
+      - 6.2.4 In Lehr- und Lernsysteme integrieren
+      - 6.2.5 Programmieren und Softwareentwicklung
+    - 6.3 KI wird integraler Bestandteil von Software
+    - 6.4 Demokratisierung von KI-Tools und Transparenz
+    - 6.5 Notwendigkeit von Bildung und Forschung
+    - 6.6 LLMs sind nur ein Teil von KI

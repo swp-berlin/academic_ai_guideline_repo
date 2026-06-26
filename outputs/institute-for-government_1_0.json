@@ -1,0 +1,423 @@
+{
+  "doc_id": "institute-for-government_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The Institute for Government recognises the value that AI tools and technology can bring, and also the risks and challenges associated with their use."
+    },
+    {
+      "id": 2,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "We want to use AI to enhance the quality of our research and increase our impact, doing so responsibly and monitoring carefully our use of the technology."
+    },
+    {
+      "id": 3,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "AI tools support elements of our analysis and allow us to be more efficient in carrying out tasks – but their use does not replace staff judgement or responsibility."
+    },
+    {
+      "id": 4,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "All contributors to Institute work are accountable for the accuracy, quality and integrity of their work."
+    },
+    {
+      "id": 5,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "We also believe in operating transparently, being clear to our stakeholders on our red lines for use of AI."
+    },
+    {
+      "id": 6,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative AI tools are not used to draft any of the body text of Institute for Government outputs."
+    },
+    {
+      "id": 7,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "This includes the body text of publications, comments, explainers, live blogs and podcast scripts, including executive summaries of these outputs."
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI tools may be used to suggest a structure for the body text of an output before something has been written, and for functional tasks like checking spelling and grammar while something is being written, but are not used to suggest or make more extensive contributions to any body text."
+    },
+    {
+      "id": 9,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative AI tools are also not used to draft press releases."
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI tools may be used to produce text other than the body text of Institute for Government outputs, such as titles, headers, endnotes and image alt text."
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "They may also be used to produce descriptions of these outputs for use on the Institute website."
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI tools may be used for other externally facing text, such as other web page text, presentations, video scripts, speaker briefings and event and partnership proposals."
+    },
+    {
+      "id": 13,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In any rare instance where, exceptionally, the use of generative AI tools to create body text for an Institute for Government output has been approved outside of the principles set out here, we will disclose this use in the output in question, describing explicitly how it has been used."
+    },
+    {
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "All Institute for Government publications will include a general statement directing readers to this statement on AI use."
+    },
+    {
+      "id": 15,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Generative AI tools are not used to create photographs for external use, including in Institute for Government outputs, on social media and in external presentations."
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generative AI tools may be used to create other graphics and visuals for external use, such as report graphics and timelines, data visualisations, icons, slide layouts, and event promotion graphics."
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Text content of these graphics and visuals is treated in line with our approach to externally facing text (see above)."
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In any rare instance where, exceptionally, the use of generative AI tools to create photographs has been approved outside the principles set out here, we will clearly label them as being created with AI."
+    },
+    {
+      "id": 19,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Other graphics and visuals produced using generative AI tools will not be labelled as created with AI."
+    },
+    {
+      "id": 20,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "AI tools are not used to sift, filter or grade recruitment applications."
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Our use of personal data in AI tools is governed by our privacy policy."
+    },
+    {
+      "id": 22,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "This policy was last updated in March 2026."
+    }
+  ],
+  "validation": {
+    "total": 22,
+    "matched": 22,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.903,
+    "uncovered_chars": 295,
+    "uncovered_gaps": 5,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 123,
+        "length": 123,
+        "text": "# institute for government # source: https://www.instituteforgovernment.org.uk/aiuse # date: 2026-03 # category: guideline"
+      },
+      {
+        "char_start": 807,
+        "char_end": 829,
+        "length": 22,
+        "text": ". **use in our work**"
+      },
+      {
+        "char_start": 3078,
+        "char_end": 3096,
+        "length": 18,
+        "text": ". **recruitment**"
+      },
+      {
+        "char_start": 3167,
+        "char_end": 3187,
+        "length": 20,
+        "text": ". **data security**"
+      },
+      {
+        "char_start": 3301,
+        "char_end": 3413,
+        "length": 112,
+        "text": ". **privacy policy** at the institute for government, we are committed to protecting and respecting your privacy"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 125,
+      "text": "# Institute for Government\n# Source: https://www.instituteforgovernment.org.uk/ai-use\n# Date: 2026-03\n# Category: guideline\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 125,
+      "char_end": 275,
+      "text": "The Institute for Government recognises the value that AI tools and technology can bring, and also the risks and challenges associated with their use.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 276,
+      "char_end": 430,
+      "text": "We want to use AI to enhance the quality of our research and increase our impact, doing so responsibly and monitoring carefully our use of the technology.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 431,
+      "char_end": 596,
+      "text": "AI tools support elements of our analysis and allow us to be more efficient in carrying out tasks – but their use does not replace staff judgement or responsibility.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 597,
+      "char_end": 702,
+      "text": "All contributors to Institute work are accountable for the accuracy, quality and integrity of their work.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 703,
+      "char_end": 810,
+      "text": "We also believe in operating transparently, being clear to our stakeholders on our red lines for use of AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 810,
+      "char_end": 833,
+      "text": "\n\n**Use in our work**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 833,
+      "char_end": 932,
+      "text": "Generative AI tools are not used to draft any of the body text of Institute for Government outputs.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 933,
+      "char_end": 1079,
+      "text": "This includes the body text of publications, comments, explainers, live blogs and podcast scripts, including executive summaries of these outputs.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1080,
+      "char_end": 1377,
+      "text": "Generative AI tools may be used to suggest a structure for the body text of an output before something has been written, and for functional tasks like checking spelling and grammar while something is being written, but are not used to suggest or make more extensive contributions to any body text.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1379,
+      "char_end": 1441,
+      "text": "Generative AI tools are also not used to draft press releases.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1443,
+      "char_end": 1606,
+      "text": "Generative AI tools may be used to produce text other than the body text of Institute for Government outputs, such as titles, headers, endnotes and image alt text.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1607,
+      "char_end": 1703,
+      "text": "They may also be used to produce descriptions of these outputs for use on the Institute website.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1705,
+      "char_end": 1884,
+      "text": "Generative AI tools may be used for other externally facing text, such as other web page text, presentations, video scripts, speaker briefings and event and partnership proposals.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1886,
+      "char_end": 2173,
+      "text": "In any rare instance where, exceptionally, the use of generative AI tools to create body text for an Institute for Government output has been approved outside of the principles set out here, we will disclose this use in the output in question, describing explicitly how it has been used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2174,
+      "char_end": 2295,
+      "text": "All Institute for Government publications will include a general statement directing readers to this statement on AI use.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2297,
+      "char_end": 2463,
+      "text": "Generative AI tools are not used to create photographs for external use, including in Institute for Government outputs, on social media and in external presentations.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2465,
+      "char_end": 2663,
+      "text": "Generative AI tools may be used to create other graphics and visuals for external use, such as report graphics and timelines, data visualisations, icons, slide layouts, and event promotion graphics.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2664,
+      "char_end": 2782,
+      "text": "Text content of these graphics and visuals is treated in line with our approach to externally facing text (see above).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2784,
+      "char_end": 2987,
+      "text": "In any rare instance where, exceptionally, the use of generative AI tools to create photographs has been approved outside the principles set out here, we will clearly label them as being created with AI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2988,
+      "char_end": 3090,
+      "text": "Other graphics and visuals produced using generative AI tools will not be labelled as created with AI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3090,
+      "char_end": 3109,
+      "text": "\n\n**Recruitment**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3109,
+      "char_end": 3181,
+      "text": "AI tools are not used to sift, filter or grade recruitment applications.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3181,
+      "char_end": 3202,
+      "text": "\n\n**Data security**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3202,
+      "char_end": 3273,
+      "text": "Our use of personal data in AI tools is governed by our privacy policy.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3275,
+      "char_end": 3318,
+      "text": "This policy was last updated in March 2026.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3318,
+      "char_end": 3432,
+      "text": "\n\n**Privacy policy**\n\nAt the Institute for Government, we are committed to protecting and respecting your privacy.",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

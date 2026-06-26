@@ -1,0 +1,1926 @@
+{
+  "doc_id": "hochschule-mainz_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "ChatGPT wurde im November 2022 vom Unternehmen OpenAI der Öffentlichkeit zur Verfügung gestellt und das mediale Interesse daran ist seitdem groß (Roestel, 2023). Doch so neu ist das Sprachverarbeitungsmodell gar nicht. Es ist eine Weiterentwicklung des ursprünglichen GPT (Generative Pretrained Transformer) Modells, das von OpenAI im Juni 2018 vorgestellt wurde (Radford, 2018). Es handelt sich dabei um ein Modell der NPL (Natural Language Processing, auf Deutsch: Verarbeitung natürlicher Sprache). Die ersten Systeme dieser Art erschienen in den 2000er Jahren. Einige bekannte Modelle, die seitdem veröffentlicht wurden, sind GPT, BERT und ELMO. Diese nutzen die neuesten Erkenntnisse und Methoden des Machine Learnings.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Eine Künstliche Intelligenz (KI) ist ein Computerprogramm oder eine Maschine, die in der Lage ist, komplexe Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern. Dabei nutzt sie unterschiedliche Techniken, wie z.B. Machine Learning.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "„Ich bin eine KI und generiere meine Antworten aus dem Text, auf den ich trainiert wurde. Was mich besonders macht, ist meine Fähigkeit, menschenähnliche Konversationen zu führen und die Fähigkeit, auf verschiedene Themen und Fragen kreativ und sinnvoll zu reagieren.“",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "ChatGPT ist also ein dialogorientierter Chatbot vergleichbar mit Sprachassistenten wie Alexa von Amazon, Siri von Apple und Co. Das Qualitätsniveau der Antworten von ChatGPT ist sehr hoch im Vergleich zu anderen Systemen. Es ist möglich, mit ChatGPT eine realistische Unterhaltung zu führen und der Chatbot ist in der Lage, den Kontext zu erkennen. Dieser Aspekt ist zurzeit das Alleinstellungsmerkmal von ChatGPT.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Die Daten für den Chatbot stammen aus verschiedensten (Internet-)Quellen – z.B. aus Wikipedia, Foren, sozialen Netzwerken, Nachrichtenartikeln und Bücherdatenbanken. ChatGPT wurde mit Informationen trainiert, die bis einschließlich September 2021 verfügbar waren. (Roestel, 2023) Da ChatGPT bereits jetzt regelmäßige Updates erhält, ist es wahrscheinlich, dass sich die Informationen in Zukunft erweitert werden.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Anwendung ist einfach und funktioniert wie ein Messenger. Die Frage wird eingegeben und ChatGPT antwortet direkt, als könnte man „live“ beim Tippen zusehen.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ChatGPT kann gut lesbare Texte zu verschiedenen Inhalten generieren. Ein paar konkrete Beispiele:",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Schreiben von E-Mails oder Briefen",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Simulation von Unterhaltungen",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Frage-Antwort-System (Chatbot)",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Generieren und Zusammenfassen von Texten",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Feedback geben auf eigene Lösungen oder Arbeiten",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Verfassen oder Überprüfung von Programmcodes",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Überprüfung von Rechtschreibung und Zeichensetzung",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Übersetzungen",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Vorschlagen von Kochrezepten",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Erstellen von Trainings- oder Haushaltsplänen",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "- Schreiben von Songtexten oder Gedichten",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Was sind die Grenzen? Antwort von ChatGPT:",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "„Ich bin nicht in der Lage, im Internet zu surfen oder andere Medien wie Fernsehshows oder Filme zu konsumieren, sondern kann nur auf den Text zugreifen, auf den ich trainiert wurde. Mein Ziel ist es, Benutzern zu helfen, indem ich schnelle, präzise und hilfreiche Antworten auf ihre Fragen liefere.“",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die im folgenden formulierten Chancen und Risiken sind auf Grundlage der aktuellen Erkenntnisse getroffen. KI und ChatGPT entwickeln sich rasant weiter. Es ist daher wichtig zu betonen, dass diese Einschätzungen stark von zugrunde liegender Wertebasis, Zielsetzung und dem konkreten Kontext der Lehre abhängen.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Durch einen reflektierten Umgang mit ChatGPT können Studierende üben und erfahren, wie KI-basierte Tools – insbesondere solche zur Textgenerierung – funktionieren. Auch die massiven Auswirkungen auf unsere Gesellschaft und die Zukunft der Arbeit wird durch die Auseinandersetzung mit dem Tool in den Fokus gerückt.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Ein besonderes Augenmerk sollte dabei auf der Datengenerierung liegen. Wie werden diese erfasst? Wie werden diese verarbeitet? Welche Perspektiven werden abgebildet und in die Ergebnisse von ChatGPT transportiert? Nötig ist es ebenfalls, etwaige „Bias“ – also Verzerrungseffekte durch falsche Untersuchungsmethoden – zu erkennen. Damit werden ebenfalls Schlüsselkompetenzen, wie kritisches Denken vor dem Hintergrund der zunehmenden Informationsdichte, trainiert (Weimann-Sandig, 2023).",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ChatGPT kann anhand bestehender Daten für Inspiration sorgen und erste Ideen sammeln. Auf diese Art lässt sich der Prozess des Schreibens beschleunigen und die Kreativität fördern. ChatGPT dient hier als wertvolles Werkzeug, um Startbarrieren zu überwinden und den Schreibprozess zu unterstützen. Des Weiteren kann der Chatbot Feedback auf die Ausarbeitungen geben und somit aktiv im Schreibprozess unterstützen. Die Ausarbeitung kann mit ChatGPT „besprochen“ werden und dadurch werden wertvolle Hinweise auf mögliche Schwachstellen oder Verbesserungsmöglichkeiten sichtbar.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "ChatGPT bietet auch die Möglichkeit, in Diskussionen mehrere Perspektiven einzunehmen und entsprechend den Blickwinkel auf ein Thema zu erweitern. Damit verwandt ist die Fähigkeit des Chatbots, Texte zielgruppenspezifisch aufzubereiten.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Zudem ist ChatGPT in der Lage, Texte zusammenzufassen. Es ist jedoch wichtig zu beachten, dass die Zusammenfassung im Anschluss noch einmal überprüft werden sollte, was damit wiederum kritisches Denken fördert.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Der Chatbot kann ebenfalls Korrektur lesen und Ausarbeitungen auf Tippfehler, Zeichensetzung und Rechtschreibung überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Dennoch bleibt das Verfassen von Hausarbeiten ein wesentlicher Bestandteil des Studiums. KI-Tools könnten wie beschrieben helfen, zeitaufwändige Aufgaben zu verkürzen und so Raum für tiefgründige Gedanken zu schaffen. Es ist die Aufgabe der Lehrenden, den Studierenden offen und interessiert zu begegnen und sie in ihrem Entwicklungsprozess zu begleiten. (Klein, 2023)",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Antworten, die ChatGPT gibt, basieren auf maschinell erlernten Modellen und die Wissensbasis des Chatbots reicht aktuell lediglich bis 2021. Daher werden Quellen und Information auf dem neuesten Stand nicht berücksichtigt. In Bezug auf die verwendeten Informationsquellen bietet ChatGPT wenig oder keine Transparenz. Das heißt konkret: ChatGPT liefert die Antworten und Erkenntnisse, gibt jedoch nicht an, woher die Daten stammen. Es ist möglich, in der Abfrage zu erwähnen, dass die Quellen ausgegeben werden sollen, bei Bedarf auch in einem bestimmten Stil. Jedoch sind die Quellenangaben, die so ausgegeben werden, manchmal inkorrekt und/oder unvollständig. Die KI hat ebenfalls die Tendenz zum „Halluzinieren“, d.h. Quellen wirken z.T. frei „erfunden“. Dies liegt daran, dass die KI die Daten zusammensammelt und hier unter Umständen verschiedene fehlerhafte Angaben aus vorhanden Texten zusammenbringt.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Von ChatGPT ausgegebene Antworten können fehlerhaft sein. Dies gilt auch für Programmiercode, Zitate, Quellenangaben und Literaturlisten. Es handelt sich daher um kein absolutes Faktenwissen. Darüber hinaus ist zu beachten, dass ChatGPT in einigen Fällen sehr ausufernd bzw. redundant antwortet (schwafelt).",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "ChatGPT bietet außerdem Erklärungen von Zusammenhängen. Dabei besteht wiederum die Gefahr, dass neben falschen oder zufällig generierten Zitaten oder Quellen auch Fehlinformationen in den Antworten enthalten sein können. (Schlingensiepen, 2023)",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Des Weiteren können die Antworten Vorurteile aufweisen (Bias), da das Modell aufgrund der trainierten Daten bestimmte Muster, Klischees und Trends wiedergibt, die zu Verzerrungen führen können. Infolgedessen ist es wichtig, die Ergebnisse kritisch zu hinterfragen und sie gegebenenfalls mit anderen Quellen zu vergleichen, um keine Fehlinformationen oder diskriminierende Stereotype weiterzutragen.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Um sich bei ChatGPT anzumelden, werden von den Usern E-Mail-Adresse und Mobilnummer oder alternativ ein Google- oder Microsoft-Konto abgefragt. Darüber hinaus werden von ChatGPT die von den Usern eingegebenen Daten genutzt, um Antworten zu formulieren. Es bleibt jedoch unklar, wie genau die eingegebenen Informationen in die Datengrundlage von ChatGPT einfließen und wie sie von ChatGPT verarbeitet werden.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es gibt derzeit keine klare Regelung dafür, wie Texte, die mithilfe von ChatGPT erstellt wurden, in Publikationen zitiert werden sollen und welche Kennzeichnungen erforderlich sind. Dies gilt insbesondere, wenn ChatGPT beispielsweise nur zur Verbesserung der Formulierung eines bereits selbst geschriebenen Absatzes verwendet wird. Unklar ist darüber hinaus, ob geistiges Eigentum verletzt werden kann, wenn ChatGPT vorhandene Dokumente nutzt, die urheberrechtlich geschützt sind, auch wenn keine wörtliche Übernahme von Inhalten stattfindet. (urheberrecht.de, 2023)",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Es besteht die Gefahr, dass ChatGPT unreflektiert genutzt wird, um Aufgaben zur Texterstellung zu lösen, wodurch wichtige akademische Kompetenzen nicht mehr selbst erlernt werden. Darüber hinaus könnte ChatGPT eingesetzt werden, um bei Prüfungsleistungen wie Hausarbeiten oder Take-Home-Exams zu täuschen. Die erstellten Texte sind überzeugend und können als studentische Arbeiten positiv bewertet werden. (Heikkilä, 2022)",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gemäß den Hochschulgesetzen ist geregelt, dass der Nachweis der besonderen wissenschaftlichen Qualifikation durch eine selbstständige wissenschaftliche Arbeit (Dissertation) und eine mündliche Prüfung in Form einer Disputation erbracht wird. Das Bundesverwaltungsgericht sieht den Zweck der Promotion darin, eine über das allgemeine Studienziel hinausgehende Befähigung zum selbstständigen wissenschaftlichen Arbeiten nachzuweisen. Der von ChatGPT generierte Text kann damit eine Täuschung darstellen, da es sich nicht um selbstständig erbrachte wissenschaftliche Arbeiten handelt. Wie bereits erwähnt besteht noch die Frage, wie der KI-generierter Text in Bezug auf Urheberrecht und Täuschung behandelt werden sollte, da die Gesetze und Verordnungen hierzu derzeit unklar sind. (Schwarz, 2023)",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Da ChatGPT qualitativ hochwertige Ausgaben liefert, ist es schwer zu unterscheiden, ob der Text von einem Menschen oder einer KI erstellt wurde. OpenAI hat das Programm „Classifiers“ entwickelt, das diese Unterscheidung treffen soll, aber es funktioniert noch nicht gut. Es gibt auch Alternativtools, die eine solche Analyse durchführen und anzeigen können, ob der Text von einem Menschen oder einer Maschine stammt (Sachsinger, 2023). Zurzeit liefern diese Tools jedoch keine zuverlässigen Antworten, falsche Beschuldigungen oder das Nichterkennen von KI-generierten Texten können die Folge sein.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Aus den Chancen und Risiken, die aktuell bekannt sind, können folgende Empfehlungen für den Einsatz in der Lehre abgeleitet werden. Diese richten sich nach dem derzeitigen Kenntnisstand und stellen Impulse dar, die jederzeit erweitert werden können.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In erster Linie ist einen transparenten Umgang mit dem Einsatz von ChatGPT oder anderen vergleichbaren Tools erforderlich. Das Offenlegen von Informationen hat nach Beatrix Busse (et al., 2023) mindestens drei Vorteile:",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "1. Klarstellung, wer genau Autor:in eines Texts oder von Textteilen ist.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "2. Förderung des Schreibprozesses in Lehr- und Lernsituationen. Es geht also nicht nur um das Ergebnis, wie zum Beispiel den fertigen Text, sondern auch darum, wie die Lernenden dazu kommen.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "3. Kennzeichnung. Diese führt zu einer erhöhten Sensibilität für die Verfügbarkeit und den Einsatz solcher Systeme.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine sehr gute Empfehlung für den transparenten Umgang mit KI ist das von Prof. Dr. Spannagel von der Pädagogische Hochschule Heidelberg formulierte Dokument „Rules for Tools“ (2023). Mit diesem Regelwerk gibt er den Studierenden ein Hilfsmittel an die Hand, aus dem sie entnehmen können, wie die Regeln für die Nutzung von Tools in seinen Lehrveranstaltungen aussehen. Er geht dabei auch darauf ein, dass die Verantwortung für die Arbeitsergebnisse bei den Studierenden liegt.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Verwendung von KI verändert die Art und Weise, wie Aufgaben ausgeführt und Ergebnisse erzielt werden. Daher ist es wichtig, klare und transparente Bewertungskriterien festzulegen, die die spezifischen Anforderungen der Prüfungsleistung berücksichtigen und sicherstellen, damit alle Ergebnisse fair und so objektiv wie möglich bewertet werden.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Im Zusammenhang mit eingereichten Ergebnissen, die KI nutzen, kann es sinnvoll sein, den mündlichen Prüfungsanteil zu erhöhen und nachgelagert der schriftlichen Ausarbeitung anzusetzen. Damit kann das Verständnis der Prüflinge für das Thema überprüft und sichergestellt werden. Der Prüfling zeigt dabei, ob er oder sie sich tatsächlich mit dem jeweiligen Thema auseinandergesetzt hat und entsprechend in der Lage ist, komplexe Zusammenhänge darzustellen, Fragen zu beantworten, Ausarbeitungen argumentativ zu verteidigen und kritische Überlegungen anzustellen.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Neben klassischen mündlichen Prüfungen können auch Prüfungsleistungen in Form von Präsentationen oder Fachgesprächen sinnvoll sein und Kombinationsmöglichkeiten bieten. Beachtet werden muss, wie und ob diese in Zusammenhang mit der Prüfungsordnung möglich sind.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Durch die Anpassung von Aufgabenstellungen können Fähigkeiten wie Selbstreflexion, kritisches Denken und Wissenstransfer geschult und getestet werden, die KI nicht ersetzt oder imitieren kann.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Anstelle von Abfragen zu allgemein zugänglichen Informationen können Aufgabenstellungen darauf ausgerichtet werden, zu schulen, wie Informationen zu finden und zu bewerten sind, bzw. wie sie angewendet werden können und sollten. Denkbar sind etwa Fragen, die Kandidat:innen dazu anregen, ihre eigenen Schlussfolgerungen zu ziehen, anstatt Fakten zu wiederholen. Konkret könnte dafür ein KI-generierter Text herangezogen werden, der von den Studierenden bewertet, überprüft und erweitert werden soll. Die Aufgabenstellung könnte lauten: „Hinterfragen Sie den von ChatGPT generierten Text und überprüfen Sie diesen anhand nachgewiesener wissenschaftlicher Quellen.“",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Aufgabenstellungen können so gestaltet werden, dass sie den Transfer von Wissen aus einer Situation in eine andere unterstützen. Studierende können angeregt werden, ihr Wissen in einem neuen Kontext anzuwenden oder Probleme zu lösen. Wiederum kann KI dabei zum Einsatz kommen. Daher könnte die Aufgabenstellung um die Frage erweitert werden, wie sie unter Angabe der verwendeten Quellen und Hilfsmittel zu dem entsprechenden Ergebnis gekommen sind. In diesem Fall könnte die Aufgabenstellung lauten: „Ergänzen Sie Ihre Ergebnisse, unter Angabe der verwendeten Hilfsmittel und Quellen, um den Arbeitsprozess Ihrer Ausarbeitung.“",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In Aufgabenstellungen können Studierende dazu aufgefordert werden, kritisch zu denken und ihre Meinung zu einem bestimmten Thema zu äußern. In diesem Zusammenhang könnte ebenfalls ein KI-generierter Text verwendet werden, um eine Analyse des Themas zu ermöglichen. Die Aufgabenstellung könnte in diesem Fall lauten: „Bitte bewerten Sie den von ChatGPT generierten Text kritisch, ergänzen Sie die Ausführungen um Ihre eigene Meinung und hinterlegen Sie zusätzlich Beispiele.“",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es können Aufgaben gestellt werden, die die Fähigkeit zur Selbstreflexion und Selbstkritik abfragen. Beispielsweise sollen eigene Fehler in einer bestimmten Situation ausgemacht, beschrieben und Lösungsansätze erläutert werden, wie diese in Zukunft vermieden werden können.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn ein Täuschungsverdacht mit ChatGPT besteht, können folgende Faktoren für die Beurteilung herangezogen werden:",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Verdachtsfällen sollte auf die korrekte Quellenangabe geachtet werden, da ChatGPT nur bei expliziter Abfrage Quellen angibt. Einige Quellenangaben können Fehler enthalten, wie beispielsweise falsche Jahreszahlen und ungenaue oder sogar falsche Primärquellen. ChatGPT gibt selten Primärquellen an und bezieht sich stattdessen häufig auf im Internet auffindbare PDFs. Da ChatGPT oft auf englischsprachige Quellen zurückgreift, ist es ratsam, die korrekte Übersetzung zu überprüfen. Wenn der Chatbot Seitenzahlen angibt, so haben sich diese bei den von uns durchgeführten Tests als falsch herausgestellt. Ebenfalls gibt der Chatbot häufig URLs an, die nicht mehr funktionieren oder ins Leere laufen.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Beispiele von ChatGPT in Bezug auf Quellenangaben können in der Anlage entnommen werden.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wenn es darum geht, Wissen und Erkenntnis zu vermitteln, ist es wichtig, den Wissenstransfer zu berücksichtigen. Dies bedeutet, dass die Ausarbeitung nicht nur gut begründet und mit Beispielen versehen, sondern auch so gestaltet sein sollte, dass erkennbar ist, dass und wie das zu Vermittelnde auf verschiedene Kontexte übertragbar ist.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "lässt sich sagen, dass ChatGPT ein wertvolles Werkzeug im Recherche- und Schreibprozess sein kann. Es bietet eine breite Palette an Anwendungsmöglichkeiten, birgt aber auch Risiken wie ungenaue oder fehlerhafte Antworten und mangelnde Transparenz bei den Quellenangaben mit sich.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Um den durch die Bologna-Reform geforderten und von Wildt (2003) geprägten „Shift from Teaching to Learning“ zu erreichen und die Absolvent:innen für den Arbeitsmarkt zu qualifizieren, müssen wir uns als Hochschule intensiv mit der Vermittlung von Digital- / Data- / AI-Literacy beschäftigen.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Wie bereits erwähnt, neigt ChatGPT dazu, sich in unnötigen Ausschmückungen zu verlieren. Daher könnten Texte, die adverbienlastig sind, Sätze mit unterschiedlicher Syntax aufweisen oder allgemein stark ausgeschmückt sind, Hinweise darauf liefern, dass ChatGPT genutzt wurde.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Generiere mir einen Themenvorschlag für eine Präsentation. Keywords: Monitoring, Satellitenbilder und Klimaerwärmung.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "\"Überwachung unseres Planeten: Wie Satellitenbilder uns helfen, die Auswirkungen der Klimaerwärmung zu erkennen und zu verstehen.\"",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Kannst du mir zu diesem Thema Überschriften für 10 Folien erstellen?",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Klar, hier sind Überschriften für 10 Folien zu dem Thema \"Überwachung unseres Planeten: Wie Satellitenbilder uns helfen, die Auswirkungen der Klimaerwärmung zu erkennen und zu verstehen\":",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "1. Einführung in das Thema Überwachung und Klimaerwärmung",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "2. Warum ist Überwachung wichtig für das Verständnis der Klimaerwärmung?",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "3. Was sind Satellitenbilder und wie werden sie genutzt, um Klimadaten zu sammeln?",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "4. Die Geschichte der Überwachung des Planeten durch Satelliten",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "5. Die Vorteile von Satellitendaten für das Verständnis der Klimaerwärmung",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "6. Anwendungsbeispiele: Wie werden Satellitendaten genutzt, um Veränderungen im Klima zu verfolgen?",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "7. Die Herausforderungen bei der Überwachung des Klimas durch Satelliten",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "8. Die Zukunft der Überwachung des Klimas: Technologische Fortschritte und neue Möglichkeiten",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "9. Wie können wir die Überwachung und Analyse von Satellitendaten verbessern, um ein besseres Verständnis der Klimaerwärmung zu erlangen?",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "10. Schlussfolgerung und Handlungsempfehlungen: Was können wir tun, um die Überwachung und Verteidigung unseres Planeten zu verbessern?",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstelle ein Java-Programm, das zwei Zahlen vom Benutzer einliest und diese summiert. Das Ergebnis soll in der Konsole ausgegeben werden.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Hier ist ein einfaches Java-Programm, das zwei Zahlen vom Benutzer einliest und die Summe berechnet:\n\n```java\nimport java.util.Scanner;\n\npublic class Summe {\n public static void main(String[] args) {\n Scanner scanner = new Scanner(System.in);\n\n System.out.println(\"Geben Sie die erste Zahl ein:\");\n int zahl1 = scanner.nextInt();\n\n System.out.println(\"Geben Sie die zweite Zahl ein:\");\n int zahl2 = scanner.nextInt();\n\n int summe = zahl1 + zahl2;\n System.out.println(\"Die Summe der beiden Zahlen ist: \" + summe);\n\n scanner.close();\n }\n}\n```\n\nDieses Programm verwendet die Klasse 'Scanner' aus dem Paket 'java.util', um Benutzereingaben von der Konsole zu lesen. Es ruft die Methode 'nextInt()' auf, um eine ganze Zahl vom Benutzer zu lesen. Anschließend berechnet es die Summe der beiden Zahlen und gibt das Ergebnis mit 'println()' aus.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Für das Modul \"Einführung in Künstliche Intelligenz und Machine Learning\" brauche ich noch Prüfungsaufgaben. Kannst du mir zum Thema \"Überwachtes und unüberwachtes Lernen\" eine Aufgabe erstellen?",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ja, gerne! Hier ist eine Prüfungsaufgabe zum Thema \"Überwachtes und unüberwachtes Lernen\":\n\nAufgabenstellung:\n\n1. Erklären Sie die grundlegenden Unterschiede zwischen überwachtem und unüberwachtem Lernen.\n2. Gegeben ist ein Datensatz mit Kundenbewertungen zu verschiedenen Produkten. Beschreiben Sie, wie man diesen Datensatz für eine überwachte Lernaufgabe verwenden kann und nennen Sie eine geeignete Lernmethode.\n3. Gegeben ist ein Datensatz mit Daten über das Wetter an verschiedenen Orten. Beschreiben Sie, wie man diesen Datensatz für eine unüberwachte Lernaufgabe verwenden kann und nennen Sie eine geeignete Lernmethode.\n4. Vergleichen Sie die Vor- und Nachteile von überwachtem und unüberwachtem Lernen und nennen Sie mindestens zwei praktische Anwendungen jeder Methode.\n\nBewertungskriterien:\n\n- Genauigkeit und Vollständigkeit der Definitionen und Beschreibungen\n- Korrektheit und Genauigkeit der Auswahl der Lernmethoden\n- Genauigkeit und Vollständigkeit der Vergleiche der Vor- und Nachteile\n- Praktische Anwendungen sind relevant und beschrieben auf einem angemessenen Niveau",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Erstelle einen Ablaufplan für das Modul \"Einführung in Künstliche Intelligenz und Machine Learning\" im Masterstudiengang \"Geoinformatik und Vermessung\". Das Semester dauert 15 Wochen.",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Hier ist ein möglicher Ablaufplan für ein 15-wöchiges Semester:\n\nWoche 1-2: Einführung in KI und Machine Learning\n\n- Vermittlung von Grundbegriffen wie künstliche Intelligenz, Machine Learning, Deep Learning, etc.\n- Diskussion von Anwendungsgebieten von KI und Machine Learning in der Geoinformatik und Vermessung\n\nWoche 3-4: Supervised Learning\n\n- Vermittlung von grundlegenden Konzepten wie Regression, Klassifikation, Overfitting, etc.\n- Diskussion von verschiedenen Algorithmen wie k-Nearest Neighbor, Decision Trees, Support Vector Machines, etc.\n\nWoche 5-6: Unsupervised Learning\n\n- Vermittlung von Konzepten wie Clustering, Dimensionality Reduction, etc.\n- Diskussion von Algorithmen wie k-Means, Hierarchical Clustering, Principal Component Analysis, etc.\n\nWoche 7-8: Deep Learning\n\n- Vermittlung von Konzepten wie Neural Networks, Backpropagation, Convolutional Neural Networks, etc.\n- Diskussion von Anwendungen von Deep Learning in der Geoinformatik und Vermessung\n\nWoche 9-10: Reinforcement Learning\n\n- Vermittlung von Konzepten wie Agenten, Umgebungen, Belohnungen, etc.\n- Diskussion von Anwendungen von Reinforcement Learning in der Geoinformatik und Vermessung\n\nWoche 11-12: Projektarbeit\n\n- Teams bilden sich aus den Studierenden\n- Übungen zur Anwendung des Gelernten auf einem realen Problem aus der Geoinformatik und Vermessung\n\nWoche 13-14: Präsentationen und Feedback\n\n- Die Teams präsentieren ihre Projektergebnisse\n- Feedback von Lehrenden und Kommilitonen\n\nWoche 15: Abschlussdiskussion und Übungen\n\n- Diskussion von offenen Fragen und Übungen zur Verfestigung des Gelernten\n- Abschlussbewertung des Moduls.\n\nBitte beachte, dass dies nur ein Beispiel ist und je nach Schwerpunkt und Umfang des Moduls, kann der Ablaufplan angepasst werden.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Schreib mir einen Text über Konstruktivismus und verwenden dafür den Zitierstil APA.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Konstruktivismus ist eine pädagogische Theorie, die besagt, dass Lernende durch aktives Aufbauen von Wissen und Verstehen lernen, anstatt passiv zu absorbieren (Piaget, 1967). Es geht darum, dass der Lernende aktiv an der Konstruktion seines eigenen Verständnisses beteiligt ist und dass die Erfahrungen und die Perspektive des Lernenden eine wichtige Rolle beim Lernprozess spielen (Vygotsky, 1978).\n\nEin wichtiger Aspekt des Konstruktivismus ist die Idee, dass Wissen nicht nur von außen vermittelt werden kann, sondern auch durch die Interaktion mit der Umwelt und durch die Erfahrung entsteht (von Glasersfeld, 1989). Dies bedeutet, dass Lernende ihr eigenes Wissen aufbauen, indem sie auf vorhandene Kenntnisse aufbauen und diese weiterentwickeln.\n\nKonstruktivismus betont auch die Bedeutung von kollaborativem Lernen und sozialem Kontext (Bruner, 1996). Durch die Interaktion mit anderen Lernenden und die Möglichkeit, Ideen auszutauschen und zusammenzuarbeiten, können Lernende ihr Verständnis vertiefen und ihre Perspektive erweitern.\n\nInsgesamt betont der Konstruktivismus, dass Lernen ein aktiver und kontinuierlicher Prozess ist, bei dem Lernende ihr eigenes Verständnis aufbauen und ihre Kenntnisse und Fähigkeiten ständig erweitern.\n\n→ Jahreszahl ist falsch 1974\n\nZitierweise:\n\nPiaget, J. (1967). Biologie und Erkenntnis. Frankfurt am Main: Suhrkamp.\n\nVygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.\n\nvon Glasersfeld, E. (1989). Constructivism in education. In R. F. Dearden, J. H. Mason, & A. D. Olssen (Eds.), Knowledge, education, and cultural change (pp. 41–57). London: Routledge.\n\nBruner, J. (1996). The culture of education. Cambridge, MA: Harvard University Press.\n\n→ Hauptquelle ist nicht korrekt\n\nIn: T. Husen & T. N. Postlethwaite, (eds.) (1989) The International Encyclopedia of Education, Supplement Vol.1. Oxford/New York: Pergamon Press, 162–163.",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Schreib mir einen Artikel über Hochschuldidaktik. Verwende dafür den Zitationsstil APA und gib die Seitenzahlen der Quellen an.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gerne schreibe ich einen Artikel über Hochschuldidaktik.\n\nDie Hochschuldidaktik befasst sich mit der Gestaltung und Verbesserung von Lehr- und Lernprozessen an Hochschulen. Ziel ist es, die Qualität der Lehre zu verbessern und den Lernerfolg der Studierenden zu erhöhen. Dazu werden sowohl fachdidaktische als auch pädagogische Methoden angewendet, um den Studierenden eine bestmögliche Lernumgebung zu bieten.\n\nEin wichtiger Ansatz in der Hochschuldidaktik ist das Konzept des problembasierten Lernens. Hierbei steht die aktive Auseinandersetzung der Studierenden mit realen Problemen im Vordergrund, anstatt nur passives Auswendiglernen. Diese Methode hat sich als sehr erfolgreich erwiesen und wird in vielen Studiengängen angewendet (Barrows & Tamblyn, 1980).\n\nEin weiterer wichtiger Aspekt der Hochschuldidaktik ist die Verwendung von digitalen Medien in der Lehre. Der Einsatz von digitalen Medien kann sowohl die Lehre als auch das Lernen verbessern (Garrison & Kanuka, 2004). Dazu gehören beispielsweise Online-Vorlesungen, Lernplattformen und Webinare.\n\nDie Hochschuldidaktik befasst sich auch mit der Beurteilung des Lernerfolgs. Dabei geht es nicht nur um die Bewertung von Prüfungsleistungen, sondern auch um die Evaluation der Lehrveranstaltungen und des gesamten Studiengangs. Hierbei können beispielsweise Umfragen unter den Studierenden oder auch Selbstreflexion der Lehrenden helfen, Verbesserungspotenziale zu identifizieren (Barkley, Cross, & Major, 2014).\n\nZusammenfassend lässt sich sagen, dass die Hochschuldidaktik eine wichtige Rolle in der Gestaltung und Verbesserung von Lehr- und Lernprozessen an Hochschulen spielt. Durch die Anwendung von fachdidaktischen und pädagogischen Methoden sowie den Einsatz von digitalen Medien können Studierende optimal auf ihre Zukunft vorbereitet werden.\n\nLiteraturverzeichnis:\n\nBarrows, H. S., & Tamblyn, R. M. (1980). Problem-based learning: An approach to medical education. Springer Publishing Company.\n\nBarkley, E. F., Cross, K. P., & Major, C. H. (2014). Collaborative learning techniques: A handbook for college faculty. John Wiley & Sons.\n\nCook-Sather, A., Bovill, C., & Felten, P. (2014). Engaging students as partners in learning and teaching: A guide for faculty. John Wiley & Sons.\n\nGarrison, D. R., & Kanuka, H. (2004). Blended learning: Uncovering its transformative potential in higher education. The internet and higher education, 7(2), 95-105.\n\n→ Keine Seitenzahlen\n→ Keine Primärquellen",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Kannst du noch einen Aspekt der Sichtweise von Wildt ergänzen? Ebenfalls im Zitationsstil APA.",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Gerne ergänze ich noch einen Aspekt aus der Sichtweise von Wildt.\n\nIn seiner Sichtweise betont Wildt, dass die Hochschuldidaktik nicht nur eine Angelegenheit der Lehrenden ist, sondern dass auch die Studierenden eine aktive Rolle im Lernprozess einnehmen sollten (Wildt, 2000). Studierende sollten demnach nicht nur als passive Empfänger von Wissen betrachtet werden, sondern als aktive Partner, die ihre Lernprozesse mitgestalten. In diesem Zusammenhang spricht Wildt von einem 'kooperativen Lehren und Lernen' (Wildt, 2000, S. 8).\n\nDieser Ansatz betont die Bedeutung von partizipativen und interaktiven Lehr- und Lernmethoden, bei denen Studierende in Gruppen arbeiten, selbstständig Probleme lösen und in Diskussionen und Reflexionen miteinander und mit den Lehrenden interagieren (Wildt, 2000). Durch diese Art von interaktiver Lernumgebung sollen Studierende dazu befähigt werden, nicht nur fachliches Wissen zu erwerben, sondern auch ihre sozialen und methodischen Kompetenzen zu entwickeln.\n\nDiese Perspektive betont die Bedeutung von aktiver Beteiligung und Mitgestaltung der Studierenden im Lehr- und Lernprozess und legt nahe, dass eine kooperative Lehr- und Lernkultur dazu beitragen kann, dass Studierende ihre Lernziele besser erreichen und erfolgreicher abschneiden.\n\nLiteraturverzeichnis:\n\nWildt, J. (2000). Didaktik der Hochschulen: Eine Einführung. VS Verlag für Sozialwissenschaften.\n\n→ Quelle existiert nicht (Halluziniert)",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "gemäß den hochschulgesetzen ist geregelt, dass der nachweis der besonderen wissenschaftlichen qualifikation durch eine selbstständige wissenschaftliche arbeit (dissertation) und eine mündliche prüfung in form einer disputation erbracht wird. das bundesverwaltungsgericht sieht den zweck der promotion darin, eine über das allgemeine studienziel hinausgehende befähigung zum selbstständigen wissenschaftlichen arbeiten nachzuweisen. der von chatgpt generierte text kann damit eine täuschung darstellen, da es sich nicht um selbstständig erbrachte wissenschaftliche arbeiten handelt.",
+      "repaired": true
+    },
+    {
+      "id": 86,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "wie bereits erwähnt besteht noch die frage, wie der ki-generierte text in bezug auf urheberrecht und täuschung behandelt werden sollte, da die gesetze und verordnungen hierzu derzeit unklar sind.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 86,
+    "matched": 84,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 36,
+        "B": "B10",
+        "matched_words": "77/99",
+        "text": "Gemäß den Hochschulgesetzen ist geregelt, dass der Nachweis der besonderen wissenschaftlichen Qualifikation durch eine selbstständige wissenschaftliche Arbeit (Dissertation) und eine mündliche Prüfung in Form einer Disputation erbracht wird. Das Bundesverwaltungsgericht sieht den Zweck der Promotion darin, eine über das allgemeine Studienziel hinausgehende Befähigung zum selbstständigen wissenschaftlichen Arbeiten nachzuweisen. Der von ChatGPT generierte Text kann damit eine Täuschung darstellen, da es sich nicht um selbstständig erbrachte wissenschaftliche Arbeiten handelt. Wie bereits erwähnt besteht noch die Frage, wie der KI-generierter Text in Bezug auf Urheberrecht und Täuschung behandelt werden sollte, da die Gesetze und Verordnungen hierzu derzeit unklar sind. (Schwarz, 2023)"
+      },
+      {
+        "id": 86,
+        "B": "B10",
+        "matched_words": "9/29",
+        "text": "wie bereits erwähnt besteht noch die frage, wie der ki-generierte text in bezug auf urheberrecht und täuschung behandelt werden sollte, da die gesetze und verordnungen hierzu derzeit unklar sind."
+      }
+    ],
+    "source_coverage": 0.851,
+    "uncovered_chars": 4916,
+    "uncovered_gaps": 34,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 352,
+        "length": 352,
+        "text": "# hochschule mainz # source: https://www.hsmainz.de/fileadmin/hochschule/qualitaetsmanagement/kompetenzzentrum/pdf/handreichnungchatgpt_anlage.pdf # date: none # category: guideline # download file: hochschulemainz_1_0.pdf # extraction: mistralocr # handreichung chatgpt im hochschulkontext autorin: sonja steuding ## chatgpt - was ist das eigentlich?"
+      },
+      {
+        "char_start": 1329,
+        "char_end": 1364,
+        "length": 35,
+        "text": ". was macht chatgpt so besonders? *"
+      },
+      {
+        "char_start": 2621,
+        "char_end": 2679,
+        "length": 58,
+        "text": ". abbildung 1 - screenshot chatgpt ## anwendungsbeispiele"
+      },
+      {
+        "char_start": 3529,
+        "char_end": 3577,
+        "length": 48,
+        "text": "# chancen und risiken von chatgpt in der lehre"
+      },
+      {
+        "char_start": 3886,
+        "char_end": 3949,
+        "length": 63,
+        "text": ". ## chancen von chatgpt in der lehre ### kompetenzentwicklung"
+      },
+      {
+        "char_start": 4749,
+        "char_end": 4772,
+        "length": 23,
+        "text": ". ### sparringspartner"
+      },
+      {
+        "char_start": 6288,
+        "char_end": 6344,
+        "length": 56,
+        "text": "## risiken von chatgpt in der lehre ### quellenangaben"
+      },
+      {
+        "char_start": 7254,
+        "char_end": 7278,
+        "length": 24,
+        "text": ". ### fehlinformationen"
+      },
+      {
+        "char_start": 7830,
+        "char_end": 7840,
+        "length": 10,
+        "text": "### bias"
+      },
+      {
+        "char_start": 8237,
+        "char_end": 8255,
+        "length": 18,
+        "text": ". ### datenschutz"
+      },
+      {
+        "char_start": 8659,
+        "char_end": 8679,
+        "length": 20,
+        "text": ". ### urheberschaft"
+      },
+      {
+        "char_start": 9245,
+        "char_end": 9264,
+        "length": 19,
+        "text": "### betrugsgefahr"
+      },
+      {
+        "char_start": 10267,
+        "char_end": 10481,
+        "length": 214,
+        "text": ". wie bereits erwähnt besteht noch die frage, wie der ki-generierte text in bezug auf urheberrecht und täuschung behandelt werden sollte, da die gesetze und verordnungen hierzu derzeit unklar sind. (schwarz, 2023)"
+      },
+      {
+        "char_start": 11077,
+        "char_end": 11117,
+        "length": 40,
+        "text": ". # aktuelle empfehlungen für die lehre"
+      },
+      {
+        "char_start": 11365,
+        "char_end": 11391,
+        "length": 26,
+        "text": ". ## transparenter umgang"
+      },
+      {
+        "char_start": 12465,
+        "char_end": 12490,
+        "length": 25,
+        "text": ". ## bewertungskriterien"
+      },
+      {
+        "char_start": 12835,
+        "char_end": 12866,
+        "length": 31,
+        "text": ". ## mündliche prüfungsanteile"
+      },
+      {
+        "char_start": 13687,
+        "char_end": 13711,
+        "length": 24,
+        "text": ". ## aufgabenstellungen"
+      },
+      {
+        "char_start": 13902,
+        "char_end": 13928,
+        "length": 26,
+        "text": ". ### ein paar beispiele:"
+      },
+      {
+        "char_start": 15967,
+        "char_end": 15987,
+        "length": 20,
+        "text": ". ## verdachtsfälle"
+      },
+      {
+        "char_start": 16100,
+        "char_end": 16121,
+        "length": 21,
+        "text": ": ### quellenangaben"
+      },
+      {
+        "char_start": 16909,
+        "char_end": 16930,
+        "length": 21,
+        "text": ". ## wissenstransfer"
+      },
+      {
+        "char_start": 17266,
+        "char_end": 17287,
+        "length": 21,
+        "text": ". ## zusammenfassend"
+      },
+      {
+        "char_start": 17854,
+        "char_end": 17891,
+        "length": 37,
+        "text": ". ## textausschmückungen (schwafeln)"
+      },
+      {
+        "char_start": 18164,
+        "char_end": 21062,
+        "length": 2898,
+        "text": ". # quellenverzeichnis busse, b., kleiber, i., eickhoff, f. & andree, k. (2023, 2. februar). hinweise zu textgenerierenden ki-systemen im kontext von lehre und lernen. https://www.researchgate.net/publication/368033415_hinweise_zu_textgenerierenden_ki-systemen_im_kontext_von_lehre_und_lernen heikkilä, m. (2022, 27. dezember). wie man ki-generierte texte erkennen kann. heise online. https://www.heise.de/hintergrund/wieman-ki-generierte-texteerkennenkann-7434812.html klein, a. (2023, 17. februar). „die hausarbeit ist tot, es lebe die hausarbeit!\" einwicklungsorientierung, wissenschaftliches arbeiten und ki gemeinsam denken. hochschulforum digitalisierung. https://hochschulforumdigitalisierung.de/de/blog/andreaklein-ki-hausarbeit radford, a. (2018, 11. juni). improving language understanding with unsupervised learning. openai. https://openai.com/blog/languageunsupervised/ roestel, a. (2023, 9. februar). chatbot fasziniert das internet: mit chatgpt plant microsoft einen frontalangriff auf google. focus-online. https://www.focus.de/finanzen/boerse/aktien/chatgptistdasdasendevongoogle_id_184202130.html sachsinger, c. (2023, 7. februar). chatgpt-check: hat das ein mensch oder die ki geschrieben? br 24. https://www.br.de/nachrichten/netzwelt/chatgptcheckhatdaseinmenschoderdiekigeschrieben,tucxq2w schlingensiepen, j. (2023, 10. januar). wer hat angst vor chatgpt? jmwiarda.de. https://www.jmwiarda.de/2023/01/10/werhatangstvorchatgpt/ schwarz, s. (2023, 2. februar). #chatgpt und täuschung in schule und hochschule. beckblog. https://community.beck.de/2023/02/02/chatgptundtaeuschunginschuleundhochschule spannagel, c. (2023, 6. januar). rules for tools. pädagogische hochschule heidelberg. https://csp.uber.space/phhd/rulesfortools.pdf urheberrecht.de. (2023, 8. februar). chatgpt fordert das urheberrecht heraus: brisante fragen zum copyright. https://www.urheberrecht.de/chatgptfordertdasurheberrechtherausbrisantefragenzumcopyright/ weimann-sandig, n. (2023, 16. februar). chatgpt - eine chance zur wiederbelebung des kritischen denkens in der hochschullehre. hochschulforum digitalisierung. https://hochschulforumdigitalisierung.de/de/blog/praxistestchatgptweimannsandig wildt, j. (2003). the shift from teaching to learning - thesen zum wandel der lernkultur in modularisierten studienstrukturen. fraktion bündnis 90/die grünen im landtag nrw (hrsg.). unterwegs zu einem europäischen bildungssystem. https://www.htwberlin.de/files/presse/news/shift_from_teaching_to_learning_thesen_zum_wandel.pdf # hilfsmittel zur erstellung dieses dokuments wurden citavi, chatgpt (https://chat.openai.com/chat) und duden-mentor (https://mentor.duden.de/) als hilfsmittel verwendet. # anlage ## anwendungsbeispiele chatgpt dieses werk ist lizenziert unter creative-commons namensnennung - weitergabe unter gleichen bedingungen 4.0 internationale lizenz. ### studierende - präsentationen **ta**"
+      },
+      {
+        "char_start": 21310,
+        "char_end": 21318,
+        "length": 8,
+        "text": "**ta**"
+      },
+      {
+        "char_start": 22462,
+        "char_end": 22564,
+        "length": 102,
+        "text": "anwendungsbeispiel erstellt von patrick stellbauer hochschule mainz ### studierende - programmierung"
+      },
+      {
+        "char_start": 23517,
+        "char_end": 23624,
+        "length": 107,
+        "text": ". anwendungsbeispiel erstellt von patrick stellbauer hochschule mainz ### lehrende - prüfungsaufgabe **a**"
+      },
+      {
+        "char_start": 24899,
+        "char_end": 25008,
+        "length": 109,
+        "text": "anwendungsbeispiel erstellt von patrick stellbauer hochschule mainz ### lehrende - vorlesungsinhalte **pa**"
+      },
+      {
+        "char_start": 25187,
+        "char_end": 25196,
+        "length": 9,
+        "text": ". **gb**"
+      },
+      {
+        "char_start": 26908,
+        "char_end": 27008,
+        "length": 100,
+        "text": ". anwendungsbeispiel erstellt von patrick stellbauer hochschule mainz ### beispiel - quellen **ta**"
+      },
+      {
+        "char_start": 29040,
+        "char_end": 29136,
+        "length": 96,
+        "text": ". anwendungsbeispiel erstellt von sonja steuding hochschule mainz ### beispiel - quellen **ta**"
+      },
+      {
+        "char_start": 31712,
+        "char_end": 31807,
+        "length": 95,
+        "text": "anwendungsbeispiel erstellt von sonja steuding hochschule mainz ### beispiel - quellen **ta**"
+      },
+      {
+        "char_start": 33332,
+        "char_end": 33492,
+        "length": 160,
+        "text": "anwendungsbeispiel erstellt von sonja steuding hochschule mainz # abbildungsverzeichnis bild titelblatt: eigene aufnahme abbildung 1: screenshot chatgpt (s. 4)"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 359,
+      "text": "# Hochschule Mainz\n# Source: https://www.hs-mainz.de/fileadmin/Hochschule/Qualitaetsmanagement/Kompetenzzentrum/pdf/HandreichnungChatGPT_Anlage.pdf\n# Date: None\n# Category: guideline\n# Download file: hochschule-mainz_1_0.pdf\n# Extraction: mistral-ocr\n\n# HANDREICHUNG CHATGPT IM HOCHSCHULKONTEXT\n\nAutorin: Sonja Steuding\n\n## CHATGPT – WAS IST DAS EIGENTLICH?\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 359,
+      "char_end": 1083,
+      "text": "ChatGPT wurde im November 2022 vom Unternehmen OpenAI der Öffentlichkeit zur Verfügung gestellt und das mediale Interesse daran ist seitdem groß (Roestel, 2023). Doch so neu ist das Sprachverarbeitungsmodell gar nicht. Es ist eine Weiterentwicklung des ursprünglichen GPT (Generative Pretrained Transformer) Modells, das von OpenAI im Juni 2018 vorgestellt wurde (Radford, 2018). Es handelt sich dabei um ein Modell der NPL (Natural Language Processing, auf Deutsch: Verarbeitung natürlicher Sprache). Die ersten Systeme dieser Art erschienen in den 2000er Jahren. Einige bekannte Modelle, die seitdem veröffentlicht wurden, sind GPT, BERT und ELMO. Diese nutzen die neuesten Erkenntnisse und Methoden des Machine Learnings.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1084,
+      "char_end": 1337,
+      "text": "Eine Künstliche Intelligenz (KI) ist ein Computerprogramm oder eine Maschine, die in der Lage ist, komplexe Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern. Dabei nutzt sie unterschiedliche Techniken, wie z.B. Machine Learning.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1337,
+      "char_end": 1373,
+      "text": "\n\nWas macht ChatGPT so besonders?\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1373,
+      "char_end": 1641,
+      "text": "„Ich bin eine KI und generiere meine Antworten aus dem Text, auf den ich trainiert wurde. Was mich besonders macht, ist meine Fähigkeit, menschenähnliche Konversationen zu führen und die Fähigkeit, auf verschiedene Themen und Fragen kreativ und sinnvoll zu reagieren.“",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1641,
+      "char_end": 1644,
+      "text": "*\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1644,
+      "char_end": 2058,
+      "text": "ChatGPT ist also ein dialogorientierter Chatbot vergleichbar mit Sprachassistenten wie Alexa von Amazon, Siri von Apple und Co. Das Qualitätsniveau der Antworten von ChatGPT ist sehr hoch im Vergleich zu anderen Systemen. Es ist möglich, mit ChatGPT eine realistische Unterhaltung zu führen und der Chatbot ist in der Lage, den Kontext zu erkennen. Dieser Aspekt ist zurzeit das Alleinstellungsmerkmal von ChatGPT.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2060,
+      "char_end": 2472,
+      "text": "Die Daten für den Chatbot stammen aus verschiedensten (Internet-)Quellen – z.B. aus Wikipedia, Foren, sozialen Netzwerken, Nachrichtenartikeln und Bücherdatenbanken. ChatGPT wurde mit Informationen trainiert, die bis einschließlich September 2021 verfügbar waren. (Roestel, 2023) Da ChatGPT bereits jetzt regelmäßige Updates erhält, ist es wahrscheinlich, dass sich die Informationen in Zukunft erweitert werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2474,
+      "char_end": 2634,
+      "text": "Die Anwendung ist einfach und funktioniert wie ein Messenger. Die Frage wird eingegeben und ChatGPT antwortet direkt, als könnte man „live“ beim Tippen zusehen.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2634,
+      "char_end": 2694,
+      "text": "\n\nAbbildung 1 - Screenshot ChatGPT\n\n## ANWENDUNGSBEISPIELE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2694,
+      "char_end": 2791,
+      "text": "ChatGPT kann gut lesbare Texte zu verschiedenen Inhalten generieren. Ein paar konkrete Beispiele:",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2793,
+      "char_end": 2829,
+      "text": "- Schreiben von E-Mails oder Briefen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2830,
+      "char_end": 2861,
+      "text": "- Simulation von Unterhaltungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2862,
+      "char_end": 2894,
+      "text": "- Frage-Antwort-System (Chatbot)",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2895,
+      "char_end": 2937,
+      "text": "- Generieren und Zusammenfassen von Texten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2938,
+      "char_end": 2988,
+      "text": "- Feedback geben auf eigene Lösungen oder Arbeiten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2989,
+      "char_end": 3035,
+      "text": "- Verfassen oder Überprüfung von Programmcodes",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3036,
+      "char_end": 3088,
+      "text": "- Überprüfung von Rechtschreibung und Zeichensetzung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3089,
+      "char_end": 3104,
+      "text": "- Übersetzungen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3105,
+      "char_end": 3135,
+      "text": "- Vorschlagen von Kochrezepten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3136,
+      "char_end": 3183,
+      "text": "- Erstellen von Trainings- oder Haushaltsplänen",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3184,
+      "char_end": 3225,
+      "text": "- Schreiben von Songtexten oder Gedichten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3227,
+      "char_end": 3269,
+      "text": "Was sind die Grenzen? Antwort von ChatGPT:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3271,
+      "char_end": 3571,
+      "text": "„Ich bin nicht in der Lage, im Internet zu surfen oder andere Medien wie Fernsehshows oder Filme zu konsumieren, sondern kann nur auf den Text zugreifen, auf den ich trainiert wurde. Mein Ziel ist es, Benutzern zu helfen, indem ich schnelle, präzise und hilfreiche Antworten auf ihre Fragen liefere.“",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3571,
+      "char_end": 3621,
+      "text": "\n\n# CHANCEN UND RISIKEN VON CHATGPT IN DER LEHRE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3621,
+      "char_end": 3931,
+      "text": "Die im folgenden formulierten Chancen und Risiken sind auf Grundlage der aktuellen Erkenntnisse getroffen. KI und ChatGPT entwickeln sich rasant weiter. Es ist daher wichtig zu betonen, dass diese Einschätzungen stark von zugrunde liegender Wertebasis, Zielsetzung und dem konkreten Kontext der Lehre abhängen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3931,
+      "char_end": 3996,
+      "text": "\n\n## CHANCEN VON CHATGPT IN DER LEHRE\n\n### Kompetenzentwicklung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3996,
+      "char_end": 4310,
+      "text": "Durch einen reflektierten Umgang mit ChatGPT können Studierende üben und erfahren, wie KI-basierte Tools – insbesondere solche zur Textgenerierung – funktionieren. Auch die massiven Auswirkungen auf unsere Gesellschaft und die Zukunft der Arbeit wird durch die Auseinandersetzung mit dem Tool in den Fokus gerückt.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4312,
+      "char_end": 4798,
+      "text": "Ein besonderes Augenmerk sollte dabei auf der Datengenerierung liegen. Wie werden diese erfasst? Wie werden diese verarbeitet? Welche Perspektiven werden abgebildet und in die Ergebnisse von ChatGPT transportiert? Nötig ist es ebenfalls, etwaige „Bias“ – also Verzerrungseffekte durch falsche Untersuchungsmethoden – zu erkennen. Damit werden ebenfalls Schlüsselkompetenzen, wie kritisches Denken vor dem Hintergrund der zunehmenden Informationsdichte, trainiert (Weimann-Sandig, 2023).",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4798,
+      "char_end": 4822,
+      "text": "\n\n### Sparringspartner\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4822,
+      "char_end": 5396,
+      "text": "ChatGPT kann anhand bestehender Daten für Inspiration sorgen und erste Ideen sammeln. Auf diese Art lässt sich der Prozess des Schreibens beschleunigen und die Kreativität fördern. ChatGPT dient hier als wertvolles Werkzeug, um Startbarrieren zu überwinden und den Schreibprozess zu unterstützen. Des Weiteren kann der Chatbot Feedback auf die Ausarbeitungen geben und somit aktiv im Schreibprozess unterstützen. Die Ausarbeitung kann mit ChatGPT „besprochen“ werden und dadurch werden wertvolle Hinweise auf mögliche Schwachstellen oder Verbesserungsmöglichkeiten sichtbar.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5398,
+      "char_end": 5634,
+      "text": "ChatGPT bietet auch die Möglichkeit, in Diskussionen mehrere Perspektiven einzunehmen und entsprechend den Blickwinkel auf ein Thema zu erweitern. Damit verwandt ist die Fähigkeit des Chatbots, Texte zielgruppenspezifisch aufzubereiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5636,
+      "char_end": 5846,
+      "text": "Zudem ist ChatGPT in der Lage, Texte zusammenzufassen. Es ist jedoch wichtig zu beachten, dass die Zusammenfassung im Anschluss noch einmal überprüft werden sollte, was damit wiederum kritisches Denken fördert.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5848,
+      "char_end": 5972,
+      "text": "Der Chatbot kann ebenfalls Korrektur lesen und Ausarbeitungen auf Tippfehler, Zeichensetzung und Rechtschreibung überprüfen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5974,
+      "char_end": 6342,
+      "text": "Dennoch bleibt das Verfassen von Hausarbeiten ein wesentlicher Bestandteil des Studiums. KI-Tools könnten wie beschrieben helfen, zeitaufwändige Aufgaben zu verkürzen und so Raum für tiefgründige Gedanken zu schaffen. Es ist die Aufgabe der Lehrenden, den Studierenden offen und interessiert zu begegnen und sie in ihrem Entwicklungsprozess zu begleiten. (Klein, 2023)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6342,
+      "char_end": 6401,
+      "text": "\n\n## RISIKEN VON CHATGPT IN DER LEHRE\n\n### Quellenangaben\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6401,
+      "char_end": 7312,
+      "text": "Die Antworten, die ChatGPT gibt, basieren auf maschinell erlernten Modellen und die Wissensbasis des Chatbots reicht aktuell lediglich bis 2021. Daher werden Quellen und Information auf dem neuesten Stand nicht berücksichtigt. In Bezug auf die verwendeten Informationsquellen bietet ChatGPT wenig oder keine Transparenz. Das heißt konkret: ChatGPT liefert die Antworten und Erkenntnisse, gibt jedoch nicht an, woher die Daten stammen. Es ist möglich, in der Abfrage zu erwähnen, dass die Quellen ausgegeben werden sollen, bei Bedarf auch in einem bestimmten Stil. Jedoch sind die Quellenangaben, die so ausgegeben werden, manchmal inkorrekt und/oder unvollständig. Die KI hat ebenfalls die Tendenz zum „Halluzinieren“, d.h. Quellen wirken z.T. frei „erfunden“. Dies liegt daran, dass die KI die Daten zusammensammelt und hier unter Umständen verschiedene fehlerhafte Angaben aus vorhanden Texten zusammenbringt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7312,
+      "char_end": 7337,
+      "text": "\n\n### Fehlinformationen\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7337,
+      "char_end": 7644,
+      "text": "Von ChatGPT ausgegebene Antworten können fehlerhaft sein. Dies gilt auch für Programmiercode, Zitate, Quellenangaben und Literaturlisten. Es handelt sich daher um kein absolutes Faktenwissen. Darüber hinaus ist zu beachten, dass ChatGPT in einigen Fällen sehr ausufernd bzw. redundant antwortet (schwafelt).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7646,
+      "char_end": 7890,
+      "text": "ChatGPT bietet außerdem Erklärungen von Zusammenhängen. Dabei besteht wiederum die Gefahr, dass neben falschen oder zufällig generierten Zitaten oder Quellen auch Fehlinformationen in den Antworten enthalten sein können. (Schlingensiepen, 2023)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7890,
+      "char_end": 7902,
+      "text": "\n\n### Bias\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 7902,
+      "char_end": 8300,
+      "text": "Des Weiteren können die Antworten Vorurteile aufweisen (Bias), da das Modell aufgrund der trainierten Daten bestimmte Muster, Klischees und Trends wiedergibt, die zu Verzerrungen führen können. Infolgedessen ist es wichtig, die Ergebnisse kritisch zu hinterfragen und sie gegebenenfalls mit anderen Quellen zu vergleichen, um keine Fehlinformationen oder diskriminierende Stereotype weiterzutragen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8300,
+      "char_end": 8319,
+      "text": "\n\n### Datenschutz\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8319,
+      "char_end": 8726,
+      "text": "Um sich bei ChatGPT anzumelden, werden von den Usern E-Mail-Adresse und Mobilnummer oder alternativ ein Google- oder Microsoft-Konto abgefragt. Darüber hinaus werden von ChatGPT die von den Usern eingegebenen Daten genutzt, um Antworten zu formulieren. Es bleibt jedoch unklar, wie genau die eingegebenen Informationen in die Datengrundlage von ChatGPT einfließen und wie sie von ChatGPT verarbeitet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8726,
+      "char_end": 8747,
+      "text": "\n\n### Urheberschaft\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8747,
+      "char_end": 9313,
+      "text": "Es gibt derzeit keine klare Regelung dafür, wie Texte, die mithilfe von ChatGPT erstellt wurden, in Publikationen zitiert werden sollen und welche Kennzeichnungen erforderlich sind. Dies gilt insbesondere, wenn ChatGPT beispielsweise nur zur Verbesserung der Formulierung eines bereits selbst geschriebenen Absatzes verwendet wird. Unklar ist darüber hinaus, ob geistiges Eigentum verletzt werden kann, wenn ChatGPT vorhandene Dokumente nutzt, die urheberrechtlich geschützt sind, auch wenn keine wörtliche Übernahme von Inhalten stattfindet. (urheberrecht.de, 2023)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9313,
+      "char_end": 9334,
+      "text": "\n\n### Betrugsgefahr\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9334,
+      "char_end": 9756,
+      "text": "Es besteht die Gefahr, dass ChatGPT unreflektiert genutzt wird, um Aufgaben zur Texterstellung zu lösen, wodurch wichtige akademische Kompetenzen nicht mehr selbst erlernt werden. Darüber hinaus könnte ChatGPT eingesetzt werden, um bei Prüfungsleistungen wie Hausarbeiten oder Take-Home-Exams zu täuschen. Die erstellten Texte sind überzeugend und können als studentische Arbeiten positiv bewertet werden. (Heikkilä, 2022)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9758,
+      "char_end": 10339,
+      "text": "Gemäß den Hochschulgesetzen ist geregelt, dass der Nachweis der besonderen wissenschaftlichen Qualifikation durch eine selbstständige wissenschaftliche Arbeit (Dissertation) und eine mündliche Prüfung in Form einer Disputation erbracht wird. Das Bundesverwaltungsgericht sieht den Zweck der Promotion darin, eine über das allgemeine Studienziel hinausgehende Befähigung zum selbstständigen wissenschaftlichen Arbeiten nachzuweisen. Der von ChatGPT generierte Text kann damit eine Täuschung darstellen, da es sich nicht um selbstständig erbrachte wissenschaftliche Arbeiten handelt.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10340,
+      "char_end": 10535,
+      "text": "Wie bereits erwähnt besteht noch die Frage, wie der KI-generierte Text in Bezug auf Urheberrecht und Täuschung behandelt werden sollte, da die Gesetze und Verordnungen hierzu derzeit unklar sind.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10535,
+      "char_end": 10553,
+      "text": " (Schwarz, 2023)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10553,
+      "char_end": 11150,
+      "text": "Da ChatGPT qualitativ hochwertige Ausgaben liefert, ist es schwer zu unterscheiden, ob der Text von einem Menschen oder einer KI erstellt wurde. OpenAI hat das Programm „Classifiers“ entwickelt, das diese Unterscheidung treffen soll, aber es funktioniert noch nicht gut. Es gibt auch Alternativtools, die eine solche Analyse durchführen und anzeigen können, ob der Text von einem Menschen oder einer Maschine stammt (Sachsinger, 2023). Zurzeit liefern diese Tools jedoch keine zuverlässigen Antworten, falsche Beschuldigungen oder das Nichterkennen von KI-generierten Texten können die Folge sein.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11150,
+      "char_end": 11191,
+      "text": "\n\n# AKTUELLE EMPFEHLUNGEN FÜR DIE LEHRE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11191,
+      "char_end": 11440,
+      "text": "Aus den Chancen und Risiken, die aktuell bekannt sind, können folgende Empfehlungen für den Einsatz in der Lehre abgeleitet werden. Diese richten sich nach dem derzeitigen Kenntnisstand und stellen Impulse dar, die jederzeit erweitert werden können.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11440,
+      "char_end": 11467,
+      "text": "\n\n## TRANSPARENTER UMGANG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11467,
+      "char_end": 11686,
+      "text": "In erster Linie ist einen transparenten Umgang mit dem Einsatz von ChatGPT oder anderen vergleichbaren Tools erforderlich. Das Offenlegen von Informationen hat nach Beatrix Busse (et al., 2023) mindestens drei Vorteile:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11688,
+      "char_end": 11760,
+      "text": "1. Klarstellung, wer genau Autor:in eines Texts oder von Textteilen ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11761,
+      "char_end": 11951,
+      "text": "2. Förderung des Schreibprozesses in Lehr- und Lernsituationen. Es geht also nicht nur um das Ergebnis, wie zum Beispiel den fertigen Text, sondern auch darum, wie die Lernenden dazu kommen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11952,
+      "char_end": 12067,
+      "text": "3. Kennzeichnung. Diese führt zu einer erhöhten Sensibilität für die Verfügbarkeit und den Einsatz solcher Systeme.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12069,
+      "char_end": 12546,
+      "text": "Eine sehr gute Empfehlung für den transparenten Umgang mit KI ist das von Prof. Dr. Spannagel von der Pädagogische Hochschule Heidelberg formulierte Dokument „Rules for Tools“ (2023). Mit diesem Regelwerk gibt er den Studierenden ein Hilfsmittel an die Hand, aus dem sie entnehmen können, wie die Regeln für die Nutzung von Tools in seinen Lehrveranstaltungen aussehen. Er geht dabei auch darauf ein, dass die Verantwortung für die Arbeitsergebnisse bei den Studierenden liegt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12546,
+      "char_end": 12572,
+      "text": "\n\n## BEWERTUNGSKRITERIEN\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12572,
+      "char_end": 12918,
+      "text": "Die Verwendung von KI verändert die Art und Weise, wie Aufgaben ausgeführt und Ergebnisse erzielt werden. Daher ist es wichtig, klare und transparente Bewertungskriterien festzulegen, die die spezifischen Anforderungen der Prüfungsleistung berücksichtigen und sicherstellen, damit alle Ergebnisse fair und so objektiv wie möglich bewertet werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12918,
+      "char_end": 12950,
+      "text": "\n\n## MÜNDLICHE PRÜFUNGSANTEILE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12950,
+      "char_end": 13510,
+      "text": "Im Zusammenhang mit eingereichten Ergebnissen, die KI nutzen, kann es sinnvoll sein, den mündlichen Prüfungsanteil zu erhöhen und nachgelagert der schriftlichen Ausarbeitung anzusetzen. Damit kann das Verständnis der Prüflinge für das Thema überprüft und sichergestellt werden. Der Prüfling zeigt dabei, ob er oder sie sich tatsächlich mit dem jeweiligen Thema auseinandergesetzt hat und entsprechend in der Lage ist, komplexe Zusammenhänge darzustellen, Fragen zu beantworten, Ausarbeitungen argumentativ zu verteidigen und kritische Überlegungen anzustellen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13512,
+      "char_end": 13773,
+      "text": "Neben klassischen mündlichen Prüfungen können auch Prüfungsleistungen in Form von Präsentationen oder Fachgesprächen sinnvoll sein und Kombinationsmöglichkeiten bieten. Beachtet werden muss, wie und ob diese in Zusammenhang mit der Prüfungsordnung möglich sind.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13773,
+      "char_end": 13798,
+      "text": "\n\n## AUFGABENSTELLUNGEN\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13798,
+      "char_end": 13990,
+      "text": "Durch die Anpassung von Aufgabenstellungen können Fähigkeiten wie Selbstreflexion, kritisches Denken und Wissenstransfer geschult und getestet werden, die KI nicht ersetzt oder imitieren kann.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13990,
+      "char_end": 14017,
+      "text": "\n\n### Ein paar Beispiele:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14017,
+      "char_end": 14680,
+      "text": "Anstelle von Abfragen zu allgemein zugänglichen Informationen können Aufgabenstellungen darauf ausgerichtet werden, zu schulen, wie Informationen zu finden und zu bewerten sind, bzw. wie sie angewendet werden können und sollten. Denkbar sind etwa Fragen, die Kandidat:innen dazu anregen, ihre eigenen Schlussfolgerungen zu ziehen, anstatt Fakten zu wiederholen. Konkret könnte dafür ein KI-generierter Text herangezogen werden, der von den Studierenden bewertet, überprüft und erweitert werden soll. Die Aufgabenstellung könnte lauten: „Hinterfragen Sie den von ChatGPT generierten Text und überprüfen Sie diesen anhand nachgewiesener wissenschaftlicher Quellen.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14682,
+      "char_end": 15309,
+      "text": "Aufgabenstellungen können so gestaltet werden, dass sie den Transfer von Wissen aus einer Situation in eine andere unterstützen. Studierende können angeregt werden, ihr Wissen in einem neuen Kontext anzuwenden oder Probleme zu lösen. Wiederum kann KI dabei zum Einsatz kommen. Daher könnte die Aufgabenstellung um die Frage erweitert werden, wie sie unter Angabe der verwendeten Quellen und Hilfsmittel zu dem entsprechenden Ergebnis gekommen sind. In diesem Fall könnte die Aufgabenstellung lauten: „Ergänzen Sie Ihre Ergebnisse, unter Angabe der verwendeten Hilfsmittel und Quellen, um den Arbeitsprozess Ihrer Ausarbeitung.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15311,
+      "char_end": 15785,
+      "text": "In Aufgabenstellungen können Studierende dazu aufgefordert werden, kritisch zu denken und ihre Meinung zu einem bestimmten Thema zu äußern. In diesem Zusammenhang könnte ebenfalls ein KI-generierter Text verwendet werden, um eine Analyse des Themas zu ermöglichen. Die Aufgabenstellung könnte in diesem Fall lauten: „Bitte bewerten Sie den von ChatGPT generierten Text kritisch, ergänzen Sie die Ausführungen um Ihre eigene Meinung und hinterlegen Sie zusätzlich Beispiele.“",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15787,
+      "char_end": 16060,
+      "text": "Es können Aufgaben gestellt werden, die die Fähigkeit zur Selbstreflexion und Selbstkritik abfragen. Beispielsweise sollen eigene Fehler in einer bestimmten Situation ausgemacht, beschrieben und Lösungsansätze erläutert werden, wie diese in Zukunft vermieden werden können.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16060,
+      "char_end": 16081,
+      "text": "\n\n## VERDACHTSFÄLLE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16081,
+      "char_end": 16195,
+      "text": "Wenn ein Täuschungsverdacht mit ChatGPT besteht, können folgende Faktoren für die Beurteilung herangezogen werden:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16195,
+      "char_end": 16217,
+      "text": "\n\n### Quellenangaben\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16217,
+      "char_end": 16917,
+      "text": "Bei Verdachtsfällen sollte auf die korrekte Quellenangabe geachtet werden, da ChatGPT nur bei expliziter Abfrage Quellen angibt. Einige Quellenangaben können Fehler enthalten, wie beispielsweise falsche Jahreszahlen und ungenaue oder sogar falsche Primärquellen. ChatGPT gibt selten Primärquellen an und bezieht sich stattdessen häufig auf im Internet auffindbare PDFs. Da ChatGPT oft auf englischsprachige Quellen zurückgreift, ist es ratsam, die korrekte Übersetzung zu überprüfen. Wenn der Chatbot Seitenzahlen angibt, so haben sich diese bei den von uns durchgeführten Tests als falsch herausgestellt. Ebenfalls gibt der Chatbot häufig URLs an, die nicht mehr funktionieren oder ins Leere laufen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16919,
+      "char_end": 17007,
+      "text": "Beispiele von ChatGPT in Bezug auf Quellenangaben können in der Anlage entnommen werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17007,
+      "char_end": 17029,
+      "text": "\n\n## WISSENSTRANSFER\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17029,
+      "char_end": 17366,
+      "text": "Wenn es darum geht, Wissen und Erkenntnis zu vermitteln, ist es wichtig, den Wissenstransfer zu berücksichtigen. Dies bedeutet, dass die Ausarbeitung nicht nur gut begründet und mit Beispielen versehen, sondern auch so gestaltet sein sollte, dass erkennbar ist, dass und wie das zu Vermittelnde auf verschiedene Kontexte übertragbar ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17366,
+      "char_end": 17388,
+      "text": "\n\n## ZUSAMMENFASSEND\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17388,
+      "char_end": 17667,
+      "text": "lässt sich sagen, dass ChatGPT ein wertvolles Werkzeug im Recherche- und Schreibprozess sein kann. Es bietet eine breite Palette an Anwendungsmöglichkeiten, birgt aber auch Risiken wie ungenaue oder fehlerhafte Antworten und mangelnde Transparenz bei den Quellenangaben mit sich.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17669,
+      "char_end": 17961,
+      "text": "Um den durch die Bologna-Reform geforderten und von Wildt (2003) geprägten „Shift from Teaching to Learning“ zu erreichen und die Absolvent:innen für den Arbeitsmarkt zu qualifizieren, müssen wir uns als Hochschule intensiv mit der Vermittlung von Digital- / Data- / AI-Literacy beschäftigen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17961,
+      "char_end": 17999,
+      "text": "\n\n## TEXTAUSSCHMÜCKUNGEN (SCHWAFELN)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17999,
+      "char_end": 18273,
+      "text": "Wie bereits erwähnt, neigt ChatGPT dazu, sich in unnötigen Ausschmückungen zu verlieren. Daher könnten Texte, die adverbienlastig sind, Sätze mit unterschiedlicher Syntax aufweisen oder allgemein stark ausgeschmückt sind, Hinweise darauf liefern, dass ChatGPT genutzt wurde.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18273,
+      "char_end": 21233,
+      "text": "\n\n# QUELLENVERZEICHNIS\n\nBusse, B., Kleiber, I., Eickhoff, F. & Andree, K. (2023, 2. Februar). Hinweise zu textgenerierenden KI-Systemen im Kontext von Lehre und Lernen. https://www.researchgate.net/publication/368033415_Hinweise_zu_textgenerierenden_KI-Systemen_im_Kontext_von_Lehre_und_Lernen\n\nHeikkilä, M. (2022, 27. Dezember). Wie man KI-generierte Texte erkennen kann. heise online. https://www.heise.de/hintergrund/Wie-man-KI-generierte-Texte-erkennen-kann-7434812.html\n\nKlein, A. (2023, 17. Februar). „Die Hausarbeit ist tot, es lebe die Hausarbeit!“ Einwicklungsorientierung, wissenschaftliches Arbeiten und KI gemeinsam denken. Hochschulforum Digitalisierung. https://hochschulforumdigitalisierung.de/de/blog/andrea-klein-KI-Hausarbeit\n\nRadford, A. (2018, 11. Juni). Improving Language Understanding with Unsupervised Learning. OpenAI. https://openai.com/blog/language-unsupervised/\n\nRoestel, A. (2023, 9. Februar). Chatbot fasziniert das Internet: Mit ChatGPT plant Microsoft einen Frontalangriff auf Google. FOCUS-online. https://www.focus.de/finanzen/boerse/aktien/chatgpt-ist-das-das-ende-von-google_id_184202130.html\n\nSachsinger, C. (2023, 7. Februar). ChatGPT-Check: Hat das ein Mensch oder die KI geschrieben? BR 24. https://www.br.de/nachrichten/netzwelt/chatgpt-check-hat-das-ein-mensch-oder-die-ki-geschrieben,TUcXq2w\n\nSchlingensiepen, J. (2023, 10. Januar). Wer hat Angst vor ChatGPT? jmwiarda.de. https://www.jmwiarda.de/2023/01/10/wer-hat-angst-vor-chatgpt/\n\nSchwarz, S. (2023, 2. Februar). #ChatGPT und Täuschung in Schule und Hochschule. Beck-blog. https://community.beck.de/2023/02/02/chatgpt-und-taeuschung-in-schule-und-hochschule\n\nSpannagel, C. (2023, 6. Januar). Rules for Tools. Pädagogische Hochschule Heidelberg. https://csp.uber.space/phhd/rulesfortools.pdf\n\nurheberrecht.de. (2023, 8. Februar). ChatGPT fordert das Urheberrecht heraus: Brisante Fragen zum Copyright. https://www.urheberrecht.de/chatgpt-fordert-das-urheberrecht-heraus-brisante-fragen-zum-copyright/\n\nWeimann-Sandig, N. (2023, 16. Februar). ChatGPT – Eine Chance zur Wiederbelebung des Kritischen Denkens in der Hochschullehre. Hochschulforum Digitalisierung. https://hochschulforumdigitalisierung.de/de/blog/praxistest-chatgpt-weimann-sandig\n\nWildt, J. (2003). The Shift from Teaching to Learning – Thesen zum Wandel der Lernkultur in modularisierten Studienstrukturen. Fraktion Bündnis 90/Die Grünen im Landtag NRW (Hrsg.). Unterwegs zu einem europäischen Bildungssystem. https://www.htw-berlin.de/files/Presse/News/Shift_from_Teaching_to_Learning_Thesen_zum_Wandel.pdf\n\n# HILFSMITTEL\n\nZur Erstellung dieses Dokuments wurden Citavi, ChatGPT (https://chat.openai.com/chat) und Duden-Mentor (https://mentor.duden.de/) als Hilfsmittel verwendet.\n\n# ANLAGE\n\n## Anwendungsbeispiele ChatGPT\n\nDieses Werk ist lizenziert unter Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 Internationale Lizenz.\n\n### Studierende - Präsentationen\n\n**TA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21233,
+      "char_end": 21350,
+      "text": "Generiere mir einen Themenvorschlag für eine Präsentation. Keywords: Monitoring, Satellitenbilder und Klimaerwärmung.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21352,
+      "char_end": 21482,
+      "text": "\"Überwachung unseres Planeten: Wie Satellitenbilder uns helfen, die Auswirkungen der Klimaerwärmung zu erkennen und zu verstehen.\"",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21482,
+      "char_end": 21491,
+      "text": "\n\n**TA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21491,
+      "char_end": 21559,
+      "text": "Kannst du mir zu diesem Thema Überschriften für 10 Folien erstellen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21561,
+      "char_end": 21748,
+      "text": "Klar, hier sind Überschriften für 10 Folien zu dem Thema \"Überwachung unseres Planeten: Wie Satellitenbilder uns helfen, die Auswirkungen der Klimaerwärmung zu erkennen und zu verstehen\":",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21750,
+      "char_end": 21807,
+      "text": "1. Einführung in das Thema Überwachung und Klimaerwärmung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21808,
+      "char_end": 21880,
+      "text": "2. Warum ist Überwachung wichtig für das Verständnis der Klimaerwärmung?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21881,
+      "char_end": 21963,
+      "text": "3. Was sind Satellitenbilder und wie werden sie genutzt, um Klimadaten zu sammeln?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21964,
+      "char_end": 22027,
+      "text": "4. Die Geschichte der Überwachung des Planeten durch Satelliten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22028,
+      "char_end": 22102,
+      "text": "5. Die Vorteile von Satellitendaten für das Verständnis der Klimaerwärmung",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22103,
+      "char_end": 22202,
+      "text": "6. Anwendungsbeispiele: Wie werden Satellitendaten genutzt, um Veränderungen im Klima zu verfolgen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22203,
+      "char_end": 22275,
+      "text": "7. Die Herausforderungen bei der Überwachung des Klimas durch Satelliten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22276,
+      "char_end": 22369,
+      "text": "8. Die Zukunft der Überwachung des Klimas: Technologische Fortschritte und neue Möglichkeiten",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22370,
+      "char_end": 22507,
+      "text": "9. Wie können wir die Überwachung und Analyse von Satellitendaten verbessern, um ein besseres Verständnis der Klimaerwärmung zu erlangen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22508,
+      "char_end": 22643,
+      "text": "10. Schlussfolgerung und Handlungsempfehlungen: Was können wir tun, um die Überwachung und Verteidigung unseres Planeten zu verbessern?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22643,
+      "char_end": 22748,
+      "text": "\n\nAnwendungsbeispiel erstellt von Patrick Stellbauer Hochschule Mainz\n\n### Studierende - Programmierung\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22748,
+      "char_end": 22885,
+      "text": "Erstelle ein Java-Programm, das zwei Zahlen vom Benutzer einliest und diese summiert. Das Ergebnis soll in der Konsole ausgegeben werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22887,
+      "char_end": 23724,
+      "text": "Hier ist ein einfaches Java-Programm, das zwei Zahlen vom Benutzer einliest und die Summe berechnet:\n\n```java\nimport java.util.Scanner;\n\npublic class Summe {\n public static void main(String[] args) {\n Scanner scanner = new Scanner(System.in);\n\n System.out.println(\"Geben Sie die erste Zahl ein:\");\n int zahl1 = scanner.nextInt();\n\n System.out.println(\"Geben Sie die zweite Zahl ein:\");\n int zahl2 = scanner.nextInt();\n\n int summe = zahl1 + zahl2;\n System.out.println(\"Die Summe der beiden Zahlen ist: \" + summe);\n\n scanner.close();\n }\n}\n```\n\nDieses Programm verwendet die Klasse 'Scanner' aus dem Paket 'java.util', um Benutzereingaben von der Konsole zu lesen. Es ruft die Methode 'nextInt()' auf, um eine ganze Zahl vom Benutzer zu lesen. Anschließend berechnet es die Summe der beiden Zahlen und gibt das Ergebnis mit 'println()' aus.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23724,
+      "char_end": 23833,
+      "text": "\n\nAnwendungsbeispiel erstellt von Patrick Stellbauer Hochschule Mainz\n\n### Lehrende - Prüfungsaufgabe\n\n**A** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23833,
+      "char_end": 24028,
+      "text": "Für das Modul \"Einführung in Künstliche Intelligenz und Machine Learning\" brauche ich noch Prüfungsaufgaben. Kannst du mir zum Thema \"Überwachtes und unüberwachtes Lernen\" eine Aufgabe erstellen?",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24028,
+      "char_end": 24036,
+      "text": "\n\n**B** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24036,
+      "char_end": 25125,
+      "text": "Ja, gerne! Hier ist eine Prüfungsaufgabe zum Thema \"Überwachtes und unüberwachtes Lernen\":\n\nAufgabenstellung:\n\n1. Erklären Sie die grundlegenden Unterschiede zwischen überwachtem und unüberwachtem Lernen.\n2. Gegeben ist ein Datensatz mit Kundenbewertungen zu verschiedenen Produkten. Beschreiben Sie, wie man diesen Datensatz für eine überwachte Lernaufgabe verwenden kann und nennen Sie eine geeignete Lernmethode.\n3. Gegeben ist ein Datensatz mit Daten über das Wetter an verschiedenen Orten. Beschreiben Sie, wie man diesen Datensatz für eine unüberwachte Lernaufgabe verwenden kann und nennen Sie eine geeignete Lernmethode.\n4. Vergleichen Sie die Vor- und Nachteile von überwachtem und unüberwachtem Lernen und nennen Sie mindestens zwei praktische Anwendungen jeder Methode.\n\nBewertungskriterien:\n\n- Genauigkeit und Vollständigkeit der Definitionen und Beschreibungen\n- Korrektheit und Genauigkeit der Auswahl der Lernmethoden\n- Genauigkeit und Vollständigkeit der Vergleiche der Vor- und Nachteile\n- Praktische Anwendungen sind relevant und beschrieben auf einem angemessenen Niveau",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25125,
+      "char_end": 25237,
+      "text": "\n\nAnwendungsbeispiel erstellt von Patrick Stellbauer Hochschule Mainz\n\n### Lehrende - Vorlesungsinhalte\n\n**PA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25237,
+      "char_end": 25420,
+      "text": "Erstelle einen Ablaufplan für das Modul \"Einführung in Künstliche Intelligenz und Machine Learning\" im Masterstudiengang \"Geoinformatik und Vermessung\". Das Semester dauert 15 Wochen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25420,
+      "char_end": 25429,
+      "text": "\n\n**GB** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25429,
+      "char_end": 27191,
+      "text": "Hier ist ein möglicher Ablaufplan für ein 15-wöchiges Semester:\n\nWoche 1-2: Einführung in KI und Machine Learning\n\n- Vermittlung von Grundbegriffen wie künstliche Intelligenz, Machine Learning, Deep Learning, etc.\n- Diskussion von Anwendungsgebieten von KI und Machine Learning in der Geoinformatik und Vermessung\n\nWoche 3-4: Supervised Learning\n\n- Vermittlung von grundlegenden Konzepten wie Regression, Klassifikation, Overfitting, etc.\n- Diskussion von verschiedenen Algorithmen wie k-Nearest Neighbor, Decision Trees, Support Vector Machines, etc.\n\nWoche 5-6: Unsupervised Learning\n\n- Vermittlung von Konzepten wie Clustering, Dimensionality Reduction, etc.\n- Diskussion von Algorithmen wie k-Means, Hierarchical Clustering, Principal Component Analysis, etc.\n\nWoche 7-8: Deep Learning\n\n- Vermittlung von Konzepten wie Neural Networks, Backpropagation, Convolutional Neural Networks, etc.\n- Diskussion von Anwendungen von Deep Learning in der Geoinformatik und Vermessung\n\nWoche 9-10: Reinforcement Learning\n\n- Vermittlung von Konzepten wie Agenten, Umgebungen, Belohnungen, etc.\n- Diskussion von Anwendungen von Reinforcement Learning in der Geoinformatik und Vermessung\n\nWoche 11-12: Projektarbeit\n\n- Teams bilden sich aus den Studierenden\n- Übungen zur Anwendung des Gelernten auf einem realen Problem aus der Geoinformatik und Vermessung\n\nWoche 13-14: Präsentationen und Feedback\n\n- Die Teams präsentieren ihre Projektergebnisse\n- Feedback von Lehrenden und Kommilitonen\n\nWoche 15: Abschlussdiskussion und Übungen\n\n- Diskussion von offenen Fragen und Übungen zur Verfestigung des Gelernten\n- Abschlussbewertung des Moduls.\n\nBitte beachte, dass dies nur ein Beispiel ist und je nach Schwerpunkt und Umfang des Moduls, kann der Ablaufplan angepasst werden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27191,
+      "char_end": 27293,
+      "text": "\n\nAnwendungsbeispiel erstellt von Patrick Stellbauer Hochschule Mainz\n\n### Beispiel - Quellen\n\n**TA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27293,
+      "char_end": 27377,
+      "text": "Schreib mir einen Text über Konstruktivismus und verwenden dafür den Zitierstil APA.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27379,
+      "char_end": 29338,
+      "text": "Konstruktivismus ist eine pädagogische Theorie, die besagt, dass Lernende durch aktives Aufbauen von Wissen und Verstehen lernen, anstatt passiv zu absorbieren (Piaget, 1967). Es geht darum, dass der Lernende aktiv an der Konstruktion seines eigenen Verständnisses beteiligt ist und dass die Erfahrungen und die Perspektive des Lernenden eine wichtige Rolle beim Lernprozess spielen (Vygotsky, 1978).\n\nEin wichtiger Aspekt des Konstruktivismus ist die Idee, dass Wissen nicht nur von außen vermittelt werden kann, sondern auch durch die Interaktion mit der Umwelt und durch die Erfahrung entsteht (von Glasersfeld, 1989). Dies bedeutet, dass Lernende ihr eigenes Wissen aufbauen, indem sie auf vorhandene Kenntnisse aufbauen und diese weiterentwickeln.\n\nKonstruktivismus betont auch die Bedeutung von kollaborativem Lernen und sozialem Kontext (Bruner, 1996). Durch die Interaktion mit anderen Lernenden und die Möglichkeit, Ideen auszutauschen und zusammenzuarbeiten, können Lernende ihr Verständnis vertiefen und ihre Perspektive erweitern.\n\nInsgesamt betont der Konstruktivismus, dass Lernen ein aktiver und kontinuierlicher Prozess ist, bei dem Lernende ihr eigenes Verständnis aufbauen und ihre Kenntnisse und Fähigkeiten ständig erweitern.\n\n→ Jahreszahl ist falsch 1974\n\nZitierweise:\n\nPiaget, J. (1967). Biologie und Erkenntnis. Frankfurt am Main: Suhrkamp.\n\nVygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, MA: Harvard University Press.\n\nvon Glasersfeld, E. (1989). Constructivism in education. In R. F. Dearden, J. H. Mason, & A. D. Olssen (Eds.), Knowledge, education, and cultural change (pp. 41–57). London: Routledge.\n\nBruner, J. (1996). The culture of education. Cambridge, MA: Harvard University Press.\n\n→ Hauptquelle ist nicht korrekt\n\nIn: T. Husen & T. N. Postlethwaite, (eds.) (1989) The International Encyclopedia of Education, Supplement Vol.1. Oxford/New York: Pergamon Press, 162–163.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29338,
+      "char_end": 29436,
+      "text": "\n\nAnwendungsbeispiel erstellt von Sonja Steuding Hochschule Mainz\n\n### Beispiel - Quellen\n\n**TA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29436,
+      "char_end": 29563,
+      "text": "Schreib mir einen Artikel über Hochschuldidaktik. Verwende dafür den Zitationsstil APA und gib die Seitenzahlen der Quellen an.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29565,
+      "char_end": 32029,
+      "text": "Gerne schreibe ich einen Artikel über Hochschuldidaktik.\n\nDie Hochschuldidaktik befasst sich mit der Gestaltung und Verbesserung von Lehr- und Lernprozessen an Hochschulen. Ziel ist es, die Qualität der Lehre zu verbessern und den Lernerfolg der Studierenden zu erhöhen. Dazu werden sowohl fachdidaktische als auch pädagogische Methoden angewendet, um den Studierenden eine bestmögliche Lernumgebung zu bieten.\n\nEin wichtiger Ansatz in der Hochschuldidaktik ist das Konzept des problembasierten Lernens. Hierbei steht die aktive Auseinandersetzung der Studierenden mit realen Problemen im Vordergrund, anstatt nur passives Auswendiglernen. Diese Methode hat sich als sehr erfolgreich erwiesen und wird in vielen Studiengängen angewendet (Barrows & Tamblyn, 1980).\n\nEin weiterer wichtiger Aspekt der Hochschuldidaktik ist die Verwendung von digitalen Medien in der Lehre. Der Einsatz von digitalen Medien kann sowohl die Lehre als auch das Lernen verbessern (Garrison & Kanuka, 2004). Dazu gehören beispielsweise Online-Vorlesungen, Lernplattformen und Webinare.\n\nDie Hochschuldidaktik befasst sich auch mit der Beurteilung des Lernerfolgs. Dabei geht es nicht nur um die Bewertung von Prüfungsleistungen, sondern auch um die Evaluation der Lehrveranstaltungen und des gesamten Studiengangs. Hierbei können beispielsweise Umfragen unter den Studierenden oder auch Selbstreflexion der Lehrenden helfen, Verbesserungspotenziale zu identifizieren (Barkley, Cross, & Major, 2014).\n\nZusammenfassend lässt sich sagen, dass die Hochschuldidaktik eine wichtige Rolle in der Gestaltung und Verbesserung von Lehr- und Lernprozessen an Hochschulen spielt. Durch die Anwendung von fachdidaktischen und pädagogischen Methoden sowie den Einsatz von digitalen Medien können Studierende optimal auf ihre Zukunft vorbereitet werden.\n\nLiteraturverzeichnis:\n\nBarrows, H. S., & Tamblyn, R. M. (1980). Problem-based learning: An approach to medical education. Springer Publishing Company.\n\nBarkley, E. F., Cross, K. P., & Major, C. H. (2014). Collaborative learning techniques: A handbook for college faculty. John Wiley & Sons.\n\nCook-Sather, A., Bovill, C., & Felten, P. (2014). Engaging students as partners in learning and teaching: A guide for faculty. John Wiley & Sons.\n\nGarrison, D. R., & Kanuka, H. (2004). Blended learning: Uncovering its transformative potential in higher education. The internet and higher education, 7(2), 95-105.\n\n→ Keine Seitenzahlen\n→ Keine Primärquellen",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32029,
+      "char_end": 32127,
+      "text": "\n\nAnwendungsbeispiel erstellt von Sonja Steuding Hochschule Mainz\n\n### Beispiel - Quellen\n\n**TA** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32127,
+      "char_end": 32221,
+      "text": "Kannst du noch einen Aspekt der Sichtweise von Wildt ergänzen? Ebenfalls im Zitationsstil APA.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32223,
+      "char_end": 33665,
+      "text": "Gerne ergänze ich noch einen Aspekt aus der Sichtweise von Wildt.\n\nIn seiner Sichtweise betont Wildt, dass die Hochschuldidaktik nicht nur eine Angelegenheit der Lehrenden ist, sondern dass auch die Studierenden eine aktive Rolle im Lernprozess einnehmen sollten (Wildt, 2000). Studierende sollten demnach nicht nur als passive Empfänger von Wissen betrachtet werden, sondern als aktive Partner, die ihre Lernprozesse mitgestalten. In diesem Zusammenhang spricht Wildt von einem 'kooperativen Lehren und Lernen' (Wildt, 2000, S. 8).\n\nDieser Ansatz betont die Bedeutung von partizipativen und interaktiven Lehr- und Lernmethoden, bei denen Studierende in Gruppen arbeiten, selbstständig Probleme lösen und in Diskussionen und Reflexionen miteinander und mit den Lehrenden interagieren (Wildt, 2000). Durch diese Art von interaktiver Lernumgebung sollen Studierende dazu befähigt werden, nicht nur fachliches Wissen zu erwerben, sondern auch ihre sozialen und methodischen Kompetenzen zu entwickeln.\n\nDiese Perspektive betont die Bedeutung von aktiver Beteiligung und Mitgestaltung der Studierenden im Lehr- und Lernprozess und legt nahe, dass eine kooperative Lehr- und Lernkultur dazu beitragen kann, dass Studierende ihre Lernziele besser erreichen und erfolgreicher abschneiden.\n\nLiteraturverzeichnis:\n\nWildt, J. (2000). Didaktik der Hochschulen: Eine Einführung. VS Verlag für Sozialwissenschaften.\n\n→ Quelle existiert nicht (Halluziniert)",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33665,
+      "char_end": 33828,
+      "text": "\n\nAnwendungsbeispiel erstellt von Sonja Steuding Hochschule Mainz\n\n# ABBILDUNGSVERZEICHNIS\n\nBild Titelblatt: Eigene Aufnahme\nAbbildung 1: Screenshot ChatGPT (S. 4)",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "doc_id": "universitat-ulm_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Ziel der Richtlinie ist es, den Beschäftigten der Universität Ulm den Einsatz eines möglichst großen Spektrums von KI-Anwendungen, bei gleichzeitiger Einhaltung von gesetzlichen Vorgaben, zu ermöglichen.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dabei steht ein verantwortungsvoller Umgang mit KI-Anwendungen im Vordergrund.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Richtlinie erstreckt sich auf sämtliche Verwendungen von Tools, Diensten, Bots oder Agents, die auf künstlicher Intelligenz beruhen (im Folgenden „KI-Anwendungen“).",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Der sachliche Geltungsbereich umfasst die dienstliche Nutzung von KI-Anwendungen durch alle Beschäftigten inklusive Professorinnen und Professoren.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Benutzt werden darf jede KI-Anwendung, die die Grundanforderungen der Universität Ulm erfüllt.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Die Grundanforderungen werden unter Ziffer 3.2 bis 3.4 näher beschrieben.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Eine Nutzung von Hochrisiko-KI-Systemen im Sinne der EU-KI-Verordnung ist nur nach gesonderter Rücksprache mit Dezernat I (generell) oder Dezernat II (für die Bereiche Studium, Lehre und Prüfungen) zulässig.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Entscheidend ist der konkrete Einsatzzweck.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Eine beispielhafte Aufzählung von Hochrisiko-KI-Systemen findet sich in Art. 6 KI-VO in Verbindung mit Anhang III der KI-VO.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Verwendung von KI-Anwendungen, auf denen eine Registrierung über dienstliche Kontaktdaten erfolgt ist, ist für private Zwecke untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Es steht den Vorgesetzten für ihren Bereich frei, die Verwendung bestimmter KI-Anwendungen über die Vorgaben dieser Richtlinie hinaus zu limitieren oder vollständig zu untersagen.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Beschaffung kostenpflichtiger KI-Anwendungen ist vorab mit den Vorgesetzten abzustimmen.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Vor der Nutzung sind die Nutzungsbedingungen, die Allgemeinen Geschäftsbedingungen (AGB) und die Datenschutzerklärung der KI-Anwendungen sorgfältig durchzulesen und zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Es dürfen nur KI-Anwendungen eingesetzt werden, deren Anbieter die Informationspflichten nach Art. 13 DSGVO erfüllen.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die KI-Anwendung muss die Verwendung der Eingaben zu Trainingszwecken grundsätzlich ausschließen oder eine Widerspruchsmöglichkeit (Opt-Out-Option) anbieten.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Soweit verfügbar ist die Widerspruchsmöglichkeit zu nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die KI-Anwendung muss die Möglichkeit anbieten, das Verlaufsprotokoll zu löschen oder zu deaktivieren.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei Registrierung und Anmeldung an einer KI-Anwendung zu dienstlichen Zwecken sind die dienstlichen Kontaktdaten zu verwenden.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Das dienstliche IDM Passwort darf dabei unter keinen Umständen verwendet werden.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eingaben (Prompts) sind auf ihre rechtliche und organisatorische Zulässigkeit zu überprüfen.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Jeder trägt die Verantwortung für die eingegebenen Inhalte selbst.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Eingabe von Verschlusssachen und Dokumenten / Informationen mit schutzbedürftigen oder vertraulichen Inhalten ist untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Die Eingabe personenbezogener Daten ist untersagt.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Das Risiko einer Urheberrechtsverletzung ist durch die Anpassung der Eingabe zu minimieren.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Nutzungsbedingungen von Dateien / Daten, die in die KI-Anwendungen hochgeladen werden sollen, sind zu beachten.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Nutzende tragen die Verantwortung für alle von Ihnen unter Zuhilfenahme der KI-Anwendungen erstellten Inhalte.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daten und Informationen aus KI-Anwendungen dürfen erst verwendet werden, wenn sie auf deren Richtigkeit und Zuverlässigkeit überprüft wurden.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Inhalte, die mittels KI-Anwendungen erzeugt wurden, müssen im Hinblick auf ethische Grundlagen und offensichtliche Diskriminierungen hin überprüft werden.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Inhalte sind stets auf ihre Konformität mit rechtlichen Bestimmungen zu überprüfen (insbesondere Datenschutz, Persönlichkeitsrechte, Urheberrecht, Geheimhaltung, Sanktionsrecht, Markenrecht, Strafrecht, EU KI-VO).",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-generierte Inhalte sind unter Transparenzgesichtspunkten gegebenenfalls an geeigneter Stelle zu kennzeichnen.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei KI-generierten Inhalten im Forschungsbereich sind vor dem Hintergrund des Kodex der DFG „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ und der Satzung der Universität Ulm zur Sicherung guter wissenschaftlicher Praxis dabei besondere Sorgfaltsmaßstäbe anzulegen.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". dabei sind folgende anforderungen zu beachten:",
+      "repaired": true
+    },
+    {
+      "id": 33,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". dabei sind folgende anforderungen zu beachten:",
+      "repaired": true
+    },
+    {
+      "id": 34,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": ". ulm, den 27.10.2025 gez. prof. dr.-ing. michael weber präsident",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 34,
+    "matched": 34,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.84,
+    "uncovered_chars": 789,
+    "uncovered_gaps": 15,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 533,
+        "length": 533,
+        "text": "# universität ulm # source: https://www.uniulm.de/fileadmin/website_uni_ulm/zuv/zuv.deziii.abt2u3/3-2oeffentlich/bekanntmachungen/2025/ki_richtlinie_ohne_zusatz_version_1.4._final.pdf # date: none # category: guideline veröffentlicht in den amtlichen bekanntmachungen der universität ulm nr. vom 31.10.2025, seite 483 - 484 # richtlinie zur nutzung von ki-anwendungen zu dienstlichen zwecken an der universität ulm vom 14.10.2025 das präsidium hat in seiner sitzung am 14.10.2025 die nachfolgende richtlinie beschlossen: ## präambel"
+      },
+      {
+        "char_start": 814,
+        "char_end": 838,
+        "length": 24,
+        "text": ". ## 1. geltungsbereich"
+      },
+      {
+        "char_start": 1153,
+        "char_end": 1173,
+        "length": 20,
+        "text": ". ## 2. allgemeines"
+      },
+      {
+        "char_start": 1340,
+        "char_end": 1350,
+        "length": 10,
+        "text": ". **2.1**"
+      },
+      {
+        "char_start": 1723,
+        "char_end": 1733,
+        "length": 10,
+        "text": ". **2.2**"
+      },
+      {
+        "char_start": 1872,
+        "char_end": 1882,
+        "length": 10,
+        "text": ". **2.3**"
+      },
+      {
+        "char_start": 2060,
+        "char_end": 2070,
+        "length": 10,
+        "text": ". **2.4**"
+      },
+      {
+        "char_start": 2161,
+        "char_end": 2193,
+        "length": 32,
+        "text": ". ## 3. vor der nutzung **3.1**"
+      },
+      {
+        "char_start": 2369,
+        "char_end": 2379,
+        "length": 10,
+        "text": ". **3.2**"
+      },
+      {
+        "char_start": 2492,
+        "char_end": 2502,
+        "length": 10,
+        "text": ". **3.3**"
+      },
+      {
+        "char_start": 2718,
+        "char_end": 2728,
+        "length": 10,
+        "text": ". **3.4**"
+      },
+      {
+        "char_start": 2829,
+        "char_end": 2839,
+        "length": 10,
+        "text": ". **3.5**"
+      },
+      {
+        "char_start": 3045,
+        "char_end": 3061,
+        "length": 16,
+        "text": ". ## 4. eingabe"
+      },
+      {
+        "char_start": 3654,
+        "char_end": 3689,
+        "length": 35,
+        "text": ". ## 5. verwendung des ergebnisses"
+      },
+      {
+        "char_start": 3798,
+        "char_end": 3847,
+        "length": 49,
+        "text": ". dabei sind folgende anforderungen zu beachten:"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 542,
+      "text": "# Universität Ulm\n# Source: https://www.uni-ulm.de/fileadmin/website_uni_ulm/zuv/zuv.dezIII.abt2u3/3-2oeffentlich/bekanntmachungen/2025/KI_Richtlinie_ohne_Zusatz_Version_1.4._final.pdf\n# Date: None\n# Category: guideline\n\nVeröffentlicht in den Amtlichen Bekanntmachungen der Universität Ulm Nr. 29 vom 31.10.2025, Seite 483 - 484\n\n# Richtlinie zur Nutzung von KI-Anwendungen zu dienstlichen Zwecken an der Universität Ulm vom 14.10.2025\n\nDas Präsidium hat in seiner Sitzung am 14.10.2025 die nachfolgende Richtlinie beschlossen:\n\n## Präambel\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 542,
+      "char_end": 745,
+      "text": "Ziel der Richtlinie ist es, den Beschäftigten der Universität Ulm den Einsatz eines möglichst großen Spektrums von KI-Anwendungen, bei gleichzeitiger Einhaltung von gesetzlichen Vorgaben, zu ermöglichen.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 746,
+      "char_end": 824,
+      "text": "Dabei steht ein verantwortungsvoller Umgang mit KI-Anwendungen im Vordergrund.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 824,
+      "char_end": 849,
+      "text": "\n\n## 1. Geltungsbereich\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 849,
+      "char_end": 1017,
+      "text": "Die Richtlinie erstreckt sich auf sämtliche Verwendungen von Tools, Diensten, Bots oder Agents, die auf künstlicher Intelligenz beruhen (im Folgenden „KI-Anwendungen“).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1018,
+      "char_end": 1165,
+      "text": "Der sachliche Geltungsbereich umfasst die dienstliche Nutzung von KI-Anwendungen durch alle Beschäftigten inklusive Professorinnen und Professoren.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1165,
+      "char_end": 1186,
+      "text": "\n\n## 2. Allgemeines\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1186,
+      "char_end": 1280,
+      "text": "Benutzt werden darf jede KI-Anwendung, die die Grundanforderungen der Universität Ulm erfüllt.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1281,
+      "char_end": 1354,
+      "text": "Die Grundanforderungen werden unter Ziffer 3.2 bis 3.4 näher beschrieben.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1354,
+      "char_end": 1364,
+      "text": "\n\n**2.1** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1364,
+      "char_end": 1571,
+      "text": "Eine Nutzung von Hochrisiko-KI-Systemen im Sinne der EU-KI-Verordnung ist nur nach gesonderter Rücksprache mit Dezernat I (generell) oder Dezernat II (für die Bereiche Studium, Lehre und Prüfungen) zulässig.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1572,
+      "char_end": 1615,
+      "text": "Entscheidend ist der konkrete Einsatzzweck.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1616,
+      "char_end": 1740,
+      "text": "Eine beispielhafte Aufzählung von Hochrisiko-KI-Systemen findet sich in Art. 6 KI-VO in Verbindung mit Anhang III der KI-VO.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1740,
+      "char_end": 1750,
+      "text": "\n\n**2.2** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1750,
+      "char_end": 1890,
+      "text": "Die Verwendung von KI-Anwendungen, auf denen eine Registrierung über dienstliche Kontaktdaten erfolgt ist, ist für private Zwecke untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1890,
+      "char_end": 1900,
+      "text": "\n\n**2.3** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1900,
+      "char_end": 2079,
+      "text": "Es steht den Vorgesetzten für ihren Bereich frei, die Verwendung bestimmter KI-Anwendungen über die Vorgaben dieser Richtlinie hinaus zu limitieren oder vollständig zu untersagen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2079,
+      "char_end": 2089,
+      "text": "\n\n**2.4** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2089,
+      "char_end": 2181,
+      "text": "Die Beschaffung kostenpflichtiger KI-Anwendungen ist vorab mit den Vorgesetzten abzustimmen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2181,
+      "char_end": 2214,
+      "text": "\n\n## 3. Vor der Nutzung\n\n**3.1** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2214,
+      "char_end": 2391,
+      "text": "Vor der Nutzung sind die Nutzungsbedingungen, die Allgemeinen Geschäftsbedingungen (AGB) und die Datenschutzerklärung der KI-Anwendungen sorgfältig durchzulesen und zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2391,
+      "char_end": 2401,
+      "text": "\n\n**3.2** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2401,
+      "char_end": 2518,
+      "text": "Es dürfen nur KI-Anwendungen eingesetzt werden, deren Anbieter die Informationspflichten nach Art. 13 DSGVO erfüllen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2518,
+      "char_end": 2528,
+      "text": "\n\n**3.3** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2528,
+      "char_end": 2685,
+      "text": "Die KI-Anwendung muss die Verwendung der Eingaben zu Trainingszwecken grundsätzlich ausschließen oder eine Widerspruchsmöglichkeit (Opt-Out-Option) anbieten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2686,
+      "char_end": 2745,
+      "text": "Soweit verfügbar ist die Widerspruchsmöglichkeit zu nutzen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2745,
+      "char_end": 2755,
+      "text": "\n\n**3.4** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2755,
+      "char_end": 2857,
+      "text": "Die KI-Anwendung muss die Möglichkeit anbieten, das Verlaufsprotokoll zu löschen oder zu deaktivieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2857,
+      "char_end": 2867,
+      "text": "\n\n**3.5** ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2867,
+      "char_end": 2993,
+      "text": "Bei Registrierung und Anmeldung an einer KI-Anwendung zu dienstlichen Zwecken sind die dienstlichen Kontaktdaten zu verwenden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2994,
+      "char_end": 3074,
+      "text": "Das dienstliche IDM Passwort darf dabei unter keinen Umständen verwendet werden.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3074,
+      "char_end": 3091,
+      "text": "\n\n## 4. Eingabe\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3091,
+      "char_end": 3183,
+      "text": "Eingaben (Prompts) sind auf ihre rechtliche und organisatorische Zulässigkeit zu überprüfen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3183,
+      "char_end": 3234,
+      "text": " Dabei sind folgende Anforderungen zu beachten:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3234,
+      "char_end": 3300,
+      "text": "Jeder trägt die Verantwortung für die eingegebenen Inhalte selbst.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3300,
+      "char_end": 3303,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3303,
+      "char_end": 3431,
+      "text": "Die Eingabe von Verschlusssachen und Dokumenten / Informationen mit schutzbedürftigen oder vertraulichen Inhalten ist untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3431,
+      "char_end": 3434,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3434,
+      "char_end": 3484,
+      "text": "Die Eingabe personenbezogener Daten ist untersagt.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3484,
+      "char_end": 3487,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3487,
+      "char_end": 3578,
+      "text": "Das Risiko einer Urheberrechtsverletzung ist durch die Anpassung der Eingabe zu minimieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3578,
+      "char_end": 3581,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3581,
+      "char_end": 3696,
+      "text": "Die Nutzungsbedingungen von Dateien / Daten, die in die KI-Anwendungen hochgeladen werden sollen, sind zu beachten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3696,
+      "char_end": 3732,
+      "text": "\n\n## 5. Verwendung des Ergebnisses\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3732,
+      "char_end": 3842,
+      "text": "Nutzende tragen die Verantwortung für alle von Ihnen unter Zuhilfenahme der KI-Anwendungen erstellten Inhalte.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3842,
+      "char_end": 3893,
+      "text": " Dabei sind folgende Anforderungen zu beachten:\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3893,
+      "char_end": 4034,
+      "text": "Daten und Informationen aus KI-Anwendungen dürfen erst verwendet werden, wenn sie auf deren Richtigkeit und Zuverlässigkeit überprüft wurden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4034,
+      "char_end": 4037,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4037,
+      "char_end": 4191,
+      "text": "Inhalte, die mittels KI-Anwendungen erzeugt wurden, müssen im Hinblick auf ethische Grundlagen und offensichtliche Diskriminierungen hin überprüft werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4191,
+      "char_end": 4194,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4194,
+      "char_end": 4421,
+      "text": "KI-generierte Inhalte sind stets auf ihre Konformität mit rechtlichen Bestimmungen zu überprüfen (insbesondere Datenschutz, Persönlichkeitsrechte, Urheberrecht, Geheimhaltung, Sanktionsrecht, Markenrecht, Strafrecht, EU KI-VO).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4421,
+      "char_end": 4424,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4424,
+      "char_end": 4536,
+      "text": "KI-generierte Inhalte sind unter Transparenzgesichtspunkten gegebenenfalls an geeigneter Stelle zu kennzeichnen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4537,
+      "char_end": 4814,
+      "text": "Bei KI-generierten Inhalten im Forschungsbereich sind vor dem Hintergrund des Kodex der DFG „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ und der Satzung der Universität Ulm zur Sicherung guter wissenschaftlicher Praxis dabei besondere Sorgfaltsmaßstäbe anzulegen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4814,
+      "char_end": 4881,
+      "text": "\n\nUlm, den 27.10.2025\n\ngez.\n\nProf. Dr.-Ing. Michael Weber\nPräsident",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

@@ -68,10 +68,20 @@ def build_session() -> requests.Session:
     return session
 
 
-def find_existing_downloads(slug: str) -> list[Path]:
-    return sorted(
-        p for p in DOWNLOADS_DIR.glob(f"{slug}.*") if p.is_file()
-    )
+def version_tag(entry: dict) -> str:
+    """Repo tracking version for an entry, normalised for filenames (default 1_0)."""
+    raw = entry.get("version") or "1_0"
+    return str(raw).replace(".", "_")
+
+
+def slug_stem(slug: str, entry: dict) -> str:
+    """Versioned download stem, e.g. 'universitat-mannheim_1_0'."""
+    return f"{slug}_{version_tag(entry)}"
+
+
+def find_stem_downloads(stem: str) -> list[Path]:
+    """Files for one specific versioned stem, e.g. slug_1_0.*"""
+    return sorted(p for p in DOWNLOADS_DIR.glob(f"{stem}.*") if p.is_file())
 
 
 def validate_url(url: str) -> str | None:
@@ -137,9 +147,15 @@ def guess_extension(
     return ".html"
 
 
-def cleanup_other_candidates(slug: str, keep: Path) -> None:
-    for candidate in find_existing_downloads(slug):
-        if candidate != keep:
+def cleanup_same_stem(stem: str, keep: Path) -> None:
+    """Remove only other-extension leftovers for THIS exact versioned stem
+    (e.g. a stale {stem}.html when we just wrote {stem}.pdf).
+
+    Other versions of the slug are deliberately preserved: downloads/ is a
+    historical archive holding one file per (slug, version).
+    """
+    for candidate in DOWNLOADS_DIR.glob(f"{stem}.*"):
+        if candidate.is_file() and candidate != keep:
             candidate.unlink(missing_ok=True)
 
 
@@ -150,6 +166,14 @@ def download_entry(
 ) -> dict:
     slug = entry["slug"]
     url = entry["url"]
+    stem = slug_stem(slug, entry)
+
+    if entry.get("superseded"):
+        return {
+            "slug": slug,
+            "status": "skipped",
+            "reason": f"superseded (archived version {version_tag(entry)}); not re-fetched",
+        }
 
     if not isinstance(url, str) or not url.startswith(("http://", "https://")):
         return {"slug": slug, "status": "skipped", "reason": "not an HTTP(S) URL"}
@@ -158,14 +182,14 @@ def download_entry(
     if validation_error:
         return {"slug": slug, "status": "error", "reason": validation_error}
 
-    existing = find_existing_downloads(slug)
+    existing = find_stem_downloads(stem)
     if existing and not force:
         if len(existing) > 1:
             return {
                 "slug": slug,
                 "status": "error",
                 "reason": (
-                    "multiple existing download files found; "
+                    f"multiple existing download files for '{stem}'; "
                     "clean up downloads/ manually before retrying"
                 ),
             }
@@ -188,7 +212,7 @@ def download_entry(
             with tempfile.NamedTemporaryFile(
                 delete=False,
                 dir=DOWNLOADS_DIR,
-                prefix=f".{slug}.",
+                prefix=f".{stem}.",
                 suffix=".part",
             ) as tmp:
                 tmp_path = Path(tmp.name)
@@ -213,11 +237,11 @@ def download_entry(
                 content_type=content_type,
                 sniffed_prefix=bytes(sniffed_prefix),
             )
-            destination = DOWNLOADS_DIR / f"{slug}{ext}"
+            destination = DOWNLOADS_DIR / f"{stem}{ext}"
             destination.parent.mkdir(parents=True, exist_ok=True)
 
             os.replace(tmp_path, destination)
-            cleanup_other_candidates(slug, keep=destination)
+            cleanup_same_stem(stem, keep=destination)
 
             return {
                 "slug": slug,

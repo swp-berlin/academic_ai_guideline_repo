@@ -20,40 +20,45 @@ TEXTS_DIR = ROOT / "texts"
 GUIDELINES_FILE = ROOT / "guidelines.yaml"
 
 
-def find_downloaded_file(slug: str) -> Path | None:
-    candidates = sorted(
-        p for p in DOWNLOADS_DIR.glob(f"{slug}.*") if p.is_file()
+def find_versioned(directory: Path, slug: str, version: str,
+                   suffixes: set[str] | None = None) -> Path | None:
+    """Exact (slug, version) file in a directory: {dir}/{slug}_{version}.*"""
+    stem = f"{slug}_{version}"
+    cands = sorted(
+        p for p in directory.glob(f"{stem}.*")
+        if p.is_file() and (suffixes is None or p.suffix.lower() in suffixes)
     )
-    if not candidates:
+    if not cands:
         return None
-    if len(candidates) > 1:
-        names = ", ".join(candidate.name for candidate in candidates)
+    if len(cands) > 1:
+        names = ", ".join(c.name for c in cands)
         raise RuntimeError(
-            f"multiple downloaded files found for '{slug}': {names}; "
-            "clean up downloads/ before rebuilding"
+            f"multiple files for '{stem}' in {directory.name}/: {names}; clean up first"
         )
-    return candidates[0]
+    return cands[0]
 
 
 def build_index(guidelines: list[dict]) -> list[dict]:
     index: list[dict] = []
     for entry in guidelines:
         slug = entry["slug"]
-        download = find_downloaded_file(slug)
-        text_path = TEXTS_DIR / f"{slug}.txt"
+        version = str(entry.get("version") or "1_0").replace(".", "_")
+        download = find_versioned(DOWNLOADS_DIR, slug, version)
+        text_file = find_versioned(TEXTS_DIR, slug, version, {".txt"})
         index.append(
             {
                 "slug": slug,
                 "institution": entry["institution"],
                 "url": entry["url"],
                 "date": entry.get("date"),
+                "version": entry.get("version"),
                 "category": entry["category"],
                 "language": entry.get("language"),
                 "notes": entry.get("notes"),
                 "downloaded": download is not None,
                 "download_file": download.name if download else None,
-                "text_extracted": text_path.exists(),
-                "text_file": f"{slug}.txt" if text_path.exists() else None,
+                "text_extracted": text_file is not None,
+                "text_file": text_file.name if text_file else None,
             }
         )
     return index

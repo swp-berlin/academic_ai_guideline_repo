@@ -1,0 +1,43 @@
+# Table of Contents: hochschulforum-digitalisierung_1_0
+
+_Mode: extracted_toc_
+
+- Einleitung
+- Einen Umgang mit KI finden
+  - Leitplanken für eine verantwortungsbewusste Integration
+- Takeaways
+  - Allgemein
+  - Einstieg und Einordnung
+  - Datenschutz und Urheberrecht
+  - Prüfungen
+    - Implikationen generativer KI-Tools
+    - Wie gestalten?
+    - Transparenz und Kennzeichnung
+    - Das Instrument der Eigenständigkeitserklärung
+    - Identifikation und Umgang mit Verdachtsfällen
+    - KI-gestützte Bewertung von Prüfungen
+  - Lehren und Lernen
+    - Neues Lernen und Lehren
+    - Lasst uns drüber reden
+  - Kompetenz und Qualifikation
+    - Explizite Hinweise auf KI-Kompetenzen
+    - Frameworks zu KI-Kompetenzen
+    - Qualifizierung und Weiterbildung für alle Hochschulangehörigen?
+  - Gerechte KI-Zugänge
+- Sondierung eingereichter Leitlinien
+  - Auf den ersten Blick ...
+  - Website oder Dokument?
+  - Faktor Zeit
+  - Bezugskategorien
+- Einstieg und Einordnung
+  - Thematische Hinführung
+  - Eine Frage der Haltung
+- Datenschutz und Urheberrecht
+  - Was darf ich, was darf ich nicht?
+- Baustelle Prüfungen
+- Lehren und Lernen mit und über KI
+- Kompetenz und Qualifikation
+- Gerechte KI-Zugänge
+- Good Practices im Überblick
+  - Stärken einzelner Leitlinien
+- Quellenverzeichnis

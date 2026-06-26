@@ -1,0 +1,2595 @@
+{
+  "doc_id": "tu-hamburg_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Künstliche Intelligenz (KI) ist unstrittig eine der Schlüsseltechnologien für die Zukunft. Die rasanten Entwicklungen auf diesem Gebiet führen bereits jetzt zu tiefgreifenden Veränderungen in unserer Gesellschaft. Mit hoher Geschwindigkeit durchdringen KI-Systeme die Arbeitsprozesse nicht nur in Unternehmen, sondern auch in Universitäten und verändern die Art und Weise, wie wir lehren und lernen. Dies bringt große Chancen aber auch Herausforderungen mit sich.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die Vorbereitung unserer Studierenden auf eine verantwortungsvolle Nutzung von KI ist deshalb von besonderer Bedeutung.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Die vorliegende Handreichung zum Thema KI-Tools in Studium und Lehre ist ein wichtiger Schritt in diese Richtung. Sie bietet Anregungen, wie KI-Anwendungen in die Lehre integriert werden können und stellt dazu Einsatzszenarien und Gestaltungspotenziale dar. Darüber hinaus werden grundsätzliche Aspekte und rechtliche Hinweise behandelt.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Allen Mitwirkenden an der Erstellung der Handreichung möchte ich sehr herzlich danken! Nur durch das große Engagement aller Beteiligten war es möglich, diese Handreichung rechtzeitig zum Wintersemester 2023/2024 fertigzustellen. Für die Erarbeitung der Handreichung wurde vom Ausschuss für Strategieentwicklung in Studium und Lehre (ASSL) eine Arbeitsgruppe mit Beteiligung aller Statusgruppen unter der Leitung von Prof. Maren Baumhauer eingesetzt. Die vorliegende Handreichung wurde unter juristischen Aspekten geprüft sowie im Präsidium diskutiert.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Dennoch kann aufgrund der rasanten Entwicklung der Künstlichen Intelligenz und der noch nicht sehr umfangreichen Erfahrungen in Studium und Lehre eine solche Handreichung nur eine Momentaufnahme darstellen. Es ist deshalb geplant, die Handreichung im Sinne eines „lebenden Dokuments“ regelmäßig an den aktuellen Kenntnisstand und neue Entwicklungen anzupassen.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Insofern freue ich mich auf eine intensive Anwendung von KI in Studium und Lehre und die damit verbundene Diskussion und Weiterentwicklung der Handreichung.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Im Mittelpunkt der Forschung, der Lehre und des Technologietransfers der Technischen Universität Hamburg (TU Hamburg) steht das Leitmotiv, *Technik für die Menschen* zu entwickeln.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Dazu zählen auch die in den letzten Jahren aufgekommenen rasanten Entwicklungen im Bereich ‚Künstliche Intelligenz‘ (KI), womit technische Systeme bezeichnet werden, die menschliche Fähigkeiten wie Denken und Lernen reproduzieren. Diese „intelligenten“ Systeme können – basierend auf einer großen Datengrundlage – Antworten finden und Probleme lösen. Dabei ist zu beachten, dass diese Systeme keine eigenständigen Denkprozesse durchführen, sondern die zugrundeliegenden Daten analysieren und anhand von vordefinierten Variablen Berechnungen vornehmen (vgl. Heilmann, 2019). KI-Tools sind in der Lage, auf Fragen zu antworten und z. B. im Falle von generativer KI wie ChatGPT menschenähnlich zu kommunizieren. Sie können jedoch keine Bewertung von Informationen vornehmen und demzufolge (noch) nicht verlässlich zwischen wahren und falschen Aussagen unterscheiden. Diese Aufgabe kommt weiterhin den Nutzenden von KI-Tools – also insbesondere Lehrenden und Studierenden – zu und erfordert daher einen verantwortungsbewussten Umgang.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Vor diesem Hintergrund können KI-Tools in der Hochschullehre eine Ergänzung bzw. Unterstützung darstellen, ersetzen aber nicht (!) die fachliche wie überfachliche Expertise der Lehrenden.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In Anbindung an unser Leitmotiv wollen wir die Entwicklung und Erprobung von KI-Tools in der Lehre der TU Hamburg *kritisch-konstruktiv* sowie *technologie-reflektierend* fördern und die damit einhergehenden Aufgaben in der Lehre proaktiv angehen. Denn nur in der Anwendung dieser neuen KI-Tools können wir unserem Leitmotiv in den aktuellen Zeiten gerecht werden.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Unsere Studierenden wollen wir bestmöglich auf die Chancen und Herausforderungen im Umgang mit KI-Tools vorbereiten und in diesem Prozess begleiten. Daher ist es notwendig, den neuen Möglichkeitsraum gemeinsam zu gestalten, um einen sinnhaften Einsatz sowie eine *verantwortungsbewusste Nutzung und Beurteilung* von KI-Tools in der Hochschullehre zu realisieren, um damit zugleich eine umfassende Kompetenzentwicklung für Lehrende und Studierende zu ermöglichen. Wir an der TU Hamburg engagieren uns, dass unsere Studierenden KI-Tools nicht nur im Hochschulkontext souverän und eigenverantwortlich nutzen, sondern gleichermaßen in die Praxis übertragbare berufliche Kompetenzen entwickeln (vgl. Leitbild Lehre, 2021).",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Diese Handreichung richtet sich vorrangig an Lehrende, dient dabei aber gleichermaßen auch den Studierenden der TU Hamburg als Orientierungshilfe, die neuen Entwicklungen im Bereich KI in Lehr- und Lernprozesse zu integrieren.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Dafür wird ein grundsätzlich *offener und verantwortungsbewusster Umgang* mit KI als zielführend erachtet.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Anhand ausgewählter Lehrveranstaltungsarten der TU Hamburg werden nachfolgend Einsatzszenarien beschrieben, die als Anregung und Inspiration dienen sollen, um KI-Tools in eigene Lehr- und Lernprozesse zu integrieren und somit deren Potenziale sinnvoll zu nutzen.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Darüber hinaus enthält diese Handreichung allgemeine rechtliche Hinweise, die zu einem sicheren Umgang mit KI-Tools sowie zu einer kritisch-konstruktiven Auseinandersetzung mit deren Möglichkeiten und Grenzen beitragen sollen.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Aufgrund der Unwägbarkeiten und der offenen Entwicklungen in dem Feld - bezogen auf den technologischen Fortschritt, ökonomische, ökologische und soziale Prozesse, den aktuellen Rechtsrahmen sowie den wissenschaftsethischen Diskursen zu KI - wird diese Handreichung fortlaufend aktualisiert und entsprechend der Neuentwicklungen angepasst.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Alle Personen, die ihre Erfahrungen mit KI-Tools in der Lehre an der TU Hamburg in diesen Prozess einbringen möchten, sind eingeladen, die gemeinsame Reflexion und Diskussion über die Rolle und den Stellenwert von KI-Tools in unserer Lehre mitzugestalten.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die Rolle und der Gestaltungsspielraum von Lehrenden befinden sich in einem kontinuierlichen Veränderungsprozess. Dabei nehmen Lehrende ihre Aufgaben entlang eines breiten Rollenverständnisses wahr: Sie inspirieren im Lernprozess, sie sind Begleitende, Gestaltende, Zuhörende - und natürlich vermitteln sie Wissen, geben Feedback und sind Prüfende. Die neu aufkommenden KI-Tools können diese vielfältigen Tätigkeiten und damit verbundenen Anforderungen unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Ziel ist dabei nicht, Lehrende durch KI-Tools zu ersetzen, sondern vielmehr durch den Einsatz von KI-Tools in ihren verschiedenen Rollen zu unterstützen.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Insofern verstehen wir die Integration von KI-Tools in die Lehre der TU Hamburg als schrittweisen Prozess, der unter Berücksichtigung didaktischer Grundsätze, hochschulspezifischer Rahmenbedingungen sowie der Kompetenz und Verantwortung der Lehrenden eine bedachte Planung, Gestaltung, Durchführung, Reflexion und Evaluation erfordert.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entscheidungsgrundlage für den Einsatz von KI-Tools sind das Fachgebiet, die angestrebten Lehr- und Lernziele, die einzusetzenden Lehr-Lernformate sowie die vorgesehene Feedback- und Prüfungsart. Neben der Beantwortung der Frage nach der Intention der Nutzung ist auch die Fähigkeit, Potenziale und Herausforderungen eines KI-Tools sorgfältig gegenüber bislang bewährten didaktischen Konzepten und Methoden in der Lehre abzuwägen, von Bedeutung.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Zentral dafür ist, dass die Nutzung eines KI-Tools den Kompetenzerwerb von Studierenden fördert:",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Es braucht Fachkompetenz, um klare Lehr-/Lernziele zu definieren und geeignete Inhalte auszuwählen, aber auch, um die Qualität des KI-generierten Inhalts kritisch zu prüfen.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Didaktische Kompetenz ist notwendig, um sicherzustellen, dass die mittels KI-Tools angewandten Methoden Studierenden ermöglichen, Kompetenzen selbstständig zu erwerben, anstatt Aufgaben an KIs zu delegieren.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Ethische Kompetenz ist essentiell, um die Implikationen hinsichtlich der Vertretbarkeit des Einsatzes, des Datenschutzes, der Diversität und der Autorschaft hinreichend reflektieren zu können.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Ein grundlegendes Verständnis für die (technische) Funktionsweise von KI sowie Kontextwissen zu den Rahmenbedingungen an der TU Hamburg sind erforderlich, um umsetzungsfähige Lehr-/Lernkonzepte zu entwickeln.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Schließlich ist auch der schrittweise Aufbau von KI-Kompetenz der Lehrenden von Bedeutung, um die eingesetzten Tools nicht nur entlang ihrer Funktionsweise zu reflektieren, sondern auch mehrdimensional (z. B. ethisch, rechtlich) einschätzen und bewerten zu können (vgl. Wienrich et al., 2023, S. 7).",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Fragen Sie sich auch, wann KI-Tools „sicher“ genutzt werden können? Folgende Vorüberlegungen unterstützen Sie bei der Beantwortung dieser Frage:",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "KI-Tools können nur „sicher“ genutzt werden, wenn auch die rechtlichen Aspekte (siehe Teil drei) berücksichtigt werden.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Auch können KI-Tools in der Lehre „sicher“ genutzt werden, wenn das Ergebnis interessant sein kann, aber nicht richtig sein muss (vgl. UNESCO, 2023, S. 6, Abb. 1).",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Insofern es wichtig ist, dass das Ergebnis richtig ist, müssen Nutzende über Expertise verfügen (z. B. Ergebnisse beurteilen und volle Verantwortung übernehmen), um KI-Tools „sicher“ nutzen zu können (ebd.).",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Muss das Ergebnis richtig sein, Nutzende verfügen aber weder über Expertise noch sind sie willens, Verantwortung zu übernehmen oder eine etwaige Unrichtigkeit des Ergebnisses zu identifizieren, ist der Umgang mit KI-Tools nicht „sicher“ und daher auch nicht empfehlenswert (ebd.).",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Fragen Sie sich auch, wo Sie geeignete KI-Tools finden können?",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Bei der Suche nach KI-Tools für die Lehre können Sie zunächst in zahlreiche KI-Datenbanken, wie Advanced Innovation oder Futurepedia, reinschnuppern.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Fragen Sie sich auch, wie Sie sich austauschen und weiterbilden können?",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "TU-Angehörige können sich über den internen Mattermost-Kanal der TU Hamburg austauschen: https://communicating.tuhh.de/onlineedutuhh/channels/generative-ki-und-chatgpt.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Ebenso bieten die Angebote am Zentrum für Lehre und Lernen allen Lehrenden die Möglichkeiten, sich weiterzuqualifizieren, sich auszutauschen und zu vernetzen.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Darüber hinaus bieten die MMKH KI Reihe sowie der ToolTipTuesday Einführungen in KI-Tools an sowie der KI-Campus Lernangebote zu diversen KI-Themen und in verschiedenen Formaten. Aktuelle Informationen bieten auch diverse Podcasts sowie der UniDigitalNewsletter.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Fragen Sie sich auch, wo Sie Good Practices finden können?",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Einblicke in die Lehrpraxis mit KI an der TU Hamburg finden Sie beispielhaft hier.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Darüber hinaus finden Sie z.B. beim KI-Campus oder auch im Portal der Stiftung für Innovation in der Hochschullehre inspirierende KI-Lehrprojekte.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Entsprechend der etablierten Lehrformate an der TU Hamburg werden im Folgenden konkrete *Einsatzszenarien und Gestaltungspotenziale* für KI-Tools in der Lehre vorgestellt sowie auf Prüfungen eingegangen. Für jedes Lehrformat wird dabei auf die Aspekte der Lernziele, Wissensvermittlung und der Studierendenaktivierung im Lehr-/Lerngeschehen sowie auf Prüfungs- und Studienleistungen eingegangen. Dabei können die didaktischen Methoden und Medien sowie die Einsatzmöglichkeiten nach dem Baukastenprinzip auch in anderen Lehrveranstaltungsarten Anwendung finden.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Eine Vorlesung besteht aus regelmäßig abgehaltenen, zum Teil interaktiven Vorträgen, in denen bestimmte Themen im Zusammenhang präsentiert werden.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Über die Anwendung von KI-Tools eröffnen sich für Lehrende im Rahmen dieser Lehrveranstaltungsart neue didaktische Möglichkeiten, um Inhalte auszuwählen, zu strukturieren und multimedial aufzubereiten sowie in unterschiedlichen Sprachen zu erstellen und damit Sprachbarrieren abzubauen. Studierende können empfohlene bzw. bereitgestellte KI-Tools insbesondere zu der Vor- und Nachbereitung der Vortragsthemen anwenden.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende ... reflektieren Möglichkeiten und Grenzen der Unterstützung von KI-Tools in Vorlesungen. ... entwickeln Kompetenzen, um den Textoutput von KI-Tools zu redigieren und kritisch bewerten zu können.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools unterstützen die Bereitstellung, Aufbereitung und Vermittlung der Vorlesungsinhalte",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende führen mittels ausgewählter KI-Tools Rechercheaufträge durch und erstellen inhaltliche Zusammenfassungen zu den Vorlesungsinhalten; Einbindung von Live-Umfragen; KI-generierte Fragestellungen in Audience Response Systems (Clicker) integrieren",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Sammlung von Inspirationen für exemplarische Prüfungsfragen und Entwurf von Übungsaufgaben, Einbindung von KI-gestützten Impulsvorträgen und Exkursen als Erweiterung der Vorlesungsinhalte",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende erhalten zu einer von der Lehrperson gestellten Frage eine oder mehrere Antworten von einem ausgewählten KI-Tool. Die Aufgabe für die Studierenden besteht darin, a. die KI-Antwort zu beurteilen und fachliche Fehlvorstellungen zu identifizieren, b. die Kriterien für die eigene Beurteilung offenzulegen, c. die erste Antwort mit der zweiten Antwort zu vergleichen, d. die geeignetere Antwort zu bestimmen und dies zu begründen oder e. die Unzulänglichkeiten der Antwort(en) offenzulegen.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "In der Gruppenübung beziehungsweise dem Tutorium bearbeiten Studierende begleitet in Einzel- und Gruppenarbeit Aufgaben zu den Vorlesungsinhalten. Gruppenübungen oder Tutorien können z. B. nach dem Konzept des Flipped Classroom - auch mit Just-in-time-Teaching - gestaltet sein und in Stud.IP/ILIAS abgebildet werden: Im Vorfeld einer Übung wird Material zu den Lerninhalten sowie Teilaufgaben zur selbstständigen Vorbearbeitung durch die Studierenden zur Verfügung gestellt. Dabei wird angeregt, dass Studierende Fragen über ein Onlinetool zu den Materialien und Aufgaben mit anderen Studierenden und der Lehrperson teilen. Darauf aufbauend kommen die Studierenden in der Präsenz der Gruppenübung/Tutorium zusammen und setzen sich gemeinsam mit der Lehrperson aktiv auf einem höheren Lernniveau mit den Inhalten auseinander. In einer mündlichen Modulprüfung kann dann auch auf ausgewählte, eingereichte Aufgabenlösungen sowie die freiwillige Nutzung von KI-Tools eingegangen werden.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende ... lesen Code und bestimmen den Output. ... entwickeln einen Code und diskutieren das Ergebnis. ... diskutieren die freiwillige Verwendung von KI-Tools.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools unterstützen bei der Bereitstellung und Aufbereitung von Material (Skript, Artikel, Lehrbücher, Erklärvideos) + Aufgabenerstellung (Beispiel-Code). Studierende stellen fachliche, methodische sowie KI-Tool bezogene Fragen im Vorfeld.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende setzen sich in Gruppenarbeit mit Tutorials auseinander - wobei die KI hier die Lehrperson unterstützend Vorschläge für Tutorialfragen generieren kann. Studierende präsentieren ihre Aufgabenlösungen in Gruppen - wobei die KI hier die methodische Gestaltung der Gruppenarbeit vorgeschlagen kann. Studierende reflektieren über die freiwillige KI-Nutzung - wobei die KI hier Vorschläge für zu reflektierende Fragen erstellen kann.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools können Prüfungsfragen, Rubrics, Reflexionsfragen zu KI-Nutzung oder NICHT-Nutzung vorschlagen.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende erhalten von der Lehrperson Material sowie eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. einen Code zu lesen und den Output zu bestimmen. b. den Code zu einem gegebenen Problem zu entwickeln und die Lösung zu diskutieren. c. ihr Vorgehen - mit oder ohne KI-Tool - zu beschreiben und zu reflektieren. d. inhaltliche, prozessseitige und KI bezogene Fragen zu teilen. e. ihre Lösungswege, Ergebnisse mit Kennzeichnung von selbstgeschriebenen, aus Fachforen u. ä. kopierten oder KI-generierten „Codeteilen“ auszuweisen und Reflexionen zur eigenen Kompetenzentwicklung, zur Unterstützung von KI-Tools sowie deren Grenzen zur Präsentation aufzubereiten.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Im Laborpraktikum setzen Studierende Geräte, Apparate und/oder Softwaresysteme im Fach oder der Forschung ein und werten Arbeitsergebnisse aus. Zunächst können Fachinhalte und -methoden sowie die erforderlichen Reflexions-, Schreib- und Präsentationskompetenzen interaktiv vermittelt, Material bereitgestellt und Gruppen gebildet werden. Eine Auswahl an Laborversuchen aus einer Versuchsreihe können Studierende in Gruppenarbeiten parallel bearbeiten. Ihre Vorüberlegungen präsentieren sie vor dem Laborversuch den anderen Gruppen im Kolloquium, geben sich gegenseitig Feedback, diskutieren Kernaspekte der Versuche mit der Lehrperson. Studierende schließen das Laborpraktikum mit einem individualisierten Protokoll ab, welches neben einer mündlichen Gruppenpräsentation Teil der fach-theoretisch-fachpraktischen Modulprüfung ist.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende ... reflektieren ihre Ergebnisse und Strategien (inkl. freiwilliger Nutzung von KI-Tools) bei der Generierung von Fragen, Hypothesen, der Versuchsplanung. ... werten Arbeitsergebnisse aus. ... interpretieren, dokumentieren und präsentieren diese.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools können Vorschläge für die Aufbereitung des Skripts, eine Vorlage oder Leitfaden für das Protokoll unterbreiten.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende präsentieren ihre Versuchsdurchführung im Kolloquium, geben Feedback - wobei KI-Tools Vorschläge für den Ablauf des Kolloquiums, Fragenerstellung, Präsentationserstellung, Anleitung für die Durchführung des Peer-Feedbacks generieren können.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools können Vorschläge für Aufgaben, Rubrics für das Peer-Feedback, das Protokoll und die mündliche Prüfung sowie Reflexionsfragen für die freiwillige Nutzung von KI-Tools vorschlagen.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende erhalten von der Lehrperson Material und eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. zu überlegen, ob, warum und wofür sie ein KI-Tool in der Protokollierung des Versuchs einsetzen wollen. b. ihre Versuchsplanung im Kolloquium vorzustellen und sich Fragen zu den anderen Versuchen zu überlegen und dazu ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben. c. ihr Protokoll zu erstellen, KI-erstellte Textpassagen auszuweisen, ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben sowie ihr eigenes Lernen hinterfragend darzulegen.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Im Seminar eignen sich die Studierenden unter (über-)fachlicher Begleitung selbstständig - sowohl individuell als auch in der Gruppe - Wissen und Fertigkeiten an, so dass sie in der Lage sind, darüber vorzutragen und den dargestellten Inhalt in einer Diskussion zu verteidigen.",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Dabei kann der Einsatz von KI-Tools im Seminarkontext dazu beitragen, dass Studierende durch gezielte Nutzung von KI lernen, mit diesen Tools, auch mit Blick auf eine spätere Berufsrelevanz, kompetent umgehen zu können.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende ... nutzen verschiedene KI-Tools zur Bewältigung von Aufgaben. ... ordnen die KI-generierten Ausgaben anhand definierter Kriterien ein. ... bewerten die KI-generierten Ausgaben vor dem Hintergrund ihres Fachwissens.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "KI-Tools unterstützen Studierende in der Bearbeitung von Aufgaben. Lehrende vermitteln Wissen über die Potenziale und Gefahren bei der Nutzung von KI-Tools.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende setzen KI-Tools kritisch-konstruktiv für die Bearbeitung von Aufgaben - sowohl individuell als auch in der Gruppe - ein und reflektieren die generierten Ergebnisse.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Nutzung von KI als Inspiration zur Strukturierung von Schriftlichen Ausarbeitungen. Kritische Reflexion eines KI-generierten Textes vor dem Hintergrund der eigenen fachlichen Expertise.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Studierende bearbeiten in der Gruppe ein Thema und präsentieren dieses im Seminar. Die Aufgabe für die Studierenden besteht darin, a. sich mithilfe von KI-Tools einen Überblick über das Thema zu verschaffen. b. den KI-generierten Überblick kritisch zu reflektieren, andere wissenschaftliche Quellen heranzuziehen und fachliche Fehlinformationen zu identifizieren. c. einen Vortrag über das bearbeitete Thema vorzubereiten, in dem auch die fachlichen Fehlinformationen diskutiert werden. d. den Vortrag als Gruppe im Seminar zu halten. e. die eigene Nutzung von KI-Tools bei der Themenbearbeitung darzulegen.",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Prüfungsrechtlich lösen KI-Tools nicht unmittelbar Änderungsbedarfe an Prüfungsordnungen aus. Vielmehr ist es eine didaktische Entscheidung bzw. eine Entscheidung der Lehrenden und Prüfenden, ob KI-Tools bei der Erbringung von Prüfungsleistungen genutzt werden dürfen und in welcher Weise oder ob ihre Nutzung ausgeschlossen ist.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Wichtig ist, dass das jeweilige Prüfungsszenario dahingehend gestaltet wird, dass die Prüfenden definieren können, was die bewertete *eigene Leistung* des konkreten Prüflings ist. Als eigene Leistung gilt eine Leistung, wenn sie ohne Nutzung unzulässiger Hilfsmittel und ohne unzulässige Hilfe seitens Dritter erbracht worden ist. Damit ist der Prüfling sowohl dazu verpflichtet, eigene Leistungen zu erbringen als auch über die Eigenständigkeit erbrachter Leistungen nicht zu täuschen.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Von ausschlaggebender Relevanz sind die Überprüfungsmethoden der Prüfenden. Hinsichtlich der Bewertung von Prüfungsleistungen ist es darüber hinaus wichtig, alle Prüflinge *gleich zu behandeln* und einen *einheitlichen* Prüfungsmaßstab und Beurteilungsmaßstab anzusetzen.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Daher ist es wesentlich, dass Prüflinge im Prüfungsverfahren die *gleichen Chancen* haben. Der Grundsatz der Chancengleichheit verlangt u. a., dass die Prüflinge ihre Prüfungsleistungen möglichst unter gleichen (äußeren) Prüfungsbedingungen erbringen können. Dies ist durch die Definition von zulässigen Hilfsmitteln möglich. Die zulässigen Hilfsmittel sollten jedem Prüfling in gleichem Maße zur Verfügung stehen oder zur Verfügung gestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Ob - im Fall der freiwilligen Nutzung von KI-Tools beim Ablegen einer Prüfungsleistung - die Prüfungsleistungen ohne KI mit den Prüfungsleistungen mit KI vergleichbar sind und ein einheitlicher Bewertungsmaßstab gewährleistet werden kann, bleibt aktuell noch offen.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bezüglich der Prüfungen zeigt sich, dass einige Prüfungsarten von einer Nutzung von KI-Tools in der Prüfungssituation weniger und andere mehr tangiert sind. Prüfungen unter Aufsicht bzw. die eine unmittelbare Interaktion mit den Prüfenden voraussetzen, wie Klausuren in Präsenz, mündliche oder praktische Prüfungen, sind zunächst einmal relativ wenig von den neuen Möglichkeiten betroffen, solange KI-Tools nicht explizit als zulässige Hilfsmittel zur freiwilligen Nutzung ausgewiesen werden. Prüfungsarten, die eine Aufsichtsführung erschweren bzw. rechtlich unmöglich machen, wie z. B. die Anfertigung schriftlicher Arbeiten, die nicht einer ständigen oder vollumfänglichen Aufsicht unterliegen (Protokolle, Projekt-, Studien-, Abschlussarbeiten), sind hingegen eher betroffen.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für alle Prüfungsvarianten ist jedoch wichtig, dass Lehrende in den konkreten Aufgabenstellungen reflektieren müssen, wenn sich in der Lehre durch den freiwilligen Einsatz von KI-Tools etwas ändert (siehe oben in den Lehrveranstaltungsarten). So kann etwa mit Studierenden geübt werden, die Plausibilität von Ergebnissen, die unter Einsatz von KI-Tools erlangt werden, zu beurteilen. Für die Prüfung muss dann aber klar entschieden und kommuniziert werden, ob es um die Ergebnisfindung oder -beurteilung geht. Durch den Einsatz von KI-Tools kann es also insgesamt dazu kommen, dass sich der Prüfungsgegenstand verschiebt und sich somit auch Änderungen im Anforderungs- und Schwierigkeitsgrad ergeben können. Dies sollte dann sehr bewusst von der Lehrperson entschieden und transparent gemacht werden.",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Bei schriftlichen Arbeiten können KI-Tools im Schreibprozess z. B. für folgende Schritte genutzt werden: bei Brainstorming und Ideengenerierung, beim Strukturieren und Gliedern, als Hilfe bei Schreibblockaden oder beim sprachlichen Feinschliff.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Nicht eingesetzt werden können KI-Tools dagegen für die unreflektierte Generierung ganzer Arbeiten oder ganzer Textabschnitte, für die ungeprüfte Übernahme von Literatur- und Inhaltsvorschlägen, für die Bearbeitung sehr individueller Fragestellungen.",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Unerlässlich ist die Entwicklung und Nutzung „guter“ Prompts (vgl. Dang et al., 2022; Zamfirescu-Pereira et al., 2023, S. 10): Denn nur wenn Studierende und Lehrende konkrete, zielführende und eindeutige Prompts formulieren, können KI-Tools in den entsprechenden Phasen des Schreibprozesses Unterstützung bieten.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für die Nutzung von KI-Tools im Schreibprozess ist es daher ratsam, diese Möglichkeiten der Vorschlagsgenerierung von Anfang an proaktiv gemeinsam zu diskutieren sowie Chancen und Grenzen dieses Vorgehens vor allem vor dem Hintergrund des anvisierten Kompetenzerwerbs aufzuzeigen.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für die Bewertung könnten solche Kriterien stärker gewichtet werden, die die Eigenleistung der Studierenden fokussieren (etwa die fachliche Einordnung, kritische Bewertung der Ergebnisse oder eigene Ausdrucksfähigkeit).",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine enge Begleitung in Schreibprozessen mit regelhafter Abfrage von Zwischenständen kann unterstützen, die eigenständige und eigenverantwortliche Denkarbeit der Studierenden zu fokussieren.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine kritische Reflexion und sinnvolle Prüfung durch die Studierenden selbst kann vor allem dann gelingen, wenn sie bereits ein Grundverständnis für das wissenschaftliche Arbeiten und Schreiben ausgebildet haben (vgl. auch Salden & Leschke, 2023, S. 13).",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Regeln guter wissenschaftlicher Praxis sind grundsätzlich einzuhalten und KI-Tools wie alle anderen Hilfsmittel auch zu kennzeichnen.",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die TU Hamburg spricht sich für einen chancengleichen, integren und legitimen Umgang mit KI-Tools in Studium und Lehre aus.",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Bei der Auswahl des Datenmaterials (Prompts und Outputs) ist die Sicherung guter wissenschaftlicher Praxis zu gewährleisten.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Gleiches gilt für die Vermeidung einer unsachgemäßen und unreflektierten Nutzung sowie für die Weitergabe sensibler und personenbezogener Daten an Dritte (Entwickler und Anbieter von KI-Tools).",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Bei der Nutzung von KI-Tools in Studium und Lehre ist dabei zu beachten, dass die bereitgestellten Informationen zu Trainingszwecken genutzt werden können.",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Der Einsatz bzw. die Nutzung von KI-Tools muss entsprechend des Grundsatzes der Chancengleichheit erfolgen (siehe Teil zwei; Prüfungen).",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Für Lehrende bedeutet dies z. B., dass die Integration von KI-Tools in ihre Lehrveranstaltungen immer einen Mehrwert mit sich bringen sollte, die Nutzung dieser aber nicht als Voraussetzung für die erfolgreiche Teilnahme an einer Lehrveranstaltung, also für die Lernaktivitäten oder die Prüfung gilt.",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Die akademische Integrität verpflichtet uns alle zu einem täglichen, wertebasierten und regelhaften Handeln.",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In diesem Sinne ist für eine gute wissenschaftliche Praxis und zur Vermeidung wissenschaftlichen Fehlverhaltens (vgl. TU Hamburg, 2024) eine informierte, reflektierte und transparente Nutzung von KI-Tools unerlässlich.",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Die Entwicklung von akademischer Integrität kann durch Lehrende proaktiv im gesamten Studium gefördert werden.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Der Zusammenhang zwischen einem möglichen wissenschaftlichen Fehlverhalten und dem Einsatz von KI ist an der TU Hamburg in Diskussion.",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Der aktuelle Stand der juristischen Diskussion zeigt, dass bei der Nutzung von KI-Tools vieles, was urheberrechtlich von Relevanz sein kann, noch komplett unklar ist. Der Einsatz von KI-Tools ist diesbezüglich somit rechtlich noch nicht abgesichert.",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Im Sinne des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG) können KI-gestützte Programme nicht als Autor*innen bzw. Urheber*innen des von ihnen generierten Textes gelten, §§ 7, 2 Abs. 2 UrhG.",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Gleichwohl können Nutzende entsprechender Programme eventuell eine Urheberschaft an den generierten Texten beanspruchen, sofern sie KI-Tools als Hilfsmittel für die eigene gestalterische Tätigkeit genutzt haben.",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "Ausschlaggebend ist in diesem Fall ein signifikantes Maß an geistiger Eigenleistung (vgl. Hoeren, 2023, S. 22 ff.). Festzuhalten bleibt: „Das Bestehen urheberrechtlichen Schutzes für KI-generierte Texte entscheidet sich also an der Frage, ob ein hinreichender menschlicher Einfluss besteht, um eine persönliche geistige Schöpfung im Sinne des § 2 Abs. 2 UrhG zu bejahen“ (ebd., S. 25).",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Urheberrechtsrelevanz von KI-Sprachmodellen, wie z. B. ChatGPT, setzt zudem nicht erst bei den Ergebnissen ein. So kann nicht zweifelsfrei ausgeschlossen werden, dass der Trainingsdatenbestand nicht ggf. unter Verletzung von Rechten anderer durch Web Scraping entstanden ist, z. B. durch das Auslesen von Datenbanken (§ 87b UrhG) oder durch Text-/Data Mining (§ 44b UrhG).",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Weiterhin ist die Quellenlage - und auch das Zustandekommen der Ergebnisse - derart unübersichtlich für die Nutzenden, dass nicht zweifelsfrei ausgeschlossen werden kann, ob die Ergebnisse geschützte Passagen Dritter enthalten, die ohne Erlaubnis - oder ohne Nennung ihrer Urheberschaft - integriert werden.",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge (ASPO) enthält Vorschriften, die auch auf den Einsatz von KI-Tools anwendbar sind (§ 21 Abs. 6 Satz 2 ASPO).",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Interpretationsspielraum besteht für jeden Einzelfall: Gehören KI-gestützte Hilfsmittel zur alltäglichen Arbeit (vgl. Eaton, 2023) und müssen daher nicht angegeben werden, oder gehen sie darüber hinaus und betreffen stärker die abzuprüfende wissenschaftliche Kernkompetenz?",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Entsprechend kann z. B. „in Prüfungsordnungen fachspezifisch definiert werden, in welchem Maße und unter welchen Bedingungen die Verwendung KI-unterstützter Tools zulässig ist“ (Hoeren, 2023, S. 23). Der oder die Prüfende legt letztlich im Einklang mit ASPO und FSPO die Richtlinien für die konkrete Prüfungsleistung fest (vgl. Spannagel, 2023).",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eine Kennzeichnungspflicht für z. B. den Textoutput eines KI-Schreibtools kann sich außerdem aus den Nutzungsbedingungen der jeweiligen Software ergeben (vgl. Hoeren, 2023, S. 23).",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Fragen Sie sich auch, wie die Nutzung von KI-Tools in schriftlichen Ausarbeitungen (inkl. Abschlussarbeiten) angegeben werden kann?",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Nochmal vorweg: KI-Tools können in schriftlichen Arbeiten eigenverantwortlich durch Studierende genutzt werden (sofern nicht anders durch die Prüfenden definiert). Die Nutzung des KI-Tools ist grundsätzlich entsprechend der ASPO, der FSPO, den Nutzungsbedingungen des KI-Tools sowie der Entscheidung der Lehrperson basierend auf der aktuellen Praxis im Fach als Hilfsmittel im Schriftprodukt zu kennzeichnen - es sei denn es handelt sich um KI-gestützte Hilfsmittel der alltäglichen Arbeit.",
+      "repaired": false
+    },
+    {
+      "id": 106,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Kennzeichnung kann zum Beispiel so erfolgen:",
+      "repaired": false
+    },
+    {
+      "id": 107,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Dokumentation der KI-Nutzung:** Die für die Arbeit relevante zu kennzeichnende Kommunikation mit dem KI-Tool (eigene Fragen/Prompts, Antworten/Ausgaben/Texte der KI) wird elektronisch in einem separaten Verzeichnis dokumentiert. Dabei wird auch für jede Kommunikation die verwendete Version und das Nutzungsdatum angegeben (z. B. ChatGPT May 24 Version, 23.06.2023). Diese Dokumentation wird als Primärquelle im Quellenverzeichnis aufgenommen, z. B.: Dokumentation ChatGPT (Jahr), und stellt die Basis für wörtliche und sinngemäße Zitate der KI-generierten Ergebnisse dar.",
+      "repaired": false
+    },
+    {
+      "id": 108,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**KI als Quelle** Aus KI-Tools inhaltlich generierte Textteile (wörtliche Zitate) werden im Text zitiert, z. B. Dokumentation ChatGPT Jahr, S. x, Z. y.",
+      "repaired": false
+    },
+    {
+      "id": 109,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Eigene Paraphrasierungen der von KI-Tools inhaltlich generierten Texte (sinngemäße Zitate) werden an den entsprechenden Stellen gekennzeichnet, z.B. vgl. Dokumentation ChatGPT S. x, Z. y.",
+      "repaired": false
+    },
+    {
+      "id": 110,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "**Umformulierung und Übersetzung mit Hilfe von KI-Tools** KI-Tools können im Schreibprozess sprachunterstützend genutzt werden, z. B. als Rechtschreib- und Umformulierungshilfe, und müssen dann nicht gekennzeichnet werden (vgl. Züricher Hochschule für angewandte Wissenschaften, 2023). Gleiches gilt für derartige sprachliche Unterstützung in einer Fremdsprache (z. B. Wortformulierungen, Rechtschreib- und Grammatikprüfung und Übersetzungen) mit KI-Tools. Diese Nutzung von KI-Tools ist Teil des alltäglichen Arbeitens und unterliegt also nicht der Kennzeichnungspflicht, es sei denn, die Prüfenden wünschen entsprechend ihrer Fachpraxis explizit eine Kennzeichnung. Dann kann in der Eigenständigkeitserklärung (vgl. Buck und Limburg, 2023) oder in der Auflistung der anzugebenen Hilfsmittel (vgl. Spannagel, 2023) notiert werden, dass KI-Tools genutzt wurden bzw. spezifischer, dass z.B. der Text in Kapitel XY oder Abschnitt XY oder Zeile XY mit KI-Tool Z umformuliert bzw. übersetzt wurde (z.B. Meier 2007, S. 208-209, übersetzt durch KI-Tool Z).",
+      "repaired": false
+    },
+    {
+      "id": 111,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Sobald bei der Nutzung von KI-Tools personenbezogene Daten verarbeitet werden, sind die datenschutzrechtlichen Grundprinzipien aus Art. 5 Datenschutzgrundverordnung (DSGVO) zu berücksichtigen. Des Weiteren muss für die Verarbeitung eine Rechtsgrundlage gegeben sein und die Verarbeitung muss für die Personen, deren Daten verarbeitet werden, ausreichend transparent dargestellt werden.",
+      "repaired": false
+    },
+    {
+      "id": 112,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "So stellt beispielsweise die Weitergabe von personenbezogenen Daten ohne eine datenschutzkonforme Einwilligung der betroffenen Personen einen Verstoß gegen die DSGVO dar.",
+      "repaired": false
+    },
+    {
+      "id": 113,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Die Einwilligung muss hierbei freiwillig erfolgt sein und es müssen die weiteren datenschutzrechtlichen Anforderungen, die eine datenschutzrechtliche Einwilligung mit sich bringt, berücksichtigt werden.",
+      "repaired": false
+    },
+    {
+      "id": 114,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Erfolgt im Zusammenhang mit der Nutzung von KI-Tools eine Übermittlung personenbezogener Daten in Länder außerhalb der EU bzw. des EWR, gilt es zu prüfen, ob durch entsprechende Maßnahmen ein angemessenes Datenschutzniveau gewährleistet ist. Die Nutzung einer KI-Software eines amerikanischen Unternehmens entspricht hierbei regelmäßig nicht den europäischen Datenschutzanforderungen.",
+      "repaired": false
+    },
+    {
+      "id": 115,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Nutzung einer KI-Software ohne die Eingabe personenbezogener Daten ist nicht automatisch datenschutzkonform, nur weil keine aktive Eingabe von oder Frage nach Personen im Prompt erfolgt. Auch die reine Nutzung kann bereits gegen den Datenschutz verstoßen, da sich aus den Prompts sowie den damit zusammenhängenden Nutzungsdaten (IP-Adresse, Standort, Datum, Uhrzeit, endgerätspezifische Daten) grundsätzlich viele Informationen über Nutzende (Vorlieben, politische oder weltanschauliche Überzeugungen, Erkrankungen etc.) ergeben können.",
+      "repaired": false
+    },
+    {
+      "id": 116,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Zusätzlich gilt zu beachten, dass bei der Verarbeitung von personenbezogenen Daten im Rahmen der Nutzung externer KI-Tools regelmäßig datenschutzrechtliche Vereinbarungen geschlossen werden müssen und auch Maßnahmen zur Gewährleistung der Datensicherheit umzusetzen sind. So beschreibt der Anbieter OpenAI beispielsweise in seinen Datenschutzrichtlinien, in welcher Form Daten verarbeitet und geschützt werden, kann für eine Sicherheit der Daten jedoch nicht garantieren.",
+      "repaired": false
+    },
+    {
+      "id": 117,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Die Wahrung der Vertraulichkeit und der Integrität ist somit beim Einsatz derartiger Systeme fraglich und es besteht die Möglichkeit, dass Dritte Zugriff auf die verarbeiteten Daten erhalten.",
+      "repaired": false
+    },
+    {
+      "id": 118,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Auch aus diesem Grund ist es unerlässlich sicherzustellen, dass bei der Nutzung von KI-Tools auch die Maßgaben der Datensicherheit befolgt werden und der Zugriff von KI-Tools auf eigens bereitgestellte sensible, interne oder vertrauliche Informationen strikt vermieden wird.",
+      "repaired": false
+    },
+    {
+      "id": 119,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Grundsätzlich ist zu berücksichtigen, dass KI-Tools die Daten (Prompts, Outputs und Nutzerverhalten) zu Trainingszwecken nutzen. Diese Funktion kann bei einigen Tools ausgeschaltet werden.",
+      "repaired": false
+    },
+    {
+      "id": 120,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Sofern das verwendete KI-Tool eine entsprechende Einstellungsmöglichkeit bietet und personenbezogene Daten verarbeitet werden sollen, ist eine Deaktivierung des Trainings empfehlenswert (Privacy by Default).",
+      "repaired": false
+    },
+    {
+      "id": 121,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "prof. dr. dr. h. c. wolfgang kersten vizepräsident lehre technische universität hamburg",
+      "repaired": true
+    },
+    {
+      "id": 122,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "positionsbestimmung der tu hamburg",
+      "repaired": true
+    },
+    {
+      "id": 123,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## teil 2: einsatzszenarien und gestaltungspotenziale für die lehre",
+      "repaired": true
+    },
+    {
+      "id": 124,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "lernziele | wissensvermittlung | studierendenaktivierung | studien-und prüfungsleistungen | einsatzmöglichkeit",
+      "repaired": true
+    },
+    {
+      "id": 125,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "lernziele | wissensvermittlung in selbststudienzeit | studierendenaktivierung in präsenz mit lehrenden | studien-und prüfungsleistungen | einsatzmöglichkeit",
+      "repaired": true
+    },
+    {
+      "id": 126,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "## teil 3: grundsätzliche aspekte und rechtliche hinweise",
+      "repaired": true
+    },
+    {
+      "id": 127,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "regelungsbedarf und kennzeichnungspflicht",
+      "repaired": true
+    },
+    {
+      "id": 128,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "eine orientierungshilfe zu der frage, wie eine solche kennzeichnung in studentischen arbeiten in dem jeweiligen fach durch die einzelnen zu prüfenden erfolgen kann, finden sie nachfolgend:",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 128,
+    "matched": 126,
+    "unmatched_count": 2,
+    "unmatched": [
+      {
+        "id": 124,
+        "B": "B6",
+        "matched_words": "6/10",
+        "text": "lernziele | wissensvermittlung | studierendenaktivierung | studien-und prüfungsleistungen | einsatzmöglichkeit"
+      },
+      {
+        "id": 125,
+        "B": "B6",
+        "matched_words": "12/16",
+        "text": "lernziele | wissensvermittlung in selbststudienzeit | studierendenaktivierung in präsenz mit lehrenden | studien-und prüfungsleistungen | einsatzmöglichkeit"
+      }
+    ],
+    "source_coverage": 0.876,
+    "uncovered_chars": 4743,
+    "uncovered_gaps": 26,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 288,
+        "length": 288,
+        "text": "# tu hamburg (tuhh) # source: https://www.tuhh.de/t3resources/tuhh/download/universitaet/verwaltung/ra/2024-10-01_tuhamburg_handreichung_ki-toolsinstudiumundlehre_auflage2_de.pdf # date: none # category: guideline # **ki-tools in studium und lehre** handreichung der tu hamburg # vorwort"
+      },
+      {
+        "char_start": 2367,
+        "char_end": 2413,
+        "length": 46,
+        "text": "# teil 1: allgemeiner orientierungsrahmen ##"
+      },
+      {
+        "char_start": 4927,
+        "char_end": 4961,
+        "length": 34,
+        "text": ". ## zielsetzung der handreichung"
+      },
+      {
+        "char_start": 9167,
+        "char_end": 9189,
+        "length": 22,
+        "text": ": # „sichere\" nutzung"
+      },
+      {
+        "char_start": 10024,
+        "char_end": 10042,
+        "length": 18,
+        "text": "# ki-tool finder"
+      },
+      {
+        "char_start": 10263,
+        "char_end": 10311,
+        "length": 48,
+        "text": "# austausch und weiter-qualifizierungsangebote"
+      },
+      {
+        "char_start": 10957,
+        "char_end": 10974,
+        "length": 17,
+        "text": "# lehrbeispiele"
+      },
+      {
+        "char_start": 11761,
+        "char_end": 11776,
+        "length": 15,
+        "text": ". ## vorlesung"
+      },
+      {
+        "char_start": 12338,
+        "char_end": 12471,
+        "length": 133,
+        "text": ". | | lernziele | wissensvermittlung | studierendenaktivierung | studien-und prüfungsleistungen | | | | | | | | einsatzmöglichkeit |"
+      },
+      {
+        "char_start": 13218,
+        "char_end": 13244,
+        "length": 26,
+        "text": "| | anwendungsbeispiel |"
+      },
+      {
+        "char_start": 13741,
+        "char_end": 13778,
+        "length": 37,
+        "text": ". | | | | ## gruppenübung / tutorium"
+      },
+      {
+        "char_start": 14756,
+        "char_end": 14935,
+        "length": 179,
+        "text": ". | | lernziele | wissensvermittlung in selbststudienzeit | studierendenaktivierung in präsenz mit lehrenden | studien-und prüfungsleistungen | | | | | | | | einsatzmöglichkeit |"
+      },
+      {
+        "char_start": 15887,
+        "char_end": 15914,
+        "length": 27,
+        "text": ". | | anwendungsbeispiel |"
+      },
+      {
+        "char_start": 16591,
+        "char_end": 16619,
+        "length": 28,
+        "text": ". | | | | ## laborpraktikum"
+      },
+      {
+        "char_start": 17444,
+        "char_end": 17577,
+        "length": 133,
+        "text": ". | | lernziele | wissensvermittlung | studierendenaktivierung | studien-und prüfungsleistungen | | | | | | | | einsatzmöglichkeit |"
+      },
+      {
+        "char_start": 18400,
+        "char_end": 18427,
+        "length": 27,
+        "text": ". | | anwendungsbeispiel |"
+      },
+      {
+        "char_start": 19019,
+        "char_end": 19040,
+        "length": 21,
+        "text": ". | | | | ## seminar"
+      },
+      {
+        "char_start": 19536,
+        "char_end": 19669,
+        "length": 133,
+        "text": ". | | lernziele | wissensvermittlung | studierendenaktivierung | studien-und prüfungsleistungen | | | | | | | | einsatzmöglichkeit |"
+      },
+      {
+        "char_start": 20417,
+        "char_end": 20444,
+        "length": 27,
+        "text": ". | | anwendungsbeispiel |"
+      },
+      {
+        "char_start": 21050,
+        "char_end": 21072,
+        "length": 22,
+        "text": ". | | | | # prüfungen"
+      },
+      {
+        "char_start": 27003,
+        "char_end": 27027,
+        "length": 24,
+        "text": ". ### chancengleichheit"
+      },
+      {
+        "char_start": 27463,
+        "char_end": 27491,
+        "length": 28,
+        "text": ". ## akademische integrität"
+      },
+      {
+        "char_start": 28063,
+        "char_end": 28096,
+        "length": 33,
+        "text": ". ## urheberschaft / autorschaft"
+      },
+      {
+        "char_start": 31182,
+        "char_end": 31230,
+        "length": 48,
+        "text": "* ## **kennzeichnung der nutzung von ki-tools**"
+      },
+      {
+        "char_start": 33739,
+        "char_end": 33776,
+        "length": 37,
+        "text": ". ## datenschutz und datensicherheit"
+      },
+      {
+        "char_start": 36794,
+        "char_end": 40086,
+        "length": 3292,
+        "text": ". ## quellen **buck, i. & limburg, a.** (2023). hochschulbildung vor dem hintergrund von natural language processing (ki-schreibtools). ein framework für eine zukunftsfähige lehrund prüfungspraxis. die hochschullehre. jahrgang 9 - 2023 (6). doi: 10.3278/hsl2306w **dang, h., mecke, l., lehmann, f., goller, s. & buschek, d.** (2022). how to prompt? opportunities and challenges of zeroand few-shot learning for human-ai interaction in creative applications of generative models. https://doi.org/10.48550/arxiv.2209.01390 **eaton, s. e.** (2023). artificial intelligence and academic integrity, postplagiarism. https://www.universityworldnews.com/post.php?story=20230228133041549#:~:text=artificial%20intelligence%20and%20academic. **heilmann, t. a.** (2019). algorithmus. in k. liggieri & o. müller (hrsg.), mensch-maschine-interaktion: handbuch zu geschichte - kultur - ethik (s. 229-231). stuttgart: j.b. metzler. https://doi.org/10.1007/978-3-476-05604-7_32 **hoeren, t.** (2023). rechtsgutachten zum umgang mit ki-software im hochschulkontext. in: salden, p./leschke, j. (hrsg.): didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung, s. 22-41. https://doi.org/10.13154/294-9734 **salden, p., lordick, n., wiethoff, m.** (2023). ki-basierte schreibwerkzeuge in der hochschule: eine einführung. in: salden, p., leschke, j. (hrsg.): didaktische und rechtliche perspektiven auf ki-gestütztes schreiben in der hochschulbildung, s. 4-21. https://doi.org/10.13154/294-9734 **spannagel, ch.** (2023). rules for tools - 2. version, [online] rules for tools (unigiessen.de) **wienrich, c., carolus, a., markus, a., & augustin, y.** (2022). ai literacy: kompetenzdimensionen und einflussfaktoren im kontext von arbeit. denkfabrikbmas.de. https://www.denkfabrikbmas.de/fileadmin/downloads/publikationen/ai_literacy_kompetenzdimensionen_und_einflussfaktoren_im_kontext_von_arbeit.pdf **technische universität hamburg** (2024). satzung zur sicherung guter wissenschaftlicher praxis und zum umgang mit verdachtsfällen wissenschaftlichen fehlverhaltens. https://www.tuhh.de/tuhh/tuhamburg/struktur/verwaltungundzentraleeinrichtungen/rarechtsreferat/ordnungenrichtlinien/satzungzursicherungguterwissenschaftlicherpraxisundzumumgangmitverdachtsfaellenwissenschaftlichenfehlverhaltensvom-26-juni-2024-veroeffentlichtam-15072024-1 (aktualisierung: 15.07.2024) **technische universität hamburg** (2021). leitbild lehre der technischen universität hamburg. https://www.tuhh.de/tuhh/tuhamburg/profil/leitbildlehre **zamfirescu-pereira, j. d., wong, r. y., hartmann, b. & yang, q.** (2023). why johnny can't prompt: how non-ai experts try (and fail) to design llm prompts (chi '23). proceedings of the 2023 chi conference on human factors in computing systems (s. 1-21). new york, ny, usa: association for computing machinery. https://doi.org/10.1145/3544548.3581388 **züricher hochschule für angewandte wissenschaften** (2023). z-rl-richtlinie ki bei leistungsnachweisen. https://gpmpublic.zhaw.ch/gpmdocproddpublic/vorgabedokumente_zav/z_rl_richtlinie_ki_bei_leistungsnachweisen.pdf ## footnotes ¹ eine definition des begriffes ki sowie eine anschauliche erklärung zu chatgpt der unesco finden sich unter folgendem link: https://unesdoc.unesco.org/ark:/48223/pf0000385146"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 292,
+      "text": "# TU Hamburg (TUHH)\n# Source: https://www.tuhh.de/t3resources/tuhh/download/universitaet/verwaltung/ra/2024-10-01_TUHamburg_Handreichung_KI-ToolsInStudiumUndLehre_Auflage2_de.pdf\n# Date: None\n# Category: guideline\n\n# **KI-TOOLS\nIN STUDIUM UND LEHRE**\n\nHandreichung der TU Hamburg\n\n# Vorwort\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 292,
+      "char_end": 755,
+      "text": "Künstliche Intelligenz (KI) ist unstrittig eine der Schlüsseltechnologien für die Zukunft. Die rasanten Entwicklungen auf diesem Gebiet führen bereits jetzt zu tiefgreifenden Veränderungen in unserer Gesellschaft. Mit hoher Geschwindigkeit durchdringen KI-Systeme die Arbeitsprozesse nicht nur in Unternehmen, sondern auch in Universitäten und verändern die Art und Weise, wie wir lehren und lernen. Dies bringt große Chancen aber auch Herausforderungen mit sich.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 757,
+      "char_end": 876,
+      "text": "Die Vorbereitung unserer Studierenden auf eine verantwortungsvolle Nutzung von KI ist deshalb von besonderer Bedeutung.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 878,
+      "char_end": 1215,
+      "text": "Die vorliegende Handreichung zum Thema KI-Tools in Studium und Lehre ist ein wichtiger Schritt in diese Richtung. Sie bietet Anregungen, wie KI-Anwendungen in die Lehre integriert werden können und stellt dazu Einsatzszenarien und Gestaltungspotenziale dar. Darüber hinaus werden grundsätzliche Aspekte und rechtliche Hinweise behandelt.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1217,
+      "char_end": 1768,
+      "text": "Allen Mitwirkenden an der Erstellung der Handreichung möchte ich sehr herzlich danken! Nur durch das große Engagement aller Beteiligten war es möglich, diese Handreichung rechtzeitig zum Wintersemester 2023/2024 fertigzustellen. Für die Erarbeitung der Handreichung wurde vom Ausschuss für Strategieentwicklung in Studium und Lehre (ASSL) eine Arbeitsgruppe mit Beteiligung aller Statusgruppen unter der Leitung von Prof. Maren Baumhauer eingesetzt. Die vorliegende Handreichung wurde unter juristischen Aspekten geprüft sowie im Präsidium diskutiert.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1770,
+      "char_end": 2130,
+      "text": "Dennoch kann aufgrund der rasanten Entwicklung der Künstlichen Intelligenz und der noch nicht sehr umfangreichen Erfahrungen in Studium und Lehre eine solche Handreichung nur eine Momentaufnahme darstellen. Es ist deshalb geplant, die Handreichung im Sinne eines „lebenden Dokuments“ regelmäßig an den aktuellen Kenntnisstand und neue Entwicklungen anzupassen.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2132,
+      "char_end": 2288,
+      "text": "Insofern freue ich mich auf eine intensive Anwendung von KI in Studium und Lehre und die damit verbundene Diskussion und Weiterentwicklung der Handreichung.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2290,
+      "char_end": 2377,
+      "text": "Prof. Dr. Dr. h. c. Wolfgang Kersten\nVizepräsident Lehre\nTechnische Universität Hamburg",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 121,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2377,
+      "char_end": 2425,
+      "text": "\n\n# Teil 1: Allgemeiner Orientierungsrahmen\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2425,
+      "char_end": 2459,
+      "text": "POSITIONSBESTIMMUNG DER TU HAMBURG",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 122,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2461,
+      "char_end": 2641,
+      "text": "Im Mittelpunkt der Forschung, der Lehre und des Technologietransfers der Technischen Universität Hamburg (TU Hamburg) steht das Leitmotiv, *Technik für die Menschen* zu entwickeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2642,
+      "char_end": 3672,
+      "text": "Dazu zählen auch die in den letzten Jahren aufgekommenen rasanten Entwicklungen im Bereich ‚Künstliche Intelligenz‘ (KI), womit technische Systeme bezeichnet werden, die menschliche Fähigkeiten wie Denken und Lernen reproduzieren. Diese „intelligenten“ Systeme können – basierend auf einer großen Datengrundlage – Antworten finden und Probleme lösen. Dabei ist zu beachten, dass diese Systeme keine eigenständigen Denkprozesse durchführen, sondern die zugrundeliegenden Daten analysieren und anhand von vordefinierten Variablen Berechnungen vornehmen (vgl. Heilmann, 2019). KI-Tools sind in der Lage, auf Fragen zu antworten und z. B. im Falle von generativer KI wie ChatGPT menschenähnlich zu kommunizieren. Sie können jedoch keine Bewertung von Informationen vornehmen und demzufolge (noch) nicht verlässlich zwischen wahren und falschen Aussagen unterscheiden. Diese Aufgabe kommt weiterhin den Nutzenden von KI-Tools – also insbesondere Lehrenden und Studierenden – zu und erfordert daher einen verantwortungsbewussten Umgang.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3674,
+      "char_end": 3861,
+      "text": "Vor diesem Hintergrund können KI-Tools in der Hochschullehre eine Ergänzung bzw. Unterstützung darstellen, ersetzen aber nicht (!) die fachliche wie überfachliche Expertise der Lehrenden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3863,
+      "char_end": 4227,
+      "text": "In Anbindung an unser Leitmotiv wollen wir die Entwicklung und Erprobung von KI-Tools in der Lehre der TU Hamburg *kritisch-konstruktiv* sowie *technologie-reflektierend* fördern und die damit einhergehenden Aufgaben in der Lehre proaktiv angehen. Denn nur in der Anwendung dieser neuen KI-Tools können wir unserem Leitmotiv in den aktuellen Zeiten gerecht werden.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4228,
+      "char_end": 4945,
+      "text": "Unsere Studierenden wollen wir bestmöglich auf die Chancen und Herausforderungen im Umgang mit KI-Tools vorbereiten und in diesem Prozess begleiten. Daher ist es notwendig, den neuen Möglichkeitsraum gemeinsam zu gestalten, um einen sinnhaften Einsatz sowie eine *verantwortungsbewusste Nutzung und Beurteilung* von KI-Tools in der Hochschullehre zu realisieren, um damit zugleich eine umfassende Kompetenzentwicklung für Lehrende und Studierende zu ermöglichen. Wir an der TU Hamburg engagieren uns, dass unsere Studierenden KI-Tools nicht nur im Hochschulkontext souverän und eigenverantwortlich nutzen, sondern gleichermaßen in die Praxis übertragbare berufliche Kompetenzen entwickeln (vgl. Leitbild Lehre, 2021).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4945,
+      "char_end": 4980,
+      "text": "\n\n## ZIELSETZUNG DER HANDREICHUNG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4980,
+      "char_end": 5206,
+      "text": "Diese Handreichung richtet sich vorrangig an Lehrende, dient dabei aber gleichermaßen auch den Studierenden der TU Hamburg als Orientierungshilfe, die neuen Entwicklungen im Bereich KI in Lehr- und Lernprozesse zu integrieren.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5207,
+      "char_end": 5313,
+      "text": "Dafür wird ein grundsätzlich *offener und verantwortungsbewusster Umgang* mit KI als zielführend erachtet.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5315,
+      "char_end": 5577,
+      "text": "Anhand ausgewählter Lehrveranstaltungsarten der TU Hamburg werden nachfolgend Einsatzszenarien beschrieben, die als Anregung und Inspiration dienen sollen, um KI-Tools in eigene Lehr- und Lernprozesse zu integrieren und somit deren Potenziale sinnvoll zu nutzen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5578,
+      "char_end": 5804,
+      "text": "Darüber hinaus enthält diese Handreichung allgemeine rechtliche Hinweise, die zu einem sicheren Umgang mit KI-Tools sowie zu einer kritisch-konstruktiven Auseinandersetzung mit deren Möglichkeiten und Grenzen beitragen sollen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5805,
+      "char_end": 6144,
+      "text": "Aufgrund der Unwägbarkeiten und der offenen Entwicklungen in dem Feld - bezogen auf den technologischen Fortschritt, ökonomische, ökologische und soziale Prozesse, den aktuellen Rechtsrahmen sowie den wissenschaftsethischen Diskursen zu KI - wird diese Handreichung fortlaufend aktualisiert und entsprechend der Neuentwicklungen angepasst.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6145,
+      "char_end": 6400,
+      "text": "Alle Personen, die ihre Erfahrungen mit KI-Tools in der Lehre an der TU Hamburg in diesen Prozess einbringen möchten, sind eingeladen, die gemeinsame Reflexion und Diskussion über die Rolle und den Stellenwert von KI-Tools in unserer Lehre mitzugestalten.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6402,
+      "char_end": 6469,
+      "text": "## Teil 2: Einsatzszenarien und Gestaltungspotenziale für die Lehre",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 123,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6471,
+      "char_end": 6937,
+      "text": "Die Rolle und der Gestaltungsspielraum von Lehrenden befinden sich in einem kontinuierlichen Veränderungsprozess. Dabei nehmen Lehrende ihre Aufgaben entlang eines breiten Rollenverständnisses wahr: Sie inspirieren im Lernprozess, sie sind Begleitende, Gestaltende, Zuhörende - und natürlich vermitteln sie Wissen, geben Feedback und sind Prüfende. Die neu aufkommenden KI-Tools können diese vielfältigen Tätigkeiten und damit verbundenen Anforderungen unterstützen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6938,
+      "char_end": 7091,
+      "text": "Ziel ist dabei nicht, Lehrende durch KI-Tools zu ersetzen, sondern vielmehr durch den Einsatz von KI-Tools in ihren verschiedenen Rollen zu unterstützen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7093,
+      "char_end": 7428,
+      "text": "Insofern verstehen wir die Integration von KI-Tools in die Lehre der TU Hamburg als schrittweisen Prozess, der unter Berücksichtigung didaktischer Grundsätze, hochschulspezifischer Rahmenbedingungen sowie der Kompetenz und Verantwortung der Lehrenden eine bedachte Planung, Gestaltung, Durchführung, Reflexion und Evaluation erfordert.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7429,
+      "char_end": 7874,
+      "text": "Entscheidungsgrundlage für den Einsatz von KI-Tools sind das Fachgebiet, die angestrebten Lehr- und Lernziele, die einzusetzenden Lehr-Lernformate sowie die vorgesehene Feedback- und Prüfungsart. Neben der Beantwortung der Frage nach der Intention der Nutzung ist auch die Fähigkeit, Potenziale und Herausforderungen eines KI-Tools sorgfältig gegenüber bislang bewährten didaktischen Konzepten und Methoden in der Lehre abzuwägen, von Bedeutung.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7875,
+      "char_end": 7971,
+      "text": "Zentral dafür ist, dass die Nutzung eines KI-Tools den Kompetenzerwerb von Studierenden fördert:",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7973,
+      "char_end": 8148,
+      "text": "- Es braucht Fachkompetenz, um klare Lehr-/Lernziele zu definieren und geeignete Inhalte auszuwählen, aber auch, um die Qualität des KI-generierten Inhalts kritisch zu prüfen.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8149,
+      "char_end": 8358,
+      "text": "- Didaktische Kompetenz ist notwendig, um sicherzustellen, dass die mittels KI-Tools angewandten Methoden Studierenden ermöglichen, Kompetenzen selbstständig zu erwerben, anstatt Aufgaben an KIs zu delegieren.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8359,
+      "char_end": 8553,
+      "text": "- Ethische Kompetenz ist essentiell, um die Implikationen hinsichtlich der Vertretbarkeit des Einsatzes, des Datenschutzes, der Diversität und der Autorschaft hinreichend reflektieren zu können.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8554,
+      "char_end": 8764,
+      "text": "- Ein grundlegendes Verständnis für die (technische) Funktionsweise von KI sowie Kontextwissen zu den Rahmenbedingungen an der TU Hamburg sind erforderlich, um umsetzungsfähige Lehr-/Lernkonzepte zu entwickeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8766,
+      "char_end": 9065,
+      "text": "Schließlich ist auch der schrittweise Aufbau von KI-Kompetenz der Lehrenden von Bedeutung, um die eingesetzten Tools nicht nur entlang ihrer Funktionsweise zu reflektieren, sondern auch mehrdimensional (z. B. ethisch, rechtlich) einschätzen und bewerten zu können (vgl. Wienrich et al., 2023, S. 7).",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9067,
+      "char_end": 9211,
+      "text": "Fragen Sie sich auch, wann KI-Tools „sicher“ genutzt werden können? Folgende Vorüberlegungen unterstützen Sie bei der Beantwortung dieser Frage:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9211,
+      "char_end": 9234,
+      "text": "\n\n# „SICHERE“ NUTZUNG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9234,
+      "char_end": 9353,
+      "text": "KI-Tools können nur „sicher“ genutzt werden, wenn auch die rechtlichen Aspekte (siehe Teil drei) berücksichtigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9355,
+      "char_end": 9518,
+      "text": "Auch können KI-Tools in der Lehre „sicher“ genutzt werden, wenn das Ergebnis interessant sein kann, aber nicht richtig sein muss (vgl. UNESCO, 2023, S. 6, Abb. 1).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9520,
+      "char_end": 9727,
+      "text": "Insofern es wichtig ist, dass das Ergebnis richtig ist, müssen Nutzende über Expertise verfügen (z. B. Ergebnisse beurteilen und volle Verantwortung übernehmen), um KI-Tools „sicher“ nutzen zu können (ebd.).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9729,
+      "char_end": 10009,
+      "text": "Muss das Ergebnis richtig sein, Nutzende verfügen aber weder über Expertise noch sind sie willens, Verantwortung zu übernehmen oder eine etwaige Unrichtigkeit des Ergebnisses zu identifizieren, ist der Umgang mit KI-Tools nicht „sicher“ und daher auch nicht empfehlenswert (ebd.).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10011,
+      "char_end": 10073,
+      "text": "Fragen Sie sich auch, wo Sie geeignete KI-Tools finden können?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10073,
+      "char_end": 10093,
+      "text": "\n\n# KI-TOOL FINDER\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10093,
+      "char_end": 10242,
+      "text": "Bei der Suche nach KI-Tools für die Lehre können Sie zunächst in zahlreiche KI-Datenbanken, wie Advanced Innovation oder Futurepedia, reinschnuppern.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10244,
+      "char_end": 10315,
+      "text": "Fragen Sie sich auch, wie Sie sich austauschen und weiterbilden können?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10315,
+      "char_end": 10365,
+      "text": "\n\n# AUSTAUSCH UND WEITER-QUALIFIZIERUNGSANGEBOTE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10365,
+      "char_end": 10533,
+      "text": "TU-Angehörige können sich über den internen Mattermost-Kanal der TU Hamburg austauschen: https://communicating.tuhh.de/onlineedutuhh/channels/generative-ki-und-chatgpt.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10535,
+      "char_end": 10693,
+      "text": "Ebenso bieten die Angebote am Zentrum für Lehre und Lernen allen Lehrenden die Möglichkeiten, sich weiterzuqualifizieren, sich auszutauschen und zu vernetzen.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10695,
+      "char_end": 10957,
+      "text": "Darüber hinaus bieten die MMKH KI Reihe sowie der ToolTipTuesday Einführungen in KI-Tools an sowie der KI-Campus Lernangebote zu diversen KI-Themen und in verschiedenen Formaten. Aktuelle Informationen bieten auch diverse Podcasts sowie der UniDigitalNewsletter.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10959,
+      "char_end": 11017,
+      "text": "Fragen Sie sich auch, wo Sie Good Practices finden können?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11017,
+      "char_end": 11036,
+      "text": "\n\n# LEHRBEISPIELE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11036,
+      "char_end": 11118,
+      "text": "Einblicke in die Lehrpraxis mit KI an der TU Hamburg finden Sie beispielhaft hier.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11120,
+      "char_end": 11266,
+      "text": "Darüber hinaus finden Sie z.B. beim KI-Campus oder auch im Portal der Stiftung für Innovation in der Hochschullehre inspirierende KI-Lehrprojekte.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11268,
+      "char_end": 11828,
+      "text": "Entsprechend der etablierten Lehrformate an der TU Hamburg werden im Folgenden konkrete *Einsatzszenarien und Gestaltungspotenziale* für KI-Tools in der Lehre vorgestellt sowie auf Prüfungen eingegangen. Für jedes Lehrformat wird dabei auf die Aspekte der Lernziele, Wissensvermittlung und der Studierendenaktivierung im Lehr-/Lerngeschehen sowie auf Prüfungs- und Studienleistungen eingegangen. Dabei können die didaktischen Methoden und Medien sowie die Einsatzmöglichkeiten nach dem Baukastenprinzip auch in anderen Lehrveranstaltungsarten Anwendung finden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11828,
+      "char_end": 11844,
+      "text": "\n\n## VORLESUNG\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 11844,
+      "char_end": 11990,
+      "text": "Eine Vorlesung besteht aus regelmäßig abgehaltenen, zum Teil interaktiven Vorträgen, in denen bestimmte Themen im Zusammenhang präsentiert werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11991,
+      "char_end": 12409,
+      "text": "Über die Anwendung von KI-Tools eröffnen sich für Lehrende im Rahmen dieser Lehrveranstaltungsart neue didaktische Möglichkeiten, um Inhalte auszuwählen, zu strukturieren und multimedial aufzubereiten sowie in unterschiedlichen Sprachen zu erstellen und damit Sprachbarrieren abzubauen. Studierende können empfohlene bzw. bereitgestellte KI-Tools insbesondere zu der Vor- und Nachbereitung der Vortragsthemen anwenden.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12409,
+      "char_end": 12563,
+      "text": "\n\n| | LERNZIELE | WISSENSVERMITTLUNG | STUDIERENDENAKTIVIERUNG | STUDIEN- UND PRÜFUNGSLEISTUNGEN |\n| --- | --- | --- | --- | --- |\n| EINSATZMÖGLICHKEIT | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12563,
+      "char_end": 12770,
+      "text": "Studierende ... reflektieren Möglichkeiten und Grenzen der Unterstützung von KI-Tools in Vorlesungen. ... entwickeln Kompetenzen, um den Textoutput von KI-Tools zu redigieren und kritisch bewerten zu können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12770,
+      "char_end": 12773,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12773,
+      "char_end": 12865,
+      "text": "KI-Tools unterstützen die Bereitstellung, Aufbereitung und Vermittlung der Vorlesungsinhalte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12865,
+      "char_end": 12868,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12868,
+      "char_end": 13122,
+      "text": "Studierende führen mittels ausgewählter KI-Tools Rechercheaufträge durch und erstellen inhaltliche Zusammenfassungen zu den Vorlesungsinhalten; Einbindung von Live-Umfragen; KI-generierte Fragestellungen in Audience Response Systems (Clicker) integrieren",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13122,
+      "char_end": 13125,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13125,
+      "char_end": 13312,
+      "text": "Sammlung von Inspirationen für exemplarische Prüfungsfragen und Entwurf von Übungsaufgaben, Einbindung von KI-gestützten Impulsvorträgen und Exkursen als Erweiterung der Vorlesungsinhalte",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13312,
+      "char_end": 13338,
+      "text": " |\n| ANWENDUNGSBEISPIEL | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13338,
+      "char_end": 13836,
+      "text": "Studierende erhalten zu einer von der Lehrperson gestellten Frage eine oder mehrere Antworten von einem ausgewählten KI-Tool. Die Aufgabe für die Studierenden besteht darin, a. die KI-Antwort zu beurteilen und fachliche Fehlvorstellungen zu identifizieren, b. die Kriterien für die eigene Beurteilung offenzulegen, c. die erste Antwort mit der zweiten Antwort zu vergleichen, d. die geeignetere Antwort zu bestimmen und dies zu begründen oder e. die Unzulänglichkeiten der Antwort(en) offenzulegen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13836,
+      "char_end": 13874,
+      "text": " | | | |\n\n## GRUPPENÜBUNG / TUTORIUM\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13874,
+      "char_end": 14857,
+      "text": "In der Gruppenübung beziehungsweise dem Tutorium bearbeiten Studierende begleitet in Einzel- und Gruppenarbeit Aufgaben zu den Vorlesungsinhalten. Gruppenübungen oder Tutorien können z. B. nach dem Konzept des Flipped Classroom - auch mit Just-in-time-Teaching - gestaltet sein und in Stud.IP/ILIAS abgebildet werden: Im Vorfeld einer Übung wird Material zu den Lerninhalten sowie Teilaufgaben zur selbstständigen Vorbearbeitung durch die Studierenden zur Verfügung gestellt. Dabei wird angeregt, dass Studierende Fragen über ein Onlinetool zu den Materialien und Aufgaben mit anderen Studierenden und der Lehrperson teilen. Darauf aufbauend kommen die Studierenden in der Präsenz der Gruppenübung/Tutorium zusammen und setzen sich gemeinsam mit der Lehrperson aktiv auf einem höheren Lernniveau mit den Inhalten auseinander. In einer mündlichen Modulprüfung kann dann auch auf ausgewählte, eingereichte Aufgabenlösungen sowie die freiwillige Nutzung von KI-Tools eingegangen werden.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14857,
+      "char_end": 15057,
+      "text": "\n\n| | LERNZIELE | WISSENSVERMITTLUNG IN SELBSTSTUDIENZEIT | STUDIERENDENAKTIVIERUNG IN PRÄSENZ MIT LEHRENDEN | STUDIEN- UND PRÜFUNGSLEISTUNGEN |\n| --- | --- | --- | --- | --- |\n| EINSATZMÖGLICHKEIT | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15057,
+      "char_end": 15222,
+      "text": "Studierende ... lesen Code und bestimmen den Output. ... entwickeln einen Code und diskutieren das Ergebnis. ... diskutieren die freiwillige Verwendung von KI-Tools.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15222,
+      "char_end": 15225,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15225,
+      "char_end": 15466,
+      "text": "KI-Tools unterstützen bei der Bereitstellung und Aufbereitung von Material (Skript, Artikel, Lehrbücher, Erklärvideos) + Aufgabenerstellung (Beispiel-Code). Studierende stellen fachliche, methodische sowie KI-Tool bezogene Fragen im Vorfeld.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15466,
+      "char_end": 15469,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15469,
+      "char_end": 15907,
+      "text": "Studierende setzen sich in Gruppenarbeit mit Tutorials auseinander - wobei die KI hier die Lehrperson unterstützend Vorschläge für Tutorialfragen generieren kann. Studierende präsentieren ihre Aufgabenlösungen in Gruppen - wobei die KI hier die methodische Gestaltung der Gruppenarbeit vorgeschlagen kann. Studierende reflektieren über die freiwillige KI-Nutzung - wobei die KI hier Vorschläge für zu reflektierende Fragen erstellen kann.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15907,
+      "char_end": 15910,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15910,
+      "char_end": 16013,
+      "text": "KI-Tools können Prüfungsfragen, Rubrics, Reflexionsfragen zu KI-Nutzung oder NICHT-Nutzung vorschlagen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16013,
+      "char_end": 16039,
+      "text": " |\n| ANWENDUNGSBEISPIEL | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16039,
+      "char_end": 16717,
+      "text": "Studierende erhalten von der Lehrperson Material sowie eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. einen Code zu lesen und den Output zu bestimmen. b. den Code zu einem gegebenen Problem zu entwickeln und die Lösung zu diskutieren. c. ihr Vorgehen - mit oder ohne KI-Tool - zu beschreiben und zu reflektieren. d. inhaltliche, prozessseitige und KI bezogene Fragen zu teilen. e. ihre Lösungswege, Ergebnisse mit Kennzeichnung von selbstgeschriebenen, aus Fachforen u. ä. kopierten oder KI-generierten „Codeteilen“ auszuweisen und Reflexionen zur eigenen Kompetenzentwicklung, zur Unterstützung von KI-Tools sowie deren Grenzen zur Präsentation aufzubereiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16717,
+      "char_end": 16746,
+      "text": " | | | |\n\n## LABORPRAKTIKUM\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16746,
+      "char_end": 17576,
+      "text": "Im Laborpraktikum setzen Studierende Geräte, Apparate und/oder Softwaresysteme im Fach oder der Forschung ein und werten Arbeitsergebnisse aus. Zunächst können Fachinhalte und -methoden sowie die erforderlichen Reflexions-, Schreib- und Präsentationskompetenzen interaktiv vermittelt, Material bereitgestellt und Gruppen gebildet werden. Eine Auswahl an Laborversuchen aus einer Versuchsreihe können Studierende in Gruppenarbeiten parallel bearbeiten. Ihre Vorüberlegungen präsentieren sie vor dem Laborversuch den anderen Gruppen im Kolloquium, geben sich gegenseitig Feedback, diskutieren Kernaspekte der Versuche mit der Lehrperson. Studierende schließen das Laborpraktikum mit einem individualisierten Protokoll ab, welches neben einer mündlichen Gruppenpräsentation Teil der fach-theoretisch-fachpraktischen Modulprüfung ist.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17576,
+      "char_end": 17730,
+      "text": "\n\n| | LERNZIELE | WISSENSVERMITTLUNG | STUDIERENDENAKTIVIERUNG | STUDIEN- UND PRÜFUNGSLEISTUNGEN |\n| --- | --- | --- | --- | --- |\n| EINSATZMÖGLICHKEIT | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17730,
+      "char_end": 17988,
+      "text": "Studierende ... reflektieren ihre Ergebnisse und Strategien (inkl. freiwilliger Nutzung von KI-Tools) bei der Generierung von Fragen, Hypothesen, der Versuchsplanung. ... werten Arbeitsergebnisse aus. ... interpretieren, dokumentieren und präsentieren diese.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17988,
+      "char_end": 17991,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17991,
+      "char_end": 18111,
+      "text": "KI-Tools können Vorschläge für die Aufbereitung des Skripts, eine Vorlage oder Leitfaden für das Protokoll unterbreiten.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18111,
+      "char_end": 18114,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18114,
+      "char_end": 18366,
+      "text": "Studierende präsentieren ihre Versuchsdurchführung im Kolloquium, geben Feedback - wobei KI-Tools Vorschläge für den Ablauf des Kolloquiums, Fragenerstellung, Präsentationserstellung, Anleitung für die Durchführung des Peer-Feedbacks generieren können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18366,
+      "char_end": 18369,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18369,
+      "char_end": 18557,
+      "text": "KI-Tools können Vorschläge für Aufgaben, Rubrics für das Peer-Feedback, das Protokoll und die mündliche Prüfung sowie Reflexionsfragen für die freiwillige Nutzung von KI-Tools vorschlagen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18557,
+      "char_end": 18583,
+      "text": " |\n| ANWENDUNGSBEISPIEL | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18583,
+      "char_end": 19176,
+      "text": "Studierende erhalten von der Lehrperson Material und eine Aufgabe. Die Aufgabe für die Studierenden besteht darin, a. zu überlegen, ob, warum und wofür sie ein KI-Tool in der Protokollierung des Versuchs einsetzen wollen. b. ihre Versuchsplanung im Kolloquium vorzustellen und sich Fragen zu den anderen Versuchen zu überlegen und dazu ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben. c. ihr Protokoll zu erstellen, KI-erstellte Textpassagen auszuweisen, ihr methodisches Vorgehen (mit oder ohne KI-Nutzung) zu beschreiben sowie ihr eigenes Lernen hinterfragend darzulegen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19176,
+      "char_end": 19198,
+      "text": " | | | |\n\n## SEMINAR\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19198,
+      "char_end": 19475,
+      "text": "Im Seminar eignen sich die Studierenden unter (über-)fachlicher Begleitung selbstständig - sowohl individuell als auch in der Gruppe - Wissen und Fertigkeiten an, so dass sie in der Lage sind, darüber vorzutragen und den dargestellten Inhalt in einer Diskussion zu verteidigen.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19476,
+      "char_end": 19695,
+      "text": "Dabei kann der Einsatz von KI-Tools im Seminarkontext dazu beitragen, dass Studierende durch gezielte Nutzung von KI lernen, mit diesen Tools, auch mit Blick auf eine spätere Berufsrelevanz, kompetent umgehen zu können.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19695,
+      "char_end": 19849,
+      "text": "\n\n| | LERNZIELE | WISSENSVERMITTLUNG | STUDIERENDENAKTIVIERUNG | STUDIEN- UND PRÜFUNGSLEISTUNGEN |\n| --- | --- | --- | --- | --- |\n| EINSATZMÖGLICHKEIT | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19849,
+      "char_end": 20076,
+      "text": "Studierende ... nutzen verschiedene KI-Tools zur Bewältigung von Aufgaben. ... ordnen die KI-generierten Ausgaben anhand definierter Kriterien ein. ... bewerten die KI-generierten Ausgaben vor dem Hintergrund ihres Fachwissens.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20076,
+      "char_end": 20079,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20079,
+      "char_end": 20235,
+      "text": "KI-Tools unterstützen Studierende in der Bearbeitung von Aufgaben. Lehrende vermitteln Wissen über die Potenziale und Gefahren bei der Nutzung von KI-Tools.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20235,
+      "char_end": 20238,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20238,
+      "char_end": 20414,
+      "text": "Studierende setzen KI-Tools kritisch-konstruktiv für die Bearbeitung von Aufgaben - sowohl individuell als auch in der Gruppe - ein und reflektieren die generierten Ergebnisse.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20414,
+      "char_end": 20417,
+      "text": " | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20417,
+      "char_end": 20602,
+      "text": "Nutzung von KI als Inspiration zur Strukturierung von Schriftlichen Ausarbeitungen. Kritische Reflexion eines KI-generierten Textes vor dem Hintergrund der eigenen fachlichen Expertise.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20602,
+      "char_end": 20628,
+      "text": " |\n| ANWENDUNGSBEISPIEL | ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20628,
+      "char_end": 21235,
+      "text": "Studierende bearbeiten in der Gruppe ein Thema und präsentieren dieses im Seminar. Die Aufgabe für die Studierenden besteht darin, a. sich mithilfe von KI-Tools einen Überblick über das Thema zu verschaffen. b. den KI-generierten Überblick kritisch zu reflektieren, andere wissenschaftliche Quellen heranzuziehen und fachliche Fehlinformationen zu identifizieren. c. einen Vortrag über das bearbeitete Thema vorzubereiten, in dem auch die fachlichen Fehlinformationen diskutiert werden. d. den Vortrag als Gruppe im Seminar zu halten. e. die eigene Nutzung von KI-Tools bei der Themenbearbeitung darzulegen.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21235,
+      "char_end": 21258,
+      "text": " | | | |\n\n# PRÜFUNGEN\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21258,
+      "char_end": 21587,
+      "text": "Prüfungsrechtlich lösen KI-Tools nicht unmittelbar Änderungsbedarfe an Prüfungsordnungen aus. Vielmehr ist es eine didaktische Entscheidung bzw. eine Entscheidung der Lehrenden und Prüfenden, ob KI-Tools bei der Erbringung von Prüfungsleistungen genutzt werden dürfen und in welcher Weise oder ob ihre Nutzung ausgeschlossen ist.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21588,
+      "char_end": 22074,
+      "text": "Wichtig ist, dass das jeweilige Prüfungsszenario dahingehend gestaltet wird, dass die Prüfenden definieren können, was die bewertete *eigene Leistung* des konkreten Prüflings ist. Als eigene Leistung gilt eine Leistung, wenn sie ohne Nutzung unzulässiger Hilfsmittel und ohne unzulässige Hilfe seitens Dritter erbracht worden ist. Damit ist der Prüfling sowohl dazu verpflichtet, eigene Leistungen zu erbringen als auch über die Eigenständigkeit erbrachter Leistungen nicht zu täuschen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22076,
+      "char_end": 22347,
+      "text": "Von ausschlaggebender Relevanz sind die Überprüfungsmethoden der Prüfenden. Hinsichtlich der Bewertung von Prüfungsleistungen ist es darüber hinaus wichtig, alle Prüflinge *gleich zu behandeln* und einen *einheitlichen* Prüfungsmaßstab und Beurteilungsmaßstab anzusetzen.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22348,
+      "char_end": 22797,
+      "text": "Daher ist es wesentlich, dass Prüflinge im Prüfungsverfahren die *gleichen Chancen* haben. Der Grundsatz der Chancengleichheit verlangt u. a., dass die Prüflinge ihre Prüfungsleistungen möglichst unter gleichen (äußeren) Prüfungsbedingungen erbringen können. Dies ist durch die Definition von zulässigen Hilfsmitteln möglich. Die zulässigen Hilfsmittel sollten jedem Prüfling in gleichem Maße zur Verfügung stehen oder zur Verfügung gestellt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22799,
+      "char_end": 23064,
+      "text": "Ob - im Fall der freiwilligen Nutzung von KI-Tools beim Ablegen einer Prüfungsleistung - die Prüfungsleistungen ohne KI mit den Prüfungsleistungen mit KI vergleichbar sind und ein einheitlicher Bewertungsmaßstab gewährleistet werden kann, bleibt aktuell noch offen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23066,
+      "char_end": 23845,
+      "text": "Bezüglich der Prüfungen zeigt sich, dass einige Prüfungsarten von einer Nutzung von KI-Tools in der Prüfungssituation weniger und andere mehr tangiert sind. Prüfungen unter Aufsicht bzw. die eine unmittelbare Interaktion mit den Prüfenden voraussetzen, wie Klausuren in Präsenz, mündliche oder praktische Prüfungen, sind zunächst einmal relativ wenig von den neuen Möglichkeiten betroffen, solange KI-Tools nicht explizit als zulässige Hilfsmittel zur freiwilligen Nutzung ausgewiesen werden. Prüfungsarten, die eine Aufsichtsführung erschweren bzw. rechtlich unmöglich machen, wie z. B. die Anfertigung schriftlicher Arbeiten, die nicht einer ständigen oder vollumfänglichen Aufsicht unterliegen (Protokolle, Projekt-, Studien-, Abschlussarbeiten), sind hingegen eher betroffen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23846,
+      "char_end": 24646,
+      "text": "Für alle Prüfungsvarianten ist jedoch wichtig, dass Lehrende in den konkreten Aufgabenstellungen reflektieren müssen, wenn sich in der Lehre durch den freiwilligen Einsatz von KI-Tools etwas ändert (siehe oben in den Lehrveranstaltungsarten). So kann etwa mit Studierenden geübt werden, die Plausibilität von Ergebnissen, die unter Einsatz von KI-Tools erlangt werden, zu beurteilen. Für die Prüfung muss dann aber klar entschieden und kommuniziert werden, ob es um die Ergebnisfindung oder -beurteilung geht. Durch den Einsatz von KI-Tools kann es also insgesamt dazu kommen, dass sich der Prüfungsgegenstand verschiebt und sich somit auch Änderungen im Anforderungs- und Schwierigkeitsgrad ergeben können. Dies sollte dann sehr bewusst von der Lehrperson entschieden und transparent gemacht werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24648,
+      "char_end": 24892,
+      "text": "Bei schriftlichen Arbeiten können KI-Tools im Schreibprozess z. B. für folgende Schritte genutzt werden: bei Brainstorming und Ideengenerierung, beim Strukturieren und Gliedern, als Hilfe bei Schreibblockaden oder beim sprachlichen Feinschliff.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24893,
+      "char_end": 25143,
+      "text": "Nicht eingesetzt werden können KI-Tools dagegen für die unreflektierte Generierung ganzer Arbeiten oder ganzer Textabschnitte, für die ungeprüfte Übernahme von Literatur- und Inhaltsvorschlägen, für die Bearbeitung sehr individueller Fragestellungen.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25145,
+      "char_end": 25457,
+      "text": "Unerlässlich ist die Entwicklung und Nutzung „guter“ Prompts (vgl. Dang et al., 2022; Zamfirescu-Pereira et al., 2023, S. 10): Denn nur wenn Studierende und Lehrende konkrete, zielführende und eindeutige Prompts formulieren, können KI-Tools in den entsprechenden Phasen des Schreibprozesses Unterstützung bieten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25458,
+      "char_end": 25738,
+      "text": "Für die Nutzung von KI-Tools im Schreibprozess ist es daher ratsam, diese Möglichkeiten der Vorschlagsgenerierung von Anfang an proaktiv gemeinsam zu diskutieren sowie Chancen und Grenzen dieses Vorgehens vor allem vor dem Hintergrund des anvisierten Kompetenzerwerbs aufzuzeigen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25739,
+      "char_end": 25958,
+      "text": "Für die Bewertung könnten solche Kriterien stärker gewichtet werden, die die Eigenleistung der Studierenden fokussieren (etwa die fachliche Einordnung, kritische Bewertung der Ergebnisse oder eigene Ausdrucksfähigkeit).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25959,
+      "char_end": 26149,
+      "text": "Eine enge Begleitung in Schreibprozessen mit regelhafter Abfrage von Zwischenständen kann unterstützen, die eigenständige und eigenverantwortliche Denkarbeit der Studierenden zu fokussieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26150,
+      "char_end": 26404,
+      "text": "Eine kritische Reflexion und sinnvolle Prüfung durch die Studierenden selbst kann vor allem dann gelingen, wenn sie bereits ein Grundverständnis für das wissenschaftliche Arbeiten und Schreiben ausgebildet haben (vgl. auch Salden & Leschke, 2023, S. 13).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26405,
+      "char_end": 26542,
+      "text": "Die Regeln guter wissenschaftlicher Praxis sind grundsätzlich einzuhalten und KI-Tools wie alle anderen Hilfsmittel auch zu kennzeichnen.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26544,
+      "char_end": 26601,
+      "text": "## Teil 3: Grundsätzliche Aspekte und rechtliche Hinweise",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 126,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26603,
+      "char_end": 26726,
+      "text": "Die TU Hamburg spricht sich für einen chancengleichen, integren und legitimen Umgang mit KI-Tools in Studium und Lehre aus.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26727,
+      "char_end": 26851,
+      "text": "Bei der Auswahl des Datenmaterials (Prompts und Outputs) ist die Sicherung guter wissenschaftlicher Praxis zu gewährleisten.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26852,
+      "char_end": 27045,
+      "text": "Gleiches gilt für die Vermeidung einer unsachgemäßen und unreflektierten Nutzung sowie für die Weitergabe sensibler und personenbezogener Daten an Dritte (Entwickler und Anbieter von KI-Tools).",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27046,
+      "char_end": 27201,
+      "text": "Bei der Nutzung von KI-Tools in Studium und Lehre ist dabei zu beachten, dass die bereitgestellten Informationen zu Trainingszwecken genutzt werden können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27201,
+      "char_end": 27226,
+      "text": "\n\n### CHANCENGLEICHHEIT\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27226,
+      "char_end": 27362,
+      "text": "Der Einsatz bzw. die Nutzung von KI-Tools muss entsprechend des Grundsatzes der Chancengleichheit erfolgen (siehe Teil zwei; Prüfungen).",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27363,
+      "char_end": 27663,
+      "text": "Für Lehrende bedeutet dies z. B., dass die Integration von KI-Tools in ihre Lehrveranstaltungen immer einen Mehrwert mit sich bringen sollte, die Nutzung dieser aber nicht als Voraussetzung für die erfolgreiche Teilnahme an einer Lehrveranstaltung, also für die Lernaktivitäten oder die Prüfung gilt.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27663,
+      "char_end": 27692,
+      "text": "\n\n## AKADEMISCHE INTEGRITÄT\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 27692,
+      "char_end": 27800,
+      "text": "Die akademische Integrität verpflichtet uns alle zu einem täglichen, wertebasierten und regelhaften Handeln.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27801,
+      "char_end": 28019,
+      "text": "In diesem Sinne ist für eine gute wissenschaftliche Praxis und zur Vermeidung wissenschaftlichen Fehlverhaltens (vgl. TU Hamburg, 2024) eine informierte, reflektierte und transparente Nutzung von KI-Tools unerlässlich.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28020,
+      "char_end": 28130,
+      "text": "Die Entwicklung von akademischer Integrität kann durch Lehrende proaktiv im gesamten Studium gefördert werden.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28131,
+      "char_end": 28265,
+      "text": "Der Zusammenhang zwischen einem möglichen wissenschaftlichen Fehlverhalten und dem Einsatz von KI ist an der TU Hamburg in Diskussion.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28265,
+      "char_end": 28299,
+      "text": "\n\n## URHEBERSCHAFT / AUTORSCHAFT\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 28299,
+      "char_end": 28548,
+      "text": "Der aktuelle Stand der juristischen Diskussion zeigt, dass bei der Nutzung von KI-Tools vieles, was urheberrechtlich von Relevanz sein kann, noch komplett unklar ist. Der Einsatz von KI-Tools ist diesbezüglich somit rechtlich noch nicht abgesichert.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28550,
+      "char_end": 28756,
+      "text": "Im Sinne des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG) können KI-gestützte Programme nicht als Autor*innen bzw. Urheber*innen des von ihnen generierten Textes gelten, §§ 7, 2 Abs. 2 UrhG.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28757,
+      "char_end": 28968,
+      "text": "Gleichwohl können Nutzende entsprechender Programme eventuell eine Urheberschaft an den generierten Texten beanspruchen, sofern sie KI-Tools als Hilfsmittel für die eigene gestalterische Tätigkeit genutzt haben.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 28970,
+      "char_end": 29355,
+      "text": "Ausschlaggebend ist in diesem Fall ein signifikantes Maß an geistiger Eigenleistung (vgl. Hoeren, 2023, S. 22 ff.). Festzuhalten bleibt: „Das Bestehen urheberrechtlichen Schutzes für KI-generierte Texte entscheidet sich also an der Frage, ob ein hinreichender menschlicher Einfluss besteht, um eine persönliche geistige Schöpfung im Sinne des § 2 Abs. 2 UrhG zu bejahen“ (ebd., S. 25).",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29357,
+      "char_end": 29733,
+      "text": "Die Urheberrechtsrelevanz von KI-Sprachmodellen, wie z. B. ChatGPT, setzt zudem nicht erst bei den Ergebnissen ein. So kann nicht zweifelsfrei ausgeschlossen werden, dass der Trainingsdatenbestand nicht ggf. unter Verletzung von Rechten anderer durch Web Scraping entstanden ist, z. B. durch das Auslesen von Datenbanken (§ 87b UrhG) oder durch Text-/Data Mining (§ 44b UrhG).",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29735,
+      "char_end": 30042,
+      "text": "Weiterhin ist die Quellenlage - und auch das Zustandekommen der Ergebnisse - derart unübersichtlich für die Nutzenden, dass nicht zweifelsfrei ausgeschlossen werden kann, ob die Ergebnisse geschützte Passagen Dritter enthalten, die ohne Erlaubnis - oder ohne Nennung ihrer Urheberschaft - integriert werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30042,
+      "char_end": 30047,
+      "text": "\n\n## ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30047,
+      "char_end": 30088,
+      "text": "REGELUNGSBEDARF UND KENNZEICHNUNGSPFLICHT",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 127,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30090,
+      "char_end": 30283,
+      "text": "Die allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge (ASPO) enthält Vorschriften, die auch auf den Einsatz von KI-Tools anwendbar sind (§ 21 Abs. 6 Satz 2 ASPO).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30285,
+      "char_end": 30558,
+      "text": "Interpretationsspielraum besteht für jeden Einzelfall: Gehören KI-gestützte Hilfsmittel zur alltäglichen Arbeit (vgl. Eaton, 2023) und müssen daher nicht angegeben werden, oder gehen sie darüber hinaus und betreffen stärker die abzuprüfende wissenschaftliche Kernkompetenz?",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30559,
+      "char_end": 30904,
+      "text": "Entsprechend kann z. B. „in Prüfungsordnungen fachspezifisch definiert werden, in welchem Maße und unter welchen Bedingungen die Verwendung KI-unterstützter Tools zulässig ist“ (Hoeren, 2023, S. 23). Der oder die Prüfende legt letztlich im Einklang mit ASPO und FSPO die Richtlinien für die konkrete Prüfungsleistung fest (vgl. Spannagel, 2023).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30906,
+      "char_end": 31086,
+      "text": "Eine Kennzeichnungspflicht für z. B. den Textoutput eines KI-Schreibtools kann sich außerdem aus den Nutzungsbedingungen der jeweiligen Software ergeben (vgl. Hoeren, 2023, S. 23).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31088,
+      "char_end": 31276,
+      "text": "Eine Orientierungshilfe zu der Frage, wie eine solche Kennzeichnung in studentischen Arbeiten in dem jeweiligen Fach durch die einzelnen zu Prüfenden erfolgen kann, finden Sie nachfolgend:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31276,
+      "char_end": 31279,
+      "text": "\n\n*",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 31279,
+      "char_end": 31410,
+      "text": "Fragen Sie sich auch, wie die Nutzung von KI-Tools in schriftlichen Ausarbeitungen (inkl. Abschlussarbeiten) angegeben werden kann?",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 104,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31410,
+      "char_end": 31460,
+      "text": "*\n\n## **KENNZEICHNUNG DER NUTZUNG VON KI-TOOLS**\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 31460,
+      "char_end": 31950,
+      "text": "Nochmal vorweg: KI-Tools können in schriftlichen Arbeiten eigenverantwortlich durch Studierende genutzt werden (sofern nicht anders durch die Prüfenden definiert). Die Nutzung des KI-Tools ist grundsätzlich entsprechend der ASPO, der FSPO, den Nutzungsbedingungen des KI-Tools sowie der Entscheidung der Lehrperson basierend auf der aktuellen Praxis im Fach als Hilfsmittel im Schriftprodukt zu kennzeichnen - es sei denn es handelt sich um KI-gestützte Hilfsmittel der alltäglichen Arbeit.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31951,
+      "char_end": 31999,
+      "text": "Die Kennzeichnung kann zum Beispiel so erfolgen:",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 31999,
+      "char_end": 32005,
+      "text": "\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32005,
+      "char_end": 32580,
+      "text": "**Dokumentation der KI-Nutzung:**\n\nDie für die Arbeit relevante zu kennzeichnende Kommunikation mit dem KI-Tool (eigene Fragen/Prompts, Antworten/Ausgaben/Texte der KI) wird elektronisch in einem separaten Verzeichnis dokumentiert. Dabei wird auch für jede Kommunikation die verwendete Version und das Nutzungsdatum angegeben (z. B. ChatGPT May 24 Version, 23.06.2023). Diese Dokumentation wird als Primärquelle im Quellenverzeichnis aufgenommen, z. B.: Dokumentation ChatGPT (Jahr), und stellt die Basis für wörtliche und sinngemäße Zitate der KI-generierten Ergebnisse dar.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32580,
+      "char_end": 32740,
+      "text": "\n\n### **KI als Quelle**\n\nAus KI-Tools inhaltlich generierte Textteile (wörtliche Zitate) werden im Text zitiert, z. B. Dokumentation ChatGPT Jahr, S. x, Z. y.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32740,
+      "char_end": 32927,
+      "text": "Eigene Paraphrasierungen der von KI-Tools inhaltlich generierten Texte (sinngemäße Zitate) werden an den entsprechenden Stellen gekennzeichnet, z.B. vgl. Dokumentation ChatGPT S. x, Z. y.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 109,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 32927,
+      "char_end": 32933,
+      "text": "\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 32933,
+      "char_end": 33984,
+      "text": "**Umformulierung und Übersetzung mit Hilfe von KI-Tools**\n\nKI-Tools können im Schreibprozess sprachunterstützend genutzt werden, z. B. als Rechtschreib- und Umformulierungshilfe, und müssen dann nicht gekennzeichnet werden (vgl. Züricher Hochschule für angewandte Wissenschaften, 2023). Gleiches gilt für derartige sprachliche Unterstützung in einer Fremdsprache (z. B. Wortformulierungen, Rechtschreib- und Grammatikprüfung und Übersetzungen) mit KI-Tools. Diese Nutzung von KI-Tools ist Teil des alltäglichen Arbeitens und unterliegt also nicht der Kennzeichnungspflicht, es sei denn, die Prüfenden wünschen entsprechend ihrer Fachpraxis explizit eine Kennzeichnung. Dann kann in der Eigenständigkeitserklärung (vgl. Buck und Limburg, 2023) oder in der Auflistung der anzugebenen Hilfsmittel (vgl. Spannagel, 2023) notiert werden, dass KI-Tools genutzt wurden bzw. spezifischer, dass z.B. der Text in Kapitel XY oder Abschnitt XY oder Zeile XY mit KI-Tool Z umformuliert bzw. übersetzt wurde (z.B. Meier 2007, S. 208-209, übersetzt durch KI-Tool Z).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 33984,
+      "char_end": 34022,
+      "text": "\n\n## DATENSCHUTZ UND DATENSICHERHEIT\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 34022,
+      "char_end": 34407,
+      "text": "Sobald bei der Nutzung von KI-Tools personenbezogene Daten verarbeitet werden, sind die datenschutzrechtlichen Grundprinzipien aus Art. 5 Datenschutzgrundverordnung (DSGVO) zu berücksichtigen. Des Weiteren muss für die Verarbeitung eine Rechtsgrundlage gegeben sein und die Verarbeitung muss für die Personen, deren Daten verarbeitet werden, ausreichend transparent dargestellt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 111,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34408,
+      "char_end": 34578,
+      "text": "So stellt beispielsweise die Weitergabe von personenbezogenen Daten ohne eine datenschutzkonforme Einwilligung der betroffenen Personen einen Verstoß gegen die DSGVO dar.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34579,
+      "char_end": 34781,
+      "text": "Die Einwilligung muss hierbei freiwillig erfolgt sein und es müssen die weiteren datenschutzrechtlichen Anforderungen, die eine datenschutzrechtliche Einwilligung mit sich bringt, berücksichtigt werden.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 113,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 34782,
+      "char_end": 35166,
+      "text": "Erfolgt im Zusammenhang mit der Nutzung von KI-Tools eine Übermittlung personenbezogener Daten in Länder außerhalb der EU bzw. des EWR, gilt es zu prüfen, ob durch entsprechende Maßnahmen ein angemessenes Datenschutzniveau gewährleistet ist. Die Nutzung einer KI-Software eines amerikanischen Unternehmens entspricht hierbei regelmäßig nicht den europäischen Datenschutzanforderungen.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 114,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35168,
+      "char_end": 35708,
+      "text": "Die Nutzung einer KI-Software ohne die Eingabe personenbezogener Daten ist nicht automatisch datenschutzkonform, nur weil keine aktive Eingabe von oder Frage nach Personen im Prompt erfolgt. Auch die reine Nutzung kann bereits gegen den Datenschutz verstoßen, da sich aus den Prompts sowie den damit zusammenhängenden Nutzungsdaten (IP-Adresse, Standort, Datum, Uhrzeit, endgerätspezifische Daten) grundsätzlich viele Informationen über Nutzende (Vorlieben, politische oder weltanschauliche Überzeugungen, Erkrankungen etc.) ergeben können.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 35710,
+      "char_end": 36181,
+      "text": "Zusätzlich gilt zu beachten, dass bei der Verarbeitung von personenbezogenen Daten im Rahmen der Nutzung externer KI-Tools regelmäßig datenschutzrechtliche Vereinbarungen geschlossen werden müssen und auch Maßnahmen zur Gewährleistung der Datensicherheit umzusetzen sind. So beschreibt der Anbieter OpenAI beispielsweise in seinen Datenschutzrichtlinien, in welcher Form Daten verarbeitet und geschützt werden, kann für eine Sicherheit der Daten jedoch nicht garantieren.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 116,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36182,
+      "char_end": 36373,
+      "text": "Die Wahrung der Vertraulichkeit und der Integrität ist somit beim Einsatz derartiger Systeme fraglich und es besteht die Möglichkeit, dass Dritte Zugriff auf die verarbeiteten Daten erhalten.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 117,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36374,
+      "char_end": 36648,
+      "text": "Auch aus diesem Grund ist es unerlässlich sicherzustellen, dass bei der Nutzung von KI-Tools auch die Maßgaben der Datensicherheit befolgt werden und der Zugriff von KI-Tools auf eigens bereitgestellte sensible, interne oder vertrauliche Informationen strikt vermieden wird.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 118,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36649,
+      "char_end": 36837,
+      "text": "Grundsätzlich ist zu berücksichtigen, dass KI-Tools die Daten (Prompts, Outputs und Nutzerverhalten) zu Trainingszwecken nutzen. Diese Funktion kann bei einigen Tools ausgeschaltet werden.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 119,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 36838,
+      "char_end": 37045,
+      "text": "Sofern das verwendete KI-Tool eine entsprechende Einstellungsmöglichkeit bietet und personenbezogene Daten verarbeitet werden sollen, ist eine Deaktivierung des Trainings empfehlenswert (Privacy by Default).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 120,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 37045,
+      "char_end": 40381,
+      "text": "\n\n## QUELLEN\n\n**Buck, I. & Limburg, A.** (2023). Hochschulbildung vor dem Hintergrund von Natural Language Processing (KI-Schreibtools). Ein Framework für eine zukunftsfähige Lehr- und Prüfungspraxis. Die hochschullehre. Jahrgang 9 - 2023 (6).\nDOI: 10.3278/HSL2306W\n\n**Dang, H., Mecke, L., Lehmann, F., Goller, S. & Buschek, D.** (2022). How to Prompt? Opportunities and Challenges of Zero- and Few-Shot Learning for Human-AI Interaction in Creative Applications of Generative Models.\nhttps://doi.org/10.48550/arXiv.2209.01390\n\n**Eaton, S. E.** (2023). Artificial Intelligence and academic integrity, post-plagiarism.\nhttps://www.universityworldnews.com/post.php?story=20230228133041549#:~:text=Artificial%20intelligence%20and%20academic.\n\n**Heilmann, T. A.** (2019). Algorithmus. In K. Liggieri & O. Müller (Hrsg.), Mensch-Maschine-Interaktion: Handbuch zu Geschichte - Kultur - Ethik (S. 229-231). Stuttgart: J.B. Metzler.\nhttps://doi.org/10.1007/978-3-476-05604-7_32\n\n**Hoeren, T.** (2023). Rechtsgutachten zum Umgang mit KI-Software im Hochschulkontext. In: Salden, P./Leschke, J. (Hrsg.): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, S. 22-41.\nhttps://doi.org/10.13154/294-9734\n\n**Salden, P., Lordick, N., Wiethoff, M.** (2023). KI-basierte Schreibwerkzeuge in der Hochschule: Eine Einführung. In: Salden, P., Leschke, J. (Hrsg.): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, S. 4-21. https://doi.org/10.13154/294-9734\n\n**Spannagel, Ch.** (2023). Rules for Tools - 2. Version, [online] Rules for Tools (uni-giessen.de)\n\n**Wienrich, C., Carolus, A., Markus, A., & Augustin, Y.** (2022). AI Literacy: Kompetenzdimensionen und Einflussfaktoren im Kontext von Arbeit. Denkfabrik-bmas.de.\nhttps://www.denkfabrik-bmas.de/fileadmin/Downloads/Publikationen/AI_Literacy_Kompetenzdimensionen_und_Einflussfaktoren_im_Kontext_von_Arbeit.pdf\n\n**Technische Universität Hamburg** (2024). Satzung zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens.\nhttps://www.tuhh.de/tuhh/tu-hamburg/struktur/verwaltung-und-zentrale-einrichtungen/ra-rechtsreferat/ordnungen-richtlinien/satzung-zur-sicherung-guter-wissenschaftlicher-praxis-und-zum-umgang-mit-verdachtsfaellen-wissenschaftlichen-fehlverhaltens-vom-26-juni-2024-veroeffentlicht-am-15072024-1 (Aktualisierung: 15.07.2024)\n\n**Technische Universität Hamburg** (2021).\nLeitbild Lehre der Technischen Universität Hamburg.\nhttps://www.tuhh.de/tuhh/tu-hamburg/profil/leitbild-lehre\n\n**Zamfirescu-Pereira, J. D., Wong, R. Y., Hartmann, B. & Yang, Q.** (2023). Why Johnny Can't Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts (CHI '23). Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (S. 1-21). New York, NY, USA: Association for Computing Machinery.\nhttps://doi.org/10.1145/3544548.3581388\n\n**Züricher Hochschule für Angewandte Wissenschaften** (2023). Z-RL-Richtlinie KI bei Leistungsnachweisen.\nhttps://gpmpublic.zhaw.ch/GPMDocProdDPublic/Vorgabedokumente_ZAV/Z_RL_Richtlinie_KI_bei_Leistungsnachweisen.pdf\n\n## FOOTNOTES\n\n¹ Eine Definition des Begriffes KI sowie eine anschauliche Erklärung zu ChatGPT der UNESCO finden sich unter folgendem Link: https://unesdoc.unesco.org/ark:/48223/pf0000385146",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}
