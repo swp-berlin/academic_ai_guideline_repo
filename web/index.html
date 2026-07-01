@@ -133,6 +133,7 @@ const state = {
   loading: true,
   error: null,
   query: "",
+  tocQuery: "",
   activeCodes: new Set(),
   viewDocId: null,
   showSkips: false,
@@ -519,7 +520,44 @@ function renderTocView(root) {
 
   container.appendChild(buildHeader());
 
-  const docs = [...state.data.documents].sort((a, b) => a.institution.localeCompare(b.institution));
+  // Search across all tables of contents
+  const searchDiv = document.createElement("div");
+  searchDiv.className = "control";
+  const input = document.createElement("input");
+  input.type = "text";
+  input.placeholder = "Search headings and institutions...";
+  input.value = state.tocQuery;
+  input.addEventListener("input", (e) => {
+    state.tocQuery = e.target.value;
+    scheduleRender();
+  });
+  searchDiv.appendChild(input);
+  container.appendChild(searchDiv);
+
+  const q = state.tocQuery.trim().toLowerCase();
+  const matches = (text) => q.length < 2 || (text || "").toLowerCase().includes(q);
+
+  let docs = [...state.data.documents].sort((a, b) => a.institution.localeCompare(b.institution));
+  if (q.length >= 2) {
+    docs = docs.filter(doc =>
+      matches(doc.institution) || (doc.toc || []).some(e => matches(e.text))
+    );
+  }
+
+  // Count line
+  const countDiv = document.createElement("div");
+  countDiv.className = "count-line";
+  countDiv.textContent = `${docs.length} guideline${docs.length !== 1 ? "s" : ""}`;
+  container.appendChild(countDiv);
+
+  if (docs.length === 0) {
+    const noResults = document.createElement("div");
+    noResults.className = "no-results";
+    noResults.textContent = "No tables of contents match.";
+    container.appendChild(noResults);
+    root.appendChild(container);
+    return;
+  }
 
   const grid = document.createElement("div");
   grid.className = "toc-grid";
@@ -530,7 +568,7 @@ function renderTocView(root) {
 
     const title = document.createElement("button");
     title.className = "toc-card-title";
-    title.textContent = doc.institution;
+    title.innerHTML = highlightText(doc.institution, state.tocQuery);
     title.addEventListener("click", () => {
       state.viewDocId = doc.doc_id;
       state.tab = "explorer";
@@ -559,7 +597,7 @@ function renderTocView(root) {
         const li = document.createElement("li");
         li.className = "toc-item depth-" + entry.depth;
         li.style.paddingLeft = (entry.depth * 14) + "px";
-        li.textContent = entry.text;
+        li.innerHTML = highlightText(entry.text, state.tocQuery);
         list.appendChild(li);
       });
       card.appendChild(list);
