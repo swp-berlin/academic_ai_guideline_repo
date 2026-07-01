@@ -24,12 +24,37 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 GUIDELINES_FILE = ROOT / "guidelines.yaml"
 OUTPUTS_DIR = ROOT / "outputs"
+TOC_DIR = ROOT / "toc_markdown"
 
 
 def find_coding_file(slug: str, version: str) -> Path | None:
     """Exact (slug, version) coding output: outputs/{slug}_{version}.json"""
     p = OUTPUTS_DIR / f"{slug}_{version}.json"
     return p if p.is_file() else None
+
+
+def load_toc(slug: str, version: str) -> list[dict] | None:
+    """Parse toc_markdown/{slug}_{version}.md into a flat list of {depth, text}.
+
+    The markdown files are bullet lists that use two-space indentation per level.
+    Returns None when there is no TOC file or it has no entries.
+    """
+    path = TOC_DIR / f"{slug}_{version}.md"
+    if not path.is_file():
+        return None
+
+    entries: list[dict] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        stripped = raw.lstrip(" ")
+        if not stripped.startswith("- "):
+            continue
+        indent = len(raw) - len(stripped)
+        text = stripped[2:].strip()
+        if not text:
+            continue
+        entries.append({"depth": indent // 2, "text": text})
+
+    return entries or None
 
 
 B_CODEBOOK = {
@@ -95,6 +120,7 @@ def main() -> int:
             "date": entry.get("date", ""),
             "language": entry.get("language", ""),
             "url": entry.get("url", ""),
+            "toc": load_toc(slug, version),
             "segments": [
                 {
                     "id": seg["id"],

@@ -18,8 +18,27 @@
   button { font-family: inherit; cursor: pointer; }
   .container { max-width: 1200px; margin: 0 auto; padding: 20px 16px; }
   .header { margin-bottom: 18px; }
+  .header-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
   .header h1 { font-size: 20px; font-weight: 600; color: #e4e4e7; margin: 0; }
   .header p { font-size: 12px; color: #71717a; margin: 3px 0 0; }
+  .repo-link { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: #a1a1aa; border: 1px solid #3f3f46; border-radius: 7px; padding: 6px 10px; flex-shrink: 0; transition: all 0.15s; }
+  .repo-link:hover { border-color: #0ea5e9; color: #e4e4e7; }
+  .repo-link svg { width: 15px; height: 15px; fill: currentColor; }
+  .tabs { display: flex; gap: 4px; margin-top: 14px; border-bottom: 1px solid #27272a; }
+  .tab { background: none; border: none; border-bottom: 2px solid transparent; color: #71717a; font-size: 13px; font-weight: 500; padding: 8px 12px; margin-bottom: -1px; transition: all 0.15s; }
+  .tab:hover { color: #a1a1aa; }
+  .tab.active { color: #0ea5e9; border-bottom-color: #0ea5e9; }
+  .toc-grid { column-count: 2; column-gap: 16px; }
+  .toc-card { break-inside: avoid; border: 1px solid #27272a; border-radius: 8px; padding: 12px 14px; background: #111113; margin-bottom: 16px; display: inline-block; width: 100%; }
+  .toc-card-title { font-size: 13px; font-weight: 600; color: #e4e4e7; background: none; border: none; padding: 0; text-align: left; }
+  .toc-card-title:hover { color: #0ea5e9; }
+  .toc-card-meta { font-size: 11px; color: #71717a; margin: 3px 0 8px; }
+  .toc-card-meta a { color: #0ea5e9; }
+  .toc-list { list-style: none; padding: 0; margin: 0; }
+  .toc-item { font-size: 12px; line-height: 1.5; color: #a1a1aa; padding: 1px 0; }
+  .toc-item.depth-0 { color: #d4d4d8; font-weight: 500; }
+  .toc-empty { font-size: 12px; color: #52525b; font-style: italic; }
+  @media (max-width: 700px) { .toc-grid { column-count: 1; } }
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 16px; align-items: start; }
   .sidebar { border: 1px solid #27272a; border-radius: 8px; padding: 10px; background: #111113; }
   .sidebar-title { font-size: 12px; font-weight: 700; color: #d4d4d8; margin-bottom: 3px; }
@@ -106,6 +125,7 @@ const BC = {
 const DC = { bg: "#f4f4f5", border: "#a1a1aa", text: "#52525b" };
 const getColor = c => BC[c] || DC;
 const HIDDEN_CODES = new Set(["B13"]);
+const REPO_URL = "https://github.com/swp-berlin/academic_ai_guideline_repo";
 
 // App state
 const state = {
@@ -116,6 +136,7 @@ const state = {
   activeCodes: new Set(),
   viewDocId: null,
   showSkips: false,
+  tab: "explorer",
   renderTimeout: null,
 };
 
@@ -188,23 +209,58 @@ function render() {
     }
   }
 
-  // Main overview
+  // Main views
   root.innerHTML = '';
-  renderOverview(root);
+  if (state.tab === "toc") {
+    renderTocView(root);
+  } else {
+    renderOverview(root);
+  }
+}
+
+// Shared header with title, GitHub link and tab bar
+function buildHeader() {
+  const header = document.createElement("div");
+  header.className = "header";
+
+  const top = document.createElement("div");
+  top.className = "header-top";
+  top.innerHTML = `
+    <div>
+      <h1>AI Guidelines Explorer</h1>
+      <p>${state.data.document_count} guidelines · ${state.data.segment_count} coded segments</p>
+    </div>
+    <a class="repo-link" href="${REPO_URL}" target="_blank" rel="noopener noreferrer">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      GitHub
+    </a>
+  `;
+  header.appendChild(top);
+
+  const tabs = document.createElement("div");
+  tabs.className = "tabs";
+  [["explorer", "Explorer"], ["toc", "Tables of Contents"]].forEach(([id, label]) => {
+    const btn = document.createElement("button");
+    btn.className = "tab" + (state.tab === id ? " active" : "");
+    btn.textContent = label;
+    btn.addEventListener("click", () => {
+      if (state.tab !== id) {
+        state.tab = id;
+        render();
+      }
+    });
+    tabs.appendChild(btn);
+  });
+  header.appendChild(tabs);
+
+  return header;
 }
 
 function renderOverview(root) {
   const container = document.createElement("div");
   container.className = "container";
 
-  // Header
-  const header = document.createElement("div");
-  header.className = "header";
-  header.innerHTML = `
-    <h1>AI Guidelines Explorer</h1>
-    <p>${state.data.document_count} guidelines · ${state.data.segment_count} coded segments</p>
-  `;
-  container.appendChild(header);
+  container.appendChild(buildHeader());
 
   // Layout container
   const layout = document.createElement("div");
@@ -454,6 +510,70 @@ function renderOverview(root) {
   layout.appendChild(sidebar);
 
   container.appendChild(layout);
+  root.appendChild(container);
+}
+
+function renderTocView(root) {
+  const container = document.createElement("div");
+  container.className = "container";
+
+  container.appendChild(buildHeader());
+
+  const docs = [...state.data.documents].sort((a, b) => a.institution.localeCompare(b.institution));
+
+  const grid = document.createElement("div");
+  grid.className = "toc-grid";
+
+  docs.forEach(doc => {
+    const card = document.createElement("div");
+    card.className = "toc-card";
+
+    const title = document.createElement("button");
+    title.className = "toc-card-title";
+    title.textContent = doc.institution;
+    title.addEventListener("click", () => {
+      state.viewDocId = doc.doc_id;
+      state.tab = "explorer";
+      render();
+    });
+    card.appendChild(title);
+
+    const meta = document.createElement("div");
+    meta.className = "toc-card-meta";
+    meta.textContent = [doc.category, doc.date].filter(Boolean).join(" · ");
+    if (doc.url) {
+      if (meta.textContent) meta.append(" · ");
+      const link = document.createElement("a");
+      link.href = doc.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "source ↗";
+      meta.appendChild(link);
+    }
+    card.appendChild(meta);
+
+    if (doc.toc && doc.toc.length) {
+      const list = document.createElement("ul");
+      list.className = "toc-list";
+      doc.toc.forEach(entry => {
+        const li = document.createElement("li");
+        li.className = "toc-item depth-" + entry.depth;
+        li.style.paddingLeft = (entry.depth * 14) + "px";
+        li.textContent = entry.text;
+        list.appendChild(li);
+      });
+      card.appendChild(list);
+    } else {
+      const empty = document.createElement("div");
+      empty.className = "toc-empty";
+      empty.textContent = "No table of contents available.";
+      card.appendChild(empty);
+    }
+
+    grid.appendChild(card);
+  });
+
+  container.appendChild(grid);
   root.appendChild(container);
 }
 
