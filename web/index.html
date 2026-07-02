@@ -39,6 +39,21 @@
   .toc-item.depth-0 { color: #d4d4d8; font-weight: 500; }
   .toc-empty { font-size: 12px; color: #52525b; font-style: italic; }
   @media (max-width: 700px) { .toc-grid { column-count: 1; } }
+  .disclaimer { margin-top: 14px; border: 1px solid #3f3f46; border-left: 3px solid #f59e0b; border-radius: 7px; background: rgba(245, 158, 11, 0.06); padding: 10px 13px; }
+  .disclaimer strong { color: #fbbf24; font-weight: 600; }
+  .disclaimer p { font-size: 11.5px; line-height: 1.55; color: #b4b4bb; margin: 0; }
+  .disclaimer .ai { color: #e4e4e7; font-weight: 600; }
+  .ref-grid { column-count: 2; column-gap: 16px; }
+  .ref-card { break-inside: avoid; border: 1px solid #27272a; border-radius: 8px; padding: 11px 13px; background: #111113; margin-bottom: 14px; display: inline-block; width: 100%; }
+  .ref-name { font-size: 13.5px; font-weight: 600; color: #e4e4e7; }
+  .ref-badges { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin: 5px 0 7px; }
+  .ref-type { font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 3px; background: #1e293b; color: #93c5fd; }
+  .ref-count { font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 3px; background: rgba(14,165,233,0.12); color: #38bdf8; }
+  .ref-line { font-size: 11.5px; line-height: 1.5; color: #a1a1aa; margin: 3px 0; }
+  .ref-line .k { color: #71717a; }
+  .ref-variant { color: #d4d4d8; }
+  .ref-mention { font-size: 11px; line-height: 1.5; color: #8b8b95; font-style: italic; margin-top: 6px; border-top: 1px solid #27272a; padding-top: 6px; }
+  @media (max-width: 700px) { .ref-grid { column-count: 1; } }
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 16px; align-items: start; }
   .sidebar { border: 1px solid #27272a; border-radius: 8px; padding: 10px; background: #111113; }
   .sidebar-title { font-size: 12px; font-weight: 700; color: #d4d4d8; margin-bottom: 3px; }
@@ -134,6 +149,7 @@ const state = {
   error: null,
   query: "",
   tocQuery: "",
+  refQuery: "",
   activeCodes: new Set(),
   viewDocId: null,
   showSkips: false,
@@ -214,6 +230,8 @@ function render() {
   root.innerHTML = '';
   if (state.tab === "toc") {
     renderTocView(root);
+  } else if (state.tab === "references") {
+    renderReferencesView(root);
   } else {
     renderOverview(root);
   }
@@ -240,7 +258,7 @@ function buildHeader() {
 
   const tabs = document.createElement("div");
   tabs.className = "tabs";
-  [["explorer", "Explorer"], ["toc", "Tables of Contents"]].forEach(([id, label]) => {
+  [["explorer", "Explorer"], ["toc", "Tables of Contents"], ["references", "References"]].forEach(([id, label]) => {
     const btn = document.createElement("button");
     btn.className = "tab" + (state.tab === id ? " active" : "");
     btn.textContent = label;
@@ -254,7 +272,24 @@ function buildHeader() {
   });
   header.appendChild(tabs);
 
+  header.appendChild(buildDisclaimer());
+
   return header;
+}
+
+// Provenance / AI-generation disclaimer shown on every tab.
+function buildDisclaimer() {
+  const model = (state.data.references_meta && state.data.references_meta.method
+    && /via\s+(.+)$/.exec(state.data.references_meta.method)?.[1]) || "mistral-large-latest";
+  const box = document.createElement("div");
+  box.className = "disclaimer";
+  box.innerHTML = `<p><strong>How to read this:</strong> Source documents were downloaded and their
+    text extracted via OCR, then cleaned — those two steps were <strong>visually confirmed for
+    accuracy</strong>. Everything downstream is <span class="ai">AI-generated and not yet manually
+    validated</span>: the B-code tagging/coding, the tables of contents, and the reference extraction
+    were all produced automatically with <span class="ai">${model}</span> (July&nbsp;2026). Treat coded
+    segments, tables of contents and references as provisional research material.</p>`;
+  return box;
 }
 
 function renderOverview(root) {
@@ -606,6 +641,128 @@ function renderTocView(root) {
       empty.className = "toc-empty";
       empty.textContent = "No table of contents available.";
       card.appendChild(empty);
+    }
+
+    grid.appendChild(card);
+  });
+
+  container.appendChild(grid);
+  root.appendChild(container);
+}
+
+function renderReferencesView(root) {
+  const container = document.createElement("div");
+  container.className = "container";
+
+  container.appendChild(buildHeader());
+
+  const refs = state.data.references || [];
+  const meta = state.data.references_meta;
+
+  // Map doc_id -> institution for friendlier "referenced by" labels.
+  const instById = {};
+  (state.data.documents || []).forEach(d => { instById[d.doc_id] = d.institution; });
+  const labelFor = id => instById[id] || id;
+
+  // Search across canonical names, variants, type and referencing institutions.
+  const searchDiv = document.createElement("div");
+  searchDiv.className = "control";
+  const input = document.createElement("input");
+  input.type = "text";
+  input.placeholder = "Search referenced documents (e.g. DSGVO, AI Act, ethics)...";
+  input.value = state.refQuery;
+  input.addEventListener("input", (e) => {
+    state.refQuery = e.target.value;
+    scheduleRender();
+  });
+  searchDiv.appendChild(input);
+  container.appendChild(searchDiv);
+
+  const q = state.refQuery.trim().toLowerCase();
+  const hit = (text) => (text || "").toLowerCase().includes(q);
+  let shown = refs;
+  if (q.length >= 2) {
+    shown = refs.filter(r =>
+      hit(r.canonical_name) ||
+      (r.variants || []).some(hit) ||
+      hit(r.type) ||
+      (r.doc_ids || []).some(id => hit(labelFor(id))) ||
+      hit(r.example_mention)
+    );
+  }
+
+  const countDiv = document.createElement("div");
+  countDiv.className = "count-line";
+  const base = `${shown.length} referenced document${shown.length !== 1 ? "s" : ""}`;
+  countDiv.textContent = meta
+    ? `${base} · deduplicated from ${meta.source_document_count} guideline${meta.source_document_count !== 1 ? "s" : ""}`
+    : base;
+  container.appendChild(countDiv);
+
+  if (!refs.length) {
+    const none = document.createElement("div");
+    none.className = "no-results";
+    none.textContent = "No reference data available. Run scripts/aggregate_references.py and rebuild the explorer data.";
+    container.appendChild(none);
+    root.appendChild(container);
+    return;
+  }
+
+  if (!shown.length) {
+    const none = document.createElement("div");
+    none.className = "no-results";
+    none.textContent = "No referenced documents match.";
+    container.appendChild(none);
+    root.appendChild(container);
+    return;
+  }
+
+  const grid = document.createElement("div");
+  grid.className = "ref-grid";
+
+  shown.forEach(r => {
+    const card = document.createElement("div");
+    card.className = "ref-card";
+
+    const name = document.createElement("div");
+    name.className = "ref-name";
+    name.innerHTML = highlightText(r.canonical_name, state.refQuery);
+    card.appendChild(name);
+
+    const badges = document.createElement("div");
+    badges.className = "ref-badges";
+    if (r.type) {
+      const t = document.createElement("span");
+      t.className = "ref-type";
+      t.textContent = r.type.replace(/_/g, " ");
+      badges.appendChild(t);
+    }
+    const c = document.createElement("span");
+    c.className = "ref-count";
+    c.textContent = `${r.doc_count} document${r.doc_count !== 1 ? "s" : ""}`;
+    badges.appendChild(c);
+    card.appendChild(badges);
+
+    const others = (r.variants || []).filter(v => v.toLowerCase() !== r.canonical_name.toLowerCase());
+    if (others.length) {
+      const alt = document.createElement("div");
+      alt.className = "ref-line";
+      alt.innerHTML = `<span class="k">also referenced as:</span> ` +
+        others.map(v => `<span class="ref-variant">${highlightText(v, state.refQuery)}</span>`).join(", ");
+      card.appendChild(alt);
+    }
+
+    const by = document.createElement("div");
+    by.className = "ref-line";
+    const names = (r.doc_ids || []).map(id => highlightText(labelFor(id), state.refQuery));
+    by.innerHTML = `<span class="k">referenced by:</span> ${names.join(", ")}`;
+    card.appendChild(by);
+
+    if (r.example_mention) {
+      const m = document.createElement("div");
+      m.className = "ref-mention";
+      m.innerHTML = `“${highlightText(r.example_mention, state.refQuery)}”`;
+      card.appendChild(m);
     }
 
     grid.appendChild(card);
