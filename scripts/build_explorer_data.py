@@ -25,6 +25,16 @@ ROOT = Path(__file__).resolve().parent.parent
 GUIDELINES_FILE = ROOT / "guidelines.yaml"
 OUTPUTS_DIR = ROOT / "outputs"
 TOC_DIR = ROOT / "toc_markdown"
+REFERENCES_JSON = ROOT / "references" / "_all_references.json"
+
+
+def load_references() -> dict | None:
+    """Load the deduplicated master reference list produced by
+    aggregate_references.py, if present."""
+    if not REFERENCES_JSON.is_file():
+        return None
+    with open(REFERENCES_JSON, encoding="utf-8") as f:
+        return json.load(f)
 
 
 def find_coding_file(slug: str, version: str) -> Path | None:
@@ -160,12 +170,20 @@ def main() -> int:
             } if validation else None,
         })
 
+    references_payload = load_references()
+
     data = {
         "generated_at": __import__("datetime").datetime.now().isoformat(timespec="seconds"),
         "codebook": B_CODEBOOK,
         "document_count": len(docs),
         "segment_count": sum(len(d["segments"]) for d in docs),
         "documents": docs,
+        "references": (references_payload or {}).get("references", []),
+        "references_meta": {
+            "method": (references_payload or {}).get("method", ""),
+            "source_document_count": (references_payload or {}).get("source_document_count", 0),
+            "instrument_count": (references_payload or {}).get("instrument_count", 0),
+        } if references_payload else None,
     }
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
@@ -174,9 +192,13 @@ def main() -> int:
         encoding="utf-8",
     )
 
-    print(f"Wrote {len(docs)} documents ({sum(len(d['segments']) for d in docs)} segments) to {args.output}")
+    ref_count = len(data["references"])
+    print(f"Wrote {len(docs)} documents ({sum(len(d['segments']) for d in docs)} segments, "
+          f"{ref_count} deduplicated references) to {args.output}")
     if skipped:
         print(f"Skipped {skipped} guidelines (no coding output)")
+    if references_payload is None:
+        print("Note: references/_all_references.json not found; References tab will be empty.")
 
     return 0
 
