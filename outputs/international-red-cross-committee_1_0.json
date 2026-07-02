@@ -1,0 +1,2466 @@
+{
+  "doc_id": "international-red-cross-committee_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The rapid development of artificial intelligence (AI) is creating significant opportunities for human and societal progress, including in the humanitarian sector.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The International Committee of the Red Cross (ICRC) is committed to exploring if, how, when and where advances in AI can help us to achieve our mission to protect the lives and dignity of people living amid conflict or other situations of violence.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "However, technologies using AI carry significant and multilayered risks that are difficult to identify and mitigate.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The hype, dystopia, politics and competition around AI also make it difficult to apprehend AI in a neutral and objective manner.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "For all these reasons, we have developed an AI policy to guide our approach when exploring the potential use of AI in support of our work and activities.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The ICRC’s AI policy is anchored in a purely humanitarian approach driven by our mandate and Fundamental Principles.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "It is meant to help ICRC staff learn about AI and safely explore its humanitarian potential.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This policy is the result of a collaborative and multidisciplinary approach that leveraged the ICRC’s humanitarian and operational expertise, existing international AI standards, and the guidance and feedback of external experts.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Given the constantly evolving nature of AI, this document cannot possibly address all the questions and challenges that will arise in the future, but we hope that it provides a solid basis and framework to ensure we take a responsible and human-centred approach when using AI in support of our mission, in line with our 2024–2027 Institutional Strategy.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "By making this policy public, the ICRC wants to abide by our continuous commitment to be transparent and accountable for our actions.",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This policy provides guidance on the ICRC’s practice and decision-making in relation to the exploration, deployment, use and management of AI and technologies, solutions and tools related to machine-learning (ML) that support the ICRC’s work and activities.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "It sets out a value-based approach and provides a set of principles to guide our work in relation to AI.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "It serves as an organizational framework to promote and support a human-centred, responsible and ethical use of AI in humanitarian action.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The guidance provided in this policy is aspirational and meant to support the ICRC’s continuous efforts to use digital technologies responsibly and in line with our humanitarian mission, principles, values and working procedures.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Its implementation will require investments in specific operational and governance capabilities, within the limits of the ICRC’s operational and financial capacities.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "There is no globally agreed upon definition of AI. Many definitions exist in different contexts and for different purposes and the term continues to evolve in line with technological developments. For the ICRC and for the purpose of this policy, AI is defined as “any system, tool or technology that involves the use of computer systems to carry out tasks that would ordinarily require human cognition, planning or reasoning”.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "ML is defined as “systems that use large amounts of data to develop their functioning and ‘learn’ from experience”.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "For the purposes of this policy, the term “AI” refers to both AI and ML systems.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This policy applies to the use of AI by all staff members and for all activities, internal services and operational responses, including partnerships.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "It applies to all AI-related technologies, solutions and tools (i.e. generative AI, ML-enabled physical systems and robotics, digital tools featuring AI systems) and domains of application (i.e. data science, computer vision, natural language processing, predictive modelling and forecasting, information and data management, decision-making, programmatic responses, planning and optimization, internal and external communication).",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "**Limitations** – The guidance provided in this document is aspirational and general in nature and cannot address all possible strategic, technical or operational questions that the use of AI may trigger.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "More detailed policy and operational guidance for specific tools and use cases will be developed by departments as the need arises and ICRC practice evolves, in line with the approach and principles provided in this policy.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Given the fast pace of AI-related innovations, and the continuous emergence and evolutions of applicable regulatory frameworks and norms, this policy is necessarily a living instrument that will be regularly updated as needed, as assessed by the relevant organizational entities, to reflect developments in the AI landscape and the ICRC’s practice.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "**Sources** – The guidance provided in this policy builds on standards, principles and recommendations adopted by leading international organizations and academic and scientific experts on AI.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "It synthesizes international minimum standards and adapts them in line with the ICRC’s needs, objectives, mandate, culture of integrity, values, principles and working procedures.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This policy is informed by and builds on other internal reference texts related to the ICRC’s strategic ambitions with regard to working procedures and information and communication technologies.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "As the development and use of AI involve in most cases the use of personal data, the present policy complements, and is without prejudice to, the application of the ICRC’s Rules on Personal Data Protection (the Rules), which are binding on the organization.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Specific guidance on the application of the Rules in the context of AI is provided in the Handbook on Data Protection in Humanitarian Action, and complaints for non-compliance with the Rules can be brought to the ICRC Data Protection Commission, through the Data Protection Office.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "This policy does not address the ICRC's position on the use of AI by parties to armed conflict in the context of international humanitarian law.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "AI is not a new technology. The ICRC already uses AI tools and technologies to support its activities (e.g. to improve logistics or provide health care) and several internal documents and guidelines already inform its practice.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Yet, the speed and scale of AI-related innovations in the past few years, the emergence of new technological tools, their simplified accessibility, push-and-pull factors inside and outside the ICRC, and ongoing debates about the opportunities and risks they create – including for humanitarian action – have triggered a need to ensure that the organization is adequately equipped to explore and manage these developments in a timely, coherent and responsible manner.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "Internally, multiple AI-related workstreams and initiatives are ongoing and emerging across different departments, projects and métiers. Yet, the ICRC currently lacks a common policy framework to ensure that these various activities are organized and managed by a clear, consistent, formal and professional methodology.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "This policy is intended to help bridge this gap and inform the ICRC's efforts to leverage technological innovation efficiently through effective governance mechanisms and a responsible approach that focuses on generating relevant and sustainable humanitarian impact and upholding the organization's principles and values.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Externally, AI-related debates – on opportunities, risks and regulatory needs and options – have become politicized in the context of global strategic competition between states that disincentivizes controls and limits, market forces that incentivize risk-taking by private sector actors and vastly differing assessments of the relevance and impact AI will have for societies and people.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Positions are often influenced by a binary and overly simplistic paradigm that tends to pit AI enthusiasts against pessimists, and utopian against dystopian views, often fuelled by caricatural AI hype or fear-mongering.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "This includes debates on the alleged risk of “existential harm” for humanity, and the need to consider them in balance with the more predictable, quotidian harms that AI systems are already triggering or amplifying.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "This policy sets out a humanitarian, ethical and learning approach that promotes a responsible, safe, coherent and human-centred use of AI.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "This approach will strengthen the ICRC's governance and its credibility and ability to engage in AI-related debates with humanitarian implications and influence them in the interests of people affected by conflict and principled humanitarian action.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Humanity** – The ICRC's approach to AI is driven by purely humanitarian objectives and the Fundamental Principle of humanity.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "It places respect for humanitarian principles, human rights, safety, security, dignity, well-being and agency at the centre of our policies and practices.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Through this approach, we are committed to using and exploring the potential of AI solutions to support the quality and efficiency of our work, within the limits of our humanitarian mandate, operational and financial capacities, and internal rules.",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The ICRC focuses on AI solutions that can help alleviate the suffering of people affected by armed conflict and other situations of violence and can improve the efficiency and effectiveness of the operational and organizational systems and processes that support the protection and assistance we provide.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "In line with the “do no harm” principle, the ICRC systematically assesses the potential negative short- and long-term secondary impacts that the use of AI solutions may have on the safety, dignity, agency and respect for the fundamental rights of affected people and takes all possible measures to avoid and mitigate them.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "The ICRC pays specific attention to ensure that the use and development of AI solutions do not jeopardize our ability to demonstrate humanity and empathy through direct and in-person human engagement in the delivery of our external and internal activities and programmes.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "We focus on AI solutions that can enhance human autonomy and agency and complement face-to-face human interactions, as well as our physical presence and proximity with affected people.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "In light of the above, the ICRC will refrain from using, deploying or providing AI systems that: deploy subliminal, manipulative, or deceptive techniques to distort behaviour and impair informed decision-making; exploit vulnerabilities related to age, disability, or socio-economic circumstances to distort behaviour; use biometric categorization systems that infer sensitive personal attributes, except for labelling or filtering lawfully acquired biometric datasets; rely on or infer social scoring, (i.e. evaluating or classifying individuals or groups based on social behaviour or personal traits); assess the risk of an individual committing a criminal offence based solely on profiling or personality traits, except when used to augment human assessments; compile facial recognition databases by untargeted scraping of facial images from the internet or CCTV footage; or infer emotions, except for medical or safety reasons.",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Impartiality** – We use AI solutions that strengthen our ability to identify, analyse, prioritize and respond to affected people’s needs based on their scale and level of urgency, without making any adverse distinctions on the basis of race, nationality, gender, religion, class, political opinion or other potential sources of discrimination.",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "At all times, the ICRC pays specific attention to affected populations and users that have specific needs and vulnerabilities, and to the specific requirements of the contexts in which AI solutions are considered and used.",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The ICRC acknowledges the significant risks of AI systems that could generate false or inaccurate data and replicate or amplify systemic and societal discriminations, biases and stereotypes – in particular around gender and race.",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "We make proactive and sustained efforts to understand, avoid and mitigate these risks through our choice and use of AI solutions, and by avoiding their use where these biases cannot be effectively avoided or mitigated.",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The ICRC makes all possible efforts to ensure that the AI solutions and tools we use are inclusive by design and in their impact, and that they enable fair, non-discriminatory, equal and equitable delivery of assistance and services to all affected people and users, taking into account the varying degrees of need and capacity.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Neutrality and independence** – AI, like other technologies, is not in and of itself good, bad or neutral.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "It can represent or promote the personal or political values of the individuals and/or companies who create, design or promote them.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "AI is an object of increasing politicization and competition between states at the global level, as well as private-sector and non-state actors.",
+      "repaired": false
+    },
+    {
+      "id": 55,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "Additionally, many AI solutions are provided by tech companies that are increasingly active in the political domain or taking sides in ongoing armed conflicts.",
+      "repaired": false
+    },
+    {
+      "id": 56,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Therefore, as an organization we pay specific attention and take all feasible measures to ensure that our choices of AI tools and providers cannot be instrumentalized to challenge our neutrality and independence.",
+      "repaired": false
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC uses our ethical frameworks (Framework on Engaging with the Private Sector to Mobilize Support, Ethical principles guiding the ICRC’s partnerships with the private sector) and procurement processes (Supplier Code of Conduct) to ensure as much as possible that we do not use AI providers that (i) are directly engaged in activities contributing to armed conflict or closely associated with military activities of parties to conflict, or (ii) promote particular political interests or values that are contradictory to the ICRC’s humanitarian mandate and ethical values.",
+      "repaired": false
+    },
+    {
+      "id": 58,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "When relevant, we strive to explore available, safe and adequate free and/or open-source AI solutions to mitigate risks of increased dependency on politicized or proprietary tools and systems that could (i) jeopardize the perception of our neutrality and independence from entities involved in political or conflict-related controversies; (ii) endanger our operational independence and autonomy; or (iii) restrict our ability to opt for alternatives without incurring disproportionate costs.",
+      "repaired": false
+    },
+    {
+      "id": 59,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Fostering ethical and impactful innovation** – The ICRC is committed to creating an organizational environment that facilitates and supports the safe and responsible exploration and use of impactful, sustainable and innovative AI initiatives and practices.",
+      "repaired": false
+    },
+    {
+      "id": 60,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC systematically adopts a context-based and ecosystem approach, relying on the analysis of the interconnectedness of AI-supporting environments, data and systems, and human and social factors.",
+      "repaired": false
+    },
+    {
+      "id": 61,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "We leverage a responsible use of data; strong governance, classification, regulation and control mechanisms; and continuous evaluation and adjustments through a coordinated, collaborative, multidisciplinary and multistakeholder approach.",
+      "repaired": false
+    },
+    {
+      "id": 62,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "The ICRC maintains a long-term perspective to ensure AI research and development investments are financially responsible and sustainable, focusing on relevance, impact and effectiveness, and also considers added-value, interoperability, scalability and cost-efficiency (including maintenance, training, verification and compliance-related costs).",
+      "repaired": false
+    },
+    {
+      "id": 63,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC pays specific attention to the alignment between the impact of considered AI solutions and the organization's short-and long-term objectives, operational and institutional constraints and requirements, and related programmatic and organizational risks at the security and reputational levels.",
+      "repaired": false
+    },
+    {
+      "id": 64,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "**Competence and capacity building** – The technical complexity and potential risks attached to AI systems and their functioning requires a significant level of knowledge and expertise to select, operate and manage them effectively and responsibly.",
+      "repaired": false
+    },
+    {
+      "id": 65,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "The ICRC is committed to ensuring that staff members across the different levels of the organization are properly informed, equipped and supported to explore, develop and use AI responsibly and in line with our humanitarian mandate, Fundamental Principles, Code of Conduct and culture of integrity.",
+      "repaired": false
+    },
+    {
+      "id": 66,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "At the institutional level, the ICRC incentivizes and enables adequate levels of AI and digital literacy, and training and upskilling for staff members at all levels.",
+      "repaired": false
+    },
+    {
+      "id": 67,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "We leverage peer-review, support and collaboration with trusted and qualified external experts and partners to inform and sustain a continuously learning approach to the use of AI in humanitarian action.",
+      "repaired": false
+    },
+    {
+      "id": 68,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "The ICRC invests in adapted learning and development programmes to support our staff members' understanding of what AI systems are, how they function and what opportunities and risks they bring in relation to staff members' professional activities.",
+      "repaired": false
+    },
+    {
+      "id": 69,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "This includes awareness and understanding of the ethical considerations and different internal rules and regulations that apply to AI internal and external tools and technologies.",
+      "repaired": false
+    },
+    {
+      "id": 70,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When necessary, the ICRC restricts access to AI tools to specifically trained and authorized personnel.",
+      "repaired": false
+    },
+    {
+      "id": 71,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "The ICRC considers AI as a potential tool to help better respond to humanitarian and organizational needs, based on a problem identification and analysis that systematically considers the specific level of risk, effectiveness of expected results and alternative solutions in context.",
+      "repaired": false
+    },
+    {
+      "id": 72,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Potential AI solutions are only considered and used when necessary and adequate to achieve a positive impact and respond to clear, pre-defined objectives.",
+      "repaired": false
+    },
+    {
+      "id": 73,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Considerations of novelty and competitiveness are not in themselves justification for the use of AI solutions.",
+      "repaired": false
+    },
+    {
+      "id": 74,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC's choice and use of AI systems is guided by a precautionary, pragmatic and science-based approach that carefully considers the multidimensional risks that they could create for affected populations, users and the organization, including from a legal perspective.",
+      "repaired": false
+    },
+    {
+      "id": 75,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Potential AI solutions are reviewed and assessed using a differential approach that distinguishes their type, purpose, scope, place of deployment and impact and associated risk level (high, medium or low).",
+      "repaired": false
+    },
+    {
+      "id": 76,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Specific additional risk analysis and mitigating measures are put in place when the AI solutions under consideration present higher levels of risks and/or have a potential impact on the safety, dignity and rights of affected populations and users; when they involve the use of personal, confidential, strictly confidential or sensitive internal data; or when they involve legal or reputational risks for the organization.",
+      "repaired": false
+    },
+    {
+      "id": 77,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When the potential benefits of AI outweigh identified risks, solutions under consideration are thoroughly tested before being rolled out.",
+      "repaired": false
+    },
+    {
+      "id": 78,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The necessary evidence is gathered through scientific experimentation and “sandbox” testing to ensure, as far as possible, the effectiveness and safety of the solutions in context.",
+      "repaired": false
+    },
+    {
+      "id": 79,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Systematic review and auditing systems supported by regular internal and external feedback mechanisms are put in place to ensure a continuous and multidimensional risks analysis based on their likelihood and the severity of their potential impact for affected populations, users or the organization, including from a legal perspective.",
+      "repaired": false
+    },
+    {
+      "id": 80,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "When adequate and effective mitigating measures to identified risks are not available or sufficient, the ICRC rejects or terminates the use of relevant AI systems and solutions.",
+      "repaired": false
+    },
+    {
+      "id": 81,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Considering the multiple and significant risks that AI solutions present for the confidentiality and protection of the data that the ICRC collects, processes and manages for the purposes of our activities – and the potential negative or harmful consequences arising from them – the ICRC explores and uses AI solutions through a human-centred approach anchored in the highest possible levels of safety, security and privacy in their design and ensuring sufficient human oversight and verification of AI outputs throughout their lifecycle.",
+      "repaired": false
+    },
+    {
+      "id": 82,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Risks of misuse, abuse, infiltration and attacks against AI systems and potential related harms and damage are systematically considered, and the highest possible standards of data protection and cybersecurity measures are put in place to prevent and mitigate them, in line with assessed risk levels.",
+      "repaired": false
+    },
+    {
+      "id": 83,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Additional systematic data quality control and meaningful and effective human oversight mechanisms are put in place to control and review relevant training models, algorithmic systems, inputs and outputs throughout the lifecycle of AI solutions used to support operational activities and decision-making processes that have an impact and present a risk of harm for affected people and users.",
+      "repaired": false
+    },
+    {
+      "id": 84,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC ensures that the use of internal and external AI solutions are aligned with the rules and the principles of lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, security and accountability.",
+      "repaired": false
+    },
+    {
+      "id": 85,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "At all times, the ICRC ensures that confidential or sensitive internal ICRC information or personal data are handled with the utmost care and are not used in or transferred to non-approved, external online AI systems, in line with the duty of discretion stated in the ICRC’s Code of Conduct.",
+      "repaired": false
+    },
+    {
+      "id": 86,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Mechanisms are put in place to ensure that the data required for AI systems is collected, used, shared, archived and deleted in ways that are consistent with the right to privacy of affected people and users.",
+      "repaired": false
+    },
+    {
+      "id": 87,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Systematic data protection impact assessments are carried out prior to the acquisition, deployment or use of considered AI solutions, and when relevant and feasible, solutions are put in place to restrict processing and enable rectification and/or erasure of the data used.",
+      "repaired": false
+    },
+    {
+      "id": 88,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Transparency and “explainability” are essential elements of a safe, ethical and responsible approach to AI, and to ensure respect for the ICRC’s principles, rules and values.",
+      "repaired": false
+    },
+    {
+      "id": 89,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "The ICRC therefore ensures at all times the highest possible levels of transparency in our use and management of AI solutions, in accordance with the context, risks and impact of the systems and tools considered, and with due consideration to the principles of safety, security and privacy.",
+      "repaired": false
+    },
+    {
+      "id": 90,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "As much as feasible and in accordance with the applicable risk level, context and use case, meaningful traceability, disclosure and notification measures are put in place in relation to the use of AI systems that support the ICRC’s activities and decision-making processes, including, as appropriate, releasing AI systems as open-source.",
+      "repaired": false
+    },
+    {
+      "id": 91,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Relevant and intelligible information about the use of AI systems is systematically provided to affected people and users when these systems could have an impact on them or their rights, or when decisions with significant consequences for the organization are concerned.",
+      "repaired": false
+    },
+    {
+      "id": 92,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "This includes adequate and meaningful information about why, when and how AI solutions are used, and explanations on the causal link between AI inputs and outputs and the functioning of algorithmic processes.",
+      "repaired": false
+    },
+    {
+      "id": 93,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "The ICRC ensures the highest possible levels of responsibility and accountability in the use and management of AI solutions through continuous monitoring, assessment and reporting on the procurement, use, management and review of AI solutions – including through publicly accessible reporting, when relevant.",
+      "repaired": false
+    },
+    {
+      "id": 94,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When relevant and feasible, systematic impact, verifiability and replicability assessments are put in place and supported by effective evaluation and auditing processes to ensure the ICRC’s AI systems and tools comply with this policy.",
+      "repaired": false
+    },
+    {
+      "id": 95,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "When relevant and feasible, meaningful and accessible engagement mechanisms are put in place to consult affected people and users on the design, use and impact of considered AI solutions.",
+      "repaired": false
+    },
+    {
+      "id": 96,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "Provided that it does not prevent affected people from benefiting from equivalent opportunities, the possibility of opting out of AI systems and having access to alternative solutions and complaint and remedy mechanisms are made available to them.",
+      "repaired": false
+    },
+    {
+      "id": 97,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Responsibility and accountability for decision-making supported by AI always lies with the ICRC and/or the staff using the tools or system concerned, in line with the ICRC’s Code of Conduct and other applicable internal rules.",
+      "repaired": false
+    },
+    {
+      "id": 98,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "The ICRC puts in place effective governance mechanisms to ensure that our use of AI solutions is aligned with our broader organizational obligations and commitments and complies with applicable rules and regulations.",
+      "repaired": false
+    },
+    {
+      "id": 99,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Competent and qualified staff and organizational entities are appointed and equipped to ensure good governance and effective enforcement and compliance with this policy and other related internal rules and regulations applicable to AI systems.",
+      "repaired": false
+    },
+    {
+      "id": 100,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "Decisions on the use or provision to others of AI systems, tools or technologies should be informed by legal considerations, and legal advice should be obtained during any AI-related decision-making process.",
+      "repaired": false
+    },
+    {
+      "id": 101,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "Awareness-raising, training and compliance efforts are made to ensure that (i) the ICRC’s use of AI solutions does not breach applicable international, regional and national legal restrictions, and that (ii) ICRC staff and users do not input any critical humanitarian information, other confidential and/or strictly confidential information, or any proprietary information protected by intellectual property rights when using external or commercial online AI services.",
+      "repaired": false
+    },
+    {
+      "id": 102,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "All possible efforts are made to integrate and mitigate the environmental impact and carbon footprint of considered AI solutions through a life-cycle approach.",
+      "repaired": false
+    },
+    {
+      "id": 103,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "This includes favouring solutions and tools that have a lighter footprint, in line with the ICRC’s Plan of Action under the Climate and Environment Charter for Humanitarian Organizations and the ICRC’s Framework for Sustainable Development.",
+      "repaired": false
+    },
+    {
+      "id": 104,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "1. Where a tool or platform that the ICRC is already using adds AI functionality after adoption, this additional functionality may be merely cosmetic – for example, a support chatbot or design recommendations. At times, the addition of AI may be so fundamental that it alters the nature of the tool or platform – for example, search recommendations being determined by AI rather than by text matching. In these cases, use of the platform may need to be reassessed under this policy.",
+      "repaired": false
+    },
+    {
+      "id": 105,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "purpose",
+      "repaired": true
+    },
+    {
+      "id": 106,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "a humanitarian and principled approach",
+      "repaired": true
+    },
+    {
+      "id": 107,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "an enabling and learning approach",
+      "repaired": true
+    },
+    {
+      "id": 108,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "proportionality, precaution, and \"do no harm\"",
+      "repaired": true
+    },
+    {
+      "id": 109,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "transparency and \"explainability\"",
+      "repaired": true
+    },
+    {
+      "id": 110,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "responsibility and accountability",
+      "repaired": true
+    },
+    {
+      "id": 111,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "selected sources below are some of the many sources on ai ethics that the icrc has drawn on to draft this policy.",
+      "repaired": true
+    },
+    {
+      "id": 112,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*recommendations on the ethics of artificial intelligence*, unesco, available at: https://unesdoc.unesco.org/ark:/48223/pf0000381137",
+      "repaired": true
+    },
+    {
+      "id": 113,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"principles for digital development\", available at: https://digitalprinciples.org/principles/",
+      "repaired": true
+    },
+    {
+      "id": 114,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*understanding artificial intelligence ethics and safety: a guide for the responsible design and implementation of ai systems in the public sector*, the alan turing institute, available at: https://www.turing.ac.uk/news/publications/understandingartificialintelligenceethicsandsafety",
+      "repaired": true
+    },
+    {
+      "id": 115,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*a framework for the ethical use of advanced data science methods in the humanitarian sector*, data science and ethics group, available at: https://www.humdseg.org/sites/g/files/tmzbd11476/files/2020-10/framework%20for%20the%20ethical%20use.pdf",
+      "repaired": true
+    },
+    {
+      "id": 116,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"ethics guidelines for trustworthy ai\", european union commission, available at: https://digitalstrategy.ec.europa.eu/en/library/ethicsguidelinestrustworthyai",
+      "repaired": true
+    },
+    {
+      "id": 117,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "european union artificial intelligence act, available at: https://artificialintelligenceact.eu/theact/",
+      "repaired": true
+    },
+    {
+      "id": 118,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "white paper on trustworthy artificial intelligence, chinese academy of information and communication technology, available at: https://cset.georgetown.edu/publication/whitepaperontrustworthyartificialintelligence/",
+      "repaired": true
+    },
+    {
+      "id": 119,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"declaración de ética ia-latam para el diseño, desarrollo y uso de la inteligencia artificial\", ia-latam, available at: https://aichallenge.utec.edu.uy/community/forobaibiasesinaiconsultasgenerales/declaraciondeeticaialatamparaeldisenodesarrolloy-usodelainteligenciaartificial/",
+      "repaired": true
+    },
+    {
+      "id": 120,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*continental artificial intelligence strategy: harnessing ai for africa's development and prosperity*, african union, available at: https://au.int/sites/default/files/documents/44004-doc-en-continental_ai_strategy_july_2024.pdf",
+      "repaired": true
+    },
+    {
+      "id": 121,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*asean guide on ai governance and ethics*, asean, available at: https://asean.org/wpcontent/uploads/2024/02/asean-guideon-ai-governanceand-ethics_beautified_201223_v.pdf",
+      "repaired": true
+    },
+    {
+      "id": 122,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*digital ethics: a guide for professionals of the digital age*, cigref, available at: https://www.cigref.fr/wp/wpcontent/uploads/2019/02/cigref-syntec-digital-ethics-guidefor-professionalsof-digital-age-2018-october-en.pdf",
+      "repaired": true
+    },
+    {
+      "id": 123,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*artificial intelligence and data protection*, council of europe, available at: https://rm.coe.int/2018-lignesdirectricessurl-intelligenceartificielleetlaprotecti/168098e1b",
+      "repaired": true
+    },
+    {
+      "id": 124,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "*governing artificial intelligence: upholding human rights and dignity*, data and society, available at: https://datasociety.net/wpcontent/uploads/2018/10/datasociety_governing_artificial_intelligence_upholding_human_rights.pdf",
+      "repaired": true
+    },
+    {
+      "id": 125,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"the toronto declaration: protecting the right to equality and nondiscrimination in machine learning systems\", amnesty international and access now, available at: https://www.torontodeclaration.org/declarationtext/english/",
+      "repaired": true
+    },
+    {
+      "id": 126,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"how to design ai for social good: seven essential factors\", science and engineering ethics, available at: https://link.springer.com/article/10.1007/s11948-020-00213-5",
+      "repaired": true
+    },
+    {
+      "id": 127,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "\"humanitarian ai revisited: seizing the potential and sidestepping the pitfalls\", hpn-odi, available at: humanitarian ai revisited: seizing the potential and sidestepping the pitfalls | humanitarian practice network (odihpn.org)",
+      "repaired": true
+    },
+    {
+      "id": 128,
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "text": "we help people around the world affected by armed conflict and other violence, doing everything we can to protect their lives and dignity and to relieve their suffering, often with our red cross and red crescent partners. we also seek to prevent hardship by promoting and strengthening humanitarian law and championing universal humanitarian principles.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 128,
+    "matched": 122,
+    "unmatched_count": 6,
+    "unmatched": [
+      {
+        "id": 119,
+        "B": "B13",
+        "matched_words": "3/18",
+        "text": "\"declaración de ética ia-latam para el diseño, desarrollo y uso de la inteligencia artificial\", ia-latam, available at: https://aichallenge.utec.edu.uy/community/forobaibiasesinaiconsultasgenerales/declaraciondeeticaialatamparaeldisenodesarrolloy-usodelainteligenciaartificial/"
+      },
+      {
+        "id": 120,
+        "B": "B13",
+        "matched_words": "15/16",
+        "text": "*continental artificial intelligence strategy: harnessing ai for africa's development and prosperity*, african union, available at: https://au.int/sites/default/files/documents/44004-doc-en-continental_ai_strategy_july_2024.pdf"
+      },
+      {
+        "id": 121,
+        "B": "B13",
+        "matched_words": "10/11",
+        "text": "*asean guide on ai governance and ethics*, asean, available at: https://asean.org/wpcontent/uploads/2024/02/asean-guideon-ai-governanceand-ethics_beautified_201223_v.pdf"
+      },
+      {
+        "id": 122,
+        "B": "B13",
+        "matched_words": "13/14",
+        "text": "*digital ethics: a guide for professionals of the digital age*, cigref, available at: https://www.cigref.fr/wp/wpcontent/uploads/2019/02/cigref-syntec-digital-ethics-guidefor-professionalsof-digital-age-2018-october-en.pdf"
+      },
+      {
+        "id": 123,
+        "B": "B13",
+        "matched_words": "10/11",
+        "text": "*artificial intelligence and data protection*, council of europe, available at: https://rm.coe.int/2018-lignesdirectricessurl-intelligenceartificielleetlaprotecti/168098e1b"
+      },
+      {
+        "id": 127,
+        "B": "B13",
+        "matched_words": "10/28",
+        "text": "\"humanitarian ai revisited: seizing the potential and sidestepping the pitfalls\", hpn-odi, available at: humanitarian ai revisited: seizing the potential and sidestepping the pitfalls | humanitarian practice network (odihpn.org)"
+      }
+    ],
+    "source_coverage": 0.933,
+    "uncovered_chars": 1838,
+    "uncovered_gaps": 14,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 293,
+        "length": 293,
+        "text": "# international red cross committee # source: https://shop.icrc.org/buildinga-responsiblehumanitarianapproachtheicrcs-policyonartificialintelligencepdfen.html # date: 2024-11-01 # category: guideline # building a responsible humanitarian approach: the icrc's policy on artificial intelligence"
+      },
+      {
+        "char_start": 2030,
+        "char_end": 2071,
+        "length": 41,
+        "text": ". # artificial intelligence policy ## 1."
+      },
+      {
+        "char_start": 2972,
+        "char_end": 2991,
+        "length": 19,
+        "text": ". ## 2. definition"
+      },
+      {
+        "char_start": 3613,
+        "char_end": 3627,
+        "length": 14,
+        "text": ". ## 3. scope"
+      },
+      {
+        "char_start": 6238,
+        "char_end": 6256,
+        "length": 18,
+        "text": ". ## 4. rationale"
+      },
+      {
+        "char_start": 8800,
+        "char_end": 8838,
+        "length": 38,
+        "text": ". ## 5. value-based approach ### 5.1."
+      },
+      {
+        "char_start": 14585,
+        "char_end": 14596,
+        "length": 11,
+        "text": ". ### 5.2."
+      },
+      {
+        "char_start": 17418,
+        "char_end": 17454,
+        "length": 36,
+        "text": ". ## 6. guiding principles ### 6.1."
+      },
+      {
+        "char_start": 19779,
+        "char_end": 19810,
+        "length": 31,
+        "text": ". ### 6.2. safety and security"
+      },
+      {
+        "char_start": 22062,
+        "char_end": 22073,
+        "length": 11,
+        "text": ". ### 6.3."
+      },
+      {
+        "char_start": 23387,
+        "char_end": 23398,
+        "length": 11,
+        "text": ". ### 6.4."
+      },
+      {
+        "char_start": 27523,
+        "char_end": 28596,
+        "length": 1073,
+        "text": "\"declaración de ética ia-latam para el diseño, desarrollo y uso de la inteligencia artificial\", ia-latam, available at: https://aichallenge.utec.edu.uy/community/forobaibiasesinaiconsultasgenerales/declaraciondeeticaialatamparaeldisenodesarrolloy-usodelainteligenciaartificial/ *continental artificial intelligence strategy: harnessing ai for africa's development and prosperity*, african union, available at: https://au.int/sites/default/files/documents/44004-doc-en-continental_ai_strategy_july_2024.pdf *asean guide on ai governance and ethics*, asean, available at: https://asean.org/wpcontent/uploads/2024/02/asean-guideon-ai-governanceand-ethics_beautified_201223_v.pdf *digital ethics: a guide for professionals of the digital age*, cigref, available at: https://www.cigref.fr/wp/wpcontent/uploads/2019/02/cigref-syntec-digital-ethics-guidefor-professionalsof-digital-age-2018-october-en.pdf *artificial intelligence and data protection*, council of europe, available at: https://rm.coe.int/2018-lignesdirectricessurl-intelligenceartificielleetlaprotecti/168098e1b"
+      },
+      {
+        "char_start": 29214,
+        "char_end": 29444,
+        "length": 230,
+        "text": "\"humanitarian ai revisited: seizing the potential and sidestepping the pitfalls\", hpn-odi, available at: humanitarian ai revisited: seizing the potential and sidestepping the pitfalls | humanitarian practice network (odihpn.org)"
+      },
+      {
+        "char_start": 29796,
+        "char_end": 29808,
+        "length": 12,
+        "text": ". footnotes"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 306,
+      "text": "# International Red Cross Committee\n# Source: https://shop.icrc.org/building-a-responsible-humanitarian-approach-the-icrc-s-policy-on-artificial-intelligence-pdf-en.html\n# Date: 2024-11-01\n# Category: guideline\n\n# BUILDING A RESPONSIBLE HUMANITARIAN APPROACH: THE ICRC’S POLICY ON ARTIFICIAL INTELLIGENCE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 306,
+      "char_end": 468,
+      "text": "The rapid development of artificial intelligence (AI) is creating significant opportunities for human and societal progress, including in the humanitarian sector.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 470,
+      "char_end": 718,
+      "text": "The International Committee of the Red Cross (ICRC) is committed to exploring if, how, when and where advances in AI can help us to achieve our mission to protect the lives and dignity of people living amid conflict or other situations of violence.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 720,
+      "char_end": 836,
+      "text": "However, technologies using AI carry significant and multilayered risks that are difficult to identify and mitigate.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 838,
+      "char_end": 966,
+      "text": "The hype, dystopia, politics and competition around AI also make it difficult to apprehend AI in a neutral and objective manner.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 967,
+      "char_end": 1120,
+      "text": "For all these reasons, we have developed an AI policy to guide our approach when exploring the potential use of AI in support of our work and activities.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1122,
+      "char_end": 1238,
+      "text": "The ICRC’s AI policy is anchored in a purely humanitarian approach driven by our mandate and Fundamental Principles.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1239,
+      "char_end": 1331,
+      "text": "It is meant to help ICRC staff learn about AI and safely explore its humanitarian potential.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1333,
+      "char_end": 1562,
+      "text": "This policy is the result of a collaborative and multidisciplinary approach that leveraged the ICRC’s humanitarian and operational expertise, existing international AI standards, and the guidance and feedback of external experts.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1564,
+      "char_end": 1917,
+      "text": "Given the constantly evolving nature of AI, this document cannot possibly address all the questions and challenges that will arise in the future, but we hope that it provides a solid basis and framework to ensure we take a responsible and human-centred approach when using AI in support of our mission, in line with our 2024–2027 Institutional Strategy.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1919,
+      "char_end": 2052,
+      "text": "By making this policy public, the ICRC wants to abide by our continuous commitment to be transparent and accountable for our actions.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2052,
+      "char_end": 2094,
+      "text": "\n\n# ARTIFICIAL INTELLIGENCE POLICY\n\n## 1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2094,
+      "char_end": 2101,
+      "text": "PURPOSE",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 105,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2103,
+      "char_end": 2360,
+      "text": "This policy provides guidance on the ICRC’s practice and decision-making in relation to the exploration, deployment, use and management of AI and technologies, solutions and tools related to machine-learning (ML) that support the ICRC’s work and activities.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2361,
+      "char_end": 2465,
+      "text": "It sets out a value-based approach and provides a set of principles to guide our work in relation to AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2466,
+      "char_end": 2604,
+      "text": "It serves as an organizational framework to promote and support a human-centred, responsible and ethical use of AI in humanitarian action.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2605,
+      "char_end": 2834,
+      "text": "The guidance provided in this policy is aspirational and meant to support the ICRC’s continuous efforts to use digital technologies responsibly and in line with our humanitarian mission, principles, values and working procedures.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2835,
+      "char_end": 3001,
+      "text": "Its implementation will require investments in specific operational and governance capabilities, within the limits of the ICRC’s operational and financial capacities.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3001,
+      "char_end": 3021,
+      "text": "\n\n## 2. DEFINITION\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3021,
+      "char_end": 3447,
+      "text": "There is no globally agreed upon definition of AI. Many definitions exist in different contexts and for different purposes and the term continues to evolve in line with technological developments. For the ICRC and for the purpose of this policy, AI is defined as “any system, tool or technology that involves the use of computer systems to carry out tasks that would ordinarily require human cognition, planning or reasoning”.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3448,
+      "char_end": 3563,
+      "text": "ML is defined as “systems that use large amounts of data to develop their functioning and ‘learn’ from experience”.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3564,
+      "char_end": 3644,
+      "text": "For the purposes of this policy, the term “AI” refers to both AI and ML systems.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3644,
+      "char_end": 3659,
+      "text": "\n\n## 3. SCOPE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3659,
+      "char_end": 3809,
+      "text": "This policy applies to the use of AI by all staff members and for all activities, internal services and operational responses, including partnerships.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3810,
+      "char_end": 4241,
+      "text": "It applies to all AI-related technologies, solutions and tools (i.e. generative AI, ML-enabled physical systems and robotics, digital tools featuring AI systems) and domains of application (i.e. data science, computer vision, natural language processing, predictive modelling and forecasting, information and data management, decision-making, programmatic responses, planning and optimization, internal and external communication).",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4243,
+      "char_end": 4447,
+      "text": "**Limitations** – The guidance provided in this document is aspirational and general in nature and cannot address all possible strategic, technical or operational questions that the use of AI may trigger.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4448,
+      "char_end": 4671,
+      "text": "More detailed policy and operational guidance for specific tools and use cases will be developed by departments as the need arises and ICRC practice evolves, in line with the approach and principles provided in this policy.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4672,
+      "char_end": 5020,
+      "text": "Given the fast pace of AI-related innovations, and the continuous emergence and evolutions of applicable regulatory frameworks and norms, this policy is necessarily a living instrument that will be regularly updated as needed, as assessed by the relevant organizational entities, to reflect developments in the AI landscape and the ICRC’s practice.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5022,
+      "char_end": 5214,
+      "text": "**Sources** – The guidance provided in this policy builds on standards, principles and recommendations adopted by leading international organizations and academic and scientific experts on AI.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 24,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5215,
+      "char_end": 5394,
+      "text": "It synthesizes international minimum standards and adapts them in line with the ICRC’s needs, objectives, mandate, culture of integrity, values, principles and working procedures.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5395,
+      "char_end": 5590,
+      "text": "This policy is informed by and builds on other internal reference texts related to the ICRC’s strategic ambitions with regard to working procedures and information and communication technologies.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5592,
+      "char_end": 5849,
+      "text": "As the development and use of AI involve in most cases the use of personal data, the present policy complements, and is without prejudice to, the application of the ICRC’s Rules on Personal Data Protection (the Rules), which are binding on the organization.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5850,
+      "char_end": 6131,
+      "text": "Specific guidance on the application of the Rules in the context of AI is provided in the Handbook on Data Protection in Humanitarian Action, and complaints for non-compliance with the Rules can be brought to the ICRC Data Protection Commission, through the Data Protection Office.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6133,
+      "char_end": 6277,
+      "text": "This policy does not address the ICRC's position on the use of AI by parties to armed conflict in the context of international humanitarian law.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6277,
+      "char_end": 6296,
+      "text": "\n\n## 4. RATIONALE\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6296,
+      "char_end": 6523,
+      "text": "AI is not a new technology. The ICRC already uses AI tools and technologies to support its activities (e.g. to improve logistics or provide health care) and several internal documents and guidelines already inform its practice.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6524,
+      "char_end": 6990,
+      "text": "Yet, the speed and scale of AI-related innovations in the past few years, the emergence of new technological tools, their simplified accessibility, push-and-pull factors inside and outside the ICRC, and ongoing debates about the opportunities and risks they create – including for humanitarian action – have triggered a need to ensure that the organization is adequately equipped to explore and manage these developments in a timely, coherent and responsible manner.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6992,
+      "char_end": 7311,
+      "text": "Internally, multiple AI-related workstreams and initiatives are ongoing and emerging across different departments, projects and métiers. Yet, the ICRC currently lacks a common policy framework to ensure that these various activities are organized and managed by a clear, consistent, formal and professional methodology.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7312,
+      "char_end": 7633,
+      "text": "This policy is intended to help bridge this gap and inform the ICRC's efforts to leverage technological innovation efficiently through effective governance mechanisms and a responsible approach that focuses on generating relevant and sustainable humanitarian impact and upholding the organization's principles and values.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7635,
+      "char_end": 8022,
+      "text": "Externally, AI-related debates – on opportunities, risks and regulatory needs and options – have become politicized in the context of global strategic competition between states that disincentivizes controls and limits, market forces that incentivize risk-taking by private sector actors and vastly differing assessments of the relevance and impact AI will have for societies and people.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8023,
+      "char_end": 8242,
+      "text": "Positions are often influenced by a binary and overly simplistic paradigm that tends to pit AI enthusiasts against pessimists, and utopian against dystopian views, often fuelled by caricatural AI hype or fear-mongering.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8243,
+      "char_end": 8458,
+      "text": "This includes debates on the alleged risk of “existential harm” for humanity, and the need to consider them in balance with the more predictable, quotidian harms that AI systems are already triggering or amplifying.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8460,
+      "char_end": 8599,
+      "text": "This policy sets out a humanitarian, ethical and learning approach that promotes a responsible, safe, coherent and human-centred use of AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8600,
+      "char_end": 8849,
+      "text": "This approach will strengthen the ICRC's governance and its credibility and ability to engage in AI-related debates with humanitarian implications and influence them in the interests of people affected by conflict and principled humanitarian action.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8849,
+      "char_end": 8888,
+      "text": "\n\n## 5. VALUE-BASED APPROACH\n\n### 5.1. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8888,
+      "char_end": 8926,
+      "text": "A humanitarian and principled approach",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 106,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8928,
+      "char_end": 9055,
+      "text": "**Humanity** – The ICRC's approach to AI is driven by purely humanitarian objectives and the Fundamental Principle of humanity.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9056,
+      "char_end": 9210,
+      "text": "It places respect for humanitarian principles, human rights, safety, security, dignity, well-being and agency at the centre of our policies and practices.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9211,
+      "char_end": 9459,
+      "text": "Through this approach, we are committed to using and exploring the potential of AI solutions to support the quality and efficiency of our work, within the limits of our humanitarian mandate, operational and financial capacities, and internal rules.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9459,
+      "char_end": 9463,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9463,
+      "char_end": 9767,
+      "text": "The ICRC focuses on AI solutions that can help alleviate the suffering of people affected by armed conflict and other situations of violence and can improve the efficiency and effectiveness of the operational and organizational systems and processes that support the protection and assistance we provide.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9767,
+      "char_end": 9770,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 9770,
+      "char_end": 10092,
+      "text": "In line with the “do no harm” principle, the ICRC systematically assesses the potential negative short- and long-term secondary impacts that the use of AI solutions may have on the safety, dignity, agency and respect for the fundamental rights of affected people and takes all possible measures to avoid and mitigate them.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10092,
+      "char_end": 10095,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10095,
+      "char_end": 10366,
+      "text": "The ICRC pays specific attention to ensure that the use and development of AI solutions do not jeopardize our ability to demonstrate humanity and empathy through direct and in-person human engagement in the delivery of our external and internal activities and programmes.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10367,
+      "char_end": 10551,
+      "text": "We focus on AI solutions that can enhance human autonomy and agency and complement face-to-face human interactions, as well as our physical presence and proximity with affected people.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10551,
+      "char_end": 10555,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10555,
+      "char_end": 11485,
+      "text": "In light of the above, the ICRC will refrain from using, deploying or providing AI systems that: deploy subliminal, manipulative, or deceptive techniques to distort behaviour and impair informed decision-making; exploit vulnerabilities related to age, disability, or socio-economic circumstances to distort behaviour; use biometric categorization systems that infer sensitive personal attributes, except for labelling or filtering lawfully acquired biometric datasets; rely on or infer social scoring, (i.e. evaluating or classifying individuals or groups based on social behaviour or personal traits); assess the risk of an individual committing a criminal offence based solely on profiling or personality traits, except when used to augment human assessments; compile facial recognition databases by untargeted scraping of facial images from the internet or CCTV footage; or infer emotions, except for medical or safety reasons.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11487,
+      "char_end": 11832,
+      "text": "**Impartiality** – We use AI solutions that strengthen our ability to identify, analyse, prioritize and respond to affected people’s needs based on their scale and level of urgency, without making any adverse distinctions on the basis of race, nationality, gender, religion, class, political opinion or other potential sources of discrimination.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11833,
+      "char_end": 12055,
+      "text": "At all times, the ICRC pays specific attention to affected populations and users that have specific needs and vulnerabilities, and to the specific requirements of the contexts in which AI solutions are considered and used.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12055,
+      "char_end": 12059,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12059,
+      "char_end": 12288,
+      "text": "The ICRC acknowledges the significant risks of AI systems that could generate false or inaccurate data and replicate or amplify systemic and societal discriminations, biases and stereotypes – in particular around gender and race.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12289,
+      "char_end": 12507,
+      "text": "We make proactive and sustained efforts to understand, avoid and mitigate these risks through our choice and use of AI solutions, and by avoiding their use where these biases cannot be effectively avoided or mitigated.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12507,
+      "char_end": 12510,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12510,
+      "char_end": 12838,
+      "text": "The ICRC makes all possible efforts to ensure that the AI solutions and tools we use are inclusive by design and in their impact, and that they enable fair, non-discriminatory, equal and equitable delivery of assistance and services to all affected people and users, taking into account the varying degrees of need and capacity.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12840,
+      "char_end": 12948,
+      "text": "**Neutrality and independence** – AI, like other technologies, is not in and of itself good, bad or neutral.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12949,
+      "char_end": 13081,
+      "text": "It can represent or promote the personal or political values of the individuals and/or companies who create, design or promote them.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13082,
+      "char_end": 13226,
+      "text": "AI is an object of increasing politicization and competition between states at the global level, as well as private-sector and non-state actors.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13227,
+      "char_end": 13386,
+      "text": "Additionally, many AI solutions are provided by tech companies that are increasingly active in the political domain or taking sides in ongoing armed conflicts.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13387,
+      "char_end": 13599,
+      "text": "Therefore, as an organization we pay specific attention and take all feasible measures to ensure that our choices of AI tools and providers cannot be instrumentalized to challenge our neutrality and independence.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13599,
+      "char_end": 13603,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13603,
+      "char_end": 14179,
+      "text": "The ICRC uses our ethical frameworks (Framework on Engaging with the Private Sector to Mobilize Support, Ethical principles guiding the ICRC’s partnerships with the private sector) and procurement processes (Supplier Code of Conduct) to ensure as much as possible that we do not use AI providers that (i) are directly engaged in activities contributing to armed conflict or closely associated with military activities of parties to conflict, or (ii) promote particular political interests or values that are contradictory to the ICRC’s humanitarian mandate and ethical values.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 57,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14181,
+      "char_end": 14672,
+      "text": "When relevant, we strive to explore available, safe and adequate free and/or open-source AI solutions to mitigate risks of increased dependency on politicized or proprietary tools and systems that could (i) jeopardize the perception of our neutrality and independence from entities involved in political or conflict-related controversies; (ii) endanger our operational independence and autonomy; or (iii) restrict our ability to opt for alternatives without incurring disproportionate costs.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 58,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14672,
+      "char_end": 14683,
+      "text": "\n\n### 5.2. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14683,
+      "char_end": 14716,
+      "text": "An enabling and learning approach",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 107,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14718,
+      "char_end": 14976,
+      "text": "**Fostering ethical and impactful innovation** – The ICRC is committed to creating an organizational environment that facilitates and supports the safe and responsible exploration and use of impactful, sustainable and innovative AI initiatives and practices.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 59,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 14976,
+      "char_end": 14980,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 14980,
+      "char_end": 15179,
+      "text": "The ICRC systematically adopts a context-based and ecosystem approach, relying on the analysis of the interconnectedness of AI-supporting environments, data and systems, and human and social factors.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15180,
+      "char_end": 15417,
+      "text": "We leverage a responsible use of data; strong governance, classification, regulation and control mechanisms; and continuous evaluation and adjustments through a coordinated, collaborative, multidisciplinary and multistakeholder approach.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15417,
+      "char_end": 15420,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15420,
+      "char_end": 15766,
+      "text": "The ICRC maintains a long-term perspective to ensure AI research and development investments are financially responsible and sustainable, focusing on relevance, impact and effectiveness, and also considers added-value, interoperability, scalability and cost-efficiency (including maintenance, training, verification and compliance-related costs).",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 15766,
+      "char_end": 15769,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 15769,
+      "char_end": 16070,
+      "text": "The ICRC pays specific attention to the alignment between the impact of considered AI solutions and the organization's short-and long-term objectives, operational and institutional constraints and requirements, and related programmatic and organizational risks at the security and reputational levels.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16072,
+      "char_end": 16320,
+      "text": "**Competence and capacity building** – The technical complexity and potential risks attached to AI systems and their functioning requires a significant level of knowledge and expertise to select, operate and manage them effectively and responsibly.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16321,
+      "char_end": 16619,
+      "text": "The ICRC is committed to ensuring that staff members across the different levels of the organization are properly informed, equipped and supported to explore, develop and use AI responsibly and in line with our humanitarian mandate, Fundamental Principles, Code of Conduct and culture of integrity.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16619,
+      "char_end": 16623,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16623,
+      "char_end": 16789,
+      "text": "At the institutional level, the ICRC incentivizes and enables adequate levels of AI and digital literacy, and training and upskilling for staff members at all levels.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16790,
+      "char_end": 16993,
+      "text": "We leverage peer-review, support and collaboration with trusted and qualified external experts and partners to inform and sustain a continuously learning approach to the use of AI in humanitarian action.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 16993,
+      "char_end": 16996,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 16996,
+      "char_end": 17244,
+      "text": "The ICRC invests in adapted learning and development programmes to support our staff members' understanding of what AI systems are, how they function and what opportunities and risks they bring in relation to staff members' professional activities.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17245,
+      "char_end": 17424,
+      "text": "This includes awareness and understanding of the ethical considerations and different internal rules and regulations that apply to AI internal and external tools and technologies.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 69,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17425,
+      "char_end": 17528,
+      "text": "When necessary, the ICRC restricts access to AI tools to specifically trained and authorized personnel.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 70,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17528,
+      "char_end": 17612,
+      "text": "\n\n## 6. GUIDING PRINCIPLES\n\n### 6.1. Proportionality, precaution, and “do no harm”\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17612,
+      "char_end": 17895,
+      "text": "The ICRC considers AI as a potential tool to help better respond to humanitarian and organizational needs, based on a problem identification and analysis that systematically considers the specific level of risk, effectiveness of expected results and alternative solutions in context.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 71,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 17895,
+      "char_end": 17899,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 17899,
+      "char_end": 18053,
+      "text": "Potential AI solutions are only considered and used when necessary and adequate to achieve a positive impact and respond to clear, pre-defined objectives.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 72,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18054,
+      "char_end": 18164,
+      "text": "Considerations of novelty and competitiveness are not in themselves justification for the use of AI solutions.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 73,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18166,
+      "char_end": 18437,
+      "text": "The ICRC's choice and use of AI systems is guided by a precautionary, pragmatic and science-based approach that carefully considers the multidimensional risks that they could create for affected populations, users and the organization, including from a legal perspective.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 74,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18438,
+      "char_end": 18643,
+      "text": "Potential AI solutions are reviewed and assessed using a differential approach that distinguishes their type, purpose, scope, place of deployment and impact and associated risk level (high, medium or low).",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 75,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 18643,
+      "char_end": 18647,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 18647,
+      "char_end": 19068,
+      "text": "Specific additional risk analysis and mitigating measures are put in place when the AI solutions under consideration present higher levels of risks and/or have a potential impact on the safety, dignity and rights of affected populations and users; when they involve the use of personal, confidential, strictly confidential or sensitive internal data; or when they involve legal or reputational risks for the organization.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 76,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19068,
+      "char_end": 19072,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19072,
+      "char_end": 19209,
+      "text": "When the potential benefits of AI outweigh identified risks, solutions under consideration are thoroughly tested before being rolled out.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 77,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19210,
+      "char_end": 19390,
+      "text": "The necessary evidence is gathered through scientific experimentation and “sandbox” testing to ensure, as far as possible, the effectiveness and safety of the solutions in context.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 78,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19390,
+      "char_end": 19393,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19393,
+      "char_end": 19728,
+      "text": "Systematic review and auditing systems supported by regular internal and external feedback mechanisms are put in place to ensure a continuous and multidimensional risks analysis based on their likelihood and the severity of their potential impact for affected populations, users or the organization, including from a legal perspective.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 79,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19729,
+      "char_end": 19906,
+      "text": "When adequate and effective mitigating measures to identified risks are not available or sufficient, the ICRC rejects or terminates the use of relevant AI systems and solutions.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 80,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 19906,
+      "char_end": 19938,
+      "text": "\n\n### 6.2. Safety and security\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 19938,
+      "char_end": 20475,
+      "text": "Considering the multiple and significant risks that AI solutions present for the confidentiality and protection of the data that the ICRC collects, processes and manages for the purposes of our activities – and the potential negative or harmful consequences arising from them – the ICRC explores and uses AI solutions through a human-centred approach anchored in the highest possible levels of safety, security and privacy in their design and ensuring sufficient human oversight and verification of AI outputs throughout their lifecycle.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 81,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20475,
+      "char_end": 20479,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20479,
+      "char_end": 20779,
+      "text": "Risks of misuse, abuse, infiltration and attacks against AI systems and potential related harms and damage are systematically considered, and the highest possible standards of data protection and cybersecurity measures are put in place to prevent and mitigate them, in line with assessed risk levels.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 82,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 20779,
+      "char_end": 20782,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 20782,
+      "char_end": 21173,
+      "text": "Additional systematic data quality control and meaningful and effective human oversight mechanisms are put in place to control and review relevant training models, algorithmic systems, inputs and outputs throughout the lifecycle of AI solutions used to support operational activities and decision-making processes that have an impact and present a risk of harm for affected people and users.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 83,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21175,
+      "char_end": 21425,
+      "text": "The ICRC ensures that the use of internal and external AI solutions are aligned with the rules and the principles of lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, security and accountability.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 84,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21425,
+      "char_end": 21429,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21429,
+      "char_end": 21720,
+      "text": "At all times, the ICRC ensures that confidential or sensitive internal ICRC information or personal data are handled with the utmost care and are not used in or transferred to non-approved, external online AI systems, in line with the duty of discretion stated in the ICRC’s Code of Conduct.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 85,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21720,
+      "char_end": 21723,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21723,
+      "char_end": 21931,
+      "text": "Mechanisms are put in place to ensure that the data required for AI systems is collected, used, shared, archived and deleted in ways that are consistent with the right to privacy of affected people and users.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 86,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 21931,
+      "char_end": 21934,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 21934,
+      "char_end": 22207,
+      "text": "Systematic data protection impact assessments are carried out prior to the acquisition, deployment or use of considered AI solutions, and when relevant and feasible, solutions are put in place to restrict processing and enable rectification and/or erasure of the data used.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 87,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22207,
+      "char_end": 22253,
+      "text": "\n\n### 6.3. Transparency and “explainability”\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22253,
+      "char_end": 22427,
+      "text": "Transparency and “explainability” are essential elements of a safe, ethical and responsible approach to AI, and to ensure respect for the ICRC’s principles, rules and values.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 88,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22428,
+      "char_end": 22718,
+      "text": "The ICRC therefore ensures at all times the highest possible levels of transparency in our use and management of AI solutions, in accordance with the context, risks and impact of the systems and tools considered, and with due consideration to the principles of safety, security and privacy.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 89,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 22718,
+      "char_end": 22722,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 22722,
+      "char_end": 23059,
+      "text": "As much as feasible and in accordance with the applicable risk level, context and use case, meaningful traceability, disclosure and notification measures are put in place in relation to the use of AI systems that support the ICRC’s activities and decision-making processes, including, as appropriate, releasing AI systems as open-source.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 90,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23059,
+      "char_end": 23062,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23062,
+      "char_end": 23332,
+      "text": "Relevant and intelligible information about the use of AI systems is systematically provided to affected people and users when these systems could have an impact on them or their rights, or when decisions with significant consequences for the organization are concerned.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 91,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23332,
+      "char_end": 23335,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23335,
+      "char_end": 23543,
+      "text": "This includes adequate and meaningful information about why, when and how AI solutions are used, and explanations on the causal link between AI inputs and outputs and the functioning of algorithmic processes.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 92,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23543,
+      "char_end": 23554,
+      "text": "\n\n### 6.4. ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23554,
+      "char_end": 23587,
+      "text": "Responsibility and accountability",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 110,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23589,
+      "char_end": 23897,
+      "text": "The ICRC ensures the highest possible levels of responsibility and accountability in the use and management of AI solutions through continuous monitoring, assessment and reporting on the procurement, use, management and review of AI solutions – including through publicly accessible reporting, when relevant.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 93,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 23897,
+      "char_end": 23901,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 23901,
+      "char_end": 24136,
+      "text": "When relevant and feasible, systematic impact, verifiability and replicability assessments are put in place and supported by effective evaluation and auditing processes to ensure the ICRC’s AI systems and tools comply with this policy.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 94,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24136,
+      "char_end": 24139,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24139,
+      "char_end": 24326,
+      "text": "When relevant and feasible, meaningful and accessible engagement mechanisms are put in place to consult affected people and users on the design, use and impact of considered AI solutions.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 95,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24327,
+      "char_end": 24574,
+      "text": "Provided that it does not prevent affected people from benefiting from equivalent opportunities, the possibility of opting out of AI systems and having access to alternative solutions and complaint and remedy mechanisms are made available to them.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 96,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24574,
+      "char_end": 24577,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 24577,
+      "char_end": 24803,
+      "text": "Responsibility and accountability for decision-making supported by AI always lies with the ICRC and/or the staff using the tools or system concerned, in line with the ICRC’s Code of Conduct and other applicable internal rules.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 97,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 24805,
+      "char_end": 25021,
+      "text": "The ICRC puts in place effective governance mechanisms to ensure that our use of AI solutions is aligned with our broader organizational obligations and commitments and complies with applicable rules and regulations.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 98,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25021,
+      "char_end": 25025,
+      "text": "\n\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25025,
+      "char_end": 25268,
+      "text": "Competent and qualified staff and organizational entities are appointed and equipped to ensure good governance and effective enforcement and compliance with this policy and other related internal rules and regulations applicable to AI systems.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 99,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25268,
+      "char_end": 25271,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25271,
+      "char_end": 25478,
+      "text": "Decisions on the use or provision to others of AI systems, tools or technologies should be informed by legal considerations, and legal advice should be obtained during any AI-related decision-making process.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 100,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25478,
+      "char_end": 25481,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25481,
+      "char_end": 25949,
+      "text": "Awareness-raising, training and compliance efforts are made to ensure that (i) the ICRC’s use of AI solutions does not breach applicable international, regional and national legal restrictions, and that (ii) ICRC staff and users do not input any critical humanitarian information, other confidential and/or strictly confidential information, or any proprietary information protected by intellectual property rights when using external or commercial online AI services.",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 101,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 25949,
+      "char_end": 25952,
+      "text": "\n- ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 25952,
+      "char_end": 26111,
+      "text": "All possible efforts are made to integrate and mitigate the environmental impact and carbon footprint of considered AI solutions through a life-cycle approach.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 102,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26112,
+      "char_end": 26352,
+      "text": "This includes favouring solutions and tools that have a lighter footprint, in line with the ICRC’s Plan of Action under the Climate and Environment Charter for Humanitarian Organizations and the ICRC’s Framework for Sustainable Development.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 103,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26352,
+      "char_end": 26473,
+      "text": "\n\n## SELECTED SOURCES\n\nBelow are some of the many sources on AI ethics that the ICRC has drawn on to draft this policy.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26473,
+      "char_end": 26605,
+      "text": "*Recommendations on the Ethics of Artificial Intelligence*, UNESCO, available at: https://unesdoc.unesco.org/ark:/48223/pf0000381137",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 112,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 26605,
+      "char_end": 26992,
+      "text": "\n\n“Principles for digital development”, available at: https://digitalprinciples.org/principles/\n\n*Understanding Artificial Intelligence Ethics and Safety: A Guide for the Responsible Design and Implementation of AI systems in the Public Sector*, The Alan Turing Institute, available at: https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 26992,
+      "char_end": 27237,
+      "text": "*A Framework for the Ethical Use of Advanced Data Science Methods in the Humanitarian Sector*, Data Science and Ethics Group, available at: https://www.hum-dseg.org/sites/g/files/tmzbd11476/files/2020-10/Framework%20for%20the%20ethical%20use.pdf",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 115,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 27237,
+      "char_end": 28839,
+      "text": "\n\n“Ethics guidelines for trustworthy AI”, European Union Commission, available at: https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai\n\nEuropean Union Artificial Intelligence Act, available at: https://artificialintelligenceact.eu/the-act/\n\nWhite paper on trustworthy artificial intelligence, Chinese Academy of Information and Communication Technology, available at: https://cset.georgetown.edu/publication/white-paper-on-trustworthy-artificial-intelligence/\n\n“Declaración de ética IA–LATAM para el diseño, desarrollo y uso de la inteligencia artificial”, IA–LATAM, available at: https://aichallenge.utec.edu.uy/community/foro-bai-biases-in-ai-consultas-generales/declaracion-de-etica-ia-latam-para-el-diseno-desarrollo-y-uso-de-la-inteligencia-artificial/\n\n*Continental Artificial Intelligence Strategy: Harnessing AI for Africa’s Development and Prosperity*, African Union, available at: https://au.int/sites/default/files/documents/44004-doc-EN-Continental_AI_Strategy_July_2024.pdf\n\n*ASEAN Guide on AI Governance and Ethics*, ASEAN, available at: https://asean.org/wp-content/uploads/2024/02/ASEAN-Guide-on-AI-Governance-and-Ethics_beautified_201223_v2.pdf\n\n*Digital Ethics: A Guide for Professionals of the Digital Age*, CIGREF, available at: https://www.cigref.fr/wp/wp-content/uploads/2019/02/Cigref-Syntec-Digital-Ethics-Guide-for-Professionals-of-Digital-Age-2018-October-EN.pdf\n\n*Artificial Intelligence and Data Protection*, Council of Europe, available at: https://rm.coe.int/2018-lignes-directrices-sur-l-intelligence-artificielle-et-la-protecti/168098e1b7\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 28839,
+      "char_end": 29067,
+      "text": "*Governing Artificial Intelligence: Upholding Human Rights and Dignity*, Data and Society, available at: https://datasociety.net/wp-content/uploads/2018/10/DataSociety_Governing_Artificial_Intelligence_Upholding_Human_Rights.pdf",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 124,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 29067,
+      "char_end": 29694,
+      "text": "\n\n“The Toronto Declaration: Protecting the right to equality and non-discrimination in machine learning systems”, Amnesty International and Access Now, available at: https://www.torontodeclaration.org/declaration-text/english/\n\n“How to design AI for social good: Seven essential factors”, Science and Engineering Ethics, available at: https://link.springer.com/article/10.1007/s11948-020-00213-5\n\n“Humanitarian AI revisited: seizing the potential and sidestepping the pitfalls”, HPN–ODI, available at: Humanitarian AI revisited: Seizing the potential and sidestepping the pitfalls | Humanitarian Practice Network (odihpn.org)\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 29694,
+      "char_end": 30047,
+      "text": "We help people around the world affected by armed conflict and other violence, doing everything we can to protect their lives and dignity and to relieve their suffering, often with our Red Cross and Red Crescent partners. We also seek to prevent hardship by promoting and strengthening humanitarian law and championing universal humanitarian principles.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 128,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 30047,
+      "char_end": 30060,
+      "text": "\n\nFOOTNOTES\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 30060,
+      "char_end": 30542,
+      "text": "1. Where a tool or platform that the ICRC is already using adds AI functionality after adoption, this additional functionality may be merely cosmetic – for example, a support chatbot or design recommendations. At times, the addition of AI may be so fundamental that it alters the nature of the tool or platform – for example, search recommendations being determined by AI rather than by text matching. In these cases, use of the platform may need to be reassessed under this policy.",
+      "B": "B13",
+      "B_label": "other/not coded/metadata",
+      "segment_id": 104,
+      "match_type": "exact"
+    }
+  ]
+}

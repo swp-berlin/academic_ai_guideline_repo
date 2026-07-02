@@ -1,0 +1,353 @@
+# TENK
+# Source: https://tenk.fi/sites/default/files/2026-06/Artificial%20Intelligence%20in%20Research.%20TENK%27s%20Recommendation%202026.pdf
+# Date: 2026-01-01
+# Category: guideline
+
+# Artificial Intelligence in Research: Research Integrity and Ethical Principles
+
+Recommendation of the Finnish National Board on Research Integrity TENK 2026
+
+# Artificial Intelligence in Research: Research Integrity and Ethical Principles
+
+Recommendation of the Finnish National Board on Research Integrity TENK 2026
+
+ISSN: 2669-9427
+ISBN: 978-952-7589-30-4
+1. edition
+Helsinki 2026
+
+Finnish National Board on Research Integrity TENK
+Kirkkokatu 6
+00170 Helsinki
+Finland
+
+# Editorial Board
+
+Simo Kyllönen (chair), Petra Falin, Iina Kohonen (secretary) and Anni Sairio (translation)
+
+Layout: Eeva Lamminen
+
+# How to cite this publication:
+
+Finnish National Board on Research Integrity TENK (2026). *Artificial Intelligence in Research: Research Integrity and Ethical Principles*. Recommendation of the Finnish National Board on Research Integrity TENK 2026. Publications of the Finnish National Board on Research Integrity TENK 2/2026. Helsinki.
+
+# 1. Introduction
+
+The rapid development of artificial intelligence (AI) affects research across all disciplines and transforms research practices in many ways. The ethical principles for research, however, have not changed. Reliability, honesty, respect and accountability, which are the fundamental principles defined in guidelines on research ethics and research integrity, also apply to the use of AI in research.
+
+- In Finland, all scientific research is conducted in accordance with the Finnish National Board on Research Integrity TENK's guidelines *The Finnish code of conduct for research integrity and procedures for handling alleged violations of research integrity in Finland 2023* (the RI guidelines).
+- In non-medical research involving human participants, TENK's guidelines *The ethical principles for research with human participants and ethical review in the human sciences in Finland* (ERHS guidelines; in Finnish, IEEA) are followed.
+- In research involving nature and the environment, TENK's recommendation *Ethical principles for research involving nature and the environment and a proposal for organising ethical review in Finland* (NERE recommendation; in Finnish, LYTE) are applied when relevant.
+
+TENK's recommendation *Artificial Intelligence in Research: Research Integrity and Ethical Principles 2026* (the AI recommendation) is intended to support the research community in recognising and assessing ethical questions in the development and use of AI. This recommendation is applied alongside and as a complement to the guidelines and recommendations above.
+
+The recommendation forms part of the co-regulatory framework of the research community in Finland. Researchers, organisations and funders can use it to identify and reflect on ethical questions related to the development and use of AI and to minimise ethical risks. The recommendation also supports ethics committees in their work on assessing the ethical risks of research designs when AI is studied, developed or used. TENK will review and update this recommendation regularly to ensure that it remains up to date as AI technologies and research practices develop.
+
+This recommendation consists of two parts. The first part gives instructions on the use of AI in the context of research integrity and the RI guidelines. The second part describes how research designs using AI are assessed for example in ethical review in line with the ERHS (IEEA) guidelines. Both sections are to be read in conjunction with applicable national guidelines on research ethics and research integrity.
+
+The recommendation examines how the use of different AI systems in research may compromise research integrity and good research practices. A precise technical definition of artificial intelligence is not provided, given that AI systems have different characteristics that researchers need to identify in order to assess the systems they use from an ethical perspective.
+
+AI systems related to research include, for example, generative AI (including large language models), embedded AI tools (e.g. language checking), machine learning systems, and agentic AI that performs chained autonomous functions.
+
+AI can be used intentionally in a research process, for example in analysis, text production or the handling of data. AI is also widely and sometimes imperceptibly integrated into many digital research tools, with the result that researchers are not always aware that they are using AI. This highlights the importance of AI literacy, that is, the necessary knowledge and abilities to identify the opportunities, risks and potential harms associated with AI.
+
+The significance of developing and using AI in research varies depending on the field of research and the specific use of AI. AI can enhance the efficiency of research, support ideation and enable new research designs and novel research questions. At the same time, AI is also associated with a variety of ethical questions. It may, for example, produce content that appears credible but is in fact incorrect or misleading, which may result in the misrepresentation of research findings or research participants. AI technologies used in research may be complex, which can make it difficult for research participants to understand how their data are processed and what their participation entails in practice. The development and use of AI also consumes significant amounts of energy and other natural resources. Furthermore, the results of research involving the development or use of AI may be used in unforeseen ways or intentionally misused for harmful purposes.
+
+The use of AI in research always requires case-by-case consideration and weighing the necessity of use, benefits and potential harms. The use of AI should support the researcher's own expertise, for example by assisting in selected stages of the research process. However, AI cannot replace the researcher's own judgement or responsibility. When researchers use AI in their research, they must identify potential risks in advance and mitigate them with appropriate safeguards. Researchers may also justifiably decide not to use AI.
+
+When AI is used in research, the responsibility for adherence to research integrity and good research practices lies with researchers, research organisations and the research community as a whole.
+
+In research projects, all the researchers involved are responsible for adhering to ethical principles and complying with legislation. The principal investigator of the project ensures that all project members are familiar with the principles and legislation governing the AI tools used in the project. **Researchers are always ultimately responsible for the content, conclusions and reliability of their research.**
+
+Research-performing organisations ensure that researchers in their research communities are familiar with guidelines and recommendations on research integrity, research ethics and ethical review as well as relevant field-specific and general legislation, and that they are able to comply with them. Organisations also ensure the availability of sufficient resources and tools to enable the ethical use of AI in research.
+
+It is the responsibility of the research community to promote shared practices, openness and critical discussion on the use of AI and to share best practices that advance research integrity and good research practices.
+
+## 2. Scope of the recommendation
+
+TENK's AI recommendation is to be read in conjunction with the national guidelines *The Finnish code of conduct for research integrity and procedures for handling alleged violations of research integrity in Finland* (the RI guidelines) and *The ethical principles for research with human participants and ethical review in the human sciences in Finland* (ERHS guidelines; in Finnish, IEEA). These guidelines are binding for organisations that have committed to them, and they form the primary normative framework for ethical considerations in research.
+
+TENK has also issued a national recommendation on agreeing on the authorship of research publications and ethical principles for research involving nature and the environment.
+
+This national recommendation on AI specifies and complements existing national guidelines and recommendations when AI is developed, studied or used in research. TENK recommends that organisations develop their own more detailed guidelines on the basis of this recommendation.
+
+The AI recommendation applies to all research activities, to research, development and innovation (RDI) projects, and to activities throughout their lifecycle. It also applies to research involving the development of AI. For the sake of brevity, all these activities are referred to as *research* and those carrying out these activities as *researchers*.
+
+The use of AI involves questions of confidentiality, data protection, information security and intellectual property rights, which are primarily regulated by legislation. In addition to guidelines and recommendations on research ethics and research integrity, all research must comply with Finnish legislation and European Union regulations, such as the General Data Protection Regulation (GDPR), the Artificial Intelligence Act (AI Act) and relevant national implementing legislation, as well as applicable guidelines and recommendations issued by national and EU authorities. When personal data is processed, both information security (the technical protection of data) and data protection (the lawful handling of personal data) must be considered. In addition, possible discipline-specific elaborations must be observed, as well as complementary guidelines and recommendations issued by publishers, funders and other actors relevant in research.
+
+This recommendation also applies to research conducted in international collaborative projects in Finland or outside Finland. Research projects must agree on shared working principles before the work begins. Research must not be transferred to another country, organisation or research environment to take advantage of potentially weaker ethical oversight.
+
+This recommendation is also to be followed in research collaboration with companies and other partners. Projects may additionally be subject to more detailed rules defined in agreements, which must be observed. In addition, the ethical principles outlined in this recommendation are taken into account and promoted in the supervision of doctoral dissertations and other theses.
+
+# 3. Artificial intelligence and research integrity
+
+## 3.1. Recommendations for researchers
+
+**Reliability, honesty, respect and accountability are the core ethical principles of research integrity, and they also apply to the use of AI in research. Responsibility for the content, conclusions and reliability of the research always remains with the researcher.** This subchapter outlines how researchers can promote the use of AI in research responsibly and in accordance with research integrity.
+
+### Planning and implementation of research
+
+- The ethical assessment of the use of AI covers the entire research lifecycle and extends from the stages of planning the research and applying for funding to the completion of the research and potential reuse of the data.
+- It is the responsibility of the researcher who uses AI to acquire sufficient competence in its use, for example by familiarising themselves with up-to-date research literature.
+- Researchers assess whether the use of AI is suitable for the research tasks and methods in question. The key limitations and risks inherent in the AI systems used must be understood in order to assess their impact on the reliability of the research. In addition, the terms of use of the systems employed in the research and possible changes therein are taken into account.
+- Researchers validate the claims, sources, code, models and other outputs generated by AI and ensure their accuracy and methodological validity. Quality assurance is based on the researcher's own assessment, peer review and collaboration between researchers. AI does not replace the researcher's methodological expertise.
+- AI systems may reproduce existing texts, and researchers ensure that this does not inadvertently result in plagiarism. Researchers must always cite verified original sources.
+- The unpublished manuscripts or research plans of other researchers must not be entered into AI systems without appropriate permission.
+- AI models, their outputs, trained neural networks, source code and other model components may form part of the research data or results, in which case they must be cited appropriately.
+
+### Info box 1
+
+### Disclosing the use of AI
+
+The practical applications of AI and the implications and significance of AI use vary across disciplines and research designs. It is therefore not possible to provide a generally applicable rule regarding the obligation to disclose AI use. As a general principle, what it means to use AI and what impact it may have on the reliability of the research must be assessed, documented and reported in the same way as any other important research methods and tools. There are differences between disciplinary practices, and it is the researcher’s responsibility to understand when AI use has a substantial impact on the research process or its outcomes.
+
+**The use of AI that substantially influences the implementation of the research, its results and its conclusions must always be openly and transparently disclosed so that the key stages of the research are open to retrospective evaluation.**
+
+AI used solely as a technical aid, without substantial impact on the research process or its outcomes, generally does not need to be reported, unless it affects how the reliability of the research can be assessed. AI may also be embedded in software or services as non-transparent functionalities. Researchers are also responsible for assessing how AI that has been integrated into digital tools affects the reliability of the research.
+
+### Data processing and management
+
+- If the use of AI has a substantial impact on the research process or the research results, researchers describe in a data management plan how the data will be processed for example with large language models.
+- The metadata of stored and possibly openly available research data must include, as part of the methodology description, the AI systems used and their role in the processing, analysis or production of the data.
+- If confidential material, sensitive data or personal data is handled in the research with AI, researchers ensure that AI is used securely, in accordance with their organisation's guidelines, for example. The researcher is always responsible for the ethical processing of data.
+- If AI is used in data processing, analysis or the creation of synthetic data, researchers ensure that automation does not replace thorough knowledge of the data or the critical evaluation of the results. Researchers also assess the suitability, limitations and potential biases of AI-generated or AI-modified data and document how the data were created or modified.
+- Researchers ensure that the archiving and long-term preservation of AI-generated research materials and data is carried out in a way that allows the use of AI to be identified transparently and reliably also considering future use.
+
+### Authorship, publishing and dissemination
+
+- AI must not be listed as an author of a research publication, as authorship requires assuming both ethical and scientific responsibility. Furthermore, AI is not a legal person, so it cannot own or be assigned legal copyright. At the same time, it should be taken into account that AI-generated outputs may contain copyright-protected material.
+- If the use of AI has a significant impact on the content, results or interpretation of the research, its use must be transparently disclosed in publications, research plans and research communication.
+- Publishers and funders may have their own guidelines on the use of AI, which are to be taken into account when this recommendation is applied.
+
+## 3.2. Recommendations for organisations
+
+### Training and support measures
+
+- Organisations are encouraged to collaborate and share practices and ensure that different actors have equal possibilities for ethical use of AI in research.
+- Organisations are encouraged to promote secure AI solutions that support the transparency of research and reduce dependency on individual providers or platforms.
+- Research-performing organisations have a responsibility to provide researchers with practical support, guidance and infrastructure for ethical use of AI in research, for example concerning risk assessment, data protection and data security.
+- The EU AI Act requires that individuals using AI systems possess a level of AI literacy which is sufficient for the context of use and the tasks in question. Organisations provide training and guidance and take into account the needs of staff, researchers and students in the improvement of AI literacy.
+- Organisations establish policies on the use of AI in doctoral dissertations, learning tasks and theses, for example concerning how AI can be used to support analysis or writing while maintaining the principles of research integrity.
+
+### AI and research assessment
+
+- Organisations, funders and publishers disclose openly where and how AI is used in evaluation processes, for example in peer review, the evaluation of funding applications, career assessments or the evaluation of theses and dissertations.
+- Organisations provide clear guidance on the use of AI both for reviewers and researchers seeking evaluation.
+- The reviewer's assessment must be based on their own expertise, and AI must not replace independent judgement. AI must not be used in a way that compromises the protection of confidential information or personal data.
+- Unpublished manuscripts or manuscripts under peer-review must not be entered into AI systems without appropriate permission.
+- Applicants or authors follow relevant guidelines in disclosing the use of AI and ensure the accuracy of the information presented.
+
+### Info box 2
+
+### Examples of AI use that may constitute a violation of research integrity
+
+When assessing whether a violation of research integrity has occurred, the evaluation criteria in the RI guidelines concerning the seriousness of the case are taken into account (e.g. scope, recurrence, scientific significance and harmful consequences). The examples listed below are indicative and do not limit case-by-case consideration.
+
+- Failure to disclose the use of AI in situations where transparency regarding methods and tools is essential for the evaluation or reproducibility of the research
+- Using AI to produce fabricated, misleading or falsified research results or conclusions, in whole or in part
+- Using AI to produce or utilise fabricated research data (e.g. survey data)
+- Careless or negligent use of AI without verifying its outputs
+- Using incorrect, misleading or non-existent sources generated by AI without appropriate source criticism and verification
+- Handling research data or training AI models in ways that compromise the privacy of research participants
+- Failing to take known and relevant AI-related biases into account, thereby compromising the reliability or impartiality of the research
+
+# 4. Ethical questions in research designs involving the development, study or use of AI
+
+## 4.1. General ethical principles for research
+
+The same principles, guidelines and recommendations that govern the responsible and ethical conduct of research also apply to research involving AI. Different disciplines have their own established ethical practices and guidelines. In this recommendation, the use of AI in research is addressed in accordance with TENK's national guidelines and recommendations on ethical review.
+
+- When research or part of a research project involves human participants or human activity, the guidelines *Ethical Principles for Research Involving Human Participants and Ethical Review in the Human Sciences in Finland* (ERHS guidelines; in Finnish, IEEA) are to be applied.
+- When research or part of a research project involves nature or the environment, the recommendation *Ethical Principles for Research Involving Nature and the Environment and a Proposal for Organising Ethical Review in Finland* (NERE recommendation; in Finnish, LYTE) are to be applied.
+
+The following general ethical principles for research also apply to research involving the use of AI.
+
+### Respecting the autonomy of the research participants
+
+- Researchers are responsible for conducting their research so that the human dignity and autonomy of participants is respected.
+- AI-assisted technologies may be difficult to understand. Researchers describe the role and purpose of AI in the research in a clear and truthful manner, taking also potential harms and risks into account.
+
+### Avoidance of harm
+
+- Research is conducted in a way that does not cause significant risks, harm or damage to research participants, communities, environments or other research subjects.
+- The use of AI may involve significant risks with regard to, for example, the privacy of individuals and the protection of personal data. The right of research participants to privacy and data protection must be ensured particularly in situations where data may be recorded in AI systems.
+- In addition to personal data, risks may also be involved with regard to, for example, the location data of threatened nature sites or species or the disclosure of security-sensitive information.
+- The use of AI and potential data protection risks (for example regarding data linkage) and the measures to manage those risks must be described in the research plan, when informing about the research and in research reporting.
+
+### Proportionality of benefits and harms
+
+- Research is designed so that the benefits justify the potential harms the research may cause.
+- Before starting the research, the risks involved in the use of AI and the measures for managing them are assessed, and the grounds for using AI in light of those risks are considered. The use of AI may, for example, increase the risk of biases and misinterpretations, compared to research methods that do not involve AI.
+- The use of AI may cause considerable environmental impacts without substantially advancing the aims of the research. The use of AI should be proportionate to the aims of the research, and any use beyond what is necessary to achieve those aims should be avoided.
+
+### Fair distribution of benefits and harms
+
+- Researchers ensure that the benefits and harms of research are distributed fairly. The equity-related impacts of AI use should be identified and assessed in advance.
+- The use of AI in research may reinforce biases embedded in the data, which may result in minorities and underrepresented groups being rendered invisible or misrepresented. This may weaken the generalisability and fairness of research findings and perpetuate inequalities. Biases may also be more difficult to identify and critically assess due to the apparent objectivity of AI.
+
+Researchers must assess the AI tools they use in light of the above principles. Info box 3 provides illustrative examples of AI use that may require particular ethical consideration and the implementation of appropriate safeguards.
+
+### Info box 3
+
+### Examples of research designs involving AI that may require particular ethical consideration
+
+### Combining data and data re-identification
+
+- AI systems may combine and interpret data in ways that researchers or research participants are unable to anticipate. As methods continue to develop, the risk of re-identifying anonymised data increases. In addition, datasets may be used to create models representing individuals, which may be an infringement of privacy also without direct identification.
+- **Safeguards:** Researchers assess these risks in advance, limit datasets and the processed personal data to what is necessary for the research, and ensure the information security of the selected AI system.
+
+### Managing biases
+
+- Structural biases in AI may affect the reliability of research and the fair distribution of benefits and harms. The equitable distribution of research benefits may be compromised also when equal opportunities for participation are not ensured.
+- **Safeguards:** Researchers identify the potential biases in the selected AI system and assess their impact on the research results in the research plan. Biases may be mitigated for example through data selection, careful prompt design and critical examination of results.
+
+### Use of artificial (synthetic) data
+
+- Artificial or synthetic data may blur the boundary between real and modelled information, distort the experiences of human groups, or create a misleading impression of participation. In addition, generating synthetic data in order to protect the privacy of participants and to avoid using personal data may itself introduce biases into the dataset. The use of synthetic data does not remove the obligation to respect the dignity and autonomy of research participants.
+- **Safeguards:** Researchers separate synthetic data clearly from real data, limit its use to appropriate stages and critically assess and transparently report the reliability, limitations, intended purpose and impacts of the synthetic data.
+
+### Explainability and transparency of AI (Explicability)
+
+- When using an AI model with limited explainability and transparency, researchers ensure that the reliability of the results is not compromised and that the risk of erroneous conclusions does not increase.
+- **Safeguards:** Researchers describe the type of AI system used and plan appropriate risk management measures. Known limitations and uncertainties are documented.
+
+## 4.2. Ethical review
+
+Research involving the use of AI undergoes ethical review when the research design meets the criteria for ethical review in TENK's national guidelines or recommendations, or when ethical review is required under other discipline-specific guidance or legislation. The use of AI in itself does not change the fundamental principles of ethical review or create new review criteria. Furthermore, the use of AI in research does not automatically require ethical review. If ethical review is required, it must be obtained before the research begins.
+
+Researchers assess the ethical risks related to the use of AI on a case-by-case basis. Ethical review is conducted primarily by an ethics committee of the discipline that the research principally represents, and it follows field- or domain-specific ethical guidance. In research involving human participants, the need for ethical review is assessed in accordance with the review categories in the ERHS (IEEA) guidelines (sections a–f). In research concerning nature and the environment, the assessment is conducted in accordance with the NERE (LYTE) recommendation.
+
+Researchers should be familiar with the definitions in the AI Act regarding prohibited practices and high-risk AI systems. If such systems are researched, developed or used in the research, the AI Act should be examined in more detail and, where necessary, a body with sufficient legal expertise should be consulted. High-risk research contexts may include, for example, schools, recruitment, healthcare or law enforcement.
+
+Organisations ensure that ethics committees have access to sufficient expertise in handling ethical questions concerning the use of AI. If the committee's own expertise is insufficient for assessing the risks in the research under review, the committee may consult an expert from a discipline relevant to the statement request or consult an appropriate field-specific committee.
+
+### Info box 4
+
+**In a request for an ethical review statement, the use of AI can be described for example in the following ways:**
+
+### Grounds for requesting a statement
+
+Description of the use of AI in the research design and how the use of AI affects the risk profile of the research, the position of research participants or the way the research is conducted.
+
+### Research plan and summary
+
+Description of the stages of the research in which AI is used, the tasks performed by the AI system, how the use of AI affects the research design, data processing or interpretation of results, and how the researcher validates the appropriateness and reliability of AI-generated contents, analyses or results.
+
+### Assessment of ethical questions in the research by the researcher responsible for the study
+
+Assessment of ethical risks in the use of AI and their significance, with a justification of why the use of AI is proportionate and appropriate with regard to the aims of the research.
+
+### Participant information sheet, consent form and other materials
+
+Description of the use of AI in an understandable form and to the extent that is relevant to research participants, for example the purposes for which AI is used and how it may affect data processing or research results.
+
+### Data management plan
+
+Description of how AI is used in the processing, analysis or generation of the data. An assessment of AI-related risks concerning data protection, information security and re-identification, the measures for managing these risks, and information on whether a data protection impact assessment in accordance with the GDPR has been carried out.
+
+### Privacy notice
+
+If personal data is processed in the research, a description of how AI is used and the measures to protect the data.
+
+## 4.3. Ethical considerations in AI development
+
+The AI recommendation further specifies how ethical principles for research should be applied in research involving the development of AI. It does not, however, address all ethical questions associated with such research.
+
+In addition to research ethics and research integrity, research projects that develop AI technologies should consider, from the start of the project, the impacts of the technologies in question. This means that researchers must not only ensure the ethical implementation of the research, but also anticipate and assess the long-term societal and environmental impacts of the innovations they develop, and seek ways to manage potential risks during the course of the research. The ethics of AI cannot be examined separately from the applications of AI, the level of technological development or the contexts of societal use.
+
+Ethical questions must be considered throughout the lifecycle of the research and at all stages of the process. This includes:
+
+- defining the intended purpose of the AI system,
+- clarifying the role of the AI system with regard to human actors,
+- establishing and testing the principles that guide planning and use,
+- implementing the software and selecting the data used to train the system,
+- training the users and
+- the interaction between users and the AI system.
+
+When AI systems operate within people’s social, psychological and physical environments, it is essential to examine the impacts of AI use on the communities that are affected by the deployment of these systems.
+
+# 5. Key guidelines, recommendations and regulations
+
+- All European Academies ALLEA (2023). *The European Code of Conduct for Research Integrity. Revised Edition 2023*. https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf (DOI: 10.26356/ECOC)
+- Beauchamp, T. and Childress, J. [1979] (2026). *Principles of Biomedical Ethics*. Oxford University Press.
+- ERA Forum stakeholders' document (2025). *Living guidelines on the responsible use of generative AI in research*. https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf
+- European Commission (2019). *Ethics Guidelines for Trustworthy AI*. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+- European Commission (2021). *Ethics by design and ethics of use approaches for artificial intelligence*. https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+- European Union (2016). Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation GDPR). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679
+- European Union (2024). Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689
+- Finnish National Board on Research Integrity TENK (2019). *Agreeing on authorship. Recommendation for research publications*. Publications of the Finnish National Board on Research Integrity TENK 6/2019. https://tenk.fi/sites/tenk.fi/files/TENK_suositus_tekijyys.pdf
+- Finnish National Board on Research Integrity TENK (2019). *The ethical principles for research with human participants and ethical review in the human sciences in Finland*. Publications of the Finnish National Board on Research Integrity TENK 3/2019. https://tenk.fi/sites/default/files/2021-01/Ethical_review_in_human_sciences_2020.pdf
+- Finnish National Board on Research Integrity TENK (2023). *The Finnish code of conduct for research integrity and procedures for handling alleged violations of research integrity in Finland*. Publications of the Finnish National Board on Research Integrity TENK 2/2023. https://tenk.fi/sites/default/files/2023-11/RI_Guidelines_2023.pdf
+- Finnish National Board on Research Integrity TENK (2026). *Ethical principles for research involving nature and the environment and a proposal for organising ethical review in Finland*. Recommendation of the Finnish National Board on Research Integrity TENK. Publications of the Finnish National Board on Research Integrity TENK 5/2026 (NERE; in Finnish, LYTE).
+- High-Level Expert Group on AI (2019). *Ethics Guidelines for Trustworthy AI*. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+- Non-Discrimination Ombudsman (Finland). *Artificial intelligence and non-discrimination*. https://yhdenvertaisuusvaltuutettu.fi/en/artificial-intelligence-and-equality
+- OECD (2024). *OECD AI Principles*. https://www.oecd.org/en/topics/ai-principles.html
+- Office of the Data Protection Ombudsman (Finland). *AI systems and data protection*. https://tietosuoja.fi/en/ai-systems-and-data-protection
+- United Nations Educational, Scientific and Cultural Organization UNESCO (2022). *Recommendation on the Ethics of Artificial Intelligence*. https://unesdoc.unesco.org/ark:/48223/pf0000381137
+- United Nations Educational, Scientific and Cultural Organization UNESCO (2023). *Guidance for generative AI in education and research*. https://unesdoc.unesco.org/ark:/48223/pf0000386693
+
+# Appendix 1. Preparation of the recommendation
+
+The recommendation was drawn up in the project Ethics of AI (Tekoälyn tutkimusetiikkaa) funded by The Ministry of Education and Culture (2023-2026). TENK appointed a working group in 2025 to draft the recommendation.
+
+Working group:
+
+- Simo Kyllönen (Chair), University Lecturer, University of Helsinki and TENK
+- Christian Guckelsberger, Associate Professor, Aalto University
+- Ville Heilala, University Researcher, University of Jyväskylä
+- Emmi Heinisuo, Research Scientist, VTT
+- Anu Helkkula, Research Funding Specialist, Hanken School of Economics
+- Marja Matinmikko-Blue, Research Director, University of Oulu
+- Heidi Partti, Professor, University of the Arts Helsinki
+- Ville Rantanen, Senior Specialist, Tampere University
+- Jarkko Reittu, Data Protection Officer, Finnish Institute for Health and Welfare (THL)
+- Karoliina Snell, University Researcher, University of Helsinki
+- Anna-Mari Wallenberg, University Lecturer, University of Helsinki
+
+Representation of TENK's secretariat:
+
+- Iina Kohonen, Project Coordinator, secretary of the working group
+- Petra Falin, Lead Adviser, secretary of the steering group
+- Kalle Videnoja, Adviser
+
+The work was supported by a steering group.
+
+Steering group:
+
+- Riitta Salmelin (Chair), Professor, Aalto University
+- Iina Koskinen, Science and Executive Director, Maj and Tor Nessling Foundation
+- Maija Miettinen, General Secretary, National Advisory Board on Social Welfare and Health Care Ethics (ETENE)
+- Mari Riipinen, Customer Solutions Manager, CSC – IT Center for Science
+- Sanna-Kaisa Spoof, Secretary General, TENK
+- Mika Viljanen, Professor, University of Turku
+- Stina Westman, Director, Digitalia Research Unit, South-Eastern Finland University of Applied Sciences
+
+In February 2026, TENK requested feedback of the recommendation draft from all universities, universities of applied sciences, research institutes, other organisations committed to the RI guidelines and the ERHS (IEEA) guidelines, as well as other key stakeholders.
+
+The AI recommendation was approved at the board meeting of TENK on 15 April 2026. It was published in June 2026.
+
+# FOOTNOTES
+
+1 AI systems related to research include, for example, generative AI (including large language models), embedded AI tools (e.g. language checking), machine learning systems, and agentic AI that performs chained autonomous functions.
+
+2 AI literacy means 'skills, knowledge and understanding that allow providers, deployers and affected persons, taking into account their respective rights and obligations in the context of this Regulation, to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause'. Regulation (EU) 2024/1689, Article 3(56)
+
+3 *Agreeing on authorship. Recommendation for research publications.* Finnish National Board on Research Integrity TENK 2019.
+
+4 *Ethical principles for research involving nature and the environment and a proposal for organising ethical review in Finland.* Recommendation of the Finnish National Board on Research Integrity TENK 2026 (NERE; in Finnish, LYTE).
+
+5 The EU Artificial Intelligence Act (Regulation (EU) 2024/1689 of the European Parliament and of the Council) does not apply to systems developed exclusively for scientific research. The Regulation should not restrict research, testing or development prior to systems being placed on the market or put into service. When a system resulting from such activities is put into service or placed on the market, the Regulation must be complied with. Regulation (EU) 2024/1689, recital 25. (Eur-Lex)
+
+6 For more information on AI and data protection in Finland, see the Office of the Data Protection Ombudsman: AI systems and data protection. (Tietosuojavaltuutetun toimisto)
+
+7 TENK follows and draws from international cooperation to develop a uniform standard for disclosing the use of AI.
+
+8 Data may become biased for example due to the training data of the AI system, the algorithms used or the prompts provided by the user.
+
+14 For example, research within the scope of the Medical Research Act (488/1999) is reviewed by regional ethics committees in hospitals. Research involving the use of animals, as regulated by the Act on the Protection of Animals Used for Scientific or Educational Purposes (97/2013), is in turn reviewed by the Project Authorisation Board (Hankelupalautakunta) operating under the Finnish Food Authority.
+
+15 Regulation (EU) 2024/1689, Article 6; see Annex III for further details. https://eur-lex.europa.eu/legal-content/FL/TXT/HTML/?uri=OJ:L_202401689#anx_III
+
+16 Where relevant, compliance with EU legislation on the export control of dual-use items must be ensured. Regulation (EU) 2021/821 of the European Parliament and of the Council establishing a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items: https://eur-lex.europa.eu/eli/reg/2021/821/oj
+
+17 European Commission (2019). Ethics Guidelines for Trustworthy AI (2019). https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai; European Commission (2021). Ethics by design and ethics of use approaches for artificial intelligence. https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf

@@ -1,0 +1,1328 @@
+{
+  "doc_id": "nwo_1_0",
+  "segments": [
+    {
+      "id": 1,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The emergence of generative artificial intelligence (GAI) has prompted NWO to develop a policy framework for the use of GAI. This development is evolving rapidly, and NWO would like to provide clarity on how to use GAI in its processes.",
+      "repaired": false
+    },
+    {
+      "id": 2,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "Generative AI can generate content (text, images, code, sound, etc.). Text-generating AI is based on language models, also called large language models (LLMs), and image-generating AI is usually based on diffusion models.",
+      "repaired": false
+    },
+    {
+      "id": 3,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "Generative AI applications are becoming more widely available, and GAI is increasingly being integrated into widely used applications such as search engines and office applications such as word processors. This presents NWO and the scientific community with questions about the use of GAI.",
+      "repaired": false
+    },
+    {
+      "id": 4,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "NWO has formulated the policy framework and guidelines for use of GAI for three target groups: applicants, assessors and NWO staff. These target groups have a relationship with NWO involving the (confidential) processing of data. In addition, for each target group, there are ethical and practical issues surrounding the application of GAI.",
+      "repaired": false
+    },
+    {
+      "id": 5,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The policy framework and guidelines are followed by a rationale explaining how NWO developed its policy on GAI. The rationale also shows how NWO’s policy framework aligns with other national and international policies on GAI.",
+      "repaired": false
+    },
+    {
+      "id": 6,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "NWO aims to use its GAI policy to provide the defined target groups with clarity on the framework within which GAI can be used and where its use is excluded.",
+      "repaired": false
+    },
+    {
+      "id": 7,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "NWO's core values are the foundation of NWO policies. NWO aims to be pioneering, engaged, reliable and to connect. NWO's generative AI policy is an elaboration of the core value reliable. This core value stands for NWO's commitment to acting with integrity, transparency, and diligence.",
+      "repaired": false
+    },
+    {
+      "id": 8,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "In addition to its core values, NWO also endorses the Netherlands Code of Conduct for Research Integrity, which upholds the values of honesty, meticulousness, transparency, independence, and responsibility. Both sets of values serve as guiding principles for NWO's policy on generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 9,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "Sustainability is also a key objective for NWO. NWO is committed to reducing the environmental footprint of research and researchers, and NWO aims to be carbon neutral by 2030.",
+      "repaired": false
+    },
+    {
+      "id": 10,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "This means that NWO and its staff aim to apply GAI with integrity and responsibility by:",
+      "repaired": false
+    },
+    {
+      "id": 11,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Being *transparent* about NWO's potential use of GAI.",
+      "repaired": false
+    },
+    {
+      "id": 12,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Establishing frameworks for applicants, evaluators and NWO staff and implementing measures to ensure the *meticulous* use of GAI.",
+      "repaired": false
+    },
+    {
+      "id": 13,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Ensuring that NWO applies GAI in an *honest* way.",
+      "repaired": false
+    },
+    {
+      "id": 14,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Only using GAI that ensures NWO's *independence*.",
+      "repaired": false
+    },
+    {
+      "id": 15,
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "text": "- Prioritising *sustainability* by favouring the use of greener, transparent, and responsibly trained GAI and putting this preference into practice – extending this approach to other cloud services such as office environments, email and search engines.",
+      "repaired": false
+    },
+    {
+      "id": 16,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "In addition to its values framework, NWO is bound by applicable laws and regulations. Applicable laws and regulations for NWO's policy on generative AI include those related to human rights, privacy law, intellectual property law (including copyright), administrative law and information security.",
+      "repaired": false
+    },
+    {
+      "id": 17,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "NWO aims to be a learning organisation and works with a monitoring, evaluating, and learning (MEL) system. Therefore, NWO's policy on generative AI will be evaluated every four years. In addition, rapid developments in the field of AI make it necessary to perform an annual 'plan, do, check, act' (PDCA) cycle. The policy on AI thus keeps pace with the latest developments in the field of AI.",
+      "repaired": false
+    },
+    {
+      "id": 18,
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "text": "Applicants are welcome to use GAI when preparing a grant application, provided they do so responsibly.",
+      "repaired": false
+    },
+    {
+      "id": 19,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "The following guidelines apply. These guidelines are limited to the writing of applications. For the use of GAI in the research for which a grant is being applied for, NWO refers applicants to the guidelines of the (research) institutions where they work, the Netherlands Code of Conduct for Research Integrity and the European guidelines for the responsible use of GAI in research.",
+      "repaired": false
+    },
+    {
+      "id": 20,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "- Applicants are always ultimately responsible for the content of the application. The use of GAI carries the risk of plagiarism or incorrect citation of sources, as the systems do not always cite the (correct) sources in the generated output.",
+      "repaired": false
+    },
+    {
+      "id": 21,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- Generative AI models are not authors or co-authors. The applicants, or the authors of the proposal, should review the output generated by GAI for accuracy, bias, integrity, and completeness and add the appropriate citations.",
+      "repaired": false
+    },
+    {
+      "id": 22,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- To do this effectively, applicants should be aware of the limitations of GAI, such as the risk of model bias, plagiarism, and incomplete, fabricated and/or erroneous output.",
+      "repaired": false
+    },
+    {
+      "id": 23,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- Applicants should be aware of the risks of using GAI in relation to the sharing of confidential information, such as personal data and intellectual property. Information entered into a GAI application, including text, data, and prompts, may be stored by a GAI application and reused for other purposes, such as improving the underlying language model or chat functionality. As a result, confidential information may be shared with other GAI users.",
+      "repaired": false
+    },
+    {
+      "id": 24,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- For this reason, NWO advises against entering confidential information into a GAI application.",
+      "repaired": false
+    },
+    {
+      "id": 25,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Applicants should respect national and international laws and guidelines when using the GAI, as well as the Netherlands Code of Conduct for Research Integrity, the General Data Protection Regulation and any guidelines of their own (research) institution.",
+      "repaired": false
+    },
+    {
+      "id": 26,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- Applicants should be transparent about the use of GAI when writing the application. If GAI is used as a source, this should be added into the source section of the application.",
+      "repaired": false
+    },
+    {
+      "id": 27,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "Evaluators assess the content of submitted grant applications. The use of GAI is entirely prohibited in the evaluation of an application.",
+      "repaired": false
+    },
+    {
+      "id": 28,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- The exclusion of the use of GAI by assessors stems from the confidentiality obligation (Article 2:5 of the General Administrative Law Act). Assessors are obliged to keep confidential all information of a confidential nature that they obtain in the course of their work for NWO.",
+      "repaired": false
+    },
+    {
+      "id": 29,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "The contents of an application (including annexes and the public summary), referee reports and assessment reports (including preliminary advice) constitute confidential information. Entering information from an application, referee report or assessment report into a GAI application constitutes a breach of confidentiality. This is because information entered into a GAI application often becomes part of the data on which the GAI application is further developed.",
+      "repaired": false
+    },
+    {
+      "id": 30,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- In addition, NWO has a 'duty of verification' (Article 3:9 of the General Administrative Law Act). This duty of verification requires NWO to ensure that the evaluation carried out by the assessors has been conducted in a meticulous manner. The use of GAI complicates this verification process, as it is often impossible to determine how GAI was used and what influence its output had on the assessors' recommendation.",
+      "repaired": false
+    },
+    {
+      "id": 31,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- The use of GAI also has other significant drawbacks, such as the risk of bias and incomplete, fabricated and/or erroneous output. The exclusion of GAI from the evaluation promotes the non-discriminatory, transparent, and independent evaluation of applications, as referred to in Article 2.1.1(1) of the 2017 NWO Grant Rules.",
+      "repaired": false
+    },
+    {
+      "id": 32,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "NWO employees may only use GAI applications that have been approved and made available in accordance with the (IT) purchase and change management process. These processes consider standards for quality, transparency, integrity, information security, confidentiality (including security-by-design and privacy-by-design) and other applicable laws and regulations. The use of applications not provided by NWO, such as ChatGPT, Gemini and Midjourney, is therefore strictly prohibited.",
+      "repaired": false
+    },
+    {
+      "id": 33,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "- NWO employees are ultimately responsible for the content of their work.",
+      "repaired": false
+    },
+    {
+      "id": 34,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- NWO employees should always review and correct the output generated by GAI for integrity, accuracy, and completeness.",
+      "repaired": false
+    },
+    {
+      "id": 35,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- To do this effectively, NWO employees should be aware of the limitations of GAI, such as the risk of bias, plagiarism, and incomplete, fabricated and/or erroneous output.",
+      "repaired": false
+    },
+    {
+      "id": 36,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "- It is not permitted to use GAI in the evaluation process, except for administrative work. This means that NWO staff are not permitted to use GAI to write (draft) motivations or prepare the (draft) statements of defence during an appeal process.",
+      "repaired": false
+    },
+    {
+      "id": 37,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "- If there is any doubt about whether a particular task in the evaluation process is purely administrative, then, in first instance, the 'head of Operations' of the relevant domain is authorised to decide whether the use of GAI is justified. If they individually, or together with the other 'heads of Operations', are unable to take a decision, the issue is referred to the central 'Operations & Quality (P&K) meeting'.",
+      "repaired": false
+    },
+    {
+      "id": 38,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- The entry of personal data in GAI applications should occur in accordance with NWO's privacy policy, guidelines and procedures. It is not permitted to enter special categories of personal data in a GAI application, unless prior consultation has taken place with the Privacy Office.",
+      "repaired": false
+    },
+    {
+      "id": 39,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "- NWO staff should be transparent about the use of GAI.",
+      "repaired": false
+    },
+    {
+      "id": 40,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "The reason for developing the NWO policy on generative AI is the wide distribution and availability of GAI applications. As a result, NWO and the scientific community are faced with practical and ethical questions about the use of AI.",
+      "repaired": false
+    },
+    {
+      "id": 41,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "These include the following questions:",
+      "repaired": false
+    },
+    {
+      "id": 42,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- The reliability of the output generated by GAI applications, as it regularly contains so-called hallucinations.",
+      "repaired": false
+    },
+    {
+      "id": 43,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- The fairness of using of GAI, as the output is regularly generated from training data obtained without the consent of the owners, which means the underlying model is to some degree based on plagiarism, and because the underlying language models contain bias.",
+      "repaired": false
+    },
+    {
+      "id": 44,
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "text": "- The confidentiality of the data entered into GAI applications.",
+      "repaired": false
+    },
+    {
+      "id": 45,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "It was due to these and various other issues that NWO decided to develop its policy on generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 46,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "NWO is transparent about how policy is created. In developing the NWO policy on generative AI, NWO relied on or was inspired by various (inter)national guidelines, in addition to the laws and regulations mentioned above:",
+      "repaired": false
+    },
+    {
+      "id": 47,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Netherlands Code of Conduct for Research Integrity",
+      "repaired": false
+    },
+    {
+      "id": 48,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Living guidelines on the responsible use of generative AI in research",
+      "repaired": false
+    },
+    {
+      "id": 49,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Government-wide vision on generative AI and the preliminary position of government organisations on the use of generative AI (in Dutch): Voorlopig standpunt voor Rijksorganisaties bij het gebruik van generatieve AI",
+      "repaired": false
+    },
+    {
+      "id": 50,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Rathenau Scan Generative AI",
+      "repaired": false
+    },
+    {
+      "id": 51,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "- Policies and preliminary positions on GAI from various sister funding councils.",
+      "repaired": false
+    },
+    {
+      "id": 52,
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "text": "It is important for NWO to coordinate with different stakeholders to arrive at a relevant, applicable, and high-quality policy. Therefore, several meetings were organised with internal and external stakeholders and experts to gather insights and feedback for the development of NWO's policy on generative AI.",
+      "repaired": false
+    },
+    {
+      "id": 53,
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "text": "Developments around GAI are advancing rapidly. The progress and applications of GAI models are moving at lightning speed. For this reason, NWO considers its policy on GAI to be a living document that will be regularly updated according to the latest developments in GAI.",
+      "repaired": false
+    },
+    {
+      "id": 54,
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "text": "this paper outlines a policy framework that focuses specifically on the use of gai, rather than other types of taskspecific ai designed to analyse existing data.",
+      "repaired": true
+    },
+    {
+      "id": 55,
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "text": "nwo's gai policy is based on one objective and three pillars: a valueframework, a regulatoryframework, and monitoring and evaluation.",
+      "repaired": true
+    },
+    {
+      "id": 56,
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "text": "reasons for excluding the use of gai by assessors",
+      "repaired": true
+    },
+    {
+      "id": 57,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "guidelines for nwo employees when using the applications provided by nwo, the following guidelines apply:",
+      "repaired": true
+    },
+    {
+      "id": 58,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "government's definition: 'generative ai is a form of artificial intelligence that is capable of generating text, audio, images, computer code and video. unlike taskspecific ai, which is limited to analysing existing data, generative ai focuses on creating new outcomes based on existing data.'",
+      "repaired": true
+    },
+    {
+      "id": 59,
+      "B": "B1",
+      "B_label": "definition of AI",
+      "text": "rathenau's definition: 'the term \"generative ai\" (gai) refers to ai systems that can create content automatically, at the request of a user.'",
+      "repaired": true
+    },
+    {
+      "id": 60,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "applicants are individuals or institutions applying for grants from nwo.",
+      "repaired": true
+    },
+    {
+      "id": 61,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "assessors are defined as: reviewers, judges and members of assessment committees.",
+      "repaired": true
+    },
+    {
+      "id": 62,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "applicants who also act as evaluators in the same round are considered to be judges.",
+      "repaired": true
+    },
+    {
+      "id": 63,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "in the case of desk assessment, this guideline applies to nwo staff.",
+      "repaired": true
+    },
+    {
+      "id": 64,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "by nwo staff we mean anyone working at or on behalf of nwo.",
+      "repaired": true
+    },
+    {
+      "id": 65,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "in these guidelines, application also refers to the annexes that are part of the application.",
+      "repaired": true
+    },
+    {
+      "id": 66,
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "text": "special categories of personal data include racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, data concerning health, sexual behaviour or sexual orientation, genetic data and biometric data.",
+      "repaired": true
+    },
+    {
+      "id": 67,
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "text": "living guidelines on the responsible use of generative ai in research, european commission, directorate general for research and innovation, march 2024",
+      "repaired": true
+    },
+    {
+      "id": 68,
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "text": "examples of administrative work include the preparation of a verbatim transcript of a meeting or the translation of texts other than the assessment report and/or a statement of defence.",
+      "repaired": true
+    }
+  ],
+  "validation": {
+    "total": 68,
+    "matched": 68,
+    "unmatched_count": 0,
+    "unmatched": [],
+    "source_coverage": 0.927,
+    "uncovered_chars": 968,
+    "uncovered_gaps": 16,
+    "uncovered": [
+      {
+        "char_start": 0,
+        "char_end": 221,
+        "length": 221,
+        "text": "# nwo # source: https://www.nwo.nl/sites/nwo/files/mediafiles/nwo_policy_on_the_use_of_generative_ai_en_0.pdf # date: 2025-01-01 # category: guideline the hague, january 2025 dutch research council (nwo) # 1 introduction"
+      },
+      {
+        "char_start": 1695,
+        "char_end": 1719,
+        "length": 24,
+        "text": ". ## 2 policy framework"
+      },
+      {
+        "char_start": 1851,
+        "char_end": 1865,
+        "length": 14,
+        "text": ". ### 2.1 aim"
+      },
+      {
+        "char_start": 2021,
+        "char_end": 2047,
+        "length": 26,
+        "text": ". ### 2.2 value framework"
+      },
+      {
+        "char_start": 3423,
+        "char_end": 3454,
+        "length": 31,
+        "text": ". ### 2.3 regulatory framework"
+      },
+      {
+        "char_start": 3750,
+        "char_end": 3786,
+        "length": 36,
+        "text": ". ### 2.4 monitoring and evaluation"
+      },
+      {
+        "char_start": 4177,
+        "char_end": 4209,
+        "length": 32,
+        "text": ". # 3 guidelines for applicants"
+      },
+      {
+        "char_start": 4693,
+        "char_end": 4724,
+        "length": 31,
+        "text": ". ## guidelines for applicants"
+      },
+      {
+        "char_start": 6337,
+        "char_end": 6369,
+        "length": 32,
+        "text": ". # 4 guidelines for evaluators"
+      },
+      {
+        "char_start": 8044,
+        "char_end": 8070,
+        "length": 26,
+        "text": ". # 5 internal guidelines"
+      },
+      {
+        "char_start": 10014,
+        "char_end": 10035,
+        "length": 21,
+        "text": ". # 6 accountability"
+      },
+      {
+        "char_start": 11063,
+        "char_end": 11116,
+        "length": 53,
+        "text": ": netherlands code of conduct for research integrity"
+      },
+      {
+        "char_start": 12085,
+        "char_end": 12101,
+        "length": 16,
+        "text": ". **footnotes**"
+      },
+      {
+        "char_start": 13151,
+        "char_end": 13297,
+        "length": 146,
+        "text": "general data protection regulation nwo refers to an article by the american psychological association that explains how to cite gai as a source."
+      },
+      {
+        "char_start": 13481,
+        "char_end": 13525,
+        "length": 44,
+        "text": ". privacy policy, guidelines and procedures"
+      },
+      {
+        "char_start": 13769,
+        "char_end": 13984,
+        "length": 215,
+        "text": ". deutsche forschungsgemeinschaft (dfg, german research foundation), all european academies (allea), netherlands escience center, research council of finland, australian research council (arc), zonmw, wellcome trust"
+      }
+    ]
+  },
+  "projection": [
+    {
+      "char_start": 0,
+      "char_end": 225,
+      "text": "# NWO\n# Source: https://www.nwo.nl/sites/nwo/files/media-files/nwo_policy_on_the_use_of_generative_ai_en_0.pdf\n# Date: 2025-01-01\n# Category: guideline\n\nThe Hague, January 2025\nDutch Research Council (NWO)\n\n# 1 Introduction\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 225,
+      "char_end": 461,
+      "text": "The emergence of generative artificial intelligence (GAI) has prompted NWO to develop a policy framework for the use of GAI. This development is evolving rapidly, and NWO would like to provide clarity on how to use GAI in its processes.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 1,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 463,
+      "char_end": 625,
+      "text": "This paper outlines a policy framework that focuses specifically on the use of GAI, rather than other types of task-specific AI designed to analyse existing data.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 54,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 626,
+      "char_end": 847,
+      "text": "Generative AI can generate content (text, images, code, sound, etc.). Text-generating AI is based on language models, also called large language models (LLMs), and image-generating AI is usually based on diffusion models.",
+      "B": "B1",
+      "B_label": "definition of AI",
+      "segment_id": 2,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 848,
+      "char_end": 1137,
+      "text": "Generative AI applications are becoming more widely available, and GAI is increasingly being integrated into widely used applications such as search engines and office applications such as word processors. This presents NWO and the scientific community with questions about the use of GAI.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 3,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1139,
+      "char_end": 1479,
+      "text": "NWO has formulated the policy framework and guidelines for use of GAI for three target groups: applicants, assessors and NWO staff. These target groups have a relationship with NWO involving the (confidential) processing of data. In addition, for each target group, there are ethical and practical issues surrounding the application of GAI.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 4,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1481,
+      "char_end": 1706,
+      "text": "The policy framework and guidelines are followed by a rationale explaining how NWO developed its policy on GAI. The rationale also shows how NWO’s policy framework aligns with other national and international policies on GAI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 5,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1706,
+      "char_end": 1731,
+      "text": "\n\n## 2 Policy framework\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1731,
+      "char_end": 1866,
+      "text": "NWO's GAI policy is based on one objective and three pillars: a value-framework, a regulatory-framework, and monitoring and evaluation.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 55,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 1866,
+      "char_end": 1881,
+      "text": "\n\n### 2.1 Aim\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 1881,
+      "char_end": 2038,
+      "text": "NWO aims to use its GAI policy to provide the defined target groups with clarity on the framework within which GAI can be used and where its use is excluded.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 6,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2038,
+      "char_end": 2065,
+      "text": "\n\n### 2.2 Value framework\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 2065,
+      "char_end": 2351,
+      "text": "NWO's core values are the foundation of NWO policies. NWO aims to be pioneering, engaged, reliable and to connect. NWO's generative AI policy is an elaboration of the core value reliable. This core value stands for NWO's commitment to acting with integrity, transparency, and diligence.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 7,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2352,
+      "char_end": 2641,
+      "text": "In addition to its core values, NWO also endorses the Netherlands Code of Conduct for Research Integrity, which upholds the values of honesty, meticulousness, transparency, independence, and responsibility. Both sets of values serve as guiding principles for NWO's policy on generative AI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 8,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2643,
+      "char_end": 2819,
+      "text": "Sustainability is also a key objective for NWO. NWO is committed to reducing the environmental footprint of research and researchers, and NWO aims to be carbon neutral by 2030.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 9,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2821,
+      "char_end": 2909,
+      "text": "This means that NWO and its staff aim to apply GAI with integrity and responsibility by:",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 10,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2911,
+      "char_end": 2966,
+      "text": "- Being *transparent* about NWO's potential use of GAI.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 11,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 2967,
+      "char_end": 3098,
+      "text": "- Establishing frameworks for applicants, evaluators and NWO staff and implementing measures to ensure the *meticulous* use of GAI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 12,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3099,
+      "char_end": 3150,
+      "text": "- Ensuring that NWO applies GAI in an *honest* way.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 13,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3151,
+      "char_end": 3202,
+      "text": "- Only using GAI that ensures NWO's *independence*.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 14,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3203,
+      "char_end": 3455,
+      "text": "- Prioritising *sustainability* by favouring the use of greener, transparent, and responsibly trained GAI and putting this preference into practice – extending this approach to other cloud services such as office environments, email and search engines.",
+      "B": "B5",
+      "B_label": "principles/values underlying document or AI use",
+      "segment_id": 15,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3455,
+      "char_end": 3487,
+      "text": "\n\n### 2.3 Regulatory framework\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3487,
+      "char_end": 3784,
+      "text": "In addition to its values framework, NWO is bound by applicable laws and regulations. Applicable laws and regulations for NWO's policy on generative AI include those related to human rights, privacy law, intellectual property law (including copyright), administrative law and information security.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 16,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 3784,
+      "char_end": 3821,
+      "text": "\n\n### 2.4 Monitoring and evaluation\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 3821,
+      "char_end": 4213,
+      "text": "NWO aims to be a learning organisation and works with a monitoring, evaluating, and learning (MEL) system. Therefore, NWO's policy on generative AI will be evaluated every four years. In addition, rapid developments in the field of AI make it necessary to perform an annual 'plan, do, check, act' (PDCA) cycle. The policy on AI thus keeps pace with the latest developments in the field of AI.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 17,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4213,
+      "char_end": 4246,
+      "text": "\n\n# 3 Guidelines for applicants\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4246,
+      "char_end": 4348,
+      "text": "Applicants are welcome to use GAI when preparing a grant application, provided they do so responsibly.",
+      "B": "B6",
+      "B_label": "permitted or encouraged uses of AI",
+      "segment_id": 18,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4349,
+      "char_end": 4731,
+      "text": "The following guidelines apply. These guidelines are limited to the writing of applications. For the use of GAI in the research for which a grant is being applied for, NWO refers applicants to the guidelines of the (research) institutions where they work, the Netherlands Code of Conduct for Research Integrity and the European guidelines for the responsible use of GAI in research.",
+      "B": "B3",
+      "B_label": "scope/application of the document",
+      "segment_id": 19,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 4731,
+      "char_end": 4763,
+      "text": "\n\n## Guidelines for applicants\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 4763,
+      "char_end": 5006,
+      "text": "- Applicants are always ultimately responsible for the content of the application. The use of GAI carries the risk of plagiarism or incorrect citation of sources, as the systems do not always cite the (correct) sources in the generated output.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 20,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5008,
+      "char_end": 5234,
+      "text": "- Generative AI models are not authors or co-authors. The applicants, or the authors of the proposal, should review the output generated by GAI for accuracy, bias, integrity, and completeness and add the appropriate citations.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 21,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5236,
+      "char_end": 5411,
+      "text": "- To do this effectively, applicants should be aware of the limitations of GAI, such as the risk of model bias, plagiarism, and incomplete, fabricated and/or erroneous output.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 22,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5412,
+      "char_end": 5861,
+      "text": "- Applicants should be aware of the risks of using GAI in relation to the sharing of confidential information, such as personal data and intellectual property. Information entered into a GAI application, including text, data, and prompts, may be stored by a GAI application and reused for other purposes, such as improving the underlying language model or chat functionality. As a result, confidential information may be shared with other GAI users.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 23,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 5861,
+      "char_end": 5957,
+      "text": " For this reason, NWO advises against entering confidential information into a GAI application.\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 5957,
+      "char_end": 6213,
+      "text": "- Applicants should respect national and international laws and guidelines when using the GAI, as well as the Netherlands Code of Conduct for Research Integrity, the General Data Protection Regulation and any guidelines of their own (research) institution.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 25,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6214,
+      "char_end": 6392,
+      "text": "- Applicants should be transparent about the use of GAI when writing the application. If GAI is used as a source, this should be added into the source section of the application.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 26,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6392,
+      "char_end": 6425,
+      "text": "\n\n# 4 Guidelines for evaluators\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6425,
+      "char_end": 6562,
+      "text": "Evaluators assess the content of submitted grant applications. The use of GAI is entirely prohibited in the evaluation of an application.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 27,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6562,
+      "char_end": 6568,
+      "text": "\n\n### ",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 6568,
+      "char_end": 6617,
+      "text": "Reasons for excluding the use of GAI by Assessors",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 56,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6619,
+      "char_end": 6898,
+      "text": "- The exclusion of the use of GAI by assessors stems from the confidentiality obligation (Article 2:5 of the General Administrative Law Act). Assessors are obliged to keep confidential all information of a confidential nature that they obtain in the course of their work for NWO.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 28,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 6899,
+      "char_end": 7363,
+      "text": "The contents of an application (including annexes and the public summary), referee reports and assessment reports (including preliminary advice) constitute confidential information. Entering information from an application, referee report or assessment report into a GAI application constitutes a breach of confidentiality. This is because information entered into a GAI application often becomes part of the data on which the GAI application is further developed.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 29,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7364,
+      "char_end": 7783,
+      "text": "- In addition, NWO has a 'duty of verification' (Article 3:9 of the General Administrative Law Act). This duty of verification requires NWO to ensure that the evaluation carried out by the assessors has been conducted in a meticulous manner. The use of GAI complicates this verification process, as it is often impossible to determine how GAI was used and what influence its output had on the assessors' recommendation.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 30,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 7784,
+      "char_end": 8110,
+      "text": "- The use of GAI also has other significant drawbacks, such as the risk of bias and incomplete, fabricated and/or erroneous output. The exclusion of GAI from the evaluation promotes the non-discriminatory, transparent, and independent evaluation of applications, as referred to in Article 2.1.1(1) of the 2017 NWO Grant Rules.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 31,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8110,
+      "char_end": 8137,
+      "text": "\n\n# 5 Internal guidelines\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8137,
+      "char_end": 8617,
+      "text": "NWO employees may only use GAI applications that have been approved and made available in accordance with the (IT) purchase and change management process. These processes consider standards for quality, transparency, integrity, information security, confidentiality (including security-by-design and privacy-by-design) and other applicable laws and regulations. The use of applications not provided by NWO, such as ChatGPT, Gemini and Midjourney, is therefore strictly prohibited.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 32,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8617,
+      "char_end": 8730,
+      "text": "\n\n## Guidelines for NWO employees\n\nWhen using the applications provided by NWO, the following guidelines apply:\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 8730,
+      "char_end": 8803,
+      "text": "- NWO employees are ultimately responsible for the content of their work.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 33,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8805,
+      "char_end": 8924,
+      "text": "- NWO employees should always review and correct the output generated by GAI for integrity, accuracy, and completeness.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 34,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 8926,
+      "char_end": 9098,
+      "text": "- To do this effectively, NWO employees should be aware of the limitations of GAI, such as the risk of bias, plagiarism, and incomplete, fabricated and/or erroneous output.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 35,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9099,
+      "char_end": 9345,
+      "text": "- It is not permitted to use GAI in the evaluation process, except for administrative work. This means that NWO staff are not permitted to use GAI to write (draft) motivations or prepare the (draft) statements of defence during an appeal process.",
+      "B": "B7",
+      "B_label": "restricted or prohibited uses of AI",
+      "segment_id": 36,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9347,
+      "char_end": 9766,
+      "text": "- If there is any doubt about whether a particular task in the evaluation process is purely administrative, then, in first instance, the 'head of Operations' of the relevant domain is authorised to decide whether the use of GAI is justified. If they individually, or together with the other 'heads of Operations', are unable to take a decision, the issue is referred to the central 'Operations & Quality (P&K) meeting'.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 37,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 9767,
+      "char_end": 10050,
+      "text": "- The entry of personal data in GAI applications should occur in accordance with NWO's privacy policy, guidelines and procedures. It is not permitted to enter special categories of personal data in a GAI application, unless prior consultation has taken place with the Privacy Office.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 38,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10051,
+      "char_end": 10106,
+      "text": "- NWO staff should be transparent about the use of GAI.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 39,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10106,
+      "char_end": 10128,
+      "text": "\n\n# 6 Accountability\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 10128,
+      "char_end": 10362,
+      "text": "The reason for developing the NWO policy on generative AI is the wide distribution and availability of GAI applications. As a result, NWO and the scientific community are faced with practical and ethical questions about the use of AI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 40,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10363,
+      "char_end": 10401,
+      "text": "These include the following questions:",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 41,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10403,
+      "char_end": 10516,
+      "text": "- The reliability of the output generated by GAI applications, as it regularly contains so-called hallucinations.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 42,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10517,
+      "char_end": 10777,
+      "text": "- The fairness of using of GAI, as the output is regularly generated from training data obtained without the consent of the owners, which means the underlying model is to some degree based on plagiarism, and because the underlying language models contain bias.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 43,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10778,
+      "char_end": 10842,
+      "text": "- The confidentiality of the data entered into GAI applications.",
+      "B": "B10",
+      "B_label": "risks/limitations/concerns",
+      "segment_id": 44,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10844,
+      "char_end": 10945,
+      "text": "It was due to these and various other issues that NWO decided to develop its policy on generative AI.",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 45,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 10947,
+      "char_end": 11167,
+      "text": "NWO is transparent about how policy is created. In developing the NWO policy on generative AI, NWO relied on or was inspired by various (inter)national guidelines, in addition to the laws and regulations mentioned above:",
+      "B": "B4",
+      "B_label": "purpose/rationale (why a guideline)/document status",
+      "segment_id": 46,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11169,
+      "char_end": 11221,
+      "text": "- Netherlands Code of Conduct for Research Integrity",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 47,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11222,
+      "char_end": 11293,
+      "text": "- Living guidelines on the responsible use of generative AI in research",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 48,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11294,
+      "char_end": 11510,
+      "text": "- Government-wide vision on generative AI and the preliminary position of government organisations on the use of generative AI (in Dutch): Voorlopig standpunt voor Rijksorganisaties bij het gebruik van generatieve AI",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 49,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11511,
+      "char_end": 11540,
+      "text": "- Rathenau Scan Generative AI",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 50,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11541,
+      "char_end": 11622,
+      "text": "- Policies and preliminary positions on GAI from various sister funding councils.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 51,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11624,
+      "char_end": 11932,
+      "text": "It is important for NWO to coordinate with different stakeholders to arrive at a relevant, applicable, and high-quality policy. Therefore, several meetings were organised with internal and external stakeholders and experts to gather insights and feedback for the development of NWO's policy on generative AI.",
+      "B": "B9",
+      "B_label": "roles/accountability/oversight",
+      "segment_id": 52,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 11934,
+      "char_end": 12204,
+      "text": "Developments around GAI are advancing rapidly. The progress and applications of GAI models are moving at lightning speed. For this reason, NWO considers its policy on GAI to be a living document that will be regularly updated according to the latest developments in GAI.",
+      "B": "B12",
+      "B_label": "monitoring/revision/updating",
+      "segment_id": 53,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12204,
+      "char_end": 12665,
+      "text": "\n\n---\n\n**FOOTNOTES**\n\nGovernment’s definition: ‘Generative AI is a form of artificial intelligence that is capable of generating text, audio, images, computer code and video. Unlike task-specific AI, which is limited to analysing existing data, generative AI focuses on creating new outcomes based on existing data.’\n\nRathenau’s definition: ‘The term “generative AI” (GAI) refers to AI systems that can create content automatically, at the request of a user.’\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 12665,
+      "char_end": 12737,
+      "text": "Applicants are individuals or institutions applying for grants from NWO.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 60,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12739,
+      "char_end": 12820,
+      "text": "Assessors are defined as: Reviewers, judges and members of assessment committees.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 61,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12821,
+      "char_end": 12905,
+      "text": "Applicants who also act as evaluators in the same round are considered to be judges.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 62,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12906,
+      "char_end": 12974,
+      "text": "In the case of desk assessment, this guideline applies to NWO staff.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 63,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 12976,
+      "char_end": 13035,
+      "text": "By NWO staff we mean anyone working at or on behalf of NWO.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 64,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13037,
+      "char_end": 13130,
+      "text": "In these guidelines, application also refers to the annexes that are part of the application.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 65,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13132,
+      "char_end": 13283,
+      "text": "Living guidelines on the responsible use of generative AI in research, European Commission, Directorate General for Research and Innovation, March 2024",
+      "B": "B11",
+      "B_label": "training/support/learning resources",
+      "segment_id": 67,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13283,
+      "char_end": 13432,
+      "text": "\n\nGeneral Data Protection Regulation\n\nNWO refers to an article by the American Psychological Association that explains how to cite GAI as a source.\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13432,
+      "char_end": 13617,
+      "text": "Examples of administrative work include the preparation of a verbatim transcript of a meeting or the translation of texts other than the assessment report and/or a statement of defence.",
+      "B": "B8",
+      "B_label": "required safeguards/procedures for AI",
+      "segment_id": 68,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13617,
+      "char_end": 13662,
+      "text": "\n\nPrivacy policy, guidelines and procedures\n\n",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    },
+    {
+      "char_start": 13662,
+      "char_end": 13907,
+      "text": "Special categories of personal data include racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, data concerning health, sexual behaviour or sexual orientation, genetic data and biometric data.",
+      "B": "B2",
+      "B_label": "other definitions/terminology",
+      "segment_id": 66,
+      "match_type": "exact"
+    },
+    {
+      "char_start": 13907,
+      "char_end": 14123,
+      "text": "\n\nDeutsche Forschungsgemeinschaft (DFG, German Research Foundation), All European Academies (ALLEA), Netherlands eScience Center, Research Council of Finland, Australian Research Council (ARC), ZonMw, Wellcome Trust.",
+      "B": "skip",
+      "B_label": "structural/metadata",
+      "segment_id": null,
+      "match_type": "gap"
+    }
+  ]
+}

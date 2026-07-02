@@ -1,13 +1,297 @@
 # HTWK Leipzig
-# Source: https://idll.htwk-leipzig.de/digital-distanzlehre/kuenstliche-intelligenz/einfuehrung
+# Source: https://idll.htwk-leipzig.de/fileadmin/portal/htwk/hochschule/03_struktur_und_verwaltung/a_hochschulleitung/3_pb/ueber_den_prorektor_bildung/Hochschuldidaktik_/2023-07-17_Diskussionspapier_KI.pdf
 # Date: 2023-07-17
 # Category: guideline
-# Download file: htwk-leipzig_1_0.html
+# Download file: htwk-leipzig_1_0.pdf
 # Extraction: mistral-ocr
 
-Generative KI-Tools sind in der breiten Wahrnehmung vor allem durch ChatGPT bekannt geworden, einen KI-Chatbot, der menschliche Texteingaben "versteht" und darauf basierend z.B. neue Texte generieren, bestehende verändern oder zusammenfassen kann. Er kann aber auch Code schreiben oder auf Fehler überprüfen. Die Ergebnisse sind nur schwer von menschengemachten Produkten zu unterscheiden. Um einen neuen Text zu generieren, analysiert das Tool eine große Menge bereitgestellter Textdaten. Neben textorientierten KI-Tools sind auch eine Vielzahl von KI-basierten Bildgeneratoren verfügbar, die es erlauben Bilder, Visualisierungen oder Zeichnungen nach textbasierten Vorgaben zu erstellen oder Bilder zu verfremden. Stimm- und Tongeneratoren oder Tools zur Erstellung und Bearbeitung von Videosequenzen stehen ebenfalls inzwischen zur Verfügung.
-Aus Sicht der HTWK Leipzig ist es wichtig, (generative) KI-Tools nicht zu ignorieren. Es ist zu erwarten, dass diese neue Technologie künftig einen weit verbreiteten Einsatz in der Arbeits- und Wissenschaftswelt finden wird. Daher sollten wir sie bewusst und im Einklang mit den rechtlichen Regelungen in Studium und Lehre thematisieren und diskutieren. Dies ist auch eine Voraussetzung dafür, einen möglichen Missbrauch einzuschränken.
-Wissenschaftliche Redlichkeit
-KI-basierte Instrumente werden irgendwann zum studentischen und beruflichen Alltag gehören und können – sofern sinnvoll und richtig eingesetzt – bei der Bewältigung von Aufgaben hilfreich sein. Sie bieten zudem Anlass, die Sinnhaftigkeit soliden wissenschaftlichen Arbeitens zu reflektieren. Hierzu gehört auch, dass durch KI erzeugte Texte oder sonstige Leistungen nicht als eigene Arbeitsergebnisse präsentiert werden dürfen und der Einsatz nur im Einklang mit hochschul-, urheber- und datenschutzrechtlichen Bestimmungen erfolgen darf.
-Befähigung zur Selbstverantwortung
-Als Hochschule sollten wir den Studierenden ermöglichen, die Chancen und Risiken dieser Instrumente zu verstehen und abzuwägen, sowie sie im Umgang damit zu sensibilisieren. Vor dem Hintergrund, dass alle Hilfsmittel ihre Grenzen haben, sollen die Studierenden dazu befähigt werden, die Ergebnisse von KI-basierten Impulsen zu überprüfen und erst dann mit ihnen weiterzuarbeiten, wenn diese bestätigt und gegebenenfalls überarbeitet wurden. Im Ergebnis muss den Studierenden bewusst sein, dass sie ihre Arbeitsergebnisse stets selbst verantworten.
+# Empfehlungen zum Umgang mit KI-Tools in der Lehre
+
+Diskussionspapier für Lehrende an der HTWK Leipzig
+
+(Stand 17.07.2023, Verfasser: hochschulinterne AG unter Leitung des Prorektorats Bildung der HTWK Leipzig)
+
+**HTWK**
+
+Hochschule für Technik,  
+Wirtschaft und Kultur Leipzig
+
+---
+
+# Inhalt
+
+Hintergrund und Ziel des Diskussionspapiers 2
+Was sind generative KI-Tools? 2
+Grundsätzlicher Umgang mit generativen KI-Tools 3
+Auswirkungen auf die Lehre 3
+Auswirkungen auf die Bewertung von Prüfungsleistungen 4
+Auswirkungen auf Prüfungsarten 5
+Empfehlungen 6
+Vorläufige datenschutzrechtliche Beurteilung 10
+Ausblick 10
+Muster einer Selbständigkeitserklärung bei erlaubtem Einsatz von KI-Tools 12
+Muster einer Selbständigkeitserklärung bei Verbot von KI-Tools 13
+
+1
+
+---
+
+## Hintergrund und Ziel des Diskussionspapiers
+
+In diesem Papier möchte die HTWK Leipzig erste Empfehlungen zum Umgang mit generativen KI-Tools wie ChatGPT, Jasper, Bard, Neuroflash, YOU_CHAT, DALL-E, Midjourney, Simplyfied, Starryai und anderen in der Lehre und im Bereich Prüfungen zusammenfassen. Ziel ist es, einen Rahmen für Lehre, Lernen und Prüfen zu schaffen. Diese Handreichung basiert auf dem Positionspapier der Hochschule Emden/Leer¹, das in seiner Kürze und Prägnanz eine hervorragende Grundlage für die Auseinandersetzung mit KI-Tools auch an der HTWK Leipzig bietet. Dieses Positionspapier folgt wiederum den Empfehlungen und Veröffentlichungen des Hochschulforums Digitalisierung (siehe u. a. HFD 2023; Friedrich/Tobor 2023) als zentralem Impulsgeber bei der Gestaltung der Hochschulbildung im digitalen Zeitalter. Die Auskünfte des Datenschutzbeauftragten der HTWK Leipzig wurden bei der Erarbeitung dieser Empfehlungen berücksichtigt, ebenso die Ergebnisse aus der KI-Kurzbefragung der Lehrenden der HTWK Leipzig im April 2023.
+
+Die in diesem Diskussionspapier beschriebenen Auswirkungen auf Lehre und Prüfungen sowie die daraus abgeleiteten Empfehlungen ersetzen nicht die notwendige Debatte unter den Lehrenden und Studierenden der HTWK Leipzig. Diesen Diskurs werden wir in verschiedenen Formaten beispielsweise bei einem Lunch&Learn, digitalen Austauschrunden unter Moderation der HD-Referentin oder hochschulübergreifenden Veranstaltungen des HDS führen. Die Inhalte des Diskussionspapiers werden in Abhängigkeit des hochschulinternen und gesellschaftlichen Diskurses regelmäßig aktualisiert.
+
+## Was sind generative KI-Tools?
+
+Generative KI-Tools sind in der breiten Wahrnehmung vor allem durch ChatGPT bekannt geworden. Es handelt sich um einen KI-Chatbot, der menschliche Texteingaben einschließlich Anweisungen versteht und darauf basierend neue Texte generieren kann. Hierzu werden KI Sprachmodelle wie z.B. GPT-3.5 (Generative Pretrained Transformer) eingesetzt. Die Einsatzmöglichkeiten der Tools sind vielfältig. ChatGPT kann beispielsweise „Fragen beantworten, Gedichte schreiben, Tweets verfassen, Codezeilen ausgeben, Texte zusammenfassen und vieles mehr“ (Strathmann, 2022). Die Ergebnisse sind nur schwer von solchen zu unterscheiden, die von Menschen geschrieben wurden. Um einen neuen Text zu generieren, analysiert das Tool eine große Menge bereitgestellter Textdaten. Generative KI-Tools können auch als Schreibassistent fungieren, indem sie Vorschläge für mögliche Verbesserungen von Texten im Sinne des Schreibstils oder der Grammatik liefern. Wie bei allen Sprachmodellen sind die Ergebnisse generativer KI-Tools nur so gut wie die Daten, mit denen die KI trainiert wurde. Neben textorientierten KI-Tools sind auch eine Vielzahl von KI-basierten Bildgeneratoren verfügbar, die es erlauben Bilder, Visualisierungen oder Zeichnungen nach textbasierten Vorgaben zu erstellen oder Bilder zu verfremden. Stimm- und Tongeneratoren oder Tools zur Erstellung und Bearbeitung von Filmsequenzen stehen ebenfalls inzwischen zur Verfügung.
+
+¹ Dieses Papier basiert in Teilen auf einem Positionspapier der Hochschule Emden/Leer und wird mit Genehmigung des Verfassers verwendet. Es wurde weiterentwickelt und auf die Lage der HTWK Leipzig angepasst (https://www.hs-emden-leer.de/fileadmin/user_upload/cd/Positionspapier_KI_Tools_V10.pdf).
+
+2
+
+---
+
+# Grundsätzlicher Umgang mit generativen KI-Tools
+
+Aus Sicht der HTWK Leipzig ist es wichtig, (generative) KI-Tools nicht zu ignorieren oder gar zu verbieten. Es ist zu erwarten, dass diese neue Technologie künftig einen weit verbreiteten Einsatz in der Arbeits- und Wissenschaftswelt finden wird. Daher sollten wir sie sinnvoll und bewusst und im Einklang mit den rechtlichen Regelungen in Studium und Lehre thematisieren und diskutieren. Dies ist auch eine Voraussetzung dafür, einen möglichen Missbrauch einzuschränken.
+
+Große Anbieter von Suchmaschinen arbeiten bereits daran, ChatGPT oder ähnliche Chatbots zu nutzen, um künftig durch das Internet zu navigieren. KI-basierte Instrumente werden zum (beruflichen) Alltag unserer Studierenden gehören und können – sofern sinnvoll und richtig eingesetzt – eine wertvolle Hilfe bei der Bewältigung von Aufgaben darstellen. Die Europäische Kommission geht in ihrem Vorschlag für einen gemeinsamen Regulierungs- und Rechtsrahmen für künstliche Intelligenz davon aus, dass diese einen „vielfältigen Nutzen für Wirtschaft und Gesellschaft über das gesamte Spektrum industrieller und gesellschaftlicher Aktivitäten hinweg hervorbringen“ könnte (Europäische Kommission, 2021: 1). Für uns als Hochschule stellen die Instrumente eine weitere didaktische Möglichkeit dar, um mit den Studierenden die Sinnhaftigkeit und Vorteile einer wissenschaftlichen Herangehensweise zu reflektieren. Hierzu gehört auch, dass durch KI erzeugte Texte oder sonstige Leistungen nicht als eigene Arbeitsergebnisse präsentiert werden dürfen und der Einsatz im Einklang mit hochschulrechtlichen, urheberrechtlichen und datenschutzrechtlichen Bestimmungen erfolgt.
+
+Als Hochschule sollten wir den Studierenden ermöglichen, die Chancen und Risiken dieser Instrumente zu verstehen und abzuwägen, sowie sie im Umgang mit ChatGPT und vergleichbaren Instrumenten sensibilisieren. Vor dem Hintergrund, dass alle Hilfsmittel ihre Grenzen haben, sollen die Studierenden dazu befähigt werden, die Ergebnisse von KI-basierten Impulsen zu überprüfen und erst dann mit ihnen weiterzuarbeiten, wenn diese bestätigt und gegebenenfalls überarbeitet wurden. Im Ergebnis muss den Studierenden bewusst sein, dass sie ihre Arbeitsergebnisse stets selbst verantworten.
+
+# Auswirkungen auf die Lehre
+
+Aus Sicht der HTWK Leipzig ist die Fähigkeit, reflektiert und kritisch mit KI-basierten Instrumenten umzugehen und mit diesen vertraut zu sein, eine wichtige Kompetenz, die unsere Studierenden für ihre spätere berufliche Tätigkeit entwickeln sollten. Hierzu gehören neben den fachlichen auch ethische Aspekte sowie die Entwicklung einer eigenen Haltung im Umgang mit den Instrumenten.
+
+Genau wie bei der Verwendung anderer Quellen stellt die Fähigkeit zur kritischen Reflektion der (generierten) Informationen ein grundlegendes Werkzeug für die Nutzung von KI-Tools dar. Wir möchten alle Lehrenden ermutigen, dieses gemeinsam mit Studierenden zu entwickeln, um eine verantwortungsvolle wissenschaftliche Arbeitsweise mit KI zu etablieren.
+
+Dies bedeutet auch, KI-basierten Instrumenten offen zu begegnen, mit diesen zu experimentieren und den Umgang mit ihnen – sofern inhaltlich sinnvoll sowie mit den Lernzielen und Prüfungsanforderungen vereinbar – aktiv in die Lehre zu integrieren. Dieser Ansatz unterstützt auch den notwendigen Kompetenzaufbau in Bezug auf die KI-Tools bei den Lehrenden (vgl. Leschke/Salden, 2023). Der Einsatz der KI-Tools erfolgt dabei sowohl
+
+3
+
+---
+
+auf der Seite der Lehrenden als auch für die Studierenden freiwillig.² Studierende dürfen nicht verpflichtet werden, mit eigenen oder fremden personenbezogenen Echtdaten an KI-Tools zu arbeiten. Demonstrationen oder Eingaben von fiktiven Daten sind zulässig. Verschiedene Lehr-/Lern-Szenarien sind denkbar. Das Hochschuldidaktische Zentrum arbeitet derzeit auch daran, entsprechende Angebote zur Qualifizierung von Lehrenden zu erarbeiten (https://www.hd-sachsen.de/angebote).
+
+Inzwischen gibt es auch Zugang zu KI-basierten Chatbots (z.B. https://chatgpt.ch/), die keine Registrierung mit persönlichen Daten erfordern. Diese sind aus datenschutzrechtlicher Sicht zu bevorzugen, dennoch wäre immer noch zu beachten, dass beim Einsatz in Lehr-/Lern-Szenarien keine persönlichen Daten für die Eingaben verwendet werden sollten.
+
+Trotz dieser Empfehlung bleibt die grundgesetzlich geschützte Freiheit der Lehre selbstverständlich unberührt. Es obliegt den Lehrenden, die Verwendung von KI-basierten Instrumenten aktiv zu fördern, einzuschränken oder zu verbieten. Unabhängig davon, wie sich die Lehrenden in dieser Frage positionieren, empfehlen wir, die Studierenden regelmäßig auf die Grundprinzipien guter wissenschaftlicher Praxis hinzuweisen. Hierzu gehört auch, die möglichen Konsequenzen für die Bewertung von Prüfungsleistungen bei der Nutzung von KI-basierten Instrumenten transparent zu kommunizieren.
+
+## Auswirkungen auf die Bewertung von Prüfungsleistungen
+
+Trotz der oben dargestellten Empfehlung für einen offenen Umgang mit KI-basierten Instrumenten muss eines deutlich gemacht werden: Wenn Studierende eine Prüfungsleistung einreichen, die von KI-basierten Instrumenten generiert wurde, ohne dies entsprechend kenntlich zu machen, verstößt dieses Vorgehen gegen das Verbot, unzulässige Hilfsmittel zu verwenden. Die betreffende Prüfungsleistung ist daher i.d.R. mit „nicht ausreichend“ (5,0) zu bewerten. Unsere aktuell gültige Formulierung in den Prüfungsordnungen (§ 12 Abs. 4 Muster-SPO) und der Eigenständigkeitserklärung bei Abschlussarbeiten lässt hier keinen Spielraum zu. Die unmarkierte Übernahme von Texten oder Textbausteinen (KI-generiert oder nicht) ist als Verstoß bzw. Täuschungsversuch zu werten. Die unmarkierte Verwendung von KI-Programmen stellt zudem „in jedem Fall einen Verstoß gegen die Regeln guter wissenschaftlicher Praxis dar“ (Leschke/Salden, 2023: 32). Neben KI-basierten Werkzeugen, die vollständige Produkte (Texte, Codes, Bilder etc.) generieren, sind verschiedene Programme verfügbar, die eigene Produkte lediglich überarbeiten und verändern, beispielsweise durch das Paraphrasieren von Texten. Ob dies bei der Anfertigung von studentischen Arbeiten erlaubt sein soll, entscheiden Lehrende selbst. Hierbei sollte abgewogen werden, inwiefern neben reinem Faktenwissen auch z.B. Form, Ausdruck oder Argumentationslinien zum Kompetenzerwerb der Studierenden beitragen und dafür in der Bewertung berücksichtigt werden müssen.
+
+Auch wenn Lehrende die Verwendung von KI-basierten Instrumenten im Rahmen der zu erbringenden Prüfungsleistung zulassen, müssen die Studierenden auf deren Nutzung eindeutig hinweisen und diese dokumentieren. Möglich sind beispielsweise Screenshots der geführten Unterhaltung mit der KI oder eine
+
+² Ein verpflichtender Einsatz in der Lehre, insb. eine verpflichtende Nutzung der vorgestellten Instrumente durch die Studierenden, wird derzeit datenschutzrechtlich als nicht zulässig erachtet. Ein freiwilliger Einsatz erscheint möglich. In diesem Fall sollten die Studierenden über datenschutzrechtliche Aspekte informiert sein. Ferner sollten Tools gewählt oder empfohlen werden, die möglichst anonym genutzt werden können. Studierenden, die eine eigene Nutzung ablehnen, dürfen keine Nachteile entstehen, insbesondere muss es erlaubt sein, alternative Lernmethoden oder Settings zu KI zu nutzen.
+
+4
+
+---
+
+Darstellung der verwendeten Eingaben und Fragen (Prompts) an den Chatbot. Zur Überprüfbarkeit ist jedoch anzumerken, das gleiche Anfragen aufgrund eines randomisierten Algorithmus zu (sehr) unterschiedlichen Ergebnissen führen können (Leschke/Salden 2023). Unabhängig davon sind die Studierenden für mögliche (inhaltliche oder sachliche) Fehler auch dann selbst verantwortlich, wenn diese von KI-basierten Instrumenten generiert wurden. Dies schließt auch Quellenangaben ein, die im Fall von ChatGPT fehlerhaft sein können. Aufgrund der Funktionsweise der KI ist es möglich, dass nichtexistierende Quellen ausgegeben werden (Leschke/Salden 2023). Es sind jedoch auch Tools verfügbar, die Quellen korrekt ausgegeben und benennen, z.B. https://elicit.org oder die App Perplexity. Im Sinne guter wissenschaftlicher Praxis müssen selbstverständlich auch diese Quellen durch die Studierenden überprüft werden.
+
+Derzeit bestehen nur wenige Möglichkeiten, KI-generierte Texte zweifelsfrei als solche zu identifizieren. Damit sind auch die Möglichkeiten zum Ergreifen von Sanktionen begrenzt. Es ist daher wichtig, dass auch die Studierenden den Wert einer eigenständig erstellten wissenschaftlichen Arbeit verinnerlichen und zu einer eigenverantwortlichen Kennzeichnung verwendeter Hilfsmittel angehalten werden. In begründeten Zweifelsfällen können Studierende angehört und befragt werden, um zum Verdacht einer ungekennzeichneten Nutzung von KI-Tools Stellung zu nehmen.
+
+## Auswirkungen auf Prüfungsarten
+
+Es ist davon auszugehen, dass ortsungebundene ³ Prüfungsleistungen, die auf untere Lern- oder Kompetenzziele (wie bspw. die Reproduktion von Fakten oder Methoden oder einfache Wissensabfragen) abstellen, aufgrund der Verfügbarkeit KI-basierter Instrumente für den Prüfungsalltag zunehmend unbrauchbar werden. Dieser Umstand ist aber nicht neu. Prüfungsleistungen, wie eine rein deskriptive und auf vorhandener Literatur basierte Hausarbeit, entsprechen ggf. bereits heute nicht immer den Anforderungen an eine Kompetenzorientierung. Hierauf weist der Wissenschaftsrat in seinen Empfehlungen für eine zukunftsfähige Ausgestaltung von Studium und Lehre hin. Auch wenn die Vermittlung (und ggf. Abfrage) von Wissen ein elementarer Bestandteil der Hochschulbildung ist, werden „die gestiegenen Anforderungen an reflektierte Anwendung von Fachwissen in verschiedenen Kontexten (...) auch die Gestaltung von Prüfungen“ beeinflussen (Wissenschaftsrat, 2022: 35). Zu den Forderungen des Wissenschaftsrates gehört beispielsweise auch, verpflichtende, benotete Prüfungen zu reduzieren und die Bewertung von erworbenen Kompetenzen in den Mittelpunkt zu stellen.
+
+³ Dies sind alle Prüfungsleistungen, die ohne Aufsicht und i.d.R. außerhalb der Hochschulräumlichkeiten stattfinden, z.B. Hausarbeiten, Belege, Projektarbeiten.
+
+5
+
+---
+
+## Empfehlungen
+
+Unabhängig davon geben Gimpel et al. (2023) verschiedene Empfehlungen für den Umgang mit Prüfungen. Auf Basis einer kompakten Übersetzung der HS Emden/Leer wurden diese Empfehlungen von der HTWK-internen AG ergänzt und gemäß der hochschulweiten Diskussion weiterentwickelt. Weitere Details können der Originalquelle entnommen werden. Inwieweit die Umsetzung dieser Empfehlungen sinnvoll oder möglich ist, obliegt dem einzelnen Lehrenden.
+
+### Empfehlung 1: Überarbeiten Sie Ihre Prüfungsformate.
+
+Sogenannte „Closed-Book-Prüfungen“, bei denen die Studierenden von Hand schreiben (als Klausur oder am Computer in einer kontrollierten Umgebung ohne Internetzugang), könnten in Zukunft die einfachste Möglichkeit sein, das Wissen der Studierenden zu überprüfen. Bei der Nutzung dieser Prüfungsformate ist aber besonders darauf zu achten, nicht nur Faktenwissen abzufragen, sondern auch höhere Kompetenzniveaus (verstehen, anwenden, analysieren, beurteilen, kreieren) mit den Aufgabenstellungen zu adressieren.
+
+Generell kann man davon ausgehen, dass kreative, handlungsorientierte und kommunikative Prüfungsformen von Täuschungsversuchen mithilfe von KI-Programmen weniger betroffen sind. Textgenerierende Programme wie ChatGPT werden auf bestimmte Muster und vorhandene Texte trainiert. Dies begrenzt die Fähigkeit, neue Inhalte oder Ideen zu produzieren. Mit Prüfungsformaten, die ein Denken über traditionelle Grenzen hinaus erfordern, können solche Programme oft noch nicht umgehen. Überprüfen Sie im besten Fall vorher selbst, ob Ihre Aufgabenstellung von einem KI-Programm gelöst werden kann. Entwickeln Sie Prüfungsformate gemäß den Lernzielen Ihrer Lehre, die die Fähigkeiten der Studierenden zu kreativem und kritischem Denken fördern. Hierzu gehören u.a. kooperative Gruppenprojekte, bei denen die Studierenden in Teams zusammenarbeiten, um eine bestimmte Aufgabe bzw. ein Projekt abzuarbeiten, oder die Aufforderung, den Lernprozess schriftlich oder mündlich zu reflektieren. Hierbei sind immer die gültigen Rahmenbedingungen der Prüfungsordnungen einzuhalten.
+
+Eine weitere Möglichkeit ist die Ergänzung schriftlicher Prüfungen durch weitere Prüfungselemente. So können durch die Prüfungsordnung Prüfungsformen vorgesehen werden, die eine (längere) schriftliche Ausarbeitung, wie z.B. eine Seminararbeit, um eine mündliche Prüfungsform ergänzen, im Sinne einer kurzen Disputation der wesentlichen Ergebnisse. Im Gegenzug könnte die Länge der schriftlichen Ausarbeitung reduziert werden, um den Mehraufwand auszugleichen. Generell können bestehende Prüfungsformen erweitert und angepasst werden, um Leistungsüberprüfungen weiterhin kompetenzorientiert und rechtssicher zu gewährleisten.
+
+Die Hochschuldidaktik-Mitarbeiterinnen der HTWK Leipzig sowie das Hochschuldidaktische Zentrum Sachsen (HDS) bieten Informationen zu kompetenzorientierten Prüfungsszenarien und beraten gern bei der bedarfsgerechten Implementierung in die Lehre.
+
+6
+
+---
+
+## Empfehlung 2: Fordern Sie Selbständigkeitserklärungen ein.⁴
+
+Erklärungen der Studierenden, ob spezielle Tools verwendet wurden oder nicht, erhöhen die Verbindlichkeit und verdeutlichen die Konsequenzen bei Fehlverhalten. Bei Abschlussarbeiten ist dieses Vorgehen durch die Abgabe von Selbständigkeitserklärungen seit langem üblich und durch die SPOs vorgeschrieben. Diese Vorgehensweise ist auch für Hausarbeiten und andere örtlich ungebundene Arbeiten zulässig. Aus Transparenzgründen sollte jedoch sukzessive in die Prüfungsordnungen eine ausdrückliche Regelung eingefügt werden, nach der Selbständigkeitserklärungen auch für Hausarbeiten und andere örtlich ungebundene Arbeiten eingefordert werden können. Darüber hinaus können die Studierenden aufgefordert werden, eine Liste der verwendeten Eingabeaufforderungen bereitzustellen bzw. eine vollständige Abschrift der Interaktion mit einem KI-Programm zur Verfügung zu stellen, die ihre Arbeit beeinflusst haben.
+
+## Empfehlung 3: Formulieren Sie klare Rahmenbedingungen für den Einsatz von KI.
+
+Die Einführung transparenter Regeln für die Nutzung von KI in Ihren Lehrveranstaltungen oder Prüfungssituationen ist ein entscheidender Schritt zur Förderung eines Lernumfelds, in dem Studierende verantwortlich mit KI-basierten Instrumenten umgehen können.
+
+Formulieren Sie mit der Aufgabenstellung, ob der Einsatz von KI-Tools erlaubt ist oder nicht. Sofern keine ausdrückliche Regelung getroffen wird, muss Folgendes zu Gunsten des Prüflings angenommen werden: In Aufsichtsarbeiten/Präsenzprüfungen ist der Einsatz von KI-Tools grundsätzlich verboten, wenn er nicht ausdrücklich erlaubt ist. Im Gegensatz dazu gilt für ortsungebundene Arbeiten, dass der Einsatz erlaubt ist, sofern kein Verbot ausgesprochen wurde oder die Regeln für die Nutzung von KI-Tools spezifiziert wurden. Studierende können in der Regel im Rahmen von Studien- und Prüfungsleistungen nicht dazu verpflichtet werden, selbst Eingaben an KI-Tools zu tätigen, diese selbst zu nutzen oder eigene Leistungen oder Daten in diesen Tools verarbeiten zu lassen.
+
+Sofern der Einsatz von KI-Tools erlaubt wird, empfiehlt es sich, in der Aufgabenstellung auf folgende Aspekte hinzuweisen bzw. diese zu regeln:
+
+- Die Verwendung von KI muss transparent gemacht werden, um die Nachvollziehbarkeit der Ergebnisse zu gewährleisten (Vorgaben zu Quelle, Abrufdatum, Eingaben)
+- Die KI sollte nur als Hilfsmittel zur Unterstützung eingesetzt werden. Hierzu gehört insbesondere ihr Einsatz zur Verbesserung der Lesbarkeit und der Sprache. Sie sollte vor allem nicht verwendet werden, um Arbeitshypothesen aufzustellen, ganze Abschnitte zu schreiben, Daten zu interpretieren oder Schlussfolgerungen zu ziehen. Alle Aufgaben, die unter intellektuelle Beiträge fallen, sollten von den Studierenden selbst durchgeführt werden.⁵ Bei einem darüber hinausgehenden Einsatz von KI-Tools (z.B. zur Erzeugung von Skripten, Programmcode, etc.) sollten die Ergebnisse der KI-Ausgaben in der Arbeit diskutiert und bewertet werden.
+- Der Einsatz von KI-Tools kann datenschutzrechtlichen Bedenken unterliegen. Der Einsatz durch den Verfasser der Arbeit erfolgt freiwillig und auf eigenes Risiko.
+
+⁴ Siehe hierzu auch die Mustertexte der Selbständigkeitserklärung im Anhang.
+
+⁵ Übersetzt und adaptiert aus https://onlinelibrary.wiley.com/doi/full/10.1002/ima.22902
+
+7
+
+---
+
+#### Empfehlung 4: Intensivieren Sie – wenn möglich – den Betreuungsprozess.
+
+Lehrende sollten nicht nur die abgegebene Prüfungsleistung berücksichtigen, sondern durch eine engere Betreuung das erworbene Fachwissen während der Aufgabenbearbeitung einschätzen können. Gimpel et al. (2023) kommen zu dem Ergebnis, dass es bestenfalls keine Bearbeitung von Prüfungsaufgaben ohne Supervision geben sollte bzw. regelmäßige Informationen zu den einzelnen Arbeitsschritten während des Prozesses verlangt werden sollten. Bei empirischen Arbeiten sollte auf die Qualität des Studiendesigns und die sorgfältige Durchführung der Feldforschung geachtet werden.
+
+#### Empfehlung 5: Überdenken Sie Ihre Bewertungskriterien.
+
+Struktur und Schreibstil von Texten, die durch Sprachmodelle generiert oder verändert werden, sind tendenziell gut. Für die Bewertung einer Prüfungsaufgabe sind diese Aspekte daher – wie häufig auch unabhängig von einem möglichen KI-Einsatz – nicht ausreichend. Stattdessen sollten die Qualität und Individualität der Forschungsfrage, die Passung zum gestellten Thema, die Qualität des theoretischen Hintergrunds (einschließlich angemessener Quellen), die verwendeten Theorien und Methoden, die eigenen (theoretischen, empirischen oder technischen) Beiträge, die über die reine Zusammenfassung von Literatur hinausgehen, sowie die Reflexion der Ergebnisse stärker gewichtet werden. In diesem Zusammenhang bietet es sich ggf. auch an, dass Sie die vorgesehenen Aufgaben bzw. Themen einmal selbst mithilfe von KI-Tools erproben und die Ergebnisse einer kritischen Bewertung unterziehen.
+
+#### Empfehlung 6: Fördern Sie einen kompetenten Umgang der Studierenden mit KI-Tools.
+
+Die Verwendung von KI-Tools kann dazu beitragen, die akademischen Leistungen der Studierenden zu verbessern. Da nicht alle Studierenden über die gleichen Sprachfähigkeiten verfügen, kann die Nutzung von z. B. KI-basierter Paraphrasierung die Gerechtigkeit im Bildungsumfeld fördern. Darüber hinaus kann ihre Nutzung in fachlicher Hinsicht besonders in einigen Disziplinen (z. B. im Kontext der Implementierung von Analysen, Skripten, Programmcode, etc.) zu einem besonders effektiven und individualisierten Lernprozess beitragen, bspw. durch Möglichkeiten zur schnellen prototypischen Umsetzung. Allerdings müssen die Studierenden für die Anwendung geschult und beispielsweise im Hinblick auf die Replikation möglicher Vorurteile durch KI oder die Verletzung geistigen Eigentums sensibilisiert werden. Im Sinne der Befähigung für zukünftige Herausforderungen in Gesellschaft und Arbeitswelt sollten Studierende mindestens ein einfaches Verständnis davon entwickeln, wie KI-Anwendungen grundlegend funktionieren und welche sozialen, ökonomischen und gesellschaftlichen Veränderungen diese mit sich bringen. In geeigneten Fächern im Studium (insbesondere in technischen Studiengängen) sollten weitergehende Kompetenzen vermittelt werden, die z. B. folgende Aspekte umfassen können: Technikfolgenabschätzung durch den Einsatz von KI-Tools, Datensicherheit/Datenschutz und Ethik, Funktionsweisen und Trainingsmechanismen bis hin zur eigenen (Weiter-)Entwicklung allgemeiner und fachspezifischer KI-Tools.
+
+#### Empfehlung 7: Beobachten Sie die Entwicklungen zur Integration von KI-Tools in allgemeine oder fachspezifische Standardsoftware.
+
+Auch bei klassischer Software wie Schreib-, Bildbearbeitungs- und Präsentationsprogrammen sowie in fachspezifischen Softwarepaketen ist ein zunehmender Trend zu KI-Assistenzen zu bemerken beziehungsweise ist eine Integration von KI-Tools angekündigt. Das bedeutet, dass künftig die Identifikation
+
+8
+
+---
+
+von KI-unterstützten Anteilen in studentischen Arbeiten noch schwieriger werden wird. Halten Sie sich diesbezüglich auf dem Laufenden, probieren Sie aus, was in allgemeiner oder spezifischer Software Ihres Fachgebiets in den neuesten Versionen möglich ist, und passen Sie Prüfungsformate, Lehrformate aber auch Aufgabenstellungen im Sinne der obigen Empfehlungen an (z. B. durch Reflexionsaufgaben und Methodendiskussion unter Einbeziehung der genutzten Assistenzen).
+
+9
+
+---
+
+## Vorläufige datenschutzrechtliche Beurteilung
+
+Für KI gelten die allgemeinen Datenschutz-Regeln: zur Informationspflicht gegenüber Betroffenen, zur Verantwortlichkeit derjenigen Stellen, die KI einsetzen (nicht der KI-Anbieter), zur Dokumentationspflicht (nach Art. 30 DSGVO und ggf. Vereinbarungen nach Art. 26 oder 28 DSGVO), zur Gewährleistung eines der DSGVO vergleichbaren Datenschutzniveaus bei Verarbeitung außerhalb des EWR (in „Drittstaaten“), ggf. die Pflicht zur Datenschutz-Folgenabschätzung aus Art. 35 DSGVO und für sächsische Hochschulen außerdem die Vorgaben aus § 14 SächsHSFG.
+
+Wegen der Komplexität der Software und der Datenverarbeitung bei KI bereiten diese Regeln durchweg besondere Schwierigkeiten. Datenschutzrechtliche Transparenz bietet derzeit keines der bekannten KI-Tools. Damit sind die Erfüllung von Dokumentations- und Informationspflichten sowie die Risikoabschätzung erheblich erschwert. Zudem behalten sich die meisten Anbieter die Nutzung aller verarbeiteten Daten zur Produktentwicklung vor. Das führt nach der Rechtsprechung des EuGH zur „gemeinsamen Verantwortung“ (Art. 26 DSGVO) von Hochschule und KI-Anbieter. Von den KI-Anbietern werden aber entsprechende Verträge nicht angeboten/abgeschlossen. Auch Verträge zur Auftragsverarbeitung (Art. 28 DSGVO) sind oft nur in den kostenpflichtigen Versionen verfügbar (nicht also bei kostenlosem Einsatz per Website-Zugriff). Daher kommt ein verpflichtender KI-Einsatz (z.B. vorgeschriebene Nutzung in Studienleistungen oder für Prüfungen/für Prüfungsleistungen) nicht in Frage.
+
+Bei entsprechender Information und Einwilligung ist der freiwillige Einsatz möglich. Dabei ist sicherzustellen, dass die Verwendung personenbezogener Daten anderer Menschen unterbleibt. Ferner sollte jede Nutzung in dem klaren Bewusstsein erfolgen, dass bei Eingabe oder Nutzung eigener Daten die Verwendung durch den Anbieter nicht kontrolliert werden kann.
+
+## Ausblick
+
+Perspektivisch werden sich weitere Diskussions- und Entwicklungspunkte aus dem hochschulinternen wie gesellschaftlichen Diskurs ergeben. Hier bisher unberücksichtigt ist beispielsweise die Frage, wie Studierende KI-Tools in ihren Selbstlernphasen sicher und reflektiert einsetzen können. In Zusammenarbeit mit den studentischen Vertretungen könnten hier Anregungen für einen lernförderlichen und wissenschaftlich redlichen Umgang formuliert werden.
+
+Wir sind zuversichtlich, dass sich unsere Hochschule der Herausforderungen rund um KI-basierte Instrumente in der Lehre, beim Lernen und für Prüfungen reflektiert annehmen wird.
+
+10
+
+---
+
+## Literatur
+
+EUROPÄISCHE KOMMISSION (2021): Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz (Gesetz über künstliche Intelligenz) und zur Änderung bestimmter Rechtsakte der Union, verfügbar unter https://artificialintelligenceact.eu/the-act/
+
+FRIEDRICH, J.-D.; Tobor, J. (2023): Zur Bedeutung von ChatGPT & der Notwendigkeit eines progressiven Umgangs mit neuen KI-Technologien im Hochschulbereich. Ein Zwischenstand in 6 Thesen, verfügbar unter https://hochschulforumdigitalisierung.de/de/blog/chat-gpt-6-thesen
+
+GIMPEL, H., Hall, K., Decker, S., Eymann, T., Lämmermann, L., Mädche, A., Röglinger, R., Ruiner, C., Schoch, M., Schoop, M., Urbach, N., Vandirk, S. (2023). Unlocking the Power of Generative AI Models and Systems such as GPT-4 and ChatGPT for Higher Education: A Guide for Students and Lecturers. University of Hohenheim, March 20, 2023, http://opus.uni-hohenheim.de/volltexte/2023/2146/pdf/dp_2023_02_online.pdf
+
+HOCHSCHULE EMDEN/LEER: Umgang mit ChatGPT und anderen generativen KI-Tools an der Hochschule Emden/Leer. Ein Positionspapier. Version 10 vom 30.03.2023, verfügbar unter: https://www.hs-emden-leer.de/fileadmin/user_upload/cd/Positionspapier_KI_Tools_V10.pdf
+
+HOCHSCHULFORUM DIGITALISIERUNG (2023): ChatGPT im Hochschulkontext – eine kommentierte Linksammlung, Blogbeitrag vom 20.01.2023, https://hochschulforumdigitalisierung.de/de/blog/chatgpt-im-hochschulkontext-%E2%80%93-eine-kommentierte-linksammlung
+
+KULTUSMINISTERKONFERENZ (2017): Musterrechtsverordnung gemäß Artikel 4 Absätze 1–4 Studienakkreditierungsstaatsvertrag, Beschluss der Kultusministerkonferenz vom 07.12.2017, verfügbar unter https://www.akkreditierungs-rat.de/sites/default/files/downloads/2019/Musterrechtsverordnung.pdf
+
+LESCHKE, J.; Salden, P. (2023): Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung, Ruhr-Universität Bochum, verfügbar unter https://hss-opus.ub.ruhr-uni-bochum.de/opus4/fi-les/9734/2023_03_06_Didaktik_Recht_KI_Hochschulbildung.pdf
+
+STRATHMANN, M. (2022): KI ChatGPT: Die wichtigsten Fragen und Antworten zum neuen Chatbot, Blogbeitrag vom 15.12.2022, https://www.heise.de/news/Chat-GPT-Die-wichtigsten-Fragen-und-Antworten-zum-neuen-Chatbot-7394494.html
+
+TU MÜNCHEN, ProLehre | Medien und Didaktik Technische Universität München „Einsatz von ChatGPT in der Lehre“ Stand: 31.01.2023 https://www.prolehre.tum.de/fileadmin/w00btq/www/Angebote_Broschueren_Handreichungen/prolehre-handreichung-chatgpt-v2.2.pdf
+
+WEBELS, D.; Mundorf, M.; Wilder, N. (2022): ChatGPT ist erst der Anfang, Blogbeitrag vom 19.12.2022, https://hochschulforumdigitalisierung.de/de/blog/Chat-GPT-erst-der-anfang
+
+WISSENSCHAFTSRAT (2022): Empfehlungen für eine zukunftsfähige Ausgestaltung von Studium und Lehre, verfügbar unter https://www.wissenschaftsrat.de/down-load/2022/9699-22.html
+
+11
+
+---
+
+# Muster einer Selbständigkeitserklärung bei erlaubtem Einsatz von KI-Tools:
+
+## Selbständigkeitserklärung
+
+Name, Vorname:
+
+Matr.-Nr.:
+
+Prüfungsnummer:
+
+Prüfungsform:
+
+Ausgabedatum:
+
+Bearbeitungszeitraum:
+
+Ich erkläre hiermit, dass ich die vorliegende Arbeit selbstständig und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe; die aus fremden Quellen (einschließlich elektronischer Quellen und dem Internet) direkt oder indirekt übernommenen Gedanken sind ausnahmslos als solche kenntlich gemacht.
+
+Ich versichere, dass ich alle Stellen, die wörtlich oder annähernd wörtlich aus Veröffentlichungen entnommen sind, durch Zitate als solche gekennzeichnet habe. Dies gilt auch für Textpassagen, die manuell oder mittels digitaler Übersetzungshilfen aus einer anderen Sprache übersetzt oder hin- und rückübersetzt wurden.
+
+Ferner versichere ich, Textpassagen, bildliche Darstellungen oder anderweitige generierte Ergebnisse, die mittels Künstlicher Intelligenz verfasst oder erstellt wurden, von mir vollständig markiert wurden und die Zugriffsquelle, Datum und Eingabeparameter (Prompts) von mir vollständig angegeben wurden.
+
+Ich versichere auch, dass eine von mir gegebenenfalls eingereichte papierförmige Version mit der digitalen Version übereinstimmt.
+
+Unerlaubte Hilfsmittel wurden von mir nicht verwendet und auch keine unerlaubte Hilfe durch dritte Personen in Anspruch genommen.
+
+Die Arbeit wurde bisher weder im Inland noch im Ausland in gleicher oder ähnlicher Form einer anderen Prüfungsbehörde vorgelegt und auch noch nicht physisch oder elektronisch veröffentlicht.
+
+Ich erkläre mich damit einverstanden, dass die Digitalversion dieser Arbeit zwecks Plagiatsprüfung auf die Server externer Anbieter hochgeladen werden darf. Die Plagiatsprüfung stellt keine Zurverfügungstellung für die Öffentlichkeit dar.
+
+Eine Veröffentlichungserlaubnis ist einer besonderen Erklärung vorbehalten.
+
+Ort, Datum
+
+Vorname, Name (Unterschrift)
+
+12
+
+---
+
+# Muster einer Selbständigkeitserklärung bei Verbot von KI-Tools:
+
+## Selbständigkeitserklärung
+
+Name, Vorname:
+
+Matr.-Nr.:
+
+Prüfungsnummer:
+
+Prüfungsform:
+
+Ausgabedatum:
+
+Bearbeitungszeitraum:
+
+Ich erkläre hiermit, dass ich die vorliegende Arbeit selbstständig und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe; die aus fremden Quellen (einschließlich elektronischer Quellen und dem Internet) direkt oder indirekt übernommenen Gedanken sind ausnahmslos als solche kenntlich gemacht.
+
+Ich versichere, dass ich alle Stellen, die wörtlich oder annähernd wörtlich aus Veröffentlichungen entnommen sind, durch Zitate als solche gekennzeichnet habe. Dies gilt auch für Textpassagen, die manuell oder mittels digitaler Übersetzungshilfen aus einer anderen Sprache übersetzt oder hin- und rückübersetzt wurden.
+
+Ferner versichere ich, dass ich keinerlei Textpassagen, bildliche Darstellungen oder anderweitige Ergebnisse, die mittels Künstlicher Intelligenz generiert wurden, zur Erstellung der Arbeit genutzt habe.
+
+Ich versichere auch, dass eine von mir gegebenenfalls eingereichte papierförmige Version mit der digitalen Version übereinstimmt.
+
+Unerlaubte Hilfsmittel wurden von mir nicht verwendet und auch keine unerlaubte Hilfe durch dritte Personen in Anspruch genommen.
+
+Die Arbeit wurde bisher weder im Inland noch im Ausland in gleicher oder ähnlicher Form einer anderen Prüfungsbehörde vorgelegt und auch noch nicht physisch oder elektronisch veröffentlicht.
+
+Ich erkläre mich damit einverstanden, dass die Digitalversion dieser Arbeit zwecks Plagiatsprüfung auf die Server externer Anbieter hochgeladen werden darf. Die Plagiatsprüfung stellt keine Zurverfügungstellung für die Öffentlichkeit dar.
+
+Eine Veröffentlichungserlaubnis ist einer besonderen Erklärung vorbehalten.
+
+Ort, Datum
+
+Vorname, Name (Unterschrift)
+
+13

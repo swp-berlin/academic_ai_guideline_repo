@@ -631,7 +631,7 @@
   category: guideline
   slug: hochschule-zittau-gorlitz
 - institution: HTWK Leipzig
-  url: https://idll.htwk-leipzig.de/digital-distanzlehre/kuenstliche-intelligenz/einfuehrung
+  url: https://idll.htwk-leipzig.de/fileadmin/portal/htwk/hochschule/03_struktur_und_verwaltung/a_hochschulleitung/3_pb/ueber_den_prorektor_bildung/Hochschuldidaktik_/2023-07-17_Diskussionspapier_KI.pdf
   date: '2023-07-17'
   version: '1_0'
   superseded: null
@@ -684,7 +684,7 @@
   version: '1_0'
   superseded: null
   notes: null
-  category: code-of-conduct
+  category: guideline
   slug: d-64
 - institution: Institute for Government
   url: https://www.instituteforgovernment.org.uk/ai-use
@@ -702,3 +702,43 @@
   notes: not really on AI, but rather generally on Algorithms
   category: template
   slug: bertelsmann-stiftung
+- institution: Albanian Media Institute 
+  url: https://institutemedia.org/wp-content/uploads/2025/10/GUIDELINES-FOR-ETHICAL-USE-OF-ARTIFICIAL-INTELLIGENCE-IN-ALBANIAN-MEDIA.pdf
+  date: '2026-07-02'
+  version: "1_0"
+  superseded: null
+  notes: Guidelines for ethical use of artificial intelligence in Albanian media.
+  category: guideline
+  slug: albanian-media-institute
+- institution: APRI Armenia
+  url: https://apri.institute/statement-on-ethical-genai-use/
+  date: '2026-03-13'
+  version: '1_0'
+  superseded: null
+  notes: Statement on ethical generative AI use.
+  category: guideline
+  slug: apri-armenia
+- institution: TENK
+  url: https://tenk.fi/sites/default/files/2026-06/Artificial%20Intelligence%20in%20Research.%20TENK%27s%20Recommendation%202026.pdf
+  date: '2026-01-01'
+  version: '1_0'
+  superseded: null
+  notes: Recommendation on artificial intelligence in research by TENK.
+  category: guideline
+  slug: tenk
+- institution: NWO
+  url: https://www.nwo.nl/sites/nwo/files/media-files/nwo_policy_on_the_use_of_generative_ai_en_0.pdf
+  date: '2025-01-01'
+  version: '1_0'
+  superseded: null
+  notes: Policy on the use of generative AI by NWO.
+  category: guideline
+  slug: nwo
+- institution: International Red Cross Committee
+  url: https://shop.icrc.org/building-a-responsible-humanitarian-approach-the-icrc-s-policy-on-artificial-intelligence-pdf-en.html
+  date: '2024-11-01'
+  version: '1_0'
+  superseded: null
+  notes: Policy on artificial intelligence by the International Red Cross Committee.
+  category: guideline
+  slug: international-red-cross-committee
