@@ -10,7 +10,7 @@
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html { scroll-behavior: smooth; }
-  body { background: #18181b; color: #e4e4e7; font-family: system-ui, -apple-system, sans-serif; }
+  body { background: #18181b; color: #e4e4e7; font-family: system-ui, -apple-system, sans-serif; overflow-x: hidden; }
   #root { min-height: 100vh; }
   mark { background: #fbbf24; color: #18181b; padding: 0 1px; border-radius: 2px; }
   input:focus, select:focus, button:focus { border-color: #0ea5e9 !important; outline: none; }
@@ -40,8 +40,12 @@
   .toc-empty { font-size: 12px; color: #52525b; font-style: italic; }
   @media (max-width: 700px) { .toc-grid { column-count: 1; } }
   .disclaimer { margin-top: 14px; border: 1px solid #3f3f46; border-left: 3px solid #f59e0b; border-radius: 7px; background: rgba(245, 158, 11, 0.06); padding: 10px 13px; }
+  .disclaimer > summary { list-style: none; display: flex; align-items: center; gap: 6px; font-size: 11.5px; font-weight: 600; color: #fbbf24; cursor: pointer; }
+  .disclaimer > summary::-webkit-details-marker { display: none; }
+  .disclaimer > summary::before { content: "\25B8"; font-size: 10px; transition: transform 0.15s; }
+  .disclaimer[open] > summary::before { transform: rotate(90deg); }
   .disclaimer strong { color: #fbbf24; font-weight: 600; }
-  .disclaimer p { font-size: 11.5px; line-height: 1.55; color: #b4b4bb; margin: 0; }
+  .disclaimer p { font-size: 11.5px; line-height: 1.55; color: #b4b4bb; margin: 7px 0 0; overflow-wrap: break-word; word-break: break-word; }
   .disclaimer .ai { color: #e4e4e7; font-weight: 600; }
   .ref-grid { column-count: 2; column-gap: 16px; }
   .ref-card { break-inside: avoid; border: 1px solid #27272a; border-radius: 8px; padding: 11px 13px; background: #111113; margin-bottom: 14px; display: inline-block; width: 100%; }
@@ -91,7 +95,9 @@
   .segment-code { font-size: 10px; font-weight: 600; padding: 1px 5px; border-radius: 3px; }
   .segment-label { font-size: 11px; color: #a1a1aa; }
   .segment-inst { font-size: 11px; color: #52525b; margin-left: auto; }
-  .segment-text { font-size: 13.5px; line-height: 1.6; margin: 0; color: #d4d4d8; }
+  .segment-text { font-size: 13.5px; line-height: 1.6; margin: 0; color: #d4d4d8; overflow-wrap: break-word; word-break: break-word; }
+  .main { min-width: 0; }
+  .ref-name, .ref-line, .ref-mention, .toc-item, .toc-card-title, .segment-label { overflow-wrap: break-word; word-break: break-word; }
   .no-results { text-align: center; padding: 40px; color: #52525b; font-size: 13px; }
   .loading { display: flex; justify-content: center; padding: 60px; color: #71717a; font-size: 14px; }
   .error { max-width: 560px; margin: 40px auto; padding: 20px; }
@@ -118,7 +124,7 @@
   .unmatched-header { display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
   .unmatched-flag { font-size: 10px; color: #ef4444; margin-left: auto; font-weight: 600; }
   @media (max-width: 980px) {
-    .layout { grid-template-columns: 1fr; }
+    .layout { grid-template-columns: minmax(0, 1fr); }
     .sidebar { order: -1; }
   }
 </style>
@@ -132,9 +138,9 @@ const BC = {
   B2:  { bg: "#f3e8ff", border: "#8b5cf6", text: "#5b21b6" },
   B3:  { bg: "#e0f2fe", border: "#0ea5e9", text: "#075985" },
   B4:  { bg: "#ccfbf1", border: "#14b8a6", text: "#115e59" },
-  B5:  { bg: "#dcfce7", border: "#22c55e", text: "#14532d" },
-  B6:  { bg: "#fee2e2", border: "#ef4444", text: "#7f1d1d" },
-  B7:  { bg: "#fef3c7", border: "#f59e0b", text: "#78350f" },
+  B5:  { bg: "#fef3c7", border: "#f59e0b", text: "#78350f" },
+  B6:  { bg: "#dcfce7", border: "#22c55e", text: "#14532d" },
+  B7:  { bg: "#fee2e2", border: "#ef4444", text: "#7f1d1d" },
   B8:  { bg: "#fce7f3", border: "#ec4899", text: "#831843" },
   B9:  { bg: "#ffedd5", border: "#f97316", text: "#7c2d12" },
   B10: { bg: "#cffafe", border: "#06b6d4", text: "#155e75" },
@@ -142,6 +148,8 @@ const BC = {
 };
 const DC = { bg: "#f4f4f5", border: "#a1a1aa", text: "#52525b" };
 const getColor = c => BC[c] || DC;
+const codeNum = c => (c || "").replace(/^B/i, "");
+const isMobile = () => window.matchMedia("(max-width: 980px)").matches;
 const HIDDEN_CODES = new Set(["B13"]);
 const REPO_URL = "https://github.com/swp-berlin/academic_ai_guideline_repo";
 
@@ -284,12 +292,14 @@ function buildHeader() {
 function buildDisclaimer() {
   const model = (state.data.references_meta && state.data.references_meta.method
     && /via\s+(.+)$/.exec(state.data.references_meta.method)?.[1]) || "mistral-large-latest";
-  const box = document.createElement("div");
+  const box = document.createElement("details");
   box.className = "disclaimer";
-  box.innerHTML = `<p><strong>How to read this:</strong> Source documents were downloaded and their
+  box.open = !isMobile();
+  box.innerHTML = `<summary>How to read this</summary>
+    <p>Source documents were downloaded and their
     text extracted via OCR, then cleaned — those two steps were <strong>visually confirmed for
     accuracy</strong>. Everything downstream is <span class="ai">AI-generated and not yet manually
-    validated</span>: the B-code tagging/coding, the tables of contents, and the reference extraction
+    validated</span>: the code tagging/coding, the tables of contents, and the reference extraction
     were all produced automatically with <span class="ai">${model}</span> (July&nbsp;2026). Treat coded
     segments, tables of contents and references as provisional research material.</p>`;
   return box;
@@ -415,7 +425,7 @@ function renderOverview(root) {
         code.className = "segment-code";
         code.style.background = color.bg;
         code.style.color = color.text;
-        code.textContent = seg.B;
+        code.textContent = codeNum(seg.B);
         segHeader.appendChild(code);
 
         const label = document.createElement("span");
@@ -448,38 +458,10 @@ function renderOverview(root) {
   const sidebar = document.createElement("aside");
   sidebar.className = "sidebar";
 
-  const sidebarHeader = document.createElement("div");
-  sidebarHeader.style.display = "flex";
-  sidebarHeader.style.alignItems = "center";
-  sidebarHeader.style.justifyContent = "space-between";
-  sidebarHeader.style.marginBottom = "8px";
-
   const sidebarTitle = document.createElement("h3");
   sidebarTitle.className = "sidebar-title";
-  sidebarTitle.textContent = "Code Results";
-  sidebarHeader.appendChild(sidebarTitle);
-
-  if (state.activeCodes.size > 0) {
-    const clearBtn = document.createElement("button");
-    clearBtn.className = "clear-btn";
-    clearBtn.textContent = "clear";
-    clearBtn.addEventListener("click", () => {
-      state.activeCodes.clear();
-      scheduleRender();
-    });
-    sidebarHeader.appendChild(clearBtn);
-  }
-  sidebar.appendChild(sidebarHeader);
-
-  const hint = document.createElement("p");
-  hint.className = "sidebar-hint";
-  hint.textContent = "Filter by B code. Labels and current result counts are shown below.";
-  sidebar.appendChild(hint);
-
-  const codesDiv = document.createElement("div");
-  codesDiv.style.display = "flex";
-  codesDiv.style.flexDirection = "column";
-  codesDiv.style.gap = "4px";
+  sidebarTitle.textContent = "Filter by code";
+  sidebar.appendChild(sidebarTitle);
 
   const ck = (state.data.codebook ? Object.keys(state.data.codebook) : Object.keys(BC))
     .filter(code => isVisibleCode(code));
@@ -488,55 +470,23 @@ function renderOverview(root) {
     counts[s.B] = (counts[s.B] || 0) + 1;
   });
 
+  const codeControl = document.createElement("div");
+  codeControl.className = "control";
+  const codeSelect = document.createElement("select");
+  codeSelect.appendChild(createOption("", `All codes (${allSegments.length})`));
   ck.forEach(code => {
-    const color = getColor(code);
     const label = state.data.codebook?.[code] || "";
     const count = counts[code] || 0;
-    const btn = document.createElement("button");
-    btn.className = "code-btn";
-    if (state.activeCodes.has(code)) btn.classList.add("active");
-
-    btn.style.borderColor = state.activeCodes.has(code) ? color.border : "transparent";
-    btn.style.background = state.activeCodes.has(code) ? color.bg : "#18181b";
-    btn.style.color = state.activeCodes.has(code) ? color.text : "#a1a1aa";
-
-    const left = document.createElement("span");
-    left.className = "code-btn-left";
-    const dot = document.createElement("span");
-    dot.className = "code-dot";
-    dot.style.background = color.border;
-    left.appendChild(dot);
-
-    const name = document.createElement("span");
-    name.className = "code-name";
-    name.textContent = code;
-    left.appendChild(name);
-
-    const labelSpan = document.createElement("span");
-    labelSpan.className = "code-label";
-    labelSpan.textContent = label;
-    left.appendChild(labelSpan);
-
-    btn.appendChild(left);
-
-    const countSpan = document.createElement("span");
-    countSpan.className = "code-count";
-    countSpan.textContent = count;
-    btn.appendChild(countSpan);
-
-    btn.addEventListener("click", () => {
-      if (state.activeCodes.has(code)) {
-        state.activeCodes.delete(code);
-      } else {
-        state.activeCodes.add(code);
-      }
-      scheduleRender();
-    });
-
-    codesDiv.appendChild(btn);
+    codeSelect.appendChild(createOption(code, `${codeNum(code)} — ${label} (${count})`));
   });
-
-  sidebar.appendChild(codesDiv);
+  codeSelect.value = state.activeCodes.size === 1 ? [...state.activeCodes][0] : "";
+  codeSelect.addEventListener("change", (e) => {
+    state.activeCodes.clear();
+    if (e.target.value) state.activeCodes.add(e.target.value);
+    render();
+  });
+  codeControl.appendChild(codeSelect);
+  sidebar.appendChild(codeControl);
 
   const explainer = document.createElement("div");
   explainer.className = "sidebar-explainer";
@@ -896,7 +846,7 @@ function renderDocView(root, doc) {
         code.className = "segment-code";
         code.style.background = color.bg;
         code.style.color = color.text;
-        code.textContent = span.B;
+        code.textContent = codeNum(span.B);
         spanHeader.appendChild(code);
 
         const label = document.createElement("span");
@@ -934,7 +884,7 @@ function renderDocView(root, doc) {
       code.className = "segment-code";
       code.style.background = color.bg;
       code.style.color = color.text;
-      code.textContent = seg.B;
+      code.textContent = codeNum(seg.B);
       segHeader.appendChild(code);
 
       const label = document.createElement("span");
@@ -987,7 +937,7 @@ function renderDocView(root, doc) {
       code.className = "segment-code";
       code.style.background = color.bg;
       code.style.color = color.text;
-      code.textContent = seg.B;
+      code.textContent = codeNum(seg.B);
       cardHeader.appendChild(code);
 
       const label = document.createElement("span");
