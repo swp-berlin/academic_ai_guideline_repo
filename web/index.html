@@ -52,7 +52,10 @@
   .ref-line { font-size: 11.5px; line-height: 1.5; color: #a1a1aa; margin: 3px 0; }
   .ref-line .k { color: #71717a; }
   .ref-variant { color: #d4d4d8; }
-  .ref-mention { font-size: 11px; line-height: 1.5; color: #8b8b95; font-style: italic; margin-top: 6px; border-top: 1px solid #27272a; padding-top: 6px; }
+  .ref-mentions { margin-top: 6px; border-top: 1px solid #27272a; padding-top: 6px; }
+  .ref-mention { font-size: 11px; line-height: 1.5; color: #8b8b95; font-style: italic; margin-top: 5px; }
+  .ref-mention:first-child { margin-top: 0; }
+  .ref-mention-src { font-style: normal; font-weight: 600; color: #71717a; margin-right: 4px; }
   @media (max-width: 700px) { .ref-grid { column-count: 1; } }
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 16px; align-items: start; }
   .sidebar { border: 1px solid #27272a; border-radius: 8px; padding: 10px; background: #111113; }
@@ -687,7 +690,8 @@ function renderReferencesView(root) {
       (r.variants || []).some(hit) ||
       hit(r.type) ||
       (r.doc_ids || []).some(id => hit(labelFor(id))) ||
-      hit(r.example_mention)
+      hit(r.example_mention) ||
+      (r.example_mentions || []).some(m => hit(m.quote))
     );
   }
 
@@ -758,11 +762,22 @@ function renderReferencesView(root) {
     by.innerHTML = `<span class="k">referenced by:</span> ${names.join(", ")}`;
     card.appendChild(by);
 
-    if (r.example_mention) {
-      const m = document.createElement("div");
-      m.className = "ref-mention";
-      m.innerHTML = `“${highlightText(r.example_mention, state.refQuery)}”`;
-      card.appendChild(m);
+    const mentions = (r.example_mentions && r.example_mentions.length)
+      ? r.example_mentions
+      : (r.example_mention ? [{ quote: r.example_mention, doc_id: null }] : []);
+    if (mentions.length) {
+      const wrap = document.createElement("div");
+      wrap.className = "ref-mentions";
+      mentions.forEach(mm => {
+        const m = document.createElement("div");
+        m.className = "ref-mention";
+        const src = mm.doc_id
+          ? `<span class="ref-mention-src">${highlightText(labelFor(mm.doc_id), state.refQuery)}</span>`
+          : "";
+        m.innerHTML = `${src}“${highlightText(mm.quote, state.refQuery)}”`;
+        wrap.appendChild(m);
+      });
+      card.appendChild(wrap);
     }
 
     grid.appendChild(card);

@@ -147,7 +147,7 @@ uv run scripts/build_explorer_data.py --output web/explorer_data.json
 After generating `web/explorer_data.json`, serve the repository root:
 
 ```powershell
-python -m http.server 8000
+cd web/ && python -m http.server 8000
 ```
 
 Then open:
